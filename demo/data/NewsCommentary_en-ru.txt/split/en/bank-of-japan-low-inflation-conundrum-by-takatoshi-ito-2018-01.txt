@@ -1,0 +1,61 @@
+<HEADLINE>
+The Bank of Japan’s Moment of Truth
+<P>
+TOKYO – The Japanese economy has enjoyed seven consecutive quarters of positive growth, with the average annual rate reaching 1.9%.
+With aggregate demand exceeding potential output by 1%, the country’s “GDP gap” is now positive.
+Unemployment is down to 2.7%, the lowest level since 1993, and the job-opening-to-application ratio is 1.56, its highest level since 1974, resulting in acute labor shortages in several sectors, including construction, retail, and package delivery.
+And in January this year, the Nikkei Stock Average rose above ¥24,000 ($216), its highest level since 1991.
+<P>
+But, while these indicators suggest that Japan is finally out of the woods of more than two decades of stagnation, deflation, and economic insecurity, the headline inflation rate, at just 0.6%, remains far below the Bank of Japan’s 2% target.
+And, notably, while the BOJ had been attributing low inflation to falling energy prices, energy is now contributing positively to inflation.
+When fresh food is excluded from the price index, the rate rises to 0.9%, but falls to 0.3% when also excluding energy.
+<P>
+Considering the current labor shortages, why Japan has not experienced a healthy wage-inflation spiral remains a mystery.
+To be sure, inflation is also missing in the United States and Europe.
+But the Japanese case is particularly striking.
+Japan’s real economy has been supported for years by fiscal deficits as high as 6% of GDP, and by extraordinary quantitative easing (QE), which BOJ Governor Haruhiko Kuroda introduced in April 2013.
+The debt-to-GDP ratio has since risen to 230%, and the BOJ has assumed ownership of more than 40% of outstanding government bonds (JGBs).
+<P>
+The BOJ has maintained its negative policy rate and 0% ten-year-bond rate by purchasing annually ¥80 trillion in JGBs and ¥6 trillion in equities.
+But, more recently, it has kept the ten-year-bond rate at 0.0-0.1%, while reducing the pace of new purchases of JGBs to around ¥50 trillion, in what some regard as a stealth tapering.
+<P>
+With Kuroda’s term ending in early April, two camps of critics have become increasingly vocal.
+The first camp, arguing that the real economy is what matters, wants the BOJ to stop providing stimulus and start worrying about its bloated balance sheet.
+<P>
+When the inflation rate moves closer to the target, the BOJ will have to start raising its policy and long-term rates without adjusting the size of its balance sheet – which is exactly what the US Federal Reserve is already doing.
+Given the low average coupon rate of asset-side long-term bonds, the upward shift of the yield curve will result in a loss for the BOJ (“negative seigniorage”), at least temporarily.
+In the worst-case scenario, the BOJ could exhaust its capital and require a fiscal injection, which could jeopardize its independence.
+<P>
+Accordingly, the first camp believes the inflation target should be lowered to 1%.
+Inflation would then be on target, and the BOJ could wind down its QE program.
+The major drawback of this approach is that it would cause the yen to appreciate sharply, striking a blow to the real economy.
+<P>
+The second camp believes that more stimulus is needed, and that increasing the consumption-tax (VAT) rate in April 2014 was a huge mistake, as is stealth tapering.
+Instead, QE and expansionary fiscal policies should remain at full throttle until the 2% inflation target is reached.
+That means more government expenditure through more JGB issues, to be purchased by the BOJ – also known as “helicopter money.”
+The problem is that intentionally blowing up the budget deficit will increase the risk of a fiscal crisis down the road, without helping the real economy.
+<P>
+When the BOJ held its latest policy-setting meeting on January 22-23, it maintained the approach it has followed for more than a year.
+Kuroda and his deputy governors are probably hoping that the real economy’s strong performance will translate into higher inflation soon.
+But will it?
+<P>
+Generally, three keys to higher inflation are wage increases, resulting from labor scarcity; expectations of higher future inflation among the public; and a favorable external environment.
+<P>
+With respect to wages, Japanese Prime Minister Shinzo Abe’s government has been pressuring major corporations to raise wages by 3% or more.
+That should be manageable, considering that many corporations are enjoying record profits.
+And yet unions in Japan remain timid, and workers remain traumatized from 15 years of deflation.
+As a result, many choose job security over pay hikes.
+Demanding higher wages, they fear, would give companies an excuse to move operations abroad or adopt labor-replacing technologies.
+<P>
+As for the second ingredient, the BOJ has admitted that it underestimated the difficulty of influencing inflation expectations when it introduced its QE program in April 2013.
+In Japan, the expected inflation rate, however it is measured, tends to track the actual inflation rate, albeit with some lag.
+This helps to explain why simply announcing a 2% target has not anchored the public’s expectations, as it has in the US.
+<P>
+At the same time, the external environment is promising.
+Almost every other advanced economy is experiencing steady, synchronized growth.
+And emerging economies, especially China, have also regained strength.
+At the level of the global economy at least, the stars seem to be aligned for inflation to reach the 2% target rate in Japan, the US, and the eurozone.
+<P>
+In Japan, the Phillips curve tends to be L-shaped.
+Right now, the economy is very close to the kink in the “L,” the point known as the non-accelerating inflation rate of unemployment (NAIRU).
+Any sign of a vertical move (implying higher inflation with an unemployment rate at NAIRU), rather than a horizontal one (a lower unemployment rate without CPI inflation), will be welcomed by the BOJ, and good for the economy at large.

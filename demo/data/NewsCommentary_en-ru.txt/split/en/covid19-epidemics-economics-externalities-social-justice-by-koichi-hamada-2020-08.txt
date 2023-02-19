@@ -1,0 +1,58 @@
+<HEADLINE>
+Epidemics, Economics, and Externalities
+<P>
+NEW HAVEN – COVID-19 and its collateral damage continue to leave a trail of devastation around the world.
+Millions of businesses have closed, with many having no realistic prospect of reopening.
+Millions of people have lost their jobs.
+Millions are without health care.
+Some families are suffering from food insecurity for the first time.
+While the well-to-do can manage by using their savings, those who live from paycheck to paycheck, or hand to mouth, are suffering unfathomable hardships.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The pandemic also poses an almost impossible problem for traditional economic thinking.
+Most economists believe that the price mechanism will allocate resources efficiently, if not equitably, and that competition will maximize national income.
+But this assumes, crucially, that the activities of individuals or firms do not directly affect those of other agents, except through price signals in the market that indicate the scarcity of a product.
+<P>
+Economists refer to these effects as “externalities,” and divide them into external economies and diseconomies, depending on whether they are positive or negative.
+Such externalities prevent resources from being allocated efficiently.
+<P>
+Consider the decision whether or not to wear a face mask.
+In the absence of a pandemic, the demand for and supply of masks reflect the benefit and cost of producing them.
+Mask wearers will be protected from harmful substances in the air, but will incur costs: inconvenience, some discomfort, a possible loss of physical attractiveness, and of course the price of the mask.
+The market will equate the benefit and the cost, and scarce resources will be used in adequate amounts.
+<P>
+But this is not the case when externalities exist, as with COVID-19.
+Today, wearing a mask will deliver many benefits beyond those to the individual mask wearer.
+If the wearer is infected, the mask will prevent transmission of the coronavirus to friends, and further to friends of friends.
+<P>
+Here, the market fails, because the benefit of wearing a mask is far higher than what a single individual would estimate for themselves.
+National or municipal governments must therefore intervene and make it mandatory for all residents to wear one.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+By requiring everyone to wear a mask, rather than leaving the decision to personal choice, a community can better protect itself from the substantial ravages and suffering caused by COVID-19.
+I live in Connecticut, where the state’s governor and his pandemic task force have responded appropriately and done a good job of containing the virus.
+The state has so far been one of the most successful in the United States in terms of infection and mortality rates.
+By contrast, governors of other, mostly southern, states refused to listen to scientists and health experts, and thus did not mandate mask wearing or enforce shelter-in-place orders and social distancing guidelines.
+<P>
+Similar externalities, or technological diseconomies, exist with respect to the environment.
+If a firm freely disposes of a large amount of sewage or air pollutants, then it is not paying the cost of the harm that its discharges or emissions will cause.
+The company is thus producing the substances in far greater quantities than a comparison of social cost and social benefit would deem adequate.
+<P>
+Yet, US President Donald Trump’s neglect and dismantling of environmental regulations encourages such behavior, because it enables many firms to avoid the cost of external diseconomies and impose additional hazards on society.
+Environmental deregulation assumes away the externalities the regulations were intended to address.
+<P>
+This reflects a broader mindset shared by Trump and leading Republicans such as Senate Majority Leader Mitch McConnell.
+It is reflected in a lack of compassion or empathy for others, particularly non-white people and other marginalized groups – many of them US citizens – who are suffering from poverty or illness.
+One can only assume that Trump and those like him are unable to regard others as entitled to comparable concern and respect as those in their wealthy, rarefied circles.
+<P>
+But we can turn for inspiration to Guido Calabresi, the US Circuit Court Judge and Professor Emeritus at Yale Law School who, along with the late Nobel laureate economist Ronald Coase, laid the foundations of the interdisciplinary “law and economics” approach.
+Calabresi highlighted the importance of social justice and the serious impact of sudden income fluctuations on people involved in accidents – very similar to what many are experiencing during the current pandemic.
+<P>
+In his book The Future of Law and Economics, Calabresi explores a new approach that incorporates externalities into consumption.
+In particular, he argues that a legal system which reflects people’s compassion toward one another may help to create a more equitable society.
+<P>
+Calabresi’s idea is especially welcome and enlightening at a time when too many leaders are neglecting the struggles and pain of their fellow citizens.
+Perhaps close study of Calabresi’s argument and propagation of his ideas among policymakers would contribute to fostering a much-needed sense of social solidarity in a world where the self-absorption of some is a threat to all.

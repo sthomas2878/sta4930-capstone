@@ -1,0 +1,43 @@
+<HEADLINE>
+The Open Education Revolution
+<P>
+As the founders of two of the world’s largest open-source media platforms – Wikipedia and Connexions – we have both been accused of being dreamers.
+Independently, we became infected with the idea of creating a Web platform that would enable anyone to contribute their knowledge to free and open learning resources.
+Jimmy started with his popularly generated encyclopedia.
+Rich developed a platform for authors, teachers, and students to create, remix, and share courses and textbooks.
+<P>
+Almost everybody dismissed these dreams.
+Now, with the support of untold legions – from Nobel Laureates to junior high school kids from East Timor to East Los Angeles – Wikipedia and Connexions have spread around the globe and today are organic, growing information bases used by hundreds of millions of people.
+<P>
+We want to infect you with the dream that anyone can become part of a new movement with the potential to change the world of education.
+This movement can redefine forever how knowledge is created and used.
+<P>
+Today, some community college students have to quit school because their textbooks cost more than their tuition; and today, some third graders have to share math texts because there aren’t enough to go around.
+But imagine a world where textbooks and other learning materials are available to everyone for free over the Web and at low cost in print.
+<P>
+Today, language barriers prevent many immigrant parents from helping their children with their homework because the texts are only in English.
+But imagine a world where textbooks are adapted to many learning styles and translated into myriad languages.
+<P>
+Today, Pluto remains on the list of planets in science textbooks, and who knows how long it will take for it to be removed.
+But imagine a world where textbooks are continually updated and corrected by a legion of contributors.
+<P>
+Such a world was just a dream a decade ago.
+But now the puzzle pieces of the Open Education movement have come together, so that anyone, anywhere can write, assemble, customize, and publish their own open course or textbook.
+Open licenses make the materials legal to use and remix.
+Technical innovations like XML and print-on-demand make delivering the output technically feasible and inexpensive.
+<P>
+The new development and distribution models promoted by the Open Education movement represent a natural and inevitable evolution of the educational publishing industry.
+It parallels the evolution of the software industry (towards Linux and other open-source software); the music industry (recall the band Radiohead’s recent “pay what you like” digital download); and scholarly publishing (the United States government recently mandated online public access to all research funded by the National Institutes of Health – $28.9 billion this year).
+<P>
+The exciting thing about Open Education is that free access is just the beginning.
+Open Education promises to turn the current textbook production pipeline into a vast dynamic knowledge ecosystem that is in a constant state of creation, use, reuse, and improvement.
+Open Education promises to provide children with learning materials tailored to their individual needs, in contrast to today’s “off the rack” materials, together with quicker feedback loops that match learning outcomes more directly with content development and improvement.
+And Open Education promises new approaches to collaborative learning that leverage social interaction among students and teachers worldwide.
+<P>
+Late last year in Cape Town, we joined delegates from around the world to reach a consensus on Open Education’s ideals and approaches, and we committed ourselves to them in the Cape Town Open Education Declaration, which was officially released on January 22.
+(See www.capetowndeclaration.org .)
+<P>
+Everyone has something to teach.
+Everyone has something to learn.
+Together, we can all help transform the way the world develops, disseminates, and uses knowledge.
+Together, we can help make the dream of Open Education a reality.

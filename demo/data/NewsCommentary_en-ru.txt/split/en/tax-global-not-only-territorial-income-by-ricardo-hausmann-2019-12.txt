@@ -1,0 +1,72 @@
+<HEADLINE>
+Why Countries Should Tax Global Income
+<P>
+CAMBRIDGE – If you are a citizen of a country, should you pay taxes on the income you earn only within that country’s geographical limits, or on all the money you earn, independently of where?
+The United States, Mexico, India, China, and Chile tax global income.
+Western Europe, Japan, Canada, Peru and Colombia tax territorial income.
+If the world moved toward global taxation and enhanced some incipient information-sharing mechanisms, the impact on inclusive growth, especially in the developing world, would be very positive.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Who should pay for government and how is an issue at the heart of any political system.
+The answer combines both social preferences and efficiency considerations, although the former often masquerade as the latter.
+<P>
+In most polities, people prefer to tax the rich more heavily than the poor, UK Prime Minister Margaret Thatcher’s poll tax of the late 1980s being the exception that proves the rule.
+Thatcher was ousted by her own Conservative Party in November 1990, after she tried to tax everybody the same.
+<P>
+By contrast, efficiency considerations suggest that taxes should be levied on things that are hard to move or change in response to tax.
+For example, land is hard to move, but a municipal tax on gasoline can be avoided by filling up the tank in a nearby jurisdiction that does not tax fuel.
+Competition between municipalities would create a race to the bottom that would have them tax gasoline at close to zero.
+The fact that tax bases can move more easily across municipal borders than across international borders is one reason why many taxes are imposed and collected by national governments and shared with state and local authorities.
+<P>
+Should we tax labor or capital?
+Because the rich own more capital than the poor and derive more of their income from it, if you want to tax the rich, you must tax capital income.
+But if capital can move abroad more easily than labor, efficiency considerations imply that you must tax labor rather than capital, lest it flee the country or be consumed rather than saved.
+In fact, a large literature, started by a seminal article by Anthony Atkinson and Joseph E. Stiglitz, argued that the optimal taxation of capital income should be zero.
+<P>
+Countries that tax territorial income de facto tell their capital-owning tax residents: either invest in the country and be taxed or invest abroad and escape taxation.
+No wonder so many residents choose to put their money abroad.
+A recent study by Jonathan Ostry and co-authors at the IMF shows that the move toward free movement of capital in recent decades has had little impact on growth but a large impact on inequality.
+But it gets worse.
+Optimal taxation theory says that governments should choose tax rates that are inversely proportional to how mobile the tax bases are.
+Since capital can easily move abroad, this principle implies that you should tax it less.
+<P>
+Two additional arguments are used to justify taxing capital even less.
+The first is the notion that taxing dividends is tantamount to taxing corporate income twice: once when it is earned, and again when it is distributed to shareholders.
+Countries like Estonia, Latvia and Jordan do not tax dividends at all, while several countries in Eastern Europe tax them substantially less than labor income.
+<P>
+In fact, the double taxation argument is a hoax.
+Countries should choose a total tax on capital income but they are free to choose what combination of corporate income tax and dividend tax to use.
+For example, Ireland has a very low effective corporate income tax rate of 15%, but its 51% dividend tax is the world’s highest.
+<P>
+The second argument is that capital gains should be taxed less than dividends, with some countries, including Switzerland, Turkey, the Netherlands, and New Zealand, taxing them at zero.
+Because it is very easy for corporations to transform income from dividends into capital gains (say, by buying back shares instead of distributing dividends), this creates an enormous loophole.
+<P>
+As a result, many countries’ taxes on capital income are extremely low, leaving them to tax mainly labor income.
+But this is also problematic.
+Although it is more difficult for labor to leave the country, workers can move from the formal sector, where companies withhold their employees’ taxes, to the informal sector of sole proprietorships and unincorporated microenterprises, where withholding does not work and the tax system has trouble collecting.
+While eight out of nine workers in the US work for incorporated businesses, less than one-half in Latin America do; in India, it’s fewer than one in ten.
+Trying to tax labor thus encourages more inefficient ways of organizing production, at very significant costs to society.
+<P>
+Historically, the difficulty of enforcement was one reason not to tax global income.
+But help is on the way, because the US, the United Kingdom, and several other OECD countries that tax their citizens’ and tax residents’ foreign income are pushing for improvements in information sharing.
+For example, the US Foreign Account Tax Compliance Act (FATCA) requires that all international financial institutions report to the US on the accounts held by its tax residents.
+Moreover, anti-money laundering and know-your-customer rules require financial institutions and other businesses to know the ultimate beneficiaries of the entities, including shell companies, they deal with.
+Increasingly, developing countries are pressured to provide relevant information to help other countries tax their citizens.
+They might as well obtain the benefits that arise from sharing information with those tax authorities.
+<P>
+In short, for many countries, and especially for developing economies, a more efficient and fair tax system would involve higher taxation of capital income.
+But this would require taxing global as well as territorial income, with enforcement dependent on an international system of information sharing that is currently under construction for the benefit of the US and other OECD countries.
+Such a system would allow countries to choose higher taxation of capital income without fearing capital outflows, because capital owners would not be exempt from taxation at home.
+<P>
+More inclusive global growth in a world with free capital mobility requires global taxation and tax cooperation.
+It does not require a “global” government that taxes and redistributes.
+Countries would be free to set their own taxes, but would be required to share tax-relevant information.
+This would stop the current international race to the bottom in taxing capital income and allow countries to set fairer, more efficient taxes.

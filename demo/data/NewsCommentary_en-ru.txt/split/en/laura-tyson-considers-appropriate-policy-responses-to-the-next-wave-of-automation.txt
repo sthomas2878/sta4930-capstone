@@ -1,0 +1,61 @@
+<HEADLINE>
+Intelligent Machines and Displaced Workers
+<P>
+BERKELEY – In their compelling new book The Second Machine Age, Erik Brynjolfsson and Andrew McAfee document the progress in artificial intelligence that is enabling computers to exceed what they were capable of only a few years ago.
+The leaps in machine intelligence, along with the connection of human beings around the world in a common digital network, will enable the development of new technologies, goods and services.
+<P>
+The authors are optimistic about the “bounty” or economy-wide benefits of brilliant machines.
+But they warn that the distribution or “spread” of these benefits will be uneven.
+<P>
+Their fears are justified.
+During the last three decades, even before breakthroughs in artificial intelligence, computers have been replacing and multiplying the physical labor of human beings.
+Improvements in computer and communications technologies have also enabled employers to offshore many routine tasks that machines cannot directly replace.
+<P>
+As a result of both technological displacement and technology-enabled globalization, the share of employment in occupations in the middle of the skill distribution has declined rapidly in both the United States and Europe.
+Demand for workers who perform routine tasks has been falling at an accelerating pace in recent decades, destroying well -paid middle-skill jobs in both manufacturing and clerical occupations.
+<P>
+Technological progress has also been skill-biased: it has increased the relative demand for workers with the human capital to fill occupations that involve cognitive and abstract tasks, while eliminating middle-skill routine occupations.
+It has also been a major factor behind the emergence of large and growing differences in the wages of workers with a college education or higher and those of workers with lower levels of educational attainment.
+<P>
+<P>
+These differences have persisted in the most recent decade, even though tepid economic growth and labor displacement by smarter machines have weakened demand for high-skill, high-cognition occupations.
+Many college-educated workers simply have been forced down the occupational ladder into jobs traditionally performed by lower-skilled workers, who in turn have been pushed further down the occupational ladder or out of the labor force altogether.
+As a result, the real wages of workers without a college education have fallen even further behind.
+<P>
+Skill-biased technological change has propelled growing inequality in labor incomes both within and across occupations, in turn fueling the marked increase in overall income inequality.
+Smart machines and global connections have also boosted income inequality in two other ways: by increasing the size and scope of global markets for top-rated talent in a variety of fields (the so-called winner-take-all effect), and by generating huge excess returns or monopoly rents from the creation and ownership of intellectual property and intangible capital.
+<P>
+Ever-smarter machines and ever-tighter global connections are likely to aggravate adverse labor-market trends and growing income inequality, as technology displaces more and more workers.
+No one is certain about how many workers are at risk; but, based on the pace of recent technological advances, there is reason for concern.
+<P>
+Using a variety of measures to assess the susceptibility of jobs to computerization, a recent study of 702 occupations finds that nearly half of total US employment is at risk.
+And, if Brynjolfsson and McAfee are correct, the labor-displacement process will be much faster than anticipated.
+<P>
+How should policymakers respond?
+First, it is important to acknowledge that weak aggregate demand and anemic economic growth, not an acceleration in the labor-displacement rate, explains the slow jobs growth of the last decade.
+Under these conditions, monetary policy should remain accommodative and further fiscal austerity should be eschewed.
+<P>
+Second, the educational attainment levels of the workforce must be increased.
+The effects of technology on workers’ occupational and wage prospects will continue to depend on their education for the foreseeable future.
+The higher the educational attainment level associated with an occupation’s requirements, the lower the probability of its displacement by a smart machine.
+<P>
+In the US, educational attainment levels are not keeping pace with technology’s demands.
+The US ranks 11th among developed countries in high-school graduation rates and is the only developed country in which the secondary-school graduation rates of 25-34 year olds are no higher than those of 55-64 year olds.
+<P>
+In the latest (2012) scores on international achievement tests, US teenagers scored below the OECD average, dropping to 31st place in math; 24th place in science and 11th place in reading.
+After ranking first for decades, the US has fallen to 16th place in college graduation rates.
+And both the educational achievement gap and the college completion gap by income level have been increasing in the US over the past few decades.
+<P>
+As smart machines become more powerful and pervasive, they will pose a challenge to a fundamental feature of the US economy: most people gain their income by selling their labor.
+So what happens when the labor of a large number of working-age Americans, regardless of their education, is rendered technologically redundant or no longer commands an income adequate to provide a minimally decent standard of living?
+<P>
+Millions of American workers have already reached that point.
+The near-term policy remedies are clear: raise the minimum wage to a level that will keep a fully employed worker and his or her family out of poverty, and extend the earned-income tax credit to childless workers.
+President Barack Obama has proposed doing both.
+<P>
+In the longer term, more radical policies – such as the introduction of a negative income tax or a basic income – must be considered, with the goal of providing a guaranteed minimum standard of living regardless of employment status and market wage.
+<P>
+Decades ago, when intelligent machines and androids were found in science fiction rather than the real world, Milton Friedman, a champion of free-market capitalism, recommended a negative income tax to help the poor without undermining their incentive to work.
+He proposed a progressive consumption tax as a way to pay for it.
+<P>
+Ultimately, whether the benefits of artificial intelligence and digitization are distributed broadly or continue to accrue to a small minority of the population will depend not on the design of smart machines, but on the design of smart policies appropriate for the new machine age.

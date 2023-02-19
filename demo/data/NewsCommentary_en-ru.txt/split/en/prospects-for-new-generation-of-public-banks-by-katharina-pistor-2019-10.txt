@@ -1,0 +1,66 @@
+<HEADLINE>
+Does Public Banking Work?
+<P>
+NEW YORK – Three decades after the fall of the Berlin Wall, the United States is finally embracing public banking.
+In the summer of 1989, political theorist Francis Fukuyama famously suggested that American-style free-market capitalism would become the default mode for organizing economies around the world.
+But now policymakers in that model’s very heartland are looking for alternatives.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Unlike many other countries around the world, the US has never had a sizable public-banking sector.
+But as of this month, public banks are legal in California, making it the second (after North Dakota) and largest state to have embraced the idea.
+California lawmakers recently enacted legislation that officially authorizes “public ownership of public banks for the purpose of achieving cost savings, strengthening local economies, supporting community economic development, and addressing infrastructure and housing needs for localities.”
+<P>
+Judging by the text of the law, California’s public banks will be more limited in scope than public-banking sectors elsewhere.
+They will be local, not-for-profit entities with a designated public purpose.
+Some may operate as commercial banks, accepting deposits and making loans; and others may serve as industrial banks with a focus on infrastructure investments.
+<P>
+In any case, California’s public banks will establish a funding base through deposits or loans from local governments across the state.
+As public institutions, they will be exempt from taxes and certain disclosure requirements.
+But in all other respects, they will be treated like ordinary banks.
+They must obtain a banking license and deposit insurance, and they will be required to appoint management with the requisite knowledge and expertise to run a bank.
+<P>
+Will it work?
+The global and historical experience with public banking suggests that, just as in the private sector, some public banks will achieve most of their goals most of the time, while others will underperform or even fail.
+Public ownership in itself does not lead to bad outcomes; nor has privatization proven to be the panacea that its boosters promised.
+Much depends on governance and the clarity of the stipulated goals.
+Checks and balances are needed to keep management on track, and the managers themselves must have the right skill set.
+<P>
+But whether public banks will work is not really the right question to ask.
+More important is whether they will stay on mission.
+As Kent State’s Mark K. Cassell shows, “mission shift” within public banks has been common historically, and a failure to prevent it, or to adapt the governance regime accordingly, can create disruptions that result in crises.
+<P>
+In fact, America’s own history of public banking offers evidence of this tendency.
+Consider the fate of Fannie Mae – the Federal National Mortgage Association – which was established in 1938 as a publicly owned mortgage bank.
+In 1968, Congress amended Fannie’s charter and privatized it, turning it into a hybrid entity.
+Thenceforth, it had a public mission (ensuring affordable home ownership), but was owned by profit-seeking shareholders and indirectly subsidized by an implicit government guarantee that lowered its cost of debt finance.
+This did not end well.
+Fannie Mae – together with its younger sibling, Freddie Mac (the Federal Home Loan Mortgage Corporation) – had to be put on life support in 2008.
+<P>
+Similarly, many of Germany’s Landesbanken, which date back two centuries, required government bailouts in the 2008 crisis.
+Originally, each bank’s operations were confined to the boundaries of its state (or Land).
+After World War II, the Landesbanken were re-constituted as regional banks and tasked with assisting post-war reconstruction and development efforts.
+They were not required to maximize profits, and yet they were reorganized as for-profit institutions.
+And while they were subject, in principle, to the same regulations as privately-owned banks, it became the practice of federal bank regulators to leave oversight largely to the individual states, which were the ultimate risk bearers.
+<P>
+As with Fannie Mae, the Landesbanken embarked on a mission shift which left them with a completely inadequate governance structure.
+In their case, though, the problems stemmed not so much from a legal change as from managerial ambition.
+Some Landesbanken began to internationalize in the 1980s and invest in fancy financial products, and the others soon followed suit.
+State governments did little about this because they were benefiting from the additional revenue.
+Regulation remained as lax as before, and politicians continued to populate Landesbanken boards.
+In the end, this left them even more vulnerable to the crisis, and helped increase the price tag for their bailouts relative to private banks.
+<P>
+The main lessons, then, are that public purpose does not mesh well with profit maximization, and a one-time commitment to public ownership and/or a public purpose is not enough.
+The banks must be governed well to stay on mission, and the governance regime itself must be monitored to ensure that it remains both effective and complementary to that mission.
+<P>
+At the end of the day, mission drift may be unavoidable.
+But detecting it and instituting the necessary governance reforms is well within governments’ power.
+It would be a tragic mistake to assume that passing a public-banking law amounts to “mission accomplished.”
+The mission has only just begun.

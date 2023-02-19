@@ -1,0 +1,54 @@
+<HEADLINE>
+Taking the Offensive Against Tuberculosis
+<P>
+SOLNA, SWEDEN – Tuberculosis is one of the world’s deadliest diseases.
+In 2013 alone, it accounted for 1.5 million deaths, including one-fifth of adult deaths in low-income countries.
+Although the estimated number of people contracting TB annually is decreasing, the decline has been very slow.
+And, given the increasing prevalence of multidrug-resistant TB, the trend could be reversed.
+<P>
+Nonetheless, the world now has a narrow window of opportunity to eradicate TB.
+Taking advantage of it will require the rapid development and dissemination of effective diagnostic tools, novel drug treatments, and innovative vaccines, in conjunction with efforts to ensure that health-care systems are equipped to deliver the right care.
+This will be no easy feat.
+<P>
+The good news is that the international community seems eager to act.
+The World Health Organization’s post-2015 Global TB Strategy, which was endorsed by the World Health Assembly in May 2014, aims to eradicate TB by 2035.
+The Sustainable Development Goals, which will be formally adopted in September by the United Nations’ 193 member states, foresee achieving that objective five years sooner.
+<P>
+To stem the development and spread of drug-resistant TB requires a two-pronged global effort: ensuring early detection and adequate treatment of patients with drug-sensitive TB, and finding new ways to treat patients infected with drug-resistant strains.
+The problem is that existing tools for TB diagnosis, treatment, and prevention have severe limitations.
+<P>
+For starters, there is no fast point-of-care diagnostic test for TB.
+In low-income countries, the dominant diagnostic method is sputum microscopy, an outdated approach that fails to detect TB in about half of all infected patients, with an even lower success rate for young children and patients co-infected with HIV.
+Indeed, no more than one in ten children with TB is diagnosed by sputum microscopy.
+<P>
+Moreover, for patients infected with multi-drug-resistant TB, treatment with the currently available drugs is successful only half the time, even under the best conditions.
+And the therapeutic process is tough, lasting at least two years and involving up to 14,600 pills and hundreds of injections – with severe side effects.
+<P>
+New TB drugs with novel mechanisms of action are badly needed, not only to treat multi-drug resistant TB, but also to shorten the treatment time for drug-sensitive TB.
+Here, there is some promising news: Bedaquiline recently became the first new TB drug to be approved by the US Food and Drug Administration in 40 years.
+But Bedaquiline has yet to prove its capacity to treat drug-resistant TB effectively, and there are very few other candidates in the pipeline.
+<P>
+Similar problems arise in prevention.
+The Bacille de Calmette et Guérin (BCG) vaccine – the only one available for the disease, and the main pillar of TB prevention – is only partly effective.
+Indeed, while it protects children from the worst forms of the disease, it does not protect anyone against the most common variant, pulmonary TB.
+As a result, it has done little to reduce the number of TB cases.
+And, although several new vaccine candidates have passed preliminary clinical tests, BCG will remain the only available vaccine for years to come.
+<P>
+The challenges are clearly formidable.
+But, with millions of lives at stake, backing down is not an option.
+<P>
+It comes down to research – a fact that the WHO global strategy recognizes.
+But scaling up investment in diagnostic tools and treatments for TB costs more money than has been allocated.
+Of the estimated €1.73 billion ($2 billion) that is needed annually for research and development, only €589 million was invested in 2013.
+<P>
+Making matters worse, critical donor funding – provided by a very limited number of actors, mostly government agencies and philanthropic groups in OECD countries – fell by nearly 10% last year.
+At present, a single philanthropic donor, the Bill & Melinda Gates Foundation, supports more than 25% of research on new tools to fight TB.
+<P>
+As for the private sector, pharmaceutical companies have been withdrawing from TB research, as part of a general trend away from anti-infective drugs toward the development of new drugs for chronic illnesses.
+Pfizer exited TB research in 2012, followed by AstraZeneca in 2013 and Novartis last year.
+<P>
+Closing the funding gap and ending the scourge of TB will require the involvement of more – and more diverse – donors.
+If the private sector is unwilling to do its part, it is up to governments to step in with a sustained commitment – manifested in direct contributions, as well as efforts to create the right incentives – to achieving the SDG target to which they have agreed.
+<P>
+In short, eradicating the TB epidemic presupposes efforts to ensure that health-care systems are capable of delivering the right care.
+And the right care requires rapid development and dissemination of new tools, including quick point-of-care diagnostic tests, safe and fast-acting drugs, and an effective TB vaccine.

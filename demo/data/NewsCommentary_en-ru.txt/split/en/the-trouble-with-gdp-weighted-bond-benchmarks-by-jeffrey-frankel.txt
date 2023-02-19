@@ -1,0 +1,57 @@
+<HEADLINE>
+The Battle of the Bond Benchmarks
+<P>
+TOKYO – Some prominent institutional bond investors are shifting their focus from traditional benchmark indices, which weight countries’ debt issues by market capitalization, toward GDP-weighted indices.
+PIMCO, one of the world’s largest fixed-income investment firms, and the Government Pension Fund of Norway, one of the largest sovereign wealth funds, have both recently made moves in this direction.
+But there is a risk that some investors could lose sight of the purposes of a benchmark index.
+<P>
+The benchmark exists to represent the views of the median investor.
+For many investors – both those who recognize their relative lack of sophistication and those who don’t – going with the benchmark is a good guideline.
+This is an implication of the efficient markets hypothesis (EMH), for example.
+<P>
+To be sure, EMH theorists are often too quick to discount the possibility of beating the benchmark: It should not have been so hard to figure out during the 2003-2007 credit-fed boom that countries with high foreign-denominated debt, particularly in Europe, were not paying a sufficiently high return to compensate for risk.
+Or, to take another (harder) call, some of these same countries’ deeply discounted bonds, after heavy markdowns, would have been good buys in early 2012.
+<P>
+Nonetheless, most investors do better with a more passive investment strategy, especially given high management fees and excessive turnover for actively managed funds.
+A benchmark index gives that option to those who do not think that they can systematically beat the median investor, and provides an objective standard by which investors can judge the performance of active portfolio managers who claim that they can.
+Moreover, the same weights used in the index can be used to compute an average interest rate or sovereign spread in the market, which can, in turn, serve as an indicator of investors’ appetite for risk.
+<P>
+Finally, a benchmark index helps active investors to devise a deliberate strategy to depart from the median investor’s view when they believe that view to be mistaken.
+They may think that the median investor is underestimating risk in general or underestimating the downside in countries that have some particular characteristic.
+For example, they may conclude that a country has too much short-term debt, foreign-currency debt, or bank debt, or inadequate reserves or national saving.
+<P>
+For each of these purposes that a benchmark index serves, the correct way to weight different countries is by market capitalization, not by GDP.
+The keeper of the index must judge which countries and bonds are in “the market” – that is, are fully investable; but that is true regardless of how countries are weighted.
+<P>
+The logic behind the move away from traditional bond-market indices is that, by definition, they give a lot of weight to high-debt countries, some of which may be over-indebted and at risk of default.
+At first, the logic seems unassailable.
+But, in theory, if the market is functioning well, it should already have factored in high debt levels: such countries should pay higher interest rates to compensate for the incremental risk, unless there is some special reason to think that they can service their debt easily.
+<P>
+An investor who believes that countries with high debt/GDP ratios are riskier than the median investor realizes is more likely to think about his or her strategy clearly if it is explicitly framed in terms of factoring in debt/GDP, rather than framed as switching from a market-cap index to a GDP-weighted index.
+Furthermore, how the strategy is framed may help investors to recognize that they might want to modify it (for example, if a country’s debt has an unusually short or long maturity structure).
+<P>
+To be sure, default risk among some heavily indebted countries, like Greece, turned out to be higher than expected.
+But there is always a danger of fighting the last war.
+Many major middle-income countries have paid down much of their debt over the last decade, attaining indebtedness ratios far below those of advanced economies.
+<P>
+That point is worthy of closer consideration than it has received.
+As the chart below shows, major emerging markets have relatively low debts (the first bar for each country) relative to GDP (the second bar).
+Russia’s sovereign debt, for example, is now below 7% of GDP.
+<P>
+<P>
+[For a high-resolution version of the chart, click here.]
+<P>
+As a result, the supply of these countries’ bonds is limited.
+If global investors switch from market-cap-weighted to GDP-weighted investing, high demand for such countries’ bonds may drive their interest rates to unnaturally low levels, setting off new credit-fed boom-bust cycles in their economies.
+<P>
+Moreover, many emerging-market countries have paid down debt denominated in dollars or other foreign currencies, while continuing to borrow in their local currencies.
+Relatively large countries, such as Thailand, Malaysia, Brazil, and South Africa, have little dollar-denominated debt left – 3% of GDP or less (the dark bottom of each first bar).
+If an international bond benchmark is to be limited to dollar-denominated debt, GDP weights could imply a severe imbalance between investor demand for these countries’ bonds and the small supplies available.
+<P>
+Accordingly, local-currency-denominated debt must be included in the benchmarks.
+But, in that case, a portfolio reallocation away from traditional benchmark indices such as the Emerging Markets Bond Index would imply a big shift from simple credit risk toward currency risk.
+True, emerging-market economies’ ability to attract investment in their local currencies represents an important strengthening of the global financial system (relative to the currency mismatch and balance-sheet vulnerabilities of the 1990’s).
+Nevertheless, investors who switch from one “benchmark” to the other need to be aware of the extent to which the reduction in default risk comes at the expense of heightened exposure to currency risk.
+<P>
+In short, it is not crazy for an investor to depart from a market-cap-weighted benchmark by putting more weight on countries with low debt/GDP ratios and less weight on high debt/GDP countries.
+But the GDP-weighted index should not be mistaken for a neutral benchmark.

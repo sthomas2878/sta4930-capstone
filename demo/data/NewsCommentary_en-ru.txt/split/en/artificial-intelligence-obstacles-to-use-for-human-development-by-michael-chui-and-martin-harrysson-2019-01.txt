@@ -1,0 +1,55 @@
+<HEADLINE>
+AI for Human Development
+<P>
+SAN FRANCISCO – The excitement surrounding artificial intelligence nowadays reflects not only how AI applications could transform businesses and economies, but also the hope that they can address challenges like cancer and climate change.
+The idea that AI could revolutionize human wellbeing is obviously appealing, but just how realistic is it?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+To answer that question, the McKinsey Global Institute has examined more than 150 scenarios in which AI is being applied or could be applied for social good.
+What we found is that AI could make a powerful contribution to resolving many types of societal challenges, but it is not a silver bullet – at least not yet.
+While AI’s reach is broad, development bottlenecks and application risks must be overcome before the benefits can be realized on a global scale.
+<P>
+To be sure, AI is already changing how we tackle human-development challenges.
+In 2017, for example, object-detection software and satellite imagery aided rescuers in Houston as they navigated the aftermath of Hurricane Harvey.
+In Africa, algorithms have helped reduce poaching in wildlife parks.
+In Denmark, voice-recognition programs are used in emergency calls to detect whether callers are experiencing cardiac arrest.
+And at the MIT Media Lab near Boston, researchers have used “reinforcement learning” in simulated clinical trials involving patients with glioblastoma, the most aggressive form of brain cancer, to reduce chemotherapy doses.
+<P>
+Moreover, this is only a fraction of what is possible.
+AI can already detect early signs of diabetes from heart rate sensor data, help children with autism manage their emotions, and guide the visually impaired.
+If these innovations were widely available and used, the health and social benefits would be immense.
+In fact, our assessment concludes that AI technologies could accelerate progress on each of the 17 United Nations Sustainable Development Goals.
+<P>
+But if any of these AI solutions are to make a difference globally, their use must be scaled up dramatically.
+To do that, we must first address developmental obstacles and, at the same time, mitigate risks that could render AI technologies more harmful than helpful.
+<P>
+On the development side, data accessibility is among the most significant hurdles.
+In many cases, sensitive or commercially viable data that have societal applications are privately owned and not accessible to nongovernmental organizations.
+In other cases, bureaucratic inertia keeps otherwise useful data locked up.
+<P>
+So-called last-mile implementation challenges are another common problem.
+Even in cases where data are available and the technology is mature, the dearth of data scientists can make it difficult to apply AI solutions locally.
+One way to address the shortage of workers with the skills needed to strengthen and implement AI capabilities is for companies that employ such workers to devote more time and resources to beneficial causes.
+They should encourage AI experts to take on pro bono projects and reward them for doing so.
+<P>
+There are of course risks.
+AI’s tools and techniques can be misused, intentionally or inadvertently.
+For example, biases can be embedded in AI algorithms or datasets, and this can amplify existing inequalities when the applications are used.
+According to one academic study, error rates for facial analysis software are less than 1% for light-skinned men, but as high as 35% for dark-skinned women, which raises important questions about how to account for human prejudice in AI programing.
+Another obvious risk is misuse of AI by those intent on threatening individuals’ physical, digital, financial, and emotional security.
+<P>
+Stakeholders from the private and public sectors must work together to address these issues.
+To increase the availability of data, for example, public officials and private actors should grant broader access to those seeking to use data for initiatives that serve the public good.
+Already, satellite companies participate in an international agreement that commits them to providing open access during emergencies.
+Data-dependent partnerships like this one must be expanded and become a feature of firms’ operational routines.
+<P>
+AI is fast becoming an invaluable part of the human-development toolkit.
+But if AI’s potential to do good globally is to be fully realized, proponents must focus less on the hype and more on the obstacles that are preventing its uptake.

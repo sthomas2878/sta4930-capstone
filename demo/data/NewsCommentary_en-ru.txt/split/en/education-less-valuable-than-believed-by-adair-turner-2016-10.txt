@@ -1,0 +1,62 @@
+<HEADLINE>
+The Skills Delusion
+<P>
+LONDON – Everybody agrees that better education and improved skills, for as many people as possible, is crucial to increasing productivity and living standards and to tackling rising inequality.
+But what if everybody is wrong?
+<P>
+Most economists are certain that human capital is as important to productivity growth as physical capital.
+And to some degree, that’s obviously true.
+Modern economies would not be possible without widespread literacy and numeracy: many emerging economies are held back by inadequate skills.
+<P>
+But one striking feature of the modern economy is how few skilled people are needed to drive crucial areas of economic activity.
+Facebook has a market value of $374 billion but only 14,500 employees.
+Microsoft, with a market value of $400 billion, employs just 114,000.
+GlaxoSmithKline, valued at over $100 billion, has a headcount of just 96,000.
+<P>
+The workforces of these three companies are but a drop in the ocean of the global labor market.
+And yet they deliver consumer services enjoyed by billions of people, create software that supports economy-wide productivity improvements, or develop drugs that can deliver enormous health benefits to hundreds of millions of people.
+<P>
+This disconnect between employment and value added reflects the role of information and communications technology (ICT), which is distinctive in two crucial respects.
+First, in line with Moore’s Law, the pace of hardware productivity improvement is dramatically faster than it was at earlier stages of technological change.
+Second, once software is created, it can be copied limitless times at almost zero marginal cost.
+Taken together, these factors enable low-cost automation of ever more economic activities, driven by the high skills of only a tiny minority of the workforce.
+<P>
+Despite this phenomenon, more people than ever seek higher education levels, evidently motivated by the fact that higher skills bring higher pay.
+But many higher-paid jobs may play no role in driving productivity improvement.
+If more people become more highly skilled lawyers, legal cases may be fought more effectively and expensively on both sides, but with no net increase in human welfare.
+<P>
+The economic consequences of much financial trading are similarly zero-sum.
+But so, too, may be much of the activity devoted to developing new fashions or brands, with high skill and great energy devoted to competing for consumer attention and market share, but none of it necessarily resulting in an increase in human welfare.
+<P>
+More people receiving higher education does not therefore mean that their higher skills in all cases drive productivity growth.
+And rising university tuition and fees – growing in the US at a trend annual rate of about 6% in real terms – may not indicate that ever-higher skills are needed to perform specific jobs.
+Rather, future job applicants may simply be willing to spend a lot of money to signal to employers that they have high-value skills.
+<P>
+Universities, in turn, can become caught in a zero-sum competition of ever-increasing expenditure to attract paying students.
+And rapidly rising student debt – up from $400 billion to $1.3 trillion in the US alone since 2005 – may partly be financing more intense competition for high-paid jobs, not socially required investments in human capital.
+<P>
+Likewise, at the lower end of the income scale, it is not clear that better skills can significantly offset rising inequality.
+New jobs can always be created as we automate away many existing jobs, but the new jobs often pay less.
+<P>
+Projections by the US Bureau of Labor Statistics (BLS) for job creation over the next ten years illustrate the pattern.
+Of the top ten occupational categories that account for 29% of all forecast job creation, only two – registered nurses and operational managers – pay more, on average, than US median earnings, while most of the other eight pay far less.
+<P>
+Employment is growing fastest in face-to-face services such as personal care.
+These jobs are more difficult to automate than manufacturing or information services; but, according to the BLS, they require only limited formal skills or on-the-job training.
+And job categories that require specialist ICT skills do not even make the top ten.
+The BLS foresees 458,000 more personal-care aides and 348,000 home health aides, but only 135,000 more software and application developers.
+<P>
+But wouldn’t better skills enable people currently in rapidly growing but low-pay job categories to get higher paid jobs?
+In many cases, the answer may be no.
+However many people are able to code, only a very small number will ever be employed for their coding skills.
+And even if someone currently in a low-skill job is equipped to perform a high-skilled one at least adequately, that job may still go to an employee with yet higher skills, and the pay differential may still be great: in many jobs, relative skill ranking may matter more than absolute capability.
+<P>
+So “better education and more skills for all” may be less important to productivity growth and a less powerful tool to offset inequality than conventional wisdom supposes.
+But that would not undermine in the least the personal and social value of education.
+<P>
+As many people as possible should be highly literate, aware of and fascinated by the basics of science, and enthused by and able to understand good design or music.
+After all, in a world where automation can free us from the drudgery of endless work, a good education will better equip us to live satisfying lives, regardless of whether it increases individual pay or measured prosperity.
+<P>
+As for inequality, we may need to offset it through overt redistribution, with higher minimum wages or income support unrelated to people’s price in the job market, and through generous provision of high-quality public goods.
+<P>
+In a world where robots can increasingly do the work, education and skills are more important than ever – not because they can raise everyone’s price in the labor market, but because they can equip us for lives in which many jobs no longer deliver adequate income, satisfaction, or status.

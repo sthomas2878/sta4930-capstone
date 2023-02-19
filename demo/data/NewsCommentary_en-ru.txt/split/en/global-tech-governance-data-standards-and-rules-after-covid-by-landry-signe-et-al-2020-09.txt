@@ -1,0 +1,58 @@
+<HEADLINE>
+The New Urgency of Global Tech Governance
+<P>
+WASHINGTON, DC – Pandemic lockdowns, digitalization, and the acceleration of the Fourth Industrial Revolution (4IR) are all driving a shift in global governance.
+Since the world’s technological leaders will also be geopolitical leaders, the competition for dominance in cutting-edge sectors like artificial intelligence is intensifying.
+The 4IR technology race will be the primary factor influencing global economic and political arrangements in the post-pandemic future.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Although the United States remains the top AI power, it is closely followed by China, and then by other players such as Russia.
+For its part, China has already invested an estimated $300 billion in the field (including chips and electric cars), adopted a national innovation strategy (“Made in China 2025”), and enabled the rise of pioneering tech giants like Baidu, Alibaba, and Tencent.
+But while China has massive potential for AI development, it also has a lot of work to do before it surpasses the US.
+Studies show that China still lags on three key fronts: hardware, research, and the commercial sector.
+<P>
+Beyond the US and China, European and Asian countries are also pursuing 4IR innovation.
+The United Kingdom, for example, is in the top quartile of countries in terms of AI readiness, owing to its top-tier research universities and generous public research funding.
+Similarly, many Asian countries have demonstrated an obvious advantage in terms of technological diffusion and robot density.
+With 774 robots per 10,000 workers, South Korea is far ahead of most other countries; and Japan, with its already-dominant automobile industry, has begun to establish itself as a leader in autonomous vehicles.
+<P>
+Against this backdrop, the COVID-19 pandemic has accelerated trends toward digitalization, with an array of 4IR technologies being adopted to track, trace, forecast, diagnose, and contain the virus, in addition to enabling remote work, e-commerce, and other behavioral shifts.
+In fact, it was an AI platform that first spotted the signs of a viral outbreak more than a week before the World Health Organization’s official announcement.
+And since then, AI and machine learning have been used to track and anticipate the evolution of the pandemic, identify high-risk patients, and optimize resource usage.
+<P>
+Moreover, scholars are using AI to detect new COVID-19 outbreaks and to drive the research for effective treatments or a vaccine.
+But this work points to the need for more regulatory clarity at the global level.
+To avoid zero-sum “vaccine nationalism,” we need better processes for the cross-border sharing of data and technological solutions, so that no one is left behind.
+<P>
+The recent dynamism in health care is emblematic of 4IR geopolitics more broadly.
+Plenty of attention has been devoted to the escalating Sino-American rivalry since the start of the COVID-19 crisis.
+Less noticed is the opportunity for developing countries to use the crisis as an impetus to expand their own adoption of 4IR technologies.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In Africa, for example, an AI-powered SMS platform has been deployed to deliver educational content to out-of-school children who lack Internet access, smartphones, or even textbooks.
+Such innovations will become even more important the longer schools remain closed.
+Similarly, retailers and consumers are increasingly relying on e-commerce and mobile money to maintain social distancing and preserve supply chains.
+And in agriculture, more farmers are using information from big-data platforms, augmented by the Internet of Things, to guide their decision-making.
+<P>
+But fully capitalizing on these opportunities will require more coordination between the public and private sectors and with multilateral institutions.
+By its very nature, the 4IR competition tempts countries to use their economic power to shape international standards.
+In a data-driven age, how leading governments define their approaches to regulation, including key issues such as individual privacy, will affect the entire global economic order in the years ahead.
+<P>
+This dynamic is already evident in how different countries have managed the use of AI-driven facial-recognition and digital contact-tracing tools during the pandemic.
+In South Korea and China, these technologies were widely adopted early on, and have (so far) proven effective in limiting the spread of the virus, but indisputably at the expense of individual privacy.
+<P>
+By contrast, the US has been unable to rely on these tools, partly because it has yet to adopt clear rules and standards for consumer privacy, data security, and digital ownership in the 4IR.
+While some US states have proposed various regulatory frameworks, the lack of a national system remains one of the biggest obstacles to capitalizing on the potential of AI and big data.
+<P>
+The competition between the US and China has pushed national-security and commercial priorities to the top of the agenda, turning basic governance questions into much larger geopolitical issues.
+But a global tech industry cannot be governed effectively in the absence of a global consensus.
+There simply is no such thing as an effective nationalist – let alone isolationist – strategy for regulating data privacy.
+As we have seen with the EU General Data Protection Regulation, the lack of coordination among national-level authorities has resulted in deeply flawed, inefficient implementation, preventing investigations of potential violations, eroding competition, and undermining consumer and business confidence.
+<P>
+The COVID-19 crisis is a historic opportunity to define the future of international cooperation.
+The question of how to regulate and use new technologies will not be restricted to any one industry or country.
+The benefits of cooperation in the 4IR – starting with collaboration on developing and deploying a vaccine – could be far-reaching.
+But reaping them will require a broad-based, good-faith search for common ground.

@@ -1,0 +1,65 @@
+<HEADLINE>
+Can Cyberwarfare Be Regulated?
+<P>
+CAMBRIDGE – Whether or not a conflict spirals out of control depends on the ability to understand and communicate about the scale of hostility.
+Unfortunately, when it comes to cyber conflict, there is no agreement on scale or how it relates to traditional military measures.
+What some regard as an agreed game or battle may not look the same to the other side.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+A decade ago, the United States used cyber sabotage instead of bombs to destroy Iranian nuclear enrichment facilities.
+Iran responded with cyber attacks that destroyed 30,000 Saudi Aramco computers and disrupted American banks.
+This summer, following the imposition of crippling sanctions by US President Donald Trump’s administration, Iran shot down an unmanned American surveillance drone.
+There were no casualties.
+Trump initially planned a missile strike in response, but canceled it at the last moment in favor of a cyber attack that destroyed a key database used by the Iranian military to target oil tankers.
+Again, there were costs but not casualties.
+Iran then carried out, directly or indirectly, a sophisticated drone and cruise missile strike against two major Saudi oil facilities.
+While it appears there were no or only light casualties, the attack represented a significant increase in costs and risks.
+<P>
+The problem of perceptions and controlling escalation is not new.
+In August 1914, the major European powers expected a short and sharp “Third Balkan War.”
+The troops were expected to be home by Christmas.
+After the assassination of the Austrian archduke in June, Austria-Hungary wanted to give Serbia a bloody nose, and Germany gave its Austrian ally a blank check rather than see it humiliated.
+But when the Kaiser returned from vacation at the end of July and discovered how Austria had filled in the check, his efforts to de-escalate were too late.
+Nonetheless, he expected to prevail and almost did.
+<P>
+Had the Kaiser, the Czar, and the Emperor known in August 1914 that a little over four years later, all would lose their thrones and see their realms dismembered, they would not have gone to war.
+Since 1945, nuclear weapons have served as a crystal ball in which leaders can glimpse the catastrophe implied by a major war.
+After the Cuban Missile Crisis in 1962, leaders learned the importance of de-escalation, arms-control communication, and rules of the road to manage conflict.
+<P>
+Cyber technology, of course, lacks the clear devastating effects of nuclear weapons, and that poses a different set of problems, because there is no crystal ball.
+During the Cold War, the great powers avoided direct engagement, but that is not true of cyber conflict.
+And yet the threat of cyber Pearl Harbors has been exaggerated.
+Most cyber conflicts occur below the threshold established by the rules of armed conflict.
+They are economic and political, rather than lethal.
+It is not credible to threaten a nuclear response to cyber theft of intellectual property by China or cyber meddling in elections by Russia.
+<P>
+According to American doctrine, deterrence is not limited to a cyber response (though that is possible).
+The US will respond to cyberattacks across domains or sectors, with any weapons of its choice, proportional to the damage that has been done.
+That can range from naming and shaming to economic sanctions to kinetic weapons.
+Earlier this year, a new doctrine of “persistent engagement” was described as not only disrupting attacks, but also helping to reinforce deterrence.
+But the technical overlap between intrusion into networks to gather intelligence or disrupt attacks and to carry out offensive operations often makes it difficult to distinguish between escalation and de-escalation.
+Rather than relying on tacit bargaining, as proponents of “persistent engagement” sometimes emphasize, explicit communication may be necessary to limit escalation.
+<P>
+After all, we cannot assume that we have enough experience to understand what is an agreed competition in cyberspace or that we can be certain of how actions taken in other countries’ networks will be interpreted.
+For example, Russian cyber meddling in US elections was not an agreed competition.
+With a domain as new as cyber, open rather than mere tacit communication can enlarge our limited understanding of the boundaries.
+<P>
+Negotiating cyber arms-control treaties is problematic, but this does not make diplomacy impossible.
+In the cyber realm, the difference between a weapon and a non-weapon may come down to a single line of code, or the same program can be used for legitimate or malicious purposes, depending on the user’s intent.
+But if that makes traditional arms-control treaties impossible to verify, it may still be possible to set limits on certain types of civilian targets (rather than weapons) and negotiate rough rules of the road that limit conflict.
+<P>
+In any event, strategic stability in cyberspace will be difficult to maintain.
+Because technological innovation there is faster than in the nuclear realm, cyberwarfare is characterized by a heightened reciprocal fear of surprise.
+<P>
+Over time, however, better attribution forensics may enhance the role of punishment; and better defenses through encryption or machine learning may increase the role of prevention and denial.
+Moreover, as states and organizations come to understand better the limitations and uncertainties of cyberattacks and the growing importance of Internet entanglement to their economic wellbeing, cost-benefit calculations of the utility of cyberwarfare may change.
+<P>
+At this point, however, the key to deterrence, conflict management, and de-escalation in the cyber realm is to acknowledge that we all still have a lot to learn and expand the process of communication among adversaries.

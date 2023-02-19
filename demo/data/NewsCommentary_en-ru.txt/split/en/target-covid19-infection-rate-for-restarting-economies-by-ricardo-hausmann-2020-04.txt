@@ -1,0 +1,79 @@
+<HEADLINE>
+Target R and Wait for the Vaccine
+<P>
+CAMBRIDGE – Many countries are now under lockdown to lower the growth rate of COVID-19 cases and deaths.
+Given the astronomical costs of such efforts to “flatten the curve” of COVID-19 infections, policymakers are under growing pressure to “reopen the economy.”
+But how can they do so safely?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Given that it takes an average of 5.2 days between infection and the onset of symptoms, and 13 days from onset to death, if the lockdown would bring new infections to a halt, the number of new cases and deaths should drop to zero within three weeks.
+By this standard, the actual process has been amazingly slow.
+Italy, for example, imposed a severe lockdown on March 9, a day when authorities there confirmed 1,797 new cases and 97 new deaths.
+On April 18, the numbers were 3,491 and 482, respectively.
+Italians are dying at a rate four times higher than they were before the lockdown.
+<P>
+And yet some, including US President Donald Trump, believe it is time to relax the restrictions.
+If the epidemic curve is an inverted U and we have seen a peak, the worst is behind us, right?
+<P>
+Wrong.
+And this mistake could cost tens of thousands of lives (if not many more) and lead to a longer W-shaped recession.
+<P>
+We know enough about the “mathematics” of epidemics to know when we should expect the outbreak’s peak in a given location.
+Exponential growth occurs if the number of susceptible persons infected by each infected person is above one.
+That number is equal to the R factor: the number of persons to whom each infected person transmits the virus times the probability that the person receiving the viral load is susceptible.
+<P>
+The pre-lockdown R in most countries was closer to three than to two.
+Lockdowns lower R; below one, the number of cases and deaths declines.
+So, the peak we have seen is that associated with the low R of the lockdown, not the R of the post-lockdown, which, without controls, would be much higher.
+A peak is ahead of us, and its size will depend on what we do next.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Given the contagiousness of the coronavirus, the only way to overcome the pandemic is for 80-90% of the population to have immunity.
+This number is actually not too sensitive to R. There are two ways to acquire immunity: getting sick or getting vaccinated.
+<P>
+Without a vaccine, the peak of the pandemic occurs when a proportion 1/R of the population has not yet been exposed.
+Thus, an R of 1.5, two, and three, implies that the peak occurs when, respectively, 33.3%, 50%, and 66.7% of the population have already been exposed.
+<P>
+How close are we to these numbers?
+The calculation is not straightforward, but we are actually very far, even in the most affected areas.
+The problem is that we cannot trust the official number of cases, because few of those exposed to the disease were tested.
+For example, dividing the number of confirmed cases in Italy by the country’s population yields a figure of just 0.27%.
+<P>
+One way to estimate an upper bound of the number of people exposed is to assume an optimistic death rate and try to infer the number of those exposed from that and the actual number of deaths.
+If we optimistically assume a death rate of just 0.2%, rather than of 0.3-3%, as others have estimated, at most 16.6% of Italians and 22.5% of New Yorkers have been exposed.
+<P>
+Opening up the economy means allowing more human interaction and hence greater potential for new infections.
+Two numbers matter for deciding whether this can be done safely any time soon: the post-lockdown R factor that results from the relaxation measures and the percentage of people who have already been exposed.
+<P>
+The R factor is the variable that governments try to influence through social distancing policies and other recommended behaviors, and it can be “nowcasted” daily by looking at the daily growth rate of cases and deaths.
+An R of two would generate a peak late this summer that would make Lombardy and New York look like a bunny slope.
+The scale of death and chaos would be politically unacceptable, especially after so much effort was invested in the lockdown.
+An R of 1.5 would generate a shallower but still overwhelming peak sometime between November and February, that would have many nasty months after it.
+Any R exceeding one will eventually overwhelm most health systems.
+<P>
+An alternative strategy is for governments to target a particular R, borrowing the framework from central banks’ inflation targeting.
+First, we need to establish clear and robust methodologies to nowcast R every day.
+Then comes the issue of choosing the target.
+<P>
+The epidemiological difference between an R of one and of 1.5 is huge: probably a difference in the number of deaths of a factor of 50.
+The GDP difference is hard to estimate, because it is hard to project people’s behavior in the midst of 1.5-induced pandemonium.
+It may be worse than R<1.
+<P>
+Moreover, an R of 1.5 would put the peak not too far from when it is reasonable to expect a vaccine to appear.
+Given the time scales involved, it makes sense to target an R that is one or less and wait for the vaccine to provide immunity to the population.
+<P>
+Given the average incubation period before the onset of symptoms, the consequences of measures targeting R will be visible only during the subsequent week.
+So, the relaxation strategy should be gradual, adopting a few decisions every other week in order to learn from their impact.
+The fewer the simultaneous changes, the easier it will be to learn.
+<P>
+A vaccine is too important an issue to be taken as an exogenous event that is left to experts or the US Food and Drug Administration.
+Many lives and points of GDP are at stake.
+Countries should be negotiating with companies now and be willing to participate in clinical trials in exchange for access to the vaccine.
+Innovative forms of accelerated testing should be on the table.
+And countries should be preparing all the production, packaging, and logistics needed for massive vaccination.
+<P>
+R>1 leads to an exorbitant death toll and stop-and-go business cycles.
+R-targeting until a vaccine arrives seems more sensible and humane, because it would both save lives and spare the economy.

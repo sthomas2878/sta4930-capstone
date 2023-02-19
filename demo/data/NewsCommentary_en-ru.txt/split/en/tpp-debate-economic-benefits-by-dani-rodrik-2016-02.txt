@@ -1,0 +1,58 @@
+<HEADLINE>
+The Trade Numbers Game
+<P>
+CAMBRIDGE – The Trans-Pacific Partnership (TPP) – a mega trade deal covering 12 countries that together account for more than one-third of global GDP and a quarter of world exports – is the latest battleground in the decades-long confrontation between proponents and opponents of trade agreements.
+<P>
+As usual, the pact’s advocates have marshaled quantitative models that make the agreement look like a no-brainer.
+Their favorite model predicts increases in real incomes after 15 years that range from 0.5% for the United States to 8% in Vietnam.
+Moreover, this model – developed by Peter Petri and Michael Plummer, from Brandeis and Johns Hopkins Universities, respectively, building on a long line of similar frameworks by them and others – foresees relatively insignificant cost to employment in affected industries.
+<P>
+The TPP’s opponents have latched on to a competing model, which generates very different projections.
+Produced by Jeronim Capaldo of Tufts University and Alex Izurieta of the United Nations Conference on Trade and Development (along with Jomo Kwame Sundaram, a former UN Assistant Secretary-General), this model predicts lower wages and higher unemployment all around, as well as income declines in two key countries, the US and Japan.
+<P>
+There is no disagreement between the models on the trade effects.
+In fact, Capaldo and his collaborators take as their starting point the trade predictions from an earlier version of the Petri-Plummer study.
+The differences arise largely from contrasting assumptions about how economies respond to changes in trade volumes sparked by liberalization.
+<P>
+Petri and Plummer assume that labor markets are sufficiently flexible that job losses in adversely affected parts of the economy are necessarily offset by job gains elsewhere.
+Unemployment is ruled out from the start – a built-in outcome of the model that TPP proponents often fudge.
+<P>
+The Peterson Institute for International Economics, which published the pro-TPP study, inexplicably states in its brief: “The agreement will raise US wages but is not projected to change US employment levels…” The result on wages is a conclusion of the study, whereas the employment “projection” could have been made before the computer crunched a single number.
+<P>
+Capaldo and his collaborators offer a starkly different outlook: a competitive race to the bottom in labor markets, with a decline in wages and government spending keeping a lid on aggregate demand and employment.
+Unfortunately, however, their paper does a poor job of explaining how their model works, and the particulars of their simulation are somewhat murky.
+<P>
+The Petri-Plummer model is squarely rooted in decades of academic trade modeling, which makes a sharp distinction between microeconomic effects (shaping resource allocation across sectors) and macroeconomic effects (related to overall levels of demand and employment).
+In this tradition, trade liberalization is a microeconomic “shock” that affects the composition of employment, but not its overall level.
+<P>
+Economists tend to analyze trade agreements in such terms, rendering the Petri-Plummer model more congenial to them.
+By contrast, the Capaldo framework lacks sectoral and country detail; its behavioral assumptions remain opaque; and its extreme Keynesian assumptions sit uneasily with its medium-term perspective.
+<P>
+The trouble is that the real world has not lined up so neatly with trade economists’ assumptions.
+Critics of trade agreements have marshaled countless anecdotes about the adverse effects of imports on wages and employment in affected communities.
+Recent empirical work by three academic economists – David Autor (MIT), David Dorn (University of Zurich), and Gordon Hanson (UC-San Diego) – shows that the critics have a point (and then some).
+<P>
+Autor, Dorn, and Hanson document that the expansion of Chinese exports has produced “substantial adjustment costs and distributional consequences” in the US.
+In regions with industries hit hard by competition from Chinese imports, wages have remained depressed and unemployment levels elevated for more than a decade.
+Falling employment in such industries was expected; the surprise was the absence of offsetting employment gains in other industries.
+<P>
+Advocates of trade agreements have long maintained that deindustrialization and the loss of low-skill jobs in advanced economies have little to do with international trade; they are the product of new technologies.
+In the current TPP debate, many prominent proponents still cling to this line.
+In light of the new empirical findings, such nonchalance toward trade has become untenable.
+(The Petri-Plummer model does indicate that the TPP will accelerate the movement of jobs from manufacturing to services, a result that the pact’s advocates do not trumpet.)
+<P>
+Economists do not fully understand why expanded trade has produced the negative consequences for wages and employment that it has.
+We do not yet have a good alternative framework to the kind that trade advocates use.
+But we should not act as if reality has not severely tarnished our cherished standard model.
+It would be far better to consider the full range of possibilities highlighted by the models on offer, instead of putting all the weight on a single one.
+<P>
+The uncertainties do not end with macroeconomic interactions.
+The Petri-Plummer study predicts that the bulk of the economic benefits of the TPP will come from reductions in non-tariff barriers (such as regulatory barriers on imported services) and lower obstacles to foreign investment.
+But the modeling of these effects is an order of magnitude more difficult than in the case of tariff reductions.
+The assumptions needed to do so are not standard and require many arbitrary short cuts.
+<P>
+The bottom line is that neither side’s models generate numbers reliable enough on which a case for or against the TPP can be made.
+Just about the only thing we can say with some certainty is that there will be winners and losers.
+Perhaps the agreement will galvanize investment and knowledge flows across the Pacific, giving the world economy a much-needed boost.
+Perhaps not.
+But those who believe that this trade agreement, like previous ones, will provide lopsided benefits have ample reason to be concerned.

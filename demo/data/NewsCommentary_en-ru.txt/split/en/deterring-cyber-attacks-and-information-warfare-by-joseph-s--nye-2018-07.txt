@@ -1,0 +1,52 @@
+<HEADLINE>
+Is Cyber the Perfect Weapon?
+<P>
+CAMBRIDGE – For years, political leaders such as former US Secretary of Defense Leon Panetta have warned of the danger of a “cyber Pearl Harbor.”
+We have known for some time that potential adversaries have installed malicious software in our electricity grid.
+Suddenly the power could go out in large regions, causing economic disruption, havoc, and death.
+Russia used such an attack in December 2015 in its hybrid warfare against Ukraine, though for only a few hours.
+Earlier, in 2008, Russia used cyber attacks to disrupt the government of Georgia’s efforts to defend against Russian troops.
+<P>
+Thus far, however, cyber weapons seem to be more useful for signaling or sowing confusion than for physical destruction – more a support weapon than a means to clinch victory.
+Millions of intrusions into other countries’ networks occur each year, but only a half-dozen or so have done significant physical (as opposed to economic and political) damage.
+As Robert Schmidle, Michael Sulmeyer, and Ben Buchanan put it, “No one has ever been killed by a cyber capability.”
+<P>
+US doctrine is to respond to a cyber attack with any weapon, in proportion to the physical damage caused, based on the insistence that international law – including the right to self-defense – applies to cyber conflicts.
+Given that the lights have not gone out, maybe this deterrent posture has worked.
+<P>
+Then again, maybe we are looking in the wrong place, and the real danger is not major physical damage but conflict in the gray zone of hostility below the threshold of conventional warfare.
+In 2013, Russian chief of the general staff Valery Gerasimov described a doctrine for hybrid warfare that blends conventional weapons, economic coercion, information operations, and cyber attacks.
+<P>
+The use of information to confuse and divide an enemy was widely practiced during the Cold War.
+What is new is not the basic model, but the high speed and low cost of spreading disinformation.
+Electrons are faster, cheaper, safer, and more deniable than spies carrying around bags of money and secrets.
+<P>
+If Russian President Vladimir Putin sees his country as locked in a struggle with the United States but is deterred from using high levels of force by the risk of nuclear war, then perhaps cyber is the “perfect weapon.”
+That is the title of an important new book by New York Times reporter David Sanger, who argues that beyond being “used to undermine more than banks, databases, and electrical grids,” cyberattacks “can be used to fray the civic threads that hold together democracy itself.”
+<P>
+Russia’s cyber interference in the 2016 American presidential election was innovative.
+Not only did Russian intelligence agencies hack into the email of the Democratic National Committee and dribble out the results through Wikileaks and other outlets to shape the American news agenda; they also used US-based social-media platforms to spread false news and galvanize opposing groups of Americans.
+Hacking is illegal, but using social media to sow confusion is not.
+The brilliance of the Russian innovation in information warfare was to combine existing technologies with a degree of deniability that remained just below the threshold of overt attack.
+<P>
+US intelligence agencies alerted President Barack Obama of the Russian tactics, and he warned Putin of adverse consequences when the two met in September 2016.
+But Obama was reluctant to call out Russia publicly or to take strong actions for fear that Russia would escalate by attacking election machinery or voting rolls and jeopardize the expected victory of Hillary Clinton.
+After the election, Obama went public and expelled Russian spies and closed some diplomatic facilities, but the weakness of the US response undercut any deterrent effect.
+And because President Donald Trump has treated the issue as a political challenge to the legitimacy of his victory, his administration also failed to take strong steps.
+<P>
+Countering this new weapon requires a strategy to organize a broad national response that includes all government agencies and emphasizes more effective deterrence.
+Punishment can be meted out within the cyber domain by tailored reprisals, and across domains by applying stronger economic and personal sanctions.
+We also need deterrence by denial – making the attacker’s work more costly than the value of the benefits to be reaped.
+<P>
+There are many ways to make the US a tougher and more resilient target.
+Steps include training state and local election officials; requiring a paper trail as a back-up to electronic voting machines; encouraging campaigns and parties to improve basic cyber hygiene such as encryption and two-factor authentication; working with companies to exclude social media bots; requiring identification of the sources of political advertisements (as now occurs on television); outlawing foreign political advertising; promoting independent fact-checking; and improving the public’s media literacy.
+Such measures helped to limit the success of Russian intervention in the 2017 French presidential election.
+<P>
+Diplomacy might also play a role.
+Even when the US and the Soviet Union were bitter ideological enemies during the Cold War, they were able to negotiate agreements.
+Given the authoritarian nature of the Russian political system, it could be meaningless to agree not to interfere in Russian elections.
+Nonetheless, it might be possible to establish rules that limit the intensity and frequency of information attacks.
+During the Cold War, the two sides did not kill each other’s spies, and the Incidents at Sea Agreement limited the level of harassment involved in close naval surveillance.
+Today, such agreements seem unlikely, but they are worth exploring in the future.
+<P>
+Above all, the US must demonstrate that cyber attacks and manipulation of social media will incur costs and thus not remain the perfect weapon for warfare below the level of armed conflict.

@@ -1,0 +1,50 @@
+<HEADLINE>
+The Emerging Lessons of the New Economy
+<P>
+CAMBRIDGE: Debates about the New Economy have raged for years, yet preliminary conclusions are now possible.
+The New Economy, built on advances in information technology (IT), is real, and is reshaping global industry and services, increases in US productivity in recent years being the clearest demonstration.
+Simultaneously, the stock market valuations associated with the New Economy are unreal, in the sense that they reflect more of a speculative bubble than fundamental valuations.
+A third conclusion is that like many technologies, adoption and diffusion of information technologies depends not just on private market forces, but on government.
+The US, which portrays itself as the bastion of free enterprise, is pursuing the IT revolution through a concerted "industrial policy" as well as through market forces.
+Other countries should also adopt national strategies to accelerate the uptake of the new technologies.
+<P>
+The reality of the New Economy is best captured in the data on economic growth and productivity in the US, where the New Economy is most advanced.
+Until about five years ago, American economists bemoaned a "growth slowdown," a downturn in productivity growth beginning in the 1970s.
+Studies seemed to show that the computer revolution had contributed little to improvements in productivity.
+Economic historians warned that it takes many years for new technologies to show up in actual improvements in industrial productivity, which was true for past major technological leaps.
+By the mid-1990s, those predictions were proving correct.
+Productivity growth began to soar, from around 1.5% per year, to around 3% per year.
+Higher productivity growth in turn resulted in an acceleration in GDP growth, from around 2.5% per year during 1990-96 to more than 4% per year since 1997.
+<P>
+The deserved enthusiasm for the real economy translated into an undeserved enthusiasm for the stock market prices of IT-based enterprises.
+There is a big difference between productivity growth and profits, and this basic point was largely ignored by market enthusiasts.
+Even though productivity gains are likely to be substantial, most benefits will accrue to consumers in the form of lower prices, or to workers in the form of higher wages relative to prices, rather than to firms in the form of higher profits.
+This is because of a basic aspect of internet technology: freedom of entry of new firms, and therefore the very high contestability of markets.
+Yes, early movers in internet technology such as Amazon.com, the electronic bookseller, will maintain an advantage, but that advantage is likely to remain modest, since the potential entry of competitors will keep profit margins low.
+In fact, even as Amazon increased its revenues in recent years, it sustained losses.
+Recent reversals in the US stock market, quickly transmitted around the world, are the first glimmers that market participants are waking up to these basic facts.
+<P>
+While the number of new dot-com billionaires created each day is likely to diminish drastically, the benefits of IT to the real economy will continue to spread.
+And the gains will not just be in the US and Europe.
+East Asian economies are surging in their rapid take-up of the internet, with particularly striking examples in Hong Kong, Singapore, Korea, and Taiwan.
+It is estimated that around one-third of all Koreans are now on the internet, a share rising to two-thirds by the end of this year.
+Connectivity in China will also boom, with internet use doubling in the past year (from around 4 million to 8.9 million), and likely to increase substantially when nationwide wireless internet services are inaugurated in May.
+Singapore launched a major telecoms liberalization which will reduce internet costs and raise usage.
+<P>
+While the US and Canada still dominate in estimated internet usage (around 140 million users as of March 2000), compared with Europe (83 million users), and Asia/Pacific (70 million users), and with South America (10 million users) and Africa (3 million users) far behind, the laggards have a chance to narrow the gap in with the right policies.
+Every government should understand that the rapid adoption of the internet benefits strongly from supportive government policies, not just "free market" policies.
+The internet was actually first created by a government project (ARPANET), fostered by the National Science Foundation, which helped to get universities and scientists on-line.
+Since those early days, the US Government has continued to pour billions of dollars into research and development of IT technologies.
+In addition, the Internet Tax Freedom Act established a moratorium on taxation of e-commerce transactions, while the Telecommunications Act of 1996 provided funding and government support for wiring of schools and public libraries.
+<P>
+Developing countries will need their own strategies, and soon.
+Market reforms are critical, especially freeing telecommunications from state monopolies so that private companies are free to invest in needed physical infrastructure.
+But governments should also foster an environment where much of the population gets on-line.
+Government agencies and public schools should be put on-line as fast as possible.
+As in the US, tax policies must foster the uptake of the new technologies.
+Curricula in schools and universities should be re-designed to ensure the training to support national IT systems.
+International donor agencies and foundations can be attracted to provide vital funding to very poor countries to help overcome the "digital divide."
+<P>
+Harvard University and IBM teamed up in the past year to prepare an "IT Readiness Guide" as a public service to help developing country governments and communities around the world assess where they are in the IT revolution and New Economy.
+This guide provides one useful tool for the formulation of an IT strategy.
+The guide can be retrieved, free of charge, from the internet website: http://www.readinessguide.org.

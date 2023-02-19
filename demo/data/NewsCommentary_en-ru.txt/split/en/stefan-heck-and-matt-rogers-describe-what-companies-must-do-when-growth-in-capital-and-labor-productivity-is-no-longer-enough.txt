@@ -1,0 +1,58 @@
+<HEADLINE>
+The Resource Revolution
+<P>
+SAN FRANCISCO – The world is on the threshold of the biggest business opportunity in a century, rivaling both the first Industrial Revolution, which transformed labor productivity, and the second,which mobilized unprecedented amounts of capital to build cities.
+The new revolution centers on the third primary factor of production: natural resources.
+<P>
+The revolution arrives not a moment too soon.
+After centuries of wasteful production and consumption practices – facilitated by ever-lower commodity prices that have declined by an average of 0.7% a year in peacetime over the past century – the world is in dire need of technologies that enable producers and consumers alike to do more with less.
+<P>
+Making matters more urgent, resource extraction is becoming increasingly expensive, as production shifts to locations that present difficult logistical – and often political – challenges.
+Meanwhile, levels of air, water, and soil pollution are rising rapidly in China, India, Indonesia, Brazil, and other emerging economies.
+<P>
+In order to achieve their growth objectives, companies must fundamentally rethink the way they integrate technology and use natural resources in their productive processes.
+Over the last two decades, companies have had to improve their performance by only 1-2% annually to achieve an increase in profits, and many have focused almost exclusively on capital and labor productivity.
+As a result, even the most successful managers lack the skills to cope with today’s resource-constrained markets.
+<P>
+In this environment, companies cannot compete on the basis of twentieth-century (if not nineteenth-century) technologies and practices.
+There is much more value in pioneering new, higher-productivity business models, based on five key changes:
+<P>
+• Substituting costly, toxic, or scarce materials with cheaper, more efficient, higher-performance, and more abundant alternatives.
+<P>
+• Embedding software in resource-intensive industries to optimize their production processes or products.
+<P>
+• “Virtualizing” processes – that is, moving them out of the physical world.
+<P>
+• Embracing circularity, which entails finding value in products after their initial use.
+<P>
+• Eliminating waste.
+<P>
+The good news is that progress is already being made.
+America’s burgeoning shale oil and gas industry, for example, has transformed its entire energy sector by revolutionizing resource extraction.
+Today, drilling is not only a dirty process characterized by heavy equipment, toxic mud, and sulfurous fumes.
+With the integration of information technology and hydraulic-fracturing (“fracking”), the central players are experts using joysticks and high-resolution screens to maneuver drill bits through geological formations.
+<P>
+Individual companies have pioneered change in other sectors.
+Cree and Philips have developed LED lighting technologies that offer 23 times longer life, measurably better color, easier control, and 85% lower operating costs than traditional incandescent bulbs.
+<P>
+Similarly, OPower has used behavioral science and cloud-based software to motivate consumers to cut their energy consumption by 2-4% annually – a change that is beginning to reshape power markets.
+And DIRTT (Doing it Right This Time) is building office interiors at as little as half the traditional cost through software-enabled virtualization, waste elimination, and optimization of the construction process.
+<P>
+These innovations exemplify the massive potential for businesses to improve resource productivity.
+Indeed, using tools provided by information technology, biology, and nanotechnology, the world can triple growth in resource productivity, raising it to 3 to 5% annually over the next two decades.
+<P>
+But this cannot occur without strong and forward-thinking leadership, which, unfortunately, is sorely lacking in today’s business environment.
+Indeed, managers today seem consistently surprised by the pace of change and thus find themselves behind the curve.
+<P>
+For example, many automobile manufacturers ignored the shift toward electric and hybrid vehicles – though sales were increasing at a rate of more than 50% annually – until their sales of conventional cars plummeted in key markets.
+Likewise, many are shocked that the cost of solar power is increasingly undercutting that of nuclear, coal, and gas technologies, even though this shift is in line with a trend that began in 1970.
+<P>
+Companies should devote more attention to developments in related industries as well.
+Automakers must monitor the consumer electronics industry to track advances in battery technology.
+And power companies need to analyze the development of semiconductors to anticipate the likely drop in demand for electricity, after more than a century of growth.
+<P>
+To win in the resource revolution, companies must balance technological, physical, and human-capital inputs, while adopting a more intelligent approach to organizational design and talent management.
+Whether the primary imperative is spotlighting data and analytics or forming new partnerships in other sectors to gain access to specialized expertise, aggressive innovation, and ambitious efficiency goals are critical.
+<P>
+Forward-thinking entrepreneurs are already reaping the benefits of this fast-moving revolution.
+Those who fail to adapt will fail to survive – and soon.

@@ -1,0 +1,66 @@
+<HEADLINE>
+The Debt Predators
+<P>
+NEW YORK – What do the Calabrian organized crime syndicate ‘Ndrangheta, Hertz, China’s Sichuan Trust, and the US Federal Reserve have in common?
+They are all deeply entangled in a financial system that has turned credit intermediation into a debt mint that produces assets to enrich investors but leaves households, firms, and governments struggling with unsustainable liabilities.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Investors have always been hungry for safety and yield.
+Logic suggests that you can’t have both, but that was before the age of structured finance and shadow banking.
+With the right legal coding strategy, simple payment obligations can be turned into liquid assets for investors.
+<P>
+Minting debt has little to do with conventional credit intermediation.
+It is all about investors and fee-charging intermediaries, not about debtors.
+They and their assets only provide the input to sustain the production line.
+And whenever it breaks down, which it does when the quality of inputs deteriorates or external factors (like a pandemic) disturb its operation, central banks stand ready to absorb the risk and recycle the financial junk.
+<P>
+The techniques for putting together this assembly line are relatively simple.
+You buy a bunch of claims at a discount from loan originators, pool them with other claims and transfer them to a special purpose vehicle.
+The SPV serves as a legal vessel to separate its assets from those of others so that investors who buy interests in the SPV do not have to worry about any exposure to loan originators, SPV trustees, or administrators.
+<P>
+When mortgage-backed securities were still the hottest asset around, brokers originated loans and sold them wholesale to large banks, which set up off-balance-sheet SPVs that issued fixed-income assets to investors.
+Once in motion, the debt mint is insatiable.
+Not surprisingly, the quality of inputs (the loans and the collateral) tends to deteriorate over time.
+This is what gave us the subprime mortgage crisis.
+Post-crisis regulatory reforms focused on banks and their role, but did not tackle the asset assembly line itself.
+If anything, debt mints – and the raw inputs that feed them and produce the assets investors want – have multiplied.
+<P>
+For example, the ‘Ndrangheta sent its offspring to business schools, where they learned how to earn substantial returns by supplying inputs to the debt mint.
+Soon enough, the ‘Ndrangheta set up front companies to collect and often extort bills from health-service providers against regional governments and sold them at a premium to financial intermediaries that operate the mint.
+Conveniently, anti-money laundering and know-your-customer regulations do not apply to these shadow banking operations.
+Thus, no one questioned where these bills came from and how they had been obtained.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+When Hertz filed for bankruptcy in May 2020, it was $19 billion deep in liabilities.
+Most were owed to company-affiliated, but legally separate SPVs.
+The inputs for these SPVs were intra-company loan obligations.
+<P>
+The first SPV raised funds from investors, lent them to the second, which offered the cars it owned as collateral and its leasing operations to produce the cash to pay back the loans.
+Investors were further protected by collateral calls in the event that the value of the collateral declined.
+For a while, the cash inflows boosted Hertz’s financial performance, but at the price of turning a car-rental company into a shadow bank whose core business was reduced to producing the collateral and cash flows for repayment.
+Hertz’s capital structure reflects this transformation: 90% liabilities and only 10% equity.
+This is what the capital structure of banks, not ordinary corporations, looks like.
+<P>
+Even China, a country that carefully guards the stability of its financial system, has not been spared.
+The trust industry market, an alternative to China’s largely state-controlled banking system, witnessed its “golden decade” in the 2000s and reached $3 trillion in 2020.
+Sichuan Trust Company Ltd. and other financial intermediaries packaged loans to real estate and infrastructure projects into assets for investors.
+As the practice expanded, the quality of loans declined.
+The COVID-19 crisis exposed the vulnerability of this scheme, forcing Sichuan and others to miss payments to investors and prompting government intervention.
+<P>
+The ‘Ndrangheta, Hertz, and Sichuan Trust are all part of debt mints that follow the same script and are designed for a single purpose: to produce assets to enrich investors and generate fees for intermediaries.
+The debtors, their houses, cars, or business operations supply only the raw material to the mint.
+This system is not merely incidentally fragile; it is designed to produce excessive debt, which translates directly into systemic risk.
+<P>
+Here is where the Federal Reserve and other central banks come in.
+The Fed backstops this system by facilitating, in times of distress, the recycling of these assets once investors have deemed them junk, and by offering liquidity support for unregulated financial intermediaries – even ordinary non-financial companies that find themselves in a liquidity squeeze.
+It assures investors that they will always find a buyer, even in the midst of a crisis.
+No wonder that Goldman Sachs could make $4.24 billion in profits from its fixed-income-asset division between April and June, at a time when the US economy was in lockdown and many businesses were in free fall.
+<P>
+Just because the 2020 crisis was triggered by an event that was exogenous to finance should not stop us from reforming a system that has failed all but the entities that are running and feeding the debt mint.
+Households do not need more debt; they need income.
+Firms do not need liabilities on par with banks; they need operating income.
+And sovereign states do not need debt; they need viable currencies to boost their spending power and serve their citizens.
+None of these needs will be met unless and until the debt mint is curbed.

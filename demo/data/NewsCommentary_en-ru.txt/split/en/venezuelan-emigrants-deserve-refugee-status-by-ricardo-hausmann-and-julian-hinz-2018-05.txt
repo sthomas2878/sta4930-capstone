@@ -1,0 +1,59 @@
+<HEADLINE>
+Venezuelans Deserve Refugee Status
+<P>
+CAMBRIDGE – Venezuela is in the news again.
+Through unprecedented treachery, President Nicolás Maduro awarded himself victory in the presidential election on May 20.
+Given that the blatantly pro-government electoral council had delisted the three main opposition parties and disqualified two major political leaders, much of the opposition boycotted the process.
+The two other candidates who participated did not recognize the result, given the many violations that took place.
+Neither did the United States, Canada, the European Union and most Latin American countries.
+<P>
+Despite official efforts at intimidation – for example, voters were forced to identify themselves in official party booths at the risk of being disqualified from social programs – abstention reached record levels.
+While the outcome of the election was never in doubt, the event destroyed any pretense of legitimacy by Maduro.
+<P>
+In the meantime, Venezuela’s catastrophic economic collapse is continuing at an astonishing rate.
+Food prices have soared by a factor of 100 in the year to April 2018, and by more than 200% in the last month alone.
+The price of the dollar has increased by a factor of over 100 since July 2017.
+According to OPEC’s monthly report, oil production has declined by 27% (equivalent to 520,000 barrels per day) in the 12 months to April of 2018.
+It now stands at 1.4 million bpd, two million barrels per day below where it was when Maduro’s predecessor and patron, Hugo Chávez, took power in 1999.
+The minimum wage, which is earned by the median worker, buys less than 900 calories a day – not enough to feed a person, let alone a family.
+The Catholic charity CARITAS Venezuela projects that 280,000 children will die of hunger this year.
+<P>
+Under these conditions, it should come as no surprise that Venezuelans are stampeding out of the country at a pace that is unprecedented in the Americas.
+While people once left in planes to destinations such as the US, Spain, and Panama in the hope of a better life abroad, today they walk across the border to Colombia and Brazil, or try to reach Aruba, Curaçao, and Trinidad and Tobago by boat, motivated by sheer desperation.
+<P>
+Estimates of the outflow abound.
+Colombia has tried to impose some order on the process by asking Venezuelans who have entered the country legally to register.
+203,000 did so this past month, not counting the 63,000 who registered in a similar effort last year.
+But how many have not registered yet?
+Colombia’s government believes that some 550,000 Venezuelans were in the country as of the end of 2017.
+And how many have entered the country since?
+<P>
+The scale of the outflow is hard to gauge.
+To assess it, the two of us have been working with Muhammed Yildirim of Koç University in Istanbul to devise an emigration indicator using Twitter data.
+Twitter is particularly appropriate because over 28% of Venezuelans had an account in 2016, and because the platform allows us to identify account-holders current location.
+While Twitter users are not a random sample of the population, they are quite representative, as their geographic footprint is highly correlated with that of the population as a whole.
+<P>
+Using data collected from the Twitter Streaming API, which contains a random sample of 1% of the world’s tweets, we tracked people who tweeted from Venezuela between February and April 2017, and then looked at where they tweeted from in February-April 2018.
+We look at those who tweeted only from Venezuela in the first period, and tweeted only from abroad in the second period.
+We deduct those that tweeted only from abroad in the first period and only from Venezuela in the second.
+We also control for the fact that migrants tend to tweet less than others, making it harder for us to find them in the 1% sample.
+Our estimate of net migration is 7.37% for the nine-month period between April 2017 and February 2018, which represents an annualized migration rate of 9.7%.
+<P>
+Given that Venezuela is a country of 30 million people, this represent 2.9 million people per year.
+Moreover, the geographic footprint of these migrants is different from previous ones: 24% are in Colombia, 15% in both Chile and Argentina, and about 5% each in the US, Spain, Peru, and Ecuador.
+Because the economic situation continues to deteriorate rapidly, it is reasonable to expect that this massive exodus will accelerate.
+<P>
+The international community has had trouble deciding what to do about Venezuela.
+The European Union and some political forces in Venezuela have asked for a new election, but holding fair elections while Maduro remains in power is a contradiction in terms.
+Others have advocated more forceful action.
+But, in the meantime, how should countries deal with the outflow of Venezuelans?
+<P>
+The United Nations Refugee Agency (UNHCR) has been urging countries to grant Venezuelans refugee status.
+The 1984 Cartagena Declaration commits them to it.
+But countries in the region, fearing a large number of refugees and the impact they might have on government budgets, have opposed such a move.
+To the dismay of the UNHCR, Trinidad and Tobago has even deported Venezuelan refugees.
+<P>
+The international community may need time to resolve Venezuela’s political crisis, but that is time that Venezuelans cannot afford.
+Countries can argue that they have actively sought a diplomatic solution and have even offered humanitarian assistance, only to be rejected by the Maduro regime.
+But countries are committed by international law and basic morality to call a spade a spade and grant Venezuelans refugee status.
+Doing so will not only right a wrong, but will also benefit them, thanks to the energy and creativity of good people who want nothing more than to live and work productively and without fear.

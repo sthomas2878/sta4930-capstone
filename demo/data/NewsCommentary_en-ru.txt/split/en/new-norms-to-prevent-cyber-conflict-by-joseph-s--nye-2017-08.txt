@@ -1,0 +1,56 @@
+<HEADLINE>
+Controlling Cyber Conflict
+<P>
+LAS VEGAS – When cyber-security professionals were polled recently at their annual BlackHat conference in Las Vegas, 60% said they expected the United States to suffer a successful attack against its critical infrastructure in the next two years.
+And US politics remains convulsed by the aftermath of Russian cyber interference in the 2016 election.
+Are cyber-attacks the wave of the future, or can norms be developed to control international cyber conflict?
+<P>
+We can learn from the history of the nuclear age.
+While cyber and nuclear technologies are vastly different, the process by which society learns to cope with a highly disruptive technology shows instructive similarities.
+It took states about two decades to reach the first cooperative agreements in the nuclear era.
+If one dates the cyber-security problem not from the beginning of the Internet in the 1970s, but from the late 1990s, when burgeoning participation made the Internet the substrate for economic and military interdependence (and thus increased our vulnerability), cooperation is now at about the two-decade mark.
+<P>
+The first efforts in the nuclear era were unsuccessful United Nations-centered treaties.
+In 1946, the US proposed the Baruch plan for UN control of nuclear energy, and the Soviet Union promptly rejected locking itself into a position of technological inferiority.
+It was not until after the Cuban Missile Crisis in 1962 that a first arms control agreement, the Limited Test Ban Treaty, was signed, in 1963.
+The Nuclear Non-Proliferation Treaty followed in 1968, and the bilateral US-USSR Strategic Arms Limitation Treaty in 1972.
+<P>
+In the cyber field, Russia proposed a UN treaty to ban electronic and information weapons (including propaganda) in 1999.
+With China and other members of the Shanghai Cooperation Organization, it has continued to push for a broad UN-based treaty.
+<P>
+The US resisted what it saw as an effort to limit American capabilities, and continues to regard a broad treaty as unverifiable and deceptive.
+Instead, the US, Russia, and 13 other states agreed that the UN Secretary General should appoint a Group of Governmental Experts (GGE), which first met in 2004.
+<P>
+That group initially produced meager results; but, by July 2015, it issued a report, endorsed by the G20, that proposed norms for limiting conflict and confidence-building measures.
+Groups of experts are not uncommon in the UN process, but only rarely does their work rise from the UN’s basement to a summit of the world’s 20 most powerful states.
+But while the GGE’s success was extraordinary, last month it failed and was unable to issue a consensus report for 2017.
+<P>
+The GGE process has limitations.
+The participants are technically advisers to the UN Secretary General rather than fully empowered national negotiators.
+Over the years, as the number of GGE member states increased from the original 15 to 20 and then to 25, the group became more unwieldy, and political issues became more intrusive.
+According to one diplomat who has been central to the process, some 70 countries have expressed interest in participating.
+But as the numbers expand, the difficulty of reaching agreement increases.
+<P>
+There is a wide range of views about the future of the GGE process.
+A first draft of a new report existed at the beginning of this year, and the able German chairman argued that the group should not rewrite the 2015 report, but try to say more about the steps that states should take in peacetime.
+<P>
+Some states suggested new norms to address data integrity and maintenance of the Internet’s core structures.
+There was general agreement about confidence-building measures and the need to strengthen capacity.
+The US and like-minded states pressed for further clarification of the earlier agreement that international laws of armed conflict, including the right of self-defense, apply in cyber space, but China, Russia, and their allies were reluctant to agree.
+And the deterioration in US-Russian relations soured the political climate.
+<P>
+Moreover, whereas some states hope to revive the GGE process or enlarge it into a broader UN process, others are skeptical, and believe that future progress will be limited to discussions among like-minded states, rather than leading to universal agreements.
+<P>
+Norms that may be ripe for discussion outside the GGE process could include protected status for the core functions of the Internet; supply-chain standards and liability for the Internet of Things; treatment of election processes as protected infrastructure; and, more broadly, norms for issues such as crime and information warfare.
+All of these are among the topics that may be considered by the new informal Global Commission on Stability in Cyberspace established early this year and chaired by former Estonian Foreign Minister Marina Kaljurand.
+<P>
+Progress on the next steps of norm formation will require simultaneous use of many different formats, both private and governmental.
+For example, the 2015 agreement between China and the US to limit industrial cyber espionage was a bilateral accord that was later taken up by the G20.
+<P>
+In some cases, the development of norms among like-minded states can attract adherence by others at a later point.
+In others, such as the Internet of Things, norms for security standards may benefit from leadership by the private sector or non-profit stakeholders in establishing codes of conduct.
+And progress in some areas need not wait for others.
+<P>
+A regime of norms may be more robust when linkages are not too tight, and an over-arching UN treaty would harm such flexibility at this point.
+Expansion of participation is important for the acceptance of norms, but progress will require action on many fronts.
+Given this, the failure of the GGE in July 2017 should not be viewed as the end of the process.

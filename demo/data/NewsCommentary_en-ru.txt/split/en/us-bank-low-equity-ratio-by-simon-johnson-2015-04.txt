@@ -1,0 +1,52 @@
+<HEADLINE>
+The Old New Financial Risk
+<P>
+WASHINGTON, DC – The main financial risk facing the United States today looks very similar to what caused so much trouble in 2007-2008: big banks with too much debt and too little equity capital on their balance sheets.
+Uneven global regulations, not to mention regulators who fall asleep at the wheel, compound this structural vulnerability.
+<P>
+We already saw this movie, and it ended badly.
+Next time could be an even worse horror show.
+<P>
+All booms are different, but every major financial crisis has at its heart the same issue: major banks get into trouble and teeter on the brink of collapse.
+Disruption at the core of any banking system leads to tight credit, with major negative effects on the real economy.
+In our modern world, in which finance is interwoven throughout the economy, the consequences can be particularly severe – as we saw in 2008 and 2009.
+<P>
+The most important question to ask of any financial system is how much loss-absorbing equity major banks have on their balance sheets.
+When a company suffers losses, its shareholder equity falls in value, and less equity means that the company is more likely to default on its debts.
+<P>
+The capital ratios most frequently highlighted by banks and officials are misleading, because they include items – such as goodwill and deferred tax assets – that are incapable of absorbing losses.
+We need to look instead at tangible equity relative to tangible assets.
+And we should also be very careful about the accounting used for derivatives.
+On this technical but crucial point, US generally accepted accounting principles (GAAP) are considerably more generous (because they understate potential losses) than International Financial Reporting Standards (IFRS).
+<P>
+Thomas Hoenig, vice chairman of the Federal Deposit Insurance Corporation, publishes his own calculation of capital levels at the world’s largest banks, and these data are now available through the end of 2014.
+The most leveraged big US bank, Morgan Stanley, has less than 4% equity, meaning that 96% of its balance sheet is some form of debt.
+The average for big US banks is just under 5% equity.
+<P>
+This is more – but not much more – capital than some troubled banks had in the run-up to the financial crisis in 2008.
+Citigroup, for example, had no more than 4.3% equity, according to Hoenig’s calculation, in November 2008.
+At the end of 2012, when Hoenig started to publish his US GAAP-IFRS adjustment, the average for the largest US banks was roughly 4% equity.
+It is possible to argue that this key measure is moving in the right direction, but the pace of improvement is glacial at best.
+<P>
+More important, 5% equity is unlikely to be enough to absorb the kinds of losses that a highly volatile world will throw up.
+Some major shocks could come from unexpected quarters.
+For example, assets may prove less liquid than investors suppose, as happened with money market funds in 2008; today, skeptics worry about exchange-traded funds (ETFs).
+Or overly complex securities could become hard to price.
+It is a red flag when people selling collateralized loan obligations today cannot fully explain the risks involved.
+<P>
+Or perhaps the shock will affect sovereign-debt values in faraway places, as happened in 1982.
+It is striking that no experts – public or private – really have a firm grip on what could happen if there is another round of difficulties with Greek government debt.
+<P>
+But the most dangerous shocks may be those that originate with the big banks themselves.
+The latest significant development to surface is what Better Markets, a pro-reform group that has put out a helpful fact sheet, calls “de facto guaranteed foreign subsidiaries” that trade derivatives – a murky phenomenon that likely involves all the big players.
+The trick here is that a de jure guaranteed foreign subsidiary of a US bank would have to comply with many US rules, including those governing conduct, transparency, and clearing (how the derivatives are actually traded).
+A foreign subsidiary that is supposedly independent is exempt from those rules.
+<P>
+But, as Dennis Kelleher of Better Markets points out, when pressure mounts and a crisis seems around the corner, banks will face great pressure to bring such subsidiaries back onto their balance sheet.
+This is exactly what happened in the last crisis, with Citigroup being a leading example.
+<P>
+The main reason why such loopholes are left open is that regulators choose not to close them.
+Sometimes this may be due to lack of information or awareness.
+But, in many cases, the regulators actually believe that there is nothing wrong with the behavior in question – either because they have been persuaded by lobbyists or because they themselves used to work in the industry (or could go work there soon.)
+<P>
+Sound familiar?

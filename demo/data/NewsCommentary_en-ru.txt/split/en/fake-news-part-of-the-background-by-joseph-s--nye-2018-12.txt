@@ -1,0 +1,56 @@
+<HEADLINE>
+Is Fake News Here to Stay?
+<P>
+CAMBRIDGE – The term “fake news” has become an epithet that US President Donald Trump attaches to any unfavorable story.
+But it is also an analytical term that describes deliberate disinformation presented in the form of a conventional news report.
+<P>
+The problem is not completely novel.
+In 1925, Harper’s Magazine published an article about the dangers of “fake news.”
+But today two-thirds of American adults get some of their news from social media, which rest on a business model that lends itself to outside manipulation and where algorithms can easily be gamed for profit or malign purposes.
+<P>
+Whether amateur, criminal, or governmental, many organizations – both domestic and foreign – are skilled at reverse engineering how tech platforms parse information.
+To give Russia credit, it was one of the first governments to understand how to weaponize social media and to use America’s own companies against it.
+<P>
+Overwhelmed with the sheer volume of information available online, people find it difficult to know what to focus on.
+Attention, rather than information, becomes the scarce resource to capture.
+Big data and artificial intelligence allow micro-targeting of communication so that the information people receive is limited to a “filter bubble” of the like-minded.
+<P>
+The “free” services offered by social media are based on a profit model in which users’ information and attention are actually the products, which are sold to advertisers.
+Algorithms are designed to learn what keeps users engaged so that they can be served more ads and produce more revenue.
+<P>
+Emotions such as outrage stimulate engagement, and news that is outrageous but false has been shown to engage more viewers than accurate news.
+One study found that such falsehoods on Twitter were 70% more likely to be retweeted than accurate news.
+Likewise, a study of demonstrations in Germany earlier this year found that YouTube’s algorithm systematically directed users toward extremist content because that was where the “clicks” and revenue were greatest.
+Fact checking by conventional news media is often unable to keep up, and sometimes can even be counterproductive by drawing more attention to the falsehood.
+<P>
+By its nature, the social-media profit model can be weaponized by states and non-state actors alike.
+Recently, Facebook has been under heavy criticism for its cavalier record on protecting users’ privacy.
+CEO Mark Zuckerberg admitted that in 2016, Facebook was “not prepared for the coordinated information operations we regularly face.”
+The company had, however, “learned a lot since then and have developed sophisticated systems that combine technology and people to prevent election interference on our services.”
+<P>
+Such efforts include automated programs to find and remove fake accounts; featuring Facebook pages that spread disinformation less prominently than in the past; issuing a transparency report on the number of false accounts removed; verifying the nationality of those who place political advertisements; hiring 10,000 additional people to work on security; and improving coordination with law enforcement and other companies to address suspicious activity.
+But the problem is not solved.
+<P>
+An arms race will continue between the social media companies and the states and non-state actors who invest in ways to exploit their systems.
+Technological solutions like artificial intelligence are not a silver bullet.
+Because it is often more sensational and outrageous, fake news travels farther and faster than real news.
+False information on Twitter is retweeted by many more people and far more rapidly than true information, and repeating it, even in a fact-checking context, may increase an individual’s likelihood of accepting it as true.
+<P>
+In preparing for the 2016 US presidential election, the Internet Research Agency in St. Petersburg, Russia, spent more than a year creating dozens of social media accounts masquerading as local American news outlets.
+Sometimes the reports favored a candidate, but often they were designed simply to give an impression of chaos and disgust with democracy, and to suppress voter turnout.
+<P>
+When Congress passed the Communications Decency Act in 1996, then-infant social media companies were treated as neutral telecoms providers that enabled customers to interact with one other.
+But this model is clearly outdated.
+Under political pressure, the major companies have begun to police their networks more carefully and take down obvious fakes, including those propagated by botnets.
+<P>
+But imposing limits on free speech, protected by the First Amendment of the US Constitution, raises difficult practical problems.
+While machines and non-US actors have no First Amendment rights (and private companies are not bound by the First Amendment in any case), abhorrent domestic groups and individuals do, and they can serve as intermediaries for foreign influencers.
+<P>
+In any case, the damage done by foreign actors may be less than the damage we do to ourselves.
+The problem of fake news and foreign impersonation of real news sources is difficult to resolve because it involves trade-offs among our important values.
+The social media companies, wary of coming under attack for censorship, want to avoid regulation by legislators who criticize them for both sins of omission and commission.
+<P>
+Experience from European elections suggests that investigative journalism and alerting the public in advance can help inoculate voters against disinformation campaigns.
+But the battle with fake news is likely to remain a cat-and-mouse game between its purveyors and the companies whose platforms they exploit.
+It will become part of the background noise of elections everywhere.
+Constant vigilance will be the price of protecting our democracies.

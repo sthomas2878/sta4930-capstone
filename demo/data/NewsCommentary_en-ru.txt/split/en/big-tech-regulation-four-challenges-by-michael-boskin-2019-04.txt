@@ -1,0 +1,62 @@
+<HEADLINE>
+How to Regulate Big Tech
+<P>
+STANFORD – Two years ago, it seemed clear to me that a combination of factors would lead to increased calls to regulate technology companies, especially Big Tech giants Amazon, Apple, Facebook, and Google.
+When that happens, I argued at the time, regulatory policy would have to strike a sensible balance between mitigating the most harmful effects of technology and allowing tech companies to continue improving people’s lives.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Now that day has arrived, and achieving such a balance will be difficult.
+Having benignly neglected these companies for years, democratic governments are now producing a dizzying array of policies to regulate them.
+The risk is that the flurry of policymaking will overcorrect and do more harm than good, not least by unintentionally stifling innovation and competition.
+<P>
+There are at least four separate regulatory policy issues that need to be addressed: privacy, market power, free speech and censorship (including inappropriate content), and national security and law enforcement.
+Tech-sector policies must therefore be narrowly targeted and carefully crafted to minimize the risk of counterproductive outcomes.
+<P>
+All four issues feature prominently in recent embarrassing revelations about tech firms’ practices, some of which have been detailed in books by industry insiders.
+Regarding privacy, for example, thousands of Amazon employees listen to what customers say to their Echo speakers, without the company seeking users’ prior permission to do so.
+Although Amazon says the recordings help to improve its Alexa digital assistant, most ordinary people think this is Orwellian Big Brother behavior.
+<P>
+As for market power, the European Union recently levied its third large fine on Google in as many years for three separate abuses of its market dominance.
+(Google is appealing.)
+Concerning content, the mass killings at mosques in Christchurch, New Zealand, in March were streamed live on Facebook, while there are daily controversies over removing hate speech and the possible anti-conservative bias in defining it.
+And on national security, the report by US special counsel Robert Mueller contains damning informationdating back to 2014 about Russian operatives’ use of social media to sow discord in America’s elections.
+<P>
+In these circumstances, a clamor among the public and politicians to “do something” is not surprising.
+There is certainly a need for regulation, as some tech bosses admit.
+Facebook CEO Mark Zuckerberg recently called on governments to play a “more active role” in regulating the Internet, in order to set clear rules regarding harmful content, election integrity, personal privacy, and data portability.
+To many, it sounded like the plea of an alcoholic or a drug addict to “protect me from myself.”
+<P>
+Regulators had started to act long before Zuckerberg’s appeal.
+Regarding data privacy, the EU’s General Data Protection Regulation (GDPR), which took effect in May 2018, requires all firms – whether EU-based or not – doing business in the EU to be GDPR-compliant in their global operations, not just those in the EU.
+But, because the large fixed cost of compliance will hit smaller companies hardest, the GDPR may end up protecting larger firms from competition from small ones.
+<P>
+Furthermore, the network effects that Big Tech firms enjoy – whereby additional users make all users more valuable – create entry barriers and limit competition.
+In addition to the EU’s fines, the US Federal Trade Commission is reexamining its antitrust policies in this new era of economic concentration.
+And some of the Democratic candidates for the 2020 US presidential election have their own suggestions for curtailing Big Tech’s market power.
+<P>
+Yet attempts to address market concentration may have counterproductive effects too.
+The most radical proposal, by Democratic candidate Elizabeth Warren, would prohibit Big Tech firms from both operating platforms and offering their own products on them.
+But consumers currently benefit from ease of use and perhaps lower prices, including “free services” made possible by these platforms’ advertising profits.
+<P>
+Turning tech platforms into regulated utilities is also problematic.
+A recent draft report in the UK proposed establishing a regulator to enforce codes of conduct – including a level playing field for competitors’ products on digital platforms, open standards for user data, and greater consideration in merger decisions of the potential future harm to competition.
+Although that is more promising than Warren’s proposal, it risks giving too much power to agencies that could be vulnerable to regulatory capture.
+<P>
+Finally, tech firms need to address the potential national-security risks arising from the use of their products.
+The current debate over Chinese mobile-telecom giant Huawei’s 5G ambitions underscores this imperative.
+So did the 2016 confrontation between Apple and the FBI over the company’s refusal to unlock a terrorist’s iPhone, and Google employees’ insistence that the company refuse US defense and intelligence contracts.
+<P>
+Such cases call for cooperation and mutual understanding between tech companies and national-security and law-enforcement professionals.
+For example, in the FBI episode, Apple CEO Tim Cook worried that a backdoor built into iPhones could be stolen or hacked, potentially causing far more harm.
+Yet tech firms must understand that actions that hurt profits may be necessary to protect lives in exceptional circumstances, provided the measures are narrowly prescribed and court-supervised.
+<P>
+As technologies continue to develop, the four challenges discussed here will only intensify.
+That is all the more reason for tech firms and governments to get ahead of the curve before an especially ugly incident causes an even larger public uproar, prompting broader and blunter regulation that unnecessarily limits technology’s undeniable benefits.

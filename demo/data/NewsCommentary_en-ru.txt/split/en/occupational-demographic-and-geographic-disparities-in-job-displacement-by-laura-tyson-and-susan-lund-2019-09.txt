@@ -1,0 +1,75 @@
+<HEADLINE>
+America’s Uneven Future of Work
+<P>
+BERKELEY – The US labor market is posting healthy numbers – for now.
+Yet Americans’ economic prospects vary significantly, depending on who they are and where they live, and these differences will sharpen as the pace of automation picks up in the decade ahead.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+For starters, some of the US economy’s largest occupational categories – food service, office support, manufacturing production, and retail and customer service – are highly exposed to labor-saving automation.
+Moreover, new research from the McKinsey Global Institute (MGI) finds that job displacement within these sectors is likely to be heavily concentrated among specific demographic groups.
+<P>
+Educational attainment emerges as the most critical factor determining the probability of automation-related job loss.
+Individuals with a high-school diploma or less are four times as likely to be in highly automatable roles than are individuals with a bachelor’s degree or higher.
+People with no postsecondary education account for more than three-quarters of the overall displacement that could occur by 2030, based on a mid-point scenario of the pace of automation.
+<P>
+Moreover, college- and advanced-degree holders are not immune from automation, particularly as artificial-intelligence systems grow more sophisticated.
+But individuals who have achieved this level of education will enjoy greater job security relative to people with no postsecondary training – and if they do have to change jobs, they will have a wider range of opportunities.
+<P>
+Large and persistent variations in educational attainment between racial and ethnic groups will show up in future job-displacement trends.
+For example, just 75% of Hispanic workers have at least a high-school diploma, compared to 90% of white, African-American, and Asian-American workers.
+Hispanic workers are also overrepresented in food-service jobs, and thus have the highest rate of potential displacement among all minority groups in MGI’s modeling.
+All told, more than one in four Hispanic workers – almost 7.5 million individuals – could be displaced.
+<P>
+By contrast, Asian-American workers, about 60% of whom have a bachelor’s degree or higher (compared to 40% for whites, 30% for African-Americans, and 20% for Hispanics), are the least susceptible to job dislocation by automation.
+Nonetheless, more than one in five Asian-American workers are currently employed in highly automatable roles.
+<P>
+Automation will also affect workers differently across age brackets.
+Of the roughly 14.7 million workers under age 34 who could be displaced by 2030, almost half are in roles with high separation rates, implying that employers do not have strong incentives to retrain and redeploy them.
+At the same time, some 11.5 million US workers over the age of 50 could be displaced.
+While some are close to retirement, others have years to go before they qualify for Social Security.
+Making matters worse, one-quarter of Americans have nothing saved for retirement, and most elderly Americans already rely on Social Security for most of their income.
+<P>
+Moreover, automation will have uneven effects across genders.
+Men, for example, make up the majority of drivers and assembly-line workers – two highly automatable roles – while women represent a majority of highly automatable administrative assistant and bookkeeper positions.
+In MGI’s projection, women will account for 47% of displaced workers and men for 53% by 2030.
+But women also stand to capture an outsize share of net job growth, owing to their larger representation in health professions and personal care work.
+<P>
+Many of these roles, however, are low-paying, which raises questions about whether the gender wage gap will close or widen.
+Based on current trends, it is likely that women will continue to face barriers to accessing high-wage, high-skill jobs in the tech sector, which is expected to grow as a result of automation.
+Today, women account for about 47% of the labor force in the United States, but hold only 20-25% of tech jobs.
+Increasing the share of women receiving a STEM education (science, technology, engineering, and math) and removing gender inequities in access to tech jobs will be essential for reducing women’s vulnerability to automation.
+<P>
+A final factor is geography.
+Automatable jobs are present in every community, but they account for a larger share of employment in some places than in others.
+As jobs are phased out, and as new ones are created, locations that are richer in growth industries will be better positioned to adapt and create employment opportunities for displaced workers.
+<P>
+Projecting to 2030, MGI finds that just 25 urban areas could account for a majority of net job growth in the US, as has also been the case in the decade following the Great Recession.
+Cities like Phoenix, Arizona, and Austin, Texas, have diverse economies and high concentrations of tech and business-services industries, which will expand alongside automation.
+In addition, some of the fastest employment growth could occur in smaller cities, including emerging tech hubs such as Provo, Utah, and Bend, Oregon, university towns, and retirement destinations.
+<P>
+Not surprisingly, the road ahead will be much tougher for rural areas, many of which never recovered from the Great Recession.
+Job growth is likely to remain flat for the next decade in many rural counties, and it could continue to shrink in the most distressed areas.
+<P>
+As matters stand, labor-saving automation is likely to widen America’s economic and social divides in the coming years.
+Communities across the US will need tailored strategies to manage this wave of change – from affordable housing in major cities to digital infrastructure that enables remote work in rural counties.
+But all communities can expect to face challenges relating to workforce redeployment and mobility, skills and training, economic development and job creation, and support for those undergoing occupational transitions triggered by automation.
+<P>
+Millions of mid-career workers will need more technical and specialized skills to remain in the workforce, and to have a chance at upward mobility.
+Making effective training programs available to anyone who needs them should be a priority across the country.
+Employers will be the natural providers of training for many workers.
+But workers who require retraining to find positions with new companies, or to switch occupations altogether, will need access to community colleges, online learning platforms, and other providers.
+Nonprofits, education providers, industry groups, and all levels of government will have a role to play in retraining workers and placing them in new jobs.
+<P>
+Although automation threatens to deepen existing disparities in the US, it also offers an opportunity to boost productivity and upgrade jobs.
+Making the most of the labor surplus created by new intelligent machines requires intelligent policies.
+Reaping the productivity gains that new technologies enable and making economic growth more inclusive do not have to be mutually exclusive goals.
+How the benefits of automation are shared among workers from a diverse array of backgrounds is not technologically predetermined.
+It is entirely up to us.

@@ -1,0 +1,69 @@
+<HEADLINE>
+What Economists Still Need to Learn
+<P>
+AMSTERDAM – Macroeconomics was one of the casualties of the 2008 global financial crisis.
+Conventional macroeconomic models failed to predict the calamity or to provide a coherent explanation for it, and thus were unable to offer guidance on how to repair the damage.
+Despite this, much of the profession remains in denial, hankering for a return to “normal” and in effect treating the crisis as just a rude interruption.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+That needs to change.
+Although an economic recovery has taken root, its structural fragilities suggest that macroeconomics is still in pressing need of an overhaul.
+Three sets of lessons from the past decade stand out.
+<P>
+First, the presumption that economies are self-correcting, while tempting in good times, is unfounded and can have catastrophic consequences.
+The recovery of the past few years has lulled many into a false sense of security, because it was the result of unconventional policy responses that transcended mainstream “general equilibrium” thinking.
+<P>
+Moreover, pre-crisis economic models are struggling to cope with the disruption unleashed by emerging digital technologies.
+The digital economy is characterized by increasing returns to scale, whereby Big Tech companies rapidly exploit network effects to dominate a growing array of markets.
+This has upended incumbent business models and transformed behavior in ways that have left macroeconomists and policymakers struggling – and mostly failing – to keep pace.
+<P>
+Consequently, the widespread belief that economic activity will follow a regular cycle around a stable growth trend is not very helpful beyond the very short term.
+Rather, the economic disruptions we are experiencing highlight an obvious fact, but one that prevailing models assume away: the future is fundamentally uncertain, and not all risks are quantifiable.
+<P>
+Precisely for that reason, we should reject the notion that emerged in the aftermath of the crisis that the world would enter a “new normal.”
+In the face of evolving structural shifts in finance, technology, society, and politics, it is far more useful to think in terms of a “New Abnormal,” in which economies are characterized by actual or latent structural instability.
+<P>
+The second lesson from the crisis is that balance sheets matter.
+The financialization of the global economy leaves national economies vulnerable to major corrections in asset prices that can render debt unserviceable.
+Macroeconomic models that focus on flows of income and spending ignore the critical role played by such wealth effects.
+Compounding the problem, these models are unable to predict asset prices, because the latter reflect investors’ beliefs about future returns and risks.
+In other words, asset prices are hard to forecast because they are themselves forecasts.
+<P>
+Moreover, financial reregulation since the crisis has not necessarily solved the balance-sheet problem.
+True, individual banks have become more resilient as a result of having to raise their capital and liquidity buffers substantially.
+But years of unprecedented monetary easing and large-scale asset purchases by central banks have encouraged risk-taking across the economic and financial system in ways that are harder to track and predict.
+In addition, policymakers’ determination to limit taxpayers’ exposure when financial institutions fail has led to risks being shifted onto investors through the use of instruments such as “bail-in-able” bonds.
+The systemic effects of such ongoing regulatory changes won’t be clear until the next recession strikes.
+<P>
+There is also a growing recognition that financial balance sheets are not the only type that matter.
+As climate change and environmental degradation move up the political agenda, macroeconomists are beginning to appreciate the importance of other, less volatile forms of capital for sustainable growth and wellbeing.
+In particular, they need to understand better the interaction of produced capital, whether tangible or intangible; human capital, including skills and knowledge; and natural capital, which includes the renewable and non-renewable resources and environment that support life.
+<P>
+Lastly, macroeconomists must recognize that distribution matters.
+Trying to model households’ economic behavior on the basis of a single “representative agent” elides crucial differences in the experiences and behavior of people in different income and wealth brackets.
+<P>
+The fact that the rich disproportionately benefited from globalization and new technologies, not to mention from central banks’ successful efforts to boost equity and bond prices after 2009, has arguably been a drag on growth.
+What is certain is that widening inequality has dramatically reduced support for mainstream politicians in favor of populists and nationalists, in turn corroding the previous policy consensus that sustained fiscal probity, independent monetary policy, free trade, and the liberal movement of capital and labor.
+<P>
+The global backlash against the economic and political status quo has also targeted big business.
+In the immediate aftermath of the crisis, financial institutions were in the firing line.
+But popular anger has since morphed into a general skepticism about corporate behavior, with the tech giants coming under particular scrutiny for alleged abuses of user data and monopoly power.
+<P>
+It would be too simplistic to view these tensions as the result of resentment toward the top 1%.
+There are substantial divisions within the remaining 99% between winners and losers from globalization.
+Moreover, divisions between countries have intensified as populists and nationalists blame foreigners for domestic economic and social problems.
+<P>
+This has contributed to wider questioning of globalization and international trade, investment, and tax rules.
+Changes in global governance arrangements may disrupt business models, transform the institutional framework, and add a fresh layer of uncertainty to the economic outlook.
+<P>
+The macroeconomics profession has yet to come to terms with the most important lessons of the past decade.
+And without a new consensus on how to manage uncertainty, the world is uncomfortably vulnerable to fresh economic, social, and political shocks.
+Sadly, another crisis may be needed to force economists to abandon their outmoded ways.

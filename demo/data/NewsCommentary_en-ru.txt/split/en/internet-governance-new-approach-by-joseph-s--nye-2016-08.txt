@@ -1,0 +1,56 @@
+<HEADLINE>
+Internet or Splinternet?
+<P>
+CAMBRIDGE – Who owns the Internet?
+The answer is no one and everyone.
+The Internet is a network of networks.
+Each of the separate networks belongs to different companies and organizations, and they rely on physical servers in different countries with varying laws and regulations.
+But without some common rules and norms, these networks cannot be linked effectively.
+Fragmentation – meaning the end of the Internet – is a real threat.
+<P>
+Some estimates put the Internet’s economic contribution to global GDP as high as $4.2 trillion in 2016.
+A fragmented “splinternet” would be very costly to the world, but that is one of the possible futures outlined last month in the report of the Global Commission on Internet Governance, chaired by former Swedish Prime Minister Carl Bildt.
+The Internet now connects nearly half the world’s population, and another billion people – as well as some 20 billion devices – are forecast to be connected in the next five years.
+<P>
+But further expansion is not guaranteed.
+In the Commission’s worst-case scenario, the costs imposed by the malicious actions of criminals and the political controls imposed by governments would cause people to lose trust in the Internet and reduce their use of it.
+<P>
+The cost of cybercrime in 2016 has been estimated to be as high as $445 billion, and it could grow rapidly.
+As more devices, ranging from automobiles to pacemakers, are placed online, malicious hackers could turn the “Internet of Things” (IOT) into “the weaponization of everything.”
+Massive privacy violations by companies and governments, and cyber attacks on civilian infrastructure such as power grids (as recently happened in Ukraine), could create insecurity that undercuts the Internet’s potential.
+<P>
+A second scenario is what the Commission calls “stunted growth.”
+Some users capture disproportionate gains, while others fail to benefit.
+Three or four billion people are still offline, and the Internet’s economic value for many who are connected is compromised by trade barriers, censorship, laws requiring local storage of data, and other rules that limit the free flow of goods, services, and ideas.
+<P>
+The movement toward sovereign control of the Internet is growing, and a degree of fragmentation already exists.
+China has the largest number of Internet users, but its “Great Fire Wall” has created barriers with parts of the outside world.
+<P>
+Many governments censor services that they think threaten their political control.
+If this trend continues, it could cost more than 1% of GDP per year, and also impinge on peoples’ privacy, free speech, and access to knowledge.
+While the world could muddle along this path, a great deal will be lost and many will be left behind.
+<P>
+In the Commission’s third scenario, a healthy Internet provides unprecedented opportunities for innovation and economic growth.
+The Internet revolution of the past two decades has contributed something like 8% of global GDP and brought three billion users online, narrowing digital, physical, economic, and educational divides.
+The Commission’s report states that the IOT may result in up to $11 trillion in additional GDP by 2025.
+<P>
+The Commission concluded that sustaining unhindered innovation will require that the Internet’s standards are openly developed and available; that all users develop better digital “hygiene” to discourage hackers; that security and resilience be at the core of system design (rather than an afterthought, as they currently are); that governments not require third parties to compromise encryption; that countries agree not to attack the Internet’s core infrastructure; and that governments mandate liability and compel transparent reporting of technological problems to provide a market-based insurance industry to enhance the IOT’s security.
+<P>
+Until recently, the debate about the most appropriate approach to Internet governance revolved around three main camps.
+The first, multi-stakeholder approach, originated organically from the community that developed the Internet, which ensured technical proficiency but not international legitimacy, because it was heavily dominated by American technocrats.
+A second camp favored greater control by the International Telecommunications Union, a United Nations specialized agency, which ensured legitimacy but at the cost of efficiency.
+And authoritarian countries like Russia and China championed international treaties guaranteeing no interference with states’ strong sovereign control over their portion of the Internet.
+<P>
+More recently, the Commission argues, a fourth model is developing in which a broadened multi-stakeholder community involves more conscious planning for the participation of each stakeholder (the technical community, private organizations, companies, governments) in international conferences.
+<P>
+An important step in this direction was the US Commerce Department’s decision last month to hand oversight of the so-called IANA functions – the “address book” of the Internet – to the Internet Corporation for Assigned Names and Numbers.
+ICANN, with a Government Advisory Committee of 162 members and 35 observers, is not a typical inter-governmental organization: the governments do not control the organization.
+At the same time, ICANN is consistent with the multi-stakeholder approach formulated and legitimated by the Internet Governance Forum, established by the UN General Assembly.
+<P>
+Some American senators complained that when President Barack Obama’s Commerce Department handed its oversight of the IANA functions to ICANN, it was “giving away the Internet.”
+But the US could not “give away” the Internet, because the United States does not own it.
+While the original Internet linked computers entirely in the US, today’s Internet connects billions of people worldwide.
+Moreover, the IANA address book (of which there are many copies) is not the Internet.
+<P>
+The US action last month was a step toward a more stable and open multi-stakeholder Internet of the type that the Global Commission applauded.
+Let’s hope that further steps in this direction follow.

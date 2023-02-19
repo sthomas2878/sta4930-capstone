@@ -1,0 +1,61 @@
+<HEADLINE>
+To the Jobless Economy
+<P>
+SUNNYVALE, CALIFORNIA – Nearly all economic forecasts agree that high unemployment in much of the developed world will most likely persist for years to come.
+But could even this dire projection underestimate future unemployment rates?
+<P>
+As improvements in computers, robotic technologies, and other forms of job automation continue to accelerate, more workers are certain to be displaced, and job creation will become even more challenging.
+Most economists dismiss concern that this might lead to long-term structural unemployment.
+Indeed, the idea often elicits outright derision.
+The conservative media in the United States recently mocked President Barack Obama for suggesting that automation might hurt employment growth.
+But Obama was right to raise the question.
+<P>
+A very large percentage of jobs are, on some level, essentially routine and repetitive.
+It seems likely that, as computer hardware and software continue to improve, many of these job types will become susceptible to automation, particularly to machine learning.
+<P>
+This is not far-fetched science-fiction technology, but rather a simple extrapolation of the expert systems and specialized algorithms that currently land jet airplanes, trade autonomously on Wall Street, or beat nearly any human being at chess.
+IBM’s Watson – the computer that prevailed on the television game show Jeopardy! – suggests that machine-learning algorithms could soon be able to take on a number of cognitive tasks.
+<P>
+As this technology improves, the systems that it enables will begin to match or exceed the capability of human workers in many routine job categories – a group that includes many workers with college degrees or other significant training.
+Many service-sector workers also will be threatened by the continuing trend toward technologies that turn their jobs over to consumers.
+<P>
+One of the most extreme historical examples of technology-induced job loss is, of course, found in agriculture in developed countries.
+In the late 1800’s, roughly three-quarters of all workers in the US were employed in agriculture.
+Today, the number is around 2-3%.
+Advancing mechanization eliminated millions of jobs.
+<P>
+Clearly, when developed countries’ agricultural sectors shed workers, long-term structural unemployment did not result.
+Workers were eventually absorbed by other sectors, particularly with the growth of industrial manufacturing, and average wages and overall prosperity increased dramatically – an excellent illustration of the so-called “Luddite fallacy.”
+This is the idea – generally accepted by economists – that technological progress will never lead to significant rates of long-term unemployment.
+<P>
+The reasoning is roughly as follows: as labor-saving technologies improve, some workers lose their jobs in the short run, but production becomes more efficient.
+That leads to lower prices for the goods and services produced, which in turn leaves consumers with more money to spend on other things, boosting demand – and employment – across nearly all industries.
+<P>
+The problem today is that we are not talking about rapid automation of a single economic sector like agriculture.
+When agriculture became mechanized, there were other labor-intensive sectors that could absorb millions of workers.
+There is little evidence to suggest a similar outcome this time around.
+<P>
+As more workers are automated out of more employment sectors, there must come a “tipping point,” beyond which the overall economy simply is not sufficiently labor-intensive to continue absorbing workers who lose their jobs due to automation (or globalization).
+Beyond this point, businesses will be able to ramp up production primarily by employing machines and software.
+Structural unemployment will become inevitable.
+<P>
+But, if automation is relentless, the basic mechanism for putting purchasing power into the hands of consumers will break down.
+Imagine a fully automated economy.
+Virtually no one would have a job (or an income); machines would do everything.
+Long before we reached that point, mass-market business models would become unsustainable.
+Where would consumption come from?
+And, if it is still a market (rather than a planned) economy, why would production continue if there were no viable consumers to purchase the output?
+<P>
+In developed countries, the most disruptive impact to the job market would come from substantial automation of the service sector, which now employs the majority of workers.
+In developing countries, the impact will be greatest in manufacturing, and factories there already are rapidly putting in place labor-saving technology.
+For example, Taiwan-based Foxconn, a major electronics producer and employer in China, recently announced plans to introduce huge numbers of sophisticated manufacturing robots.
+<P>
+Unemployment resulting from automation in the Chinese manufacturing sector could ultimately complicate China’s efforts to rebalance its economy toward increased domestic consumption – an objective that most economists agree is critical for the country’s long-term prosperity.
+If consumers see only an economy in which jobs are relentlessly automated away, and if it appears that additional education or training provides little protection, they will adjust their discretionary spending accordingly.
+And, given their concerns about long-term income continuity, traditional policies like stimulus spending or tax cuts would be ineffective.
+<P>
+So, are we approaching the “tipping point” where automation fuels structural unemployment?
+<P>
+Most economists object that the very assumption that such a point exists is speculative.
+But when one considers today’s advanced-country malaise – years of stagnating or declining wages for average workers, growing income inequality, increasing productivity, and consumption supported by debt rather than income – there certainly seems to be ample reason to speculate.
+Let us hope that a rigorous analysis of historical economic data does not arrive after the tipping point has been reached.

@@ -1,0 +1,49 @@
+<HEADLINE>
+When “Whatever It Takes” Isn’t Enough
+<P>
+NEW YORK – When interpreting the US Federal Reserve’s weekend announcement of new measures to mitigate the fallout from the COVID-19 pandemic, it is important not to confuse motion with action.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Arguably, the Fed’s latest move to ease monetary policy is unprecedented, not least because it was announced on a Sunday afternoon.
+The Fed cut the federal funds rate by 100 basis points (to the 0-0.25% range), which will likely translate into a meaningful reduction in the marginal cost of corporate and household borrowing from banks.
+The Fed is also reactivating quantitative easing (QE).
+In the coming months, it will increase its holdings of Treasury securities by at least $500 billion and its holdings of mortgage-backed securities issued by one of three quasi-governmental agencies (known as Ginnie Mae, Fannie Mae, and Freddie Mac) by at least $200 billion.
+And it will reinvest all maturing principal payments from these holdings in agency mortgage-backed securities.
+<P>
+In addition to these measures, the Fed also recently expanded its overnight repurchase-agreement (repo) operations and has announced that it will loosen capital and liquidity requirements for banks.
+But the most important part of the March 15 announcement was the promise to pursue “coordinated central bank action to enhance the provision of US dollar liquidity,” in partnership with the Bank of Canada, the Bank of England, the Bank of Japan, the European Central Bank, and the Swiss National Bank.
+To that end, the pricing of existing dollar-swap lines has now been lowered by 25 basis points; and, more significantly, foreign central banks will “begin offering US dollars weekly in each jurisdiction with an 84-day maturity, in addition to the 1-week maturity operations currently offered.”
+<P>
+With this commitment, the Fed finally seems to be acknowledging that the world does not end at the eastern tip of Long Island.
+But, of course, the Fed could have done even more in response to the COVID-19 crisis.
+For example, it could have announced more ambitious targets for its QE operations.
+And it could have pushed the federal funds rate into negative territory, given that the effective lower bound is likely somewhere in the range of -0.5-0.75% (it could be much lower were it not for the regrettable role played by currency).
+Yes, some scholars argue that there is a threshold (or “reversal rate”) below which further rate cuts would reduce rather than boost bank lending, but there is no convincing evidence to justify such fears at current rate levels.
+<P>
+In any case, even if the Fed had taken these additional steps, it still would be merely a bit player in the larger drama.
+The lead role must be played by fiscal policymakers, who have so far been absent.
+Unlike the 2008 crash, the COVID-19 pandemic is not a financial crisis that risks spilling over into the real economy.
+Rather, it is a crisis that started in the real economy – where it has introduced both demand and supply shocks – and has far-reaching implications for the financial system.
+<P>
+Ignoring the financial fallout from the pandemic would lead to further damage to the real economy.
+It is thus critical that funds be made available to enterprises and households whose sources of income have been disrupted or wiped out altogether.
+Whether these funds are provided at an interest rate of 1-1.25% or 0-0.25% is of secondary importance.
+The main concern is that under “normal” lending criteria, many existing borrowers will be judged to have materially impaired creditworthiness.
+To prevent widespread defaults and insolvency, we need fiscal measures such as credit guarantees, or quasi-fiscal interventions like the credit provided by Germany’s state-owned development bank to enterprises that fail to meet conventional creditworthiness criteria.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+There is also a strong case to be made for targeted fiscal stimulus.
+Clearly, health-care expenditures (COVID-19 testing and treatment) should be covered by the state, as should paid sick leave for workers who have been prevented from earning as a result of the pandemic.
+And similar compensation should be provided to parents who miss work because school closures have forced them to stay home with their children and to all who have lost income because of quarantine or self-isolation.
+Finally, targeted tax cuts and increased public spending are obvious ways to offset the costs stemming from disrupted supply chains and established demand patterns.
+<P>
+The pervasive uncertainty created by the pandemic is bound to undermine household consumption (by boosting precautionary saving) and corporate investment (because the option value of waiting has increased).
+Conventional expansionary monetary policies may be somewhat helpful in addressing these conventional Keynesian consequences of the crisis.
+But, under current conditions, the increase in aggregate demand from interest-rate cuts and QE is likely to be modest.
+Financial conditions may loosen a bit (to the extent that this happens through US dollar weakening, it will be a beggar-thy-neighbor effect), but the boost to effective demand will be minimal in our debt-ridden economies.
+<P>
+So, unless we get a meaningful fiscal response to the coronavirus crisis, we should be prepared for a steady slide into recession or worse.
+Under current circumstances, monetary policy simply doesn’t have the ability to affect economic performance significantly.

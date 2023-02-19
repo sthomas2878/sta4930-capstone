@@ -1,0 +1,64 @@
+<HEADLINE>
+Silent Inflation
+<P>
+NEW HAVEN – In many countries, inflation has become so low and stable in recent decades that it appears to have faded into the woodwork.
+Whereas galloping inflation was once widely viewed as the number one economic problem, today most people – at least in the developed countries – hardly ever talk about it or even pay attention to it.
+But “silent inflation” still has subtle effects on our judgment, and it may still lead to some consequential mistakes.
+<P>
+Since New Zealand’s central bank set the first example in 1989, monetary authorities around the world have increasingly pursued a policy of setting inflation targets (or target ranges) that are substantially above zero.
+That is, policymakers plan to have inflation, but steady inflation.
+What used to be a dirty word is now announced publicly, and moderation is enforced.
+<P>
+Central Bank News tabulates these targets for 68 countries.
+The European Central Bank targets annual inflation in 2018 at “below, but close to, 2%.”
+In Canada, Japan, South Korea, Sweden, the United Kingdom, and the United States, the 2018 inflation target is 2%.
+China and Mexico target 3% annual price growth.
+In India and Russia, the target rate is 4%.
+It is 5% in Ukraine and Vietnam, and 6% in Azerbaijan and Pakistan.
+<P>
+Some countries have had double-digit inflation targets.
+Egypt has set a target of 13%, plus or minus 3%, for this year.
+But most countries have set their 2018 inflation targets at between 2% and 6%.
+<P>
+It is worth translating these annual inflation targets to longer-term inflation, assuming that the target is not changed in coming years.
+Inflation of 2% per year implies 22% inflation over a decade, or 81% inflation over 30 years.
+That will make numbers measured in currency look a lot bigger over time, even if nothing real is changing.
+<P>
+It is a lot worse if one considers a 6% inflation rate.
+At that pace, prices would rise 79% in ten years and almost six-fold in 30 years.
+<P>
+Such policies cause a sort of magnification of the present in the minds of most people.
+Suppose you ask someone who has been living in the same house for 30 years what he or she paid for it.
+The purchase price will probably look ridiculously small.
+If one is not careful to remember the effects of inflation on all prices, it might seem that we are living in a magnificently successful new era.
+With silent inflation, it can be easy to forget that the truth is much less dramatic.
+<P>
+At the same time, in an age of Internet rumors and fake news, the world today can look a little unmoored from history.
+That might create a sense of real risk.
+<P>
+Inflation targeting has other effects, too, which seem to be more on the minds of central bankers.
+<P>
+In his influential 1998 book Inflation Targeting, Ben Bernanke and his co-authors advised policymakers to announce a target inflation rate because it “communicates the central bank’s intentions,” which would “reduce uncertainty.”
+The announced rate should be substantially positive, they wrote, because if officials tried to get it close to zero, any mistake could result in deflation, which “might endanger the financial system and precipitate an economic contraction.”
+As Federal Reserve Chair from 2006 to 2014, Bernanke formally introduced inflation targeting in the United States in 2012, setting the annual rate at 2%, where it has remained ever since.
+<P>
+But reducing uncertainty about prices by keeping the inflation target at 2% or more might actually increase a sense of uncertainty about real things like home values or investments.
+While it is right to worry about massive deflation, the historical relationship between deflation and recession is not all that strong.
+In a 2004 paper, the economists Andrew Atkeson and Patrick Kehoe concluded that most of the evidence of a relationship comes from just one case: the Great Depression of the 1930s.
+<P>
+The news media’s tendency to fixate on new records serves their short-term interest in creating the impression that something really important has happened that justifies readers’ or viewers’ attention.
+But sometimes there is a bit of fakery in the record, especially when the record is described in nominal terms and we have steady inflation.
+As a result, the emphasis on records can encourage a disrespect for history and nurture a sort of disoriented feeling that we live in exceptionally uncertain times.
+<P>
+For example, sometimes the stock market has set a new record, whether up or down, which is nothing more than the result of inflation.
+On February 5 of this year, the Dow Jones Industrial Average fell 4.6%, far below the record 22.6% decline on October 19, 1987.
+But media reports chose to point out that the February 5 drop was the biggest-ever one-day decline in absolute terms (1,175 points on the DJIA).
+Presenting a drop this way is misleading, and might encourage some panic selling.
+The amplitude of stock-market point swings invariably grows with general inflation in all prices.
+<P>
+The money illusion even bleeds into impressions of the “strength” of the economy, as if a high level of GDP growth or a bull market are indicators of the health of something called the economy.
+GDP growth numbers are conventionally reported in real (inflation-adjusted) terms, and unemployment numbers are unit-free.
+But reporting of just about every other major economic indicator is generally not corrected for inflation.
+<P>
+An inflation target of a few percentage points may seem to promote stability, and perhaps it really does.
+But we need to consider the possibility that it may lead to subtle misperceptions that have the opposite effect on the stability of our judgments.

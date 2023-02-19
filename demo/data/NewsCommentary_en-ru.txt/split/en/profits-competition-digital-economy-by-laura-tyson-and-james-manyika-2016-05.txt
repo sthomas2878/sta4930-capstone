@@ -1,0 +1,66 @@
+<HEADLINE>
+Putting Profits in Perspective
+<P>
+BERKELEY – High profits are usually viewed as a sign of a company’s economic prowess, the result of innovation and efficiency forged by healthy competition.
+But, as a recent report by the US Council of Economic Advisers shows, high profits can have another cause: market concentration.
+<P>
+The report lists several indicators of decreasing competition in the US economy, including a long-term decline in new business formation and the accrual of enormous profits to a small number of firms.
+Acting on its recommendations, President Barack Obama recently issued an executive order calling on all US government agencies to use their authority to promote competition.
+<P>
+It is an important moment to assess the state of competition in various sectors.
+Many US industries, including some of the most innovative, are dominated by a handful of large companies, some of which enjoy very large market shares and generate returns that greatly exceed historical averages.
+And some companies are stockpiling cash or acquiring competitors rather than using their returns to build productive capacity.
+<P>
+Nonetheless, it would be a mistake to conclude that weakening competition is driving these unusual economic trends.
+They are taking place in a context of swiftly changing sectoral dynamics and rapid digitization.
+<P>
+Corporate profits may be near all-time highs, but their variance among firms and industries has also increased significantly.
+The most profitable firms in the US are no longer in heavy industry; they are in sectors that capitalize on research and development, brands, software, and algorithms.
+Companies in sectors like pharmaceuticals, media, finance, information technology, and business services have the highest profit margins.
+Even excluding finance, these sectors’ share of US corporate profits has increased significantly, from 25% in 1999 to 35% in 2013.
+<P>
+Corporate profitability is increasingly driven by digital capabilities.
+In the most digitally advanced sectors of the economy, margins have grown 2-3 times faster than average.
+And even within these sectors, there are enormous spreads between the top-performing companies and the rest of the pack.
+The “winner-take-most” dynamic of the digital economy is not only producing record profits for leading firms; it may be accelerating the pace of innovation and broadening the areas in which companies can enter and quickly establish market power.
+<P>
+There are also many reasons why some firms appear to have decided to stockpile their returns.
+For starters, while gross business investment as a share of GDP has yet to recover from the 2008 financial crisis, growth in investment has been in line with its historical relationship to output growth.
+At the macroeconomic level, investment growth has been weak, because economic growth has been anemic.
+At the same time, investment growth has been strong in sectors like technology and – until recently – energy, where demand has been expected to rise.
+And while awaiting stronger demand at home, some US companies have been investing in foreign markets, attracted by their size and projected growth.
+<P>
+Second, measurement issues may be clouding investment figures.
+The price of capital equipment, particularly ICT equipment and software, has declined sharply since the 1980s, even as quality has improved.
+Thus, real price- and quality-adjusted investment may be considerably stronger than official statistics imply.
+<P>
+Third, asset-light, heavily digitized firms have a much larger presence in the US than they did even a decade ago.
+By their nature, these firms do not need much in the way of factories, equipment, and fleets of vehicles.
+Focusing on their investment in physical capital ignores their ability to generate returns from intellectual property and other intangible assets.
+And it overlooks their investment in R&D and intellectual property assets.
+In fact, R&D investment has hit a record high, driven by ideas-intensive companies that compete through innovation.
+<P>
+Meanwhile, many leading firms in ideas-intensive sectors are using their substantial cash holdings to grow through mergers and acquisitions.
+The bigger and more profitable these firms become, the more they tend to use M&A as one of the few available avenues for continued growth.
+<P>
+To be sure, this could accelerate market concentration.
+But it is important to note that the effects of market concentration are changing.
+Indeed, in a growing number of digital markets where a few giant firms hold commanding shares, there is little evidence that market power is leading to higher prices.
+On the contrary, consumers have gained an array of free services and conveniences.
+<P>
+More relevant concerns about market concentration may turn out to be privacy and data ownership, not pricing power.
+Indeed, some have begun to ask whether the collection and control of large amounts of data by a few huge firms with commanding market shares can be an anticompetitive force, creating insurmountable entry barriers for would-be innovators.
+<P>
+At the same time, however, some of the largest digital platforms, by their very nature, may promote competition, as they improve transparency in markets and enable millions of small enterprises to reach customers and suppliers around the world.
+A recent study found that digital platforms can help small businesses increase their export rates dramatically.
+<P>
+It is possible that the era of “peak profits” that has sparked concerns about market power is coming to a close.
+US corporations have had a remarkable three-decade run, but profits have already slipped from 11.5% of national income in 2012 to 9.5% last year.
+Today, wages are rising, borrowing costs have nowhere to go but up, and corporate tax policies are under scrutiny.
+<P>
+On top of those shifts, the digitization of American business is still in its early stages.
+Recent research has estimated that the US economy has realized only about 18% of its digital potential.
+As the economic transformation continues to play out, the corporate world may become even more Darwinian.
+Indeed, many digital behemoths did not exist a decade ago, and it is possible that they will no longer exist a decade from now.
+Today’s market leaders may look invincible.
+But they can always be toppled by the next new thing.

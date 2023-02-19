@@ -1,0 +1,83 @@
+<HEADLINE>
+Dirty Floating in Emerging Markets
+<P>
+LONDON – Say one thing and then do something else.
+That pretty much sums up current orthodoxy in emerging economies regarding exchange-rate management.
+Countries are supposed to use the interest rate to achieve an inflation target and let the exchange rate float freely.
+In practice, Asian and Latin American central banks often intervene in currency markets by buying and selling international reserves, and use a host of other measures to limit their currencies’ volatility.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+That exchange-rate make-believe will be harder to keep up after a landmark speech last week by Agustín Carstens, General Manager of the Bank for International Settlements (BIS), at the School of Public Policy at the London School of Economics.
+In the past, the BIS has been regarded as a bastion of orthodoxy.
+But now the BIS is arguing that orthodoxy should be updated.
+Markets are bound to listen.
+<P>
+Inflation targeting can claim important achievements, which Carstens duly listed.
+It has helped bring inflation rates down in most emerging markets.
+It has also helped reduce what economists call exchange-rate pass-through – the immediate impact of exchange-rate depreciations on domestic inflation.
+<P>
+But this does not mean that when confronted with massive capital flows, emerging markets can or should exercise benign neglect of the exchange rate, as prevailing orthodoxy suggests.
+This standard dictum “is honored more in its breach than in its observance as a guide for monetary policy,” Carstens observed dryly.
+<P>
+A key fact explains the gap between theory and practice.
+Emerging economies’ financial conditions tighten when their currencies depreciate, and vice versa.
+It was not supposed to happen that way.
+Letting their currencies float was supposed to allow countries to seize control of their domestic interest rates, which could then be adjusted as necessary to smooth domestic economic fluctuations.
+Alas, reality has turned out to be considerably more vexing.
+<P>
+One problem is well understood.
+Because of emerging economies’ checkered financial history, their governments, banks, and firms often have no choice but to borrow abroad in dollars.
+When the exchange rate depreciates, the domestic-currency value of those loans increases.
+In a mild scenario, this can cause a slowdown in domestic lending, investment, and growth; in extreme cases, it can cause defaults, bankruptcies, and a financial crisis.
+Those adverse balance-sheet effects are one reason why emerging-market central banks are allergic to sharp exchange-rate movements.
+<P>
+The good news is that the original sin that prevented emerging markets from borrowing in their own currencies seems to have been forgiven.
+Today, foreign investors hold large portfolios of local-currency bonds in Colombia, Mexico, South Africa, and Turkey, among other countries.
+The bad news, argue BIS economists, is that borrowing in local currency helps, but is no panacea.
+Their research shows that a sharply depreciating exchange rate is associated with widening sovereign interest-rate spreads: when the peso, rand, or lira tank, domestic long-term interest rates rise!
+This is certainly not what received wisdom on the transmission mechanisms of monetary policy would predict.
+<P>
+The reason for this paradoxical behavior is that global investors are bound by value-at-risk rules and care about returns in dollars.
+When they suffer exchange-rate losses, they automatically restrict credit to that country, causing the exchange rate to fall further and local interest rates to spike.
+<P>
+The BIS concludes that when changes in advanced-economy monetary policy or shifts in investor appetite cause massive capital outflows, “the exchange rate may … act as a transmitter and amplifier of financial shocks, rather than an absorber of real shocks.”
+<P>
+This is a big problem for central banks that worry – as they should – about financial stability.
+But even for central banks that claim to care about inflation and nothing else, exchange-rate volatility poses a dilemma.
+An appreciating currency puts downward pressure on inflation, but it also loosens domestic financial conditions.
+As debts and risk pile up, the stage is set for a sharp devaluation and upward price pressures in the future.
+<P>
+What should central bankers do about this inflation-today-versus-inflation-tomorrow tradeoff?
+One possibility is to include the exchange rate among the factors they consider when setting interest rates.
+This could be achieved through a modified Taylor rule – named after Stanford University economist John Taylor – that added the deviation of the exchange rate from some target level to the standard targets for inflation and the output gap.
+<P>
+Many emerging-market central banks do this already.
+After a depreciation, they often tighten monetary policy in order to contain so-called second-round effects (whereby the weaker exchange rate contaminates expectations and wage-setting behavior).
+The problem is that when investors panic and the exchange rate becomes unhinged, there be may be no interest rate sufficiently high to calm things down.
+Even worse, a sky-high interest rate that sinks the economy and causes central-bank short-term debt to pile up may reduce credibility, rather than enhancing it.
+<P>
+Witness Argentina today: the central bank has vowed to keep the money supply constant (and is keeping its word), short-term interest rates are 70%, and the government is slashing the fiscal deficit.
+But inflation keeps rising (it is near 55% over the last 12 months) and the peso remains under pressure.
+<P>
+An alternative is to use sterilized exchange-market intervention, as many Asian countries routinely do, and as Argentina is close to doing, despite earlier vows to the contrary.
+Intervention during the exchange rate’s upswing allows the central bank to accumulate international reserves, which is a desirable macroprudential policy.
+And during the downswing, when global investors withdraw their funds, exchange-market intervention via the sale of reserves can be stabilizing, because it supplies the dollar liquidity the local economy desperately needs.
+<P>
+Skeptics will claim that sterilized exchange rate intervention is not supposed to have any effects.
+Those skeptics are wrong, BIS researchers counter.
+Their work, Carstens noted, shows that “sterilized FX purchases in EMEs [emerging-market economies] exert a statistically and economically significant depreciating effect on exchange rates, at least temporarily.”
+<P>
+Should this intervention be guided by discretion or rules?
+If the latter, can rules be sufficiently flexible to avoid establishing a quasi-fixed exchange rate against which markets will inevitably bet?
+These questions and many others remain to be answered.
+<P>
+But one thing is clear: clean floating is out and dirty floating is in.
+Theory is at last catching up with practice.

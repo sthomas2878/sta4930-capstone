@@ -1,0 +1,62 @@
+<HEADLINE>
+Will New Technologies Help or Harm Developing Countries?
+<P>
+CAMBRIDGE – New technologies reduce the prices of goods and services to which they are applied.
+They also lead to the creation of new products.
+Consumers benefit from these improvements, regardless of whether they live in rich or poor countries.
+<P>
+Mobile phones are a clear example of the deep impact of some new technologies.
+In a clear case of technological leapfrogging, they have given poor people in developing countries access to long-distance communications without the need for costly investments in landlines and other infrastructure.
+Likewise, mobile banking provided through cell phones has enabled access to financial services in remote areas without bank branches.
+<P>
+These are instances of technology improving the lives of poor people.
+But for technology to make a real and sustained contribution to development, it must not only provide better and cheaper products; it must also lead to more higher-paying jobs.
+In other words, it must help poor people in their role as producers as well as consumers.
+A model of growth that the economist Tyler Cowen has called “cell phones instead of automobile factories” raises the obvious question: How do people in the developing world afford to purchase cell phones in the first place?
+<P>
+Consider again the examples of mobile telephony and banking.
+Because communications and finance are inputs into production, they are to some extent producer services as well as consumer services.
+<P>
+For example, a well-known study has documented how the spread of mobile phones in the Indian state of Kerala enabled fishermen to arbitrage price differences across local markets, increasing their profits by 8% on average as a result.
+Kenya’s ubiquitous mobile banking service M-Pesa appears to have enabled poor women to move out of subsistence agriculture into non-farm businesses, providing a significant bump up the income ladder at the very bottom.
+<P>
+New digital technologies have been playing an important role in transforming large-scale farming in Latin America and elsewhere.
+Big data, GPS, drones, and high-speed communication have enabled improved extension services; optimized irrigation and pesticide and fertilizer use; provided early-warning systems; and enabled better quality control and more efficient logistics and supply-chain management.
+These improvements raise farm productivity and facilitate diversification into non-traditional crops with higher returns.
+<P>
+The introduction of these new technologies in production in developing countries often takes place through global value chains (GVCs).
+In principle, GVCs benefit these economies by easing entry into global markets.
+<P>
+Yet big questions surround the possibilities created by these new technologies.
+Are the productivity gains large enough?
+Can they diffuse sufficiently quickly throughout the rest of the economy?
+<P>
+Any optimism about the scale of GVCs’ contribution must be tempered by three sobering facts.
+First, the expansion of GVCs seems to have ground to a halt in recent years.
+Second, developing-country participation in GVCs – and indeed in world trade in general – has remained quite limited, with the notable exception of certain Asian countries.
+Third, and perhaps most worrisome, the domestic employment consequences of recent trade and technological trends have been disappointing.
+<P>
+Upon closer inspection, GVCs and new technologies exhibit features that limit the upside to – and may even undermine – developing countries’ economic performance.
+One such feature is an overall bias in favor of skills and other capabilities.
+This bias reduces developing countries’ comparative advantage in traditionally labor-intensive manufacturing (and other) activities, and decreases their gains from trade.
+<P>
+Second, GVCs make it harder for low-income countries to use their labor-cost advantage to offset their technological disadvantage, by reducing their ability to substitute unskilled labor for other production inputs.
+These two features reinforce and compound each other.
+The evidence to date, on the employment and trade fronts, is that the disadvantages may have more than offset the advantages.
+<P>
+The usual response to these concerns is to stress the importance of building up complementary skills and capabilities.
+Developing countries must upgrade their educational systems and technical training, improve their business environment, and enhance their logistics and transport networks in order to make fuller use of new technologies, goes the oft-heard refrain.
+<P>
+But pointing out that developing countries need to advance on all those dimensions is neither news nor helpful development advice.
+It is akin to saying that development requires development.
+Trade and technology present an opportunity when they are able to leverage existing capabilities, and thereby provide a more direct and reliable path to development.
+When they demand complementary and costly investments, they are no longer a shortcut around manufacturing-led development.
+<P>
+Compare the new technologies with the traditional model of industrialization, which has been a powerful engine of economic growth in developing countries.
+First, manufacturing is tradable, which means domestic output is not constrained by demand (and incomes) at home.
+Second, manufacturing know-how was relatively easy to transfer across countries and, in particular, from rich to poor economies.
+Third, manufacturing did not make large demands on skills.
+<P>
+These three characteristics collectively made manufacturing a fantastic escalator to higher incomes for developing countries.
+New technologies present a very different picture in terms of the ease of transferring know-how and the skill requirements they imply.
+As a result, their net impact on low-income countries looks considerably more uncertain.

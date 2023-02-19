@@ -1,0 +1,60 @@
+<HEADLINE>
+Aging, the Final Frontier
+<P>
+SAN FRANCISCO – Even if young people think they are immortal, they can’t help but notice how fast their pets age.
+The puppy we receive as a child is old by the time we reach adulthood.
+Why do we live longer than dogs?
+The answer must lie in our genes, because genes are ultimately what make us different from other animals.
+<P>
+Presumably, we live longer than dogs because, during the evolution of our common ancestor, gene changes occurred in our lineage that slowed our rate of aging.
+To find the genes that can influence aging, researchers have begun to change individual genes in specific animal species, hoping to copy some of what evolution has done so well.
+<P>
+You might think that many genes would have to be changed to extend lifespan – genes affecting muscle strength, wrinkles, dementia, and so forth.
+But researchers have found something quite surprising: there are certain genes whose alteration can slow the aging of the whole animal all at once.
+<P>
+For example, single-gene changes can double the lifespan of the small roundworm C. elegans, the animal in which such genes were first identified, and they have extended the lifespan of mice, which are mammals like us, by up to 50%.
+Equally amazing, these mutant animals, which stay young longer, tend to be more resistant to age-related diseases, including cancer, protein-aggregation disease, and heart disease.
+<P>
+How can changing a single gene do this?
+Most longevity genes are “master control genes,” which extend lifespan by changing the activities of many subordinate genes and processes.
+For example, when the C. elegans daf-2 gene is impaired, lifespan is doubled, partly because a protein called FoxO is activated.
+FoxO, in turn, extends lifespan by activating a diverse array of cell-protective genes, including genes that strengthen the immune system, improve DNA repair, accelerate the clearance of damaged proteins, counteract oxidative damage, and help proteins maintain their proper shape.
+You can think of FoxO as a building superintendent who extends the life of a building by hiring specialized workers to fortify and repair the roof, floors, windows, and foundation.
+<P>
+The daf-2 gene, which controls FoxO, encodes a hormone receptor similar to the human receptors for insulin and IGF-1.
+These hormones had long been known to respond to nutrients and physiological cues, and they are essential for life.
+What aging researchers have found is that their slight impairment elicits a “danger signal” (like news that a hurricane is on the way), which activates FoxO to fortify the animal.
+The discovery that animals have a latent ability to live much longer than they normally do, because they have an inducible, multifaceted cell-protection system, is a fundamental breakthrough that could change our lives.
+<P>
+Lifespan-control mechanisms may be the same in all animals.
+Inhibiting the mouse’s insulin or IGF-1 receptor (daf-2) genes, or other genes needed for insulin or IGF-1 action, can extend mouse lifespan, sometimes dramatically.
+Interestingly, selective breeding for small dogs produced IGF-1 hormone mutants, which, as would be predicted from aging research, live much longer then large dogs.
+(One role of IGF-1 is to promote growth.
+However, studies have shown that very weak impairment of IGF-1 action can increase animal lifespan with little effect on body size.)
+<P>
+Most relevant to us is one study’s finding that humans who carry less active forms of the IGF-1 receptor gene were more likely to live to 100.
+In addition, DNA variants in a human FoxO gene have been associated with exceptional longevity in many populations around the world.
+<P>
+If animal lifespan genes also affect our lifespan, can we make a drug that targets the proteins they encode to slow our aging and protect us from age-related disease?
+<P>
+In C. elegans, there are many different molecular routes to FoxO activation, and activating more than one at the same time can produce spectacular (six-fold or greater) lifespan increases.
+No one knows whether anything like this will ever be possible in humans, but we, too, are likely to have many different FoxO-activating drug targets in our bodies.
+<P>
+In fact, there is already a life-extension drug for mice: inhibiting another nutrient sensor, called Tor, increases lifespan in all animal species examined so far (though the jury is still out for humans).
+Giving mice rapamycin, a drug that inhibits Tor, extends lifespan even if the mice are fairly old when the treatment begins.
+Whether rapamycin will have the same effect in humans is not clear.
+<P>
+Rapamycin is now used to prevent the immune system from rejecting transplanted organs.
+Suppressing one’s immune system could potentially be undesirable.
+Interestingly, though, as one would predict for an anti-aging substance, rapamycin has been approved for cancer therapy and is in trials for other age-related diseases.
+<P>
+In addition to Tor and FoxO, many other longevity genes and pathways have been identified in animals, any of which could potentially affect humans.
+Still more longevity genes have been identified by studying long-lived people.
+In one study, centenarians were more likely to carry certain variants of a cholesterol-metabolism gene called CETP than were people who die earlier.
+Drugs targeting the protein encoded by this gene are now in clinical trials for treatment of vascular disease.
+<P>
+Finally, a completely different approach may come from telomere studies: when telomeres, the ever-shortening ends of chromosomes, are artificially extended in mice, the mice die prematurely of cancer.
+But if telomeres are artificially lengthened in mice that are also engineered to be resistant to cancer, the mice live longer than normal.
+<P>
+Surprisingly, despite the fantastical “fountain-of-youth” quality of these laboratory findings, the fact that simple gene changes can slow aging and extend animal lifespan is not widely known, and funding for this research is quite limited.
+But, given the perennial allure of a longer, youthful, and healthy life, I suspect that this situation will soon begin to change.

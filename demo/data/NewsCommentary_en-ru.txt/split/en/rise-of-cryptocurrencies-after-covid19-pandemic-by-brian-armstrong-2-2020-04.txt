@@ -1,0 +1,67 @@
+<HEADLINE>
+Cryptocurrencies’ Time to Shine?
+<P>
+SAN FRANCISCO – Even as all of humanity mobilizes against COVID-19, thoughts are turning to how the world will be different after the crisis.
+As businesses rush to adapt to the new world of social distancing, the pandemic has accelerated an already inexorable trend toward digital commerce.
+This broader shift should also include the widespread adoption of digital currencies, which provide stronger consumer financial and privacy protections.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+For most of the twentieth century, encryption was reserved for national-security needs.
+Cryptography helped the Allies win World War II, and then protected secret communications during the Cold War.
+Until as recently as 1992, the United States, as a matter of national security, did not allow cryptographic technology to be exported.
+Encrypted communication was not widely available, and anyone using it was assumed to have something to hide.
+<P>
+But starting in the 1990s, early Internet entrepreneurs began calling for encryption to be used in e-commerce, arguing that it was needed in order to protect customer credit card numbers, passwords, and other information entered online.
+It turned out that the same encryption technology that had been created in academic labs – where trust and collaboration reigned – could be useful to everyone.
+<P>
+US policymakers and law enforcement initially balked at this push toward widespread encryption.
+In their view, privacy for everyone meant privacy for terrorists, drug dealers, and money launderers.
+As FBI Director Louis J. Freeh told Congress in 1994, preserving the US government’s ability to intercept Internet communications was “the No. 1 law enforcement, public safety, and national security issue facing us today.”
+<P>
+The debate about end-to-end encryption is still raging.
+But, crucially, consumer expectations have changed since the 1990s.
+The overwhelming majority of Internet traffic is now encrypted, and most of us have been trained to look for the closed-lock icon in our browser before entering sensitive information.
+Popular apps like WhatsApp, Telegram, iMessage, and Signal have led the way in normalizing private messaging that can’t be tracked by third parties.
+<P>
+But there is one area of our lives where privacy is not yet the norm: our personal financial information.
+By law, financial firms are required to collect reams of personal information about their customers.
+This information ultimately ends up on online databases, where it presents a tempting target for hackers.
+In 2017, the credit-rating firm Equifax revealed that a data breach had exposed sensitive information about more than 147 million consumers, or just under half the US population.
+That followed a similar breach in 2013, when hackers famously obtained the names, credit card numbers, and other information about tens of millions of Target customers.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Fortunately, a solution is on the horizon.
+Cryptocurrencies hold the promise of creating a more open financial system, with worldwide access, instantaneous fund transfers, lower costs, and vastly improved consumer-privacy protections.
+When Bitcoin first gained popularity, many people incorrectly assumed that it was anonymous money.
+In fact, as a blockchain technology, it uses a public ledger that records a digital trail of every transaction.
+Blockchain analytics firms are thus now helping law enforcement track down criminals who thought their trail was covered.
+And cryptocurrency exchanges like Coinbase have instituted robust anti-money-laundering and know-your-customer programs that rival those of any financial institution.
+<P>
+Several more recent developments in cryptocurrency technologies promise to take consumer privacy to even higher levels, and they are sure to be controversial.
+First, “privacy coins” such as Zcash and Monero offer new cryptocurrency protocols that make every transaction untraceable.
+Other cryptocurrencies aspire to replicate these features, and even JP Morgan has explored private transactions through its Quorum cryptocurrency.
+This shift is a bit like when websites moved from HTTP to HTTPS as the global standard: it lets consumers know that their information is protected by default.
+<P>
+Second, so-called non-custodial cryptocurrency wallets now enable customers to store their own private keys (which allow one to move funds) instead of relying on a third party.
+By not actually storing customer funds, the providers of non-custodial wallets are aiming to position themselves as software companies rather than financial institutions subject to regulation.
+In the past, non-custodial wallets required a certain degree of technical sophistication to operate, limiting their use.
+But, like encrypted messaging apps, they are becoming increasingly accessible to a mass market.
+<P>
+Unsurprisingly, these innovations have alarmed banks, regulators, and law-enforcement agencies.
+But just as the early Internet needed encryption to enable digital commerce, cryptocurrencies need privacy protections to unlock their full power and potential.
+Whether one needs to guard against authoritarian regimes, data harvesters, or criminals, the best way to ensure that sensitive financial data isn’t hacked is to avoid having to collect it in the first place.
+<P>
+Enhancing consumer financial protections does not mean giving free rein to criminals.
+Law-enforcement agencies still have a wide range of tools at their disposal, from subpoenaing cryptocurrency exchanges to examining conversions into and out of fiat currencies (which are likely to remain the choke points for law enforcement).
+And these exchanges will continue to be regulated as financial services, regardless of whether consumers are using privacy coins or non-custodial wallets.
+<P>
+Having watched the US benefit enormously from the creation of the world’s leading Internet companies, many countries are now working to attract the next generation of cryptocurrency firms.
+For countries thinking about cryptocurrency policy, the best approach, as always, will be to strike a balance between law enforcement, cybersecurity, privacy, innovation, and economic competitiveness.
+<P>
+Consumers in a free society will always demand and expect reasonable levels of privacy.
+Our financial lives are no exception.
+Fortunately, cryptocurrencies can fix some of the most vexing issues in financial services.
+As we plan to rebuild economically after the COVID-19 crisis, we must allow these technologies to grow.

@@ -1,0 +1,67 @@
+<HEADLINE>
+How Many European Recessions?
+<P>
+CAMBRIDGE – The release of revised GDP data by the United Kingdom’s Office for National Statistics in late June seemed like an occasion for cheer, because growth had not quite been negative for two consecutive quarters in the winter of 2011-12, as previously thought.
+The point, as it was reported, is that a second UK recession following the global financial crisis in 2008 (a “double dip”) had now been erased from the history books, and that the Conservative government would take some satisfaction from this fact.
+But it should not.
+<P>
+The right question is not whether there have been double (or triple) dips; the question is whether there has been one big recession all along.
+As the British know all too well, their economy since the low point of mid-2009 has not yet climbed even halfway out of the post-crisis hole: GDP is still almost 4% below its previous peak.
+If European countries used similar criteria to those used in the United States for determining economic cycles, the Great Recession in Britain would quite possibly not have been declared over in the first place.
+<P>
+Recent reports that Ireland entered a new recession in early 2013 would also read differently if American criteria were applied.
+Irish GDP since 2009 has not yet recovered more than half of the ground lost between the peak of late-2007 and the bottom two years later.
+Following US methods, Ireland would not be judged to have escaped the initial recession.
+As it is, one mini-recovery after another has been heralded, only to give way to “double dips.”
+<P>
+Similarly, it was recently reported that Finland had entered its third recession since the global financial crisis.
+But the second one would be better described as a continuation of the first.
+<P>
+Italy, judged according to US standards, has been mired in a five-year recession: the recovery in 2010 was so tepid that by 2011, before a new downturn set in, the economy had barely recovered one-third of the output lost after the recession began.
+And the new downturn has been severe: Italy’s GDP is now about 8% below its 2008 level.
+(See graph.)
+<P>
+<P>
+[For a high-resolution version of this graph, click here.]
+<P>
+These measurement issues may sound like minor technical details; but they can have significant real-world implications.
+So, what are the differences between European and US criteria for judging recessions?
+<P>
+Economists generally define a recession as a period of declining economic activity.
+European countries, like most, use a simple rule of thumb: a recession is declared following two consecutive quarters of falling GDP.
+<P>
+In the US, the arbiter of when recessions begin and end is the Business Cycle Dating Committee of the National Bureau of Economic Research (NBER).
+Unlike European countries, the Committee uses no quantifiable rule in determining the US economy’s peaks and troughs.
+It looks beyond the most recently reported GDP numbers to include employment and a variety of other indicators, in part because output measures are often subject to errors and revisions.
+<P>
+Furthermore, the Committee sees nothing special in the two-quarter rule of thumb.
+For example, it generally would say that a recession had occurred if GDP had fallen very sharply in two quarters, even if they were separated by one quarter of weak growth.
+Similarly, if a trough were subsequently followed by several quarters of positive growth, the Committee would not necessarily announce that the recession had ended; it would wait until the economy had recovered sufficiently that a hypothetical future downturn would count as a new recession, not a continuation of the first one.
+<P>
+Fortunately, the US economy has recorded positive growth for 15 consecutive quarters, so recession-dating is not a salient issue currently.
+But things are not always so quiet.
+For example, according to revised data, the US economy contracted three quarters in a row in 2001.
+At the time, the NBER Committee declared that there had been a recession in 2001 (based on employment and various other indicators), even though the initial GDP data did not show two consecutive quarters of declining output, let alone three.
+The Committee has never yet found it necessary to revise the date of an economic turning point, let alone erase a recession.
+<P>
+The NBER is not the only institution that looks beyond a two-quarter rule and undigested GDP data.
+An analogous Euro Area Business Cycle Dating Committee was created ten years ago by the Center for Economic Policy Research in London.
+The CEPR Committee declared that the Great Recession ended in the eurozone after the second quarter of 2009, the same time as in the US.
+It declared that a second recession started in the latter part of 2011 – and continues to this day.
+<P>
+These were probably the right judgments: growth in the quarters between the two slumps was sufficiently strong in countries like Germany that economic activity on average across the eurozone had by mid-2011 recovered about two-thirds of the ground lost in 2008-09.
+<P>
+One cannot say that the two-quarter rule of thumb used by individual countries in Europe and elsewhere is “wrong.”
+There are unquestionably big advantages to having an automatic procedure that is simple and transparent, especially if the alternative is delegating the job to a committee of unelected, unaccountable ivory-tower economists.
+<P>
+But there are also disadvantages to the rule of thumb.
+One is the need to revise cyclical dating when data are revised.
+Claims made in good faith in last year’s speeches by UK politicians – and by economic researchers – have now been rendered false.
+In May, France, too, revised away an earlier recession, which would otherwise have been counted as the second since 2008.
+<P>
+There is a potentially more far-reaching and serious disadvantage as well.
+Because citizens in Ireland and Italy have been told that their economies have entered new recessions, they are likely to conclude that their political leaders must have done something wrong recently.
+But if these countries have been in the same recession for five years, the implication may be that the leaders have been doing the same wrong things throughout that period.
+That is hardly an insignificant difference.
+<P>
+[NOTE: We have published an extended version of this commentary on the Project Syndicate blog.]

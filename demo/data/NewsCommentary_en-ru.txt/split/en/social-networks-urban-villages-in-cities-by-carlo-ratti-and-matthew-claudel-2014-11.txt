@@ -1,0 +1,54 @@
+<HEADLINE>
+The Urban Village
+<P>
+CAMBRIDGE – “I want to be a part of it – New York, New York,” Frank Sinatra sang of the city that has attracted so many of the world’s most ambitious people, from artists and performers to businesspeople and bankers.
+In a sense, this is not a difficult phenomenon to explain; metropolises like New York City, with their multicultural populations, multinational corporations, and multitude of talented individuals, are rife with opportunities.
+But the impact of large cities runs deeper than economic or even cultural power; cities can fundamentally change people’s lives – and even the people themselves.
+<P>
+In 2010, Geoffrey West, together with a team of researchers, discovered that several socioeconomic measures – both positive and negative – increase with the size of the local population.
+In other words, the larger the city, the higher the average wage, productivity level, number of patents per person, crime rate, prevalence of anxiety, and incidence of HIV.
+<P>
+In fact, when a city doubles in size, every measure of economic activity increases by about 15% per capita.
+That is why people move to the big city; indeed, it is why cities thrive.
+<P>
+This law remains constant across city sizes.
+And it is not unique.
+A growing body of evidence suggests that similar functions govern even more aspects of urban life than the research by West’s team indicated.
+<P>
+How can cities as ostensibly different as New York, with its towering profile, and Paris, characterized by wide boulevards, function so similarly?
+If, as Shakespeare suggested, a city is nothing but its people, the answer may lie in the characteristic patterns of connection, interaction, and exchange among residents.
+<P>
+HIV – indeed, any sexually transmitted disease – provides a particularly vivid example of the way that social networks shape urban life, as it spreads through linkages of sexual partners.
+Ideas – and the innovations that result from them – spread in a similar manner.
+<P>
+Just a few years ago, a broad investigation of these complex social networks would have been virtually impossible.
+After all, the available tools – isolated laboratory experiments and written questionnaires – were both imprecise and difficult to apply on a large scale.
+<P>
+The Internet has changed that.
+By enmeshing billions of people in seamless connectivity, online platforms have transformed the scope of social networks and provided new tools for researchers to investigate human interaction.
+<P>
+In fact, an entirely new field of study is emerging at the intersection of data analytics and sociology: computational social science.
+Using data collected online or through telecommunications networks – the wireless providers Orange and Ericsson, for example, have recently made some data available to researchers – it is now possible to address, in a scientific way, fundamental questions about human sociability.
+<P>
+A recent paper (of which one of us, Carlo Ratti, is a co-author) uses anonymized data from telecommunications networks across Europe to explore how human networks change with city size.
+The results are striking: in large cities, people not only walk faster (a tendency recorded since the 1960s), but they also make – and change – friends faster.
+<P>
+This phenomenon is likely rooted in the fact that, in accordance with West’s findings, the total number of human connections increases with city size.
+London’s eight million inhabitants regularly connect with almost twice the number of people as Cambridge’s 100,000 residents.
+This increasing exposure to people – and hence to ideas, activities, and even diseases – could explain the impact of city size on socioeconomic outcomes.
+<P>
+But another tendency is also consistent across cities of all sizes: people tend to build “villages” around themselves.
+This behavior is quantified as the networks’ “clustering coefficient” – that is, the probability that a person’s friends will also be friends with one another – and remains extraordinarily stable across metropolitan areas.
+Simply put, humans everywhere are naturally inclined to live within tight-knit communities.
+<P>
+Of course, this idea has been suggested before.
+The urbanist Jane Jacobs, for example, described the rich interactions occurring in New York City neighborhoods – what she called an “intricate ballet, in which the individual dancers and ensembles all have distinctive parts which miraculously reinforce each other.”
+What computational social science offers is the prospect of quantifying such observations and gaining insights that could shape the design of urban environments in the future.
+<P>
+The question is whether these insights could also unlock the power of human interactions in small towns, enabling them to access some of the social and economic advantages of a large city.
+In this sense, it is critical to recognize the fundamental difference between “urban villages” and their rural counterparts.
+In the latter, social networks are largely predetermined by family, proximity, or history.
+City dwellers, by contrast, can explore a wide variety of options to create custom-made villages according to their social, intellectual, or creative affinities.
+<P>
+Perhaps that is why Sinatra left his hometown of Hoboken, New Jersey.
+Only in a city like New York could he find the Rat Pack.

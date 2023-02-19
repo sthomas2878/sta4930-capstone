@@ -1,0 +1,69 @@
+<HEADLINE>
+New Rules for A New Economy
+<P>
+Economic progress is more than a matter of markets and technological innovation.
+As an economy's structure changes, government policies must change as well, or economic development will be stunted.
+<P>
+Consider the British agricultural revolution before 1800, which was an essential prerequisite for the industrial revolution that followed.
+The enclosure movement extinguished common rights to land and allowed landowners (at the cost of great suffering, to be sure) to experiment with new, more productive techniques.
+Had institutions and laws not changed, that particular economic transformation would have not happened.
+<P>
+Or look at the US at the 19th century's end--«the furnace where the future was being forged,» as Leon Trotsky called it.
+Mass production, large corporations, a continent_wide market, and electric power could not come to pass without institutional and legal changes that underlay the economic transformation.
+Federal preemption of state law forged the country into a single market.
+Without a new legal regime, limited-liability companies (necessary to raise capital for large undertakings) could not exist.
+Antitrust laws made certain that the enormous economies of scale of the large corporation were not achieved at the price of eliminating competition.
+<P>
+It did not have to happen this way.
+In Europe there was no continental market because of national tariffs, and fewer economies of scale were attained.
+In Germany, with no antitrust policy, there was no brake on the cartelization of industry, which made the average German poorer and the distribution of wealth more skewed.
+<P>
+What legal and institutional changes are needed now to make the economy flourish as the changes produced by computers take hold?
+To answer we need to look into what is really new in the «new economy.»
+<P>
+Perhaps the biggest change is that the most important product of the new economy--information--is not «rival»: my consumption of it does not detract from yours.
+If I am wearing my shoes, you cannot wear them.
+But if I am informed, or have access to software, you can also be informed and have access to the same software, without detracting from my use.
+Non-rival goods may have high «fixed» costs, i.e., it may cost a lot to bring them to market.
+But the «marginal» cost--the cost of making them available to one more consumer--is low or nothing at all.
+<P>
+The «new economy's» products also have «network effects.»
+A single fax machine is a hunk of metal best used as a door stop.
+100,000 fax machines make possible ten billion different connections.
+This is known as Metcalfe's law: the number of connections, and thus the network's utility, rises not proportionately, but exponentially.
+<P>
+These characteristics have crucial implications.
+The old economy is driven by negative feedback: rising demand leads to higher prices, which leads producers to produce more and consumers to buy less, which restores an equilibrium at a lower level of demand.
+By contrast, in an information economy, feedback is often positive: rising demand produces higher efficiency, higher returns, and lower prices, leading to yet higher demand.
+<P>
+The opportunity is that growth may snowball.
+But if we are to take advantage of the «new economy's» potential, markets must be as large as possible.
+Larger networks and larger production lines over which to amortize high initial fixed costs will then generate cascading benefits.
+Hence, governments must work to reduce trade barriers, improve infrastructure, and remove barriers to access.
+In particular, globalization will become increasingly critical for economic growth, especially for small economies.
+<P>
+An industry with high fixed costs and near_zero variable costs has another characteristic: it tends to monopolize.
+The rule_of_thumb in high technology has been that the market leader makes a fortune, the first_runner_up breaks even, and everyone else goes bankrupt.
+The only sustainable competition becomes competition for the leading position in the next generation.
+<P>
+Good public policy in such an environment needs to ensure that monopolists in one generation do not retard innovation in the next generation, and that monopoly profits from the provision of essential services are not too large (although they need to be large enough to reward past investments).
+<P>
+The «new economy» may change our view of monopoly in yet another way.
+Most economists regard price discrimination as evil--a way for monopolists to increase profits.
+But in the «new economy,» price discrimination may enable a firm to make a profit by charging high prices in its well_off core market, and to add to that profit--while increasing social utility--by charging low prices to the poor.
+<P>
+For example, the reason why pharmaceutical companies charge high prices in poor countries is trivial: they fear re-importation of low_priced drugs into the rich countries.
+The loss in profits from poor countries is small relative to gray_market re-importation risks, but the cost for poor countries is high.
+Government help to segment the market, so that rich-country customers pay the fixed costs, while poor country customers pay close to the low marginal cost, may add to world welfare.
+<P>
+The most critical issues revolve around intellectual property.
+How might markets and competition spur applied knowledge in the field of information goods?
+One response is to reinforce the rights of «owners.»
+But the new economy's most important innovations require progress in basic science, which must be widely disseminated because knowledge is a cumulative enterprise.
+Thus, intellectual property rights can jeopardize the web of scientific discourse that makes research and development effective.
+Strong protection of intellectual property also allows high monopoly profits and the pricing of goods at levels much higher than their marginal cost (which, in the «new economy,» is often close to zero).
+<P>
+Clearly, government has a large role to play here, but we know too little about how to devise policies and institutions that would reconcile the seemingly contradictory objectives of encouraging entrepreneurship and providing incentives for innovation, while assuring marginal-cost pricing and the cumulative process of scientific research.
+<P>
+New institutions in this area are perhaps the greatest challenge posed by the «new economy.»
+It will be no surprise that one of the authors is thinking hard about the role that heavily_endowed non_profit educational institutions can play in resolving the dilemmas of innovation and intellectual property in the new economy.

@@ -1,0 +1,89 @@
+<HEADLINE>
+Bipolar Economics
+<P>
+LONDON – How can we know if an economic policy is achieving its stated objective?
+Well, we can create two similar groups, randomly allocate the “treatment” to only one of them and measure the results.
+By comparing the groups, we will obtain a reliable estimate of how effective the policy is.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+This technique, known as randomized controlled trials, or RCTs, had long been used in medicine and social policy.
+By applying it to development economics, Esther Duflo, Abhijit Banerjee, and Michael Kremer revolutionized how many economists work – and won the Nobel Prize last month.
+<P>
+The achievement was both intellectual and organizational: a global community of randomistas has emerged, committed to using RCTs to change the world.
+New evidence would cause developing-country governments to discard bad policies and adopt good ones.
+<P>
+Philosopher Nancy Cartwright, Nobel laureates Angus Deaton and James Heckman, and Oxford’s Lant Pritchett have long argued that the evidence RCTs yield is not the gold standard of reliability proponents claim it is.
+But even if the evidence is strong, will voters and governments find it persuasive?
+Will policy improve enough to make a difference to people’s lives?
+<P>
+If there was ever a moment when reliable evidence fails to move politicians, this is it.
+“The experts are terrible!”
+Donald Trump declared in 2016.
+“Britain has had enough of experts!”
+Tory minister Michael Gove retorted when confronted with evidence that Brexit would be bad for the British economy.
+One can imagine Russia’s Vladimir Putin, Brazil’s Jair Bolsonaro, Turkey’s Recep Tayyip Erdoğan, and the Philippines’ Rodrigo Duterte nodding in agreement.
+<P>
+The experimental approach is mostly atheoretical, which some view as an advantage: let the data speak.
+But the randomistas do have an implicit model of policymaking, and it is simple: if you build it, they will come.
+Politicians, if confronted with strong evidence, will do the right thing.
+Yet other economic research, often produced by other Nobel laureates, helps understand why this is not a satisfactory model.
+<P>
+Start with decision-making.
+Psychologist Daniel Kahneman and economist Richard Thaler received the Nobel for their pioneering work in behavioral economics, a branch of research showing that the fully rational homo economicus populating economists’ models never was: human beings are prone to overconfidence, biases, and reliance on fallible rules of thumb when making choices.
+<P>
+When the choices human beings must make are collective, the problems grow exponentially.
+The observation that what is collectively rational need not be individually appealing is the bread and butter of modern public economics.
+If a single group benefits from a particular item of public spending (say, a local clinic) which can be financed by borrowing – so that other taxpayers, current and future, will help pay for it – then no amount of sermonizing on the empirically demonstrated benefits of fiscal prudence will keep neighbors from demanding the clinic be built.
+As Chile’s finance minister for four years, I participated in countless debates over public spending.
+I cannot recall that an evidence-heavy academic paper ever helped my side carry the day.
+<P>
+And then there is the thorny issue of distribution.
+There are some policy changes from which some people gain and no one loses (economists call them Pareto improvements).
+In such cases, persuasive empirical evidence, skillfully deployed, can change people’s minds.
+But most policy choices cause someone to lose something.
+Potential losers then organize to fight the change while potential winners remain uninformed, uninterested, or both.
+Policy paralysis follows.
+The results from an RCT are unlikely to change that.
+<P>
+Moreover, human beings care about what others with whom they identify say about them.
+And, as Rachel Kranton and Nobel laureate George Akerlof have argued, we are willing to incur economic costs for the sake of affirming our identities.
+A recent immigrant may choose not to learn the dominant language of his new home country in order to fit into a neighborhood populated by other recent migrants.
+Or voters who identify with a populist leader may continue to support him even if his misguided policies are bankrupting the country.
+Politics is often identity politics, insensitive to the weight of evidence.
+<P>
+Last is the question of scope and ambition.
+RCTs are best suited to narrowly defined policy issues.
+If you want people to sleep under anti-malaria bed nets, should you sell those nets or give them away?
+Do conditional cash transfers to poor mothers cause them to enroll their kids in school?
+And my personal favorite: do gender election quotas improve the political representation of women in India?
+(The answer is a clear yes.)
+<P>
+No amount of research talent can design an RCT to test whether more globalization is desirable, how big government ought to be, or what triggers economic growth.
+As a result, randomistas can say little about the big issues that inflame passions and around which grand narratives are built.
+And it is such narratives, Robert J. Shiller (yet another Nobel laureate) has shown, that organize our thinking about the economy.
+If not woven into a broad narrative of change, empirical evidence can have limited political impact at best.
+<P>
+Duflo and Banerjee are well aware of all this.
+In their thoughtful new book, Good Economics for Hard Times, they write: “As we lose our ability to listen to each other, democracy becomes less meaningful and closer to a census of the various tribes, who each vote based more on tribal loyalties than on a judicious balancing of priorities.”
+What remains unclear is how this observation fits into their theory of social change.
+<P>
+“The only recourse we have against bad ideas,” they conclude, “is to be vigilant, resist the seduction of ‘the obvious,’ be skeptical of proposed miracles, question the evidence, be patient with complexity and honest about what we know and what we can know.”
+This is both eloquent and right, but it sounds more like an expression of hope than a call to action.
+<P>
+The point is not to dispute the importance of more evidence on “what works” in education, poverty, or health.
+But economics teaches that we should allocate the marginal dollar where it yields the biggest social return.
+And, given the veritable deluge of RCTs in recent years, perhaps academics and donors should devote more time and resources to the big questions that cannot be studied by experimental methods – and to learning more about demand for new empirical evidence and the barriers to policymakers’ use of it.
+The same is true of curricula: many academic programs risk teaching students every last econometric wrinkle while imparting little wisdom about how to put that knowledge to work in the real world.
+As the dean of a public policy school, this causes me to lose a fair bit of sleep.
+<P>
+With no change of course, the supply of quantitative policy evaluations will continue to rise just as demand for it from policymakers seems to be dropping.
+Any first-year economics student will tell you the relative price of economists’ services is likely to fall.
+That is bad news for economists – and for the world.

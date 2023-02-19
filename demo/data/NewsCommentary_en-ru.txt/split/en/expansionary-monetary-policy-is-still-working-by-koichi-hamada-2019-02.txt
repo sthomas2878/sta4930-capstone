@@ -1,0 +1,48 @@
+<HEADLINE>
+Has Monetary Easing Really Run Its Course?
+<P>
+TOKYO – Since the 2008 global financial crisis, expansionary monetary policy has been the order of the day in most of the major advanced economies.
+This approach – comprising deep interest-rate cuts and large-scale asset purchases (quantitative easing, or QE) – has been credited with accelerating the recovery in the United States and the United Kingdom, and pulling the eurozone back from the brink of collapse.
+As for Japan – which introduced monetary easing in late 2012 as the first “arrow” of Abenomics, Prime Minister Shinzo Abe’s economic-reform program – the policy has contributed to the creation of about 2.5 million jobs.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Yet, with low interest rates implying that central banks will have little ammunition to fight the next economic downturn, has reliance on generous monetary conditions to sustain growth gone too far?
+<P>
+The conventional view, in line with textbook Keynesian economics, is that monetary expansion works through the interest rate: by reducing the cost of money, a lower interest rate stimulates domestic investment, spurring growth.
+Once the interest rate gets too close to zero, below which it usually cannot be reduced, monetary easing is no longer an effective economic stimulus.
+By this standard, Japan – with a short-term interest rate of -0.1% and a ten-year government-bond yield target of around 0% – would seem no longer to be benefiting from its expansionary monetary policy.
+<P>
+Monetarists, however, argue that Keynesian theory fails to account for the “real balance effect”: given sticky prices, monetary expansion will increase the real value of the money stock, thereby raising household net wealth and stimulating consumption.
+Moreover, as Harry Johnson pointed out, in a flexible exchange-rate system, monetary easing reduces a currency’s value vis-à-vis the rest of the world, thereby boosting external demand.
+<P>
+For some, this is not entirely good news.
+They fear that this will fuel a “beggar thy neighbor” dynamic, with some countries’ QE-driven currency devaluations causing severe damage to others.
+But this concern ignores a key fact: the exchange rate is always anchored to the relative quantity of money in the system.
+<P>
+Just as the relative prices of apples and oranges tend to balance out at a level that reflects the ratio between quantities of apples and oranges, the relative values of, say, dollars and yen are ultimately determined by the relative share of dollar and yen assets in the international market.
+Some traders call this ratio the “Soros chart,” after George Soros, perhaps the world’s premier currency investor (though Soros told me in 2014 that he knew nothing of the chart).
+<P>
+Given this dynamic, in a flexible system, any negative spillovers of one country’s monetary expansion can be counteracted by other countries, so long as their monetary authorities recognize the exchange-rate mechanism for transmitting monetary policy.
+<P>
+Consider the challenge faced by Japan since 2008.
+When the US and the UK introduced QE after the crisis, the increase in the relative amount of dollars and pounds in the international market drove up the yen’s value.
+The Bank of Japan could have taken action to counter this effect, but then-Governor Masaaki Shirakawa was apparently not fully aware of the implications of the Soros chart for the exchange rate.
+<P>
+Eventually, with the introduction of Abenomics, the BOJ under Haruhiko Kuroda introduced the needed monetary policy.
+But it was too late to change the fact that Japan experienced a sharper growth slowdown than the US and the UK, the epicenters of the global economic crisis.
+<P>
+Assessing the enduring potential of expansionary monetary policy – and avoiding a repetition of the mistakes made by the BOJ after 2008 – requires us to look beyond interest rates.
+Columbia University’s Jeffrey D. Sachs recognizes this.
+Whereas most contemporary economists focus primarily on the interest-rate mechanism for the transmission of monetary easing, Sachs showed in his study of interwar currency devaluations that the direct-quantity effect of the swelling money supply on the exchange rate, which is crucial for the real economy, commanded direct attention.
+<P>
+Yet the narrow traditional view, formerly held by the Bank for International Settlements, remains dominant, including among top officials at major central banks, such as the BOJ.
+For them, the positive effects of QE since the crisis seem more like a coincidence than evidence of a reliable policy, much less one with undeployed potential.
+The risk of disaster should central banks like the BOJ reverse their expansionary monetary policies too quickly far exceeds that of maintaining their current stance too long.

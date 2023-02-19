@@ -1,0 +1,55 @@
+<HEADLINE>
+Losing Interest
+<P>
+BERKELEY – Two of the world’s most prominent economic institutions, the International Monetary Fund and Former US Treasury Secretary Larry Summers, recently warned that the global economy may be facing an extended period of low interest rates.
+Why is that a bad thing, and what can be done about it?
+<P>
+Adjusted for inflation, interest rates have been falling for three decades, and their current low level encourages investors, searching for yield, to take on additional risk.
+Low rates also leave central banks little room for loosening monetary policy in a slowdown, because nominal interest cannot fall below zero.
+And they are symptomatic of an economy that is out of sorts.
+<P>
+<P>
+Identifying the problem, much less prescribing solutions, requires diagnosing underlying causes.
+And here, unfortunately, economists do not agree.
+Some point to an increase in global saving, attributable mainly to high-saving emerging markets.
+Readers will detect here echoes of the “savings glut” argument popularized nearly a decade ago by the likes of former US Federal Reserve Board Chairmen Alan Greenspan and Ben Bernanke.
+<P>
+There is only one problem: the data show little evidence of a savings glut.
+Since 1980, global savings have fluctuated between 22% and 24% of world GDP, with little tendency to trend up or down.
+<P>
+Even if global saving slightly exceeds 24% of world GDP in 2014, it is unlikely to remain that high for long.
+China’s saving will come down as its GDP growth slows, the authorities decontrol interest rates on bank deposit, and the economy rebalances toward consumption.
+That will be true of other emerging markets as well, as their growth rates similarly fall from the exceptional peaks scaled at the end of the last decade.
+<P>
+The same empirical objection applies to arguments that blame low interest rates on the increasing concentration of income and wealth.
+It is plausible that the wealthy consume smaller shares of their income, and recent trends in income and wealth distribution certainly are troubling on many grounds.
+But to affect global interest rates, these trends have to translate into increased global savings.
+And the evidence is not there.
+<P>
+A second explanation for low interest rates is a dearth of attractive investment projects.
+But this does not appear to be the diagnosis of stock markets, notably in the United States, where equities are trading at record-high prices.
+And it sits uneasily with the enthusiasm with which venture capitalists are investing in firms commercializing new technologies.
+<P>
+Some economists, led by Northwestern’s Robert Gordon, argue that, stock market valuations notwithstanding, all the great inventions have been made.
+The commercial potential of the Internet, the human genome project, and robotics pales in comparison with that of the spinning jenny, the steam engine, and indoor plumbing.
+<P>
+Maybe so, but it is worth observing that technology skeptics have been consistently wrong for 200 years.
+History suggests that, while we may not know what the high-return inventions of the future will be, we can be confident that there will be some.
+<P>
+Still others, like the Fed’s current leader, Janet Yellen, suggest that investment and interest rates are depressed as a result of the damage done to the economy and the labor force during the Great Recession.
+Specifically, the skills and morale of the long-term unemployed have been eroded.
+Detached from the labor market, they lack incomes to spend; and, stigmatized by long-term unemployment, they are not regarded as attractive employees.
+<P>
+As a result, firms see inadequate demand for their products, and a shortage of qualified workers to staff their assembly lines.
+The result is low capital spending, one of the striking anomalies of the current recovery, which in turn can explain other troubling aspects of the recovery, from slow growth to low interest rates.
+<P>
+This argument has considerable merit.
+But, though it can explain why capital spending has been weak and interest rates have been low for the last three years, it cannot account for why capital expenditure has been insufficient to prevent rates from trending down for more than three decades.
+Here, the only explanation still standing is the shift in the composition of activity away from capital-intensive forms of production, like manufacturing, to less capital-intensive activities, like services.
+<P>
+If the disorder has multiple causes, then there should be multiple treatments.
+There should be tax incentives for firms to hire the long-term unemployed; more public spending on infrastructure, education, and research to compensate for the shortfall in private capital spending; and still higher capital requirements for banks and strengthened regulation of nonbank financial institutions to prevent them from excessive risk-taking.
+<P>
+Finally, central banks should set a higher inflation target, which would give them more room to cut nominal interest rates in response to a future slowdown.
+This is not something that a new Fed chair, anxious to establish her anti-inflation bona fides, can say out loud.
+But that is what her arguments imply.

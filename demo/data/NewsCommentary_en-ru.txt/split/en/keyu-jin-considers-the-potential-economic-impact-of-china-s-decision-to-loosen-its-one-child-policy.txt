@@ -1,0 +1,98 @@
+<HEADLINE>
+China’s Consumer Babies
+<P>
+BEIJING – China’s leaders have now agreed to relax the country’s decades-old “one-child” policy.
+Couples now will be permitted to have two children if one parent is an only child (previously, both parents had to be only children), making the new rule applicable to most of the post-1980’s generation that grew up in urban areas.
+But, while the potential social consequences are obvious, the likely economic impact is less apparent.
+<P>
+When the one-child policy was implemented in 1979 – in an effort to alleviate social, economic, and environmental pressures following the population boom in the 1950’s and 1960’s – the fertility rate plummeted, from three children per household in 1970 to 1.2 in 1982.
+The household saving rate subsequently soared, from 10.4% in 1983 to a staggering 30.5% in 2011.
+Could the one-child policy have fueled this rise?
+If so, will the modified policy precipitate a reversal in this trend and, in turn, a consumption boom in the coming decade?
+<P>
+Rising fertility rates can lower the household saving rate in two main ways.
+First, children demand increased household expenditure – especially on education, which, for only children aged 15-22, accounts for 15-25% of total Chinese household expenditures (see figure 1).
+Second, with more children to support them in their old age, parents feel less pressure to save for retirement.
+<P>
+<P>
+[To view a high-resolution version of this graph, click here.]
+<P>
+An examination of the spending and saving patterns of households with twins born under the one-child policy suggests that these changes could lead to a drop of 8-9 percentage points in China’s household savings rate – to around 22% – in the coming decades.
+Because the birth of twins is arguably an exogenous occurrence (unrelated to factors like income and education that affect parents’ decision to have multiple children), comparing households with an only child to those with twins can reveal some of the effects that an additional child has on saving.
+<P>
+From 2002 to 2009, the average saving rate for an only-child household was 21.3%, compared to 12.8% for a household with twins – a difference that holds across all income groups (see table 1).
+Regression analysis of all urban households in the 1992-2009 period shows that an additional child reduced the saving rate by about 6-7 percentage points.
+One additional child increased education expenditure (as a percentage of household income) by an average of seven percentage points, foodexpenditure by 2.5 percentage points, and other spending by roughly 2.7 percentage points.
+<P>
+Intergenerational support – whereby children provide for parents in old age – is not only a social norm; in China, it is stipulated by law.
+More than half of elderly people’s income derives from family support, which includes financial transfers and in-kind benefits like cohabitation (see figure 2).
+And the total amount of transfers that parents receive rises with the number of children.
+<P>
+<P>
+[To view a high-resolution version of this graph, click here.]
+<P>
+The added security offered by additional offspring means that loosening the one-child policy will probably lead parents to save less on their own, and possibly even to make the kind of risky investments that would be unwise for only-child families.
+In fact, the one-child policy could be an important reason why, in recent decades, Chinese households have gravitated toward riskless assets.
+If parents view having a second child as doubling their “safe assets,” they may decide to allocate more of their portfolio toward riskier assets.
+<P>
+It follows that parents of multiple children may also feel secure enough to consume more.
+On average, the share of household income spent by parents of multiple children on non-child-related consumption in later stages of life is about eight percentage points higher than it is for parents of only children.
+<P>
+The coming demographic shift will also affect national saving.
+The share of young dependents/borrowers will rise relative to the middle-aged working population.
+Reducing the proportion of high savers in the economy will tend to lower the aggregate saving rate.
+The share of elderly people in the population, however, will not change until a generation later.
+<P>
+Though the change to the one-child policy may cause a moderate consumption boom, it could also reverse a positive trend: the acceleration of human-capital accumulation.
+The typical only child receives significantly more educational investment than the average twin and is 40% more likely to pursue higher education (as opposed to a vocational school).
+This can likely be explained, in part, by a quantity-quality tradeoff.
+<P>
+Of course, without a clear sense of what China’s natural fertility rate would be, any prediction about the new policy’s impact remains largely speculative.
+Rising education costs, housing prices, and wages (which increase the opportunity cost of having children) may mean that, even without strict controls, China’s natural fertility rate will not return to the 1970 level.
+If the average natural rate is currently two children per household, then imposing this restriction will ultimately be welfare-reducing: households that would like to have more than two children will not be able to, while the restriction would be irrelevant to those who want fewer than two children.
+But the most likely upshot of the policy change will be a moderate baby boom – and better-performing child-related consumer stocks.
+<P>
+Table 1: Household Saving Rate: Difference in Twins and Only Child Households by Income Group
+<P>
+<P>
+Only-Child Households
+<P>
+Twin Households
+<P>
+Average household Saving Rate
+<P>
+21.3%
+<P>
+12.8%
+<P>
+lowest 20% income quintile
+<P>
+6.4%
+<P>
+-2.9%
+<P>
+second lowest quintile
+<P>
+18.3%
+<P>
+16.6%
+<P>
+middle income
+<P>
+23.7%
+<P>
+10.3%
+<P>
+second highest quintile
+<P>
+27.4%
+<P>
+19.5%
+<P>
+highest 20% quintile
+<P>
+33.4%
+<P>
+25.4%
+<P>
+Source: Urban Household Survey 2002-2009

@@ -1,0 +1,56 @@
+<HEADLINE>
+Disciplining the Sharing Economy
+<P>
+SINGAPORE – The increasing ability of people to exchange goods, services, and labor directly, via online platforms, is transforming how modern economies operate.
+But to ensure that the rise of the “sharing economy” works efficiently and improves conditions for all parties, some regulation is needed.
+<P>
+People can now circumvent many traditional service businesses.
+They can share transport, using Uber, Lyft, or RelayRides; provide accommodation through Airbnb; tender household chores via TaskRabbit, Fiverr, or Mechanical Turk; and arrange their grocery deliveries using Favor and Instacart.
+Similarly, crowdfunding platforms, such as Kickstarter and Lending Club, allow start-ups to raise grants, loans, or investment from the general population, rather than relying on a financial intermediary.
+<P>
+By cutting out the middleman, these online platforms empower individuals, reduce transaction costs, and create a more inclusive economy.
+But their evolution is far from straightforward, and many such services will require careful regulation if they are to flourish – as protests and court rulings in Europe against Uber demonstrate.
+<P>
+One reason why Uber and other sharing-economy pioneers are so disruptive is that they represent a highly efficient form of peer-to-peer capitalism.
+Buyers and sellers can agree directly on the price of every transaction, and business reputations depend on transparent customer feedback, generating continuous pressure to improve performance.
+<P>
+The sharing economy also boosts entrepreneurship, as people see new ways to fill gaps in the market.
+What began as a simple way for households to boost incomes – by renting out one’s apartment or car – has become a formidable disruptive force.
+Forbes magazine estimates that the sharing economy’s 2013 revenues topped $3.5 billion.
+During the 2014 soccer World Cup in Brazil, a country with a chronic shortage of hotel rooms, more than 100,000 people used home-sharing Web sites to find accommodation.
+<P>
+The opportunity to buy or sell has also become much more inclusive: half of Airbnb hosts in the United States have low to moderate incomes, and 90% of hosts globally rent their primary residence.
+<P>
+Several cities have recognized the benefits to be gained from promoting a sharing economy.
+Seattle, for example, has deregulated its transportation and hospitality sectors, challenging the city’s taxi and hotel monopolies.
+<P>
+But economic change of this magnitude inevitably has its opponents, some with legitimate concerns.
+Do peer-to-peer businesses undercut incumbents by not paying similar taxes?
+Are such businesses – flush with venture capital – running their operations at a loss in order to capture market share?
+And should these firms be allowed to access telecoms data to learn about customers’ habits and movements, thus giving them an unfair advantage?
+<P>
+Some firms have set their own operating standards.
+TaskRabbit, which subcontracts household jobs like assembling Ikea furniture, requires participants to pay a minimum wage, and has launched an insurance scheme to protect its US workers.
+On the other hand, technology platforms that use “algorithmic scheduling” to align workers’ shifts and hours with business cycles automatically, continue to disrupt family life and cause unnecessary stress.
+Policymakers need to stay ahead of these sharing-economy trends.
+<P>
+As services and software converge, public officials must enhance their technical skills and work with the private sector to ensure market fairness and efficiency.
+For example, they must prevent the manipulation of reviews and other practices that mislead consumers trying to assess the quality of a company’s service.
+Airbnb and the online travel agent Expedia allow reviews only by customers who have actually used their services; that could become a regulatory norm throughout the sharing economy.
+<P>
+Governments also have a broader role to play.
+As more people adopt “portfolio careers” – relying on several sources of income, rather than a single job – it becomes harder to collect and analyze labor-market data.
+Governments will need new accounting and reporting standards to calculate wages, forecast incomes, and categorize workers within the growing ranks of the self-employed.
+Such standards, coupled with data-sharing guidelines, will help determine when, and how much, to tax sharing-economy transactions.
+<P>
+None of this will be easy.
+Though self-employment and part-time labor are hardly new, the sharing economy is different, because it allows freelancers to become “nano-workers,” shifting among employers not just monthly or even weekly, but several times a day.
+As US and European unemployment rates remain high and wages stagnate, people increasingly rely on such diverse income streams.
+Today, almost 27 million Americans survive on part-time and project-based incomes.
+<P>
+With nearly half of all services jobs in the OECD at risk of automation, the sharing economy can smooth the disruption caused to displaced workers as they upgrade their skills.
+Indeed, sharing-economy data can help governments identify those workers at greatest risk and support their retraining.
+<P>
+The sharing economy reflects the convergence of entrepreneurialism and technological connectivity.
+Taxi drivers and hotel owners may feel threatened, but the sharing economy has the potential to increase and redistribute earnings in cities that are already struggling with poverty and inequality.
+Those who are displaced will have far better prospects in the more prosperous and inclusive environment that the sharing economy promises to create.

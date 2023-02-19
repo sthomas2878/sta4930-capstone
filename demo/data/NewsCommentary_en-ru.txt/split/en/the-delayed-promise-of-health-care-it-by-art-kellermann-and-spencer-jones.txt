@@ -1,0 +1,60 @@
+<HEADLINE>
+The Delayed Promise of Health-Care IT
+<P>
+WASHINGTON, DC – Because information technology (IT) has so quickly transformed people’s daily lives, we tend to forget how much things have changed from the not-so-distant past.
+Today, millions of people around the world regularly shop online; download entire movies, books, and other media onto wireless devices; bank at ATMs wherever they choose; and self-book entire trips and check themselves in at airports electronically.
+<P>
+But there is one sector of our lives where adoption of information technology has lagged conspicuously: health care.
+<P>
+Some parts of the world are doing better than others in this respect.
+Researchers from the Commonwealth Fund recently reported that some high-income countries, including the United Kingdom, Australia, and New Zealand, have made great strides in encouraging the use of electronic medical records (EMR) among primary-care physicians.
+Indeed, in those countries, the practice is now nearly universal.
+Yet some other high-income countries, such as the United States and Canada, are not keeping up.
+EMR usage in America, the home of Apple and Google, stands at only 69%.
+<P>
+The situation in the US is particularly glaring, given that health care accounts for a bigger share of GDP than manufacturing, retail, finance, or insurance.
+Moreover, most health IT systems in use in America today are designed primarily to facilitate efficient billing, rather than efficient care, putting the business interests of hospitals and clinics ahead of the needs of doctors and patients.
+That is why many Americans can easily go online and check the health of their bank account, but cannot check the results of their most recent lab work.
+<P>
+Another difference between IT in US health care and in other industries is the former’s lack of interoperability.
+In other words, a hospital’s IT system often cannot “talk” to others.
+Even hospitals that are part of the same system sometimes struggle to share patient information.
+<P>
+As a result, today’s health IT systems act more like a “frequent flyer card” designed to enforce customer loyalty to a particular hospital, rather than an “ATM card” that enables you and your doctor to access your health information whenever and wherever needed.
+Ordinarily, lack of interoperability is an irritating inconvenience.
+In a medical emergency, it can impose life-threatening delays in care.
+<P>
+A third way that health IT in America differs from consumer IT is usability.
+The design of most consumer Web sites is so obvious that one needs no instructions to use them.
+Within minutes, a seven year old can teach herself to play a complex game on an iPad.
+<P>
+But a newly hired neurosurgeon with 27 years of education may have to read a thick user manual, attend tedious classes, and accept periodic tutoring from a “change champion” to master the various steps required to use his hospital’s IT system.
+Not surprisingly, despite its theoretical benefits, health IT has few fans among health-care providers.
+In fact, many complain that it slows them down.
+<P>
+Does this mean that health IT is a waste of time and money?
+Absolutely not.
+In 2005, colleagues of ours at the RAND Corporation projected that America could save more than $80 billion a year if health care could replicate the IT-driven productivity gains observed in other industries.
+The fact that the US has not gotten there yet is not a problem of vision, but of less-than-ideal implementation.
+<P>
+Other industries, including banking and retail trade, struggled with IT until they got it right.
+The gap between what IT promised and what it delivered in the early days was so stark that experts called it the “IT productivity paradox.”
+Once these industries figured out how to make their IT systems more efficient, interoperable, and user-friendly, and then realigned their processes to leverage technology’s capabilities, productivity soared.
+<P>
+In America, as in much of the world, health care is late to the IT game, and is experiencing these growing pains only now.
+But health-care providers can shorten the process of transformation by learning from other industries.
+The US government is trying to help.
+In 2009, Congress passed the Health Information Technology for Economic and Clinical Health (HITECH) Act.
+HITECH has undeniably accelerated IT adoption among health-care providers.
+Yet the problems of usability and interoperability persist.
+<P>
+Globally, the health IT industry should not wait to be forced by government regulators into doing a better job.
+Developers can boost the pace of adoption by creating more standardized systems that are easier to use, truly interoperable, and afford patients greater access to and control over their personal health data.
+Health-care providers and hospital systems can dramatically boost the impact of health IT by reengineering traditional practices to take full advantage of its capabilities.
+<P>
+If America is any indicator, the sky is the limit when it comes to potential gains from health IT.
+According to the Institute of Medicine, the US currently wastes more than $750 billion per year on unnecessary or inefficient health-care services, excessive administrative costs, high prices, medical fraud, and missed opportunities for prevention.
+<P>
+Properly applied, health IT can improve health care in all of these dimensions.
+The payoff will be worth it.
+Indeed, as with the adoption of IT elsewhere, we may soon wonder how health care could have been delivered any other way.

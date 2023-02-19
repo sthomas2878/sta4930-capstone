@@ -1,0 +1,71 @@
+<HEADLINE>
+Technology for All
+<P>
+CAMBRIDGE – We live in a world with an ever-widening chasm between the skills of the “average” worker and the capabilities demanded by frontier technologies.
+Robots, software, and artificial intelligence have increased corporate profits and raised demand for skilled professionals.
+But they replace factory, sales, and clerical workers – hollowing out the traditional middle class.
+This “skills gap” contributes to deepening economic inequality and insecurity and ultimately to political polarization – the signal problems of our time.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The conventional response is more and better education.
+If ordinary people are not to be left behind in this age-old “race between education and technology,” to use the evocative phrase of Harvard economists Claudia Goldin and Lawrence Katz, societies need to do a much better job in training and retraining their workforce for new technologies.
+Truck drivers need to become computer programmers.
+<P>
+This is an oddly one-sided remedy.
+As a matter of logic, the gap between skills and technology can be closed in one of two ways: either by increasing education to match the demands of new technologies, or by redirecting innovation to match the skills of the current (and prospective) labor force.
+The second strategy barely gets lip service in policy discussions.
+Yet it is the more obvious, and possibly more effective strategy.
+As my Harvard colleague Ricardo Hausmann points out, we need to create jobs for the workers we have, not the workers we wish we had.
+<P>
+The blind spot is the product of a certain kind of technological fetishism that views innovation as an exogenous force behaving according to its own rules.
+We tend to think we have little control over innovation.
+It is society that must adjust to technological change, instead of vice versa.
+<P>
+This perspective overlooks the degree to which innovation is driven by values – often unstated – and incentives.
+For one thing, governments play a ubiquitous role in shaping the technological landscape.
+Advanced economies commonly rely on subsidies for research and development, funding of basic scientific research, patent rules, loan guarantees, cluster development policies, and direct government support for frontier technologies.
+All of these policies tilt the playing field to determine what kind of innovations take place.
+<P>
+Consider the technology behind autonomous vehicles.
+In the United States, the Defense Advanced Research Projects Agency (DARPA), an arm of the US Department of Defense, gave innovation in this area a boost by launching competitions for innovators in the 2000s.
+The objective was a military one: reducing battlefield casualties.
+But, as DARPA states on its website, “these challenges helped to create a mindset and research community that a decade later would render fleets of autonomous cars and other ground vehicles a near certainty for the first quarter of the 21st century.”
+A government agency more concerned about jobs might have pushed for different technologies instead.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Other policies may have inadvertent effects on the direction of technological change.
+As MIT’s Daron Acemoglu has argued, tax policies typically distort innovation incentives against labor by encouraging automation.
+Firms receive tax breaks when they employ robots, but not when they create an extra good job.
+In fact, jobs are taxed, whereas machines are subsidized.
+<P>
+Instead of replacing semi-skilled or unskilled labor with machines, societies can push innovations that specifically increase the tasks that ordinary workers are able to perform.
+This could be achieved through new technologies that either allow workers to do the work that was previously performed by more skilled people, or enable the provision of more specialized, customized services by the existing workforce.
+<P>
+Examples of the first type of technology are artificial intelligence systems that enable nurses to perform physicians’ procedures or craftsmen to undertake engineers’ tasks.
+An example of the latter type would be technology that enables teachers to provide education customized to different students’ abilities and needs.
+<P>
+A fundamental reason why society under-invests in innovations that benefit ordinary people has to do with the distribution of power.
+Science and technology are designed to provide answers and solve problems.
+But which questions are asked and whose problems are solved depends on whose voice gets the upper hand.
+For example, some of the limitations on the use of medical technologies along the lines suggested above derive from the power physicians have to exclude less-credentialed medical workers from advanced tasks.
+<P>
+How a given technology is deployed in the workplace is intimately linked to who gets to make the decisions.
+Sophisticated technologies can allow managers to monitor their workers’ every movement and measure their efficiency, enabling companies to set ever more demanding productivity standards, at considerable cost to workers’ physical and mental health.
+Alternatively, very similar technologies can empower workers to increase their autonomy and control their work environment.
+It is easy to guess which use predominates in practice.
+<P>
+Ethical considerations also play a role – explicitly or implicitly – in shaping the direction of innovation.
+Here, too, power matters.
+When some Google employees began to complain and organize against developing AI systems that they considered unethical – destined for use in immigration control or for spying – the company clamped down and some of the leaders of the in-house effort were fired.
+<P>
+In other domains, we take it for granted that values should be reflected in how we pursue innovation.
+For example, domestic regulations typically circumscribe experimentation on animals and humans.
+Why not extend this to the labor-market implications of technology?
+Through regulation or other means, our innovation system must account for the effects of new technologies on the quality and quantity of jobs.
+<P>
+Technological change does not follow its own direction.
+It is shaped by moral frames, incentives, and power.
+If we think more about how innovation can be directed to serve society, we can afford to worry less about how we should adjust to it.

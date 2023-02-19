@@ -1,0 +1,49 @@
+<HEADLINE>
+Globalizing the AI Revolution in Health Care
+<P>
+MUNICH – We are entering a transformational period in medical science, as traditional research techniques combine with massive computing power and a wealth of new data.
+Just recently, Google announced that it has developed an artificial intelligence (AI) system capable of outperforming human radiologists in detecting breast cancer.
+And that is merely the latest example of how machine learning and big data are leading to new medical diagnostics, treatments, and discoveries.
+To realize AI’s enormous potential, however, we must develop a pragmatic and globally agreed approach to governing the collection and use of “real-world data.”
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Real-world data includes any information that can help to guide new medical research.
+Some of it has been around for quite a while.
+For example, cancer researchers have long used anonymized health records to select patient candidates who are most likely to respond well to novel and experimental treatments.
+But other kinds of data have become available only recently, along with the technology for analyzing them at scale.
+<P>
+The new capabilities offered by AI and related technologies raise complicated, sometimes controversial questions about privacy and data ownership.
+But we can meet these challenges by establishing comprehensive rules to safeguard personal information.
+Policymakers around the world and within global-governance institutions must not delay.
+Medical science powerhouses are already forging ahead with real-world data initiatives in the United States, where the wide availability of anonymized patient data is fueling a new wave of innovation.
+<P>
+The National Cancer Institute, for example, is preparing to launch the Childhood Cancer Data Initiative, an ambitious ten-year project that will pool data from every pediatric and young adult cancer patient in the country to find new targets and treatment mechanisms.
+Similarly, the Susan G. Komen Foundation has already launched its Big Data for Breast Cancer (BD4BC) initiative, which includes a project using algorithmic analysis to tease out biological processes in some of the most difficult-to-treat breast cancers.
+<P>
+Yet because these initiatives use data gathered strictly from patient populations in the US, their applicability is limited, particularly at the global level.
+Human biology varies widely both within and between populations, owing partly to genetic differences that are themselves influenced by environmental factors and other long-term trends such as isolation, migration, historic disease burden, and the like.
+Sickle cell anemia, Ashkenazi genetic diseases, and cystic fibrosis are just three examples of the many diseases with population-specific correlations.
+<P>
+These variations in individual physiology mean that what works for one subgroup may not work as well for another, and that we should cast the net for real-world data as widely as possible.
+Nonetheless, Europe has lagged behind the US in making anonymized real-world data available at scale.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+This failure stems partly from understandable concerns about patient privacy and data ownership.
+To address these concerns, we must take every precaution to guard against the misuse of data, by establishing rules that are truly global in scope.
+Health authorities need to standardize guidance on real-world data collection and use, as well as establish international standards for sharing genomic research.
+To that end, pharmaceutical companies and other major stakeholders in the health-care sector are working with EU regulators, the US Food and Drug Administration, and other health authorities around the world to determine how researchers can use data safely, while upholding the core values of patient privacy and provider accountability.
+<P>
+Recent breakthroughs in medical research offer a tantalizing hint of what is possible if we get the policy mix right.
+Since acquiring a database with anonymized data for 2.2 million cancer patients, researchers at Roche have developed a prognostic scoring system to predict how patients would respond to different cancer treatment options, based on a range of factors.
+Another initiative enables us to predict likely adverse reactions to immunotherapy treatments among patients with autoimmune disorders.
+That is a remarkable development in the field, given that patients who suffer such reactions represent a tiny percentage of subjects in clinical trials of new treatments.
+<P>
+By deploying new technologies and tapping into the world’s largest cancer genomic databases, we can accelerate the development of personalized treatments and meet the individual needs of people with life-threatening diseases.
+But along with its great promise, real-world data poses complicated questions about how we share personal data.
+Simply turning our backs on these issues is neither realistic nor responsible, as it would mean foregoing perhaps the greatest advances in the history of medicine.
+<P>
+The global community must come together to tackle these policy challenges.
+Only then will we be able to realize the full benefits of the technological revolution in health care.

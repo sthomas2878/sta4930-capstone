@@ -1,0 +1,51 @@
+<HEADLINE>
+Looking Beyond Lehman
+<P>
+GENEVA – It is human nature to pass judgement for calamitous events that harm almost everyone.
+It is also natural for the stories that emerge from such events to influence current assessments and future choices.
+The story of the collapse of Lehman Brothers a decade ago is a case in point – but with a slight twist.
+<P>
+Today, experts point to a “dangerous dependence of demand on ever-rising debt,” and conclude that little has really changed since the global financial crisis.
+The data on global debt are certainly correct, but any prediction that we draw from them is likely to be overwrought, owing to our own hindsight bias.
+<P>
+We are hardwired to try to make sense of events that shock us, and this often involves recasting them as having been predictable.
+This heuristic, in turn, leads us to overestimate our ability to predict the future under what we perceive to be “similar” circumstances.
+<P>
+And, of course, one’s prognosis for the global economy depends on one’s own frame of reference.
+For example, student debt in the United States has now ballooned to $1.5 trillion.
+From the perspective of younger Americans, that is certainly an alarming development; in the eyes of Europeans, it is also an economic absurdity.
+Or, consider that Apple and Amazon’s market capitalizations have each topped $1 trillion.
+Some Americans may be celebrating that fact, but Europeans are increasingly wringing their hands over the growing dominance of US tech titans.
+<P>
+From a broader historical perspective, stock markets always experience booms and busts.
+Though mean reversion is not a scientific law, there has never been an occasion when rising asset prices did not eventually return to their long-run average.
+Arguably, the 2008 financial crisis was different, because, as the theorist Geoffrey West writes, it was “stimulated by misconceived dynamics in the parochial and relatively localized US mortgage industry,” and thus exposed “the challenges of understanding complex adaptive systems.”
+<P>
+It is important to acknowledge such challenges.
+But an even more important point to note is that the profiles of the world’s largest companies today are very different from those of a decade ago.
+In 2008, PetroChina, ExxonMobil, General Electric, China Mobile, and the Industrial and Commercial Bank of China were among the firms with the highest market capitalization.
+In 2018, that status belongs to the so-called FAANG cluster: Facebook, Amazon, Apple, Netflix, and Alphabet (Google’s parent company).
+<P>
+Against this backdrop, it is no surprise that the US Federal Reserve’s annual symposium in Jackson Hole, Wyoming, last month focused on the dominance of digital platforms and the emergence of “winner-take-all” markets, not global debt.
+This newfound awareness reflects the fact that it is intangible assets like digital software, not physical manufactured goods, that are driving the new phase of global growth.
+<P>
+Bill Gates, the founder of Microsoft, recently explained this profound shift in a widely shared blog post.
+“The portion of the world’s economy that doesn’t fit the old model just keeps getting larger,” he writes.
+And this development “has major implications for everything from tax law to economic policy to which cities thrive and which cities fall behind.”
+The problem is that, “in general, the rules that govern the economy haven’t kept up.
+This is one of the biggest trends in the global economy that isn’t getting enough attention.”
+<P>
+The digitalization that Gates is describing should not be confused with the digitization process that created online trading systems and partly enabled the 2008 financial crisis.
+The latter process converted data from an analog to a digital format.
+By contrast, digitalization occurs when the adoption of digital technologies (and the accompanying mindset) leads to rapidly changing business models and value creation through network effects and new economies of scale.
+<P>
+Digitalization demands less in the way of assets, and more in terms of talent.
+Thus, as Klaus Schwab of the World Economic Forum observes, the “scarcity of a skilled workforce rather than the availability of capital is more likely to be the crippling limit to innovation, competitiveness, and growth.”
+<P>
+This observation hints at the potentially destructive effect that automation, combined with artificial intelligence, will have on labor.
+Countless middle-class, white-collar jobs that involve routine and repetitive tasks could soon be at risk.
+Advanced technologies are uniting the material, digital, and biological worlds and creating innovations at a speed and scale unparalleled in human history.
+<P>
+Instead of looking for the “Minsky Moment” when today’s bull markets run out of steam (for they definitely will), we should perhaps give more thought to this trend, which Schwab calls the Fourth Industrial Revolution.
+The great lesson to be learned from the collapse of Lehman Brothers is that technology should be designed and used to empower people, not to replace them.
+The goal should be to improve society, not disruption for its own sake.

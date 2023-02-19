@@ -1,0 +1,64 @@
+<HEADLINE>
+The False Promise of Digital ID
+<P>
+ZÜRICH – Proponents of digital identification see the COVID-19 pandemic as a once-in-a-century opportunity, with a potential “jackpot market” of nearly eight billion people.
+In these dangerous times, using digital IDs to help control the spread of the virus and eventually to manage the distribution of a vaccine is often deemed appropriate and necessary.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+This view aligns with the broader ambition of providing a legal ID for everyone on the planet, particularly the poorest.
+The United Nations’ Sustainable Development Goal (SDG) 16 mentions the provision of a “legal identity for all” by 2030, and a “digital identity credential” is included in the UN Legal Identity Agenda 2020-2030.
+It seems that several high-level initiatives in this regard are underway, such as the ID2020 Alliance and possibly the World Economic Forum’s Global Centre for Cybersecurity, which involve some of the most powerful transnational organizations and corporations.
+<P>
+The efforts don’t stop there.
+The UN has launched several pilot projects that use digital IDs for refugee identification.
+Such ideas can quickly become reality on a national level, too: China’s Social Credit System, for example, makes use of digital IDs.
+In global e-commerce, a digital ID is assigned to people – and used to score each customer’s profitability and lifetime value.
+<P>
+As far as we know, COVID-19 does not threaten the survival of the human species.
+But many of the countermeasures adopted to combat it have greatly disrupted societies.
+Thus, calling for wider implementation of digital IDs “to get the situation under control” seems timely.
+The technology for this is available.
+Digital IDs can be created through biometric approaches such as face recognition or voice and gesture monitoring; blockchain-based technologies; digital tattoos; or, in the most extreme cases, in-body solutions like radio-frequency identification (RFID) chips or individualized vaccines.
+Even establishing an Internet of Bodies is within reach.
+<P>
+But, once a digital ID officially exists, the implications for democracy and human rights could be massive.
+This concern is particularly strong when digital IDs are coupled with the power of a data-driven and AI-controlled approach.
+Then, human beings could be managed like objects, which would be a fundamental violation of human dignity and the UN Universal Declaration of Human Rights.
+It would be reminiscent of the brands and tattoos used to mark people during some of the darkest chapters in human history.
+<P>
+Applying the same mandatory technology to all humans would not only be totalitarian.
+“In-body solutions” such as RFID chips or individualized vaccines would also pose considerable health risks.
+The side effects would not be known immediately and, with global deployment, might affect hundreds of millions of people.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Human-rights issues are not the only cause for concern.
+Some years ago, commentators such as Chris Anderson claimed that Big Data would make the scientific method obsolete.
+But the COVID-19 pandemic has challenged that idea.
+<P>
+For starters, it turns out that measurement procedures are not perfect.
+False positives and overlooked cases, as well as non-representative data samples, have been an issue both in terms of common COVID-19 tests and reported deaths.
+These numbers have had to be corrected repeatedly in several countries.
+<P>
+Moreover, predictions have been often poor.
+Projections of the number of infected people, for example, have been surprisingly unreliable.
+There are various reasons for this, including a lack of data during the early stages of the disease’s spread, the fact that saturation effects and turning points become evident only from later data points, and changes in behavior that have a massive impact on contagion.
+<P>
+Third, there is the issue of poor classification, related, for example, to the erroneous results of contact tracing aimed at identifying infected people.
+In some countries, even counter-terrorism tools based on sensitive personal surveillance data from the entire population have been used, which has led to thousands of healthy people mistakenly being put under quarantine.
+<P>
+In sum, Big Data is no panacea, and the vision of a data-driven and AI-controlled society has serious conceptual limitations, in addition to ethical pitfalls.
+This is why we should pay more attention to concepts such as “design for values” and “participatory resilience,” which means providing people with tools to help themselves and support each other.
+The digital revolution certainly offers breakthrough solutions for global-scale communication, information retrieval, system optimization, and automation.
+It can also support decision-making, coordination, and collective intelligence in a consolidated way.
+<P>
+Global resilience in the context of this and future crises would be best achieved by digitally empowering responsible behavior, based on decentralized, diverse, and participatory approaches.
+This would also be compatible with the SDGs.
+What is needed is a combination of competition and cooperation, of intelligent design and combinatorial innovation.
+Therefore, the open-data and maker movement should be scaled up to formats that can unleash mass innovation and cooperation.
+Innovative collaborative projects such as city olympics, city challenges, or city cups point the way forward.
+<P>
+Rather than submitting people to a data-driven and AI-directed system that relies on surveillance and control through digital IDs, we should create more of these decentralized participatory frameworks.
+Such collaborative approaches, based on the power of civil society, form the backbone of a strategy that uses our social talent to achieve humanity’s collective goals.

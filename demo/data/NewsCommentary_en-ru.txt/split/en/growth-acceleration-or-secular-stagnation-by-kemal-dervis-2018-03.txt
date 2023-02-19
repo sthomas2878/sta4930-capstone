@@ -1,0 +1,47 @@
+<HEADLINE>
+Have We Dodged the Secular-Stagnation Bullet?
+<P>
+WASHINGTON, DC – In 2016, Northwestern University’s Robert Gordon published his 700-plus-page magnum opus, The Rise and Fall of American Growth.
+Two years on, with not just the United States, but the entire world economy experiencing a synchronized acceleration in growth, the second noun in Gordon’s title seems excessively pessimistic, to say the least.
+<P>
+Gordon’s main argument was that the century after the US Civil War – from about 1870 to 1970 – brought an unprecedented economic revolution, as innovations like electricity and piped water rapidly raised productivity and transformed people’s lifestyles.
+In his view, today’s innovations – especially in digital technology, machine learning, and artificial intelligence – may be breathtaking, but they do not have the same broad productivity-raising potential.
+Gordon is essentially a supply-side pessimist, though he also points out that income inequality can act as a drag on growth, by lowering effective demand.
+<P>
+Another gloomy take on future growth, advanced by former US Treasury Secretary Lawrence H. Summers after the global economic crisis, has a decidedly more Keynesian or “demand-side” flavor.
+Summers’ theory of “secular stagnation” (a term first used by the economist Alvin Hansen back in 1938) holds that, in the United States, the desire to save chronically outweighs the desire to spend on growth-enhancing investments.
+<P>
+The balance between saving and investment could be achieved, Summers argues, only with a nominal interest rate that is below the zero lower bound.
+The fact that ample corporate profits were not being invested seemed to support this hypothesis, which also took root outside the US.
+<P>
+Today’s synchronized growth acceleration does not necessarily invalidate such pessimistic perspectives.
+After all, Summers – and Gordon even more so – was making an argument about the long term.
+If the current growth acceleration peters out after six months or a year, they could yet be vindicated.
+So, in assessing the possibility of weak long-term growth, it is worth looking at where exactly the Gordon and Summers hypotheses are linked, and what would invalidate them.
+<P>
+The lower the expected return on marginal investment in an economy, the lower the interest rate must be for that investment to be made.
+A low return on investment could be the result of demand-side factors, related to, say, income distribution or financial-sector activities.
+It could also be rooted in the supply side, with slow technological progress leading to weak productivity growth.
+In short, the secular stagnation that Summers has predicted, with low interest rates being necessary to offset low returns on investment, could well be caused by the slowdown in productivity-enhancing technological change that Gordon highlights.
+<P>
+It is useful to note, therefore, that what seems to have changed recently is not the supply of savings, but the expected return on investment.
+The economy is escaping the zero-interest-rate trap not because savings are declining, but because investment is becoming more appealing, owing to improved expectations.
+<P>
+That confidence may be derived partly from the business-friendly tax legislation that was recently enacted in the US.
+But, more fundamentally, it seems to reflect a shift in the way current and developing technologies are being perceived.
+Simply put, techno-optimism is gaining ground.
+<P>
+If, controverting Gordon’s thesis, today’s technologies do boost productivity significantly, the return on investment would rise (unless labor receives all of the gains in the form of higher wages, an outcome that nobody expects).
+That would lift the interest rate that balances supply and demand out of negative territory, solving Summers’ secular-stagnation problem.
+<P>
+It must be stressed, however, that what has changed are expectations, not estimated potential growth.
+In the US, annualized productivity growth reached 2% in the second and third quarters of 2017, but was negative in the first quarter of that year and zero in the last.
+According to the World Bank’s recent Global Economic Prospects report, “despite a recent acceleration of global economic activity, potential output growth is flagging.”
+<P>
+So whether or not we are on the cusp of a sustainable acceleration in global economic growth hinges on whether today’s innovative technologies finally have an appreciable impact on labor and total factor productivity.
+I happen to believe that they will.
+But the fact is that, so far, they haven’t.
+<P>
+Only if annual productivity growth rises from its current range of 0.5-1% to 1.5-2% in the coming years can one declare that the US has avoided the fate predicted by Summers and Gordon.
+Today’s economic optimism should not be allowed to obscure that, much less breed complacency about the future.
+After all, even if technology does meet the optimists’ expectations in terms of its impact on growth, the challenge of ensuring that the added growth is inclusive will remain.

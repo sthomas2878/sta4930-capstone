@@ -1,0 +1,43 @@
+<HEADLINE>
+Secular Stagnation Revisited
+<P>
+WARWICK – The public spat between Nobel laureate Joseph Stiglitz and former US Treasury Secretary Larry Summers is remarkable for the personal animosity that it reveals between two economists who essentially agree about the economics.
+Stiglitz levels a not-so-subtle attack on Summers for failing to insist on a larger fiscal deficit when he ran the National Economic Council under the Obama presidency.
+Summers responds that the politics made a larger fiscal stimulus infeasible.
+But while they agree that the Great Recession could have been overcome with a big fiscal stimulus, neither has laid out the economic model that underpins their confidence in this outcome.
+<P>
+Summers reinvigorated the work of Alvin Hansen, who introduced the concept of secular stagnation in the 1930s.
+But I have not seen Summers lay out a fully articulated dynamic general equilibrium model that supports his advice.
+And in his written work on this topic, he has seamlessly shifted between a definition of secular stagnation that involves permanently lower growth rates as a result of low investment and permanently lower employment as a result of deficient aggregate demand.
+<P>
+These are not the same thing.
+In his rebuttal to Stiglitz, Summers comes down in favor of the latter definition.
+In his words, “left to its own devices, the private economy may not find its way back to full employment following a sharp contraction.”
+<P>
+I agree with this assertion.
+And I have provided an internally coherent theory whereby secular stagnation arises naturally as a consequence of low expectations on the part of households and firms about the future value of their assets.
+This theory integrates Keynesian economics with general equilibrium theory in a new way.
+Higher persistent unemployment has nothing to do with sticky prices.
+It is a consequence of missing factor markets.
+<P>
+Summers is well aware of my work.
+We discussed it when I visited Harvard in 2011 and again when he gave a lecture at the LSE in 2012.
+Initially, he was supportive in private email correspondence.
+But when I pointed out that the theory does not unequivocally support fiscal expansion as the appropriate response to a recession, he became disinterested in my work.
+New ideas are often difficult to accept, and they require investment in a different way of thinking that can be difficult to absorb, even for people as smart as Stiglitz and Summers.
+<P>
+We cannot continue to make unfounded assertions about economic policy using the failed interpretation of the General Theory that evolved from John Hicks’ attempt to reconcile Keynes with the classics.
+The current manifestation of that approach is so-called New Keynesian Economics, which Summers himself has rightly rejected because it is inconsistent with secular stagnation.
+But it is not enough to assert that secular stagnation is possible.
+It is time to confront alternative theories of secular stagnation with empirical evidence, as I have done.
+The assertion that money wages are downwardly rigid is not, in my view, a credible explanation of persistent unemployment.
+Nor was it a credible explanation for Keynes, who asserted that his theory did not rely on the assumption of rigid wages.
+<P>
+In a fully articulated model with multiple possible equilibrium unemployment rates, one must explain how an equilibrium is selected.
+In my work, expectations – or so-called animal spirits – are a new and independent fundamental that determines the steady-state unemployment rate.
+When we feel rich, we are rich.
+And if animal spirits are indeed fundamental, it becomes important to understand the factors that determine swings in confidence.
+<P>
+If a large dose of expansionary fiscal policy is not the answer, what is?
+My response is that the right way to respond to financial crises is with policies that restore the value of private assets.
+And the right way to prevent financial crises in the first place is to intervene in the financial markets to moderate swings in asset values and to head off recessions before they happen.

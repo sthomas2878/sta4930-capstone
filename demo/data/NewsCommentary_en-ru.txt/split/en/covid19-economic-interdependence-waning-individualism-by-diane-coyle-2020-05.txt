@@ -1,0 +1,62 @@
+<HEADLINE>
+COVID-19 and the End of Individualism
+<P>
+CAMBRIDGE – Aristotle was right.
+Humans have never been atomized individuals, but rather social beings whose every decision affects other people.
+And now the COVID-19 pandemic is driving home this fundamental point: each of us is morally responsible for the infection risks we pose to others through our own behavior.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In fact, this pandemic is just one of many collective-action problems facing humankind, including climate change, catastrophic biodiversity loss, antimicrobial resistance, nuclear tensions fueled by escalating geopolitical uncertainty, and even potential threats such as a collision with an asteroid.
+<P>
+As the pandemic has demonstrated, however, it is not these existential dangers, but rather everyday economic activities, that reveal the collective, connected character of modern life beneath the individualist façade of rights and contracts.
+<P>
+Those of us in white-collar jobs who are able to work from home and swap sourdough tips are more dependent than we perhaps realized on previously invisible essential workers, such as hospital cleaners and medics, supermarket staff, parcel couriers, and telecoms technicians who maintain our connectivity.
+<P>
+Similarly, manufacturers of new essentials such as face masks and chemical reagents depend on imports from the other side of the world.
+And many people who are ill, self-isolating, or suddenly unemployed depend on the kindness of neighbors, friends, and strangers to get by.
+<P>
+The sudden stop to economic activity underscores a truth about the modern, interconnected economy: what affects some parts substantially affects the whole.
+This web of linkages is therefore a vulnerability when disrupted.
+But it is also a strength, because it shows once again how the division of labor makes everyone better off, exactly as Adam Smith pointed out over two centuries ago.
+<P>
+Today’s transformative digital technologies are dramatically increasing such social spillovers, and not only because they underpin sophisticated logistics networks and just-in-time supply chains.
+The very nature of the digital economy means that each of our individual choices will affect many other people.
+<P>
+Consider the question of data, which has become even more salient today because of the policy debate about whether digital contact-tracing apps can help the economy to emerge from lockdown faster.
+<P>
+This approach will be effective only if a high enough proportion of the population uses the same app and shares the data it gathers.
+And, as the Ada Lovelace Institute points out in a thoughtful report, that will depend on whether people regard the app as trustworthy and are sure that using it will help them.
+No app will be effective if people are unwilling to provide “their” data to governments rolling out the system.
+If I decide to withhold information about my movements and contacts, this would adversely affect everyone.
+<P>
+<P>
+Yet, while much information certainly should remain private, data about individuals is only rarely “personal,” in the sense that it is only about them.
+Indeed, very little data with useful information content concerns a single individual; it is the context – whether population data, location, or the activities of others – that gives it value.
+<P>
+Most commentators recognize that privacy and trust must be balanced with the need to fill the huge gaps in our knowledge about COVID-19.
+But the balance is tipping toward the latter.
+In the current circumstances, the collective goal outweighs individual preferences.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But the current emergency is only an acute symptom of increasing interdependence.
+Underlying it is the steady shift from an economy in which the classical assumptions of diminishing or constant returns to scale hold true to one in which there are increasing returns to scale almost everywhere.
+<P>
+In the conventional framework, adding a unit of input (capital and labor) produces a smaller or (at best) the same increment to output.
+For an economy based on agriculture and manufacturing, this was a reasonable assumption.
+<P>
+But much of today’s economy is characterized by increasing returns, with bigger firms doing ever better.
+The network effects that drive the growth of digital platforms are one example of this.
+And because most sectors of the economy have high upfront costs, bigger producers face lower unit costs.
+<P>
+One important source of increasing returns is the extensive experience-based know-how needed in high-value activities such as software design, architecture, and advanced manufacturing.
+Such returns not only favor incumbents, but also mean that choices by individual producers and consumers have spillover effects on others.
+<P>
+The pervasiveness of increasing returns to scale, and spillovers more generally, has been surprisingly slow to influence policy choices, even though economists have been focusing on the phenomenon for many years now.
+The COVID-19 pandemic may make it harder to ignore.
+<P>
+Just as a spider’s web crumples when a few strands are broken, so the pandemic has highlighted the risks arising from our economic interdependence.
+And now California and Georgia, Germany and Italy, and China and the United States need each other to recover and rebuild.
+No one should waste time yearning for an unsustainable fantasy.

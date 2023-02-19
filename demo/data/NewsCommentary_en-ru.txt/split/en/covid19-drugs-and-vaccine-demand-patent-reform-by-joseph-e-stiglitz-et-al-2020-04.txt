@@ -1,0 +1,61 @@
+<HEADLINE>
+Patents vs. the Pandemic
+<P>
+NEW YORK – Imagine a world in which a global network of medical professionals monitored for emerging strains of a contagious virus, periodically updated an established formula for vaccinating against it, and then made that information available to companies and countries around the world.
+Moreover, imagine if this work were done without any intellectual-property (IP) considerations, and without pharmaceutical monopolies exploiting a desperate public to maximize their profits.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+This may sound like a utopian fantasy, but it is actually a description of how the flu vaccine has been produced for the past 50 years.
+Through the World Health Organization’s Global Influenza Surveillance and Response System, experts from around the world convene twice a year to analyze and discuss the latest data on emerging flu strains, and to decide which strains should be included in each year’s vaccine.
+As a network of laboratories spanning 110 countries, funded almost entirely by governments (and partly by foundations), GISRS epitomizes what Amy Kapczynski of Yale Law School calls “open science.”
+<P>
+Because GISRS is focused solely on protecting human lives, rather than turning a profit, it is uniquely capable of gathering, interpreting, and distributing actionable knowledge for the development of vaccines.
+While this approach may have been taken for granted in the past, its advantages are quickly becoming clear.
+<P>
+In responding to the pandemic, the global scientific community has shown a remarkable willingness to share knowledge of potential treatments, coordinate clinical trials, develop new models transparently, and publish findings immediately.
+In this new climate of cooperation, it is easy to forget that commercial pharmaceutical companies have for decades been privatizing and locking up the knowledge commons by extending control over life-saving drugs through unwarranted, frivolous, or secondary patents, and by lobbying against the approval and production of generics.
+<P>
+With the arrival of COVID-19, it is now painfully obvious that such monopolization comes at the cost of human lives.
+Monopoly control over the technology used in testing for the virus has hampered the rapid rollout of more testing kits, just as 3M’s 441 patents mentioning “respirator” or “N95” have made it more difficult for new producers to manufacture medical-grade face masks at scale.
+Worse, multiple patents are in force in most of the world for three of the most promising treatments for COVID-19 – remdesivir, favipiravir, and lopinavir/ritonavir.
+Already, these patents are preventing competition and threatening both the affordability and the supply of new drugs.
+<P>
+We now have a choice between two futures.
+In the first scenario, we continue as usual, relying on the big pharmaceutical companies, hoping that some potential treatment for COVID-19 will make it through clinical trials, and that other technologies for detection, testing, and protection will emerge.
+In this future, patents will give monopoly suppliers control over most of these innovations.
+The suppliers will set the price high, forcing downstream rationing of care.
+In the absence of strong public intervention, lives will be lost, particularly in developing countries.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The same problem will also apply to any potential COVID-19 vaccine.
+Unlike Jonas Salk’s polio vaccine, which was made freely available immediately, most vaccines that come to market today are patented.
+For example, PCV13, the current multi-strain pneumonia vaccine administered to babies, costs hundreds of dollars because it is the monopoly property of Pfizer.
+And although Gavi, the Vaccine Alliance subsidizes some of the costs of the vaccine in developing countries, many people still cannot afford it.
+In India, more than 100,000 preventable infant deaths from pneumonia are recorded every year, while the vaccine brings in roughly $5 billion in revenue for Pfizer annually.
+<P>
+In the second possible future, we would acknowledge that the current system – in which private monopolies profit from knowledge that is largely produced by public institutions – is not fit for purpose.
+As public-health advocates and scholars have long argued, monopolies kill, by denying access to life-saving medicines that otherwise would have been available under an alternative system – like the one facilitating the yearly production of the flu vaccine.
+<P>
+There is already some movement in favor of alternative approaches.
+For example, Costa Rica’s government recently called on the WHO to establish a voluntary pool of IP rights for COVID-19 treatments, which would allow multiple manufacturers to supply new drugs and diagnostics at more affordable prices.
+<P>
+Patent pooling is not a new idea.
+Through the Medicines Patent Pool, the United Nations and the WHO have for years sought to increase access to treatments for HIV/AIDS, hepatitis C, and tuberculosis, and have now expanded that program to cover COVID-19.
+Patent pools, prize funds, and other similar ideas are part of a broader agenda to reform how life-saving drugs are developed and made available.
+The goal is to replace a monopoly-driven system with one based on cooperation and shared knowledge.
+<P>
+To be sure, some will argue that the COVID-19 crisis is sui generis, or that the threat of compulsory licenses offers sufficient means for pressuring drug companies to behave well.
+But, beyond front-line researchers who are not motivated solely by short-term profits, it is not clear that the big pharmaceutical companies understand their responsibilities.
+After all, Gilead, the maker of remdesivir, initially reacted to the current crisis by applying for “orphan drug” status, which would have granted it a stronger monopoly position and multimillion-dollar tax breaks.
+(Following a public outcry, the company withdrew its application.)
+<P>
+For too long, we have bought into the myth that today’s IP regime is necessary.
+The proven success of GISRS and other applications of “open science” shows that it is not.
+With the COVID-19 death toll rising, we should question the wisdom and morality of a system that silently condemns millions of human beings to suffering and death every year.
+<P>
+It’s time for a new approach.
+Academics and policymakers have already come forward with many promising proposals for generating socially useful – rather than merely profitable – pharmaceutical innovation.
+There has never been a better time to start putting these ideas into practice.

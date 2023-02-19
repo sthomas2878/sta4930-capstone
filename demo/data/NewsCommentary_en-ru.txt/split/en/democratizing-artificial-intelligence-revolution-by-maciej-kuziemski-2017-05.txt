@@ -1,0 +1,60 @@
+<HEADLINE>
+Democratizing Artificial Intelligence
+<P>
+OXFORD – Artificial Intelligence is the next technological frontier, and it has the potential to make or break the world order.
+The AI revolution could pull the “bottom billion” out of poverty and transform dysfunctional institutions, or it could entrench injustice and increase inequality.
+The outcome will depend on how we manage the coming changes.
+<P>
+Unfortunately, when it comes to managing technological revolutions, humanity has a rather poor track record.
+Consider the Internet, which has had an enormous impact on societies worldwide, changing how we communicate, work, and occupy ourselves.
+And it has disrupted some economic sectors, forced changes to long-established business models, and created a few entirely new industries.
+<P>
+But the Internet has not brought the kind of comprehensive transformation that many anticipated.
+It certainly didn’t resolve the big problems, such as eradicating poverty or enabling us to reach Mars.
+As PayPal co-founder Peter Thiel once noted: “We wanted flying cars; instead, we got 140 characters.”
+<P>
+In fact, in some ways, the Internet has exacerbated our problems.
+While it has created opportunities for ordinary people, it has created even more opportunities for the wealthiest and most powerful.
+A recent study by researchers at the LSE reveals that the Internet has increased inequality, with educated, high-income people deriving the greatest benefits online and multinational corporations able to grow massively – while evading accountability.
+<P>
+Perhaps, though, the AI revolution can deliver the change we need.
+Already, AI – which focuses on advancing the cognitive functions of machines so that they can “learn” on their own – is reshaping our lives.
+It has delivered self-driving (though still not flying) cars, as well as virtual personal assistants and even autonomous weapons.
+<P>
+But this barely scratches the surface of AI’s potential, which is likely to produce societal, economic, and political transformations that we cannot yet fully comprehend.
+AI will not become a new industry; it will penetrate and permanently alter every industry in existence.
+AI will not change human life; it will change the boundaries and meaning of being human.
+<P>
+How and when this transformation will happen – and how to manage its far-reaching effects – are questions that keep scholars and policymakers up at night.
+Expectations for the AI era range from visions of paradise, in which all of humanity’s problems have been solved, to fears of dystopia, in which our creation becomes an existential threat.
+<P>
+Making predictions about scientific breakthroughs is notoriously difficult.
+On September 11, 1933, the famed nuclear physicist Lord Rutherford told a large audience, “Anyone who looks for a source of power in the transformation of the atoms is talking moonshine.”
+The next morning, Leo Szilard hypothesized the idea of a neutron-induced nuclear chain reaction; soon thereafter, he patented the nuclear reactor.
+<P>
+The problem, for some, is the assumption that new technological breakthroughs are incomparable to those in the past.
+Many scholars, pundits, and practitioners would agree with Alphabet Executive Chairman Eric Schmidt that technological phenomena have their own intrinsic properties, which humans “don’t understand” and should not “mess with.”
+<P>
+Others may be making the opposite mistake, placing too much stock in historical analogies.
+The technology writer and researcher Evgeny Morozov, among others, expects some degree of path dependence, with current discourses shaping our thinking about the future of technology, thereby influencing technology’s development.
+Future technologies could subsequently impact our narratives, creating a sort of self-reinforcing loop.
+<P>
+To think about a technological breakthrough like AI, we must find a balance between these approaches.
+We must adopt an interdisciplinary perspective, underpinned by an agreed vocabulary and a common conceptual framework.
+We also need policies that address the interconnections among technology, governance, and ethics.
+Recent initiatives, such as Partnership on AI or Ethics and Governance of AI Fund are a step in the right direction, but lack the necessary government involvement.
+<P>
+These steps are necessary to answer some fundamental questions: What makes humans human?
+Is it the pursuit of hyper-efficiency – the “Silicon Valley” mindset?
+Or is it irrationality, imperfection, and doubt – traits beyond the reach of any non-biological entity?
+<P>
+Only by answering such questions can we determine which values we must protect and preserve in the coming AI age, as we rethink the basic concepts and terms of our social contracts, including the national and international institutions that have allowed inequality and insecurity to proliferate.
+In a context of far-reaching transformation, brought about by the rise of AI, we may be able to reshape the status quo, so that it ensures greater security and fairness.
+<P>
+One of the keys to creating a more egalitarian future relates to data.
+Progress in AI relies on the availability and analysis of large sets of data on human activity, online and offline, to distinguish patterns of behavior that can be used to guide machine behavior and cognition.
+Empowering all people in the age of AI will require each individual – not major companies – to own the data they create.
+<P>
+With the right approach, we could ensure that AI empowers people on an unprecedented scale.
+Though abundant historical evidence casts doubt on such an outcome, perhaps doubt is the key.
+As the late sociologist Zygmunt Bauman put it, “questioning the ostensibly unquestionable premises of our way of life is arguably the most urgent of services we owe our fellow humans and ourselves.”

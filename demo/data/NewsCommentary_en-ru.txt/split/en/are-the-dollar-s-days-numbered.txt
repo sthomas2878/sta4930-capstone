@@ -1,0 +1,57 @@
+<HEADLINE>
+Are the Dollar's Days Numbered?
+<P>
+A year ago, the dollar bestrode the world like a colossus.
+Now it is humbled and the euro looks triumphant.
+Is the dollar on the way out as the world's unchallenged reserve and trade currency?
+Or is "euro triumphalism" premature?
+<P>
+That question preoccupies not only speculators tracking the dollar's decline, but ordinary businessmen who wonder what currency to use when invoicing imports or exports.
+Indeed, the part that currencies play in world trade through their role in invoicing receives too little attention.
+Currently, the US dollar remains dominant.
+Most US exports and imports are denominated in dollars, and the dollar is extensively used in trade that does not involve America.
+<P>
+Since 1980, however, the dollar has lost ground.
+Estimates from the European Commission indicate that the dollar's share in world trade fell from 56% in 1980 to 52% in 1995 (the latest year for which statistics are available).
+The Deutsche Mark's share remained relatively unchanged between 1980 and 1995.
+The yen lags behind, but had the highest relative growth, with its share of world trade more than doubling from 2% in 1980 to almost 5% in 1995.
+<P>
+Among the reasons for the dollar's longtime dominance as the premier international currency are lower transactions costs in foreign exchange markets, the historical role of the dollar in world trade since 1945, and the sheer size of America's economy.
+But the role of size is more complex than it seems.
+<P>
+The second biggest economy in the world is Japan's, but the fraction of its trade denominated in yen remains low, even when compared to the smallest European countries.
+One factor that explains this is the large share of US firms in markets where Americans sell their goods.
+<P>
+To understand the reasons behind all this, consider what factors are in play when a firm chooses the currency it uses to invoice for goods.
+Here an exporter faces two types of risk: price risk and competitiveness risk.
+<P>
+Consider a Japanese firm seeking to make the highest yen profits on goods sold in Switzerland.
+If the Japanese firm sets the price in Swiss francs, it is exposed to price risk as the yen price will fluctuate with the yen-Swiss franc exchange rate.
+This tends to make Japanese exporters prefer to price in yen.
+But firms also care about what their competitors do.
+<P>
+If the Japanese firm sells its goods to a particular Swiss market dominated by Swiss firms (which invoice in Swiss francs), it would prefer to price in Swiss francs too.
+If it priced in yen, it would risk losing its market share if the yen appreciated.
+If Japanese firms are dominant in a particular Swiss market, they prefer to price in yen: a Japanese firm then would not have to worry about losing market share when the yen appreciated, because its competitors would face the same pressures.
+<P>
+These arguments explain the big role played by the dollar in trade.
+The fact that the US is large makes it more likely that US firms are dominant in a particular market, either as an exporter or as import-competitors when foreign goods are sold in America.
+This implies that US firms price in dollars, whether they sell at home or abroad, and foreign firms for competitive reasons will also price in dollars when they export to the US.
+<P>
+Because Japan has the second largest economy in the world, the yen should be a more important currency.
+Competitiveness is a key reason for why it is not.
+First, the US is Japan's largest trading partner: more than half of Japanese trade with industrialized countries is with the US.
+Over 80% of Japanese exports to the US are priced in dollars, in markets where US firms tend to dominate.
+<P>
+Second, even when selling to countries other than the US, Japanese exporters often face stiff American competition.
+Take Japanese exports to South East Asia, which are almost 50% denominated in dollars due to competition from US exporters.
+These factors are unlikely to change soon and lead us to predict that the yen will keep a low profile in world trade.
+<P>
+They also explain why, over time, the euro should gain weight in international trade.
+Euro-zone countries can be considered a single country when dealing with the currency denomination of trade.
+This `country' has more market power than the individual countries that form the European Monetary Union.
+So the euro should play a larger role in international trade in the future than the sum of the currencies it replaced.
+<P>
+Yet these changes will only occur gradually.
+So the "euro triumphalism" that has greeted the dollar's decline is, indeed, premature.
+Despite its current distress, the dollar should retain its predominance for some time to come.

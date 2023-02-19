@@ -1,0 +1,63 @@
+<HEADLINE>
+Measure for Mismeasure
+<P>
+ISTANBUL – I recently used Uber (an online service for ordering a car and driver) and did not have the usual pleasant experience.
+The driver did not know the area, and, worse, he did not follow his navigator’s instructions, turning left instead of right.
+When Uber asked me, as usual, to rate the driver, I did not hesitate to give him two out of five.
+I was not being vindictive; I wanted to save other passengers from an unpleasant experience, and I hoped that maybe feedback would encourage him to improve or find another line of work.
+<P>
+But what does two out of five mean?
+It obviously means worse than average, which would be three.
+But, while I would always pick an average driver over a driver with a rating of two, given the choice between a two driver and a blind pick, I might pick the two, because the fear of someone even worse would keep me from taking a risk.
+This is a well-known phenomenon known as loss aversion: the risk of a one outweighs the hope of a five.
+<P>
+Just last week, I was engaged in ranking proposals for the Knight News Challenge; to simplify things, they had a three-point ranking: three for yes, two for consider, one for reject.
+The idea was to pick the easy winners, reject the losers, and focus on distinguishing among the maybes.
+That makes sense in the context of focusing attention where a decision is needed.
+<P>
+Ranking exercises, like the things they rank, are not all the same; different approaches fit different situations.
+We live in a world where everything is being rated, whether you are a professional judge or an individual trying to make sense of modern life.
+Indeed, while we rate the Uber drivers, they are rating us.
+<P>
+Consider a business plan or a foundation grant proposal.
+One proposal might be ranked nine out of ten, while another is eight out of 20; the first is pretty good but with limited upside, while the second is not so good, but has the potential to be great.
+The two cannot really be compared: One is a safe choice, but not likely to have a huge impact; the other is riskier, but ultimately may be more worthwhile.
+If you are a customer buying a product that should work, you want the nine out of ten; if you are a venture capitalist who thinks she can add value, you want the eight out of 20.
+<P>
+Helping people to think clearly about these numbers is important.
+People want simplicity, yet at the same time, in a world of targeted marketing, customization, and precision, in which vendors struggle to give consumers exactly what they want, people can help themselves by thinking clearly and specifying their preferences.
+<P>
+Imagine that you have cancer.
+The doctor says that you probably have two years to live, or a 50% expected improvement in “survival” (medical terminology for living another five years) if you undergo chemotherapy.
+In other words, you can have two years of gradual decline with some pain, or three years of nauseating treatments, “chemo brain,” loss of hair, and diminished dignity.
+<P>
+If you think those numbers are not quite comparable, you are right; that is part of the problem.
+(And the numbers may be based on a limited sample of people who do not quite resemble you.)
+But, while the timing is uncertain, the trade-offs are pretty clear.
+What you really want, of course, is a cure, not merely a minimal extension of life expectancy, but nothing is certain.
+The choice sounds easy, but then perhaps you just want to survive to see your daughter graduate, or your son get married.
+It would be nice to understand those numbers better.
+<P>
+Even on the population level, we are facing some of the same complexities at HICCup (the Health Initiative Coordinating Council), a startup that I founded.
+How do you measure health improvement?
+It is not, as one benighted analyst suggested, “A 20% improvement (reduction) in heart attacks plus a 30% improvement (reduction) in diabetes incidence equals a 50% improvement.”
+You need to average the improvements to get a figure somewhere between 20% and 30%.
+But how do you weight diabetes versus heart attacks, life extension versus quality of life?
+<P>
+There is also, in any sector, the issue of what the data really mean.
+One of my favorite (sad) stories concerns consumer credit ratings in Russia.
+A retail banker once told me that in making credit decisions in Russia, his analysts had faced a shortage of data and had assumed that a criminal record would be one easy way to weed out the bad eggs.
+<P>
+But when the bank ran the numbers, they discovered that although about half of the people applying for low-end, high-interest-rate credit had a police record, this did not seem to reflect on payment outcomes.
+I suspect the reason was that the people with no police record were the middle 50%.
+At the bottom were 25% who had a police record for some kind of bad behavior.
+At the top were 25% who had a police record for exceptionally good behavior, like refusing to pay bribes or to overlook corruption.
+<P>
+The moral of this story is that numbers do not tell us everything.
+Do we end up focusing on price because we can measure it, to the exclusion of other things that matter?
+This phenomenon has rendered the airline business largely unprofitable – and customers increasingly unhappy.
+Quality used to be included in the price of a ticket; now, with surcharges for seat selection, meals, and the like, customers are charged for it separately.
+<P>
+In short, the paradox of choice (as elegantly described in an eponymous book by Barry Schwartz) is that too many choices confuse us and raise the possibility of regret; how can we be sure that we are getting just what we want, and that something else would not be better?
+<P>
+Or it may be that the greatest happiness of all comes from not having to worry about stuff like this.

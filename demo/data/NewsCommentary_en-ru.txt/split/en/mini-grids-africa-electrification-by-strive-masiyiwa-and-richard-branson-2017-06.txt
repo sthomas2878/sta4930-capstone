@@ -1,0 +1,55 @@
+<HEADLINE>
+The Power of Mini-Grids
+<P>
+HARARE – Despite impressive economic development in recent years, Africa still lags far behind on energy, with almost two-thirds of the continent’s citizens lacking access to electricity.
+While getting more power to the people is an important goal, extending electricity grids is expensive and slow.
+Meanwhile, off-grid options may not be sufficient to meet people’s energy needs.
+Fortunately, there is a third approach that can help fill in the gaps: mini-grids.
+<P>
+Mini-grids are essentially localized electricity networks that supply several users, whether households or businesses.
+They can be grid-connected, but they do not have to be.
+And, as a new report from the Africa Progress Panel (of which one of the authors is a member) shows – and as another report by the Rocky Mountain Institute underscores – mini-grids are an important piece of Africa’s energy puzzle.
+<P>
+Mini-grids can have a major competitive advantage over grid extension in rural and remote areas, because they can provide electricity more quickly and at much lower cost.
+Because mini-grids require less capital investment than grid expansion, it can be easier to secure financing for them, meaning that they can electrify communities that might have to wait years for a grid connection.
+<P>
+Mini-grids also have a distinct advantage over off-grid systems: greater power generation.
+Productivity-enhancing farm machinery, for example, usually requires more power than off-grid household systems can provide.
+<P>
+Moreover, mini-grids can be used to increase the resilience of existing electricity systems.
+Power cuts on the main grid can affect a large number of businesses and households, and it can be difficult to restore services quickly.
+Mini-grids can ensure that consumers retain access to power when the grid suffers interruptions.
+<P>
+Despite these benefits, the potential of mini-grids to help address Africa’s energy challenge has yet to be tapped.
+Reliance on mini-grids is expanding more slowly than in other world regions, with Africa being more likely to implement off-grid systems.
+One obstacle is the lack of proven commercial business models and adequate and appropriate forms of financing.
+Another is that policy frameworks often are not accommodating.
+And many developers and operators lack the requisite knowledge and experience.
+<P>
+The situation is ripe for change.
+With the United Nations sustainable development agenda ambitiously targeting universal access to energy by 2030, policymakers are paying more attention to electrification, and development-finance institutions and partners are making more funding available.
+Meanwhile, the cost of renewable energy is falling; energy efficiency is improving, both for generating equipment and for the machines to be powered; and innovative digital technologies are facilitating the management of electricity services.
+<P>
+A flexible solution like mini-grids is well suited to this context.
+As it stands, mini-grids in Africa are mostly diesel or hydropower systems.
+Yet mini-grids can – and increasingly do –take the form of solar PV and hybrid systems, with hybrid systems being particularly promising.
+Diesel systems face the risk of fuel-supply disruptions or cost increases, while renewable-energy generation can vary according to weather and season.
+Hybrid systems that combine diesel with solar or wind power mitigate these risks.
+<P>
+Mini-grids are flexible in other ways, too.
+Mini-grids may or may not be connected to the national grid.
+They can be operated privately, by utilities, on a community basis, or according to a public-private model.
+And they can sell electricity to retail consumers, utilities, or both.
+<P>
+So how can African governments use the potential of mini-grids to help expand energy access?
+As recent experience in the United States has shown, early adoption of technical innovations, particularly of digital management tools, could enable mini-grid business models to become more cost-efficient.
+New technologies could even enable mini-grid providers to develop entirely new organizational models for electricity systems that are more effective and resilient than the conventional utility-based approach.
+<P>
+Experience in the US, as well as in Asia, also underscores the importance of favorable government policy and regulations, including capital subsidies.
+The challenge, of course, will be for each African government to design a mini-grid strategy around the options and models that work locally.
+That means setting appropriate tariffs and establishing a coherent framework of technical, financial, and procedural regulations.
+It also requires building up the necessary skills and capacities in the labor force.
+<P>
+In developing their electricity systems, most African countries will have to consider and combine many different models and options.
+For many, mini-grids can play an important role.
+If African governments embrace diversity in the way electricity is generated and distributed, they could provide modern energy to millions of people, while placing the continent at the forefront of a global energy transformation.

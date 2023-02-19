@@ -1,0 +1,68 @@
+<HEADLINE>
+Why Economics Must Go Digital
+<P>
+CAMBRIDGE – One of the biggest concerns about today’s tech giants is their market power.
+At least outside China, Google, Facebook, and Amazon dominate online search, social media, and online retail, respectively.
+And yet economists have largely failed to address these concerns in a coherent way.
+To help governments and regulators as they struggle to address this market concentration, we must make economics itself more relevant to the digital age.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Digital markets often become highly concentrated, with one dominant firm, because larger players enjoy significant returns to scale.
+For example, digital platforms incur large upfront development costs, but benefit from low marginal costs once the software is written.
+They gain from network effects, whereby the more users a platform has, the more all users benefit.
+And data generation plays a self-reinforcing role: more data improves the service, which brings in more users, which generates more data.
+To put it bluntly, a digital platform is either large or dead.
+<P>
+As several recent reports (including one to which I contributed) have pointed out, the digital economy poses a problem for competition policy.
+Competition is vital for boosting productivity and long-term growth, because it drives out inefficient producers and stimulates innovation.
+Yet how can this happen when there are such dominant players?
+<P>
+Today’s digital behemoths provide services that people want: one recent study estimated that consumers value online search alone at a level equivalent to about half of US median income.
+Economists therefore need to update their toolkit.
+Rather than assessing likely short-term trends in specific digital markets, they need to be able to estimate the potential long-term costs implied by the inability of a new rival with a better technology or service to unseat the incumbent platform.
+<P>
+This is no easy task, because there is no standard methodology for estimating uncertain, non-linear futures.
+Economists even disagree on how to measure static consumer valuations of free digital goods such as online search and social media.
+And although the idea that competition operates dynamically through firms entering and exiting the market dates back at least to Joseph Schumpeter, the standard approach is still to look at competition among similar companies producing similar goods at a point in time.
+<P>
+The characteristics of digital technology pose a fundamental challenge to the entire discipline.
+As I pointed out more than 20 years ago, the digital economy is “weightless.”
+Moreover, many digital goods are non-rival “public goods”: you can use software code without stopping others from doing so, whereas only one person can wear the same pair of shoes.
+And they require a substantial degree of trust to have any value: we need to experience them to know whether they work, and social influence is often crucial to their diffusion.
+<P>
+Yet standard economics generally assumes none of these things.
+Economists will bridle at this statement, rightly pointing to models that accommodate some features of the digital economy.
+But economists’ benchmark mental world – particularly their instinctive framework for thinking about public policy questions – is one where competition is static, preferences are fixed and individual, rival goods are the norm, and so on.
+<P>
+Starting from there leads inexorably to presuming the “free market” paradigm.
+As any applied economist knows, this paradigm is named for a mythical entity.
+But this knowledge somehow does not give rise to an alternative presumption, say, that governments should supply certain products.
+<P>
+This instinct may be changing.
+One straw in the wind is the call by Jim O’Neill, a former Goldman Sachs economist who now heads the Royal Institute of International Affairs (Chatham House), for public research and production of new antibiotics.
+Having led a review of the spread of anti-microbial resistance – which will kill millions of people if new drugs are not discovered – O’Neill is dismayed by the lack of progress made by private pharmaceutical companies.
+<P>
+Drug discovery is an information industry, and information is a non-rival public good which the private sector, not surprisingly, is under-supplying.
+That conclusion is not remotely outlandish in terms of economic analysis.
+And yet the idea of nationalizing part of the pharmaceutical industry is outlandish from the perspective of the prevailing economic-policy paradigm.
+<P>
+Or consider the issue of data, which has lately greatly exercised policymakers.
+Should data collection by digital firms be further regulated?
+Should individuals be paid for providing personal data?
+And if a sensor in a smart-city environment records that I walk past it, is that my data, too?
+The standard economic framework of individual choices made independently of one another, with no externalities, and monetary exchange for the transfer of private property, offers no help in answering these questions.
+<P>
+Economic researchers are not blameless when it comes to inadequate policy decisions.
+We teach economics to people who go out into the world of policy and business, and our research shapes the broader intellectual climate.
+The onus now is on academics to establish a benchmark approach to the digital economy, and to create a set of applied methods and tools that legislators, competition authorities, and other regulators can use.
+<P>
+Mainstream economics has largely failed to keep up with the rapid pace of digital transformation, and it is struggling to find practical ways to address the growing power of dominant tech companies.
+If the discipline wants to remain relevant, then it must rethink some of its basic assumptions.

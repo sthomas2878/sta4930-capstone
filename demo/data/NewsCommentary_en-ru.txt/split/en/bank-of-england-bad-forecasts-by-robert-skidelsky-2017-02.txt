@@ -1,0 +1,69 @@
+<HEADLINE>
+Economists in Denial
+<P>
+LONDON – Early last month, Andy Haldane, Chief Economist at the Bank of England, blamed “irrational behavior” for the failure of the BoE’s recent forecasting models.
+The failure to spot this irrationality had led policymakers to forecast that the British economy would slow in the wake of last June’s Brexit referendum.
+Instead, British consumers have been on a heedless spending spree since the vote to leave the European Union; and, no less illogically, construction, manufacturing, and services have recovered.
+<P>
+Haldane offers no explanation for this burst of irrational behavior.
+Nor can he: to him, irrationality simply means behavior that is inconsistent with the forecasts derived from the BoE’s model.
+<P>
+It’s not just Haldane or the BoE.
+What mainstream economists mean by rational behavior is not what you or I mean.
+In ordinary language, rational behavior is that which is reasonable under the circumstances.
+But in the rarefied world of neoclassical forecasting models, it means that people, equipped with detailed knowledge of themselves, their surroundings, and the future they face, act optimally to achieve their goals.
+That is, to act rationally is to act in a manner consistent with economists’ models of rational behavior.
+Faced with contrary behavior, the economist reacts like the tailor who blames the customer for not fitting their newly tailored suit.
+<P>
+Yet the curious fact is that forecasts based on wildly unrealistic premises and assumptions may be perfectly serviceable in many situations.
+The reason is that most people are creatures of habit.
+Because their preferences and circumstances don’t in fact shift from day to day, and because they do try to get the best bargain when they shop around, their behavior will exhibit a high degree of regularity.
+This makes it predictable.
+You don’t need much economics to know that if the price of your preferred brand of toothpaste goes up, you are more likely to switch to a cheaper brand.
+<P>
+Central banks’ forecasting models essentially use the same logic.
+For example, the BoE (correctly) predicted a fall in the sterling exchange rate following the Brexit vote.
+This would cause prices to rise – and therefore consumer spending to slow.
+Haldane still believes this will happen; the BoE’s mistake was more a matter of “timing” than of logic.
+<P>
+This is equivalent to saying that the Brexit vote changed nothing fundamental.
+People would go on behaving exactly as the model assumed, only with a different set of prices.
+But any prediction based on recurring patterns of behavior will fail when something genuinely new happens.
+<P>
+Non-routine change causes behavior to become non-routine.
+But non-routine does not mean irrational.
+It means, in economics-speak, that the parameters have shifted.
+The assurance that tomorrow will be much like today has vanished.
+Our models of quantifiable risk fail when faced with radical uncertainty.
+<P>
+The BoE conceded that Brexit would create a period of uncertainty, which would be bad for business.
+But the new situation created by Brexit was actually very different from what policymakers, their ears attuned almost entirely to the City of London, expected.
+Instead of feeling worse off (as “rationally” they should), most “Leave” voters believe they will be better off.
+<P>
+Justified or not, the important fact about such sentiment is that it exists.
+In 1940, immediately after the fall of France to the Germans, the economist John Maynard Keynes wrote to a correspondent: “Speaking for myself I now feel completely confident for the first time that we will win the war.”
+Likewise, many Brits are now more confident about the future.
+<P>
+This, then, is the problem – which Haldane glimpsed but could not admit – with the BoE’s forecasting models.
+The important things affecting economies take place outside the self-contained limits of economic models.
+That is why macroeconomic forecasts end up on the rocks when the sea is not completely flat.
+<P>
+The challenge is to develop macroeconomic models that can work in stormy conditions: models that incorporate radical uncertainty and therefore a high degree of unpredictability in human behavior.
+<P>
+Keynes’s economics was about the logic of choice under uncertainty.
+He wanted to extend the idea of economic rationality to include behavior in the face of radical uncertainty, when we face not just unknowns, but unknowable unknowns.
+This of course has much severer implications for policy than a world in which we can reasonably expect the future to be much like the past.
+<P>
+There have been a few scattered attempts to meet the challenge.
+In their 2011 book Beyond Mechanical Markets, the economists Roman Frydman of New York University and Michael Goldberg of the University of New Hampshire argued powerfully that economists’ models should try to “incorporate psychological factors without presuming that market participants behave irrationally.”
+Proposing an alternative approach to economic modeling that they call “imperfect knowledge economics,” they urge their colleagues to refrain from offering “sharp predictions” and argue that policymakers should rely on “guidance ranges,” based on historical benchmarks, to counter “excessive” swings in asset prices.
+<P>
+The Russian mathematician Vladimir Masch has produced an ingenious scheme of “Risk-Constrained Optimization,” which makes explicit allowance for the existence of a “zone of uncertainty.”
+Economics should offer “very approximate guesstimates,” requiring “only modest amounts of modeling and computational effort.”
+<P>
+But such efforts to incorporate radical uncertainty into economic models, valiant though they are, suffer from the impossible dream of taming ambiguity with math and (in Masch’s case) with computer science.
+Haldane, too, seems to put his faith in larger data sets.
+<P>
+Keynes, for his part, didn’t think this way at all.
+He wanted an economics that would give full scope for judgment, enriched not only by mathematics and statistics, but also by ethics, philosophy, politics, and history – subjects dropped from contemporary economists’ training, leaving a mathematical and computational skeleton.
+To offer meaningful descriptions of the world, economists, he often said, must be well educated.

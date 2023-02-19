@@ -1,0 +1,50 @@
+<HEADLINE>
+Fleeing from Italy
+<P>
+CAMBRIDGE – Italy’s referendum on December 4 will give voters the opportunity to approve or reject what some have described as the country’s most extensive constitutional reforms since the abolition of the monarchy at the end of World War II.
+Yet it may be the fact that Italy’s three opposition parties all favor exiting the euro that explains why Prime Minster Matteo Renzi has promised to resign if voters reject the reforms.
+<P>
+Understandably, after the surprise victory in June of the “Leave” campaign in the United Kingdom’s Brexit referendum, and of Donald Trump in the United States’ presidential election, no one has much faith in polls in advance of the Italian vote.
+There is, however, a disquieting real-time poll of investors’ sentiment: capital flight from Italy has accelerated this year.
+<P>
+There is a recent precedent for this.
+In the summer of 2015, Greece’s short-lived default on its International Monetary Fund loan and the introduction of capital controls and deposit-withdrawal restrictions were at the center of the eurozone drama.
+Tensions between the Greek and German governments ran high, and speculation about whether Greece would remain in the eurozone escalated.
+<P>
+The stage has now shifted to the much larger Italian economy.
+In the current environment of uncertainty, yield spreads on Italian bonds have widened to about 200 basis points over German bunds.
+<P>
+Economic and political conditions in the two debt-laden southern European economies differ in important respects; but there are also similarities.
+Economic growth in both countries has lagged far behind other advanced economies for more than a decade, but most markedly since the Global Financial crisis of 2008-2009.
+According to IMF estimates, real per capita income in Italy is about 12% below what it was in 2007, with only Greece faring worse.
+<P>
+The problem of bank insolvency, endemic in Greece, where nonperforming loans account for more than one-third of bank assets, is not as generalized in Italy.
+Still, the uncertain resolution of Italy’s third-largest bank, Monte dei Paschi, together with the Italian government’s limited resources to deal with weak banks, has fueled unease among depositors.
+Bankers also warn that the plan for Monte dei Paschi’s rescue may be jeopardized by the December referendum, which could trigger another round of decline in share prices.
+<P>
+But, for all the talk of a looming banking crisis, the balance-of-payments crisis already underway in Italy since the first half of 2016 is the main factor driving the real-time poll of investors.
+Prior to the adoption of the euro, an unsustainable balance-of-payments position in Italy (as in other countries with their own currencies) would typically spur the central bank to raise interest rates, thereby making domestic financial assets more attractive to investors and stemming capital flight.
+With the European Central Bank setting monetary policy for the eurozone as a whole, this is no longer an option for Banca d’Italia.
+<P>
+Central Banks in countries facing a run on their currencies may also decide to allow a depreciation and let the markets chart the exchange rate’s course, rather than trying to “defend” some predetermined parity.
+This, too, is an obsolete option for Italy.
+While the euro can fluctuate freely vis-à-vis other currencies, there is no “Italian” euro to depreciate versus a “German” euro.
+If capital is flowing out of Italy and into Germany, there is no scope for an Italian depreciation, as would have occurred prior to the common currency.
+<P>
+Policymakers have also sometimes introduced capital controls to slow, if not stop, capital flight during a balance-of-payments crisis.
+Greece and Cyprus within the eurozone, and Iceland outside it, resorted to this option in response to extreme duress.
+But the free movement of financial capital within the eurozone is a fundamental principle of the common currency’s design, and Italy is not at the point of abrogating it, at least for now.
+<P>
+If interest rate hikes, depreciation or devaluation of the currency, and controls on financial outflows are not viable options, what can a country’s central bank do when faced with accelerating capital flight?
+If it is not part of a currency union, it can resort to market intervention to support its currency, using and losing its foreign-exchange reserves in the process.
+Saudi Arabia’s massive reserve losses in the wake of falling oil prices reflect this policy response.
+<P>
+<P>
+Within the eurozone, such reserve losses are automatic under Target2, the real-time gross settlement system for the euro.
+If a country has run out of reserves, its central bank automatically borrows to maintain the intraeuro peg.
+For a country experiencing capital flight (as much of the eurozone periphery has at various points since 2008), this implies a progressively more negative Target2 balance.
+As of September (the most recent data available), Italy’s Target2 deficit is above 20% of GDP – its worst reading to date (see figure).
+By some of the standard definitions, these are crisis-level reserve losses (shaded in the figure).
+<P>
+Ireland’s recent experience establishes an encouraging precedent for reversing this kind of downward spiral.
+For Italy, with its deeply divided political environment, engineering such a reversal will require a massive policy effort – and possibly a large dose of luck.

@@ -1,0 +1,70 @@
+<HEADLINE>
+Will the Economic Strategy Work?
+<P>
+PARIS – With the COVID-19 crisis bringing France to a halt, Insee, the French statistical institute, puts the drop in economic activity relative to normal at 35%.
+It reckons that the fall in household consumption is of a similar magnitude.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+These numbers imply that each additional month of lockdown reduces annual GDP by three percentage points.
+And sectoral situations are obviously worse: business output is down 40%, manufacturing output down 50%, and some services sectors have come to a complete standstill.
+Ex ante estimates for Germany and the United Kingdom are similar, and, if anything, corresponding numbers may be larger in economies with a smaller public sector.
+<P>
+Because even thriving companies can be killed in a matter of weeks by a shock of this magnitude, governments have reacted in a remarkably similar fashion.
+To prevent bankruptcies, they are extending liquidity lifelines to private businesses in the form of massive credit guarantees and the deferral of tax payments (many of which will never be collected).
+Germany, for example is rolling out €400 billion in public guarantees to make sure that its banks will roll over outstanding loans to businesses.
+Overall, eurozone fiscal liquidity schemes for business and employees amount to 13% of GDP.
+<P>
+European countries are, moreover, making extensive use of mechanisms that temporarily transfer to the government the largest part of the wage bill of companies forced to stop or cut production.
+Workers retain their employment contract and, one way or another, most of their wage, but the company receives state support that covers nearly all the costs.
+Unlike layoffs, which sever ties between a company and its workforce, such schemes make it possible to keep workers financially afloat until the company reopens for business.
+Such arrangements, where they already existed, were generally used to address sector-specific crises.
+Now, they have been massively extended.
+<P>
+Absent an extensive social insurance system to build on, the US stimulus package, adopted on March 26, has similar aims, but a different structure.
+The federal government will send checks to low- and middle-income taxpayers, extend grants to small businesses, conditional on them keeping their workers, increase the duration of unemployment insurance and broaden eligibility, and pay $600 per week to laid-off and furloughed workers.
+This is, in spirit, a very European package.
+But stark differences remain: from March 14 to March 21, weekly unemployment claims in the US soared by an unprecedented amount – from 282,000 to 3.28 million.
+No European country has experienced such an abrupt business response to the shock.
+<P>
+Whether the strategy will be effective is hard to assess.
+Whatever the size of the shield that is being extended to protect businesses and workers, devastation is certain.
+Many companies were caught off guard by the crisis, loaded with debt and now devoid of prospects.
+Liquidity helps them but it won’t save them from the threat of insolvency.
+The collapsing stock markets have reduced the value of collateral, leaving borrowers more fragile and putting leveraged investors in great danger.
+Banks are piling up bad debt once again.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Moreover, many gig workers, temporary employees, and new entrants on the labor market have been left without an income, while the bureaucratic plumbing of the new unemployment insurance schemes is an operational nightmare.
+So there will be many, many casualties.
+But overall, the approach being taken is probably the best possible.
+<P>
+Is it a sustainable strategy?
+It is easy to do the fiscal numbers.
+Assuming that the business sector accounts for 80% of the economy, that its output is down by 40%, and that government action aims at covering 80% of the corresponding income loss, budgetary support should amount to 0.8x0.4x0.8=25% of pre-crisis output, or a bit more than 2% of annual GDP per month.
+Three months of complete or partial lockdown, followed by only a gradual recovery, could add some ten percentage points of GDP to the budget deficit.
+<P>
+That is a very big number, but in current conditions, governments can afford to go deeply into debt.
+Interest rates were at historically low levels before the crisis hit, for reasons that were mostly structural and will therefore remain valid.
+Moreover, central banks everywhere are backstopping their governments and will avoid self-fulfilling debt crises.
+In these conditions, large deficits can be tolerated, at least in the short run.
+<P>
+The economic sustainability of the strategy is more in question.
+It is worth keeping a business on life support for a few weeks, because to let it go bust would be a loss not only to its shareholders and workers, but to society at large.
+Firm-specific skills, know-how, and intangible capital would be lost for good.
+So governments have been right not to hesitate.
+But will that still be true after six months?
+Or nine?
+A firm that has remained idle for too long is likely to become riddled with debt, and it may have lost its economic value.
+It must be admitted that the conservation strategy is predicated on a relatively short crisis.
+It is right for the time being, but it may have to be adapted in the light of events.
+<P>
+The hardest issue may be how to manage the exit from the lockdown after the public-health threat has been contained and economic policy takes center stage again.
+Some have started speaking of a stimulus plan, but supply may well remain constrained for some months, while pent-up household demand for goods and services could be considerable.
+<P>
+As after a war, shortages are likely to arise, in some sectors at least.
+And it is very hard to predict whether aggregate demand will be excessive (owing to accumulated savings and repressed consumption) or depressed (because of fear, financial losses, debt, and the collapse of international trade).
+Managing the economy will be a very hard balancing act.
+As the Chinese saying puts it, policymakers will need to cross the river by feeling the stones.

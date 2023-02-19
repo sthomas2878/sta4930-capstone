@@ -1,0 +1,52 @@
+<HEADLINE>
+The Big Blockchain Lie
+<P>
+NEW YORK – With the value of Bitcoin having fallen by around 70% since its peak late last year, the mother of all bubbles has now gone bust.
+More generally, cryptocurrencies have entered a not-so-cryptic apocalypse.
+The value of leading coins such as Ether, EOS, Litecoin, and XRP have all fallen by over 80%, thousands of other digital currencies have plummeted by 90-99%, and the rest have been exposed as outright frauds.
+No one should be surprised by this: four out of five initial coin offerings (ICOs) were scams to begin with.
+<P>
+Faced with the public spectacle of a market bloodbath, boosters have fled to the last refuge of the crypto scoundrel: a defense of “blockchain,” the distributed-ledger software underpinning all cryptocurrencies.
+Blockchain has been heralded as a potential panacea for everything from poverty and famine to cancer.
+In fact, it is the most overhyped – and least useful – technology in human history.
+<P>
+In practice, blockchain is nothing more than a glorified spreadsheet.
+But it has also become the byword for a libertarian ideology that treats all governments, central banks, traditional financial institutions, and real-world currencies as evil concentrations of power that must be destroyed.
+Blockchain fundamentalists’ ideal world is one in which all economic activity and human interactions are subject to anarchist or libertarian decentralization.
+They would like the entirety of social and political life to end up on public ledgers that are supposedly “permissionless” (accessible to everyone) and “trustless” (not reliant on a credible intermediary such as a bank).
+<P>
+Yet far from ushering in a utopia, blockchain has given rise to a familiar form of economic hell.
+A few self-serving white men (there are hardly any women or minorities in the blockchain universe) pretending to be messiahs for the world’s impoverished, marginalized, and unbanked masses claim to have created billions of dollars of wealth out of nothing.
+But one need only consider the massive centralization of power among cryptocurrency “miners,” exchanges, developers, and wealth holders to see that blockchain is not about decentralization and democracy; it is about greed.
+<P>
+For example, a small group of companies – mostly located in such bastions of democracy as Russia, Georgia, and China – control between two-thirds and three-quarters of all crypto-mining activity, and all routinely jack up transaction costs to increase their fat profit margins.
+Apparently, blockchain fanatics would have us put our faith in an anonymous cartel subject to no rule of law, rather than trust central banks and regulated financial intermediaries.
+<P>
+A similar pattern has emerged in cryptocurrency trading.
+Fully 99% of all transactions occur on centralized exchanges that are hacked on a regular basis.
+And, unlike with real money, once your crypto wealth is hacked, it is gone forever.
+<P>
+Moreover, the centralization of crypto development – for example, fundamentalists have named Ethereum creator Vitalik Buterin a “benevolent dictator for life” – already has given lie to the claim that “code is law,” as if the software underpinning blockchain applications is immutable.
+The truth is that the developers have absolute power to act as judge and jury.
+When something goes wrong in one of their buggy “smart” pseudo-contracts and massive hacking occurs, they simply change the code and “fork” a failing coin into another one by arbitrary fiat, revealing the entire “trustless” enterprise to have been untrustworthy from the start.
+<P>
+Lastly, wealth in the crypto universe is even more concentrated than it is in North Korea.
+Whereas a Gini coefficient of 1.0 means that a single person controls 100% of a country’s income/wealth, North Korea scores 0.86, the rather unequal United States scores 0.41, and Bitcoin scores an astonishing 0.88.
+<P>
+As should be clear, the claim of “decentralization” is a myth propagated by the pseudo-billionaires who control this pseudo-industry.
+Now that the retail investors who were suckered into the crypto market have all lost their shirts, the snake-oil salesmen who remain are sitting on piles of fake wealth that will immediately disappear if they try to liquidate their “assets.”
+<P>
+As for blockchain itself, there is no institution under the sun – bank, corporation, non-governmental organization, or government agency – that would put its balance sheet or register of transactions, trades, and interactions with clients and suppliers on public decentralized peer-to-peer permissionless ledgers.
+There is no good reason why such proprietary and highly valuable information should be recorded publicly.
+<P>
+Moreover, in cases where distributed-ledger technologies – so-called enterprise DLT – are actually being used, they have nothing to do with blockchain.
+They are private, centralized, and recorded on just a few controlled ledgers.
+They require permission for access, which is granted to qualified individuals.
+And, perhaps most important, they are based on trusted authorities that have established their credibility over time.
+All of which is to say, these are “blockchains” in name only.
+<P>
+It is telling that all “decentralized” blockchains end up being centralized, permissioned databases when they are actually put into use.
+As such, blockchain has not even improved upon the standard electronic spreadsheet, which was invented in 1979.
+<P>
+No serious institution would ever allow its transactions to be verified by an anonymous cartel operating from the shadows of the world’s authoritarian kleptocracies.
+So it is no surprise that whenever “blockchain” has been piloted in a traditional setting, it has either been thrown in the trash bin or turned into a private permissioned database that is nothing more than an Excel spreadsheet or a database with a misleading name.

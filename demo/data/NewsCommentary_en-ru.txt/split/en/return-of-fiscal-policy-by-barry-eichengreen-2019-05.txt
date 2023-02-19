@@ -1,0 +1,62 @@
+<HEADLINE>
+The Return of Fiscal Policy
+<P>
+FRANKFURT – Five years ago, the French economist Thomas Piketty made a splash with his book Capital in the Twenty-First Century, in which he argued that there is an innate tendency toward wealth concentration in market economies.
+The mechanism to which Piketty pointed was that the rate of interest, r, is higher than the rate of economic growth, g.
+With r>g, owners of the means of production – the capitalist class – earn a return that exceeds the growth of the economy as a whole.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+By highlighting the problem of wealth inequality and providing a pithy explanation of it, Piketty struck a chord.
+Not many economics books sell more than a million copies.
+<P>
+Earlier this year, another French economist, Olivier Blanchard, the outgoing president of the American Economic Association and a former chief economist of the International Monetary Fund, gave an acclaimed address in which he argued that the debt-carrying capacity of the advanced economies is greater than commonly supposed.
+The basis for his conclusion was that the rate of interest was less than the rate of economic growth.
+With r< g, the debt-to-GDP ratio, which measures a society’s capacity to service debts, will have a denominator that is growing faster than the numerator, so long as the budget is close to balance.
+<P>
+Meanwhile, John Williams, the president of the Federal Reserve Bank of New York, has published a series of widely cited studies showing that the real (inflation-adjusted) rate of interest has been trending downward for fully two decades.
+<P>
+So have we now moved from Piketty’s r>g world to Blanchard’s r< g world?
+If so, can their views be reconciled?
+<P>
+The answer is no and yes.
+The views of Piketty and Blanchard can indeed be reconciled, because they are talking about different interest rates.
+While Blanchard focuses on the rate on low-risk government bonds, Piketty is concerned with the return on risky capital investments.
+Because the two interest rates are separated by a risk premium of roughly five percentage points, it is entirely possible for the rate on government bonds to be below the economic growth rate, while the rate on capital is above it.
+<P>
+Why the risk premium is so large is a bit of a mystery.
+One must assume that consumers are incredibly risk-averse in order to generate a premium of the observed magnitude.
+Still, the existence of this risk premium explains how Piketty and Blanchard can both reach their respective conclusions.
+<P>
+What are the implications for policy?
+Williams’s analysis, by highlighting that interest rates are unusually low for this stage of the business cycle, cautions that there may be little room to cut them in a downturn.
+This prospect has led the Fed to launch a comprehensive review of its monetary-policy strategy.
+<P>
+For Piketty, the rising wealth concentration that results from a large risk premium calls for higher taxes on the wealthy on equity and social-cohesion grounds.
+For Blanchard, the implication is that governments can safely accumulate more debt.
+In countries with pressing infrastructure needs, like the United States, there is room for additional public investment.
+Similarly, government-funded forgiveness of student loan debt, as advocated by Senator Elizabeth Warren, may make sense, because members of the current generation would receive significant relief while future generations would pay only a small share of their higher incomes to service additional public obligations.
+<P>
+That said, public debt is not a free lunch in an economy close to full employment.
+By spending more, the government will be tapping additional scarce resources.
+Other spending, including investment, will be crowded out, implying weaker economic growth.
+<P>
+But what about an economy that is not at full employment?
+This is the case considered by another prominent economist, former US Treasury Secretary Lawrence Summers, who takes Williams’s analysis a step further.
+Summers argues that the rate of interest delivered by market forces, left to their own devices, is now significantly below zero.
+Because twenty-first-century firms like Google and Facebook require only modest amounts of tangible capital, and because the relative price of capital goods has been falling, the “natural” rate of interest that equates saving with investment is now actually negative, absent policy support.
+<P>
+But nominal interest rates can’t be forced much below zero.
+And monetary policymakers, for their part, seem unable to push inflation above 1-2% in order to drive down real interest rates.
+Investment demand therefore tends to fall short of saving, creating a risk of chronic underemployment.
+<P>
+In this case, the argument for additional deficit spending to supplement deficient private spending is stronger, because there is less risk of crowding out productive private investment.
+This does not mean that the scope for running deficits is unlimited, because at some point safe government debt could be re-rated as risky, causing interest rates to rise.
+That said, these arguments lead to a straightforward conclusion: in the future, we will have to rely more on fiscal policy and less on monetary policy to achieve stable and equitable growth.

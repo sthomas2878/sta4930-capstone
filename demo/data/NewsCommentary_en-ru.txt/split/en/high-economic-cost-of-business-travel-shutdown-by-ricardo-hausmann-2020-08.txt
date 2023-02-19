@@ -1,0 +1,73 @@
+<HEADLINE>
+Why Zoom Can’t Save the World
+<P>
+CAMBRIDGE – Before COVID-19, spending on business travel totaled $1.5 trillion a year (about 1.7% of world GDP).
+Now it is down to a trickle, as countries have closed their borders and social distancing has taken hold.
+Planes have been grounded, hotels are closed, and executives are not earning frequent flier miles.
+Many travel and hospitality jobs are feeling the consequences.
+But if this were all there was to it, the impact, however large, would probably be much smaller than the decline in general international tourism and easily reversible, once the pandemic is over.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Alas, recent research by Harvard’s Frank Neffke, Michele Coscia of IT University in Copenhagen, and me, just published in the peer-reviewed journal Nature Human Behavior, finds that the impact of closing down business travel may be much larger and more durable.
+To understand why, we first must ask ourselves why business travel was so big to begin with.
+And why had it been growing at three times the rate of global GDP, despite the availability of Skype, Facetime, WhatsApp, or just e-mail – all tools that predate both COVID-19 and Zoom?
+<P>
+Was it all about perks, or was that $1.5 trillion mostly money well spent?
+If so, why, and what are the implications if those activities are now restricted?
+<P>
+Clearly, when we started this research, we could not have imagined such a complete shutdown of business travel.
+But our analysis does shed light on the possible consequences.
+<P>
+At the time, we were studying technological diffusion.
+Technology, we argue, is really three types of knowledge: embodied knowledge in tools; codified knowledge in codes, recipes, formulas, algorithms, and how-to-do manuals; and tacit knowledge in brains.
+Of the three, tools and codes are easy to move around, but knowhow moves very slowly from brain to brain through a long process of imitation, repetition, and feedback, as when learning to speak a new language or to play a musical instrument.
+<P>
+As Malcolm Gladwell argues in his book Outliers, it takes 10,000 hours of practice to become good at something.
+Faced with the difficulty of moving knowhow from brain to brain, people long ago figured out that it was much easier to just move the brains.
+Many scholars, including us, had studied the movement of knowhow between firms, regions, and countries through labor mobility, migration and diasporas.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But what about business travel?
+In previous work, we had shown that it is poorly correlated with trade or even new flows of foreign direct investment.
+It seems to be much more closely correlated with the number of establishments in one country that are owned by firms in another country.
+<P>
+According to Dun & Bradstreet, there are 1.5 million such establishments in the world.
+To run a firm, you need not only information, but also the capacity to figure things out.
+You need knowhow.
+One of the advantages of multinational corporations and global consulting, accounting, and law firms is that they can move that capacity to different points in their network.
+<P>
+With anonymized and aggregated data on business travel provided by the MasterCard Center for Inclusive Growth, we were able to figure out if business travel was important in technological diffusion by making knowhow available to recipient countries.
+That is exactly what we found.
+Business travel from countries that are good in a particular industry translates into higher productivity, employment, and exports in those industries in the recipient country in the subsequent three years.
+Moreover, the variation in business travel associated with differences in bilateral visa regimes enables us to interpret this relationship not just as a correlation, but as a causal link.
+<P>
+The countries that benefit the most from inflows of knowhow through business travel are Austria, Ireland, Switzerland, Denmark, Belgium, Hong Kong, and Singapore.
+There are no developing countries among the top 25 recipients.
+The best performers in the developing world are Panama, Uruguay, Serbia, Malaysia, South Africa, and Chile.
+The countries that share their knowledge more profusely are Germany, Canada, the United States, the United Kingdom, South Korea, France, and Japan.
+India, Brazil, and China rank 12th, 15th, and 17th, respectively.
+<P>
+According to our estimates, a complete permanent shutdown of international business travel would shrink global GDP by over 17% of GDP, an order of magnitude larger than the 1.7% of GDP that was being spent in 2018, before the pandemic.
+The worst-affected countries would be those that currently benefit the most from inflows of knowhow.
+<P>
+The pre-Covid-19 world as we knew it increasingly relied on the ability to source knowhow globally.
+Economies that were able to connect to these knowhow flows benefited from higher productivity, output, and exports.
+Much of the developing world was quite peripheral to these flows, but whatever they got was still very important for their diversification and development.
+<P>
+Many people, including me, are finding that they can be as productive working from home and connecting through Zoom as they were in the office or traveling for business.
+But this may be a short-term illusion that varies significantly by activity.
+The International Monetary Fund has been able to disburse financial assistance to many countries quickly, by doing deskwork, talking through Webex, and then just wiring funds.
+But development banks have had much more trouble putting together infrastructure projects, where physical presence is unavoidable.
+Local firms have had trouble building structures, repairing equipment, or figuring out how to improve operations without access to global in-person knowhow.
+<P>
+Our research implies that the world will pay a significant price for the shutdown of business travel, which will become apparent through lower post-crisis productivity growth, employment and output.
+Time is a non-renewable resource and the lost travel is not coming back, even if future travel returns to normal.
+Although the shutdown of travel is unavoidable, given the public-health imperative, the costs are real.
+These costs will rise further if we forgo the global investments in vaccinations and certifications, needed to reopen travel safely as quickly as possible.
+And, obviously, countries will pay an even higher price if they use COVID-19 as an excuse to advance a restrictive visa agenda, as US President Donald Trump’s administration tried to do by restricting professional visas and barring foreign students whose campuses do not reopen in the fall.
+<P>
+To be sure, the pandemic and technologies such as Zoom is likely to show that some business travel will really not be necessary.
+But our research suggests that moving brains to share knowhow will be just as crucial in the post-COVID-19 world as it was before, and that the consequences of shutting down business travel will be long-lived.

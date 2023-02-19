@@ -1,0 +1,55 @@
+<HEADLINE>
+The High Stakes of the Coming Digital Currency War
+<P>
+SOUTH BEND – Facebook CEO Mark Zuckerberg was at least half right when he recently told the United States Congress that there is no US monopoly on regulation of next-generation payments technology.
+You may not like Facebook’s proposed Libra (pseudo) cryptocurrency, Zuckerberg implied, but a state-run Chinese digital currency with global ambitions is perhaps just a few months away, and you will probably like that even less.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Perhaps Zuckerberg went too far when he suggested that the imminent rise of a Chinese digital currency could undermine overall dollar dominance of global trade and finance – at least the large part that is legal, taxed, and regulated.
+In fact, US regulators have vast power not only over domestic entities but also over any financial firms that need access to dollar markets, as Europe recently learned to its dismay when the US forced European banks to comply with severe restrictions on doing business with Iran.
+<P>
+America’s deep and liquid markets, its strong institutions, and the rule of law will trump Chinese efforts to achieve currency dominance for a long time to come.
+China’s burdensome capital controls, its limits on foreign holdings of bonds and equities, and the general opaqueness of its financial system leave the renminbi many decades away from supplanting the dollar in the legal global economy.
+<P>
+Control over the underground economy, however, is another matter entirely.
+The global underground economy, consisting mainly of tax evasion and criminal activities, but also terrorism, is much smaller than the legal economy (perhaps one-fifth the size), but it is still highly consequential.
+The issue here is not so much whose currency is dominant, but how to minimize adverse effects.
+And a widely used, state-backed Chinese digital currency could certainly have an impact, especially in areas where China’s interests do not coincide with those of the West.
+<P>
+A US-regulated digital currency could in principle be required to be traceable by US authorities, so that if North Korea were to use it to hire Russian nuclear scientists, or Iran were to use it to finance terrorist activity, they would run a high risk of being caught, and potentially even blocked.
+If, however, the digital currency were run out of China, the US would have far fewer levers to pull.
+Western regulators could ultimately ban the use of China’s digital currency, but that wouldn’t stop it from being used in large parts of Africa, Latin America, and Asia, which in turn could engender some underground demand even in the US and Europe.
+<P>
+One might well ask why existing cryptocurrencies such as Bitcoin cannot already perform this function.
+To an extremely limited extent, they do.
+But regulators worldwide have huge incentives to rein in cryptocurrencies by sharply proscribing their use in banks and retail establishments.
+Such restrictions make existing cryptocurrencies highly illiquid and ultimately greatly limit their fundamental underlying value.
+Not so for a Chinese-backed digital renminbi that could readily be spent in one of the world’s two largest economies.
+True, when China announces its new digital currency, it will almost surely be “permissioned”: a central clearing house will in principle allow the Chinese government to see anything and everything.
+But the US will not.
+<P>
+Facebook’s Libra is also designed as a “permissioned” currency, in its case under the auspices of Swiss regulators.
+Cooperation with Switzerland, where the currency is officially registered, will surely be much better than with China, despite Switzerland’s long tradition of extending privacy to financial transactions, especially with regard to tax evasion.
+<P>
+The fact that Libra will be pegged to the US dollar will give US authorities additional insight, because (at present) all dollar clearing must go through US-regulated entities.
+Still, given that Libra’s functionality can largely be duplicated with existing financial instruments, it is hard to see much fundamental demand for Libra except among those aiming to evade detection.
+Unless tech-sponsored currencies offer genuinely superior technology – and this is not at all obvious – they should be regulated in the same way as everyone else.
+<P>
+If nothing else, Libra has inspired many advanced-economy central banks to accelerate their programs to provide broader-based retail digital currencies, and, one hopes, to strengthen their efforts to boost financial inclusion.
+But this battle is not simply over the profits from printing currency; ultimately, it is over the state’s ability to regulate and tax the economy in general, and over the US government’s ability to use the dollar’s global role to advance its international policy aims.
+<P>
+The US currently has financial sanctions in place against 12 countries.
+Turkey was briefly sanctioned last month after its invasion of Kurdish territory in Syria, though the measures were quickly lifted.
+For Russia, sanctions have been in place for five years.
+<P>
+Just as technology has disrupted media, politics, and business, it is on the verge of disrupting America’s ability to leverage faith in its currency to pursue its broader national interests.
+Libra is probably not the answer to the coming disruption posed by government-sanctioned digital currencies from China and elsewhere.
+But if not, Western governments need to start thinking about their response now, before it is too late.

@@ -1,0 +1,48 @@
+<HEADLINE>
+The Ambient Carbon-Capture Imperative
+<P>
+PARIS – Last month, the concentration of carbon dioxide in the atmosphere surpassed 400 parts per million for the first time in roughly three million years.
+If the current trend, which fits the worst-case scenario laid out by the Intergovernmental Panel on Climate Change (IPCC), persists, CO2 concentrations will rise above 800 ppm toward the end of this century – with devastating consequences.
+<P>
+Indeed, the predicted global average temperature increase of 2.4-6.4°C caused by such high ambient CO2 concentrations is expected to trigger the worst outcomes foreseen in the IPCC scenarios, including the loss of an estimated 40% of species, more frequent extreme weather events, and widespread water scarcity.
+In order to avoid imposing such risk and uncertainty on future generations, global carbon emissions, which stand at 8.5 gigatons annually, must be halved by 2050.
+<P>
+Even in the IPCC’s best-case scenario, CO2 concentrations will increase to 550 ppm by the end of the century – a level that many researchers argue would already be too high to avoid dire consequences.
+Given this, global leaders should not limit their efforts to reducing new emissions; they should also be considering nature- and technology-based options for decreasing the amount of carbon already in the atmosphere.
+<P>
+Nature-based mechanisms aim to boost naturally occurring carbon-uptake processes.
+For example, the so-called “Geritol fix” entails adding nutrients like iron, nitrogen, or phosphate to the oceans to spur plankton growth, thereby increasing carbon capture via photosynthesis.
+Researchers estimate that a few thousand tons of iron would generate a plankton population capable of capturing several billion tons of carbon.
+<P>
+But the procedure could have far-reaching consequences for the marine ecosystem.
+Furthermore, the proportion of the captured carbon that would actually be sequestered deep in the water column or sediments remains unknown.
+Such uncertainty drove the Royal Society to advise against the method in a 2009 report, in which it estimated that a massive global ocean-fertilization program could result in the capture and storage of, at most, one additional gigaton of carbon annually.
+<P>
+A safe nature-based option for enhancing the biosphere’s carbon uptake would be to increase the number of trees on the planet.
+In order to achieve the maximum carbon capture, estimated at 1.6 gigatons, 1,380,000 square kilometers of existing forests must be maintained, 2,170,000 km2 of tropical forests must be allowed to regenerate, and 3,450,000 km2 of land must be allotted for plantations and agroforestry.
+The total area needed is equivalent to roughly 70% of the continental United States.
+<P>
+Given increasingly limited space, owing to population growth and higher demands on food production, this strategy will be difficult to implement, despite being the cheapest and most natural mechanism for capturing ambient carbon.
+Moreover, it would be inadequate to offset current emissions alone, so a complementary, technology-based strategy would also be needed.
+<P>
+Technology-based ambient-carbon capture and sequestration (CCS) – that is, using sorbents (a material used to absorb liquid or gas) to capture CO2, which is then compressed and stored in underground geological formations – is a low-risk, high-impact option for reducing CO2 concentrations.
+It has already been implemented successfully, albeit on a small scale, in submarines and spaceships.
+<P>
+Proponents of this strategy claim that it is possible to mass-produce a device roughly the size of a car that can capture 100 tons of ambient carbon annually.
+If they are right, the absorption capacity of 100 million such devices would exceed current emissions.
+<P>
+But the technology remains too expensive to implement on a large scale.
+While limited “point-source” CCS, which targets CO2 emissions from major industrial sources like power plants, is a more economical option than ambient-carbon capture, it would be inadequate to eliminate climate uncertainty even in the most optimistic scenarios.
+<P>
+Investment in research and development is needed to make large-scale ambient CCS a competitive solution in the coming years.
+This would provide a high level of control over atmospheric CO2 concentrations – and thus over how much risk is imposed on future generations.
+<P>
+Furthermore, large-scale ambient CCS would allow developing economies to catch up to their developed counterparts, without necessarily requiring advanced countries to reduce consumption.
+Countries could take responsibility for their contribution to the concentration of atmospheric CO2 by implementing carbon-capture mechanisms in proportion to their past emissions.
+<P>
+Despite its potential, however, ambient-CCS remains an uncertain option – and thus should not be used to justify or excuse inaction on climate change.
+Politicians may be understandably worried about imposing the burden of emissions-reduction initiatives on voters who are more concerned about the economy than they are about the environment; but they should recognize that many of the effects of global warming will be irreversible by the time they become apparent.
+Waiting to determine whether large-scale ambient-CCS is feasible may well mean waiting until it is too late to find another solution.
+<P>
+As it stands, no single approach is likely to be sufficient to reduce ambient carbon concentrations to safe levels.
+A global shift away from consumption, driven by a stronger emphasis on fundamental values, may prove to be the key to a less uncertain and more sustainable future.

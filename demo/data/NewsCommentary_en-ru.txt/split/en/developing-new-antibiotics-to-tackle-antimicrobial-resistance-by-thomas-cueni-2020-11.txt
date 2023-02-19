@@ -1,0 +1,71 @@
+<HEADLINE>
+A Pandemic We Can Prevent
+<P>
+GENEVA – More than one in five Americans hospitalized with COVID-19 also contracts a bacterial infection.
+Absent effective antibiotics, those lucky enough to beat the coronavirus might die at the hands of these not-so-novel pathogens.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Unfortunately, the pipeline of new antibiotics is running dry.
+Less than 100 years after the development of penicillin, drug-resistant superbugs are threatening to gain the upper hand in our fight against bacterial infections.
+<P>
+Superbugs already take an enormous toll on health-care systems around the world.
+About 700,000 people globally die each year due to antimicrobial resistance (AMR).
+Without new and better treatments, that figure could rise to ten million by 2050.
+<P>
+Researchers are currently developing more than 550 innovative treatments and vaccines for COVID-19 – a pathogen unknown just a year ago.
+But although AMR has been a known and growing problem for decades, only one new class of antibiotics has been discovered since 1984.
+The hugely successful biopharmaceutical industry, whose expertise and resources are responsible for most of the medicines we use today, has been unable to take on this vital challenge.
+<P>
+The reason is simple: whereas the industry has built its strong and unprecedented COVID-19 response on a robust innovation ecosystem, the market for antibiotics is broken.
+<P>
+Firms that successfully develop a cutting-edge new antibiotic face major challenges.
+Navigating regulatory approval and potential safety issues is expensive and time-consuming, requiring skills that smaller drug makers often lack.
+But prospective sales pose an insurmountable problem.
+New antibiotics should be used extremely sparingly to prevent bacteria from evolving and growing immune to them.
+Ideally, they should serve as weapons of last resort against bacteria resistant to more common antibiotics.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Probable sales for any new antibiotic will therefore be very low; hospitals will have just a few doses – all under lock and key – for emergency use only.
+Unfortunately, this means the potential market return is too low to justify the necessary investment in research and development.
+<P>
+At the heart of this upside-down economics is the issue of how to recognize the value of a treatment that must be used only infrequently.
+John Rex, the chief medical officer of the British biotech firm F2G Ltd., compares advanced antimicrobials to fire extinguishers: absolutely essential, but ideally rarely needed.
+<P>
+A handful of companies are still doggedly pursuing this line of research against the odds.
+They include Merck, GlaxoSmithKline, Shionogi, and Roche – as well as Pfizer, which recently acquired Arixa Pharmaceuticals, a small, California-based company developing new antibiotics for drug-resistant infections.
+But many drug makers have abandoned antibiotics research.
+Big firms like Novartis, AstraZeneca, and Sanofi exited the market long ago – and in the last two years, at least four smaller antibiotic-focused companies have gone bankrupt.
+<P>
+Although the global health community is – fortunately – beginning to recognize the urgent need for new antibiotics, there has so far been much talk and little action.
+A few players are experimenting with some alternative ways of financing the development of new medicines.
+But in general, unsurprisingly, so far political leaders find it easier to sign up to declamatory statements at high-level meetings than to sign billion-dollar checks to fix the broken market.
+<P>
+That is why many of the world’s largest drug makers helped to launch the AMR Action Fund in July.
+The Fund will invest $1 billion in smaller biotech firms, with the aim of bringing 2-4 new antibiotics to patients by 2030 by helping to bridge the so-called “valley of death” between lab research and clinical trials.
+The initiative took a year to set up, and politicians and the public-health community, including World Health Organization Director-General Tedros Adhanom Ghebreyesus, as well as scientists already researching treatments to combat drug-resistant bacteria, have widely welcomed it.
+<P>
+While we wait for new antimicrobials, doctors, governments, and the public can buy time by further curbing the overuse of existing antibiotics in medicine and agriculture, which is partly what caused the problem.
+Government regulation has reined in the worst excesses, by scaling back use, including in cleaning products and farm animals.
+Still, more careful use of the most widely adopted antibiotics is needed to slow the spread of AMR.
+For example, we should not expect our doctors to give us antibiotics to combat viruses, against which they are useless.
+<P>
+But, ultimately, slowing the spread is not enough.
+We must fundamentally change the way we value new antibiotics.
+Rather than linking their price to the quantity used, we should instead regard them as an insurance policy for medicine and health services.
+The United Kingdom’s independent 2014-16 Review on Antimicrobial Resistance, chaired by the economist Jim O’Neill, estimated that averting the worst-case scenario of ten million annual AMR deaths by 2050 would require an investment of $42 billion over the course of a decade.
+But that would represent a mere fraction of the huge economic cost of AMR between 2015 and 2050, which the review said could top $100 trillion.
+<P>
+The US Senate is considering a possible legislative remedy.
+The proposed Pioneering Antimicrobial Subscriptions to End Upsurging Resistance (PASTEUR) Act would award federal contracts of up to $3 billion each to drug makers in exchange for breakthrough antibiotics.
+The companies would be paid on a subscription basis, regardless of how much of their drug was used.
+<P>
+Other countries are experimenting with different models to support antibiotic research.
+But one way or another, as the WHO has pointed out, governments will need to establish incentives that reward biotech companies for successfully developing antibiotics.
+Next year’s G7 summit in the UK will, one hopes, produce long-awaited real commitments rather than merely more talk and a few pilot initiatives.
+<P>
+The world is locked in an arms race against superbugs.
+For now, the bugs are winning.
+But by fixing long-standing problems in the antibiotics market, we can begin to turn the tide.

@@ -1,0 +1,48 @@
+<HEADLINE>
+Hacking the STEM Syllabus
+<P>
+SAN FRANCISCO – After a prolonged honeymoon for the digital economy, the dark side of the Internet, social media, and “Big Tech” has become increasingly apparent in recent years.
+Online, what is good for business is not necessarily good for individuals or societies.
+Big Tech platforms make it easy to manipulate opinion, spew hate, and incite violence.
+<P>
+We once naively believed that mass access to the World Wide Web would inevitably democratize information; today, we worry about the emergence of an “addiction economy” that is bad for everyone.
+What can be done to support more humane, ethical, and effective technology?
+<P>
+One important way to address this problem in a systemic way is by reforming education in the so-called STEM disciplines: science, technology, engineering, and math.
+Policymakers worldwide are already focusing on increasing the number of STEM graduates and the diversity of STEM students.
+But we should also expand the scope of STEM education, to ensure that students learn to evaluate and respond to the social, economic, and political consequences of their work.
+<P>
+This does not mean adding existing humanities or social sciences courses to a STEM curriculum.
+Rather, it will require the development of an entirely new curriculum that gives the next generation of technologists, engineers, scientists, and mathematicians the formal foundations – including shared vocabulary and intellectual frameworks – for considering the macro effects of their actions on society.
+Without such a framework, the gap between the promise of innovation and the reality of human experience will only grow.
+<P>
+Fortunately, the seeds of this educational revolution are already sprouting.
+Some universities are adding ethics classes to the STEM curriculum.
+Stanford University, with its deep links to the tech industry, has recently added courses with topics like “Ethics, Public Policy, and Technological Change” and “Computers, Ethics, and Public Policy.”
+<P>
+Stanford has also recently launched a new Human-Centered AI Initiative, which recognizes that “the development of AI should be paired with an ongoing study of its impact on human society, and guided accordingly.”
+Last year, Cornell launched the Milstein Program in Technology and Humanity.
+<P>
+These early initiatives can serve as important testing grounds for new curricula and methods.
+But the real change will come only when all STEM programs provide students with the tools they need to carry out a credible assessment of their work’s effects on humanity.
+<P>
+Of course, such changes will mean little if we do not know what the most effective tools actually are.
+That is why continued experimentation is also essential.
+<P>
+Casey Fiesler of the University of Colorado, Boulder, is pursuing just such experimentation by crowd-sourcing syllabi focused on tech ethics.
+The growing online database already contains more than 200 different syllabi from universities around the world.
+Yet only one-quarter of these courses are taught by computer science faculty.
+The rest are taught in departments such as law, philosophy, and communications, which means that they are not being tailored to STEM-related challenges.
+<P>
+More fundamentally, such standalone courses are not ideal.
+A better approach, as Fiesler herself agrees, would focus on integrating ethics into “everyday practice” in the STEM fields.
+(Fiesler hopes that her database will help faculty make this case to their universities.)
+<P>
+This is the goal of the Responsible CS Challenge, launched last month by Omidyar Network, Schmidt Futures, Craig Newmark Philanthropies, and Mozilla.
+The two-year challenge should encourage computer science professors in the United States to integrate ethics into their undergraduate curriculum, so that STEM students can gain a deeper understanding of how technology affects humanity.
+<P>
+This is a good first step, but much more must be done.
+For one thing, while the initial focus on ethics makes sense, similar explorations will be needed in a wide variety of disciplines such as economics, psychology, and many more of the so-called humanities.
+<P>
+Expanding STEM education to include such broader considerations would serve as a cornerstone of a more comprehensive long-term strategy to ensure that technology serves society in overwhelmingly positive ways.
+That strategy must also include changes, say, to business models, incentives, innovation strategies, and regulatory regimes – changes that should be pursued by people whose education has prepared them to address the effects of their work on the rest of us.

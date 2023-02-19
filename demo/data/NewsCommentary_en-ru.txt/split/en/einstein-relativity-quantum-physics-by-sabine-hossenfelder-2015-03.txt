@@ -1,0 +1,49 @@
+<HEADLINE>
+One Hundred Years of Relativity
+<P>
+STOCKHOLM – This year marks the centenary of Albert Einstein's general theory of relativity, his masterwork describing gravity as the curvature of space and time.
+Yet, as is often true in science, Einstein's insights have provided physicists with as many questions as they have answered.
+<P>
+Finding solutions that fulfill Einstein's equations – space-times that describe the curvature of our universe – is difficult, so his theory was slow to catch on.
+Scientists carrying out early studies and the first crucial tests were forced to use approximations.
+It took decades to develop techniques to classify and derive new solutions.
+Today, however, many solutions are known, and other thorny problems, such as the gravitational field of two colliding stars, can be explored using computers to carry out the numerical calculations.
+<P>
+Einstein's theory not only describes our universe, from the Big Bang to black holes; it has also taught physicists the relevance of geometry and symmetry – lessons that spread from particle physics to crystallography.
+But, despite the similarities that Einstein's theory has with other theories in physics, it stands apart by its refusal to fit together with quantum mechanics, the theory that explains the dominant behavior of matter at the atomic and subatomic scale.
+<P>
+According to Einstein's theory, gravity, unlike all other physical forces known to man, is not quantized.
+It is not subject to Heisenberg's famed uncertainty principle.
+The electromagnetic field of a particle that passes through a double slit can pass through both slits at once.
+Its gravitational equivalent cannot.
+This mismatch between our understanding of gravity and the quantum theories of matter poses a huge conundrum for theoretical physicists, because it leads to mathematical contradictions.
+<P>
+Clearly, there is something about the combination of quantum theory and gravity that remains unknown, and our understanding of space, time, and matter hinges on unraveling this connection.
+Finding a description of gravity that is compatible with our understanding of quantum physics would revolutionize cosmology, yield new insights into the first moments of our universe, and provide a deeper understanding of the theories on which all of modern physics is based.
+But, despite the enormous potential impact of such a breakthrough and the efforts of generations of physicists to achieve it, we still do not know which theory is the right one.
+<P>
+Contrary to how it may feel when you try to get out of bed in the morning, gravity is by far the weakest fundamental force of all we have identified.
+It takes only the static repulsion of a few electrons to make your hair stand up, overcoming the gravitational pull of the entire planet.
+In the atomic and subatomic world, gravity is irrelevant compared to what else is going on, all of which can be described by quantum theories.
+<P>
+Gravity's weakness makes it very difficult to measure its quantum effects; as a result, we have no experimental data to guide theoretical physicists in the development of the missing theory.
+Detecting a “graviton" – the hypothetical particle making up part of a gravitational field – would require a particle collider the size of the Milky Way or a detector with a mass of the planet Jupiter.
+These experiments are so detached from our technological capabilities that physicists have focused on trying to remove the mathematical contradictions first, developing approaches like string theory, loop quantum gravity, and asymptotically safe gravity.
+But to know which theory describes physical reality, experimental tests must eventually be developed.
+<P>
+That is why, over the last decade, physicists have begun to look for indirect evidence of quantum gravity.
+Rather than seeking to detect a quantum of the gravitational field, researchers are looking for other effects that would imply that gravity is quantized.
+These tests work much like those that use the stability of atoms as indirect evidence for the quantization of the electromagnetic force.
+For example, some scientists are searching for evidence of quantum fluctuations of space-time that could blur images of distant stars or lead to systematic distortions.
+Others are looking for violations of certain symmetries that could enable normally forbidden particle decays, unexplained noise in gravitational wave detectors, or inexplicable loss of quantum coherence.
+<P>
+So far, these attempts have failed to detect the sought-after evidence.
+Nonetheless, they have led to important developments, because the negative results have ruled out some plausible hypotheses.
+And, though researchers may not have found results supporting any one theory, they have advanced the cause of science by better defining the observational criteria any quantum theory of gravity will have to take into account.
+<P>
+As we commemorate Einstein's achievement, we should also seize the opportunity to celebrate the unrelenting spirit of those who are pushing ahead and trying to answer the questions his theory left us.
+That quest has blossomed into astonishingly fruitful research areas like cosmology, numerical general relativity, and quantum gravity.
+General Relativity has brought us wormholes, evaporating black holes, and the Big Bang theory; it underlies the discovery that the universe is expanding and that so-called exoplanets are much more common than anybody thought; and it has utterly redefined the way we think of our own place in the universe, ultimately even calling into question whether this universe is the only one.
+<P>
+None of these advances would have been possible had researchers been operating according to the three-year plans that characterize much of current academia.
+So this year is perhaps a good moment to appreciate the visionaries who have understood that sustainable progress relies on the development of new and better theories whose impact may not be fully grasped for decades – indeed, that may continue to ramify 100 years later.

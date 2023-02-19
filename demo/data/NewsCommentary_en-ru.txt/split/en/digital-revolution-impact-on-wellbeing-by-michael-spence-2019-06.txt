@@ -1,0 +1,68 @@
+<HEADLINE>
+The “Digital Revolution” of Wellbeing
+<P>
+MILAN – Western attitudes toward digital technology have soured in recent years, as once-celebrated innovations have begun to reveal their downsides.
+But, like all technological revolutions, the digital one is a double-edged sword, offering substantial benefits alongside daunting challenges – and certainly not only in the West.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+For example, studies show that e-commerce and digital finance in China have contributed to both the rate and inclusiveness of economic growth.
+Very small businesses (with an average of three employees) that could not access conventional sources of credit can now get financing.
+They also can tap into expanded markets through various online platforms, many of which provide tools and data to boost productivity, improve product quality, and benefit from business training.
+<P>
+In general, e-commerce platforms enhance financial and economic inclusion if they are open and geared toward broadening access to digital markets, rather than competing with their own users’ product lines.
+By contrast, digitally driven automation, artificial intelligence (AI), and machine learning have non-inclusive effects – owing to major labor-market disruptions – that must be countered.
+<P>
+At the same time, as in past periods of technological transformation, we should expect significant changes in the relative prices of goods, services, and assets as we advance into the digital age.
+In terms of jobs, the skills associated with creating or using the new technologies will increase in value, while those for which digital technologies represent a superior substitute will decline in value – sometimes absolutely.
+This transition to a new equilibrium will take time and impose costs on individual workers and industries.
+Governments will need to respond with new or expanded social services and regulations.
+But even in the best cases, the process will not be easy.
+<P>
+Though automation is just one facet of the digital revolution, it represents a major challenge, particularly with respect to income distributions.
+But the longer the transition is delayed, the longer it will take to realize the new technologies’ contributions to productivity and growth.
+Nowadays, one often hears commentators questioning why productivity is trending downward if we are in the middle of a digital revolution.
+Part of the answer is that there is a lag in the skills needed to embed the new technologies across sectors and within business models and supply chains.
+<P>
+A related problem applies to countries in the early stages of development, where labor-intensive process-oriented manufacturing and assembly has played an indispensable role in achieving sustained growth.
+Advances in robotics and automation are now eroding the developing world’s traditional source of comparative advantage.
+To be sure, e-commerce platforms could serve as a partial alternative to manufacturing exports by accelerating the expansion of internal markets.
+But the real prize is the global marketplace.
+Only if digital platforms could be extended to tap into global demand would they suggest an alternative growth model (provided that tariffs and regulatory barriers do not get in the way).
+<P>
+Another key component of the digital revolution is data, owing to its value when pooled, aggregated, and analyzed with the right tools.
+The rise of business models based on extracting this value has raised privacy concerns.
+A particularly sensitive case, for example, is health data, such as DNA and medical records, which have significant potential value for biomedical science, but which also could cause serious harm if placed in the wrong hands.
+The challenge will be to devise a regulatory framework that ensures the privacy and security of personal data, while enabling business models that depend on its collection and use.
+<P>
+More broadly, today’s technological advances have created a macroeconomic conundrum, insofar as growth and productivity trends appear to be heading in the wrong direction.
+Beyond the skills lag, one possible explanation – but certainly not the majority view – is that the digital “revolution” is not all that revolutionary.
+<P>
+Another explanation is that digital technologies tend to have unusual (though not unique) cost structures, with high fixed costs giving way to zero-to-low marginal costs.
+Thus, when considered across a vast array of applications and geographic locations, the average costs of some key technologies are negligible.
+The highly valuable “free” services that we use have, in fact, been properly priced at their marginal cost.
+<P>
+Similarly, exponential improvements in the power and utility of digital products can also be achieved at minimal cost.
+Today’s smartphones are more powerful than the supercomputers of the mid-1980s and cost a fraction of the price.
+Now, it is certainly possible that a 10,000-fold increase in computing power at negligible additional cost over the past 20 years has yielded minimal consumer benefits; but it is highly unlikely.
+<P>
+More to the point, none of these gains is captured in national income accounts.
+That is not to suggest that we should scrap or revise GDP; but we do need to recognize its limitations.
+The problem with GDP is not that it is a poor measure of material wellbeing (setting aside distributional issues), but that it is incomplete.
+It does not include the increase in the scope of goods and services delivered at negative incremental cost, nor the non-material side of individual wellbeing or social progress more generally.
+<P>
+Looking ahead, the same cost-structure dynamics promise to produce large increases in many areas of wellbeing.
+Most medical professionals will soon have digital assistants to offer diagnoses (particularly for certain cancers, diabetic retinopathy, and other chronic illnesses), perform non-invasive surgeries, or find pertinent published research.
+And many of these services will be available remotely to people around the world, including in poor or otherwise vulnerable communities.
+Likewise, technological improvements with zero-to-low marginal costs could have a significant impact on sustainability, another key ingredient in long-term wellbeing.
+<P>
+Indeed, it is reasonable to expect that, over time, most of the benefits from digital technologies will fall outside the narrow dimension of quantifiable material welfare.
+This is not to dismiss or minimize the challenges that must be confronted in that domain, particularly with respect to inequality.
+But a wise approach to those problems would reflect the steady rebalancing of benefits, costs, risks, and vulnerabilities in the digital age.

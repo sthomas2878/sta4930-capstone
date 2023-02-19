@@ -1,0 +1,54 @@
+<HEADLINE>
+Leaners of Last Resort
+<P>
+OSLO – With Jeremy Stein’s return to his academic post at Harvard at the end of May, the US Federal Reserve Board lost its leading proponent of the view that monetary policy should be used to lean against financial excesses.
+<P>
+Stein’s view, expressed in a speech earlier this spring, is that central banks should be less aggressive in their pursuit of full employment in an environment of heightened financial risk.
+His position is a refutation of former Fed Chairman Alan Greenspan’s doctrine that the central bank should not adjust policy in response to financial-sector excesses, but instead should concentrate on reacting to any problems that subsequently arise.
+<P>
+The question is whether Stein’s new view is justified.
+In principle, the answer is straightforward.
+If a central bank has two policy targets, then it needs two instruments: monetary policy to influence aggregate demand, and regulatory policy to limit financial risks.
+<P>
+In practice, however, the answer is more complicated, because the question has several components.
+What should monetary policymakers do when regulators are prone to falling down on the job?
+In particular, should they raise interest rates?
+To what indicators should they look when determining whether regulators have failed to do their part?
+And is monetary policy a sufficiently subtle instrument to address the resulting risks?
+<P>
+In the wake of the global credit crisis, the answer to the first question is not in doubt.
+There is a clear victor in the “lean versus clean” debate.
+Central banks cannot concentrate only on cleaning up after crises; the costs of financial instability are too high.
+Rather, as recent events have amply shown, the monetary authority must lean against excesses as they develop.
+<P>
+That leaves the question of how to detect the existence of excesses, and the question of what, exactly, to do about them.
+Stein proposes focusing on risk premiums in the bond market.
+When yields on risky bonds decline toward those on safe assets, it is fair to conclude, he argues, that someone is taking on excessive risk.
+The problem, then, is how to determine exactly when risk premiums are too low.
+<P>
+Some suggest focusing on rapid increases in the volume of bank and nonbank lending to the non-financial private sector as an indicator that lending is growing riskier.
+Others recommend monitoring the leverage ratio, particularly the ratio of capital to assets in the banking system, on the grounds that banks are the weak link in the financial chain.
+<P>
+These suggestions are all indicative of central bankers’ instinctual desire to reduce complex decision-making to simple rules.
+But the disagreement among experts shows that the search for simple rules is futile.
+Here as elsewhere, central bankers have no alternative but to consider the broader context and rely on their judgment.
+<P>
+Finally, there is the question of whether monetary policy is the right instrument to use in response to the risks arising from financial instability and, if so, how aggressively to use it.
+Inevitably, the answers are colored by the United States’ experience in 1929, when the Fed tightened policy in response to what it perceived as excesses on Wall Street, only to plunge the economy into the Great Depression.
+<P>
+In fact, exactly the same debate raged then.
+On one side were Fed governors who argued that the only effective way to rein in financial excesses was to raise interest rates.
+On the other side were officials, like George Harrison of the Federal Reserve Bank of New York, who worried about the impact on the broader economy and preferred to use other instruments to address financial imbalances.
+Harrison’s alternative was “direct pressure” – that is, using the Fed’s regulatory powers and moral suasion to persuade member banks to curtail their lending to the stock market.
+<P>
+Of the two views, Harrison’s was the more sophisticated.
+The problem was that the Fed’s macro-prudential instruments were undeveloped.
+No sooner did the Federal Reserve System’s member banks limit their provision of credit to purchasers of securities than non-member banks, insurance companies, and trust companies ramped up their lending, allowing the stock market to race ahead.
+<P>
+In the wake of this failed experiment, even Harrison was forced to acknowledge that reining in the market required policymakers to make lending more expensive for the financial sector as a whole.
+The Fed then raised its policy rates in the summer of 1929 – and the rest, as they say, is history.
+<P>
+The implication is clear: Central banks should focus on developing more effective macro-prudential instruments.
+They should widen the regulatory perimeter – that is, they should work to bring nonbank financial institutions under their regulatory umbrella.
+They should use the resulting instruments and powers preemptively.
+And they should adjust monetary policy to address potential financial risks as a last resort, not as their first line of defense.

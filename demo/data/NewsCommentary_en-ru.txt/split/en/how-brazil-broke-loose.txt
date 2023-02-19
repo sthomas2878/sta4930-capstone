@@ -1,0 +1,64 @@
+<HEADLINE>
+How Brazil Broke Loose
+<P>
+CAMBRIDGE – Brazilian President Dilma Rousseff’s visit last week to Washington, DC, offers an occasion to consider how some once-poor countries have broken out of poverty, as Brazil has.
+Development institutions like the World Bank have advocated improving business law as being essential to success.
+Are they right?
+<P>
+Such thinking goes back at least as far as Max Weber’s argument that an effective business environment requires a legal structure as predictable as a clock.
+Investors, it is thought, need clear rules and effective courts.
+Security of contract and strong mechanisms that protect investors are, in this view, foundational for finance, which in turn fuels economic growth.
+If a potential financier is unsure of being repaid, he or she will not invest, firms will not grow, and economic development will stall.
+Rules and institutions come first; real economic development follows.
+<P>
+But, compelling as this logic seems, Brazil’s rise does not confirm it: financial and economic growth was not preceded by – or even accompanied by – fundamental improvements in courts and contracts.
+<P>
+Growth is unmistakable: Brazil’s financial markets have expanded robustly, with stock-market capitalization rising from 35% of GDP in 2000 to 74% in 2010.
+In the eight years prior to 2004, only six companies went public; in the eight years since, 138 have.
+Last year, Brazil overtook the United Kingdom – often seen as an exemplar of contractual security – as the world’s sixth-largest economy.
+<P>
+And yet legal change was not central in Brazil’s success.
+Brazilian courts were reputed in 2000 to handle investors’ lawsuits slowly and poorly, and they are reputed to handle them slowly and poorly today.
+Even basic elements of business organization – like limiting public shareholders’ obligation for corporate debts – are said by Brazilian legal experts, such as Bruno Salama, to remain an open question, with all shareholders potentially exposed, especially in labor and tax lawsuits.
+<P>
+If courts are not protecting investors, is something else?
+New, important stock-exchange rules have strengthened outside investors’ confidence, though only for new companies.
+For legal scholars, most prominently Columbia University’s John Coffee, stock exchanges have historically been the first step toward protecting investors.
+An analysis by Ronald Gilson, Henry Hansmann, and Mariana Pargendler of Brazil’s Novo Mercado – the stock exchange’s special voluntary listing segment, which provides strong protections for investors in newly listed companies – supports this view.
+<P>
+But stock exchanges have limits, particularly in Brazil.
+In the absence of reliable courts, they cannot sue to enforce their rules.
+Their only recourse is to push recalcitrant firms off the exchange.
+<P>
+The Novo Mercado dealt with this problem by subjecting disputes involving its newly-listed companies to arbitration.
+Commercial arbitration – and courts’ obligations to enforce the arbitrators’ decisions – can assure investors, even if the courts generally do not.
+<P>
+But arbitration – which has yet to be deeply tested for resolving disputes on the Novo Mercado – does not seem to be the linchpin of Brazil’s recent success.
+After all, its institutional innovations apply only to the new Novo Mercado-listed companies, and not to the bulk of the Brazilian economy’s big firms, which are listed on the stock exchange’s main segment, and thus remain stuck with the old rules, old institutions, and an ineffective court system.
+<P>
+Two other key changes, one obvious and one surprising, were more essential to Brazil’s financial development.
+<P>
+The obvious change is that economic-growth opportunities mushroomed, owing to greater monetary stability, disinflation, and natural-resource wealth.
+Better macroeconomic policy led to faster GDP growth, which required financing and motivated some insiders to forego pernicious maneuvering that would scare away new outside investors.
+<P>
+Growth plausibly drove financial development as much as, or more than, institutional development did.
+While public and private enforcement will need to improve if Brazil’s economy is to move to the next level, dramatic legal improvement has not underpinned Brazil’s overall financial development so far.
+<P>
+The second change is both less obvious and more important: the political stability that came with the election in 2002 of President Luiz Inácio Lula da Silva.
+The surprise here is that Lula, a former labor leader who had been on the far left, was widely opposed, if not despised, in business and financial circles.
+How, then, did his victory help to fuel the financial growth of the subsequent decade?
+<P>
+Despite his past, Lula promised not to disrupt Brazilian corporate capitalism, running with a market-oriented vice president.
+Why he did so is difficult to determine: quite plausibly, some combination of Lula’s realism, his reaction to stock-market declines attributed to his chances of being elected, and campaign donations was at work.
+<P>
+Once elected, Lula governed from the pragmatic left, continuing the prior administration’s core policies.
+True, Brazil still has a “hard” left, and some in Lula’s own party are comfortable with, say, Cuba’s Castro brothers and Venezuelan President Hugo Chávez.
+But a consensus had emerged in Brazil that a left party could neither win nor govern with hard-left ideas, and Lula’s presidency did not challenge this view.
+<P>
+The consensus may have reflected the success of Lula’s predecessor, Fernando Henrique Cardoso, the relative success of privatization and liberal market economies around the world, and the growth of Brazil’s middle class.
+Whatever the case, for key leaders of the Brazilian left, including Rousseff, capitalism became part of the solution, not the fundamental problem.
+<P>
+Investors take all kinds of risks.
+The biggest are not always the legal ones on which the World Bank and development agencies have focused; rather, they are the business risks of a company that fails or a polity that implodes.
+If business conditions are auspicious and there is a strong consensus in favor of liberal capitalism as the polity’s core economic principle, financial markets can develop and reluctantly absorb risks stemming from the legal system’s defects.
+Institutional improvements help, but they can come later.

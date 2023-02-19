@@ -1,0 +1,53 @@
+<HEADLINE>
+Rethinking the Internet of Things
+<P>
+SHENZHEN – At a telecommunications conference hosted by Huawei late last year, I told a group of senior executives looking for growth opportunities in a saturated market that one billion new mobile subscribers were just waiting for their services.
+Then, I showed them a photo of a cow.
+<P>
+People took pictures of my presentation with their smartphones.
+Some chuckled; maybe they thought I was joking.
+But I was dead serious.
+<P>
+Chinese dairy farmers are already connecting their herds to the Internet.
+Cows wear collars with wireless sensors that collect biometric data such as body temperature and heart rate.
+Insights from this information are then used to improve milk production, helping farmers earn an extra $420 per cow each year, and increase overall profits by 50% annually.
+<P>
+For China’s farmers, more data means more money in the bank.
+But, whether the business is bovines or brain surgery, information always enhances decision-making.
+That’s why those of us in the telecoms industry believe the world would benefit by reimagining digital connectivity.
+<P>
+Connecting more “things” to the Internet has the potential to increase efficiency, lift productivity, reduce waste, and fuel economic growth.
+According to a McKinsey Global Institute study, a fully networked Internet of Things (IoT) could add up to $11 trillion to the global economy every year by 2025.
+Realizing these benefits, however, will require changes in how data are delivered and managed.
+<P>
+Today’s broadband networks were built to serve people; they are used to make phone calls, chat by video, surf the web, and play online games.
+While these applications are important, they are fairly limited in scope.
+<P>
+Scenarios for connecting things are much more diverse.
+For example, a networked shipping container crossing the ocean must have extended wireless range, but it doesn’t need super-fast response speeds.
+The opposite is true for virtual reality headsets, which require ultra-low delay, or latency, to give viewers an immersive experience.
+By 2025, the world will have some 100 billion connected devices, and to derive maximum value from these linkages, we will need to optimize our networks for things as well as people.
+<P>
+The first step in doing that is ensuring that future networks have enough bandwidth to handle applications like high-definition video, which will soon account for the majority of user traffic.
+A particular challenge will be upgrading systems to handle industrial video, which is fast becoming integral to modern manufacturing.
+For example, chip foundries use machine vision to check integrated circuits for microscopic defects, a process that requires extraordinarily high resolution.
+To transmit this information, cameras need bandwidths of up to ten gigabits per second, and a single factory may have 1,000 cameras running simultaneously.
+<P>
+Second, when it comes to data latency, today’s networks are designed for human perception, which tolerates a fairly high degree of delay.
+On a phone call, for example, a 50-millisecond wait is imperceptible to the human brain.
+Power grids, on the other hand, need a consistent latency of 20 milliseconds or less.
+To support connected grids, “smart” robots, and other machines, next-generation networks will need to be faster and have even greater capacity.
+<P>
+Third, the networks of tomorrow will need to be automated, self-optimizing, and self-repairing.
+Artificial intelligence will allow basic network functions to be placed on autopilot, and simple economics will make this a necessity.
+Once the IoT is supporting billions of connections among cars, trains, factories, and hospitals, operating costs will skyrocket unless networks can be maintained with little human intervention.
+<P>
+And finally, to bring the IoT to life, policymakers will need to support the development of advanced networks that can transmit larger volumes of data faster.
+In particular, the wireless spectrum – airwaves across which data travel invisibly to and from connected devices – will form the basis of many digital services.
+But spectrum, just like water and oil, is a limited resource.
+Most countries will need to release more spectrum space for wireless communications, increasing usable airwaves by anywhere from 50% to 100%.
+<P>
+Every business in every industry can benefit from these advances.
+New connections will deliver value to entrepreneurs, societies, and economies, allowing people to manage assets better and make more fully informed decisions.
+But to realize this future, we must begin thinking differently about how networks and business models interact.
+After all, in a world of deepening connections, everything is a potential new subscriber.

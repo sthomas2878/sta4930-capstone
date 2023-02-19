@@ -1,0 +1,53 @@
+<HEADLINE>
+The Case Against National AI Strategies
+<P>
+CAMBRIDGE – Efforts to develop artificial intelligence (AI) are increasingly being framed as a global race, or even a new Great Game.
+In addition to the race between countries to build national competencies and establish a competitive advantage, firms are also in a contest to acquire AI talent, leverage data advantages, and offer unique services.
+In both cases, success will depend on whether AI solutions can be democratized and distributed across sectors.
+<P>
+The global AI race is unlike any other global competition, because the extent to which innovation is being driven by the state, the corporate sector, or academia differs substantially from country to country.
+On average, though, the majority of innovations so far have emerged from academia, with governments contributing through procurement, rather than internal research and development.
+<P>
+While the share of commodities in global trade has fallen, the share of digital services has risen, such that digitalization now underwrites more than 60% of all trade.
+By 2025, half of all economic value is expected to be created in the digital sector.
+And as governments have searched for ways to claim a position in the value chain of the future, they have homed in on AI.
+<P>
+Accordingly, countries ranging from the US, France, Finland, and New Zealand to China and the United Arab Emirates all now have national AI strategies to boost domestic talent and prepare for the future effects of automation on labor markets and social programs.
+<P>
+Still, the true nature of the AI race remains to be seen.
+It most likely will not be restricted to any single area, and the most important factor determining outcomes will be how governments choose to regulate and monitor AI applications, both domestically and in an international context.
+China, the US, and other participants not only have competing ideas about data, privacy, and national sovereignty, but also divergent visions of what the twenty-first-century international order should look like.
+<P>
+When drawing these lines, the most important point to remember is that data flows align with geographic boundaries only incidentally, not fundamentally.
+Geopolitically, nation-states are sovereign entities; but in the digital economy, they are sovereign in name only, not necessarily in practice.
+The fact that global data flows are currently organized along the lines of political sovereignty does not mean that they have to be.
+<P>
+Thus, nationalized AI programs are a hedged bet.
+Until now, governments have assumed that the country that is first to the finish line will be the one that captures the bulk of AI’s potential value.
+This seems accurate.
+And yet the issue is not whether the assumption is true, but whether a nationalized approach is necessary, or even wise.
+<P>
+After all, to frame the matter in strictly national terms is to ignore how AI is developed.
+Whether data sets are shared internationally could determine whether machine-learning algorithms develop country-specific biases.
+And whether certain kinds of chips are rendered as proprietary technology could determine the extent to which innovation can proceed at the global level.
+In light of these realities, there is reason to worry that a fragmentation of national strategies could hamper growth in the digital economy.
+<P>
+Moreover, in the current environment, national AI programs are competing for a limited talent pool.
+And though that pool will expand over time, the competencies needed for increasingly AI-driven economies will change.
+For example, there will be a greater demand for cybersecurity expertise.
+<P>
+So far, AI developers working out of key research centers and universities have found a reliable exit strategy, and a large market of eager buyers.
+With corporations driving up the price for researchers, there is now a widening global talent gap between the top firms and everyone else.
+And because the major technology companies have access to massive, rich data stores that are unavailable to newcomers and smaller players, the market is already heavily concentrated.
+<P>
+Against this backdrop, it should be obvious that isolationist measures – not least trade and immigration restrictions – will be economically disadvantageous in the long run.
+As the changing composition of global trade suggests, most of the economic value in the future will come not from goods and services, but from the data attached to them.
+Thus, the companies and countries with access to global data flows will reap the largest gains.
+<P>
+At a fundamental level, the new global competition is for applications that can compile alternate choices and make optimal decisions.
+Eventually, the burden of adjusting to such technologies will fall on citizens.
+But before that moment arrives, it is crucial that key AI developers and governments coordinate to ensure that this technology is deployed safely and responsibly.
+<P>
+Back when the countries with the best sailing and navigation technologies ruled the world, the mechanical clock was a technology available only to the few.
+This time is different.
+If we are to have super intelligence, then it should be a global public good.

@@ -1,0 +1,51 @@
+<HEADLINE>
+The Disruptive Dozen
+<P>
+SAN FRANCISCO – History is littered with technologies that were once hailed as the next big thing.
+That can be annoying for consumers when they realize that, say, the quadrophonic stereo they purchased was a waste of money.
+But when companies bet on the wrong technologies, the consequences can be devastating for them.
+<P>
+In the late 1990’s, for example, the belief that B2B exchanges would prove to be the “killer app” for commerce resulted in the formation of more than 1,500 of them.
+Most have since vanished, taking billions of dollars in investment with them.
+<P>
+To help cut through the hype that surrounds the arrival of almost all new technologies, the McKinsey Global Institute examined more than 100 rapidly evolving technologies and identified 12 that are almost certain to disturb the status quo in the coming years.
+The MGI estimates that the combined annual economic impact of this “disruptive dozen” – which span information technology, machinery and vehicles, energy, bioscience, and materials – will reach $14-33 trillion by 2025.
+Much of this value – in many cases, a significant majority – is likely to accrue to consumers.
+<P>
+Consider the mobile Internet, with an annual economic impact that is projected to reach $10 trillion by 2025.
+As advanced-country consumers continue to amass benefits from constant access to an increasing amount of information, apps, and online services, more than two billion developing-country citizens could gain access to the same benefits from technological progress in the rest of the world.
+The value of these benefits would dwarf the value likely to be reaped by suppliers of mobile devices and Internet services.
+<P>
+Similar user-oriented value shifts are occurring across Internet-related technologies, including those not among the disruptive dozen.
+For example, only a small fraction of the $1 trillion in estimated annual value of online search will likely go to the service providers.
+<P>
+But, for workers, the news is not all positive, with machines replacing humans in an increasing number of domains – far beyond routine physical and clerical activities.
+As computer-processing power grows and artificial-intelligence software advances, machines are increasingly able to perform complex tasks requiring abstract thinking, such as inferring meaning and making judgments.
+<P>
+As a result, companies are beginning to automate more highly skilled knowledge-based jobs in fields like law and medicine.
+While this process will generate a significant amount of value – more than $5 trillion in 2025, according to MGI estimates – it will not be distributed evenly among workers, leaving many to confront the need to retrain for new jobs.
+<P>
+Entrepreneurs, executives, and stockholders face similar uncertainty as disruptive technologies change the rules of the game by reducing entry barriers and lowering the minimum efficient scale (the smallest amount a company must produce while still taking full advantage of economies of scale).
+For example, 3D printing allows start-ups and small companies to “print” highly complicated prototypes, molds, and products in a variety of materials with no tooling or setup costs.
+<P>
+Likewise, cloud computing gives small enterprises IT capabilities that were previously available only to larger firms – as well as a growing assortment of back-office services – on the cheap.
+This is an unwelcome development for software providers whose business model is based on licensing and annual maintenance fees, not electricity usage.
+Indeed, large companies in almost every field are vulnerable, as start-ups become better equipped, more competitive, and capable, like larger firms, of reaching customers and users everywhere.
+<P>
+Moreover, disruptive technologies will cause value to shift among economic sectors, as occurred when television overtook radio or, more recently, when online media gained predominance over print publication.
+Businesses in all sectors now must invest in understanding new technologies, so that they are prepared to seize opportunities or mount an effective defense quickly.
+<P>
+Indeed, CEOs and other top executives need to be technologists, or at least technology-savvy, and constantly assess how innovations will affect the status quo, specifically their profit pools.
+But, in devising relevant strategies, business leaders should recognize that the disruptive dozen’s economic potential is exactly that – potential.
+Rather than assume that the value is theirs for the taking, bosses must develop innovative business models that monetize technology’s potential and avert value shifts to competitors or players in other sectors, who will increasingly be able to participate – often more efficiently and with few legacy constraints – in any sector.
+<P>
+Experience shows that companies that develop innovative business models can win.
+Google, for example, continues to provide search and other online services for free, while using the expressed search intentions and other behavioral data to sell targeted advertising – a model that has proved highly profitable.
+This kind of “multi-sided” business model is appearing in other sectors, too, as companies use big-data analytics to find ways to monetize the information that they would collect anyway.
+<P>
+While consumers stand to reap the rewards of disruptive technologies, workers and companies can take nothing for granted.
+Workers must come to terms with the imperative of life-long learning, as their skills’ half-lives shrink, while companies must anticipate and adapt to rapid change.
+<P>
+Governments, too, must be prepared to cope with the ripple effects of technological disruptions.
+Policymakers will need to meet new demands for education and training, and implement effective mechanisms for regulating, say, self-driving cars or the use of genomic data to develop personalized drugs.
+In an innovation-driven economy, only innovative solutions can work.

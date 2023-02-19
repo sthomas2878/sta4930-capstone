@@ -1,0 +1,64 @@
+<HEADLINE>
+Is Politics Getting to the Fed?
+<P>
+CAMBRIDGE – From the early 1980s until the start of the financial crisis in September 2008, the US Federal Reserve seemed to have a coherent process for adjusting its main short-term interest rate, the federal funds rate.
+Its policy had three key components: the nominal interest rate would rise by more than the rate of inflation; it would increase in response to a strengthening of the real economy; and it would tend toward a long-term normal value.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Accordingly, one could infer the normal rate from the average federal funds rate over time.
+Between January 1986 and August 2008, it was 4.9%, and the average inflation rate was 2.5% (based on the deflator for personal consumption expenditure), meaning that the average real rate was 2.4%.
+<P>
+The long-term normal real rate can be regarded as an emergent property of the real economy.
+From an investment and saving standpoint, economic equilibrium balances the benefit from a low safe real interest rate (which provides low-cost credit for investors) against the benefit from a high real rate (which implies higher returns for savers).
+<P>
+In the Great Recession, the federal funds rate dropped precipitously, reaching essentially zero by the end of 2008.
+That was appropriate, owing to the depth of the crisis.
+But what few expected was that the federal funds rate would remain close to zero for so long, through the end of then-Fed Chair Ben Bernanke’s term in January 2014 and beyond.
+<P>
+The Fed’s prolonged low-interest-rate policy, which was supplemented by quantitative easing (QE), seems misguided, considering that the economy had long since recovered, at least in terms of the unemployment rate.
+The nominal federal funds rate was not placed on an upward trajectory until the end of 2016, starting under then-Chair Janet Yellen and rising gradually to 2.4% in December 2018 under her successor, Jerome Powell.
+Throughout the period up to late 2016, the negative real federal funds rate was well below its own long-term normal.
+<P>
+It is hard to view today’s nominal federal funds rate of 2.4% as high.
+With an inflation rate of 1.7%, the real federal funds rate is only 0.7%.
+And yet the Fed’s “high”-interest-rate policy was fiercely attacked by Wall Street, which regarded it as a mistake, and as the cause of the weak stock market from the end of 2018 through early 2019.
+Many financial commentators argued that the Fed should pause its monetary-policy “normalization” and eventually shift to interest-rate cuts.
+<P>
+That view is not crazy if you are focused solely on boosting the stock market.
+On average, interest-rate cuts do tend to stimulate the stock market by making real returns on bonds less competitive.
+But that does not mean it is good economic policy always to be cutting rates, as US President Donald Trump seems to think.
+<P>
+It is no secret that Trump regards the stock market’s performance as an indicator of his own performance.
+But it has been surprising to see the Fed join the rate-cutting bandwagon.
+In early 2019, it indicated that it would pause its rate increases, and now it is signaling a sequence of rate cuts in the near future.
+I, for one, cannot see how the Fed’s sudden reversal fits with the coherent monetary policy that it maintained from 1984 until the financial crisis.
+<P>
+Nonetheless, Powell has tried to justify the move toward rate cuts as consistent with that prior policy.
+First, he points out, rightly in my view, that inflation has remained tame.
+Then, he argues that the economy’s prospects may be weaker than low unemployment and recent strong real GDP growth suggest.
+There may be something to that argument, given Trump’s trade war and worsening prospects for global growth.
+Even so, it does not follow that rates should be cut before actual economic weakness appears – I do not know of convincing evidence that the Fed should “get ahead” of a slowing real economy.
+<P>
+The danger, then, is that the Fed will be tempted to cut rates as a result of external pressure, on the assumption that it can always rationalize cuts by pointing to variables that seemed to augur a growth slowdown sometime in the future.
+It is telling that Powell has not mentioned (at least that I have heard) the fact that the nominal and real federal funds rates remain well below long-term normal values.
+(This deviation is even more apparent for interest rates in some other advanced countries, such as Germany and Japan.)
+<P>
+The desire to restore normalcy should still be putting upward pressure on rates, just as it did during the period of rate increases between December 2016 and December 2018.
+Indeed, it was Bernanke’s earlier failure to initiate the normalization process that made things more difficult than necessary for Yellen and Powell.
+<P>
+My view is that the shift in 2019 away from normalization is primarily due to the intense opposition to further rate increases last December, when the loudest objections came, notably, from stock-market analysts and the Trump administration.
+<P>
+The entire point of central-bank independence is to establish a credible monetary policy by insulating the relevant decision-makers from such influence.
+That is what we learned from the early 1980s, when Fed Chair Paul Volcker hiked the federal funds rate up to the level necessary to choke off inflation.
+The big difference, of course, is that President Ronald Reagan supported Volcker, whereas Trump is Powell’s chief antagonist.
+<P>
+Powell’s challenge, then, is to maintain Volckerian discipline and independence in the face of growing political pressure.
+At the moment, his prospects for success are not great.

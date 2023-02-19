@@ -1,0 +1,68 @@
+<HEADLINE>
+Central Banking’s Next Act
+<P>
+LONDON – When US Federal Reserve Chair Jay Powell delivered his major speech at the Jackson Hole conference of central bankers last month, setting out the results of a yearlong review of the Fed’s monetary policy framework, he had stars in his eyes.
+Not the twinkly kind, but rather the notation that encapsulates the Fed’s views of interest rates, and unemployment.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+R-star is the equilibrium real interest rate, while u-star is the natural rate of unemployment.
+Both stars seem to have been falling in recent years, and, unlike in the old song, the Fed has had trouble catching them.
+Since 2012, when the Fed last restated its policy objectives, the Federal Open Market Committee’s members believe, on average, that r-star has fallen from 4.25% to 2.5%, while the median estimate of u-star has dropped from 5.5% to 4.1%.
+<P>
+These declines have been associated with what Powell himself calls a “persistent undershoot of inflation from our 2% longer-term objective.”
+They have found that lower inflation expectations and lower interest rates have meant that the Fed has found itself at the effective lower bound for interest rates for long periods, implying less flexibility to stimulate demand when necessary.
+One consequence is that annual inflation in the United States has averaged only 1.75% over the last decade, and has undershot the target 63% of the time.
+<P>
+The consequence is what Powell’s predecessor, Janet Yellen, calls “a pretty subtle shift” in policy, but one that could be critical over time.
+Powell has invented a new acronym – FAIT: a French word usually followed by “accompli,” signifying a completed task.
+But the acronym stands for a Flexible Average (2%) Inflation Target, which will take some time to come to fruition.
+<P>
+The idea is that if achieved inflation falls below 2%, the Fed should be prepared to allow it to run above that rate, to catch up lost ground.
+And in assessing unemployment, policymakers should consider employment “shortfalls,” rather than “deviations,” relative to its maximum level.
+That is a subtle distinction, but it means that the Fed may allow employment to climb above its maximum level for a while, as long as inflation does not accelerate.
+In the past, the Fed would have raised rates pre-emptively.
+<P>
+As a sign of an accommodative monetary policy for some time to come, Powell’s speech has received a generally positive reception.
+Bankers may be excused for being less rhapsodic, because interest rates lower for even longer are not good for profits.
+But one consequence may be a steeper yield curve when inflation expectations rise.
+And banks could take some comfort from the fact that there was no mention of negative rates, which are not on the agenda in the US at least.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But uncertainties remain.
+How will the Fed measure u-star in the future?
+Over what period will it determine an inflation shortfall?
+If the price level is now well over 3% below where it would have been had the target been met, would 5% inflation for a year or two be acceptable?
+We will only learn the answers over time.
+<P>
+And what influence will this policy shift have on central banks elsewhere?
+<P>
+The European Central Bank is still in the midst of its own policy review, launched in January by its new president, Christine Lagarde.
+The ECB has even more reason than the Fed to examine its navel: annual inflation has fallen even shorter of the 2% target.
+The last time inflation was above 2% was 2012 and it has been chronically low ever since.
+So, should the ECB follow the Fed?
+<P>
+One problem is that the ECB does not have a dual mandate like the Fed’s.
+It is enjoined to support other economic policies of the European Union, but that is clearly subordinate to maintaining price stability.
+And the ECB also has the German Federal Constitutional Court to worry about.
+Germany’s judges do not like quantitative easing, and they remain prepared to continue the fight.
+<P>
+A fundamental review would involve governments, and potentially a treaty change, which is hazardous territory for the ECB.
+What other objectives might populist governments advocate?
+It is also arguable that the eurozone’s economic sluggishness has been more attributable to weak fiscal stimulus than to policy errors by the ECB, which will come under pressure to consider the Fed’s catch-up approach.
+But that would imply a big jump in prices, if policymakers really wanted to recover all the ground lost since 2010.
+I expect modest change at best.
+<P>
+And the Bank of England?
+There, the case for change is less powerful, as average inflation has been more or less on target, helped by a falling pound.
+And a review of the mandate is really a task for the government, not the BOE, as it is the government that sets the inflation target.
+<P>
+But there are rumblings of discontent, nonetheless.
+Gordon Brown, who drafted the initial target in 1997, argued recently that the Bank should also try to achieve maximum employment.
+And others close to Prime Minister Boris Johnson’s cabinet want to rein in the BOE, bringing its decision-making closer to government, perhaps by giving it a nominal GDP target, which mixes up inflation and real growth, and forcing “coordination” with the Treasury.
+<P>
+So, Powell’s “subtle shift” may not be the end of the story.
+Central banking seemed to have reached an “end of history” moment in the mid-1990s, when inflation targeting spread round the world after its success in New Zealand.
+A generation later, history has started again, with unpredictable consequences.

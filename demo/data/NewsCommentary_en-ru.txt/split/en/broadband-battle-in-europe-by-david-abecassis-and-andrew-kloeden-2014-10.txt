@@ -1,0 +1,39 @@
+<HEADLINE>
+Europe’s Broadband Battle
+<P>
+LONDON – Among the many challenges facing the new European Commission is determining how to provide ultra-fast broadband Internet access to all 500 million European Union residents without raising taxes or bankrupting Europe’s telecommunications companies.
+This imperative has led many to demand larger contributions from Internet giants like Google, Netflix, and Facebook, which are frequently criticized for failing to pull their weight – and even lambasted as “free-riders,” intent on pillaging European assets and markets.
+Is this criticism warranted?
+<P>
+In a word: no.
+The reality is that major Internet companies – most of which are based in the United States – are already contributing billions of dollars to establish and maintain the networks and data centers that are essential to the Internet’s functioning.
+<P>
+In fact, these companies directly invested more than €75 billion ($100 billion) in Internet infrastructure over the last three years, with spending up by about 10% annually over this period.
+Moreover, they participated in consortia that invested more than €500 million in laying a trans-Pacific submarine fiber optic cable, which has been operational since 2010, and an 8,300-kilometer (5,200-mile) cable from Southeast Asia to Japan that came on-stream last year.
+<P>
+But it is Europe that has received the lion’s share of global investment in Internet infrastructure – €25 billion, or nearly one-third of the total, in the last three years.
+Google recently announced the construction of a new €600 million data center in the Netherlands, and is already investing heavily in data centers in Hamina, Finland, and St. Ghislain, Belgium.
+And Facebook has already established its own data center in Luleå, Sweden.
+<P>
+These facilities and networks – along with the broadband networks on which telecommunications companies spend billions – form the foundations of the Internet.
+By investing in them, America’s Internet giants are providing tangible benefits for European consumers and companies.
+Encouraging this investment should be the European Commission’s main concern.
+<P>
+For example, these companies’ European data centers contribute to the economies of the regions where they operate, providing jobs to local residents.
+At the same time, they facilitate the smooth exchange of content, enabling European consumers to make the most of their Internet connections.
+<P>
+Likewise, Internet companies’ investments in content-delivery networks and Internet exchange points enable them to carry their own traffic close to consumers, handing it off to EU telecoms in places like London, Paris, and Frankfurt.
+In doing so, they can help Internet service providers to cut costs and enable them to invest in the “last mile” access networks that they own and operate, thereby improving the Internet experience that they offer to consumers.
+<P>
+In the longer term, as Europe becomes increasingly fertile ground for digital content and applications, this infrastructure will enable Europeans to distribute their creations globally.
+In other words, the structures that companies like Google and Facebook are building today will help to open new markets for European innovators, entrepreneurs, and companies, whose success will directly benefit Europe’s economy.
+<P>
+Instead of wasting energy and resources fighting one another, Europe’s telecoms and Internet giants from the US and elsewhere, together with the public sector, should recognize their shared interest in delivering fast, affordable broadband Internet to all EU residents.
+The Internet has always been a collaborative endeavor, and it must remain so, with each actor playing its role.
+<P>
+Throughout the process, creative solutions will be paramount, and Internet companies’ contributions will be invaluable.
+After all, they are seasoned innovators, as exemplified by Google’s collaboration with Vodafone in New Zealand and Telefónica in Chile to deliver broadband to rural areas through atmospheric balloons.
+<P>
+For its part, the European Commission must not allow pressure from vested interests to drive it toward confrontation.
+Instead, EU leaders should remain focused on the interests of Europe’s millions of Internet users.
+Only by adopting a balanced, fact-based approach and an emphasis on cooperation can they deliver consumer benefits, investment, jobs, and growth in Europe’s Internet sector.

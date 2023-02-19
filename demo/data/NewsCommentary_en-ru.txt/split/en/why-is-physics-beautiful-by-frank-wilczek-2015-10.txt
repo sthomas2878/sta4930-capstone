@@ -1,0 +1,59 @@
+<HEADLINE>
+Why Is Physics Beautiful?
+<P>
+CAMBRIDGE – The nineteenth-century physicist Heinrich Hertz once described his feeling that James Clerk Maxwell’s equations, which depict the fundamentals of electricity and magnetism, “have an independent existence and an intelligence of their own, that they are wiser…even than their discoverers, that we get more out of them than was originally put into them.”
+Not long after, Albert Einstein called Niels Bohr’s atomic model “the highest form of musicality in the sphere of thought.”
+More recently, the late Nobel laureate Richard Feynman, describing his discovery of new laws of physics, declared, “You can recognize truth by its beauty and simplicity.”
+Similar sentiments are all but universal among modern physicists.
+<P>
+Wishful thinking could never produce working iPhones, photographs of Pluto, or atomic bombs.
+Physics, as summarized in a handful of mathematically precise laws, indisputably works.
+Yet many things that “work” do not inspire the kind of admiration that the fundamental laws of nature do.
+<P>
+Their beauty is rooted, first, in the laws’ symmetry, here meaning the possibility of change without change – a precise yet almost mystical concept.
+Just as a circle can be rotated about its center at any angle, changing the position of each of its points without changing its form, symmetric laws apply to changed situations without changing or losing validity.
+For example, special relativity asserts that the fundamental laws of physics remain the same when we view the world from a platform moving at constant velocity.
+Similarly, so-called time translation symmetry encodes the uniformity of physical law in time: Even as the universe ages, the laws remain the same.
+<P>
+The second source of beauty in the laws of physics is their productivity – what I call their exuberance.
+Just a handful of basic principles generates an astonishing wealth of consequences – everything in the physical world!
+You can write the equations of the core theories of physics – known as the standard model – quite comfortably on a T-shirt.
+To paraphrase Hertz, they give back far more than we put in.
+<P>
+It is important to note that the laws of physics need not necessarily have such marvelous properties.
+Consider this hypothetical situation: Developments in computer power, virtual reality, and artificial intelligence enable the creation of self-aware beings whose “world” is, from our perspective, a programmed simulation.
+If a self-aware Super Mario began to analyze the laws of his world, he would find very little symmetry or productivity.
+Instead, he would find a vast collection of loosely connected, quirky rules, reflecting the whims of the programmer.
+<P>
+The beauty of physical law is too impressive to be accidental.
+It has led people throughout history to believe that some tasteful higher being created us, and that we inhabit a consciously designed world, like our notional Super Mario.
+But this is an extravagant hypothesis, which goes far beyond the facts it is meant to explain.
+Before adopting it, we should explore more economical alternatives.
+<P>
+The answer likely lies within us.
+Beautiful things are those in which we find pleasure and seek out.
+They are, in neurobiological terms, things that stimulate our reward system.
+That explains why parents tend to find their young children beautiful, and adults are attracted to nubile models and their images.
+It makes evolutionary sense to reward such feelings.
+<P>
+The evolutionary utility of the beauty of physical laws is somewhat less obvious, but no less real.
+Given the usefulness of accurately assessing the consequences of our actions, our reward system has evolved so that we derive joy from making successful predictions.
+Understanding the forces and patterns defining our world, and especially principles that apply (without changing) to a wide variety of situations, can help to improve our predictions.
+The fact that we can often infer the behavior of complex objects or systems from knowledge of their parts – that we get back more than we put in – can help us to hone our predictions further.
+<P>
+In short, because evolution predisposes us to find beautiful those things that help us understand the world correctly, it is no accident that we find the correct laws of nature beautiful.
+Viewed from this perspective, the apparent beauty of the laws of physics – our attraction to their symmetry and exuberance – is not surprising.
+<P>
+What remains mysterious is why they are comprehensible.
+A profound link between beauty and comprehensibility is an increasingly important source of scientific progress.
+Today’s frontiers of fundamental physics are far removed from everyday experience.
+They are difficult and expensive to access experimentally, and we cannot rely on our intuition to fill in the blanks.
+The patient accumulation of fact recommended by Francis Bacon, Isaac Newton, and Sherlock Holmes is thus no longer practical.
+<P>
+Instead, we reverse the process, using guesswork to motivate experiment.
+We first construct beautiful equations, then derive their consequences, and, finally, craft experiments to test them.
+In recent decades, that strategy has proved remarkably successful.
+It has given us quantum chromodynamics, which resolves the central problem of nuclear physics, as well as predicting the Higgs particle and much else.
+<P>
+Rather than recognizing the beauty of laws otherwise discovered, we use principles of beauty – vast symmetry and a high ratio of output to input – to enable discovery.
+When this works, we have an “anthropic” explanation of the laws’ beauty: If they were not beautiful, we would not have found them.

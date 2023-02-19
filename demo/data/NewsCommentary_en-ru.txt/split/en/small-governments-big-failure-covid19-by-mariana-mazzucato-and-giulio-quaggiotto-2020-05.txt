@@ -1,0 +1,64 @@
+<HEADLINE>
+The Big Failure of Small Government
+<P>
+LONDON – Decades of privatization, outsourcing, and budget cuts in the name of “efficiency” have significantly hampered many governments’ responses to the COVID-19 crisis.
+At the same time, successful responses by other governments have shown that investments in core public-sector capabilities make all the difference in times of emergency.
+The countries that have handled the crisis well are those where the state maintains a productive relationship with value creators in society, by investing in critical capacities and designing private-sector contracts to serve the public interest.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+From the United States and the United Kingdom to Europe, Japan, and South Africa, governments are investing billions – and, in some cases, trillions – of dollars to shore up national economies.
+Yet, if there is one thing we learned from the 2008 financial crisis, it is that quality matters at least as much as quantity.
+If the money falls on empty, weak, or poorly managed structures, it will have little effect, and may simply be sucked into the financial sector.
+Too many lives are at stake to repeat past errors.
+<P>
+Unfortunately, for the last half-century, the prevailing political message in many countries has been that governments cannot – and therefore should not – actually govern.
+Politicians, business leaders, and pundits have long relied on a management creed that focuses obsessively on static measures of efficiency to justify spending cuts, privatization, and outsourcing.
+<P>
+As a result, governments now have fewer options for responding to the crisis, which may be why some are now desperately clinging to the unrealistic hope of technological panaceas such as artificial intelligence or contact-tracing apps.
+With less investment in public capacity has come a loss of institutional memory (as the UK’s government has discovered) and increased dependence on private consulting firms, which have raked in billions.
+Not surprisingly, morale among public-sector employees has plunged in recent years.
+<P>
+Consider two core government responsibilities during the COVID-19 crisis: public health and the digital realm.
+In 2018 alone, the UK government outsourced health contracts worth £9.2 billion ($11.2 billion), putting 84% of beds in care homes in the hands of private-sector operators (including private equity firms).
+Making matters worse, since 2015, the UK’s National Health Service has endured £1 billion in budget cuts.
+<P>
+Outsourcing by itself is not the problem.
+But the outsourcing of critical state capacities clearly is, especially when the resulting public-private “partnerships” are not designed to serve the public interest.
+Ironically, some governments have outsourced so eagerly that they have undermined their own ability to structure outsourcing contracts.
+After a 12-year effort to spur the private sector to develop low-cost ventilators, the US government is now learning that outsourcing is not a reliable way to ensure emergency access to medical equipment.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Meanwhile, Vietnam’s successful approach to COVID-19 has emerged as a striking contrast to the US and UK responses.
+Among other things, the Vietnamese government was able to amass low-cost testing kits very quickly, because it already had the capacity to mobilize academia, the army, the private sector, and civil society around a common mission.
+Rather than simply outsourcing with few questions asked, it used public research and development funding and procurement to drive innovation.
+The resulting public-private collaboration enabled rapid commercialization of kits, which are now being exported to Europe and beyond.
+<P>
+New Zealand is another success story, and not by coincidence.
+After initially adopting the outsourcing mantra in the 1980s, the New Zealand government changed course, embracing a “spirit of service” and an “ethic of care” across its public services, and becoming the first country in the world to adopt a wellbeing budget.
+Owing to this vision of public management, the government adopted a “health first, economy second” approach to the current crisis.
+Rather than seeking herd immunity, it committed early to preventing infection.
+<P>
+Similar lessons apply to data and digital technology, domains in which governments’ performance has varied widely.
+In Pakistan, citizens were able to apply for emergency cash transfers (made available to an impressive 12 million households) directly from their mobile phones, whereas Italians have had to print out self-evaluations to show that they are complying with lockdown rules.
+<P>
+To be sure, South Asian governments have benefited from the institutional memory built up during the 2002-03 SARS epidemic, which also altered public attitudes about privacy.
+But many of these countries also have invested in their core data capabilities, which have been particularly effective when facilitating decentralized action.
+South Korea, for example, adopted an aggressive high-tech tracking approach, and published real-time data on mask stocks and pharmacy locations, allowing start-ups and ordinary citizens to create add-on services to ensure more effective and safe distribution.
+<P>
+The contrasts between the US and UK, on the one hand, and Vietnam, South Korea, and New Zealand, on the other, offer important lessons.
+Far from retreating into the role of fixer of market failures and outsourcer of services, governments should invest in their own critical faculties.
+The pandemic has laid bare the need for more state productive capacity, government procurement capabilities, symbiotic public-private collaborations, digital infrastructure, and clear privacy and security protocols.
+<P>
+Such a mission-driven approach to public administration should not be confused with top-down decision-making.
+Rather, it should be viewed as the best way to ensure dynamism, by nurturing fruitful relationships between innovators and tapping into the value of distributed intelligence.
+Governments that have long abdicated their duties to the private sector now need to catch up, which will require them to rethink intellectual-property regimes and their approach to R&D and public investment and procurement more generally.
+<P>
+Why, to take one real-world example, should a low-cost ventilator that has been approved by regulators in Japan not be readily accepted by other countries?
+Clearly, in addition to a renewed role for national governments, we need an international clearing house for grassroots and citizen-led solutions.
+<P>
+In any crisis – financial, public-health, or climate-related – a lack of choice drastically limits the public sector’s room to maneuver.
+After years of pursuing a misguided governance model, policymakers around the world surely are lamenting the lack of in-house know-how and resources to deploy the digital tools needed to save lives.
+Effective governance, it turns out, cannot be conjured up at will.

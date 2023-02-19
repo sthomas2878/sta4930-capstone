@@ -1,0 +1,62 @@
+<HEADLINE>
+Is Huawei Really More Dangerous than Facebook?
+<P>
+OXFORD – The United States and some of its allies have acted decisively to exclude the Chinese technology company Huawei from their national markets, yet they continue to ignore the similar threat posed by Facebook and other US digital giants.
+Democratic governments must now be equally decisive in dealing with this home-grown danger.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Huawei is not only the world’s largest supplier of telecommunications equipment and its second-largest phone manufacturer; it is also the global leader in building ultra-high-speed 5G networks – far ahead of any US competitor.
+And, along with some other Chinese companies, Huawei supplies surveillance equipment to about 230 cities across Western Europe, Asia, and Sub-Saharan Africa.
+<P>
+US President Donald Trump’s administration accuses Huawei of stealing intellectual property, committing fraud and obstructing justice in evading American sanctions against Iran, and potentially using its hardware and inbuilt software to spy for the Chinese government.
+The US government has therefore prohibited US government agencies from buying equipment from Huawei (and also from ZTE, Hikvision, Dahua, and Hytera).
+<P>
+Furthermore, the US Department of Commerce has put Huawei on its Entity List, thereby preventing American companies from supplying the Chinese firm unless they get a hard-to-obtain waiver.
+Facebook no longer lets Huawei pre-load apps, and Google has stopped providing Android updates to the Chinese company’s devices.
+Meanwhile, US universities are under pressure to cut their research ties with the firm: in April, MIT severed its relationships with both Huawei and ZTE.
+<P>
+The US is pushing other countries to follow its lead.
+New Zealand and Japan have banned Huawei, and Norwegian firm Telenor will roll out a 5G network with Sweden’s Ericsson, ending a decade of collaboration with the Chinese company.
+(Hungary and Russia, on the other hand, are happy to let Huawei develop their national 5G networks.)
+<P>
+In a recent risk assessment, the European Commission and the European Agency for Cybersecurity warned about having a 5G supplier from a “hostile” country, or one “where there are no legislative or democratic checks and balances in place.”
+Mindful of these concerns, some European governments have adopted a more regulated, “middle-way” approach to Huawei.
+Germany, for example, will require telecom providers to be certified and monitored.
+The United Kingdom, meanwhile, has until now kept Huawei out of “critical networks,” and tests the firm’s equipment at a comprehensive evaluation center (whose latest report warns of a “significantly increased risk”).
+<P>
+Western governments’ concerns about Huawei are real.
+But are they so different from the worries we should have about American social-media and technology companies?
+The fear is that Huawei could gain access to a huge volume of data about us, which then could be used in a way that is detrimental to our interests, including by adversely influencing national politics.
+But these threats already exist, because Facebook (which also owns Instagram and WhatsApp) and Google (which owns YouTube) have an astonishingly comprehensive range of data about their users – their location, contacts, messages, photos, downloads, searches, preferences, purchases, and much else.
+<P>
+In other words, the US digital giants are already storing the kind of data that we fear Huawei may collect in the future.
+Furthermore, both Google and Facebook have already been found to misuse the data entrusted to them.
+<P>
+The difference, we are told, is that Huawei is based in China – a strategic rival of the US – so the data the company gathers could be used to weaken democratic countries’ political systems and geopolitical standing.
+But Facebook is already undermining the democratic process, including in the US itself, where the platform has facilitated foreign interference in elections.
+<P>
+In addition, Facebook has fueled division and fear, and refused to remove hate speech, Holocaust denial, and anti-Semitic posts.
+The platform has been described as a “megaphone for hate” against Muslims, and it is accused of facilitating a genocide against the Rohingya in Myanmar.
+For these reasons, the British actor and comedian Sacha Baron Cohen recently called Facebook “the greatest propaganda machine in history.”
+The Trump administration and other Western governments have been extraordinarily slow to act, however, in contrast to their swift and decisive measures vis-à-vis Huawei.
+<P>
+One supposed reason for regarding Google and Facebook as a lesser threat is that they are private companies – unlike Huawei, which is seen as beholden to the Communist Party of China.
+But Google does a lot of work for the US government, including the US military and intelligence services, and the profit motive is not preventing Facebook from being a threat; in fact, it is amplifying the danger.
+<P>
+That is because Facebook’s profits depend on maximally harvesting our attention, which can then be sold to advertisers and to users wishing to “promote” their posts.
+The more attention the platform attracts, the more profitable it becomes.
+<P>
+Facebook uses algorithms to push the most attention-grabbing material, which typically is shocking, outrageous, fear-mongering, and hate-filled.
+And, having gathered huge amounts of data about us, the company sells the opportunity to target us personally to whomever is willing to pay – even if they are setting out to destroy our societies and institutions.
+The fact that Facebook is damaging social cohesion, weakening democracy, and making it easier for authoritarian governments to emerge is not the company’s concern, as its behavior makes clear.
+<P>
+The Trump administration’s peremptory and categorical response to the potential threat posed by Huawei has persuaded several other governments to follow suit, on the grounds that democracies must protect access to data about their citizens, and prevent it from being used in ways that undermine democracy.
+But if that is the case, Western governments should immediately take equally vigorous action against Facebook and Google.

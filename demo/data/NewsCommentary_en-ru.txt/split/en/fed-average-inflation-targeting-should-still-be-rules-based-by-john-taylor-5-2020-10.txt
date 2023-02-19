@@ -1,0 +1,54 @@
+<HEADLINE>
+Who’s Afraid of Rules-Based Monetary Policy?
+<P>
+STANFORD – Many of the world’s central banks have been formally reviewing their monetary-policy strategies in light of COVID-19 and the experience leading up to the pandemic.
+Unfortunately, they appear to be drawing the wrong lessons from the challenges they face.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+One of the first to complete this process was the US Federal Reserve System, which decided to move to a new “flexible form of average inflation targeting,” as Fed Chair Jerome Powell described it in a speech at the annual Jackson Hole monetary-policy conference in August.
+Similarly, European Central Bank President Christine Lagarde recently told the annual ECB and Its Watchers XXI conference that the ECB is in the middle of its own “monetary policy strategy review.”
+And according to Bank of Japan Governor Haruhiko Kuroda, there are ongoing discussions with the new government of Prime Minister Yoshihide Suga about how to deal with the pandemic and whether a new monetary-policy strategy is in order.
+<P>
+In light of these discussions, it previously looked like there was a move underway to reform the entire international monetary system, with each country or region following a strategy similar to the Fed, though attuned to its own circumstances.
+But it no longer looks that way.
+“At the very least,” argues Otmar Issing, a former chief economist and member of the ECB Board who was largely responsible for charting the original course of ECB policymaking, “other central banks should not blindly follow the Fed’s new strategy.”
+<P>
+Issing is not alone in seeing problems with the Fed’s new approach.
+In early September, Robert Heller, a former Federal Reserve governor, argued in a letter to the Wall Street Journal that the Fed should “not target an average inflation rate of 2%.”
+Then, at a virtual conference convened by Stanford University’s Hoover Institution this month, Charles I. Plosser, a former president of the Federal Reserve Bank of Philadelphia, and Mickey D. Levy of Berenberg Capital Markets criticized the Fed for not being specific about the timespan over which average inflation will be measured.
+Is it one year or several years?
+<P>
+Powell himself acknowledged this lack of specificity at the Jackson Hole conference in August.
+Noting that “we are not tying ourselves to a particular mathematical formula that defines the average,” he added that, “Our decisions about appropriate monetary policy … will not be dictated by any formula.”
+Then, in a press release the same day, the Fed’s Board of Governors explained that policy decisions would be based on “assessments of the shortfalls of employment from its maximum level” rather than by “deviations from its maximum level,” as had been previously stated.
+<P>
+But whether the focus is on “deviations” or “shortfalls,” this new approach adds unnecessary uncertainty, because shortfalls are not defined.
+Moreover, there is no mention of how monetary policy will be used to generate higher inflation to make up for periods when inflation is less than 2%.
+Is the Fed considering additional changes in its procedures beyond the current mix of near-zero interest rates and large-scale asset purchases?
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In adopting this “flexible” approach, the Fed seems to have shifted away from the more strategic, rules-based policy that it had been pursuing at least since 2017.
+As of this summer, its Monetary Policy Report no longer includes material on monetary-policy rules, whereas the previous six reports going had featured a whole section in which different rules were presented and compared with actual scenarios.
+Among the rules considered were transparent settings for the Fed’s interest-rate policy, including the so-called Taylor rule, a price-level rule, and a modified Taylor rule to deal with the zero bound.
+<P>
+It is understandable that Issing and others would be reluctant to go along with the Fed’s less strategic, discretionary approach, especially when there are alternatives that other central banks can pursue.
+Rather than casting about for something new or simply different from the Fed, they can embark on the same rules-based-policy path that the Fed itself was on before the pandemic struck.
+<P>
+In fact, this would be easier done than said.
+When I first developed the Taylor rule, which has been widely discussed for three decades now, I based it on an average inflation rate.
+But, unlike the vague definition that the Fed has now adopted, I explicitly defined the “average” as “the rate of inflation over the previous four quarters.”
+In other words, the Fed could still switch to an average-inflation approach and yet be far more specific than it has decided to be.
+<P>
+Moreover, the formal policy rules previously listed in the Monetary Policy Report all have variables to account for factors other than the inflation rate, such as the unemployment rate or the gap between real and potential GDP.
+These variables could be included in the current strategy without neglecting the inflation target, as could policy rules to deal with asset purchases and their eventual unwinding.
+Developing such an approach would not be difficult for the Fed to do, especially if other central banks also chose to go in this direction.
+<P>
+A decade ago, I wrote a paper with John C. Williams, now the president of the Federal Reserve Bank of New York, titled “Simple and Robust Rules for Monetary Policy,” in which we emphasized the importance of rules-based policymaking.
+And there are reams of additional studies showing the benefits of rules-based monetary policy.
+That is why so many distinguished monetary scholars have endorsed this approach.
+<P>
+It is promising that the ECB and other central banks often use the word “strategy” when describing their own monetary-policy reviews.
+A strategic approach is necessarily a rules-based approach, which is precisely how the international monetary system should be run.

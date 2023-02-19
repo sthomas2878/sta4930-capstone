@@ -1,0 +1,58 @@
+<HEADLINE>
+Love the Bank, Hate the Banker
+<P>
+NEW DELHI – Public discourse is rarely nuanced.
+The public’s attention span is short, and subtleties tend to confuse.
+Better to take a clear, albeit incorrect, position, for at least the message gets through.
+The sharper and shriller it is, the more likely it is to capture the public’s attention, be repeated, and frame the terms of debate.
+<P>
+Consider, for example, the debate about bank regulation.
+Bankers are widely reviled today.
+But banking is also mystifying.
+So any critic who has the intellectual heft to clear away the smokescreen that bankers have laid around their business, and can portray bankers as both incompetent and malevolent, finds a ready audience.
+The critic’s message – that banks need to be cut down to size – resonates widely.
+<P>
+Bankers can, of course, ignore their critics and the public, and use their money to lobby in the right quarters to maintain their privileges.
+But, every once in a while, a banker, tired of being portrayed as a rogue, lashes out.
+He (it is usually a man) warns the public that even the most moderate regulations placed on banks will bring about the end of civilization as we know it.
+And so the shrillness continues, with the public no wiser for it.
+<P>
+A more specific example drives home the point.
+A significant number of banks operated at very high levels of leverage prior to the recent crisis, with debt/equity ratios of 30-1 (or more) in some cases, and with much of the debt very short-term.
+One might reasonably conclude that banks operated with too little equity capital, and too little margin of safety, and that a reasonable regulatory response would be to require that banks be better capitalized.
+<P>
+But this is where the consensus breaks down.
+The critics want banks to operate with far less leverage, especially regarding short-term borrowing; indeed, some want all-equity banks, so that the system becomes safe.
+The bankers retort that they must pay a higher return on any additional equity that they issue, so that more equity would increase their cost of capital, forcing them to raise interest rates on the loans they make, which would reduce economic activity.
+<P>
+Neither side is quite right in their public arguments.
+The bankers do not seem to have internalized a fundamental axiom of modern finance: risk emanates from the assets that a bank holds.
+According to the Modigliani-Miller theorem, the mix of debt and equity that it uses to finance its assets does not alter its average cost of financing.
+Use more “cheap” debt, and equity becomes riskier and costlier, keeping overall financing costs the same.
+Use more equity, and equity becomes less leveraged and less risky, which causes investors to demand lower returns to hold it, and again the overall financing cost remains the same.
+Put differently, given a set of cash flows from a bank’s assets, the bank’s value is not affected by how those cash flows are distributed among investors, so more leverage does not reduce the bank’s cost of funding.
+<P>
+If their public argument is incorrect (and they must know it), why do bankers prefer short-term borrowing to long-term equity finance?
+The critics would say that it is because of the tax preference accorded to debt, or because banks are too big to fail.
+<P>
+But these arguments do not withstand scrutiny.
+If the tax deductibility of interest made debt attractive, then bankers should be indifferent between long-term debt and short-term debt.
+Yet they seem to prefer the latter.
+<P>
+Similarly, too-big-to-fail banks would not care about the failure risk associated with debt financing.
+But, again, it is unclear why they should prefer short-term debt.
+After all, if bankers were trying to benefit, would they not issue long-term debt, for which the default risk, and the gain from the implicit government guarantee, is high?
+Furthermore, why do small banks, which have no implicit backing from the government, also have so much leverage?
+<P>
+The critics’ arguments about the benefits of equity are equally unsatisfying.
+Of course, given a set of bank assets, more equity would reduce the risk of failure.
+But failure is not always a bad thing; a banker operating an all-equity bank, with no need ever to repay investors, would be likelier to take unwarranted risk.
+The need to repay or roll over debt imposes discipline, giving the banker a stronger incentive to manage risk carefully.
+<P>
+For example, when Washington Mutual collapsed in 2008, following an uncontrolled lending spree (it was the largest bank failure in American history), it was not because equity holders decided to close it down, but because depositors did not trust it anymore.
+How much more value would Washington Mutual’s management have destroyed if the bank had been all-equity financed?
+<P>
+In sum, there are tradeoffs.
+Too much short-term debt makes banks more prone to failure, while too much equity places little restraint on bankers’ capacity to destroy value.
+The truth lies somewhere between the positions of today’s strident critics and indignant bankers, which may be why the moderately leveraged bank has been a feature of Western economies for a thousand years.
+Our distaste for the banker must not be allowed to destroy the bank.

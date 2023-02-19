@@ -1,0 +1,63 @@
+<HEADLINE>
+Imagining a New Bretton Woods
+<P>
+AUSTIN, TEXAS – The financial meltdown of 2008 prompted calls for a global financial system that curtails trade imbalances, moderates speculative capital flows, and prevents systemic contagion.
+That, of course, was the goal of the original Bretton Woods system.
+But such a system today would be both untenable and undesirable.
+So, what might an alternative look like?
+<P>
+The 1944 Bretton Woods conference featured a clash of two men and their visions: Harry Dexter White, President Franklin Roosevelt’s representative, and John Maynard Keynes, representing a fading British Empire.
+Unsurprisingly, White’s scheme, founded on the United States’ post-war trade surplus, which it deployed to dollarize Europe and Japan in exchange for their acquiescence to full monetary-policy discretion for the US, prevailed.
+And the new post-war system provided the foundation for capitalism’s finest hour – until America lost its surplus and White’s arrangement collapsed.
+<P>
+The question asked periodically during much of the last decade is straightforward: Would Keynes’s discarded plan be more appropriate for our post-2008 multipolar world?
+<P>
+Zhou Xiaochuan, the governor of China’s central bank, suggested so in early 2009, lamenting that Bretton Woods had not embraced Keynes’s proposal.
+Two years later, Dominique Strauss-Kahn, then-Managing Director of the International Monetary Fund, was asked what he thought the IMF’s post-2008 role ought to be.
+He replied: “Keynes, 60 years ago, already foresaw what was needed; but it was too early.
+Now is the time to do it.
+And I think we are ready to do it!”
+<P>
+Within weeks, however, Strauss-Kahn fell from grace, without ever explaining what he meant.
+But it is not too hard to sketch out what “it” might be.
+<P>
+Above all, the new system would reflect Keynes’s view that global stability is undermined by capitalism’s innate tendency to drive a wedge between surplus and deficit economies.
+The surpluses and deficits grow larger during the upturn, and the burden of adjustment falls disproportionately on debtors during the downturn, leading to a debt-deflationary process that takes root in the deficit regions before dampening demand everywhere.
+<P>
+To counter this tendency, Keynes advocated replacing any system in which “the process of adjustment is compulsory for the debtor and voluntary for the creditor” with one in which the force of adjustment falls symmetrically upon debtors and creditors.
+<P>
+Keynes’ solution was an international clearing union (ICU) to which all major economies would subscribe.
+While keeping their own currencies and central banks, members would agree to denominate all payments in a common accounting unit, which Keynes named the “bancor,” and to settle all international payments through the ICU.
+<P>
+Initially, each member state’s reserve account with the ICU would be credited with a sum of bancors proportionate to its relative share of world trade.
+Thereafter, each would be credited with extra bancors in proportion to its net exports.
+Once established, the ICU would tax persistent surpluses and deficits symmetrically, to annul the negative feedback mechanism between unbalanced capital flows, volatility, inadequate global aggregate demand, and unnecessary unemployment distributed unevenly around the world.
+<P>
+Keynes’s proposal was not without problems.
+It envisaged fixed currencies, which would require limited overdraft facilities for countries in chronic deficit and would entail constant haggling between finance ministers about re-setting exchange and interest rates.
+And rigid financial controls, which lend bureaucrats inordinate discretionary power over capital transfers, amount to a fatal flaw.
+<P>
+But there is no reason why an ICU cannot be designed with variable exchange rates and simple, automated rules which minimize politicians’ and bureaucrats’ discretionary power, while preserving the benefits of Keynes’s original idea for keeping global imbalances in check.
+<P>
+A new ICU, or NICU, would be as Keynes had envisaged it.
+But, in place of the abstract bancor, it would feature a common digital currency – say, Kosmos – to be issued and regulated by the IMF.
+The Fund would administer Kosmos on the basis of a transparent digital distributed ledger and an algorithm that would adjust total supply in a pre-agreed manner to the volume of world trade, allowing for an automatic countercyclical component that boosts global supply at times of a general slowdown.
+<P>
+Foreign-exchange markets would function as they do now, and the exchange rate between Kosmos and various currencies would vary in the same way that the IMF’s Special Drawing Rights do vis-à-vis the dollar, euro, yen, pound, and renminbi.
+The difference, of course, would be that, under NICU, member states would allow all payments to one another to pass through their central bank’s NICU Kosmos account.
+<P>
+To exploit the scheme’s full potential for keeping imbalances in check, two stabilizing transfers would be introduced.
+First, a trade-imbalance levy would be charged annually to each central bank’s Kosmos account in proportion to its current-account deficit or surplus and paid into a common NICU fund.
+Second, private financial institutions would pay a fee into the same NICU fund in proportion to any surge of capital flows out of a country, reminiscent of the price hike that companies like Uber impose during peak traffic.
+<P>
+The trade-imbalance levy is intended to motivate surplus countries’ governments to boost domestic spending and investment while systematically reducing deficit countries’ international spending power.
+Foreign-exchange markets will factor this in, adjusting exchange rates faster in response to current-account imbalances and canceling out much of the capital flows which today support chronically unbalanced trade.
+Likewise, the “surge” charge will automatically penalize speculative, herd-like capital inflows or outflows, without increasing bureaucrats’ discretionary power or introducing inflexible capital controls.
+<P>
+Suddenly, the world will have acquired, without the need for subscribed capital, a global sovereign wealth fund.
+This would enable the transition to a low-carbon energy system to be financed on a global scale and in a manner that stabilizes the global economy through investments in research and development dedicated to green energy and sustainable technologies.
+<P>
+Keynes was ahead of his time: His proposal necessitated digital technologies and foreign-currency markets that did not exist in the 1940s.
+But we have them today, along with institutional experience with international clearing systems.
+We also have a desperate need for the global green transition fund that a Keynesian Bretton Woods would automatically create.
+All that we lack is the political process, indeed a Roosevelt, to convene the players and catalyze change.

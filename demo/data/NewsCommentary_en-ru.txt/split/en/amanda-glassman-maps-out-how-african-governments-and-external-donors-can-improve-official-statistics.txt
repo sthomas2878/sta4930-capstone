@@ -1,0 +1,49 @@
+<HEADLINE>
+Africa’s Necessary Data Revolution
+<P>
+WASHINGTON, DC – Since the term “data revolution” was introduced, there has been a flurry of activity to define, develop, and implement an agenda to transform the collection, use, and distribution of development statistics.
+That makes sense.
+Assessing the international community’s next development agenda, regardless of its details, will be impossible without accurate data.
+<P>
+Yet, in Sub-Saharan Africa – the region with the most potential for progress under the forthcoming Sustainable Development Goals – accurate data are severely lacking.
+From 1990 to 2009, only one Sub-Saharan country had data on all 12 indicators established in 2000 by the Millennium Development Goals.
+Indeed, of the 60 countries with complete vital statistics, not one is in Africa.
+While most African countries have likely experienced economic growth during the last decade, the accuracy of the data on which growth estimates are based – not to mention data on inflation, food production, education, and vaccination rates – remains far from adequate.
+<P>
+Inaccurate data can have serious consequences.
+Consider Nigeria’s experience earlier this year, when GDP rebasing showed that the economy was nearly 90% larger than previously thought.
+The distorted picture of Nigeria’s economy provided by the previous statistics likely led to misguided decisions regarding private investment, credit ratings, and taxation.
+Moreover, it meant that Nigeria was allocated more international aid than it merited – aid that could have gone to needier countries.
+<P>
+Contrary to popular belief, the constraints on the production and use of basic data stem not from a shortage of technical capacity and knowhow, but from underlying political and systemic challenges.
+For starters, national statistical offices often lack the institutional autonomy needed to protect the integrity of data, production of which thus tends to be influenced by political forces and special interest groups.
+<P>
+Poorly designed policies also undermine the accuracy of data.
+For example, governments and donors sometimes tie funding to self-reported measures, which creates incentives for recipients to over-report key data like vaccination or school-enrollment rates.
+Without effective oversight, these well-intentioned efforts to reward progress can go awry.
+<P>
+Despite these failings, national governments and international donors continue to devote far too few resources to ensuring the collection of adequate data.
+Only 2% of official development aid is earmarked for improving the quality of statistics – an amount wholly insufficient to assess accurately the impact of the other 98% of aid.
+And governments’ dependency on donors to fund and gather their core statistics is unsustainable.
+<P>
+In fact, stronger national statistical systems are the first step toward improving the accuracy, timeliness, and availability of the data that are essential to calculating almost any major economic or social-welfare indicator.
+These include statistics on births and deaths; growth and poverty; tax and trade; health, education, and safety; and land and the environment.
+<P>
+Developing such systems is an ambitious but achievable goal.
+All that is needed is a willingness to experiment with new approaches to collecting, using, and sharing data.
+<P>
+This is where the public comes in.
+If private firms, media, and civil-society organizations identify specific problems and call publicly for change, their governments will feel pressure to take the steps needed to produce accurate, unbiased data – for example, by enhancing the autonomy of national statistical offices or providing sufficient funds to hire more qualified personnel.
+While it may be tempting to bypass government and hope for an easy technology-based solution, sustainable, credible progress will be difficult without public-sector involvement.
+<P>
+The recognition by governments and external donors of the need for more – and more efficient – funding, particularly to national statistical systems, will be integral to such a shift.
+Establishing stronger incentives for agencies to produce good data – that is, data that are accurate, timely, relevant, and readily available – would also help, with clearly delineated metrics defining what qualifies as “good.”
+In fact, tying progress on those metrics to funding via pay-for-performance agreements could improve development outcomes considerably.
+<P>
+One concrete strategy to achieve these goals would be to create a country-donor compact for better data.
+Such a compact would enable governments and donors to express their shared intention to build a national statistics system over a period of several years, with clear and verifiable milestones.
+It would also provide a country-specific framework for innovation on funding mechanisms and the engagement of civil society and the private sector, while mobilizing new technologies for data collection and dissemination.
+In short, a data compact would help to mobilize and focus domestic and donor funding to achieve national statistical priorities.
+<P>
+Data are the currency of performance, accountability, and credibility in the global economy, and improvements in data have been linked to better governance and higher levels of private investment.
+That is just what Africa needs to support a new decade of growth and development.

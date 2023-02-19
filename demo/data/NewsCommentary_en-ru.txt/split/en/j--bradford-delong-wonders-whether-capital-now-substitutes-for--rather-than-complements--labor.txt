@@ -1,0 +1,55 @@
+<HEADLINE>
+Marx and the Mechanical Turk
+<P>
+BERKELEY – The economist Suresh Naidu once remarked to me that there were three big problems with Karl Marx’s economics.
+First, Marx thought that increased investment and capital accumulation diminished labor’s value to employers and thus diminished workers’ bargaining power.
+Second, he could not fully grasp that rising real material living standards for the working class might well go hand in hand with a rising rate of exploitation – that is, a smaller income share for labor.
+And, third, Marx was fixated on the labor-theory of value.
+<P>
+The second and third problems remain huge analytical mistakes.
+But, while Marx’s belief that capital and labor were substitutes, not complements, was a mistake in his own age, and for more than a century to follow, it may not be a mistake today.
+<P>
+Think of it this way.
+Humans have five core competencies as far as the world of work is concerned:
+<P>
+· Moving things with large muscles.
+<P>
+· Finely manipulating things with small muscles.
+<P>
+· Using our hands, mouths, brains, eyes, and ears to ensure that ongoing processes and procedures happen the way that they are supposed to.
+<P>
+· Engaging in social reciprocity and negotiation to keep us all pulling in the same direction.
+<P>
+· Thinking up new things – activities that produce outcomes that are necessary, convenient, or luxurious – for us to do.
+<P>
+The first two options comprise jobs that we typically think of as “blue collar.”
+Much of the second three options embody jobs that we typically think of as “white collar.”
+<P>
+The coming of the Industrial Revolution – the steam engine to generate power and metalworking to build machinery – greatly reduced the need for human muscles and fingers.
+But it enormously increased the need for human eye-ear-brain-hand-mouth loops in both blue-collar and white-collar occupations.
+<P>
+Over time, the real prices of machines continued to fall.
+But the real prices of the cybernetic control loops needed to keep the machines running properly did not, because every control loop required a human brain, and every human brain required a fifteen-year process of growth, education, and development.
+<P>
+But there is no iron law of wages that requires technologies of power and matter manipulation to advance more rapidly than technologies of governance and control.
+The direction of technological progress today is toward moving very large parts of both the blue-collar and white-collar components of overseeing ongoing processes and procedures from humans to machines.
+<P>
+How many of us can be employed in personal services, and how can such jobs be highly paid (in absolute terms)?
+The optimistic view is that those, like me, who find ourselves fearing the relative wage distribution of the future as a source of mammoth inequality and power imbalance simply suffer from a failure of imagination.
+<P>
+Marx did not see how the replacement of textile workers by automatic looms could possibly do anything other than lower workers’ wages.
+After all, the volume of production could not possibly expand enough to reemploy everyone who lost their job as a handloom weaver as a machine-minder or a carpet-seller, could it?
+<P>
+It could, but Marx’s mistake was not a new one.
+A century earlier, the French physiocrats Quesnay, Turgot, and Condorcet did not see how the share of the French labor force employed in agriculture could possibly fall below 50% without producing social ruin.
+After all, in a world of solid farmers, useful craftsmen, dissolute aristocrats, and flunkies, demand for manufactured items and flunkies was limited by how much of each aristocrats could use.
+Thus, a decline in the number of farmers could produce no outcome other than poverty and widespread beggary.
+<P>
+Neither Marx nor the physiocrats could imagine the great many well-paid things that we could find to do once we no longer needed to employ 60% of the labor force in agriculture and another 20% in hand spinning, handloom weaving, and land transport via horse and cart.
+And today, the optimistic view is that those with excess wealth will continue to think of lots of things for everyone else to do to make their lives more convenient and luxurious, and that the ingenuity of the rich will outstrip the supply of labor by the poor and turn the poor into the middle class.
+<P>
+But, given the rapid development of technologies of governance and control, the pessimistic view deserves attention.
+In this scenario, pieces of option three remain stubbornly impervious to artificial intelligence and continue to be mind-numbingly boring, while option four – engaging in social reciprocity and negotiation – remains limited.
+Welcome to the virtual sweatshop economy, in which most of us are chained to desks and screens – so many powerless cogs for Amazon Mechanical Turk, forever.
+<P>
+Editor's note: A shorter version of this commentary was previously published by the New York Times.

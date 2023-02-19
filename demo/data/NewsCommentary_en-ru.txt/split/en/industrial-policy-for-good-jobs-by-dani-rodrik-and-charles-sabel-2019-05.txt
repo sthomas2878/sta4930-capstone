@@ -1,0 +1,74 @@
+<HEADLINE>
+An Industrial Policy for Good Jobs
+<P>
+CAMBRIDGE – In developed and developing countries alike, a combination of technological and economic forces has created a segment of advanced production, concentrated in metropolitan areas, that now co-exists with a mass of relatively less productive activities and communities.
+This productive dualism lies behind many contemporary ills: rising inequality and exclusion, loss of trust in governing elites, and growing electoral support for authoritarian populists.
+But much of the policy discussion today focuses on solutions that miss the true source of the problem.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+For example, redistribution through taxes and fiscal transfers accepts the productive structure as given, and merely ameliorates the results through handouts.
+Likewise, investments in education, universal basic income, and social wealth funds seek to strengthen the workforce’s endowments, without ensuring that better endowments will be put to productive use.
+Meanwhile, job guarantees and Keynesian demand management offer little in the way of improving the mix of jobs.
+<P>
+To be sure, we need many of these policies.
+But they will work best – and in the long run perhaps only – with a new set of “productivist” measures that intervene directly in the real economy, targeting the expansion of productive employment.
+<P>
+The strategy we have in mind would comprise three mutually reinforcing components: an increase in the skill level and productivity of existing jobs, by providing extension services to improve management or cooperative programs to advance technology; an increase in the number of good jobs by supporting the expansion of existing, local firms or attracting investment by outsiders; and active labor-market policies or workforce-development programs to help workers, especially from at-risk groups, master the skills required to obtain good jobs.
+<P>
+None of these three components is novel, and elements of each can be found in actual government programs.
+But existing policies are typically rooted in regulatory frameworks that work poorly under conditions of high uncertainty.
+What is a good job?
+How many can be reasonably created?
+How do technological and other firm-level choices influence job creation?
+Which complementary policy levers are available?
+How can that set of instruments be expanded?
+<P>
+These are necessarily local, contextual questions.
+They can be answered, and periodically revised, only through an iterative process of strategic interaction between public agencies and private firms.
+A common theme that emerges from studies of so-called place-based policies, such as regionally targeted employment subsidies and infrastructure investment, is the heavily contingent nature of success.
+Few policies work off the shelf and reliably across diverse settings.
+<P>
+Competitions among states and localities to attract large employers with tax and other subsidies work especially badly.
+Recent high-profile deals for Foxconn and Amazon, in Wisconsin and New York respectively, have blown up.
+In addition to being lopsided, they were predicated on a stable environment, reflected in fixed and detailed contractual terms.
+When Foxconn faced changes in demand and technology, and Amazon confronted unexpected political fallout, there was insufficient room for revision or renegotiation.
+<P>
+Governance regimes must fully recognize the provisional, iterative nature of any effective policy framework.
+Fortunately, the principles on which such regimes can be constructed do not need to be invented from scratch.
+They can be borrowed from innovative governance arrangements that firms, regulators, and other public agencies have already developed in other spheres.
+<P>
+In a recent paper, we provide detailed illustrations from two domains: the nurturing of technologies by the Defense Advanced Research Projects Agency (DARPA) and its offshoot, the Advanced Research Projects Agency-Energy (ARPA-E) in the US, and the environmental regulation of dairy farming in Ireland.
+<P>
+Under extreme uncertainty, none of the parties – neither regulators nor firms – have reliable information about the possibilities and costs of adjustment in the medium term, and only vague conjectures regarding future possibilities.
+The response – in innovation promotion, environmental regulation, food safety, and civil aviation among other areas – is the creation of an information-exchange regime that ties ongoing specification of goals to continuing exploration of new solutions.
+<P>
+In the European Union, for example, the regulator establishes “good water” as an ambitious, open-ended outcome.
+The regulated entities and affected parties – firms and farms, member states, local governments, civil-society actors – are obligated to make plans to achieve the goals and to report results regularly.
+Penalties are imposed for failure to report honestly, or for persistent failure to achieve feasible results (as demonstrated by others in a similar position).
+These methods are not self-policing.
+Like all institutions, they can be corrupted or degraded.
+But with proper public oversight, they work when conventional approaches fail.
+<P>
+Apart from a few notably successful community college training programs, such governance arrangements have not been deployed in pursuit of good jobs.
+But they can be adapted to that end.
+The concept of a “good job,” like clean water, is imprecise and needs to be operationalized in a way that is both evolving and context-dependent.
+A good-jobs strategy could be introduced in four steps.
+<P>
+First, by legislation or other means, the government commits to address the problem of bad jobs, creates an inter-agency body to review and prompt improvement of regulatory responses, and provides funds and authority for voluntary programs.
+Second, regulators currently overseeing areas directly affecting job abundance and quality – vocational training, agricultural and manufacturing extension, standard setting, and the like – introduce governance mechanisms that not only induce innovation, but also anticipate the need for support services to help vulnerable actors comply with increasingly demanding requirements.
+The requirements could take different forms, including specific employment quantity targets and/or standards.
+<P>
+Third, where current regulatory authority doesn’t reach, the government creates volunteer, public-private programs to advance the frontiers of technology and organization, or – perhaps more important – provides support services and possibly subsidies to help low-productivity/low-skill firms move to the advanced sector.
+Finally, conditional on the success of voluntary arrangements, the scope of these practices would gradually be made obligatory for non-participating firms, starting with mandatory submission of credible plans for improving the quality and quantity of jobs.
+<P>
+An attractive feature of the good-jobs strategy we propose is that the same institutions of interactive governance that enable the parties to specify and solve the problems they face under uncertainty also enable them to develop the trust and mutual reliance they need to deepen and broaden their efforts.
+The broad coalition needed for the approach to succeed need not already exist; it can and will likely be the result of pursuing the strategy.
+Trust and new alliances are as much – or more – the outcome of joint problem-solving as its preconditions.

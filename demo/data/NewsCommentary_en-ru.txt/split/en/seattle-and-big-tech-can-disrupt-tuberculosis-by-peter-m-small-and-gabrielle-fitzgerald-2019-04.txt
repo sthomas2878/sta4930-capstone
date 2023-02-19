@@ -1,0 +1,63 @@
+<HEADLINE>
+How Seattle Can Disrupt Tuberculosis
+<P>
+SEATTLE – A major report recently published by the medical journal The Lancet finds that a tuberculosis-free world is possible.
+While TB is not an issue that many in Seattle think about, many of the city’s leading institutions are actually doing a tremendous amount to reduce the 4,400 deaths from tuberculosis that occur each and every day.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+TB is a contagious, potentially fatal infectious disease that destroys body tissue, particularly affecting the lungs.
+As an airborne disease, it can be spread when an infected individual coughs, sneezes, or even speaks.
+Though TB is curable with antibiotics, if the medicine is not taken properly, an even more dangerous drug-resistant strain of the disease – which some call “Ebola with wings” – emerges.
+<P>
+Despite the scale of the TB threat, research funders and the pharmaceutical industry have largely ignored the disease over the past 50 years.
+The reason is as simple as it is indefensible: TB disproportionately affects the poor and disenfranchised, who often cannot pay for treatment.
+<P>
+Given the lack of investment in the fight against TB, progress stalled, and prevention continued to center on an 80-year-old vaccine with limited efficacy.
+Diagnosis continued to rely on a 125-year-old test that fails to detect the disease in half of all cases.
+And treatment continued to mean a six-month-long drug regimen that has remained virtually unchanged for 60 years.
+<P>
+As a result, TB continues to kill one person every 20 seconds.
+In 2017, it killed a total of 1.6 million people – the highest death toll of any infectious disease.
+<P>
+In the last decade, however, TB has started to get the attention it deserves, particularly among Seattle-based health organizations.
+Scientists at the University of Washington, the Institute for Systems Biology, and Seattle Children’s Research Institute are deepening our understanding of the biology of TB.
+The Institute for Disease Modeling and Institute for Health Metrics and Evaluation are improving disease tracking.
+The Infectious Disease Research Institute, Global Good, and the Fred Hutchinson Cancer Research Center are developing better tests, drugs, and vaccines.
+And PATH is pioneering better ways to deliver TB care in the world’s most challenging settings.
+<P>
+Thanks to the work of these organizations – as well as the generosity and technical prowess of the Bill & Melinda Gates Foundation – doctors now have a new and more accurate test to diagnose TB, more potent drugs to cure drug-resistant strains, and a promising vaccine candidate.
+But developing these tools is just the first step.
+Innovation is also needed to enable their delivery to those who need them most.
+And, on that front, progress has been much slower.
+<P>
+According to the Lancet report, further gains in the fight against TB are contingent upon delivering services to the ten million people who will develop the disease in the next year.
+This cannot be left up to the health community alone.
+Seattle’s tech companies – which are already changing the way people live, connect, and consume with disruptive technologies – must also contribute their expertise and vision.
+<P>
+Imagine a world in which public-health officials in the most impoverished settings could tap into Amazon’s marketing prowess, Tableau’s analytical power, and PEMCO’s understanding of health behaviors.
+Imagine if they could take advantage of Microsoft’s cloud-based services, Google’s data streams, Facebook’s reach, and Uber’s delivery capacity.
+<P>
+In such a world, outreach through social media could help ensure care for the four million people who go undiagnosed each year.
+Smart pillboxes could help TB patients to take their medications.
+Mobile phone-based cough monitoring could help health-care providers ensure that patients are responding appropriately to treatment.
+<P>
+Moreover, artificial intelligence-based algorithms could help health workers provide optimal care to patients and real-time data about the TB burden to public-health officials.
+Blockchain-based systems could keep patients in control of who has access to their medical information.
+And, when needed, the “gig” workforce could contribute transportation and logistical support.
+<P>
+Before long, such a world would be TB-free.
+To realize this vision, Seattle’s health leaders must collaborate with the region’s technology companies.
+Corporate executives could establish partnerships with public-health bodies to identify opportunities to fulfill their oft-repeated promises to deploy technology to advance the common good.
+Their employees could then collaborate with TB researchers to develop effective projects and products.
+<P>
+The first step is to create a comprehensive strategy for integrating biomedical research and digital technologies in the next decade.
+Otherwise, by 2030, TB could claim another 15 million lives.
+That is not a world where any of us wants to live.

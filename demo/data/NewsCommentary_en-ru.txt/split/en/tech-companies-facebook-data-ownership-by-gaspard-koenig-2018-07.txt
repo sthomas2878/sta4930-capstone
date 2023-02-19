@@ -1,0 +1,54 @@
+<HEADLINE>
+Leaving the Data Dark Ages
+<P>
+PARIS – During the High Medieval Period, from the eleventh to the thirteenth century, serfs in France had no property rights.
+Instead, those with land had to hand over most of what they produced to the local seigneur (lord) who could confiscate their land upon their death (“mainmorte”).
+In return, they did receive services, such as protection from conflict and access to a mill or village oven.
+They had little choice: opting out of the deal and, say, building their own mill would have been strictly forbidden.
+This dynamic arrangement – which continued until the French Revolution, when peasants gained full property rights – looks a lot like consumers’ relationships with Internet firms today.
+<P>
+In this age of digital feudalism, we have little choice but to agree, with one click, to an impenetrably long and convoluted set of terms and conditions, which subjects us to constant monitoring by the platforms we use.
+The platforms collect our personal data and sell them to many more actors, including advertising companies that can then serve us targeted ads.
+<P>
+For Internet firms, this is a highly lucrative practice: the value of users’ personal data is expected to reach 8% of European GDP by 2020.
+In exchange, the firms offer “free services,” such as social media, to the digital serfs who produce the data.
+<P>
+This is not a “sharing economy,” but an optimized extractive economy – based on the near-infinite availability of raw material (our personal data) – that enriches a few companies at the expense of consumers.
+And, like the economy of the High Medieval Period, it is ripe to be revolutionized through property rights.
+<P>
+Property rights have protected and empowered individuals for millennia, evolving as technology does.
+For example, the printing revolution brought intellectual property rights (thank you, Beaumarchais), and the Industrial Revolution popularized the patent system.
+What the digital revolution must bring is the right to personal data ownership, including the classic elements of property rights: usus (I use my data as I wish), abusus (I destroy my data as I wish, without any fancy “right to be forgotten”), and fructus (I sell my data for profit if I wish).
+<P>
+Personal data ownership would spur the emergence of a personal-data market, with some of the world’s 3.5 billion Internet users claiming remuneration for sharing their data, according to the value they produce.
+Other users, prioritizing privacy over profit, would pay a fair market price to benefit from a service anonymously.
+This is what the US tech executive Sheryl Sandberg was hinting at recently, when she suggested that a full-blown opt-out from data collection on Facebook would be a “paid product.”
+<P>
+The change would be profound, and the practical challenges could be overcome with existing technological solutions.
+For example, to support data management, users could each have a “smart account” that stores the information and the contractual conditions for its use.
+As for pricing, intermediaries would likely emerge to negotiate directly with the big platforms on behalf of millions of users, leading over time to the creation of a proper marketplace.
+<P>
+Effective legal implementation of the right to personal data ownership will certainly take work.
+Yet personal data ownership remains a more rational and realistic solution than other approaches that have been put forward, such as the right to “informational self-determination” established by Germany’s constitutional court in 1983.
+<P>
+The potential benefits of giving individuals more control over their digital lives extend beyond economic fairness.
+Such a system could also crack open the much-maligned “filter bubbles” that have arisen as a result of social-media algorithms, which show users content that reinforces their existing biases and beliefs.
+In this sense, personal data ownership could help to ease the dangerous political polarization that now afflicts many countries.
+<P>
+Today, not a single legal system recognizes personal data ownership.
+But the idea is gaining ground all over the world.
+<P>
+Brittany Kaiser – an executive-turned-whistleblower at Cambridge Analytica, the political data firm that allegedly misused users’ data from Facebook and other platforms to influence political campaigns – now advocates that users treat their data as property, just like their houses.
+Owning a house doesn’t make you a greedy real-estate speculator; it allows you to participate fully in what the philosopher John Rawls called a “property-owning democracy.”
+The same goes for data.
+<P>
+In France, the think tank I created, GenerationLibre, issued a 150-page report on personal data ownership, which prompted a fierce public debate.
+At the European level, the General Data Protection Regulation, which has just come into force, prepares the ground for property rights by guaranteeing the portability of personal data.
+<P>
+In the United States, the author and researcher E. Glen Weyl, together with legendary virtual reality pioneer Jaron Lanier and others, recently argued that data should be treated (and remunerated) as labor.
+(I would prefer to treat data as capital, as they originate from our self-owned personality, but this is essentially just semantics.)
+And, on a practical level, a growing number of startups are developing data-monetization services.
+<P>
+In his bestselling book Homo Deus, the historian Yuval Noah Harari anticipates the advent of “dataism,” whereby personal free will is sacrificed at the altar of the algorithm.
+But humans do not have to be at the mercy of data flows.
+By establishing personal data ownership, the very notion of individuality could be fortified, bolstering the liberal values that have made our civilization succeed.

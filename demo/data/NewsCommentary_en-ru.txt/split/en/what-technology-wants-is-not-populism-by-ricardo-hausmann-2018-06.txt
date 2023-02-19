@@ -1,0 +1,68 @@
+<HEADLINE>
+Does the West Want What Technology Wants?
+<P>
+CAMBRIDGE – In many dimensions, today’s West is not at its best.
+Many people are challenging the values of liberal democracy (individual rights and majority rule) and even those of the Enlightenment (reason, science, and truth).
+Populist parties are channeling such sentiments with considerable electoral success, capitalizing on economic malaise, widening inequality, and rising immigration.
+<P>
+Technology is often blamed for the social ills underpinning the populist surge.
+But what about the causal arrow that runs in the opposite direction, from society to technology?
+In a world where technological progress promises large benefits, the capacity to supply “what technology wants” may determine which economies are positioned for success, and which are bound to go the way of the Spanish, Portuguese, or Ottoman Empires.
+Nowadays, that should worry the West more than it worries China.
+<P>
+To ascertain what technology wants requires understanding what it is and how it grows.
+Technology is really three forms of knowledge: embodied knowledge in tools and materials, codified knowledge in recipes, protocols, and how-to manuals, and tacit knowledge or knowhow in brains.
+We can have more tools and gadgets, more books and manuals, or more documents at our disposal on the web, but we do not have the capacity at the individual level to cram more stuff into our brains.
+For technology to grow, it needs to imprint different bits of knowhow in different brains.
+Societies become more knowledgeable not because individuals know more but because they know different things.
+<P>
+But after storing different bits of knowhow in different brains, using knowhow requires bringing those disparate brains back together again.
+No wonder, then, that there are fewer polymaths and Renaissance Men today, and that the number of authors per scientific papers or per patent has been growing fast.
+<P>
+One trick that technology uses in order to grow is modularization.
+If a product’s components can be compartmentalized in such a way that different teams are good at different modules and a few are good at putting those modules together, each team may need to know less, even as the whole can know more.
+<P>
+Consider the following example: Chile is the world’s largest producer of lithium and Japan’s Panasonic is the largest manufacturer of lithium-ion batteries, but it is China’s BAIC that is the largest electric vehicle (EV) manufacturer.
+While America’s Tesla is an admirable company, by 2025 Europe and China are expected to have over ten times more EVs than the US, which also lags far behind in the number of charging stations to support them.
+<P>
+This example illustrates two points.
+First, each module in the value chain benefits from connecting to other modules in the world.
+Modularity creates a logic that is somewhat different from simple economies of scale.
+EVs benefit from innovations in mining and in battery manufacturing, wherever they occur.
+Whoever achieves those innovations will want to connect to the places that use them.
+<P>
+A jumbo aircraft literally requires millions of parts, and innovations in any component can have important implications for the plane’s overall design and efficiency.
+For example, 3-D printing may radically lower the number of parts required by turbine engines and thus significantly reduce their weight (and thus their fuel consumption).
+To exploit these possibilities, innovating companies need to be able to connect to manufacturers elsewhere in a secure manner.
+<P>
+This is exactly the opposite of what a sunset clause in the North American Free Trade Agreement would accomplish.
+And it is why Airbus recently warned that Brexit will have severe negative consequences for the United Kingdom’s aerospace industry.
+Modularization requires the ability to tap talent anywhere in the world.
+In Silicon Valley, over half the science, technology, engineering and math (STEM) workers are foreign-born, and fewer than a fifth were born in California, a state that, with 40 million residents, would rank 36th among the world’s countries.
+With US President Donald Trump’s clampdown on immigration, the neighbor to the north put billboards in Silicon Valley that read “H1B Visa Problems?
+Think Canada.”
+<P>
+But implementing many technologies also requires ingredients that can be provided only through non-market mechanisms, and here governments play a critical role.
+Consider high-speed rail.
+Without government authorization and cooperation, no private company can build a rail line.
+Western Europe has more than 14,000 kilometers (8,700 miles) of high-speed rail, and China has over 25,000.
+The United States claims to have 56 kilometers, in a short stretch that covers less than 8% of the distance between Boston and Washington, DC.
+The reason is obvious: this is a technology that, like the electric car, requires a social decision and a government that enables that choice.
+<P>
+In short, technology requires a society that connects to the world, both through trade and openness to talent, in order to exploit the gains from modularization.
+It also requires a society that is able to develop a shared sense of purpose, one that is deep and powerful enough to direct the government to provide the public goods that new technologies require.
+The first requirement is facilitated by a society having a broader and more inclusive sense of who is a member.
+The second is facilitated by a deeper and more meaningful sense of membership.
+<P>
+Developing these attitudes is not easy.
+It requires a civic rather than an ethnic sense of nationhood.
+This is why the stakes in today’s policy debates in the West are not just about values.
+In a competitive world, societies pay dearly for being unable – or unwilling – to deliver what technology wants.
+<P>
+The Spanish Empire made the choice to expel the Jews and the Moors from its realm in the late fifteenth century.
+It tried and failed to impose its intolerance on its dominions in the Low Countries in the sixteenth century.
+But after an 80-year bloody war of independence, the Netherlands emerged as a beacon of tolerance and attracted some of Europe’s greatest talent, from Descartes to Spinoza.
+Not surprisingly, it became the world’s richest country during the seventeenth and eighteenth centuries.
+<P>
+Today’s populist forces may disregard what technology wants and impose their vision on the world.
+But they will inadvertently leave their societies, just like the US rail system, on a very slow track.

@@ -1,0 +1,68 @@
+<HEADLINE>
+Explaining Inflation Inertia
+<P>
+CAMBRIDGE – The stubbornness of inflation continues to challenge and mystify central bankers worldwide.
+Whether they are trying to boost price growth or rein it in, policymakers are effectively wrestling with the same problem.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Consider Japan, which has experienced deflation (a decline in the price level) in 11 of the past 20 years.
+Since 2016, deflationary forces appear to have receded, but inflation rates have consistently remained well below the 2% target set by the Bank of Japan, despite accommodative policies.
+The BOJ has maintained the policy interest rate below zero since 2016, capped long-term rates near zero, and expanded the monetary base by about 250% since 2013 via record purchases of Japanese government bonds (JGBs).
+The BOJ now holds about 50% of the outstanding stock of government bonds.
+This is no small achievement, as Japan’s government debt ratio, at 238% of GDP, is the highest in the world.
+And yet, despite these policies, inflation expectations five years out are still anchored close to 1%.
+<P>
+At the other end of the spectrum, there is Argentina’s ongoing inflation battle.
+The Central Bank of Argentina (BCRA), in connection with an International Monetary Fund program in June 2018, promised to keep the monetary base unchanged.
+This has forced the policy rate to climb to almost 74%.
+Nonetheless, the annual inflation rate has accelerated from around 26% a year ago to about 55%.
+<P>
+The pick-up in inflation largely reflects higher import prices, as the peso crashed (plummeting about 115% against the US dollar during the 12 months that ended in March).
+But pass-through from the exchange rate to the price level is only part of the story.
+And an overheated economy has played no role at all.
+On the contrary, Argentina is grappling with a deep and lingering recession.
+The IMF expects GDP to shrink by 1.2% this year (following a larger contraction in 2018).
+<P>
+And yet, despite a credit crunch and other indications of tight monetary conditions and a recent spate of price controls, inflation remains close to 40%.
+Under President Mauricio Macri’s administration, Argentina had a short-lived spell of inflation targeting during 2016-2018.
+When the scheme was unveiled, the 2019 target was set at within 1.5 percentage points of 5%.
+Credibility has been a problem.
+<P>
+Why have inflation expectations failed to respond to draconian changes in policies?
+<P>
+In 2001, one Argentina peso traded for one US dollar (see chart); today, one dollar costs around 44 pesos (a cumulative depreciation of over 4,000%).
+Since 2001, the Japanese yen has appreciated about 12% against the US dollar (and by almost 70% since the exchange rate began floating in 1971).
+Any modest amount of extrapolation would attach a low weight to a near-term yen crash or to a stable peso.
+During times of global financial market stress, there was a flight not only to US dollars (the global reserve currency), but also to yen (and swiss francs).
+In 2008-2009, for example, nearly all other currencies crashed.
+<P>
+These secular exchange-rate trends reinforce existing preferences in saving-consumption patterns and asset allocation.
+In the case of Japan (prior to the more recent era of negative real interest rates), they allowed savers to maintain the purchasing power of their savings.
+They also help to explain the strong Japanese bias toward domestic, yen-denominated assets.
+<P>
+As for Argentina, chronic inflation and currency depreciation have cemented a clear preference for the US dollar as a store of value.
+The compulsory pesoization in January 2002 (when existing US dollar deposits and loans in the domestic banking sector were forcibly converted to pesos) provided only a temporary and artificial reduction in the domestic use of the US dollar.
+Saving rates are low, and a nontrivial share of private savings is held outside the country.
+As Christoph Trebesch and I have highlighted, reliance on fickle foreign saving does not help with currency instability or external indebtedness.
+<P>
+So, what can governments do to induce turning points in stubborn inflation expectations when central banks’ policies prove insufficient to the task?
+<P>
+In the case of Japan, convincing the private sector that higher inflation is the path of the future requires a break from the current practice of indexing public-sector wages to the previous year’s inflation.
+Bold increases in public-sector wages may provide the official signal that has been lacking, with private-sector wage and price setting following suit.
+The very fact that such a measure would run counter to fiscal prudence in such a highly indebted country might help undermine the entrenched trend toward yen appreciation.
+Higher inflation has to be part of the solution to the existing overhang of public and private debt.
+<P>
+As for Argentina, to avoid fueling a classic wage-price spiral, de-indexation requires significant reductions in real wages, starting with the public sector.
+The political difficulty of doing this (especially when the public sector is large, as it is in Argentina) is daunting at the best of times; in an election year, there is (at least as far I am aware) limited historical precedent for it.
+Apart from dampening inflation expectations, real wage cuts mitigate the real exchange-rate appreciation (loss of competitiveness) that often accompanies disinflation plans.
+For a country like Argentina, facing increasing difficulties in global capital markets, current-account deficits are a luxury.
+<P>
+Perhaps inflation expectations are stubbornly high (or low) because the public has learned to extrapolate from another historical trend: governments tend to avoid making difficult choices.

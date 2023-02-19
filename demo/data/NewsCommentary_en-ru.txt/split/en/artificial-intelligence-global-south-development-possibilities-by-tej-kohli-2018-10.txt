@@ -1,0 +1,47 @@
+<HEADLINE>
+The Promise of AI in the Developing World
+<P>
+LONDON – A common misperception among observers of digital trends is that consumers in developing countries do not benefit from advances in technology.
+Whether it is owning the latest smartphone or “employing” robot cleaners, the ability to access innovation is one of the most visible differences between rich and poor countries.
+<P>
+This gap has become even more pronounced since the advent of artificial intelligence (AI).
+For example, the vast majority of home “smart speaker” personal assistants, like Amazon’s Alexa, are shipped to wealthy countries.
+In 2017, over 80% of global smart speaker shipments were to North America.
+<P>
+But while technology can deepen global inequality, it also has the potential to mitigate it.
+This is because AI can do much more than power appliances; it can also revolutionize the way health care, disaster relief, finance, logistics, education, and business services are delivered in the Global South.
+<P>
+Around the world, AI is already transforming developing countries.
+In Nepal, machine learning is mapping and analyzing post-earthquake reconstruction needs.
+Across Africa, AI tutors are helping young students catch up on coursework.
+Humanitarian aid agencies are using big data analytics to optimize the delivery of supplies for refugees fleeing conflict and other hardships.
+And in my country, India, rural farmers use AI applications to improve crop yields and boost profits.
+<P>
+Innovations like these bring us closer to achieving the United Nations Sustainable Development Goals on issues like eradicating poverty, ending health-care inequality, increasing access to schooling, and combating global warming.
+And yet the world is just scratching the surface of what AI can do for human progress.
+To harness AI’s full power to advance development, we must find new ways to apply it.
+<P>
+For example, with the right support, the skies above developing countries could be filled with drones delivering medical supplies to remote hospitals.
+This is already happening in rural Rwanda, where a unique partnership between the health ministry and Zipline, a Silicon Valley-based tech startup, is giving doctors in hard-to-reach clinics the ability to order blood by text message, and then have it arrive by parachute in a matter of minutes.
+Since the program launched in October 2016, delivery times have been cut by a factor of five, and hundreds of lives have been saved.
+<P>
+Still, while AI innovations like this one are impressive, we cannot take them for granted.
+Unless we counter the misplaced but well-publicized fears that AI disruptions will be worse than the rewards, the incredible progress that technology companies are making in the Global South will be slowed.
+<P>
+There are a number of steps that can be taken to avoid this outcome.
+For starters, programs like the UN’s “AI for Good” campaign, which is aimed at fostering dialogue on the beneficial use of technology for humanitarian work, must receive the full support of policymakers.
+Those of us involved in technology development must also continue to identify the projects, initiatives, think tanks, and organizations that would benefit from cooperation with AI firms – like Zipline in Rwanda.
+<P>
+But, most important, conversations about developing AI for humanitarian purposes cannot be conducted in isolation by aid organizations, charities, and governments.
+Technology investors must also have a seat at the table.
+<P>
+For too long, technology entrepreneurs have focused on solving problems in the Global North, while ignoring issues traditionally associated with developing countries.
+But mobile technology is opening new doors of opportunity, and it now makes humanitarian and business sense to target AI solutions far beyond Western countries.
+<P>
+That is why I established Rewired, a $100 million investment vehicle that supports embryonic AI and robotics firms engaged in addressing important social issues.
+Rewired works with firms at the vanguard of machine perception – the ability of robots to understand and interpret the physical world.
+We have invested in companies that are working to replicate human smell, to develop affordable and dexterous prosthetics, and to create portable machines designed to improve manufacturing processes.
+<P>
+Our goal is to fund technologies with the potential to enhance quality of life in every country around the world.
+And that, I believe, will be AI’s unifying characteristic.
+The machines we create today will not only be profitable; they will also bring us closer to solving some of the world’s biggest challenges.

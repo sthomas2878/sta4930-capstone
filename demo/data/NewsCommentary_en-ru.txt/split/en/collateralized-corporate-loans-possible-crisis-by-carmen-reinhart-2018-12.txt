@@ -1,0 +1,53 @@
+<HEADLINE>
+The Biggest Emerging Market Debt Problem Is in America
+<P>
+CAMBRIDGE – A recurrent topic in the financial press for much of 2018 has been the rising risks in the emerging market (EM) asset class.
+Emerging economies are, of course, a very diverse group.
+But the yields on their sovereign bonds have climbed markedly, as capital inflows to these markets have dwindled amid a general perception of deteriorating conditions.
+<P>
+Historically, there has been a tight positive relationship between high-yield US corporate debt instruments and high-yield EM sovereigns.
+In effect, high-yield US corporate debt is the emerging market that exists within the US economy (let’s call it USEM debt).
+In the course of this year, however, their paths have diverged (see Figure 1).
+Notably, US corporate yields have failed to rise in tandem with their EM counterparts.
+<P>
+What’s driving this divergence?
+Are financial markets overestimating the risks in EM fixed income (EM yields are “too high”)?
+Or are they underestimating risks in lower-grade US corporates (USEM yields are too low)?
+<P>
+Taking together the current trends and cycles in global factors (US interest rates, the US dollar’s strength, and world commodity prices) plus a variety of adverse country-specific economic and political developments that have recently plagued some of the larger EMs, I am inclined to the second interpretation.
+<P>
+In what is still a low-interest-rate environment globally, the perpetual search for yield has found a comparatively new and attractive source in the guise of collateralized loan obligations (CLOs) within the USEM world.
+According to the Securities Industry and Financial Markets Association, new issues of “conventional” high-yield corporate bonds peaked in 2017 and are off significantly this year (about 35% through November).
+New issuance activity has shifted to the CLO market, where the amounts outstanding have soared, hitting new peaks almost daily.
+The S&P/LSTA US Leveraged Loan 100 Index shows an increase of about 70% in early December from its 2012 lows (see Figure 2), with issuance hitting record highs in 2018.
+In the language of emerging markets, the USEM is attracting large capital inflows.
+<P>
+These CLOs share many similarities with the mortgage-backed securities that set the stage for the subprime crisis a decade ago.
+During that boom, banks bundled together loans and shed risk from their balance sheets.
+Over time, this fueled a surge in low-quality lending, as banks did not have to live with the consequences.
+<P>
+Likewise, for those procuring corporate borrowers and bundling corporate CLOs, volume is its own reward, even if this means lowering standards for borrowers’ creditworthiness.
+The share of “Weakest Links” – corporates rated B- or lower (with a negative outlook) – in overall activity has risen markedly since 2013-2015.
+Furthermore, not only are the newer issues coming from a lower-quality borrower, the covenants on these instruments – provisions designed to ensure compliance with their terms and thus minimize default risk – have also become lax.
+Covenant-lite issues are on the rise and now account for about 80% of the outstanding volume.
+<P>
+As was the case during the heyday of mortgage-backed securities, there is great investor demand for this debt, reminiscent of the “capital inflow problem” or the “bonanza” phase of the capital flow cycle.
+A recurring pattern across time and place is that the seeds of financial crises are sown during good times (when bad loans are made).
+These are good times, as the US economy is at or near full employment.
+<P>
+The record shows that capital-inflow surges often end badly.
+Any number of factors can shift the cycle from boom to bust.
+In the case of corporates, the odds of default rise with mounting debt levels, erosion in the value of collateral (for example, oil prices in the case of the US shale industry), and falling equity prices.
+All three sources of default risk are now salient, and, lacking credible guarantees, the CLO market (like many others) is vulnerable to runs, because the main players are lightly regulated shadow banking institutions.
+<P>
+And then there are the old and well-known concerns about shadow banking in general, which stress both its growing importance and the opaqueness of its links with other parts of the financial sector.
+Of course, we also hear that a virtue of financing debt through capital markets rather than banks is that the shock of an abrupt re-pricing or write-off will not impair the credit channel to the real economy to the degree that it did in 2008-2009.
+Moreover, compared to mortgage-backed securities (and the housing market in general), the scale of household balance sheets’ exposure to the corporate-debt market is a different order of magnitude.
+<P>
+A decade after the subprime bubble burst, a new one seems to be taking its place – a phenomenon aptly characterized by Ricardo Caballero, Emmanuel Farhi, and Pierre-Olivier Gourinchas as “Financial ‘Whac-a-Mole.’”
+A world economy geared toward increasing the supply of ﬁnancial assets has hooked us into a global game of waiting for the next bubble to emerge somewhere.
+<P>
+Like the synchronous boom in residential housing prior to 2007 across several advanced markets, CLOs have also gained in popularity in Europe.
+Higher investor appetite for European CLOs has predictably led to a surge in issuance (up almost 40% in 2018).
+Japanese banks, desperately seeking higher yields, have swelled the ranks of buyers.
+The networks for financial contagion, should things turn ugly, are already in place.

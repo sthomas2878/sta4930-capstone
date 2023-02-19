@@ -1,0 +1,51 @@
+<HEADLINE>
+Putting Public Health on the Map
+<P>
+SEATTLE – Twenty-five years ago, the state of public health for large populations was like that of a doctor trying to treat a patient without a proper diagnosis.
+The diseases and injuries that cut lives short and caused widespread suffering were not rigorously tracked.
+<P>
+Back then, well-meaning advocates for different diseases published death tolls that helped them make the case for funding and attention.
+But when all the claims were added up, the total was many times greater than the number of people who actually died in a given year.
+And even when policymakers had accurate data, it usually included only causes of death, not the illnesses that afflicted the living.
+<P>
+To address this problem, Alan Lopez and I launched the Global Burden of Disease project (GBD) in 1990.
+Decision-makers need information about the world’s biggest health threats and how they have changed over time, across age groups, and by sex, so they can ensure that everyone has the opportunity to live the longest, healthiest life possible.
+<P>
+By ensuring that each death is counted just once, and by providing comprehensive statistics on the causes of ill health, the GBD can compare the impact of cancer to that of lower back pain or depression.
+It also enables comparison of health-care performance among countries.
+<P>
+GBD’s 1990 study and subsequent revisions raised the bar for population health measurement, providing decision-makers with more reliable and useful information.
+It also opened the international development community’s eyes to the importance of overlooked afflictions, such as mental illness and road injuries.
+Donors such as the World Bank and the Bill & Melinda Gates Foundation use GBD data to guide their investments, and more than 30 countries have conducted their own burden-of-disease studies.
+<P>
+Countries such as Australia, Botswana, China, Mexico, Norway, Rwanda, Saudi Arabia, and the United Kingdom are using GBD findings to inform health policies.
+In China, the results of the GBD project, launched at a policy summit in 2013, raised awareness about the deadly impact of air pollution on the country’s population.
+Those findings helped shape the Chinese government’s efforts to curb the negative effects of pollution on health, and Chinese researchers are now key members of the global collaborative effort.
+<P>
+In Rwanda, when the GBD study revealed that indoor air pollution from cooking with solid fuel was a leading cause of death, the government launched a program to distribute one million clean stoves to the most vulnerable households.
+Rwandan scientists and officials from the Ministry of Health – including the minister herself – are important contributors to the GBD.
+<P>
+Today, the GBD is constantly improving, thanks to the efforts of more than 1,300 collaborators in 114 countries.
+These collaborators improve the models on which the project is built, vet the study results, contribute new data sets, and communicate the results to media outlets, educational institutions, and decision-makers.
+The latest GBD study revealed that another disease seldom discussed in international development circles, lower back and neck pain, is the fourth largest cause of health loss globally.
+It also highlighted the rapid pace of epidemiological transition in middle-income countries and the persistence of communicable, maternal, newborn, and nutritional disorders in Sub-Saharan Africa.
+<P>
+But the GBD could do more to inform policy debates and spur action to improve health if it were able to provide more detailed breakdowns of data.
+Policymakers are accountable, first and foremost, to their constituents, whose unique needs they must meet.
+Estimates of local disease burdens will be essential for combating afflictions like Ebola, checking the rising toll of non-communicable diseases in middle-income countries, and meeting the Sustainable Development Goals relating to maternal and child health in Sub-Saharan Africa.
+<P>
+To help decision-makers make better use of their data, the Institute for Health Metrics and Evaluation, which I head, is creating geospatial maps of disease burdens with a groundbreaking level of resolution.
+Creating these maps is possible thanks to methods developed by the Malaria Atlas Project, which has produced a better spatial understanding of malaria than we have for any pathogen.
+<P>
+Geospatial maps can pinpoint areas that are making outstanding progress, allowing us to identify communities that have done things differently from their neighbors.
+These case studies can empower communities to replicate one another’s successes.
+One example is Cali, Colombia, which drove down homicide rates in the 1990s after the city’s mayor, Rodrigo Guerrero, tightened alcohol restrictions, introduced community-development programs in the most impoverished neighborhoods, and imposed temporary gun bans in public places.
+<P>
+The mayor of Colombia’s capital, Bogota, learned about the program in Cali and implemented similar measures, which have helped reduce homicides steadily in the city.
+Since then, Guerrero has worked with the Inter-American Development Bank to develop programs that help other Latin American countries reduce violence in their communities.
+In 2014, Guerrero won the Roux Prize for his use of data to improve health, further elevating awareness of his work.
+Geospatial mapping will help us identify more Rodrigo Guerreros and champion their achievements.
+<P>
+As the international community comes together to agree on the tools needed to finance and monitor progress toward the MDGs’ successor framework, the Sustainable Development Goals, geospatial mapping will be critical for tracking progress and indicating where course corrections might be needed.
+We are far beyond where we were in 1990 in terms of health measurement.
+With focused effort and further innovation, we can make even more progress in the next 25 years to help the world make the most of our collective health investments.

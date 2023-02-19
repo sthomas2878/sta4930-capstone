@@ -1,0 +1,53 @@
+<HEADLINE>
+The Real Engine of the Business Cycle
+<P>
+CHICAGO – Every major financial crisis leaves a unique footprint.
+Just as banking crises throughout the nineteenth and twentieth centuries revealed the importance of financial-sector liquidity and lenders of last resort, the Great Depression underscored the necessity of counter-cyclical fiscal and monetary policies.
+And, more recently, the 2008 financial crisis and subsequent Great Recession revealed the key drivers of credit-driven business cycles.
+<P>
+Specifically, the Great Recession showed us that we can predict a slowdown in economic activity by looking at rising household debt.
+In the United States and across many other countries, changes in household debt-to-GDP ratios between 2002 and 2007 correlate strongly with increases in unemployment from 2007 to 2010.
+For example, before the crash, household debt had increased enormously in Arizona and Nevada, as well as in Ireland and Spain; and, after the crash, all four locales experienced particularly severe recessions.
+<P>
+In fact, rising household debt was predictive of economic slumps long before the Great Recession.
+In his 1994 presidential address to the European Economic Association, Mervyn King, then the chief economist at the Bank of England, showed that countries with the largest increases in household debt-to-income ratios from 1984 to 1988 suffered the largest shortfalls in real (inflation-adjusted) GDP growth from 1989 to 1992.
+<P>
+Likewise, in our own work with Emil Verner of Princeton University, we have shown that US states with larger household-debt increases from 1982 to 1989 experienced larger increases in unemployment and more severe declines in real GDP growth from 1989 to 1992.
+In another study with Verner, we examined data from 30 countries over the past 40 years, and showed that rising household debt-to-GDP ratios have systematically resulted in slower GDP growth and higher unemployment.
+Recent research by the International Monetary Fund, which used an even larger sample, confirms this result.
+<P>
+All told, the conclusion that we draw from a large body of research into the links between household debt, the housing market, and business cycles is that expansions in credit supply, operating primarily through household demand, are an important driver of business cycles generally.
+We call this the “credit-driven household demand channel.”
+An expansion in the supply of credit occurs when lenders either increase the quantity of credit or decrease the interest rate on credit for reasons unrelated to borrowers’ income or productivity.
+<P>
+In a new study, we show that the credit-driven household demand channel rests on three main conceptual pillars.
+First, credit-supply expansions, rather than technology or permanent income shocks, are the key drivers of economic activity.
+This is a controversial idea.
+Most models attribute macroeconomic fluctuations to real factors such as productivity shocks.
+But we believe the financial sector itself plays an underappreciated role through its willingness to lend.
+<P>
+According to our second pillar, credit-supply expansions affect the real economy by boosting household demand, rather than the productive capacity of firms.
+Credit booms, after all, tend to be associated with rising inflation and increased employment in construction and retail, rather than in the tradable or export-oriented business sector.
+Over the past 40 years, credit-supply expansions appear to have largely financed household spending sprees, not productive investment by businesses.
+<P>
+Our third pillar explains why the contraction phase of the credit-driven business cycle is so severe.
+The main problem is that the economy has a hard time “adjusting” to the precipitous drop in spending by indebted households when credit dries up, usually during banking crises.
+Even when short-term interest rates fall to zero, savers cannot spend enough to make up for the shortfall in aggregate demand.
+And on the supply side, employment cannot easily migrate from the non-tradable to the tradable sector.
+On top of that, nominal rigidities, banking-sector disruptions, and legacy distortions tend to make post-credit-boom recessions more severe.
+<P>
+Our emphasis on both the expansionary and contractionary phases of the credit cycle accords with the perspective of earlier scholars.
+As the economists Charles P. Kindleberger and Hyman Minsky showed, financial crises and credit-supply contractions are not exogenous events hitting a stable economy.
+Rather, they should be viewed as at least partly the result of earlier economic excesses – namely, credit-supply expansions.
+<P>
+In short, credit-supply expansions often sow the seeds of their own destruction.
+To make sense of the bust, we must understand the boom, and particularly the behavioral biases and aggregate-demand externalities that play such a critical role in boom-bust credit cycles.
+<P>
+But that leaves another question: What sets off sudden credit-supply expansions in the first place?
+Based on our reading of historical episodes, we contend that a rapid influx of capital into the financial system often triggers an expansion in credit supply.
+This type of shock occurred most recently in tandem with rising income inequality in the US and higher rates of saving in many emerging markets (what former US Federal Reserve Chair Ben Bernanke described as the “global savings glut”).
+<P>
+Although we have focused on business cycles, we believe the credit-driven household demand channel could be helpful in answering longer-run questions, too.
+As the Federal Reserve Bank of San Francisco’s Òscar Jordà, Moritz Schularick, and Alan M. Taylor have shown, there has been a long-term secular increase in private – particularly household – credit-to-GDP ratios across advanced economies.
+And this trend has been accompanied by a related decline in long-term real interest rates, as well as increases in within-country inequality and across-country “savings gluts.”
+The question now is whether there is a connection between these longer-term trends and what we know about the frequency of business cycles.

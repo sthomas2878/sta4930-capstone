@@ -1,0 +1,63 @@
+<HEADLINE>
+Restructuring Debt in the Dark
+<P>
+CAMBRIDGE – As the Annual Meetings of the International Monetary Fund and the World Bank begin in Washington, DC, one member country is conspicuously absent: Venezuela.
+Yet there is much to be discussed about the country’s finances.
+Indeed, a sovereign-debt crisis is inevitable.
+<P>
+All major sovereign-debt crises of the past – including in Mexico and Greece – have generated changes in the rules, jurisprudence, or strategies adopted by debtors, creditors, and international financial institutions.
+Most recently, Argentina’s 15-year legal battle with its creditors – in which holdouts did measurably better than creditors who had years earlier accepted a debt exchange – destabilized the international financial architecture and generated a new set of rules.
+Venezuela will be the first country to navigate the new rules; the country can ill afford to get it wrong.
+<P>
+Venezuela is in a severe crisis of its own making.
+The government used the period of high oil prices from 2004 to 2013 to quintuple its external debt, expropriate significant chunks of the economy, and impose draconian price, labor, and currency controls.
+As the price of oil collapsed in 2014, the government, having lost access to capital markets because of its profligacy, chose to continue servicing its bonded debt and default on its obligations to importers and most non-financial creditors.
+<P>
+The government also eschewed both advice and financing from the IMF, instead balancing its foreign-exchange flows by mandating the biggest import contraction in Latin America’s history.
+This caused output to plummet over 30% (owing to the cut in imported inputs), triggered 700% inflation, and led quickly to widespread shortages of essentials.
+Among other things, this unprecedented skewing of priorities led to a collapse in oil production, because the national oil company PDVSA failed to maintain its productive infrastructure and defaulted on payments to key contractors in order to pay its bondholders – thereby killing the goose that laid the golden eggs.
+<P>
+Venezuela’s lack of market access means that it cannot roll over its obligations, except under conditions that worsen its solvency, as PDVSA is trying to do.
+Nor can it generate sufficient foreign exchange to pay its debts as they come due.
+So, one way or another, Venezuela will need to restructure its existing debt.
+<P>
+A restructuring is ultimately in everybody’s interest; starving the economy of imports merely weakens Venezuela’s capacity to produce and repay.
+But what tools does Venezuela have at its disposal to secure a cooperative solution with its creditors in a post-Argentina world?
+And what role should international financial institutions play to facilitate an efficient outcome?
+<P>
+A critical component of successful debt restructuring is to ensure that similarly situated creditors receive comparable treatment.
+But this is impossible unless the “holdout” problem is solved: if a majority of creditors agree to reduce or postpone their claims, it is always tempting for an individual creditor to hold out for full payment by free riding on other creditors’ pain.
+That is why bankruptcy courts and bonds with collective-action clauses (CACs) seek to impose on all bondholders, including potential holdouts, agreements accepted by a qualified majority of creditors.
+<P>
+Two things happened in Argentina.
+First, the defaulted sovereign bonds did not have CACs, so there was no way to force holdouts to accept the initial deal.
+More important, years later, US courts accepted a novel interpretation of the pari passu clause advanced by holdout creditors (and rejected by virtually all other mainstream participants and practitioners in sovereign finance).
+As a result, Argentina was barred from making a current interest payment to holders of its restructured debt unless it simultaneously paid the holdouts the full amount of principal and interest contractually owed to them.
+<P>
+Restructuring in the post-Argentina world is made more challenging because the holdouts’ success in that case means that bondholders inclined to negotiate a solution will have to explain to their own investors why they are not pursuing the potentially more lucrative holdout strategy.
+<P>
+Venezuela’s debt is different.
+About 60% of the country’s public foreign debt consists of bonds, with about half issued by the government and half by PDVSA.
+With few exceptions, government bonds have CACs, making it somewhat easier to address the holdout problem.
+PDVSA bonds have all been issued in the US and, as legally required of all corporate bonds, they do not contain CACs.
+<P>
+PDVSA may nonetheless be entitled to bankruptcy protection both in Venezuela and in the US.
+In this event, PDVSA could obtain a court-mandated standstill order with respect to legal action against it until a restructuring agreement is reached, thereby avoiding a disorderly seizure of assets.
+<P>
+As an additional form of pressure to secure participation, PDVSA’s exclusive right to exploit Venezuela’s hydrocarbon reserves can be withdrawn or modified.
+(Interestingly, both of these possibilities are highlighted as “risk factors” in the offering documents for PDVSA’s bonds.)
+<P>
+Both PDVSA and the government can also use “exit consents”: changing some of the bonds’ terms – the pari passu clause used by Argentina holdouts, as well as other significant provisions – through agreement with a simple majority of PDVSA bondholders and two-thirds of holders of most government bonds.
+<P>
+Venezuela could further distinguish itself from Argentina by committing to a strong reform program and seeking IMF support.
+Under the IMF’s exceptional access facility, Venezuela would potentially be eligible for more than $70 billion of new finance to support its reform program.
+And this backing should help to win strong support from its creditors.
+<P>
+In this context, the IMF and major governments should support Venezuela’s decision to treat would-be holdouts no better than creditors with which it reaches agreement.
+Defaults stemming from an unwillingness to pay do not deserve international support.
+But when a debtor is unable to pay, nothing is gained by forcing payment.
+When a significant number of holdouts insist on being paid in full, it becomes impossible to design an effective restructuring, unless other creditors reduce or defer their claims.
+This is the definition of free riding.
+<P>
+No strategy to undermine holdouts can also mean no restructuring at all, which could mean chaos or even a failed state.
+Neither outcome would serve the interests of the international financial community or the Venezuelan people.

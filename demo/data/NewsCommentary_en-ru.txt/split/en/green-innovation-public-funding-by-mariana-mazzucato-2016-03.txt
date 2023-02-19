@@ -1,0 +1,61 @@
+<HEADLINE>
+A State-Powered Green Revolution
+<P>
+LONDON – Discussions about building a green future tend to focus on the need to improve the generation of energy from renewable sources.
+But that is just the first step.
+Better mechanisms for storing and releasing that energy – when the sun isn’t shining, the wind isn’t blowing, or when electric cars are on the move – are also critical.
+And, contrary to popular belief, it is the public sector that is leading the way toward effective solutions.
+<P>
+Since the commercial development of lithium-ion batteries – the rechargeable batteries common in consumer electronics – in the early 1990s, the challenge of storing and releasing power effectively enough to make sustainable energy sources viable alternatives to fossil fuels has been a vexing one.
+And efforts by entrepreneurial billionaires like Bill Gates and Elon Musk to overcome this challenge have been the focus of much excited media speculation.
+So how many billionaires does it take to change a battery?
+<P>
+The answer, it turns out, is zero.
+This week, Ellen Williams, Director of the Advanced Research Projects Agency-Energy, part of the US Department of Energy, announced that her agency had beaten the billionaires to it.
+ARPA-E, she declared, had attained “some holy grails in batteries,” which will enable us to “create a totally new approach to battery technology, make it work, make it commercially viable.”
+<P>
+While praising Musk’s achievements, Williams drew a sharp distinction between their approaches.
+Musk has been engaged in the large-scale production of “an existing, pretty powerful battery technology.”
+ARPA-E, by contrast, has been pursuing technological innovation in the purest sense: “creating new ways of doing” things.
+And they “are pretty well convinced” that some of their technologies “have the potential to be significantly better.”
+<P>
+To many people, this development may seem surprising.
+After all, the private sector has long been regarded as an economy’s most important source of innovation.
+But this perception is not entirely accurate.
+<P>
+In fact, history’s great entrepreneurial figures have frequently stood on the shoulders of the entrepreneurial state.
+The late Apple founder and CEO Steve Jobs was a smart businessman, but every technology that makes the iPhone “smart” was developed with state funding.
+That is why Gates has declared that only the state, in the form of public institutions like ARPA-E, can lead the way to an energy breakthrough.
+<P>
+It is critical to note here that it is not the state as administrator fulfilling this role; rather, it is the entrepreneurial state in action, creating markets, instead of just fixing them.
+With a mission-oriented approach and the freedom to experiment – with failure understood to be an unavoidable, and even welcome, feature of the learning process – the state is better able to attract top talent and pursue radical innovation.
+<P>
+But, of course, leading a green revolution will be no easy feat.
+To succeed, public agencies will have to overcome significant challenges.
+<P>
+Consider ARPA-E, which was founded in 2009 as part of US President Barack Obama’s economic-stimulus package.
+Though still in its infancy, the agency – based on the model of the long-established Defense Advanced Research Projects Agency (DARPA) – has already shown major promise.
+And, following the commitment, made by Obama and 19 other world leaders at last December’s climate change conference in Paris, to double public investment in green-energy research, ARPA-E seems set to receive a welcome boost in funding.
+<P>
+But ARPA-E still lacks the capacity to create and shape new markets that, say, DARPA enjoys.
+This represents a major challenge, because the agency is working in an industry that remains in its early stages.
+Though the development of wind- and solar-power technologies received a big push in the 1970s, both are still marked by market and technological uncertainty.
+The embedded energy infrastructure retains strong incumbency advantages, and markets do not value sustainability adequately or price waste and pollution fairly.
+<P>
+In the face of such uncertainty, the business sector will not enter the market until the riskiest and most capital-intensive investments have been made, or until coherent and systematic political signals have been communicated.
+Governments must therefore act decisively to make the needed investments and provide the right signals.
+<P>
+Crucially, governments must also install safeguards to ensure that the entrepreneurial state reaps an appropriate share of the rewards for its efforts.
+In the past, this might have happened via tax spillovers.
+But the top marginal rate is nowhere near the level it was in the 1950s, when NASA, a foremost example of state-sponsored innovation, was founded in the US.
+(At that time, the highest marginal tax rate was 91%.)
+Indeed, thanks to the lobbying of Silicon Valley venture capitalists, capital gains tax fell by 50% in five years at the end of the 1970s.
+The increased use of upstream patenting has weakened spillovers.
+<P>
+Of course, private-sector players like Gates and Musk are essential partners in driving forward the green revolution.
+As they assume a greater role in the commercialization and deployment of battery-storage technology, they will earn their fair share of rewards.
+But shouldn’t the ARPA-E (or its angel investors – US taxpayers) also get some return, for its early – and risky – investment?
+<P>
+In some countries, such as Israel (with its Yozma program) and Finland (with its Sitra fund), the government has retained a stake in state-funded innovation.
+This enables the entrepreneurial state to continue to invest, catalyzing the next wave of innovations.
+Why are Western countries so resistant to this sensible idea?

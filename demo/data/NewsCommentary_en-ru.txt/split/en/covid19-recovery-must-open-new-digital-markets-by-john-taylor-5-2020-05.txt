@@ -1,0 +1,57 @@
+<HEADLINE>
+The Real Economic Opening We Need
+<P>
+STANFORD – With governments adopting measures to halt the COVID-induced economic downturn and prepare the way for a safe recovery, we need to start focusing on new ways to open up and create markets.
+So far, this task has been taken up almost entirely by the private sector; but governments need to do more to offer encouragement.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The first step is to observe precisely how markets are opening after months of social distancing and economic lockdowns.
+According to the most recent US Census Bureau data, non-store (primarily online) retail sales rose by 8% in April, up from 5% growth in March.
+In contrast, all other major spending categories declined: sales of motor vehicles and parts were down by 12%, grocery stores’ sales fell 13%, and spending on clothing and accessories plummeted by 79%.
+But within these other categories, specific items are booming, including home office essentials and exercise equipment such as Pelotons.
+As Walmart CEO Doug McMillon recently put it, “Adult bicycles started selling out as parents started to join the kids.”
+<P>
+Telemedicine is also exploding as more service providers launch online services and encourage people to switch to virtual care.
+Increases in bandwidth usage show that patients are responding.
+The recently announced merger of the cloud communications firm Twilio and the doctor-patient network Zocdoc is just one example of the growth underway.
+Twilio’s usage, measured by peak concurrent participants, has surged by 850% since mid-February (and by 500% in terms of daily video minutes).
+The firm now plans to launch a free-to-access HIPAA-compliant Zocdoc video service.
+<P>
+On a related note, RadNet CEO Howard Berger sees a big increase in the imaging business, because the surge in demand for telemedicine has pushed doctors to use remote diagnostic tools that require high-resolution videos or photos.
+<P>
+New modes of buying and selling online are also branching into previously unexplored areas such as education and finance, where videoconferencing has been rapidly and widely adopted.
+According to Zoom Video Communications CEO Eric Yuan, that platform has gone from hosting ten million meeting participants per day last year to 200 million today.
+And as Ami Joseph of Hedgeye has shown, Zoom’s cumulative invoices have increased from around 11 million to 22 million just since March.
+Other digital-communications platforms are experiencing similar changes.
+<P>
+Many firms are also developing plans to allow for more remote work on a permanent basis.
+Last week, for example, Mark Zuckerberg announced that, within a decade, more than half of Facebook’s 48,000 employees will be telecommuting.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+These systemic shocks are causing a major rethink across the economy.
+It is time for governments to follow up with the appropriate policies to encourage the opening of, and further growth in, new markets.
+For its part, President Donald Trump’s administration has already removed one barrier to telemedicine by announcing that the two major government health insurers, Medicare and Medicaid, will pay the same rates for virtual visits as for in-office appointments.
+Though the change is temporary, it can and should be extended.
+<P>
+Moreover, on May 19, Trump took direct action to open new markets.
+In an Executive Order on Regulatory Relief to Support Economic Recovery, he states that, “Agencies should address [the COVID-19] economic emergency by rescinding, modifying, waiving, or providing exemptions from regulations and other requirements that may inhibit economic recovery.”
+<P>
+But much more can be done.
+State governors, along with county and municipal officials, should issue their own executive orders, perhaps modeled on that of the White House.
+These could cover typical state and local regulatory issues such as occupational licensing, land use, and transactions across state and county lines.
+<P>
+Another obvious step for the United States would be to adopt new legislation to reverse the US Supreme Court’s 2018 decision in South Dakota vs. Wayfair, under which states impose tax increases on Internet purchases in order to level the playing field with brick-and-mortar stores.
+Moreover, any new infrastructure legislation should include spending on broadband for the underserved.
+<P>
+Ensuring digital connectivity for those who lack it has become more important than subsidizing roads and bridges, and there are clear opportunities for the US to improve its hardware and software systems.
+Firms like Alphabet, Google’s holding company, have promised to promote remote learning, tele-health, and broadband expansion.
+As former Google CEO Eric Schmidt pointed out recently on CBS’s Face the Nation, the past two months have “brought forth ten years of forward change. … all of a sudden, the Internet is no longer optional.”
+From my own experience teaching economics online, I heartily agree.
+<P>
+Most likely, we are not moving toward a new normal, but rather toward a state of continual change and modernization for as far as the eye can see.
+To survive and benefit in this new era, the US and other countries must have an economic strategy to open markets, keep them open, and then keep them growing.
+And no, opening the country is not an alternative to opening markets.
+We must do both.

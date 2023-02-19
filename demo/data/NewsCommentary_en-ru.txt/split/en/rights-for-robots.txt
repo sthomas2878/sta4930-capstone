@@ -1,0 +1,54 @@
+<HEADLINE>
+Rights for Robots?
+<P>
+PRINCETON and WARSAW – Last month, Gecko Systems announced that it had been running trials of its “fully autonomous personal companion home care robot,” also known as a “carebot,” designed to help elderly or disabled people to live independently.
+A woman with short-term memory loss broke into a big smile, the company reported, when the robot asked her, “Would you like a bowl of ice cream?”
+The woman answered “yes,” and presumably the robot did the rest.
+<P>
+Robots already perform many functions, from making cars to defusing bombs – or, more menacingly, firing missiles.
+Children and adults play with toy robots, while vacuum-cleaning robots are sucking up dirt in a growing number of homes and – as evidenced by YouTube videos – entertaining cats.
+There is even a Robot World Cup, though, judging by the standard of the event held in Graz, Austria, last summer, footballers have no need to feel threatened just yet.
+(Chess, of course, is a different matter.)
+<P>
+Most of the robots being developed for home use are functional in design – Gecko System’s home-care robot looks rather like the Star Wars robot R2-D2.
+Honda and Sony are designing robots that look more like the same movie’s “android” C-3PO.
+There are already some robots, though, with soft, flexible bodies, human-like faces and expressions, and a large repertoire of movement.
+Hanson Robotics has a demonstration model called Albert, whose face bears a striking resemblance to that of Albert Einstein.
+<P>
+Will we soon get used to having humanoid robots around the home?
+Noel Sharkey, professor of artificial intelligence and robotics at the University of Sheffield, has predicted that busy parents will start employing robots as babysitters.
+What will it do to a child, he asks, to spend a lot of time with a machine that cannot express genuine empathy, understanding, or compassion?
+One might also ask why we should develop energy-intensive robots to work in one of the few areas – care for children or elderly people – in which people with little education can find employment.
+<P>
+In his book Love and Sex with Robots , David Levy goes further, suggesting that we will fall in love with warm, cuddly robots, and even have sex with them.
+(If the robot has multiple sexual partners, just remove the relevant parts, drop them in disinfectant, and, voilà, no risk of sexually transmitted diseases!)
+But what will the presence of a “sexbot” do to the marital home?
+How will we feel if our spouse starts spending too much time with an inexhaustible robotic lover?
+<P>
+A more ominous question is familiar from novels and movies: Will we have to defend our civilization against intelligent machines of our own creation?
+Some consider the development of superhuman artificial intelligence inevitable, and expect it to happen no later than 2070.
+They refer to this moment as “the singularity,” and see it as a world-changing event.
+<P>
+Eliezer Yudkowsky, one of the founders of The Singularity Institute for Artificial Intelligence, believes that singularity will lead to an “intelligence explosion” as super-intelligent machines design even more intelligent machines, with each generation repeating this process.
+The more cautious Association for the Advancement of Artificial Intelligence has set up a special panel to study what it calls “the potential for loss of human control of computer-based intelligences.”
+<P>
+If that happens, the crucial question for the future of civilization is: Will the super-intelligent computers be friendly?
+Is it time to start thinking about what steps to take to prevent our own creations from becoming hostile to us?
+<P>
+For the moment, a more realistic concern is not that robots will harm us, but that we will harm them.
+At present, robots are mere items of property.
+But what if they become sufficiently complex to have feelings?
+After all, isn’t the human brain just a very complex machine?
+<P>
+If machines can and do become conscious, will we take their feelings into account?
+The history of our relations with the only nonhuman sentient beings we have encountered so far – animals – gives no ground for confidence that we would recognize sentient robots not just as items of property, but as beings with moral standing and interests that deserve consideration.
+<P>
+The cognitive scientist Steve Torrance has pointed out that powerful new technologies, like cars, computers, and phones, tend to spread rapidly, in an uncontrolled way.
+The development of a conscious robot that (who?) was not widely perceived as a member of our moral community could therefore lead to mistreatment on a large scale.
+<P>
+The hard question, of course, is how we could tell that a robot really was conscious, and not just designed to mimic consciousness.
+Understanding how the robot had been programmed would provide a clue – did the designers write the code to provide only the appearance of consciousness?
+If so, we would have no reason to believe that the robot was conscious.
+<P>
+But if the robot was designed to have human-like capacities that might incidentally give rise to consciousness, we would have a good reason to think that it really was conscious.
+At that point, the movement for robot rights would begin.

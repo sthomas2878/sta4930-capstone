@@ -1,0 +1,55 @@
+<HEADLINE>
+Europe’s Surprising Tech Success
+<P>
+BRUSSELS – Europe is often viewed as a digital laggard, running far behind the frontier-pushing United States and Asia.
+But appearances are deceiving.
+In fact, according to a new report by the London venture capital firm Atomico, European startups are now taking the lead in artificial intelligence, building new tech hubs, and drawing investment from traditional industrial stalwarts.
+Last year, a record-setting $13.6 billion was invested in Europe’s tech sector, compared with $2.8 billion in 2011.
+<P>
+Gone are the days when Europe’s “tech” sector largely comprised consumer-oriented e-commerce businesses – often blatant knockoffs of successful US companies.
+Today, Europe is the home of real pioneering innovation, led by what Atomico calls “deep tech” – the kind of artificial intelligence developed by Google’s DeepMind.
+Deep tech accounted for $1.3 billion of European venture investments in 2015, delivered in 82 rounds, up from $289 million, delivered in 55 rounds, in 2011.
+<P>
+Europe’s new tech hubs are emerging in unexpected places, far beyond the early hotspots of London, Berlin, and Stockholm.
+Atomico pinpoints Paris, Munich, Zurich, and Copenhagen as the cities to watch over the coming years.
+The French capital, Atomico points out, is already starting to challenge London and Berlin in terms of the number and volume of venture-capital-financed deals.
+<P>
+Europe’s traditional industries are now awakening to tech.
+Two-thirds of Europe’s largest corporates by market capitalization have made a direct investment in a tech company.
+One-third of those companies have acquired a tech company since the beginning of 2015.
+<P>
+Foreign firms are also rushing to take advantage of Europe’s tech talent.
+Google, Facebook, and Amazon have all announced major expansions of their European tech hubs.
+Transactions worth more than $88 billion took place last year – compared to just $3.3 billion in 2014 – including SoftBank’s purchase of the British semiconductor-design firm ARM and Qualcomm’s $47 billion purchase of NXP Semiconductors.
+<P>
+Another study, by the Boston Consulting Group, points out that many small export-oriented European Union member countries – namely, the Benelux, Baltic, and Nordic countries – rank well above the US in so-called “e-intensity,” which covers IT infrastructure, Internet access, as well as businesses, consumer, and government engagement in Internet-related activities.
+<P>
+These “digital frontrunners” generate about 8% of their GDP from the Internet, compared to 5% in Europe’s Big Five (Germany, France, Italy, Spain, and the United Kingdom).
+Digitization is expected to generate between 1.6 million and 2.3 million more jobs than it eliminates in these countries between 2015 and 2020.
+<P>
+Of course, Europe’s tech sector still has its weaknesses, reflected in its failure so far to produce a tech giant to rival the behemoths of Silicon Valley.
+While European tech entrepreneurs find it as easy as their American counterparts to raise startup funds, US firms enjoy 14 times more later-stage capital.
+That funding gap would disappear, if European pension funds allocated just 0.6% more of their capital under management to venture investments.
+<P>
+A related weakness is the lack of a true European single digital market.
+In the US or China, tech entrepreneurs gain immediate access to a massive market.
+In Europe, they still must navigate 28 different consumer markets and regulatory regimes.
+<P>
+To be sure, the European Commission promised to create a single digital market two years ago, estimating that it could boost the EU economy by €415 billion ($448.5 billion) annually.
+But Hosuk Lee-Makiyama and Philippe Legrain of the Open Political Economy Network recently delivered a scathing assessment of the results.
+Europe’s “single digital market,” they argue, currently amounts “to a jumble of outdated, corporatist, counterproductive industrial policies that favor producers over consumers, big companies over small, traditional incumbents over digital startups, and EU firms over foreign ones.”
+<P>
+Instead of liberalizing, the EU wants to regulate.
+For example, it is working to ban companies from refusing online sales (except for copyright reasons) or setting different prices on the basis of a customer’s home country.
+Other dangerous possibilities – such as an effort to regulate data ownership, access, and usability – lie on the horizon.
+<P>
+Despite these risks, the overall trend in Europe’s tech sector is a positive one.
+A new appetite for risk seems to be sweeping the continent; Atomico reports that more than 85% of founders say it is “culturally acceptable” to start one’s own company.
+Add to that deep research talent – five of the top ten global computer science faculties are within the EU – and Europe’s start-up boom looks sustainable.
+<P>
+Politically, too, there is reason for optimism.
+Europe’s digital frontrunners are beginning to organize into a potent force, with 16 small EU countries, from Denmark to Ireland and Estonia, having formed a pro-Internet group.
+Together, these countries have urged the EU to ban data-localization requirements.
+<P>
+At a time when the US is pursuing protectionist, insular, and backward-looking policies, Europe is stepping up as an innovative and forward-looking economic force.
+Wouldn’t it be ironic if, as now seems likely, it is the supposedly backward EU that ended up leading the way in unlocking the Internet’s true economic potential?

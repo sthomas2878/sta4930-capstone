@@ -1,0 +1,50 @@
+<HEADLINE>
+How Better Climate Data Can Help the Municipal Market
+<P>
+LONDON – The COVID-19 pandemic has heightened awareness of the possibility of “green swan” events and the opportunities for greater foresight regarding both chronic and acute risks, including those related to climate change.
+Scenario analysis, using future climate projections from standardized models, may thus become increasingly relevant as another source of information to support risk evaluation.
+<P>
+More specifically, scenario analysis and better data may help to improve our understanding of the longer-term challenges facing municipal bond issuers in the United States, and help to inform the analysis of the possible climate threats faced by US towns and cities.
+More information could enable issuers to demonstrate the strength of their climate adaptation and resilience strategies, their risk-mitigation measures, and how such measures might be funded – all of which could contribute to more (and more comparable and useful) disclosure.
+<P>
+Such efforts are important, because climate risks may be increasingly relevant to many US municipal issuers.
+In our view, consistent disclosure of these risks has been lacking for some time in the $3.8 trillion US municipal bond market.
+Alternative data may bring into sharper focus the areas where physical climate risks may be more pronounced, and encourage greater awareness of the benefits of enhanced and more comparable disclosure.
+<P>
+Our research reveals that many US municipalities are facing chronic climate risks that are increasingly likely to materialize over the medium to long term.
+For example, water scarcity is projected to affect 38% of US counties by 2050 under a high-stress climate scenario – representing a considerable potential challenge for municipal water utilities, public-owned power companies, and local governments.
+<P>
+Heatwave risk, meanwhile, is likely to continue increasing across the US, with Florida particularly vulnerable to the negative economic impact, which includes reduced worker productivity.
+Wildfires, often caused by high summer temperatures and low precipitation, are already proving to be a risk, especially in western and southeastern states, where they increase transportation costs, stress utility networks, and damage local economies.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Finally, the risk of sea-level rise and river flooding is most severe in Louisiana, which we anticipate will have the greatest number of counties affected by 2050.
+Municipal entities in flood-prone counties could face increasing costs associated with constructing new buildings and infrastructure that are resilient to climate change.
+If municipalities in high-risk areas fail to adopt financial strategies or adaptation and resilience strategies, they will remain exposed to these material hazards, which – if unmitigated – could negatively affect their creditworthiness.
+<P>
+US municipalities are more familiar with acute climate risks such as extreme weather events.
+But for some, the most significant climate threats are likely to be chronic, rather than one-off natural catastrophes.
+Moreover, the longer timescales of these chronic risks are sometimes misaligned with many issuers’ financial forecasting periods.
+<P>
+This misalignment is compounded by the difficulty of gauging the potential severity of these risks and determining the period over which they may intensify.
+In addition, the efficacy of potential mitigation measures – and their timing, cost, and funding – adds a further layer of complexity and uncertainty.
+This may make it difficult to understand and quantify the range of potential consequences of climate risks, and the changes that municipalities could implement to foster resilience.
+<P>
+To address this challenge, S&P Global Ratings has been exploring the use of data from our sister company Trucost to consider US municipalities’ potential exposure to longer-term climate risks by examining different potential climate scenarios.
+These enhanced data and the exploratory analysis could enable deeper risk analysis and foster a dialogue about how entities view potential future risks, as well as what measures they may consider to prepare for and mitigate those risks.
+<P>
+A municipality’s creditworthiness can weaken over time if it does not mitigate climate risks via other credit factors, such as capital and financial planning or coordination with other government entities.
+Scenario analysis can identify material risks and opportunities before they emerge, simulate organizational resilience, and help assess whether other factors can sufficiently mitigate an issuer’s longer-term climate risk.
+<P>
+At the same time, applying different scenarios (including stress testing against more extreme scenarios) can give issuers a chance to demonstrate the robustness of their current or planned adaptation strategies. Given the wide spectrum of US municipal issuers, an enriched pool of data and more consistent disclosure by US municipal entities of potential hazards could enhance the assessment of the link between various potential physical risks and risk mitigants and credit quality.
+<P>
+The Task Force on Climate-Related Financial Disclosures suggests using available scenarios from the Intergovernmental Panel on Climate Change’s Fifth Assessment Report (AR5).
+These reflect four possible greenhouse-gas (GHG) emissions pathways (known as Representative Concentration Pathways, or RCPs) and possible scenarios by 2100.
+Each scenario fixes the level of GHG concentration in the atmosphere, resulting in an associated change in global average temperature (compared with the 1986-2005 historical baseline).
+This allows for greater standardization in climate risk reporting.
+<P>
+Enhanced standardized reporting could help US municipalities to compare with others facing similar climate risks and identify long-term challenges.
+Currently, however, there are no significant initiatives in this regard within the US public-finance market.
+Absent an industry or sector standard, best practice, or regulatory requirement, improved disclosure by issuers or independent data providers could facilitate comparative analysis of the range of possible physical risk exposures, as well as actual and planned measures to mitigate them.

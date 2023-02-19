@@ -1,0 +1,65 @@
+<HEADLINE>
+What COVID-19 Means for International Cooperation
+<P>
+WASHINGTON, DC – Throughout history, crisis and human progress have often gone hand in hand.
+While the growing COVID-19 pandemic could strengthen nationalism and isolationism and accelerate the retreat from globalization, the outbreak also could spur a new wave of international cooperation of the sort that emerged after World War II.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+COVID-19 may become not only a huge health crisis, but also a crisis of globalization and global governance.
+Most obviously, it raises the question of how the world should organize itself against the threat of pandemics.
+But it also has implications for how globalization is perceived and what that perception means for the future of international cooperation.
+<P>
+Five decades of increasing interconnectedness have opened up the world to massive cross-border flows of goods, services, money, ideas, data, and people.
+While globalization itself is not new, the sheer scale and scope of the current version has made the world unprecedentedly interdependent – and thus fragile.
+<P>
+Today’s global socioeconomic infrastructure looks and works like a hub-and-spoke network in which all nodes are separated by very short distances and essential functions are centralized in large hubs.
+Financial activity is concentrated in the United States, for example, while China is the world’s manufacturing center.
+This structure is geared toward maximizing efficiency by capturing the benefits of economies of scale and specialization.
+Indeed, it has helped to lift millions of people out of poverty (although it also has led to greater income inequality and related social malaise in many countries).
+<P>
+However, connectivity also creates an enormous – but often hidden – risk of catastrophe.
+This is because connectivity increases what statisticians call “fat-tailedness,” or the likelihood of inherently unquantifiable extreme events such as financial crises, a nuclear holocaust, hostile artificial intelligence, global warming, destructive biotechnology, and pandemics.
+<P>
+Because critical functional roles are hyper-concentrated and the entire network is so tightly linked, shocks to a central hub such as the US or China can very quickly become systemic and paralyzing.
+The very reliance on central hubs generates systemic risk, because hubs constitute single points of failure, and the tight interconnectedness between and among hubs and nodes amplifies the potential for cascading failures.
+That is why the 2008 financial meltdown that originated in the US was so destructive, and why the COVID-19 outbreak that began in China quickly became a global health and economic crisis.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Two different political trends are likely to emerge from this unfolding disaster.
+<P>
+First, the crisis may prompt moves to reduce global connectedness, including in terms of travel, trade, and financial, digital, and data flows.
+People may instinctively demand more isolation in many domains.
+Seeking protection through blanket isolationism would be misguided and counterproductive.
+But in this case, communities can indeed help to contain the COVID-19 threat by adaptively reducing their connectivity through mitigation measures that increase social distance such as school and business closures, bans on public gatherings, and limitations on public transport while the crisis lasts.
+<P>
+Such draconian steps will have high short-term economic and social costs, and they entail undeniable practical and ethical challenges.
+In hindsight, they may turn out to be unnecessary.
+But it’s precisely because we can’t predict the spread of COVID-19 that the crisis demands aggressive action early on.
+As mathematician and risk expert Nassim Nicholas Taleb points out, because exponential growth initially looks deceptively linear, overreaction on the part of policymakers is not only warranted, but required.
+<P>
+This is a tactical consideration, not a strategic one: The goal is not to promote deglobalization, but rather to build greater robustness.
+When risks are potentially ruinous, systemic survival must supersede efficiency considerations.
+That is why, for example, macroprudential buffers like higher capital requirements in the financial sector are desirable.
+<P>
+A clear parallel between the COVID-19 pandemic and climate change is becoming apparent.
+Both feature emergence, path dependence, feedback loops, tipping points, and non-linearity.
+Both entail catastrophic fat-tailed risks ruled by radical uncertainty and call for eschewing traditional cost-benefit analysis – which relies on known probability distributions – in favor of drastic mitigation to reduce exposure.
+And, importantly, both highlight the need for much closer forward-looking international cooperation to manage global threats.
+<P>
+Indeed, a demand for greater global cooperation is the second and more significant political trend that could emerge from the current crisis.
+While this might at first sound inconsistent with heightened suspicion of globalization, the necessary reforms can in fact synthesize both trends.
+Pandemic prevention and containment is a global public good, and providing it requires increased global coordination as well as adaptive, temporary, and coordinated decoupling.
+<P>
+For starters, there is both a need for and an opportunity to introduce global “circuit-breakers” that can isolate systemic risks early on and prevent them from spreading.
+These mechanisms will be most effective if they are clear, transparent, designed in advance, and embedded in a global governance system that legitimizes and continuously updates them.
+For example, governments could craft and adopt common protocols for temporary travel and trade restrictions in the event of a potential pandemic, supported by globally agreed-upon early-warning systems and thresholds for action.
+<P>
+In addition, the international community may wish to build functional redundancy into complex systems – including finance, value chains, food supply, and public health – in order to prevent central hubs from becoming choke points and to ensure that single failures do not cascade into systemic collapse.
+Although this would entail some reshoring and de-concentration at the expense of efficiency, economies of scale, and comparative advantage, the goal is not autarky but rather risk reduction through diversification.
+<P>
+Humanity must organize itself to mitigate the tail risks associated with climate change, pandemics, bioterror, and unmanaged AI.
+Although this will require a historic leap, major crises often open the political space for radical reforms.
+Precisely at a time when rules-based multilateralism is in retreat, perhaps the fear and losses arising from COVID-19 will encourage efforts to bring about a better model of globalization.

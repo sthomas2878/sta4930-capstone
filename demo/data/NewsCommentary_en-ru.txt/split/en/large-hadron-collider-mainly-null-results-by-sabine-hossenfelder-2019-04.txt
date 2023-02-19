@@ -1,0 +1,66 @@
+<HEADLINE>
+We Don’t Need a Bigger Particle Collider
+<P>
+FRANKFURT – Between Lake Geneva and the Swiss Jura, more than 100 meters (328 feet) below the surface, lies a circular tunnel, 27 kilometers (17 miles) in circumference, containing superconducting magnets that accelerate protons almost to the speed of light.
+At four locations in the tunnel, the protons are made to collide.
+Particle physicists observe these collisions, in an effort to learn what matter is made of and what holds it together.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The Large Hadron Collider (LHC), operated by the European Organization for Nuclear Research (CERN), is the largest particle collider ever built and was the source of grand hopes when it was launched in 2008.
+Some predicted it would find the particles that comprise “dark matter,” which astrophysicists believe constitutes 85% of all matter in the universe.
+Others expected the LHC to deliver evidence of new natural symmetries or additional dimensions of space, or to help explain “dark energy” (which supposedly causes the observed accelerated expansion of the universe).
+<P>
+None of this has happened.
+The LHC did enable the discovery of one new elementary particle, the Higgs boson – the last missing particle predicted (in the 1960s) in the Standard Model of particle physics.
+But that was in 2012, and no new particles have been found since.
+Would building another, larger collider change that?
+<P>
+Proponents of a new collider say that a larger collider could measure more precisely the properties of already-known particles, and, because it would reach slightly higher collision-energies than the LHC, it could bring forth new discoveries.
+But physicists currently have no reason to believe that a larger collider would produce evidence of anything that is not already in the Standard Model.
+Discovering any additional new particles might require energies a billion times higher than what the next collider would produce.
+<P>
+Moreover, particle accelerators are very expensive.
+The colliders (both linear and circular) for which physicists in China and Japan and at CERN have put forward proposals would cost some $10-20 billion each, and take 20-30 years to build.
+While certain technological advances could bring down costs, these have not yet occurred.
+<P>
+Of course, high costs may be justified if there were a good chance that the investment would yield major benefits to society.
+And past research in the foundations of physics has undoubtedly benefited humankind massively.
+In the last century, research breakthroughs have enabled the development of all modern electronic devices (transistors, microchips, lasers, LEDs, digital cameras, and soon maybe quantum computers) and medical imaging methods (X-rays, ultrasound, spectroscopy, magnetic resonance, positron emission tomography, and electron tunnel microscopes).
+<P>
+But there is no reason to believe that a larger collider would pay off.
+The problem is not that physicists do not have more foundational work to do.
+Their most robust theories still confront unsolved problems, and further progress could result in new advances, especially in quantum theory (the basis of modern computer technology).
+The problem, instead, lies in their approach.
+<P>
+Physics has changed, but the methods of particle physicists have not: they still rely on serendipitous discoveries.
+That works when exploratory experiments are diverse and numerous.
+But when new experiments cost billions of dollars and take decades to prepare, as they do now, we need to be more scrupulous in our investments.
+Otherwise, budgets can quickly be drained by costly experiments that deliver null results, such as observations that confirm existing theories, rather than support new hypotheses.
+<P>
+In the last 40 years, this is exactly what has been happening.
+The LHC confirmed one reliable prediction: the Higgs boson.
+That’s it.
+And when it comes to effects that the Standard Model does not predict, the LHC is only the most recent in a long series of particle-physics experiments – including all previous experiments carried out since the Standard Model was completed in the 1970s – that have produced null results.
+Far from providing evidence of unified forces or new symmetries or particles, these endeavors taught physicists to invent particles that are more difficult to measure.
+<P>
+Yes, null results are also results.
+They can rule out hypotheses.
+But if you need to develop a new theory, they are not very useful.
+A null result identifies a dead end, of which there can be a huge number.
+To make progress in understanding the foundations of physics, we need results that point to a path forward.
+A larger collider probably will not provide that.
+<P>
+There are research areas that are currently more likely to yield actual results at a lower cost, such as astrophysical studies of dark matter and experiments probing the quantization of gravity.
+These are the areas physicists should focus on right now.
+<P>
+If technological breakthroughs make colliders more affordable, or other experiments deliver reasons to think that a larger collider will show physicists new particles, it might be worth building one.
+But that could be 20, 50, or 100 years from now.
+Until then, we should invest in more promising research.

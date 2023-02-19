@@ -1,0 +1,61 @@
+<HEADLINE>
+Housing Bubble Déjà Vu
+<P>
+CAMBRIDGE – The 2008-2009 financial crisis exposed a serious weakness in the global financial system’s architecture: an overnight market for mortgage-backed securities that could not handle the implosion of a housing bubble.
+Some nine years later, that weakness has not been addressed adequately.
+<P>
+When the crisis erupted, companies and investors in the United States were lending their extra cash overnight to banks and other financial firms, which then had to repay the loans, plus interest, the following morning.
+Because bank deposit insurance covered only up to $100,000, those with millions to store often preferred the overnight market, using ultra-safe long-term US Treasury obligations as collateral.
+<P>
+But overnight lenders could command even higher interest rates if they took as collateral a less-safe mortgage pool, so many did just that.
+Soon, America’s red-hot housing market was operating as a multi-trillion dollar money market.
+<P>
+It soon became clear, however, that the asset pools underpinning these transactions were often unstable, because they comprised increasingly low-quality mortgages.
+By 2009, companies were in a panic.
+They balked at the idea of parking their cash overnight, with mortgage pools as collateral.
+This left the financial system, which had come to depend on that cash, frozen.
+Lending dried up, fear intensified, and the economy plunged into recession.
+<P>
+That experience has prompted efforts to make the financial system safer.
+One key objective is to ensure that mortgage-pool lenders will be repaid, thereby discouraging them from running off at the first sign of trouble.
+It seems likely that this objective can be achieved if one or two banks fail.
+But if an economy-wide financial event triggers the simultaneous collapse of multiple financial firms, all bets are off.
+<P>
+This is bad news.
+After all, the housing market overheats every decade or two.
+If the system is stable enough, it can cool off without catastrophe.
+Now, however, the trillion-dollar overnight repo market in housing mortgages is so large that, when the housing market retreats, financial stability could be threatened.
+<P>
+Existing reforms do not adequately mitigate this risk, largely because they depend on the authorities and the banks to complete a complex and untested repayment process within 48 hours of a bank’s collapse.
+This would be extremely difficult to achieve if multiple banks failed simultaneously.
+<P>
+In the face of a housing crisis, it is plausible that lenders would again panic, deciding that they cannot depend on untested processes to stabilize the banks and withdrawing their overnight loans.
+Banks, stripped of cash, would then cut lending, as they did in 2008 and 2009, plunging into a recession yet again.
+<P>
+The grim irony here is that, prior to such a shock, preparing for restructuring encourages lenders to provide more overnight loans.
+This expands the overnight market, makes mortgage lending easier, and increases the costs of collapse.
+<P>
+This is not mere speculation.
+Most observers of the mortgage market believe that its growth accelerated in 2005, after Congress exempted mortgage bonds from most bankruptcy procedures – a move that would eliminate waiting time for repayment.
+That change convinced mortgage lenders that their activities were ultra-safe: they no longer even had to worry about the quality of the borrower.
+When crisis struck, that confidence quickly faded, and investors fled.
+<P>
+I recently compared this situation to that of a hurricane zone like the Florida Keys.
+A tougher building code means that, in the event of a flood, buildings are more likely to stand.
+But that (and other hurricane planning) also draws more residents.
+If a hurricane hits, those residents may still panic – especially if buildings prove less reliable than anticipated.
+If more residents flee simultaneously, the escape route could quickly become congested, putting everyone in danger.
+<P>
+Treating housing mortgages as if they were US Treasury bonds was a mistake in 2008 and it is a mistake today.
+What US authorities should do is strengthen protections for the overnight money market for US Treasuries, which aren’t subject to panics and bubbles, while rolling back most of the legal advantages enjoyed by short-term, overnight financing of mortgage-backed securities.
+<P>
+To this end, a bill introduced by Senator Jack Reed last December – which would require regulators to examine more carefully how restructuring rules could destabilize the financial system – is a positive step.
+Congress should also reverse its relentless promotion of home ownership, which made mortgages easy to acquire and mortgage pools easier to sell.
+<P>
+Management of US public debt could also help to make the financial system more secure.
+The overnight mortgage-pool market exists partly because there aren’t enough short-term US Treasury bills available for businesses that want easy access to cash without the risk implied by uninsured bank deposits.
+If the US Treasury sold more short-term – rather than longer-term – obligations, fewer lenders would turn to mortgage pools.
+Such proposals exist, but none has been implemented.
+<P>
+The global financial crisis that the US housing-market crash triggered in 2008 carried important lessons about how fragile the financial system is in the face of a housing-market collapse.
+Unfortunately, policymakers have not yet fully applied them.

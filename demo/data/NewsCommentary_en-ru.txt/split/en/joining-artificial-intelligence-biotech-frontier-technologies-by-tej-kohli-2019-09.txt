@@ -1,0 +1,63 @@
+<HEADLINE>
+Joining the Technological Frontiers
+<P>
+LONDON – Artificial intelligence (AI) and biotechnology are both on an exponential growth trajectory, with the potential to improve how we experience our lives and even to extend life itself.
+But few have considered how these two frontier technologies could be brought together symbiotically to tackle global health and environmental challenges.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Consider the pace of recent developments in both fields.
+Biotechnology, in cost-benefit terms, has been improving by a factor of ten every year.
+The cost of deciphering the human genome has dropped from $3 billion in 2001 to about $1,000 today; a process that took months ten years ago can now be completed in less than an hour.
+Likewise, based on current developments, PricewaterhouseCoopers estimates that AI’s contribution to global output will reach $15.7 trillion by 2030 – more than the current combined output of China and India.
+<P>
+Yet, if anything, these predictions underestimate the economic impact.
+AI applications will eventually be so broad and so embedded in every aspect of our daily lives that they will likely contribute three to four times more to global output than the Internet, which today accounts for around $50 trillion of the global economy.
+Moreover, the siloed nature of current analyses means that potential AI/biotech combination technologies have not been fully considered or priced in.
+<P>
+For example, combination technologies could tackle a global health issue such as organ donation.
+According to the World Health Organization, an average of around 100,800 solid organ transplants were performed each year as of 2008.
+Yet in the United States, there are nearly 113,000 people waiting for a life-saving organ transplant, while thousands of good organs are discarded each year.
+For years, those in need of a kidney transplant had limited options: they either had to find a willing and biologically viable living donor, or wait for a viable deceased donor to show up in their local hospital.
+<P>
+But with enough patients and willing donors, Big Data and AI make it possible to facilitate far more matches than this one-to-one system allows, through a system of paired kidney donation.
+Patients can now procure a donor who is not a biological fit and still receive a kidney, because AI can match donors to recipients across a massive array of patient-donor relationships.
+In fact, a single person who steps forward to donate a kidney – either to a loved one or even to a stranger – can set off a domino effect that saves dozens of lives by resolving the missing link in a long chain of pairings.
+<P>
+Since the first paired kidney exchanges took place in 2000, nearly 6,000 people have received kidney transplants from donors identified by algorithms.
+But this could be just the start of AI-facilitated organ transplantation.
+AI can already identify potential donors and recipients; in the future, it will be able to account for even richer patient data, perhaps including moral and religious factors, to help with sequencing and triage decisions (that is, determining whether someone should get a transplant before someone else).
+<P>
+The biggest hurdle preventing these AI models from reaching their full potential is biological.
+In theory, AI applications could draw on data sets encompassing all living and deceased organ donors and all patients worldwide.
+But, in practice, there is a time limitation on most organ pairings, because organs from deceased donors are viable for transplantation for only a short period.
+To be paired, recipients must be located within a geographic radius that can be reached in time.
+<P>
+Fortunately, synthetic biotechnology could vastly expand the scope of feasible pairings.
+Globally, the synthetic biology market is growing fast, and is expected to exceed $12.5 billion by 2024, reflecting a compound annual growth rate of 20%.
+Within this emerging industry, there are companies (including one in which I am an investor) exploring methods of preserving and even regenerating organs outside of the body, potentially for multiple days at an ambient temperature.
+This could extend the distances that organs can be transported, thus enabling a network effect by increasing the size of viable data pools from which AI models can draw to produce more efficient chains of pairings.
+<P>
+Perfecting new biotechnologies usually takes years.
+But, if successful, these innovations could revolutionize large areas of public health, with the global organ-donation regime being just the start.
+<P>
+The moral and ethical implications of today’s frontier technologies are far-reaching.
+Fundamental questions have not been adequately addressed.
+How will algorithms weigh the needs of poor and wealthy patients?
+Should a donor organ be sent to a distant patient – potentially one in a different country – with a low rejection risk or to a nearby patient whose rejection risk is only slightly higher?
+<P>
+These are important questions.
+But I believe that we should get combination technologies up and working, and then decide on the appropriate controls.
+The matching power of AI means that eight lives could be saved by just one deceased organ donor; innovations in biotechnology could ensure that organs are never wasted.
+The faster these technologies advance, the more lives we can save.
+<P>
+AI and biotech are undergoing rapid development precisely because they have such far-reaching potential.
+As they move forward, we must keep looking for new combinations to unlock.
+I suspect that we will find we have underestimated their potential by considering them in isolation.

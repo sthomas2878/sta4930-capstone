@@ -1,0 +1,56 @@
+<HEADLINE>
+What Caused the COVID-19 Testing Deficit?
+<P>
+CAMBRIDGE – The United States is the world’s richest country, and home to ten of the 20 largest diagnostics companies.
+And yet, it not only has suffered more deaths from COVID-19 than any other country, but also remains highly vulnerable to a continued escalation.
+The reason is simple: there are not enough diagnostic tests.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+During a disease outbreak, medicines and vaccines understandably get a lot of attention.
+But diagnostics are effectively a first line of defense against transmission, particularly for a disease like COVID-19, which can be spread by asymptomatic carriers.
+As the divergent experiences of the US and South Korea show, testing can be the difference between containment and catastrophe.
+<P>
+The COVID-19 outbreak began on a similar trajectory in both countries, with the number of confirmed cases increasing at a comparable rate.
+But South Korea’s government quickly took action to create a market for rapid innovation and fulfillment of testing demand, boosting its capacity to 15,000 tests per day and establishing drive-through centers to conduct them.
+<P>
+As of March 20, South Korea had carried out more than 300,000 COVID-19 tests – a rate exceeding 6,000 per million inhabitants – despite being home to none of the 20 largest diagnostics companies.
+Just over two weeks after reaching 100 confirmed cases, the country flattened its curve, with very few – if any – new cases per day.
+<P>
+In the US, by contrast, delayed government intervention left markets in charge of meeting accelerating demand.
+As of March 20, the country had performed roughly 100,000 tests – some 300 per million people.
+New cases – and the death toll – continued to rise.
+<P>
+Simply put, swift government intervention worked in South Korea, whereas the market’s invisible hand failed in the US.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Globally, the development of diagnostics has long been left to markets, many of which are highly specialized.
+But while there are diagnostics markets for major infectious and non-infectious diseases, and even neglected tropical diseases, there is none for pandemic diseases.
+<P>
+Governments can of course counteract market deficiencies, but the commonly used mechanisms still require a trace level of demand, which does not exist for pandemic-disease diagnostics until the brink of an outbreak.
+And national governments, subject as they are to political and ideological constraints, cannot be relied upon always to create markets with the same swiftness demonstrated by South Korea.
+Reactive market creation is therefore not the way forward.
+<P>
+Instead, national governments should support the creation of a global coordinating platform for pandemic preparedness.
+Such a platform can take the lead in raising and pooling capital to channel toward rapid development, production, and distribution of diagnostics for pandemic diseases.
+<P>
+The blueprint for such a platform already exists.
+The Coalition for Epidemic Preparedness Innovations (CEPI) is a coordinating mechanism focused on advancing vaccine development and facilitating clinical validation, mass-scale manufacturing, and stockpiling.
+By reducing uncertainty and minimizing disruptions, CEPI makes vaccine markets more secure, accessible, and dynamic.
+<P>
+CEPI relies on both traditional financing (large grants from governments and foundations) and innovative financing (the returns from instruments like the International Finance Facility for Immunization, or IFFIm).
+In the event of an outbreak, CEPI uses instruments like Advanced Market Commitments (AMCs) or volume guarantees – which can be structured through mechanisms like the Global Health Investment Fund and InnovFin, or as conditional pledges to IFFIm and Gavi, the Vaccine Alliance – to enable it to scale up production quickly.
+<P>
+This blueprint can easily be replicated for diagnostics.
+All that is needed is a specialized entity – an institution or initiative that couples research and development with market access.
+Everything else could function just as CEPI does: the platform would receive funding from member states, increase spending power by investing in the IFFIm, and scale up production when necessary using AMCs or volume guarantees.
+<P>
+Such an entity could even work directly with CEPI.
+A diagnostics-vaccines partnership, built on a common market-access and financing platform, could reduce inefficiencies and transaction costs.
+So, in a pandemic scenario, as researchers develop and test vaccines, diagnostics could be produced fast and deployed widely, thereby drastically limiting transmission.
+<P>
+The COVID-19 pandemic has shown that, left to their own devices, markets will not produce the kind of responsive diagnostics production that is vital during a disease outbreak.
+It has also shown that this failure can quickly produce a public-health catastrophe, even in an advanced economy with leading diagnostics firms.
+Unless action is taken to correct this failure and ensure broad access to COVID-19 testing (and to testing for future disease outbreaks), one dreads to think what awaits poorer countries.

@@ -1,0 +1,65 @@
+<HEADLINE>
+What Policymakers Should Ask Modelers
+<P>
+CAMBRIDGE – On April 8, New York Governor Andrew Cuomo announced that his state was “flattening the curve” of the COVID-19 pandemic.
+But only two weeks earlier, various models had projected that peak hospitalizations in New York could be several times higher than they in fact turned out to be.
+Juxtaposing the actual number of COVID-19 hospitalizations with those projections, Cuomo wondered, “How do you come up with an actual curve that is so much different than what those experts predicted?”
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Cuomo’s question encapsulates the challenge that decision-makers face when dealing with predictive models.
+When the stakes are high, and model-based projections are a primary guide, how should policymakers proceed?
+<P>
+It’s a relevant question not only during a pandemic.
+The 2008 financial crisis highlighted the power (and risks) of economic and financial models, and reliance on such tools will only continue to grow in an age of big data and big computing power.
+As scientists who routinely build models for policy analysis, we propose four questions that decision-makers should ask when using such models’ results.
+<P>
+First, why was the model created?
+<P>
+Every model simplifies reality, and its creator’s decisions regarding what to simplify (and how), what to include, and what to leave out are based primarily on the questions the model was built to explore.
+A model’s specific purpose guides the choice of mathematical equations and methods used.
+<P>
+When a model is repurposed to investigate questions for which it was not originally intended, the results will be only as good as the alignment of the questions and the model design.
+For example, a model built for estimating hospital-bed usage can be very different from a model focused on understanding the dynamics of a disease’s spread and the consequent policy implications.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Second, what are the model’s key assumptions, and are they all valid for the situation at hand?
+<P>
+It’s not only the question for which a model was designed that matters.
+For example, some epidemiological models of infectious diseases assume a fixed population.
+That may be valid for some regions, but not for cities where a large number of people – infected or healthy – enter and leave daily.
+<P>
+Other assumptions may relate to which aspects of the past will remain the same in the future.
+Many models simply provide a scenario of a possible future if things follow the same course they did previously.
+Such analyses are useful, because they show what may happen if we do not adapt.
+This information can help to galvanize action aimed at avoiding an undesirable future and creating a more attractive one.
+<P>
+Our societies are dynamic, and most people constantly respond to new information with varying degrees of delay.
+As a result, the very introduction of a prediction into the public realm can alter a future trajectory.
+Policymakers therefore need to know which aspects of the real world a model assumes as fixed.
+They must also ask how a model’s results change if some of its key assumptions are not fully valid for a specific situation.
+<P>
+Third, where do the data that are fed into the model come from, and how applicable are they in the current context?
+<P>
+Models use data to compute specific results, so it is crucial to know where those data come from, and how accurate they are.
+Ideally, the data should come from reliable sources, cover the region for which the policy in question is being considered, and be as up-to-date as possible.
+In reality, data may be limited, not very granular, or from a different context.
+If so, the modelers should make this clear.
+<P>
+For example, some of the early estimates of how many hospital beds and how much intensive-care capacity would be needed for COVID-19 patients in the United States were based on data from China.
+But if US doctors use different standards for hospitalizing patients than their counterparts in Wuhan did, then the Chinese data will have limited applicability.
+<P>
+Policymakers often must make the best use of available data, despite weaknesses in those data.
+Duly noting such flaws or shortcomings provides important context for decisions, and also highlights the urgency of acquiring better data as soon as possible.
+<P>
+Finally, how uncertain are the results?
+<P>
+Fixating on a single forecast without placing due emphasis on its uncertainty can be dangerous and costly.
+Modelers, and news reports referring to models, should clearly communicate the sources and extents of any uncertainties.
+At the same time, policymakers must seek to understand a model’s margin of error and keep that in mind when making a decision.
+<P>
+With decision-makers relying on a growing torrent of forecasts regarding COVID-19 and other important issues, it is more important than ever that they ask questions about how the projections were made.
+Models can never predict the future perfectly.
+But if built carefully and used with humility, they can be like telescopes on a ship in the rain – providing blurry images that help us discern what may lie ahead, so that we can decide whether to chart a different and better course.

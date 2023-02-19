@@ -1,0 +1,50 @@
+<HEADLINE>
+The CEO Pay Slice
+<P>
+CAMBRIDGE – There is now intense debate about how the pay levels of top executives compare with the compensation given to rank-and-file employees.
+But, while such comparisons are important, the distribution of pay among top executives also deserves close attention.
+<P>
+In our recent research, we studied the distribution of pay among top executives in publicly traded companies in the United States.
+Such firms must disclose publicly the compensation packages of their five highest-paid executives.
+Our analysis focused on the CEO “pay slice” – that is, the CEO’s share of the aggregate compensation such firms award to their top five executives.
+<P>
+We found that the pay slice of CEOs has been increasing over time.
+Not only has compensation of the top five executives been increasing, but CEOs have been capturing an increasing proportion of it.
+The average CEO’s pay slice is about 35%, so that the CEO typically earns more than twice the average pay received by the other top four executives.
+Moreover, we found that the CEO’s pay slice is related to many aspects of firms’ performance and behavior.
+<P>
+To begin, firms with a higher CEO pay slice generate lower value for their investors.
+Relative to their industry peers, such firms have lower market capitalization for a given book value.
+The ratio of market value to book value, termed “Tobin’s Q” by financial economists, is a standard measure for evaluating how effectively firms use the capital they have.
+<P>
+Moreover, firms with a high CEO pay slice are associated with lower profitability.
+The operating income that such firms generate, relative to the value of their assets, tends to be lower.
+<P>
+What makes firms with a higher CEO pay slice generate lower value for investors?
+We found that the CEO pay slice is associated with several dimensions of company behavior and performance that are commonly viewed as reflecting governance problems.
+<P>
+First, firms with a high CEO pay slice tend to make worse acquisition decisions.
+When such firms make acquisition announcements, the stock-market returns accompanying the announcement, which reflect the market’s judgment of the acquisition, tend to be lower and are more likely to be negative.
+<P>
+Second, such firms are more likely to reward their CEOs for “luck.”
+They are more likely to increase CEO compensation when the industry’s prospects improve for reasons unrelated to the CEO’s own performance (for example, when oil companies benefit from a steep rise in world oil prices).
+Financial economists view such luck-based compensation as a sign of governance problems.
+<P>
+Third, a higher CEO pay slice is associated with weaker accountability for poor performance.
+In firms with a high CEO pay slice, the probability of a CEO turnover after bad performance (controlling for the CEO’s length of service) is lower.
+Lower sensitivity of turnover to performance reflects less willingness on the part of directors to discipline the CEO.
+<P>
+Finally, firms with a higher CEO pay slice are more likely to provide their CEO with option grants that turn out to be opportunistically timed.
+A high CEO pay slice is associated with an increased likelihood of the CEO receiving a “lucky” option grant with an exercise price equal to the lowest price in the month in which it was granted.
+Such “lucky” timing is likely to reflect the use of insider information or the backdating of option grants.
+<P>
+What explains this emerging pattern?
+Some CEOs take an especially large slice of the top five executives’ compensation because of their special abilities and opportunities relative to the other four.
+But the ability of some CEOs to capture an especially high slice might reflect undue power and influence over the company’s decision-making.
+As long as the latter factor plays a significant role, the CEO pay slice partly reflects governance problems.
+<P>
+We should stress that a positive correlation between a CEO’s pay slice and governance problems does not imply that every firm with a high CEO pay slice has governance problems, much less that such firms would necessarily be made better off by lowering it.
+In some such firms, the large pay slice captured by the CEO may be optimal, given the CEO’s talents and the firm’s environment, and reducing the CEO pay slice might thus make the firm and its shareholders worse off.
+<P>
+Still, our evidence indicates that, on average, a high CEO pay slice may signal governance problems that might not otherwise be readily visible.
+Investors and corporate boards would thus do well to pay close attention not only to the compensation captured by the firms’ top executives, but also to how this compensation is divided among them.

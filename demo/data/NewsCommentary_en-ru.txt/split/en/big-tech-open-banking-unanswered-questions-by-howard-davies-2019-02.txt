@@ -1,0 +1,65 @@
+<HEADLINE>
+The Big Tech/FinTech Disruption
+<P>
+LONDON – As its Valentine’s Day present to the world, the Financial Stability Board (FSB) in Basel published a report on financial technology, or fintech, and market structure in financial services.
+The subtitle was more insightful, and revealed the authors’ intentions: “market developments and potential financial stability implications.”
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The report’s premise is straightforward.
+The arrival of established technology giants, or Big Tech, on the financial scene could “affect the degree of concentration and contestability in financial services, with both potential benefits and risks for financial stability.”
+<P>
+The focus is on companies like Apple, Google, Facebook, Amazon, and Ant Financial, rather than the myriad fintech startups in Silicon Valley, Israel, or clustered round the Old Street roundabout in London.
+Central banks and finance ministries are beginning to ask whether the activities of the tech behemoths, whose market capitalizations now dwarf those of even the biggest banks, will be wholly benign.
+<P>
+In a way, it might be thought surprising that the questions are being raised only now.
+Phrases like “bolting stable doors” come to mind.
+In Europe, regulatory changes like the Second Payment Services Directive (PSD2) have been crucial in opening up the banking system, and regulators like the United Kingdom’s Financial Conduct Authority have for some time been running regulatory sandboxes to smooth the way for new entrants by helping them to structure themselves to comply with standards.
+PSD2, often described as “open banking,” requires banks to offer their customer data to non-bank providers of payment and account information services.
+Aggregators can then present the customer with an integrated view of their finances, and offer add-on services.
+<P>
+Maybe the time to assess the financial-stability risks of open banking was in the consultation period before the directive was passed.
+Even now, the list of contributors to the FSB work shows that the European Commission, and the key regulators in Europe and North America, were not involved.
+<P>
+So what did the FSB conclude?
+<P>
+The authors begin, tactfully, with a series of bows to Big Tech.
+They say, correctly, that “the greater efficiency of new players may enhance the efficiency of financial services in the longer term.”
+Certainly, the absence of the cost drag of legacy IT systems and underused branch networks (which have been seen as a kind of public service and are therefore hard to rationalize) allow for cheaper digital delivery mechanisms which banks can only envy.
+<P>
+It is also entirely fair to argue, as the authors do, that increased competition in the supply of financial services may benefit consumers by expanding choice, stimulating innovation, and driving down transaction costs.
+The pressure on traditional providers is generating strong incentives to reduce costs and improve service.
+Incumbents can no longer afford to sit back and allow inertia to be their friend, as they did in the past when account switching was rare.
+But the FSB also warns that cross-subsidization may allow Big Tech firms to gain market share rapidly and knock out existing providers.
+As a result, “their participation may not result in a more competitive market over the longer term.”
+<P>
+That is a warning policymakers should heed.
+But the FSB is supposed to be primarily interested in stability.
+And here the report points in both directions at once.
+On one hand, the authors argue that greater competition can create a more resilient financial system, with a wider range of companies managing the essential plumbing.
+On the other hand, the ability of new entrants to undercut banks significantly could make the latter “potentially more vulnerable to losses.”
+The accompanying reduction in “retained earnings as a source of internal capital,” the report argues, “could have an impact on financial sector resilience and risk-taking.”
+<P>
+The reader is largely left to decide which of these two scenarios is most likely to play out.
+But while the report is unambiguously positive about the impact of fintech startups, whether they remain standalone entities, or join existing banks to create complementary offerings, the authors’ conclusions about Big Tech are far more nuanced.
+Whereas previous analyses have suggested that the financial-stability implications of fintech are either benign or small, the FSB believes that “this could change quickly with deeper involvement of the large technology providers.”
+<P>
+One possible route to financial instability identified in the report is that banks may loosen lending standards unwisely.
+I would assess that risk as low.
+Banks have been there before, in recent living memory, and are not keen to go back.
+But the threat to profitability is real, particularly if “loss-leader” pricing strategies are adopted, as the FSB believes is possible.
+They refer explicitly to the risk of cross-subsidization.
+Banks in Europe are not much in favor with investors today, trading well below book value in most cases, and a significant loss of market share in payment services would threaten their viability further.
+<P>
+In response, the FSB, unsurprisingly, argues for “vigilance” on the part of banking supervisors.
+(When, one wonders, have supervisors been told that now is the time to turn a blind eye?).
+But I wonder if the answer lies with banking supervisors at all.
+Had a broader range of authorities contributed to the work, they might have more pertinently recommended vigilance by conduct and competition regulators, too.
+Following the FSB’s own logic, it is in these authorities’ territories where the biggest risks are most likely to emerge.

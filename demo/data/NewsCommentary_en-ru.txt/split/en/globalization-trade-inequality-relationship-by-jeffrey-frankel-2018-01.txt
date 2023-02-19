@@ -1,0 +1,57 @@
+<HEADLINE>
+Does Trade Fuel Inequality?
+<P>
+CAMBRIDGE – Inequality has become a major political preoccupation in the advanced economies – and for good reason.
+In the United States, according to the recently released World Inequality Report 2018, the share of national income claimed by the top 1% of the population rose from 11% in 1980 to 20% in 2014, compared to just 13% for the entire bottom half of the population.
+Qualitatively similar, though less pronounced, trends characterize other major countries such as France, Germany, and the United Kingdom.
+<P>
+To explain the rise in inequality that began in the 1980s and has accelerated since the turn of the century, many have pointed out that indicators of globalization, such as the trade-to-GDP ratio, have also risen since 1980.
+But does that correlation imply a causal link between trade and inequality?
+<P>
+There are certainly reasons to doubt it.
+The global trade-to-GDP ratio peaked in 2008 at 61%, after a 35-year climb, falling back to 56% by 2016 – at precisely the time when fear of globalization reached political fever pitch.
+<P>
+What if we look at the world as a whole, rather than individual countries?
+As Columbia’s Xavier Sala-i-Martin pointed out in 2002 and 2006, even as inequality has risen in nearly every country, inequality across countries has decreased, owing largely to the success of developing countries like China and India in raising their per capita incomes since the 1980s.
+<P>
+Multiple factors, including urbanization, high savings rates, and improved access to education, undoubtedly underlie these countries’ impressive performance.
+But, if one uses geography to isolate exogenous determinants of trade, it becomes apparent that trade has been among the most powerful drivers of Asia’s economic success, and thus the convergence between the developed and developing worlds.
+<P>
+For someone like US President Donald Trump, this would indicate that Asia’s success has come at America’s expense.
+This view of trade as a zero-sum game was a feature of the mercantilist theory that reigned three centuries ago, before Adam Smith and David Ricardo made the case that trade would normally benefit both partners, by enabling each to take advantage of their comparative advantages.
+<P>
+But the Smith-Ricardo theory has a key limitation: it does not distinguish among a country’s citizens, and therefore cannot address the question of income distribution within a country.
+Given this, the Heckscher-Ohlin-Stolper-Samuelson model may be more useful, as it distinguishes between workers and owners of physical, financial, or human (skills) capital.
+<P>
+The HO-SS theory, which dominated international economic thinking from the 1950s through 1970s, predicted that international trade would benefit the abundant factor of production (in rich countries, the owners of capital) and hurt the scarce factor of production (in rich countries, unskilled labor).
+Workers could command higher wages if they did not have to compete against abundant labor in poorer countries.
+<P>
+Then came the post-1980 revolutions in trade theory.
+Paul Krugman and Elhanan Helpman introduced the previously neglected elements of imperfect competition and increasing returns to scale.
+Later, in 2003, Marc Melitz showed how trade could shift resources from low-productivity to high-productivity firms.
+<P>
+Critics of globalization latched onto these newer economic theories, claiming that they demanded a rethinking of the traditional case for free trade.
+It was precisely at that time, however, that the HO-SS trade theory’s prediction that free trade would hurt lower-skill workers in rich countries apparently began to materialize.
+<P>
+Yet not all of the HO-SS theory’s predictions have come true.
+As Pinelopi Goldberg and Nina Pavcnik reported in 2007, the expectation that trade would reduce inequality in the countries with the most unskilled workers, because their services are in greater demand in an integrated world market, has not been borne out.
+“There is overwhelming evidence,” they write, “that less-skilled workers in developing countries “are generally not better off, at least not relative to workers with higher skill or education levels.”
+In the same year, Branko Milanović and Lyn Squire also found that tariff reduction is associated with higher inequality in poor countries.
+<P>
+Ten years later, inequality continues to worsen within developing countries, including the so-called BRICS emerging economies.
+In Brazil, the top 1% accounts for 25% of national income.
+In Russia, the income share of the top 1% of the population increased from 4% in 1980 to 20% in 2015.
+Likewise, in India, that figure rose from 6% in 1982 to 22% in 2013.
+In China, it surged from 6% in 1978 to 14% in 2015.
+And, in South Africa, it rose from 9% in 1987 to 19% in 2012.
+A look at the top 10% of earners shows similar trends.
+<P>
+<P>
+This does not mean that the forces described by the HO-SS theory are irrelevant.
+But there is clearly more to current inequality trends than trade.
+Technological progress – which has raised demand for skilled workers relative to unskilled workers, at a time when the supply of skilled graduates lags – seems to be a major factor everywhere.
+The growing tendency of many professions to produce winner-take-all outcomes may play a role as well.
+A lack of redistribution through taxes in a country like the US (compared to major countries in Europe) does not help matters.
+<P>
+Inequality is clearly a serious problem that merits political attention.
+But focusing on trade is not the way to resolve it.

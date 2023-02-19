@@ -1,0 +1,55 @@
+<HEADLINE>
+Don’t Let Tariffs Break the Internet
+<P>
+PARIS – Most people have never heard of the World Trade Organization’s moratorium on customs duties on electronic transmissions.
+And yet it may be one of the most important trade deals in recent history, given the outsize effect it has had on the growth of the Internet.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The moratorium – which has been renewed by WTO member states every two years since 1998 – has enabled the digital economy to flourish by prohibiting governments from applying tariffs to international data flows.
+It has thus shielded the Internet from distortions induced by levies at national borders.
+As such, the online sphere has been a virtual utopia, the likes of which trade economists can only dream when it comes to real-world commerce.
+<P>
+But this paradise will soon be lost unless cool heads prevail.
+A handful of countries – most notably India, South Africa, and Sri Lanka – have signaled their intention to let the moratorium lapse at the end of this year.
+That would leave governments free to begin experimenting with unilateral tariffs on everything from software, e-books, and cloud services to the data underlying popular streaming services.
+<P>
+Proponents of ending the moratorium argue that the digitalization of previously physical goods – books to e-books, CDs to Spotify, DVDs to Netflix – has resulted in a loss of tariff revenues.
+Viewed through this narrow lens, the notion of applying duties to digital transactions may seem appealing to politicians seeking to protect domestic revenue bases, and who are increasingly feeling public pressure to tax the global tech giants.
+But applying tariffs to data flows would be a chimerical answer to a very real challenge.
+Not only would such a move add to a damaging pattern of escalating tariffs; it would also wreak potential havoc in the online economy.
+Move over Kim Kardashian: tariffs really could “break the Internet.”
+<P>
+Tariffs on data would cause economic harm to the very countries that imposed them.
+As a study by the European Center for International Political Economy shows, tariffs on digital goods and services would lead to higher prices and reduced consumption – slowing GDP growth and shrinking tax revenues.
+The OECD has also recently entered the fray, finding that the opportunity cost in terms of lost revenue due to the moratorium is low, and far outweighed by the increase in consumer welfare brought about by digitalization.
+<P>
+Moreover, no customs authority has been able to demonstrate how a digital tariff system would work in practice.
+Consider video streaming: the moment you begin watching content on your smartphone app – whether in Jakarta, Paris, or Mumbai – your device begins receiving packets of data from servers in nearby countries.
+While viewing a single movie, your device could receive as many as five million data packets from nine separate jurisdictions.
+It would be prohibitively expensive for customs officials to track these millions of electronic transmissions and determine their origin, and it would be nearly impossible to quantify their value.
+<P>
+How, then, would countries accurately (and impartially) calculate the tariff on a single viewing session, byte of data, or file size, let alone on the endless stream of data and messages that enable modern business-to-business transactions?
+And how would they do so at a speed congruent with that of the digital economy?
+There are no clear answers to these questions.
+<P>
+Complicating matters further is the fact that around 60 existing bilateral and regional trade agreements – covering some 80 countries – contain independent provisions prohibiting the application of customs duties on cross-border data.
+Were the moratorium to lapse, these provisions would still be in effect, leading to an exceedingly complex digital trade environment and the creation of distortionary incentives to re-route data through duty-free jurisdictions.
+<P>
+But, more to the point, digital tariff barriers are simply unnecessary.
+Governments already have other ways to address potential losses in fiscal revenue from digitalization.
+Australia, for example, has successfully implemented a non-resident digital goods and services tax.
+After just one year, revenue from the tax has surpassed expectations, and compliance is high.
+Moreover, the OECD is making steady progress on developing a consensus solution to the tax challenges arising from the digital economy.
+A practical and robust conclusion to this work must be reached (indeed, it cannot come soon enough).
+<P>
+At a time when new tariffs are already placing a significant drag on global growth, the last thing we need is for the WTO’s digital moratorium to lapse, opening up a vast new front for protectionists and anxious politicians to exploit.
+The real answer to the conundrum of how best to tax the digital economy ultimately lies outside the WTO, and well beyond the remit of national customs agencies.
+We can only hope common sense will prevail, and that the most important trade deal you (probably) never heard of will be renewed this December.

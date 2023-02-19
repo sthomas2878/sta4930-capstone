@@ -1,0 +1,75 @@
+<HEADLINE>
+The Biometric Threat
+<P>
+NEW DELHI – Around the world, governments are succumbing to the allure of biometric identification systems.
+To some extent, this may be inevitable, given the burden of demands and expectations placed on modern states.
+But no one should underestimate the risks these technologies pose.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Biometric identification systems use individuals’ unique intrinsic physical characteristics – fingerprints or handprints, facial patterns, voices, irises, vein maps, or even brain waves – to verify their identity.
+Governments have applied the technology to verify passports and visas, identify and track security threats, and, more recently, to ensure that public benefits are correctly distributed.
+<P>
+Private companies, too, have embraced biometric identification systems.
+Smartphones use fingerprints and facial recognition to determine when to “unlock.”
+Rather than entering different passwords for different services – including financial services – users simply place their finger on a button on their phone or gaze into its camera lens.
+<P>
+It is certainly convenient.
+And, at first glance, it might seem more secure: someone might be able to find out your password, but how could they replicate your essential biological features?
+<P>
+But, as with so many other convenient technologies, we tend to underestimate the risks associated with biometric identification systems.
+India has learned about them the hard way, as it has expanded its scheme to issue residents a “unique identification number,” or Aadhaar, linked to their biometrics.
+<P>
+Originally, the Aadhaar program’s primary goal was to manage government benefits and eliminate “ghost beneficiaries” of public subsidies.
+But it has now been expanded to many spheres: everything from opening a bank account to enrolling children in school to gaining admission to a hospital now requires an Aadhaar.
+More than 90% of India’s population has enrolled in the program.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But serious vulnerabilities have emerged.
+Biometric verification may seem like the ultimate tech solution, but human error creates significant risks, especially when data-collection procedures are not adequately established or implemented.
+In India, the government wanted to enroll a lot of people quickly in the Aadhaar program, so data collection was outsourced to small service providers with mobile machines.
+<P>
+If a fingerprint or iris scan is even slightly tilted or otherwise wrongly positioned, it may not match future verification scans.
+Moreover, bodies can change over time – for example, daily manual labor may alter fingerprints – creating discrepancies with the recorded data.
+And that does not even cover the most basic of mistakes, like misspelling names or addresses.
+<P>
+Correcting such errors can be a complicated, drawn-out process.
+That is a serious problem when one’s ability to collect benefits or carry out financial transactions depends on it.
+India has had multiple cases of lost entitlements – whether food rations or wages for public-works programs – as a result of biometric mismatches.
+<P>
+If honest mistakes can do that much harm, imagine the damage that can be caused by outright fraud.
+Police in Gujarat, India, recently found more than 1,100 casts of beneficiary fingerprints made on a silicone-like material, which were used for illicit withdrawals of food rations from the public distribution system.
+Because we leave fingerprints on everything we touch, we are all vulnerable to such replication.
+<P>
+And manual replication is just the tip of the iceberg.
+Researchers have created synthetic “MasterPrints” that enabled them to achieve a frighteningly high number of “imposter matches.”
+<P>
+Further risks arise during the transmission and storage of biometric data.
+Once collected, biometric data are usually moved to a central database for storage.
+They have to be encrypted while in transit, but the encryptions can be – and have been – hacked.
+Nor are they necessarily safe once they arrive in local, foreign, or cloud servers.
+<P>
+In India, one of the web systems used to record government employees’ work attendance was left without a password, allowing anyone access to the names, job titles, and partial phone numbers of 166,000 workers.
+Three official Gujarat-based websites were found to be disclosing beneficiaries’ Aadhaar numbers.
+And the Ministry of Rural Development accidentally exposed nearly 16 million Aadhaar numbers.
+<P>
+Moreover, an anonymous French security researcher accused two government websites of leaking thousands of IDs, including Aadhaar cards.
+That leak has now reportedly been plugged.
+But, given how many public and private agencies have access to the Aadhaar database, such episodes underscore how risky a supposedly secure system can be.
+<P>
+Of course, such vulnerabilities exist with all personal data.
+But exposure of someone’s biometric information is far more dangerous than exposure of, say, a password or credit card number, because it cannot be undone.
+We cannot, after all, simply get new irises.
+<P>
+The risk is compounded by efforts to use collected biometric data for monitoring and surveillance, as is occurring in China and elsewhere.
+In this sense, the large-scale collection and storage of people’s biometric data pose an unprecedented threat to privacy.
+And few countries have anything close to adequate laws to protect their residents.
+<P>
+In India, revelations of the Aadhaar program’s weaknesses have largely been met with official denials, rather than serious efforts to protect users.
+Worse, other developing countries, such as Brazil, now risk replicating these mistakes, as they rush to adopt biometric technology.
+And, given the large-scale data breaches that have occurred in the developed world, these countries’ citizens are not safe, either.
+<P>
+Biometric identification systems are permeating every facet of our lives.
+Unless and until citizens and policymakers recognize and address the complex security risks they entail, no one should feel safe.

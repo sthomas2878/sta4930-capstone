@@ -1,0 +1,46 @@
+<HEADLINE>
+US Intelligence, Inc.
+<P>
+SINGAPORE – Among the stories and rumors prompted by Edward J. Snowden’s leaking of classified material – whistleblowing or treason, depending on where you stand – the revelations that may actually lead to a policy change concern the extent to which private companies now carry out intelligence gathering and analysis in the United States.
+<P>
+Around a third of the 1.4 million people with “top secret” US security clearances are contractors, according to the Office of the US Director of National Intelligence.
+We now know that this includes individuals like Snowden, whose hiring and firing by the technology consultancy Booz Allen Hamilton is itself the subject of an investigation.
+<P>
+Intelligence contracting is an industry worth tens of billions of dollars, and companies like Booz Allen have made it central to their business models, staffing their executive suites with former senior intelligence officials.
+Booz Allen’s current vice chairman, Mike McConnell, left the company to serve as Director of National Intelligence from 2007 to 2009, returning to the firm immediately after stepping down.
+<P>
+Though it has lagged behind the privatization of military services, the privatization of intelligence expanded dramatically with the growth in intelligence activities after the September 11, 2001, attacks on the US.
+Direct spending on private contractors’ services now consumes roughly 70% of the annual US intelligence budget (estimated at around $70 billion).
+<P>
+Controversy over government reliance on outsourcing in this area frequently focuses on cost, “brain-drain,” and periodic allegations of corruption.
+Yet the privatization of intelligence raises many larger concerns familiar to the debates over private military and security companies (PMSCs).
+<P>
+One key problem posed by PMSCs is their use of potentially lethal force in an environment where accountability may be legally uncertain and practically unlikely.
+A second concern is that PMSCs may affect the strategic balance of a conflict in the pursuit of their own interests.
+<P>
+The engagement of private actors in the collection of intelligence raises a problem similar to the first one raised by PMSCs.
+Here, contractors are authorized to engage in conduct that would normally be unlawful, with express or implied immunity from the law, in an environment designed to avoid scrutiny.
+<P>
+Engagement of such actors in analysis evokes the second concern about PMSCs.
+Top-level intelligence analysis is intended to shape strategic policy.
+The more such tasks are delegated to private actors, the further removed they are from traditional structures of accountability, such as judicial and legislative oversight, and the more influence they may have on policy.
+<P>
+To be sure, the Snowden case has demonstrated how little control there may be over individuals within the larger intelligence community.
+His claim that he had the “authority to wiretap anyone” has been disputed by US intelligence officials, but the possibility of a rogue analyst abusing his or her position is real.
+<P>
+More generally, however, Snowden’s disclosures have shone a spotlight on the US government’s handover of responsibility for some of its most sensitive programs to for-profit entities.
+One of the most interesting dynamics in recent weeks has been the public-relations scramble by Google, Microsoft, Apple, Facebook, and other companies in the wake of revelations that they shared users’ data with US intelligence agencies.
+These companies have sought to distinguish themselves from the likes of Booz Allen, emphasizing that they are reluctant partners in the creation of a surveillance society.
+<P>
+But we should be particularly wary of trusting the private sector to regulate surveillance.
+Markets can be effective at disciplining companies, but they operate best where there is competition, an expectation of repeat encounters, and a free flow of information.
+<P>
+None of these factors exist in the realm of intelligence.
+The need for security clearances – and the notorious inefficiency of the process for granting new ones – severely restricts competition.
+Moreover, the movement of a limited number of individuals between government agencies and private contractors results in a form of regulatory capture, particularly when government employees are tasked with overseeing former colleagues and potential employers in the corporate world.
+And, most obviously, the free flow of information is fundamentally incompatible with the secrecy needed in much intelligence work.
+<P>
+The simplest way to contain many of these problems would be to forbid certain activities from being delegated or outsourced to private actors at all.
+Intelligence services have a checkered history, but their legitimate activities in established democracies are justified by their grounding in the rule of law and a chain of accountability that leads to democratically elected officials.
+<P>
+Though it was hardly his intention, the lasting consequence of Snowden’s leak may be to put some of the hundreds of thousands of other contractors in positions like his out of a job.

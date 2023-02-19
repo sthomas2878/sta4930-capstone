@@ -1,0 +1,67 @@
+<HEADLINE>
+Could Ultra-Low Interest Rates Be Contractionary?
+<P>
+CHICAGO – The real (inflation-adjusted) yield on ten-year US treasuries is currently zero, and has been extremely low for most of the past eight years.
+Outside of the United States, meanwhile, 40% of investment-grade bonds have negative nominal yields.
+And most recently, the European Central Bank further reduced its deposit rate to -0.5% as part of a new package of economic stimulus measures for the eurozone.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Low interest rates have traditionally been viewed as positive for economic growth.
+But our recent research suggests that this may not be the case.
+Instead, extremely low interest rates may lead to slower growth by increasing market concentration.
+If this argument is correct, it implies that reducing interest rates further will not save the global economy from stagnation.
+<P>
+The traditional view holds that when long-term rates fall, the net present value of future cash flows increases, making it more attractive for firms to invest in productivity-enhancing technologies.
+Low interest rates therefore have an expansionary effect on the economy through stronger productivity growth.
+<P>
+But if low interest rates also have an opposite strategic effect, they reduce the incentive for firms to invest in boosting productivity.
+Moreover, as long-term real rates approach zero, this strategic contractionary effect dominates.
+So, in today’s low-interest-rate environment, a further decline in rates will most probably slow the economy by reducing productivity growth.
+<P>
+This strategic effect works through industry competition.
+Although lower interest rates encourage all firms in a sector to invest more, the incentive to do so is greater for market leaders than for followers.
+As a result, industries become more monopolistic over time as long-term rates fall.
+<P>
+Our research indicates that an industry leader and follower interact strategically in the sense that each carefully considers the other’s investment policy when deciding on its own.
+In particular, because industry leaders respond more strongly to a decline in the interest rate, followers become discouraged and stop investing as leaders get too far ahead.
+And because leaders then face no serious competitive threat, they too ultimately stop investing and become “lazy monopolists.”
+<P>
+Perhaps the best analogy is with two runners engaged in a perpetual race around a track.
+The runner who finishes each lap in the lead earns a prize.
+And it is the present discounted value of these potential prizes that encourages the runners to improve their position.
+<P>
+Now, suppose that sometime during the race, the interest rate used to discount future prizes falls.
+Both runners would then want to run faster because future prizes are worth more today.
+This is the traditional economic effect.
+But the incentive to run faster is greater for the runner in the lead, because she is closer to the prizes and hence more likely to get them.
+<P>
+The lead runner therefore increases her pace by more than the follower, who becomes discouraged because she is now less likely to catch up.
+If the discouragement effect is large enough, then the follower simply gives up.
+Once that happens, the leader also slows down, as she no longer faces a competitive threat.
+And our research suggests that this strategic discouragement effect will dominate as the interest rate used to discount the value of the prizes approaches zero.
+<P>
+In a real-world economy, the strategic effect is likely to be even stronger, because industry leaders and followers do not face the same interest rate in practice.
+Followers typically pay a spread over the interest rate paid by market leaders – and this spread tends to persist as interest rates fall.
+A cost-of-funding advantage like this for industry leaders would further strengthen the strategic contractionary impact of low interest rates.
+<P>
+This contractionary effect helps to explain a number of important global economic patterns.
+First, the decline in interest rates that began in the early 1980s has been associated with growing market concentration, rising corporate profits, weaker business dynamism, and declining productivity growth.
+All are consistent with our model.
+Moreover, the timing of the aggregate trends also matches the model: the data show an increase in market concentration and profitability from the 1980s through 2000, followed by a slowdown in productivity growth starting in 2005.
+<P>
+Second, the model makes some unique empirical predictions that we test against the data.
+For example, a stock portfolio that is long on industry leaders and short on industry followers generates positive returns when interest rates fall.
+More important, this effect becomes even stronger when the rate is low to begin with.
+This, too, is consistent with what the model predicts.
+<P>
+The contractionary effect of ultra-low interest rates has important implications for the global economy.
+Our analysis suggests that with interest rates already extremely low, a further decline will have a negative economic impact via increased market concentration and lower productivity growth.
+So, far from saving the global economy, lower interest rates may cause it more pain.

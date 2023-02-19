@@ -1,0 +1,54 @@
+<HEADLINE>
+Europe’s Doom Loop in Reverse
+<P>
+BRUSSELS – During the 2011-2012 euro crisis, the currency area became mired in a “doom loop,” in which weak banks in financially distressed countries rationed credit, causing a recession that intensified pressure on government finances, which were already burdened by the need to cover banks’ losses.
+But such self-reinforcing spirals can also operate in the opposite direction.
+Understanding these dynamics may be the key to determining the eurozone’s relative strength today.
+<P>
+In a doom loop, the expectations of default drive up risk premia until the economy reaches the brink of collapse, even if the underlying problems could be managed over time.
+At a certain point, when the gulf between financial-market pessimism and economic reality becomes too large, the market becomes ready for a reversal.
+<P>
+This was the case for the eurozone during the summer of 2012.
+European Central Bank President Mario Draghi’s pledge to do “whatever it takes” to prevent the euro from disintegrating reassured markets so effectively because investors’ fear was largely based, to paraphrase US President Franklin D. Roosevelt, on “fear itself.”
+<P>
+Draghi’s intervention marked the start of a new cycle: the doom loop reversed, and became a benign credit cycle in which lower risk premia allowed both banks and governments to refinance at lower rates, making more credit available to the economy and thereby fueling a recovery that increased government revenue.
+Governments in most of the eurozone countries that had previously been stuck in the doom loop were able to stabilize public finances without further expenditure cuts.
+<P>
+But this positive credit cycle is less visible than the doom loop, because it takes a lot less time to cut the number of borrowers and push the economy into a recession than to foster a recovery when credit becomes available again.
+Even if over-stretched borrowers can spend and invest, they most likely won’t do so right away.
+But, given time, easier credit conditions rarely fail to generate a recovery.
+<P>
+The ECB’s vast program of quantitative easing (QE), initiated in March 2015, reinforced the virtuous cycle.
+But the truth is that the doom loop had been reversed long before QE began.
+In any case, the common definition of that program – the large-scale purchase of government bonds by the ECB – is inaccurate.
+The ECB General Council makes the key decisions, but its policy is executed mostly by national central banks (NCBs).
+<P>
+Normally, all NCBs in the euro system undertake the same operations, and the results are pooled.
+But, when it comes to QE, each NCB buys only the bonds of its own government on its own account.
+The Banca d’Italia has bought only Italian government bonds, and the Bundesbank only German Bunds.
+<P>
+NCBs are part of their respective countries’ larger public sectors, and eventually transfer all of the profits or losses from these transactions back to their own government.
+So when they purchase long-term government bonds, they are acting like a subsidiary of a large corporation buying the debt of its parent company (issuing short-term liabilities to itself).
+<P>
+In short, the eurozone’s QE program amounts essentially to a massive asset-liability management exercise, in which (national) public debt is reshuffled from one part of the public sector (governments) to another part (the national central bank).
+While the sums involved are very large – a total of about €2 trillion ($2.44 trillion) so far – the real impact is minor.
+<P>
+Of course, the ECB claims that the QE program contributed decisively to the recovery.
+But the fact is that there has been little change in interest rates or risk spreads since the bond purchases started.
+This indicates that the end of QE – which is likely to come later this year – will not mean the end of the recovery.
+And, given that financial markets know that QE will end, they have already priced in that expectation.
+<P>
+But can today’s benign credit cycle last much longer?
+There may be some reason for concern; after all, the eurozone experienced a similar self-reinforcing cycle of easy credit, growth, and little pressure on government finances before the global financial crisis of 2007-2008.
+But it seems unlikely that the current cycle will lead to similar excesses and end in a similar bust, because the growth pattern in the peripheral eurozone countries has changed considerably.
+<P>
+During the pre-crisis credit boom, growth in countries like Spain and Portugal was based largely on domestic demand, financed by capital inflows.
+In Italy, domestic demand was less exuberant, but foreign capital was still needed at the margin to finance a large public debt.
+So when capital inflows suddenly stopped, these economies were thrown into crisis.
+<P>
+Today, however, growth in these countries is based mainly on exports, while domestic demand remains subdued.
+Moreover, these countries are maintaining current-account surpluses while their growth rates rise; in other words, far from relying on fickle capital inflows, they are repaying their external debt.
+This new, more robust growth model could be sustained until the remaining unemployment is absorbed.
+<P>
+No financial cycle lasts forever.
+But the one driving today’s recovery in the eurozone, including the peripheral countries that were hardest hit by the crisis, may be set to persist for a while yet.

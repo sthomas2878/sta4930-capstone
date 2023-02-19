@@ -1,0 +1,56 @@
+<HEADLINE>
+Machines Can’t Dream
+<P>
+WALLDORF, GERMANY – For more than 20 years, advances in artificial intelligence (AI) have been viewed through the lens of competition between humans and machines.
+Ever since May 1997, when IBM’s “Deep Blue” computer defeated chess champion Garry Kasparov, there has been growing anxiety about the consequences of this cognitive arms race.
+More recent computer victories – like “Watson’s” 2011 win on the Jeopardy game show, and Google’s 2015 computerized takedown of a professional Go player – have only heightened popular concern.
+<P>
+Leaders, technologists, futurists, and employees in every industry rightly wonder how AI will affect our workplaces, societies, and lives.
+The scale of AI’s impact is hotly debated, and often boils down to a single question: Could machines replace us?
+<P>
+Smart people disagree about the answer.
+Some, like Stephen Hawking, believe that AI’s rise represents an existential threat.
+In 2014, Hawking told a BBC radio audience that “the development of full artificial intelligence could spell the end of the human race.”
+But others consider such fears overblown, and predict that intelligent automation will lead to a utopia populated by intuitive machines.
+<P>
+One thing is certain: there is nothing to be gained from fearing a dystopian future that we have the power to prevent.
+<P>
+Even in divisive times like the present, human ingenuity, kindness, innovation, and creativity are powering us forward.
+If we harness this energy, we can create a world in which AI benefits humanity, and where automation frees people from the dangerous and repetitive tasks often associated with manual labor.
+Instead of machine versus man, then, the world would be better served by embracing an “augmented humanity” – what former Google CEO Eric Schmidt defined as getting “computers to help us at the things we’re not very good at,” and vice versa.
+<P>
+Mehdi Miremadi, an AI consultant at McKinsey & Company, similarly believes that partnership, not rivalry, will define the future of computer-assisted work.
+And that future is fast approaching.
+“I think the human-robot interaction is the name of the game,” he said recently.
+“It will be the most important trend in the near- to mid-term – the next five to 15 years.”
+<P>
+Already, leading industrial manufacturers like Airbus and Nissan are introducing collaborative robots – “co-bots” – to the factory floor.
+Robots are consistent, reliable, never tire, and don’t improvise.
+Changes to assembly lines require painstaking human adjustments, making it hard to alter what a factory produces quickly; robots do it faster.
+But machines can’t do everything, so the solution, according to researchers, is factories in which robots and humans work in tandem.
+<P>
+Leaders in every sector – including government, industry, and education – will need to plan thoughtfully to minimize the adverse effects of AI.
+Among the most important tasks is ensuring that young people have the skills to excel in an AI-dominated marketplace, and that those already in the workforce can adapt to new requirements.
+<P>
+Robots will not become people’s officemates overnight; only a small percentage of current jobs are susceptible to full automation.
+Then again, almost every occupation can and will be partly automated at some point in the future.
+The jobs most prone to automation include routine activities like data collection and processing.
+But AI’s role in the workplace will deepen with time.
+<P>
+Throughout history, tectonic shifts in technology have upended occupational structures and employment.
+But these periodic upheavals have also created new, more modern jobs – and often in greater numbers than those that were lost.
+The coming AI disruption, in other words, will likely have a net positive impact on employment.
+<P>
+Industry analysts predict that AI will drive growth in the coming years and decades.
+Gartner, a research and advisory firm, estimates that AI-enabled tools will generate $2.9 trillion in business value by 2021, while PwC forecasts that by 2030, AI could contribute as much as $15.7 trillion to the global economy.
+Some estimates show that companies could save as much as $4 trillion annually with AI automation.
+And the benefits for businesses will go far beyond savings, as automation will spur innovation, improve forecasting, optimize operations, and lead to better customer service.
+<P>
+In any technological transition, those leading the change cannot lose sight of the human element; there are some things even the smartest machines will never do.
+Machines don’t dream, set goals, or plan for college.
+Creativity, curiosity, and emotional intelligence will always be the province of people.
+Even when fed high diets of data, machines can learn only from the past, and cannot imagine the future.
+Fortunately, life and business are not purely mathematical chess matches.
+<P>
+When I look to the future, I see a need for thoughtful debate about the social impact of AI.
+But I also see evidence that humanity’s greatest challenges have always been our greatest opportunities.

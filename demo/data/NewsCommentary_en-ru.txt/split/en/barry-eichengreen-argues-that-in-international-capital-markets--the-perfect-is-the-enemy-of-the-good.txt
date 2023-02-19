@@ -1,0 +1,58 @@
+<HEADLINE>
+Restructuring Debt Restructuring
+<P>
+BERKELEY – Sometimes the worst intentions yield the best results.
+So it is, unexpectedly, with Argentine debt.
+<P>
+The story begins with Argentina’s financial crisis in 2001-2002.
+There is no question that the crisis left the country unable to service its debts.
+But Argentina made no friends by waiting four years to negotiate with its creditors and then offering settlement terms that were stingy by the standards of previous debt restructurings.
+<P>
+Still, the terms were acceptable to the vast majority of the country’s creditors, who exchanged their old claims for new ones worth 30 cents on the dollar.
+All, that is, except for a few holdouts who bought up the remaining bonds on the cheap and went to court, specifically to the US District Court of the Southern District of New York, asking to be paid in full.
+<P>
+This quixotic strategy met with unexpected success when Federal Judge Thomas Griesa ruled in the holdouts’ favor.
+Griesa idiosyncratically reinterpreted the pari passu, or equal treatment, clause in the debt contracts to mean that “vulture” funds refusing to participate in the earlier debt exchange should receive not 30 but 100 cents on the dollar.
+<P>
+Griesa’s ruling threatened to hold the Bank of New York Mellon, the Argentine government’s agent, in contempt if it paid other bondholders without also paying the vultures.
+Effectively barred from servicing its debt on the renegotiated terms, Argentina had little choice but to default again.
+<P>
+This was not an episode from which anyone emerged smelling like a rose.
+Argentina’s hardball tactics and erratic policies did not endear it to investors.
+The vultures showed no scruples in profiting at the expense of Argentine taxpayers.
+They are now deploying the same strategy against the Democratic Republic of the Congo, one of the world’s poorest countries.
+<P>
+Griesa, for his part, showed no compunction about upending a financial order in which market-based exchanges of old bonds for new ones are used to restructure the debts of countries unable to pay.
+By making it impossible for sovereigns to restructure, he effectively rendered them unable to borrow in the United States.
+Ignoring previous precedent and all economic common sense, he threw international financial markets into turmoil.
+<P>
+This prompted various suggestions for reforming sovereign-debt markets.
+Resuscitating ideas advanced in the wake of Argentina’s earlier default, some experts proposed creating an international bankruptcy court in the IMF.
+Others suggested that Argentina might issue bonds under European – or even domestic – law.
+<P>
+But experience has shown that bondholders are not inclined to subordinate their claims to some untested international bankruptcy court.
+The only thing they would like less are obligations whose terms were enforced by courts as easy to manipulate as Argentina’s.
+As for borrowing in European currencies, Griesa was quick to declare that his rulings would cover such bonds as well.
+<P>
+Fortunately, there is a simple solution to these problems.
+Investors could agree to insert language into bond contracts that leaves no room for vulture funds.
+<P>
+First, they could clarify the pari passu clause, specifying that it guaranteed comparable treatment for existing bondholders, not for existing bondholders and earlier bondholders whose claims were already extinguished.
+<P>
+Second, issuers could add “aggregation clauses” specifying that an agreement supported by a qualified majority of a country’s bondholders, say, two-thirds, would bind one and all.
+There was already movement after Argentina’s earlier default to add “collective-action clauses” that allowed the holders of an individual bond issue to take a binding vote to accept a restructuring offer.
+<P>
+But this still allowed the vultures to block the process by buying up a third of a particular bond issue.
+By contrast, purchasing a third of a country’s entire debt stock, as required for a blocking position when all bondholders vote together, is an altogether more costly proposition.
+<P>
+In 2003, in an article in the American Economic Review, Ashoka Mody and I made the case for these provisions.
+They are basically what the International Capital Market Association of leading investors and issuers has now agreed to implement, subject to some additional details that need not be examined here.
+<P>
+Why didn’t it happen sooner?
+The answer is that getting investors to agree is like herding cats.
+In this case, it required strong behind-the-scenes leadership from the US Treasury.
+<P>
+The agreement is not perfect, and problems remain.
+Because new contractual provisions are not easily retrofitted into old bonds, it will take years before the clauses are included in the entire stock of debt.
+Establishing an international bankruptcy court would be a far more efficient solution, but that doesn’t make it feasible.
+Investors were wise to acknowledge that, in international capital markets, the perfect is the enemy of the good.

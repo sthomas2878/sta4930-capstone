@@ -1,0 +1,75 @@
+<HEADLINE>
+Compound Growth Could Kill Us – or Make Us Stronger
+<P>
+NEW YORK – A good way to think about the coronavirus pandemic is that it is like climate change at warp speed.
+What takes decades and centuries for the climate takes days or weeks for a contagious disease.
+That speed focuses the mind and offers lessons in how to think about risk in an interconnected world.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+With both climate change and COVID-19, the real problem is not absolute numbers (whether greenhouse-gas emissions or infections), but rather the rate of change.
+It is bad enough that average global temperatures have risen by 1°C (almost 2°F) above pre-industrial levels.
+But warming of 2°, 3°, or many more degrees would be profoundly worse.
+<P>
+In pandemics, too, even a very small difference in the growth trajectory has stark consequences down the line.
+Coronavirus infections have increased by around 33% per day in most European countries (and by only slightly less in the United States, possibly owing to a relative lack of testing).
+At that rate, a dozen cases today will become 500 cases within two weeks, and 20,000 two weeks after that.
+<P>
+Italy had to shut down much of its economy after reaching just 12,000 cases.
+And shut down we must, before more health-care systems come anywhere close to the breaking point.
+Again, the top priority is to slow the rate of growth.
+Hong Kong and Singapore closed schools and enforced quarantines long before things could spin out of control, and their daily coronavirus growth rates appear to be close to around 3.3%.
+<P>
+The critical point about compound growth is that a 3.3% infection rate isn’t merely ten times better than a 33% rate; over the course of three weeks, it is 150 times better.
+At the lower rate, 100 cases will not quite double in that space of time, whereas at the higher rate, 100 cases will become 30,000.
+<P>
+Now consider that, by one estimate, 10-15% of early COVID-19 cases in China were severe, which implies that just around 20 people would require intensive care in our low-growth scenario, whereas 3,000 people would require it in our high-growth scenario.
+That difference has significant implications for health systems.
+Italy is a case in point: its hospitals have had to triage patients or turn them away outright, and its COVID-19 death rate is significantly higher than in other countries.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+These public-health “breaking points” are to the COVID-19 pandemic what “tipping points” are to climate change.
+Where and when they will be reached might be uncertain; but they are all too real.
+Likewise, in both cases (and in most countries), it is already too late for containment.
+The priority now is mitigation, closely followed by adaptation to what’s already in store.
+In confronting COVID-19, the goal is to “flatten the curve,” just as we must “bend” the curve in greenhouse-gas emissions.
+Small, immediate reductions in the growth rate will increasingly pay off over time.
+<P>
+Of course, achieving such reductions isn’t easy.
+Closing schools blocks one channel of disease transmission, but it also places a significant additional burden on households where parents must stay home and begin home schooling overnight.
+Here, New York City’s decision to provide “grab-and-go meals” and supervision for the children of health-care providers, first responders, and public-transit employees represents an important step, given that school closures, by indisposing critical workers, can actually increase net mortality from COVID-19.
+<P>
+Such tradeoffs point to perhaps the most important commonality between COVID-19 and climate change: externalities.
+In both crises, an individual’s personal calculus may undermine the welfare of society as a whole.
+Healthy young people who face a significantly lower risk of dying from the coronavirus will see little reason not to continue commuting to work and putting in “face time” to advance their careers.
+That is why we need governments to step in proactively to change the individual calculus.
+<P>
+Imagine a scenario in which Italy had shut down completely in mid-February, when there were still fewer than 30 COVID-19 cases there.
+The costs of the disruption would have been large, and the public outcry loud.
+But thousands of deaths would have been averted, and the overall economic costs from a hasty, proactive shutdown would surely be lower than those of an even hastier, reactive one.
+Unlike Italy, Hong Kong is already slowly emerging from its proactive shutdown.
+<P>
+Fortunately, mitigating climate change doesn’t require anything close to an economic shutdown.
+But it does demand a fundamental rechanneling of market forces away from the current low-efficiency, high-carbon path toward a high-efficiency, low-carbon one.
+That will require proactive government policies, increased investment, and innovation.
+The results will be measured in years and decades, but they are highly dependent on what we do now.
+<P>
+In neither case can public policies operate in isolation.
+The COVID-19 crisis has underscored the need for paid sick leave and universal health care, just as the climate crisis has done for investments in green jobs and manufacturing and measures to address environmental inequities.
+Sitting back and waiting for a techno-fix is not the answer.
+Working toward a vaccine for COVID-19 is obviously important, as is research into clean-energy “moonshots” and even geoengineering technologies.
+But these all will take time and real investments in science.
+<P>
+The Chinese word for “crisis” famously consists of two characters: danger (危) and opportunity (机).
+In the case of COVID-19, the opportunity may well lie in demonstrating that rapid behavioral change is possible.
+Indeed, this April, the Intergovernmental Panel on Climate Change will hold its first-ever virtual Lead Author meeting.
+Running online-only meetings with 300 people on five continents is a challenge.
+But it is certainly easier than flying halfway around the world.
+Higher-energy physicists have done so for years.
+<P>
+Looking ahead, we all must ask ourselves whether we are taking sufficient steps to “flatten the curve” of transmissions, and to “bend the curve” of emissions.
+Yes, the coronavirus may have reduced China’s CO2 emissions this year, owing to the factory closures in Wuhan and general economic malaise.
+But in the end, it’s all about the trajectory.
+To confront today’s global crises, we must come to grips with the mathematical power of compound growth, which is both a curse and a blessing.

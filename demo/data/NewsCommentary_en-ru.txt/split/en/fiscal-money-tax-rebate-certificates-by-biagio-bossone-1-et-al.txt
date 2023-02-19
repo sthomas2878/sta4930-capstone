@@ -1,0 +1,44 @@
+<HEADLINE>
+Making Fiscal Money Work
+<P>
+ROME – In a recent commentary, Yanis Varoufakis of the University of Athens pointed out the merits of giving national governments a greater say in domestic money creation.
+Varoufakis calls for a new parallel payments system based on “fiscal money,” or money backed by future taxes, and he proposes a complex mechanism for creating such money.
+<P>
+In response, we would direct readers to our own fiscal-money proposal, which would be simpler and easier to adopt than the system Varoufakis describes.
+We devised the idea in our “Manifesto for Italy” in 2014, when we were looking for a policy instrument that could revive aggregate demand in an economy with limited fiscal space and no monetary sovereignty.
+As we argued then, such an instrument would allow Italy to recover from its economic crisis without leaving the eurozone or violating European Union rules.
+<P>
+Our proposal evolved into a widely read e-book and a series of articles, in which we developed a rigorous definition of fiscal money, and simulated a fiscal-money program using Italian economic data.
+We also considered how fiscal money would work in different contexts, by comparing our proposal to various parallel-currency proposals for Greece, and to the economic policies of Hjalmar Schacht, the architect of Germany’s economic recovery in the 1930s.
+<P>
+Fiscal-money proposals now feature heavily in Italian political debates, especially among major opposition parties such as former Prime Minister Silvio Berlusconi’s Forward Italy (Forza Italia), the Five Star Movement, and the Northern League (Lega Nord).
+Whereas some see fiscal money as a potential complement to the euro, others see it as a means for withdrawing Italy from the eurozone altogether.
+<P>
+Under our proposal, the Italian government would issue “tax rebate certificates” (TRCs) granting reductions in future payments to the state (taxes, duties, social contributions, and so forth) in amounts equal to their nominal value.
+TRCs would be redeemable at a later date – say, two years after issuance – but they would also have an immediate value, because they would represent a guaranteed future claim.
+A €100 ($120) TRC that is issued today would be worth the same €100 when it is redeemed two years hence; but, in the meantime, it would trade at a small discount.
+<P>
+To ensure that a TRC’s market value tracks with its nominal price at all times, the government would pay a positive interest rate on TRC holdings.
+It would also establish a national payment system, whereby TRCs could be exchanged for goods and services from suppliers who accept them, or for euros and other assets.
+With this system in place, the government could then issue TRCs, free of charge, directly to workers, companies, or disadvantaged social groups, or use them to fund public investments and welfare programs.
+<P>
+Under our proposal, public- and private-sector agents would have more spending capacity, and domestic firms would be able to lower their labor costs.
+And this, in turn, would reduce trade deficits, by making domestic firms more competitive versus imports.
+<P>
+TRC issuances could thus be calibrated to close a country’s output gap.
+For example, in 2018, the Italian government could start issuing TRCs worth €30 billion per year, and then expand the annual total to €100 billion in three years.
+The first round of TRCs would have a stimulus effect during their two-year deferral period, because increased private-sector spending would push up output.
+And because large output gaps and low interest rates tend to have a multiplier effect on increases to income, the TRC issuance would cover its own fiscal costs by boosting public revenues.
+<P>
+Best of all, TRCs would not violate the European Central Bank’s monopoly over the euro as legal tender.
+TRCs are not claims to future reimbursements, so they do not constitute public debt as defined by Eurostat.
+That means governments can issue TRCs without running afoul of EU treaties and laws governing public liabilities, because they would not be increasing their risk of defaulting.
+<P>
+To be sure, TRCs would weaken fiscal budgets over time if they did not stimulate sufficient economic activity (and thus boost public revenues).
+But to prevent that outcome, TRC issuances could be accompanied by conditional tax increases or spending cuts at the time of redemption, depending on whether the government is running a deficit.
+These measures would then automatically expire as soon as the TRCs started to fuel enough economic expansion to cover their own fiscal costs.
+<P>
+So, even in a hypothetical (and virtually impossible) worst-case scenario, in which TRCs have no expansionary effect at all – that is, if all beneficiaries were to stow them “under the mattress” and wait for the rebates in 2020 – they would still be budget-neutral with the right safeguards in place.
+<P>
+All told, TRCs represent a risk-free proposition.
+In Italy, where the economy remains weak and fragile, they would most likely induce faster and more robust growth, while restoring stability to the country’s beleaguered financial sector.

@@ -1,0 +1,60 @@
+<HEADLINE>
+China, the Digital Giant
+<P>
+SHANGHAI – China has firmly established itself as a global leader in consumer-oriented digital technologies.
+It is the world’s largest e-commerce market, accounting for more than 40% of global transactions, and ranks among the top three countries for venture capital investment in autonomous vehicles, 3D printing, robotics, drones, and artificial intelligence (AI).
+One in three of the world’s unicorns (start-ups valued at more than $1 billion) is Chinese, and the country’s cloud providers hold the world record for computing efficiency.
+While China runs a trade deficit in services overall, it has lately been running a trade surplus in digital services of up to $15 billion per year.
+<P>
+<P>
+Powering China’s impressive progress in the digital economy are Internet giants like Alibaba, Baidu, and Tencent, which are commercializing their services on a massive scale, and bringing new business models to the world.
+Together, these three companies have 500-900 million active monthly users in their respective sectors.
+Their rise has been facilitated by light – or, perhaps more accurate, late – regulation.
+For example, regulators put a cap on the value of online money transfers a full 11 years after Alipay introduced the service.
+<P>
+Now, these Internet firms are using their positions to invest in China’s digital ecosystem – and in the emerging cadre of tenacious entrepreneurs that increasingly define it.
+Alibaba, Baidu, and Tencent together fund 30% of China’s top start-ups, such as Didi Chuxing ($50 billion), Meituan-Dianping ($30 billion), and JD.com ($56 billion).
+<P>
+With the world’s largest domestic market and plentiful venture capital, China’s old “copy-cat” entrepreneurs have transformed themselves into innovation powerhouses.
+They fought like gladiators in the world’s most competitive market, learned to develop sophisticated business models (such as Taobao’s freemium model), and built impregnable moats to protect their businesses (for example, Meituan-Dianping created an end-to-end food app, including delivery).
+<P>
+As a result, the valuation of Chinese innovators is many times higher than that of their Western counterparts.
+Moreover, China leads the world in some sectors, from livestreaming (one example is Musical.ly, a lip-syncing and video-sharing app) to bicycle sharing (Mobike and Ofo exceed 50 million rides per day in China, and are now expanding abroad).
+<P>
+Most important, China is at the frontier of mobile payments, with more than 600 million Chinese mobile users able to conduct peer-to-peer transactions with nearly no fees.
+China’s mobile-payment infrastructure – which already handles far more transactions than the third-party mobile-payment market in the United States – will become a platform for many more innovations.
+<P>
+As Chinese firms become increasingly technically capable, the country’s market advantage is turning into a data advantage – critical to support the development of AI.
+The Chinese firm Face++ recently raised $460 million, the largest amount ever for an AI company.
+DJI (a $14 billion consumer drone company), iFlyTek (a $14 billion voice recognition company), and Hikvision (a $50 billion video-surveillance company) are the world’s most valuable firms in their respective domains.
+<P>
+Another important developing trend in China is “online merging with offline” (OMO) – a trend that, along with AI, Sinovation Ventures is betting on.
+The physical world becomes digitized, with companies detecting a person’s location, movements, and identity, and then transmitting the data so that it can help shape online experiences.
+<P>
+For example, OMO stores will be equipped with sensors that can identify customers and discern their likely behavior as seamlessly as e-commerce websites do now.
+Similarly, OMO language learning will combine native teachers lecturing remotely, local assistants keeping the atmosphere fun, autonomous software correcting pronunciation, and autonomous hardware grading homework and tests.
+With China in a position to rebuild its offline infrastructure, it can secure a leading position in OMO.
+<P>
+Yet, even as China leads the way in digitizing consumer industries, business adoption of digital technologies has lagged.
+This may be about to change.
+New McKinsey Global Institute research finds that three digital forces – disintermediation (cutting out the middle man), disaggregation (separating processes into component parts), and dematerialization (shifting from physical to electronic form) – could account for (or create) 10-45% of the industry revenue pool by 2030.
+<P>
+<P>
+Those actors that successfully capitalize on this shift are likely to be large enough to influence the global digital landscape, inspiring digital entrepreneurs far beyond China’s borders.
+Value will shift from slow-moving incumbents to nimble digital attackers, armed with new business models, and from one part of the value chain to another.
+Large-scale creative destruction will root out inefficiencies and vault China to a new echelon of global competitiveness.
+<P>
+China’s government has grand plans for the country’s future as a digital world power.
+The State Council-led Mass Entrepreneurship and Innovation Program has resulted in more than 8,000 incubators and accelerators.
+The government’s Guiding Fund program has provided a total of $27.4 billion to venture capital and private equity investors – a passive investment, but with special redemption incentives.
+The authorities are now mobilizing resources to invest $180 billion in building China’s 5G mobile network over the next seven years, and are supporting the development of quantum technology.
+<P>
+The State Council has also issued guidelines for developing AI technologies, with the goal of making China a global AI innovation center by 2030.
+Xiongan, now under construction, may be the first “smart city” designed for autonomous vehicles.
+In Guangdong Province, the government has set an ambitious target of 80% automation by 2020.
+<P>
+Such aspirations will inevitably disrupt the labor market, beginning with routine white-collar jobs (such as customer service and telemarketing), followed by routine blue-collar jobs (such as assembly line work), and finally affecting some non-routine jobs (such as driving or even radiology).
+Recent MGI research found that in a rapid-automation scenario, some 82-102 million Chinese workers would need to switch jobs.
+<P>
+Retraining the displaced will be a major challenge for China’s government, as will preventing the major digital players from securing innovation-stifling monopolies.
+But the government’s readiness to embrace the emerging digital age, pursuing supportive policies and avoiding excessive regulation, has already placed the country at a significant advantage.

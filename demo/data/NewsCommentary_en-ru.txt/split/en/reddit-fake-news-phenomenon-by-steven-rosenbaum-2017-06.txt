@@ -1,0 +1,58 @@
+<HEADLINE>
+The Real Side of Fake News
+<P>
+NEW YORK – Today’s digital devices and social networks deliver so much information that even the savviest consumer cannot evaluate all of it.
+We seem to be living in a version of Aldous Huxley’s Brave New World, where truth is drowned in a sea of irrelevance.
+But the future need not be the dystopia that the present seems to suggest.
+<P>
+The share of Americans who get their news from social media has grown rapidly in recent years, to 62% as of 2016.
+And yet, according to a recent study by the Pew Research Center, media, academic, technology, and publishing professionals have increasingly come to view the Internet as a cesspool of hate speech, anger, and trolls.
+<P>
+Much of what arrives on our digital doorstep these days is best described as “fake news”: hoax stories, propaganda, and other forms of misinformation.
+But while “fake news” is a useful label for a very real problem, it does not tell us if we are in fact living in a “post-truth” world; and, if so, whom we should hold responsible.
+To answer those questions, we need to examine the fake-news infrastructure.
+<P>
+Many of the anonymous political hobbyists and social hackers who are creating and disseminating fake news do so on Reddit.
+With around 300 million monthly users globally, Reddit is the fourth most visited website in the US, and eighth in the world, as of this month.
+<P>
+A casual observer who visits Reddit will find what looks like a Web 1.0 message board that is ridden with near-indecipherable jargon and acronyms, such as “HH,” “cucks,” “centipedes,” and “God Emperor of the Internet.”
+These are insider code words that did not emerge accidentally.
+They respectively refer to “Heil Hitler,” critics of the so-called alt-right, Trump supporters, and, of course, Trump himself.
+<P>
+Despite being wildly popular, Reddit is mentioned in mainstream media coverage only when its most controversial conversations boil over, as occurred in 2008, when a Reddit subpage (or subreddit) called “Jailbait” provided a platform for users to exchange child pornography.
+Following a public outcry, Reddit banned the subreddit in 2011, as it did again when the public took notice of a subreddit about stalking women called “CreepShots.”
+<P>
+Still, misogyny and hate speech have continued to flow freely on the site.
+In an ugly masquerade of free speech, Reddit has hosted subreddits called “BeatingWomen,” “FatPeopleHate,” and “The Chimpire” (promoting racism).
+Most recently, a “Pizzagate” subreddit hosted conspiracy theorists claiming that Hillary Clinton ran a child pornography ring out of a pizza restaurant in Washington, DC.
+When Edgar Maddison Welch, armed with an AR-15, arrived at the establishment and started firing off rounds, the media finally, but only temporarily, took notice of Reddit’s role in the fake-news phenomenon.
+<P>
+Reddit co-founder Alexis Ohanian, for his part, doesn’t seem to spend much time worrying about the potential dangers posed by his website.
+When Ohanian delivered a keynote address at the popular SXSW Interactive Festival in Austin, Texas, this year, he didn’t talk about the line between free speech and hate speech.
+Nor did he mention the infamous subreddit “The_Donald,” which has more than 300,000 registered users, and may have played a critical role in electing Donald Trump.
+Instead, he spoke about a Reddit user called “Shitty Watercolour,” and he declared “pseudonymity” to be the hallmark of freedom and uncensored speech.
+During an “Ask Me Anything” session after his speech, Ohanian took no questions about Pizzagate, “The_Donald,” or hate speech.
+<P>
+To be sure, Reddit isn’t the only supporter of the kind of online anonymity that allows users to distribute hate speech and fake news without consequences.
+And there are those who worry that cleaning up Reddit will only drive the trolls underground to less public sites like Voat.
+But while other large online platforms such as Facebook are taking steps to address the problem, Reddit remains defiant.
+<P>
+Reddit’s relative immunity from criticism may help to explain its indifference.
+As a top-ten site for US web traffic, it acts as a major conduit for media outlets, which use it to increase their page views, and thus their advertising revenues.
+<P>
+Reddit itself is owned by some familiar names.
+Its single largest shareholder is Advance Publications, the parent company of Condé Nast; and its other investors include Marc Andreessen, Peter Thiel, Sam Altman, Ron Conway, Snoop Dogg, Jared Leto, and Josh Kushner, the brother of White House Senior Adviser Jared Kushner.
+Sadly, none of these high-profile investors seems to have objected to Reddit’s hosting of subreddits called “WhiteNationalism,” “rapeisfun,” “BurningKids,” “cutefemalecorpses,” and so on.
+<P>
+Fake news is a symptom of a larger problem.
+With advertising revenues declining, media organizations are increasingly desperate for clicks.
+Most readers do not hesitate to share or re-tweet headlines that support their own biases and beliefs.
+And technology companies shrug and claim that they are “just a platform,” while they reap profits from the traffic that fake news brings in.
+<P>
+So, what can news consumers do to push back against fake news?
+For starters, we should be demanding that trusted media outlets avoid hosting their content on anonymous sites like Reddit.
+And we should apply more pressure on companies like Advance Publications to take responsibility for the sites they own and what happens there.
+<P>
+Above all, that means rolling back the culture of digital anonymity that facilitates hate speech and misinformation.
+Digital platforms should require those who espouse ideas and share information to sign their names to their output.
+Pseudonyms are for fiction writers.

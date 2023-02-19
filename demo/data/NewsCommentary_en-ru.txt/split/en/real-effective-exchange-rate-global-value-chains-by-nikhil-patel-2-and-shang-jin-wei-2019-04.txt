@@ -1,0 +1,60 @@
+<HEADLINE>
+Getting Exchange Rates Right
+<P>
+NEW YORK – The real effective exchange rate (REER) may sound arcane to non-economists, but it is one of the most important international financial indices.
+The REER is a summary index that tracks the difference in the prices of goods produced by a country and its trading partners.
+Other things being equal, an increase in a country’s REER indicates a loss of trade competitiveness.
+And rising current-account imbalances are often associated with deviations in the REER from equilibrium values.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Given the REER’s importance for economic policy – in the current trade discussions between the United States and China, for example – central banks and international financial institutions devote considerable resources to calculating and analyzing it.
+But their methods have become outdated as global value chains (GVCs) become increasingly widespread.
+We therefore recently proposed a new REER calculation with Zhi Wang that addresses the current shortcomings.
+<P>
+Standard calculations of the REER by most central banks and statistical agencies assume that countries export only final goods.
+But GVCs spread the different stages of production among different countries.
+They can do so thanks to technological improvements, lower trade barriers, and the closer integration of emerging markets into the global economy.
+Ignoring this reality can lead to substantial mismeasurement of the REER, resulting in questionable policy inferences.
+<P>
+To see how the standard approach could be wrong, consider a hypothetical value chain for the production of smartphones.
+Suppose Japan manufactures the components and ships them to China, where the phones are assembled and exported globally as finished products.
+Traditional REER models would assume that Japan exports final goods to China, and that the two countries are competitors.
+A depreciation of the Japanese yen, therefore, would help Japan’s competitiveness and hurt that of China.
+<P>
+In this case, however, a weaker yen would lower the price of Japanese components, which may lead to lower prices and increased demand for Chinese phones – leading to an improvement in China’s competitiveness.
+This example shows that the standard REER calculation is getting not only the magnitude wrong, but also the direction of change.
+<P>
+Our proposed framework addresses these problems.
+It also provides REER measures for individual sectors within a country.
+This makes it possible to assess the competitiveness of different parts of the economy, and to determine which sectors are the main drivers of the overall REER.
+<P>
+Taking GVCs into account alters our understanding of China’s bilateral real exchange rate against the US dollar.
+China has increased its global trade footprint massively following its accession to the World Trade Organization in 2001.
+The US, meanwhile, has long blamed its rising current-account deficit on the renminbi’s allegedly undervalued exchange rate.
+<P>
+Although China’s gross exports to the US are sizeable, China operates largely “downstream” in several GVCs.
+This is exemplified in the production of smartphones and electronic goods.
+As a result, a large part of Chinese exports represents value added embedded in parts and components from other countries besides China – including a significant share coming from the US itself.
+Moreover, US competitiveness relative to China depends more on prices in tradable sectors such as electronics than on those in non-tradable parts of the economy, like real estate.
+But commonly used aggregate measures of the REER do not allow for these distinctions.
+<P>
+Once these factors are taken into account, our analysis shows that China’s real exchange rate against the US dollar displays a pronounced and consistent appreciation trend.
+By contrast, the standard calculation shows a real depreciation of the renminbi in the period leading up to China’s abandonment of its exchange-rate peg in 2005, and then an exchange-rate appreciation that is smaller than the traditionally measured one.
+<P>
+<P>
+Similarly, for the eurozone, our GVC exchange-rate-based measure implies that Greece’s loss of competitiveness (or REER appreciation) relative to Germany was worse than the standard measure suggests, and that Greece’s competitiveness in the period leading up to the eurozone crisis was thus worse.
+This mismeasurement arose because the standard REER calculation was based on the extent to which Germany’s inflation rate differed from Greece’s, but it underestimated the difference made by GVCs.
+<P>
+<P>
+<P>
+Far from being a theoretical concept confined to economics textbooks, the REER has significant real-world relevance.
+Calculating it more accurately could reduce the risk of misguided economic policies.
+And it may lead policymakers to reach some very different conclusions about which measures to pursue.

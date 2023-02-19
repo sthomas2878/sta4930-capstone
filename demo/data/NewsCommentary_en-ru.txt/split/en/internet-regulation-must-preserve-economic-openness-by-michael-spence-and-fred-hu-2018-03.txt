@@ -1,0 +1,51 @@
+<HEADLINE>
+Preventing the Balkanization of the Internet
+<P>
+BEIJING – The recent revelation that more than 50 million Facebook profiles were harvested by app and given to political consultancy Cambridge Analytica has produced a backlash against the platform.
+But it is just the latest example of the risks associated with the Internet, which forms the core of today’s digital revolution.
+<P>
+Most of the digital innovations that have reshaped the global economy over the last 25 years rely on network connectivity, which has transformed commerce, communication, education and training, supply chains, and much more.
+Connectivity also enables access to vast amounts of information, including information that underpins machine learning, which is essential to modern artificial intelligence.
+<P>
+Over the last 15 years or so, mobile Internet has reinforced this trend, by rapidly increasing not just the number of people who are connected to the Internet, and thus able to participate in the digital economy, but also the frequency and ease with which they can connect.
+From GPS navigation to ride-sharing platforms to mobile-payment systems, on-the-go connectivity has had a far-reaching impact on people’s lives and livelihoods.
+<P>
+For years, it was widely believed that an open Internet – with standardized protocols but few regulations – would naturally serve the best interests of users, communities, countries, and the global economy.
+But major risks have emerged, including monopoly power for mega-platforms like Facebook and Google; vulnerability to attacks on critical infrastructure, including financial-market systems and electoral processes; and threats to privacy and the security of data and intellectual property.
+Fundamental questions about the Internet’s impact on political allegiance, social cohesion, citizen awareness and engagement, and childhood development also remain.
+<P>
+As the Internet and digital technologies penetrate economies and societies more deeply, these risks and vulnerabilities become increasingly acute.
+And, so far, the predominant approach to managing them in the West – self-regulation by the companies that provide the services and own the data – does not seem to be working.
+Major platforms can’t be expected to remove “objectionable” content, for example, without guidelines from regulators or courts.
+<P>
+Given this, we seem to be facing a new transition from the open Internet of the past to one subject to more extensive control.
+But this process carries risks of its own.
+<P>
+Though there is a strong case for international cooperation, such an approach seems unlikely in the current climate of protectionism and unilateralism.
+It is not even clear that countries will agree to treaties banning cyber warfare.
+Even if some semblance of international cooperation were mustered, non-state actors would continue to act as spoilers – or worse.
+<P>
+Against this background, it seems likely that new regulations will be initiated largely by individual states, which will have to answer difficult questions.
+Who is responsible – and liable – for data security?
+Should the state have access to user data, and for what purposes?
+Will users be allowed to maintain anonymity online?
+<P>
+Countries’ answers to such questions will vary widely, owing to fundamental differences in their values, principles, and governance structures.
+For example, in China, the authorities filter content deemed to be inconsistent with state interests; in the West, by contrast, there is no entity with legitimate authority to filter content, except in extreme cases (for example, hate speech and child pornography).
+Even in areas where there does seem to be some consensus – such as the unacceptability of disinformation or of foreign meddling in electoral processes – there is no agreement on the appropriate remedy.
+<P>
+The lack of consensus or cooperation could lead to the emergence of national digital borders, which would not only inhibit flows of data and information, but also disrupt trade, supply chains, and cross-border investment.
+Already, most US-based technology platforms cannot operate in China, because they cannot or will not accept the authorities’ rules about state access to data and control over content.
+<P>
+Meanwhile, the US has blocked the Chinese company Huawei from investing in software startups, providing network equipment to wireless carriers, or (along with ZTE) selling mobile phones in the US market, owing to the firm’s alleged ties to the Chinese government.
+Huawei and ZTE both maintain that their activities are purely commercial, and that they play by the rules wherever they operate, but US officials continue to insist that the companies pose a security risk.
+<P>
+By contrast, nearly all European countries, including the United Kingdom, are receptive to Huawei and ZTE, both of which are major players in Europe.
+Yet Europe is creating its own barriers, with new data-protection and privacy rules that may well impede the application of machine learning.
+Unlike China and the US, Europe is not yet home to a mega-platform of the type that is leading the way in machine-learning innovations.
+<P>
+With the entire global economy becoming inextricably linked to the Internet and digital technologies, stronger regulation is more important than ever.
+But if that regulation is fragmented, clumsy, heavy-handed, or inconsistent, the consequences for economic integration – and, in turn, prosperity – could be severe.
+<P>
+Before the world adopts ineffective or counterproductive solutions, policymakers should think carefully about how best to approach regulation.
+If we cannot agree on every detail, perhaps we can at least identify a set of shared principles that can form the basis of multilateral agreements that proscribe destructive activity such as the misuse of data, thereby helping to preserve an open global economy.

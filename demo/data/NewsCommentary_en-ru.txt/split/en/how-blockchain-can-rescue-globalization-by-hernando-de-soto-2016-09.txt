@@ -1,0 +1,64 @@
+<HEADLINE>
+Globalization for Everyone
+<P>
+LIMA – Nowadays, globalization’s opponents seem increasingly to be drowning out its defenders.
+If they get their way, the post-World War II international order – which aimed, often successfully, to advance peace and prosperity through exchange and connection – could well collapse.
+Can globalization be saved?
+<P>
+At first glance, the outlook appears grim.
+Every aspect of globalization – free trade, free movement of capital, and international migration – is under attack.
+Leading the charge are antagonistic forces – from populist political parties to separatist groups to terrorist organizations – whose actions tend to focus more on what they oppose than on what they support.
+<P>
+In Russia and Asia, anti-Western groups are at the forefront of the campaign against globalization.
+In Europe, populist parties have tended to emphasize their aversion to European integration, with those on the right often also condemning immigration, while the left denounces rising economic inequality.
+In Latin America, the enemy seems to be foreign interference of any kind.
+In Africa, tribal separatists oppose anyone standing in the way of independence.
+And in the Middle East, the Islamic State (ISIS) virulently rejects modernity – and targets societies that embrace it.
+<P>
+Despite their differences, these groups have one thing in common: a deep hostility toward international structures and interconnectedness (though, of course, a murderous group like ISIS is in a different category from, say, European populists).
+They do not care that the international order they want to tear down enabled the rapid post-1945 economic growth that liberated billions of developing-country citizens from poverty.
+All they see are massive, unbending institutions and intolerable inequalities in wealth and income, and they blame globalization.
+<P>
+There is some truth to these arguments.
+The world is a very unequal place, and inequality within societies has widened considerably in recent decades.
+But this is not because of international trade or movements of people; after all, cross-border trade and migration have been happening for thousands of years.
+<P>
+The anti-globalization movements’ proposed solution – closing national borders to trade, people, or anything else – thus makes little sense.
+In fact, such an approach would hurt virtually everyone, not just the wealthy elites who have benefited most from globalized markets.
+<P>
+So what is fueling inequality?
+To answer that question, we must consider what about globalization is generating returns for the wealthy.
+<P>
+A central aspect of globalization is the careful documentation of the knowledge and legal tools needed to combine the property rights of seemingly useless single assets (electronic parts, legal rights to production, and so on) into complex wholes (an iPhone), and appropriate the surplus value they generate.
+Clear and accessible ledgers that faithfully describe not only who controls what and where, but also the rules governing potential combinations – of, say, collateral, components, producers, entrepreneurs, and legal and property rights – are vital for the system to function.
+<P>
+The problem is that five billion people around the world are not documented in national ledgers in anything approaching an organized manner.
+Instead, their entrepreneurial talents and legal rights to assets are recorded in hundreds of scattered records and rules systems throughout their countries, making them internationally inaccessible.
+<P>
+Under these conditions, it is impossible for the majority of humanity to participate effectively in their national economies, much less the global one.
+Without any means of participating in the process of producing high-value combinations, people have no chance of seizing some of the surplus value created.
+<P>
+So it is a lack of consolidated, documented knowledge – not free trade – that is fueling inequality worldwide.
+But addressing this problem will not be easy.
+Just determining how many people are left out took my organization, the Institute for Liberty and Democracy (ILD), two decades of fieldwork, conducted by more than 1,000 researchers in some 20 countries.
+<P>
+The main problem is legal lag.
+The lawyers and corporate elites who draft and enact the legislation and regulations that govern globalization are disconnected from those who are supposed to implement the policies at the local level.
+In other words, the legal chain is missing a few crucial links.
+<P>
+Experience in Japan, the United States, and Europe shows that a straightforward legal approach to ensuring equal rights and opportunities can take a century or more.
+But there is a faster way: treating the missing links as a break not in a legal chain, but in a knowledge chain.
+<P>
+We at the ILD know something about knowledge chains.
+We spent 15 years adding millions of people to the globalized legal system, by bringing the knowledge contained in marginal ledgers into the legal mainstream – all without the help of computers.
+But we do not have decades more to spend on this process; we need to bring in billions more people, and fast.
+That will require automation.
+<P>
+Last year, ILD began, with pro bono support from Silicon Valley firms, to determine whether information technology, and specifically blockchain (the transparent, secure, and decentralized online ledger that underpins Bitcoin), could enable more of the world’s population to get in on globalization.
+The answer is a resounding yes.
+<P>
+By translating the language of the legal chain into a digital language – an achievement that required us to develop a set of 21 typologies – we have created a system that could locate and capture any ledger in the world and make it public.
+Moreover, we have been able to compress into 34 binary indicators the questions that computers have to ask captured ledgers to determine which provisions should be inserted in blockchain smart contracts between globalized firms and non-globalized collectives.
+<P>
+Information technology has democratized so many elements of our lives.
+By democratizing the law, perhaps it can save globalization – and the international order.

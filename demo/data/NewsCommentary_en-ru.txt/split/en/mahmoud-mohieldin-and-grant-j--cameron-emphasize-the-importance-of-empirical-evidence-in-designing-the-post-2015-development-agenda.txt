@@ -1,0 +1,40 @@
+<HEADLINE>
+Data and Development
+<P>
+WASHINGTON, DC – Since the turn of the century, the international development community has rallied behind the Millennium Development Goals, which set specific targets in eight key areas, including poverty, child mortality, and disease, to be achieved by 2015.
+In formulating the post-2015 development agenda, measuring the MDGs’ successes – and identifying where progress has lagged – is critically important.
+And that demands more and better data.
+<P>
+To be sure, international institutions and many developing countries have invested significantly in improving data collection to track better their performance against MDG targets.
+In 2003, only four countries had two data points for 16 or more of the 22 principal MDG indicators; by last year, that figure had soared to 118 countries.
+<P>
+But development data remain a scarce resource in the developing world.
+Given their value in measuring – and propelling – social and economic progress, this shortage must be addressed urgently.
+A catalyst is needed to expand the production and use of development data.
+With this in mind, the high-level panel on the post-2015 development agenda is right to call for a global “data revolution.”
+<P>
+The meteoric rise of digital technologies has changed the global landscape since 2000, when the MDGs were launched.
+Remote sensing, information gathered from online activity, and crowd-sourced data from mobile phones can complement traditional methods of gathering statistics.
+<P>
+This technology-driven shift in the way people create, curate, share, and apply data should be reflected in development efforts for two reasons.
+First, policymakers are eager to attain more up-to-date data that can guide their efforts.
+Second, these data can also help drive innovation and civic engagement, by enabling the development of new and more effective goods and services.
+<P>
+However, there is a caveat.
+The size and complexity of these datasets require specialized analytical skills (which remain in short supply), as well as more research and experimentation.
+<P>
+Increasing the quantity, quality, availability, and usability of data for development requires addressing the market failures that lead to gaps in data use and coverage in developing countries.
+This means that as technology, data, and data users and providers make rapid advances, cooperation among diverse actors – governments, national statistics offices, donor agencies, global and local NGOs, academic and research institutions, the private sector and others – will be needed.
+<P>
+In this spirit of cooperation, the major multilateral development institutions – the African Development Bank, the Asian Development Bank, the Inter-American Development Bank, the International Monetary Fund, the Islamic Development Bank, the United Nations, and the World Bank – have already begun to strengthen their joint efforts in producing and sharing development data.
+And the effort has already borne fruit.
+<P>
+But there is much more to be done.
+Through new forms of collaboration, developing-country statistical agencies should aim to improve data coverage and quality, while leveraging technology to make data easier to manage, use, and access.
+<P>
+More (and more reliable) data could also improve decision-making by helping policymakers to understand specific social, economic, and environmental issues.
+Better gender statistics could provide a more detailed understanding of women’s access to justice, education, and finance; improved measures of poverty and inequality could reveal how the benefits of economic growth are distributed; and natural capital accounting could uncover the value of resource endowments, thereby helping to ensure that they are used in a rational and sustainable manner.
+<P>
+Obviously, data related to issues that directly affect the wellbeing of people and the planet are essential for effective policymaking.
+Making such data open and accessible should be viewed as a basic condition of ensuring people’s ability to hold governments accountable and thus participate in decisions that affect their lives.
+The more resources that are devoted to achieving this goal, the more effective the post-2015 development agenda will be.

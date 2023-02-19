@@ -1,0 +1,54 @@
+<HEADLINE>
+Two Views of Finance
+<P>
+WASHINGTON, DC – The International Monetary Fund’s annual meetings will be held on October 10-12 in Washington DC, and the world’s financial sector is a central item on the agenda.
+That will make for an interesting meeting, because two diametrically opposed views of the global financial system will face off against each other.
+<P>
+The first view is that “we have done a lot” since the global financial crisis erupted in 2008.
+According to this view, which is put forward on a regular basis by some US Treasury officials and their European counterparts, there may be a bit more to do in terms of implementing reforms, but our banks and other financial firms have already become much safer.
+The crisis of 2008 cannot soon be repeated.
+<P>
+The second view is that we are a long way from completing the far-reaching changes that we need.
+Even worse, on at least one key point, the very language used among policymakers and leading journalists to describe finance is badly broken.
+<P>
+The issues are complex and nuances abound, but much of what divides the two sides in this debate comes down to this: Is it acceptable to say that banks “hold” capital?
+<P>
+This is an expression used with great regularity among top finance reporters (though not, for example, by Bloomberg/BusinessWeek, which has long been much more careful on this point).
+“Banks will need to hold more capital” is a common refrain, describing efforts by regulators – and, in the United States, some legislators – to require that financial institutions fund themselves with relatively more equity and less debt.
+<P>
+Using “hold” in this way is both completely conventional and deeply misleading.
+In any other common English language usage, “hold” is an active verb or a noun with a similar connotation.
+You hold a baby in your arms.
+Please hold on tight to this rope.
+He had a strong hold over his colleagues.
+<P>
+This matters, because “holding” capital has become a disguised or implicit metaphor.
+The implication is that banks are being asked to sequester part of the asset side of their balance sheets – and this naturally leads to the perception that somehow “less is available” to lend, for example, to the real (non-financial) economy.
+I encounter this view frequently, even in sophisticated circles – for example, on Capitol Hill.
+<P>
+But this interpretation is a complete – and sometimes deliberate – misunderstanding of bank capital and the policies being pursued.
+(Anat Admati and Martin Hellwig have pointed out that there are many misperceptions in this area; but, of these, misconstruing capital is surely the most fundamental.)
+<P>
+Capital, in this context, is simply a synonym for equity, which is on the liability side of a bank’s (or anyone’s) balance sheet.
+It refers to how a bank (or other firm) finances its activities, not to how it uses the funds that it has available.
+<P>
+Higher capital requirements mean, in essence, more equity funding and – by implication, under any sensible definition – relatively less debt for a given balance-sheet size.
+This is an attractive and sensible policy, because today’s global banks have relatively small slivers of equity underpinning their operations.
+<P>
+The best comparable measures of bank capital are those found in the Global Capital Index produced by Thomas Hoenig, Vice Chairman of the Federal Deposit Insurance Corporation.
+Hoenig looks at how much equity banks have in the simplest and most transparent measure (also known as leverage).
+Six years after the world’s largest financial crisis, our megabanks have equity amounting to no more than 5% of their balance sheets.
+(In fact, some banks have not much more than 3% equity.)
+That means that 95% of their operations are financed by debt – and thus that only a small negative shock would be needed to push them toward insolvency.
+<P>
+Many measures are still needed to address this vulnerability, including the formalization of international cooperation to handle failing financial firms.
+We need these firms to be able to fail without causing a global panic.
+They should prepare meaningful “living wills,” to show how this will be possible; in fact, such plans are a requirement – still unimplemented – of the 2010 Dodd-Frank financial reforms in the US.
+<P>
+But there is a much simpler step that would make a big difference: A senior policymaker, such as a member of the Federal Reserve’s Board of Governors or the president of the New York Fed, should make a speech that explains clearly what bank capital is (and what it is not).
+<P>
+Journalists who ignore the guidance on terminology in this speech should be called – in private – by the Fed.
+The Fed devotes considerable effort to ensuring that the public understands its monetary policy; officials should devote similar effort to communicating regulatory policy precisely.
+<P>
+And Hoenig’s index should be picked up and publicized by a major organization, such as the IMF.
+We need not only more precise use of language, but also timely and accurate measurement of banks’ capital levels.

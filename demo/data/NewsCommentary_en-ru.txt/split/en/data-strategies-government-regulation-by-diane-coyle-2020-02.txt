@@ -1,0 +1,65 @@
+<HEADLINE>
+It’s Now or Never for National Data Strategies
+<P>
+CAMBRIDGE – Everybody seems to agree that data will play a fundamental role in the economy of the future, whether through health discoveries, smart energy grids, autonomous vehicles, or other areas of innovation.
+The problem is that nobody knows precisely how the new forms of economic value will be created, who will benefit, or what the regulatory response should be.
+In addition to enthusiasm about the power of big data, there are growing concerns about its potential to be abused, including in the case of facial recognition and other applications that involve a significant erosion of privacy.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In any case, the volume of data being generated annually has grown at a staggering pace, increasing fourfold in just five years, by some estimates.
+Given this pace of growth, ensuring that the data explosion serves society’s interests has gained new urgency.
+Yet too little is known about who holds what data, or about the potential value of some forms of data as opposed to others.
+<P>
+As an economic matter, data are fundamentally different from most other goods and services such as cars, haircuts, and indeed oil.
+Two features of data, in particular, make assessing their value difficult, while at the same time underscoring the distinction between their potential value to society and their private-market value.
+<P>
+The first characteristic, in the economic jargon, is non-rivalry: data can be used by many people simultaneously.
+Once data are created and cataloged in a useful format, they can be furnished to additional users at low or even no cost.
+But, as with other public goods such as parks or roads, collecting, compiling, and formatting socially useful data may require significant upfront financing.
+That is why there are already so many restrictions on access to existing data; those who have built the databases need to recoup their costs.
+<P>
+The second key feature of data concerns externalities: the value of data to any one user is closely linked to actions taken by others.
+The erosion of privacy is one oft-mentioned negative externality associated with the collection and selling of personal data.
+But an issue that has received less attention is the potential for data to yield positive externalities.
+Private companies already derive valuable commercial insights from combining data about individual customers into larger sets.
+But these benefits pale in comparison to what could be gained if the relevant data sets were not siloed in different public and private organizations.
+<P>
+Of course, the specific informational content of any given data set also affects its value.
+Is the data set for a population of users general or specific?
+Does it include geographic and temporal characteristics, and is it accessible and interoperable across different platforms?
+All of these considerations matter for determining use value.
+And while there is already a data market, data are far from becoming a standardized commodity whose value can readily be established through trades.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Complicating matters further, the same data can have very different value to different users.
+The economic value – both commercial and in terms of wider economic welfare – of any specific data set is context specific.
+Yet, just as too much of the current policy debate treats all data as a homogenous good, so does the preoccupation with “personal” data and privacy – while an important issue – divert attention from the ways that data could be put to good public and social use.
+<P>
+How can we broaden the scope of the current debate?
+First, we must accept that markets alone will not make the most of this new resource, owing to non-rivalry and various externalities.
+Because market forces will produce too much of some types of data and too little of other types, governments will have to step in to ensure that the benefits of public and private data are being maximized.
+<P>
+Specifically, that means maintaining fair competition in private, data-intensive markets (as envisioned in the European Commission’s newly proposed data strategy), and ensuring that private and public service providers can access and combine different sources of data.
+Governments should not be granting exclusive rights to public-sector data that could be used by other third parties to deliver social benefits.
+In fact, policymakers should even consider mandating that certain forms of private-sector data be made accessible to third parties, in order to ensure interoperability between platforms.
+<P>
+To be sure, these proposals presuppose significant institutional innovation.
+Governments will need to support the institutions that will be trusted with protecting, monitoring, and controlling access to data.
+While some of these institutions will need to be created from scratch, there are already ongoing experiments with new forms of digital governance such as data trusts and data stewards.
+<P>
+In addition to fostering institutional reform, policymakers also will need to make some tough choices.
+There is a tradeoff between incentivizing investment in high-quality data and granting wide access to it.
+Policymakers will need to strike a balance between these concerns, perhaps by exploring the use of time-limited and non-exclusive rights or a data equivalent to patent pools.
+<P>
+When it comes to funding public data, the financial and licensing terms of public-sector deals with private companies will need to be transparent, so that other parties can make a case for more valuable uses of the same data.
+On the pretext of commercial confidentiality, the official bodies that are currently selling access to public data are making it harder for themselves to get a good deal.
+They are effectively preventing competition, and thus undermining their own legitimacy by sowing distrust among the citizens whose data is being sold.
+<P>
+Figuring out how to get the best out of data is still an inchoate effort.
+But as our new report for the Nuffield Foundation shows, the issues and tradeoffs involved are becoming clearer all the time.
+Above all, policymakers need to recognize the urgency of the challenge at hand.
+Now is the time to start developing data strategies, policies, and regulations.
+Otherwise, the gains of the data age will be seized by a small number of big companies, and much of the potential benefit to society will be squandered.

@@ -1,0 +1,59 @@
+<HEADLINE>
+Nothing Natural About the Natural Rate of Unemployment
+<P>
+NEW YORK – Why is unemployment so low in countries where inflation remains subdued?
+For economists, this is a fundamental question.
+And when economists confront a fundamental question, fundamental disagreement often follows.
+<P>
+I was one of the rebel economists of the 1960s who rejected the macroeconomics we were taught in the 1950s – the “Keynesian” theory developed by J.R. Hicks, A.W. Phillips and James Tobin, according to which aggregate demand drove everything.
+High unemployment was caused only by deficient demand, and low unemployment only by abnormally high demand.
+<P>
+This bothered us, because the basic economic theory we were taught – the theory built by Alfred Marshall, Knut Wicksell, and Robert Solow – said everything was driven by structural forces.
+Faster technological progress and a greater preference to work or to save were to be welcomed, because they would boost the supply of labor and capital – and thus employment and investment.
+But the Keynesians maintained that structural forces were bad, because they cost people their jobs, unless policymakers manufactured enough demand to match the increase in supply.
+<P>
+A conclusion we drew was that, at the very least, the path of an economy, measured by conventional macroeconomic variables of unemployment, inflation, and output growth, is not fully determined by aggregate demand.
+Structural forces matter.
+Keynesians’ claim that “demand” is all-powerful – that it alone increases employment and thus investment and even growth – was groundless.
+Yet they continue to repeat it.
+<P>
+The structuralist perspective on macroeconomic behavior led to the concept that came to be called the “natural” rate of unemployment, borrowing from the notion, which arose in Europe during the interwar years, of a “natural” interest rate.
+Yet the term “natural” was misleading.
+<P>
+The basic idea of the structuralist approach is that while market forces are always fluctuating, the unemployment rate actually has a homing tendency.
+If it is, say, below its “natural” level, it will rise toward this level – and the rate of inflation will pick up.
+(Of course, a fresh shock to demand could send unemployment back up and reduce inflation; but the “natural rate” always exerts its centripetal force.)
+<P>
+But there is a complication I have long emphasized.
+The “natural rate” itself may be pushed up or pulled down by structural shifts.
+Moreover, shifts in human attitudes and norms may also have an impact.
+<P>
+Yet a curious development has posed a challenge to this view.
+America and the eurozone are in the midst of a boom.
+In America, unemployment has reached very low levels and shows no sign of rising back to its former natural rate – whatever its new level may be.
+With no more evidence than that, a structuralist model would predict an inflation rate that is already elevated and rising – and the inflation rate is not running high, even though the US Federal Reserve has flooded the economy with liquidity.
+In the eurozone, too, unemployment is falling, yet inflation rates are still low there, too.
+<P>
+What explains the paradox of low unemployment despite low inflation (or vice versa)?
+So far, economists – structuralists as well as diehard Keynesians – have been stumped.
+The answer must be that the “natural rate” is not a constant of nature, like the speed of light.
+Certainly, it could be moved by structural forces, whether technological or demographic.
+<P>
+It is possible, for example, that demographic trends are slowing wage growth and reducing the natural rate.
+From the 1970s to the late 2000s, demography was essentially a dormant issue.
+Now, the baby boomers are retiring from relatively high-wage jobs while young people, who start at relatively low wages, are still pouring in to the labor market.
+This slows the growth of wage rates at a given unemployment rate, leading to lower unemployment at a given rate of wage growth.
+<P>
+More interesting is the possible effect of people’s values and attitudes, and their hopes and fears about the unknown and unknowable, on the natural rate.
+Here we are entering terra incognita.
+<P>
+For me, a compelling hypothesis is that workers, shaken by the 2008 financial crisis and the deep recession that resulted, have grown afraid to demand promotions or to search for better-paying employers – despite the ease of finding work in the recently tight labor market.
+A corollary hypothesis is that employers, disturbed by the extremely slow growth of productivity, especially in the past ten years, have grown leery of granting pay raises – despite the return of demand to pre-crisis proportions.
+<P>
+I have also argued, based on a model of mine, that as the return of a strong dollar by early 2015 threatened to inundate American markets with imports, firms became scared to supply more output at the same price.
+Or else they supplied the same output as before at reduced prices.
+And they refused to raise employees’ wages.
+In short, more competition created “super-employment” – low unemployment and low inflation.
+<P>
+All this does not mean there is no natural unemployment rate, only that there is nothing natural about it.
+There never was.

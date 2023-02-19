@@ -1,0 +1,50 @@
+<HEADLINE>
+The Data Revolution for Sustainable Development
+<P>
+NEW YORK – There is growing recognition that the success of the Sustainable Development Goals (SDGs), which will be adopted on September 25 at a special United Nations summit, will depend on the ability of governments, businesses, and civil society to harness data for decision-making.
+The key, as I have highlighted before, is to invest in building innovative data systems that draw on new sources of real-time data for sustainable development.
+<P>
+We live in a data-driven world.
+Advertisers, insurance companies, national security agencies, and political advisers have already learned to tap into big data, sometimes to our chagrin; so, too, have countless scientists and researchers, thereby accelerating progress on new discoveries.
+But the global development community has been slower to benefit – not least because too much development data are still being collected using cumbersome approaches that lag behind today’s technological capabilities.
+<P>
+One way to improve data collection and use for sustainable development is to create an active link between the provision of services and the collection and processing of data for decision-making.
+Take health-care services.
+Every day, in remote villages of developing countries, community health workers help patients fight diseases (such as malaria), get to clinics for checkups, receive vital immunizations, obtain diagnoses (through telemedicine), and access emergency aid for their infants and young children (such as for chronic under-nutrition).
+But the information from such visits is usually not collected, and even if it is put on paper, it is never used again.
+<P>
+We now have a much smarter way to proceed.
+Community health workers are increasingly supported by smart-phone applications, which they can use to log patient information at each visit.
+That information can go directly onto public-health dashboards, which health managers can use to spot disease outbreaks, failures in supply chains, or the need to bolster technical staff.
+Such systems can provide a real-time log of vital events, including births and deaths, and even use so-called verbal autopsies to help identify causes of death.
+And, as part of electronic medical records, the information can be used at future visits to the doctor or to remind patients of the need for follow-up visits or medical interventions.
+<P>
+Education provides the same kind of vast opportunity.
+Currently, school enrollment rates tend to be calculated based on student registrations at the beginning of the school year, even though actual attendance may be far below the registration rate.
+Moreover, officials wishing to report higher enrollment rates sometimes manipulate registration data, so we never get an accurate picture of who is actually at school.
+<P>
+With mobile apps, schools and community education workers can log student and teacher attendance on a transparent, real-time basis, and follow up more easily with students who drop out, especially for reasons that could be overcome through informed intervention by community education workers.
+This information can be fed automatically into dashboards that education administrators can use to track progress in key areas.
+<P>
+Such data collection can accelerate sustainable development by improving decision-making.
+But that is only the first step.
+The same techniques should also be used to collect some of the key indicators that measure progress on the SDGs.
+<P>
+In fact, measuring progress at frequent intervals, and publicizing the successes and shortfalls, is vital to keeping the world on track to meet its ambitious long-term targets.
+Doing so would not only enable us to reward governments that are fostering progress; it would also keep laggard governments accountable for their weak performance and, one hopes, motivate them to redouble their efforts.
+<P>
+The need for such real-time measurement became apparent over the last 15 years, when the world was pursuing the Millennium Development Goals.
+Given that many key indicators are not yet collected in real time, but only through laborious retrospective household surveys, the indicators for the key poverty-reduction goal are as much as five years out of date for many countries.
+The world is aiming for 2015 targets for poverty, health, and education, with, in some cases, key data only up to 2010.
+<P>
+Fortunately, the information and communications technology revolution and the spread of broadband coverage nearly everywhere can quickly make such time lags a thing of the past.
+As indicated in the report A World that Counts: Mobilizing the Data Revolution for Sustainable Development, we must modernize the practices used by statistical offices and other public agencies, while tapping into new sources of data in a thoughtful and creative way that complements traditional approaches.
+<P>
+Through more effective use of smart data – collected during service delivery, economic transactions, and remote sensing – the fight against extreme poverty will be bolstered; the global energy system will be made much more efficient and less polluting; and vital services such as health and education will be made far more effective and accessible.
+<P>
+With this breakthrough in sight, several governments, including that of the United States, as well as businesses and other partners, have announced plans to launch a new “Global Partnership for Sustainable Development Data” at the UN this month.
+The new partnership aims to strengthen data collection and monitoring efforts by raising more funds, encouraging knowledge-sharing, addressing key barriers to access and use of data, and identifying new big-data strategies to upgrade the world’s statistical systems.
+<P>
+The UN Sustainable Development Solutions Network will support the new Global Partnership by creating a new Thematic Network on Data for Sustainable Development, which will bring together leading data scientists, thinkers, and academics from across multiple sectors and disciplines to form a center of data excellence.
+We are delighted to be chairing this network, which has at its core a commitment to turn facts and figures into real development progress.
+We firmly believe the data revolution can be a revolution for sustainable development, and we welcome partners from around the world to join us.

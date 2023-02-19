@@ -1,0 +1,50 @@
+<HEADLINE>
+Monetary-Policy Normalization in Europe in 2018
+<P>
+BUENOS AIRES – When the European Central Bank’s Governing Council met on December 14, there was little to surprise financial markets, because no policy changes could be gleaned from public remarks.
+The previous meeting, in late October, had already set the stage for the normalization of monetary policy, with the announcement that the ECB would halve its monthly asset purchases, from €60 billion ($71 billion) to €30 billion, beginning in January 2018.
+<P>
+The motivation behind normalization does not appear to be the eurozone’s inflation performance, which continues to undershoot the target of roughly 2% by an uncomfortable margin.
+Inflation expectations, while inching up recently, also appear anchored well below target, despite recent soaring confidence readings.
+And the ECB’s own forecast suggests that it does not anticipate that price growth will breach 2% anytime soon.
+<P>
+What about the output gap?
+In step with the US Federal Reserve, the ECB nudged its growth forecasts higher.
+In that setting, R-star (the natural rate of interest) may be perceived as drifting up, in line with output moving closer to potential across a broad swath of eurozone economies.
+<P>
+Still, OECD estimates of the 2017 (and 2018) output gap for most of the eurozone countries (Germany and Ireland are notable exceptions) suggest that there is slack, and in numerous cases considerable slack.
+While German unemployment, now below 4%, is at its lowest level since reunification, EU unemployment still hovers around 9%.
+Given this, it appears premature to view fears of eurozone overheating as the main driver of monetary-policy normalization.
+<P>
+Perhaps there are other motives for normalization that the ECB doesn’t discuss publicly.
+Financial stability comes to mind.
+After all, the Fed does not forecast recessions, and the International Monetary Fund usually does not issue public pronouncements on a country’s odds of default.
+The silence reflects an understandable desire to avoid fueling a self-fulfilling process.
+<P>
+The risks to financial stability from keeping interest rates too low for too long are neither new nor unique to the eurozone.
+At the risk of oversimplifying, the gist of these arguments is that ample and inexpensive credit inflates asset-price bubbles, encourages excessive risk taking, drives up leverage, and may even delay necessary economic reforms.
+<P>
+There is some basis for concern in the eurozone on all these fronts.
+While debt-service ratios are mostly low, that could change when interest rates rise.
+Moreover, property prices are increasing rapidly in some locales, and a few broad share indexes posted double-digit percentage gains over the past year.
+<P>
+It is hardly a coincidence, however, that financial stability risks have recently been emphasized by Germany’s Bundesbank, the most hawkish of the eurozone’s national central banks.
+In this context, it is important to ensure that policy normalization in the eurozone does not become Germanization, which was the status quo the last time eurozone conditions were “normal,” before the financial crisis.
+<P>
+The Taylor rule (proposed by the Stanford University economist John Taylor in the early 1990s) is often used to describe central banks’ interest-rate policies.
+Specifically, the rule shows how the policy interest rate responds to changes in inflation, the gap between potential and actual output, and other economic conditions.
+As part of a larger focus on exchange-rate and monetary policies worldwide, my recent study with Ethan Ilzetzky and Kenneth Rogoff presents estimates of individual Taylor rules for the eurozone countries from 1992 to 2015.
+<P>
+The main lesson from that exercise is that, from the early days of the euro (1999) until approximately 2010 (when the crisis in Greece and the eurozone periphery erupted in force), ECB interest-rate policy was an extension of the pre-euro 1992-1998 Deutschemark (DM) policies of the Bundesbank (see figure).
+In effect, the actual Bundesbank/ECB rate moved closely in tandem with the interest rate predicted by a Taylor rule applied to Germany.
+<P>
+<P>
+By contrast, for all the other eurozone members, there were large deviations between the ECB policy interest rate and the interest rates consistent with the Taylor rule.
+In the years before the crisis, interest rates were “too low” for eurozone countries, like Spain, that were booming.
+It is only after the 2010 episode that the ECB policy rate fell substantially and persistently below the interest rate consistent with a Taylor rule for Germany.
+<P>
+While normalization and the related downsizing of the ECB’s bond purchase program are part and parcel of the long-awaited recovery cycle in Europe, the modalities, magnitude, and speed of execution remain critical, especially when the post-crisis era is placed in historical context.
+With the exception of Germany, the European recovery from the 2008 global financial crisis has been among the slowest in more than a century’s worth of cases.
+<P>
+The ECB would do well to proceed with caution on two fronts in 2018.
+It must cope with mounting pressure from Germany for a more aggressive approach to normalization, and it must avoid becoming overconfident about the durability and breadth of the unfolding recovery.

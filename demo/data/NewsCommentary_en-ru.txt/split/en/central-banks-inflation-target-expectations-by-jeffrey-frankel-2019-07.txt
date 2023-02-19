@@ -1,0 +1,69 @@
+<HEADLINE>
+Central Banks Should Forget About 2% Inflation
+<P>
+CAMBRIDGE – The United States Federal Reserve has some reasons to cut interest rates at its July 31 meeting, or subsequently if the US economy weakens.
+(There is also a case for holding rates steady, if growth remains as strong as it has been over the past year.)
+But one argument for easing is less persuasive: a perceived imperative to get US inflation up to or above 2%.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The Fed set the 2% inflation target in January 2012 under former Chair Ben Bernanke, after some other central banks had already done so.
+Japan followed suit a year later, shortly after Prime Minister Shinzo Abe returned to power on the promise that monetary policy would raise inflation (Japan had previously suffered from falling prices).
+<P>
+The logic was impeccable.
+With unemployment still high and growth still low in the aftermath of the 2008 global financial crisis, further stimulus was needed.
+But central banks had already lowered nominal interest rates to zero and could not cut them much further.
+Monetary policymakers therefore tried to stimulate economic activity by raising expected inflation.
+<P>
+An increase in the expected inflation rate would lower the real interest rate (the nominal interest rate minus expected inflation).
+And by making it cheaper to borrow in real terms, central banks hoped to persuade households and firms to purchase more cars, buildings, and equipment.
+<P>
+Monetary authorities took several steps to boost inflationary expectations among the public.
+They emphasized their 2%-or-higher inflation objective; were sincere in doing so; and kept their foot on the monetary accelerator (via quantitative easing) so long as inflation remained below target.
+In the process, central banks increased their monetary base many times over.
+It is hard to see what more they could have done.
+<P>
+Did it work?
+On one hand, inflation is still below 2% in the US, Japan, and the eurozone.
+Month after month, year after year, the authorities have had to explain that achieving the target would take a bit longer.
+<P>
+Meanwhile, however, the US and Japanese economies had returned to approximate full employment by 2016.
+America’s jobless rate has now fallen to 3.7%, its lowest level since 1969, while unemployment in Japan is 2.4%, down from over 5% in 2010.
+So it is past time to declare victory on that front.
+The main purpose of the plan was achieved, even if the intended mechanism largely failed.
+<P>
+Most economists and central bankers, however, fear that their credibility is at stake, and remain fixated on the need to reach the 2% inflation target.
+In fact, a few economists even want to raise the target from 2% to 4%.
+One proposal popular among monetary economists is so-called price-level targeting, whereby the Fed would pledge to achieve future inflation that is one percentage point above the 2% goal for every year that it has already fallen short of that target.
+<P>
+But why should these more ambitious inflation goals be credible or achievable when policymakers have failed to reach even the 2% target?
+Instead, economists should ask why the standard measures of inflationary expectations, such as professional forecasts, have not risen much in recent years.
+<P>
+Perhaps the public’s expected inflation – a central element of economists’ models for a half-century – does not really exist.
+Or, to be more precise, it may not be well defined when prices are relatively stable.
+After all, most people pay little attention to the inflation rate when price growth is as low as it has been in recent years.
+<P>
+In a recent paper, Olivier Coibion, Yuriy Gorodnichenko, Saten Kumar, and Mathieu Pedemonte argue that households and firms generally do not have well-informed expectations of future inflation, and often do not know what the inflation rate has been in the recent past.
+Large policy-change announcements in the US, the United Kingdom, and the eurozone, the authors argue, seem to have only limited effects on the inflation expectations of households and firms.
+(In a separate paper, two of the authors argue that reading news coverage of the Fed’s Federal Open Market Committee meetings has little effect on American households’ inflation expectations.)
+<P>
+They point out that US households’ expected inflation rate has averaged around 3.5% since the early 2000s – well above the actual rate or professional forecasts.
+In addition, when they asked hundreds of top executives for their US consumer inflation forecasts over the next 12 months, some 55% said they did not know.
+Among those who offered an inflation forecast, the average, 3.7%, was again too high.
+<P>
+Moreover, studies in Germany, other eurozone countries, and New Zealand indicate that the public’s inflation expectations are similarly off-target elsewhere.
+At the same time, the authors say, some standard surveys of the public’s inflation expectations can produce misleadingly reasonable forecasts by “priming” respondents beforehand with a set of choices.
+<P>
+Former Fed Chair Alan Greenspan once defined price stability as “that state in which expected changes in the general price level do not effectively alter business and household decisions” – in other words, inflation is low enough that people don’t think about it in their daily lives.
+In today’s environment, therefore, policymakers should not be too concerned if the average person does not have well-informed inflation expectations.
+<P>
+Why, then, should central bankers keep banging their heads against the wall of a desired inflation rate?
+To be sure, monetary authorities should be transparent about their expectations for long-run inflation, as well as for real GDP growth and unemployment.
+Rather than doubling down on their oft-missed 2% target, however, perhaps the Fed and other central banks should quietly stop pursuing it aggressively.

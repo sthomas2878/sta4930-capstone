@@ -1,0 +1,62 @@
+<HEADLINE>
+Is China Winning the AI Race?
+<P>
+CAMBRIDGE – COVID-19 has become a severe stress test for countries around the world.
+From supply-chain management and health-care capacity to regulatory reform and economic stimulus, the pandemic has mercilessly punished governments that did not – or could not – adapt quickly.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The virus has also pulled back the curtain on one of this century’s most important contests: the rivalry between the United States and China for supremacy in artificial intelligence (AI).
+The scene that has been revealed should alarm Americans.
+China is not just on a trajectory to overtake the US; it is already surpassing US capabilities where it matters most.
+<P>
+Most Americans assume that their country’s lead in advanced technologies is unassailable.
+And many in the US national-security community insist that China can never be more than a “near-peer competitor” in AI.
+In fact, China is already a full-spectrum peer competitor in terms of both commercial and national-security AI applications.
+China is not just trying to master AI; it is mastering AI.
+<P>
+The pandemic has offered a revealing early test of each country’s ability to mobilize AI at scale in response to a national-security threat.
+In the US, President Donald Trump’s administration claims that it deployed cutting-edge technology as part of its declared “war” on the coronavirus.
+But, for the most part, AI-related technologies have been used mainly as buzzwords.
+<P>
+Not so in China.
+To stop the spread of the virus, China locked down the entire population of Hubei province – 60 million people.
+That is more than the number of residents in every state on the US East Coast from Florida to Maine.
+China maintained this massive cordon sanitaire by using AI-enhanced algorithms to track residents’ movements and scale up testing capabilities while massive new health-care facilities were being built.
+<P>
+The COVID-19 outbreak coincided with the Chinese New Year, a high-travel period.
+But top Chinese tech companies responded quickly by creating apps with “health status” codes to track citizens’ movements and determine whether individuals needed to be quarantined.
+AI then played a critical role in helping Chinese authorities enforce quarantines and perform extensive contract tracing.
+Owing to China’s large-scale datasets, the authorities in Beijing succeeded where the government in Washington, DC, failed.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Over the past decade, China’s advantages in size, data collection, and strategic determination have allowed it to close the gap with America’s AI industry.
+China’s edge begins with its population of 1.4 billion, which affords an unparalleled pool of talent, the largest domestic market in the world, and a massive volume of data collected by companies and government in a political system that always places security before privacy.
+Because a primary asset in applying AI is the quantity of high-quality data, China has emerged as the Saudi Arabia of the twenty-first century’s most valuable commodity.
+<P>
+In the context of the pandemic, China’s ability and willingness to deploy these technologies for strategic value has strengthened its hard power.
+Like it or not, real wars in the future will be AI-driven.
+As Joseph Dunford, then the Chairman of the US Joint Chiefs of Staff, put it in 2018, “Whoever has the competitive advantage in artificial intelligence and can field systems informed by artificial intelligence, could very well have an overall competitive advantage.”
+<P>
+Is China destined to win the AI race?
+With a population four times the size of the US, there is no question that it will have the largest domestic market for AI applications, as well as many times more data and computer scientists.
+And because China’s government has made AI mastery a first-order priority, it is understandable why some in the US would be pessimistic.
+<P>
+Nonetheless, we believe that the US can still compete and win in this critical domain – but only if Americans wake up to the challenge.
+The first step is to recognize that the US faces a serious competitor in a contest that will help to decide the future.
+The US cannot hope to be the biggest, but it can be the smartest.
+In pursuing the most advanced technologies, it is arguably the brightest 0.0001% of individuals who make the decisive difference.
+While China can mobilize 1.5 billion Chinese speakers, the US can recruit and leverage talent from all 7.7 billion people on Earth, because it is an open, democratic society.
+<P>
+Moreover, while competing vigorously to sustain the US lead in AI, we also must acknowledge the necessity of cooperation in areas where neither the US nor China can secure its own minimum vital national interests without the other’s help.
+COVID-19 is a case in point.
+The pandemic threatens all countries’ national interests, and neither the US nor China can resolve it alone.
+In developing and widely deploying a vaccine, some degree of cooperation is essential, and it is worth considering whether a similar principle applies to the unconstrained development of AI.
+<P>
+The idea that countries could compete ruthlessly and cooperate intensely at the same time may sound like a contradiction.
+But in the world of business, this is par for the course.
+Apple and Samsung are intense competitors in the global smartphone market, and yet Samsung is also the largest supplier of iPhone parts.
+Even if AI and other cutting-edge technologies suggest a zero-sum competition between the US and China, coexistence is still possible.
+It may be uncomfortable, but it is better than co-destruction.

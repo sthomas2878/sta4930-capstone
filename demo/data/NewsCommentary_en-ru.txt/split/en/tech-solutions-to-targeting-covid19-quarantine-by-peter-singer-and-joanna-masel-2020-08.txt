@@ -1,0 +1,55 @@
+<HEADLINE>
+How (Not) to Fight COVID-19
+<P>
+MELBOURNE/TUCSON – When COVID-19 first appeared, strict quarantine requirements and short, tight lockdowns would have been a small price to pay to keep it at bay.
+Now that the pandemic has infected over 26 million people in 213 countries and territories, we need to find new ways to control it that are not just effective, but also efficient.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+To avoid inflicting more pain than necessary, we should target stay-at-home orders as precisely as possible to those who are most likely to pose a risk to others.
+This requires not just tracing the contacts of those who are infected, but also distinguishing which of their contacts are most likely to have been infected.
+<P>
+Here, technology can help.
+We should combine new apps that notify people when they have been exposed to a risk of infection with new testing methods that are fast, easy, and as readily available as pregnancy tests.
+Contact tracing cannot work without fast test results, but it can work well even if more rapid tests are not as accurate as the ones we have now.
+Apps can improve not only the scalability of contact tracing, but also, importantly, its speed.
+<P>
+Contact tracing, whether conducted manually or by app, recommends quarantine to the close contacts of those who test positive.
+In the United States, rules issued by the Centers for Disease Control and Prevention (CDC) say that 15 minutes spent within six feet (1.8 meters) of a person during their infectious period warrants a 14-day quarantine.
+Under these rules, we can expect an average of 59 close contacts per infected person.
+It is plausible that 2% of US residents are infected today.
+Multiply that by 59 and most people in the US who aren’t staying home already will need to be quarantined.
+<P>
+But viruses don’t obey the CDC’s simplified rules.
+You are in much less danger spending 15 minutes five feet away from someone at the edge of their infectious period than you are spending eight hours seven feet away from them at the peak of their infectious period.
+<P>
+In Arizona, Covid Watch, a nonprofit open-source software developer, is piloting a new app that seeks to estimate infection risk accurately, rather than reproducing CDC rules.
+The app recommends quarantine only to those above a certain level of risk, and will tell them, in a completely private way, how long to stay home and when to get tested.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+There is nothing magic about 14 days of quarantine.
+If you don’t have symptoms five days after being exposed to the virus, your risk approximately halves.
+Your risk also falls (but not to zero) if you test negative, but countries where everyone in quarantine is tested are using the same fossilized 14-day rule as those that do not test.
+If, instead, we let people leave quarantine when their risk drops below the threshold we use to decide who should enter it, we can achieve greater safety at lower cost to individuals and the economy.
+<P>
+The threshold for quarantine can depend on where you are.
+Australia and New Zealand have relatively few cases and are aiming to get to zero as soon as possible.
+They can have stricter thresholds, quarantining people even for shorter exposures than 15 minutes, and requiring either multiple negative test results or longer quarantines after more dangerous exposures.
+In countries hit harder by the virus, too many quarantine recommendations could not only cause excessive economic and psychological harm, but also undermine the public support needed for the rules to be effective.
+<P>
+Whenever contact-tracing technology is mentioned, people raise concerns about privacy.
+The new apps that use the Google-Apple framework should put this worry to rest, because they have invented a way to warn you about a dangerous exposure without information about who you meet ever leaving your phone.
+<P>
+Our concern about companies like Apple is different.
+In the interest of making it difficult for users to guess who has put them at risk, successive versions of the application programming interface (API) controlled by Apple and Google have limited the maximum recorded duration of contact, and then restricted the amount of information available to quantify infectiousness.
+This reduces the app’s ability to distinguish between lower- and higher-risk contacts.
+<P>
+These misguided priorities place a possible and limited loss of privacy above the need to target quarantine recommendations to do the most good.
+There is a moral obligation to limit the harms from quarantine, as well as to stop the spread of a virus that will, unless effectively checked, cause hundreds of thousands more deaths and prolong lockdowns, with all the hardship that entails for billions of people.
+Such outcomes become more likely if quarantine is recommended indiscriminately and compliance drops as a result.
+<P>
+In a fast-moving pandemic, we must be ready to change rules quickly in accordance with local conditions, the latest epidemiological evidence, and the development of new technologies that help us reduce the spread of the virus.
+Public-health experts who rigidly adhere to outdated rules, or, as in Switzerland, even write them into law, are standing in the way of new technologies that can help us develop a more flexible approach.
+By focusing on those with the highest risk of spreading the virus, we can inflict less harm and contain the pandemic more effectively.

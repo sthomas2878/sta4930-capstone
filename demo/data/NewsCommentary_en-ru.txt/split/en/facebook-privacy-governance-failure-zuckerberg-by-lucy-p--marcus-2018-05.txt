@@ -1,0 +1,62 @@
+<HEADLINE>
+Facing Facebook’s Responsibility
+<P>
+LONDON – When Facebook went public in May 2012, its capacity for effective corporate governance was already in doubt.
+Fast-forward six years, and Facebook has accumulated massive power, access, and influence – and, in many ways, proved the doubters right.
+<P>
+The doubters were no small minority.
+On the contrary, it was the general consensus among investors and advisers that Facebook was too large, with too much potential for growth and not nearly enough capacity to protect adequately the personal information of the platform’s millions of users.
+<P>
+As I put it at the time, “Facebook swims against the tide of a global movement toward transparency, engagement, and checks and balances.
+It feels as if we’ve all stepped into a time machine and none of the past couple of years of governance lessons – including the failures of boards in the banking-sector crisis – ever happened.”
+<P>
+But, as is so often the case, euphoria got the best of investors.
+For those who threw in their lot with Facebook, watching CEO Mark Zuckerberg testify before the US Congress in early April – following the revelation that nearly 90 million users’ personal data was harvested by the political consultancy Cambridge Analytica – must have been a rude awakening.
+<P>
+Zuckerberg’s testimony was punctuated by apologies.
+But, though he technically claimed responsibility for Facebook’s failure to protect against “fake news, foreign interference in elections, and hate speech” or to preserve data privacy, he portrayed Facebook as an “idealistic” company focused on “connecting people.”
+<P>
+This echoed Zuckerberg’s earlier attempts to paint himself, when convenient, as a wide-eyed young leader.
+In an interview with CNN, he declared that he had taken companies like Cambridge Analytica at their word when they told Facebook that they didn’t keep any Facebook data.
+When challenged by CNN as to why no audit had been performed, he responded with a snide edge, “I don’t know about you, but I’m used to when people legally certify that they are going to do something, that they do it.”
+<P>
+Zuckerberg’s apologies to Congress ring all the more hollow, given that they are hardly the first Facebook has had to issue.
+Last October, following the revelation that Russian-linked groups had purchased more than $100,000 worth of ads on the platform to influence the 2016 presidential election, the company sent its COO, Sheryl Sandberg, to Washington, DC, to conduct damage control.
+<P>
+Meeting with various elected leaders – from the Congressional Black Caucus to lawmakers investigating Russian election meddling – Sandberg repeatedly pledged to “do better,” presumably meaning that Facebook would invest in rooting out fake news and vetting advertisers more closely.
+But, by treating a failure of governance as a corporate communications crisis, Facebook allowed its real problems to continue to grow.
+<P>
+Some argue that Facebook users can blame only themselves for privacy breaches.
+After all, they signed up for a free platform, and willingly provided their data.
+It isn’t Facebook’s fault if they failed to read the fine print.
+<P>
+Yet the expectation of reasonable consumer protection is built into our economies.
+If a company sells you a car that, say, is not adequately tested, resulting in injury, the company pays a price.
+The same goes for virtually any other consumer-facing business, from airlines to foods suppliers.
+A restaurant cannot evade responsibility for serving expired food simply by posting a sign saying, “Customers Beware.”
+<P>
+When it comes to Facebook, moreover, users are not just passive consumers, given that the company traffics in their data.
+(It is worth noting that, as Zuckerberg admitted before Congress, Facebook collects data even from people who don’t have an account, through their friends and their browsers, though the company wouldn’t be able to sell this data.)
+<P>
+Facebook users are essentially laborers being subcontracted to manufacture the product (data) that the company sells.
+And we do, to some extent, hold companies to account for their subcontractors’ working conditions.
+At the very least, we subject them to regulation and oversight.
+<P>
+So Facebook owes its users protections, in their capacity as both consumers and producers.
+The question is how to get the company to fulfill that obligation.
+<P>
+With Zuckerberg maintaining most of the voting power, Facebook’s board has little ability to make change without his assent.
+At the company’s annual stockholder meeting last year, five proposals for how to begin addressing some of Facebook’s weaknesses were voted down.
+<P>
+That included proposals to publish a report on gender pay equity, and one on the public-policy issues associated with managing fake news and hate speech, including the impact on the democratic process, free speech, and a cohesive society.
+There was also a proposal for Facebook fully to disclose its spending on political lobbying.
+And there were proposals to nominate an independent board chair and change the shareholder-voting structure to reduce Zuckerberg’s influence.
+<P>
+It is a cliché that with great power comes great responsibility.
+But it is one that Zuckerberg should take to heart.
+He is the CEO of a hugely influential company, on the back of which an entirely new industry is being built: according to a 2017 report from Deloitte, Facebook enabled $227 billion of economic activity and contributed to the creation of 4.5 million jobs globally in 2014.
+Given the company’s reach, and the fact that the platform is notoriously difficult to opt out of, wide-eyed apologies will no longer cut it.
+<P>
+Facebook needs to take responsibility for its behavior in a way befitting its influence, by changing its governance and operational behavior.
+The challenge runs far deeper than whether users click “Agree” on a new set of “Terms and Conditions.”
+It goes to the heart of how Facebook is run.

@@ -1,0 +1,53 @@
+<HEADLINE>
+Restoring Fiscal Order in the United States
+<P>
+STANFORD – In recent years, the US government has taken several essential economic-policy steps.
+The tax reform embedded in the 2017 Tax Cuts and Jobs Act (TCJA), the recent United States -Mexico-Canada (USMCA) trade agreement, “phase one” of a China-US trade deal, and recent regulatory reforms are all needed to revive and strengthen economic growth.
+It is now time for another essential policy step: correcting the trajectory of fiscal policy.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The Congressional Budget Office’s (CBO) current baseline projection of federal government spending in future years far outpaces federal government revenue, as the figure below clearly shows.
+The result is an exploding federal budget deficit, which will bring the federal debt as a share of GDP to 144% by 2049, according to the CBO baseline, and likely to the 219% projected in the CBO’s alternative fiscal scenario.
+These debt levels are unprecedented in US history.
+<P>
+In contrast to previous periods when the deficit fell after similar upward bursts, the current CBO projections show no such reversal.
+The large deficit will crowd out important federal programs, including needed infrastructure investment, as well as private investment needed for economic growth.
+Debt service will account for a rising share of spending, and the high debt will likely increase interest rates by more than the CBO assumes, leading to an economically perilous debt spiral.
+<P>
+It does not have to be this way.
+The figure also shows a sensible targetfor spending as a share of GDP, establishing a path toward fiscal consolidation.
+This target moves very gradually – by only 0.1 percentage point per year – reducing the share of federal spending in GDP from 20.7% to 19.5%.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+This gradual path does not represent “austerity” in any meaningful sense.
+Federal spending would grow at a rate slightly less than the growth rate of GDP, leading to smaller deficits over time.
+If credible, the plan would have no negative demand effects on GDP.
+According to CBO research that I cited when I testified before the House Budget Committee in November, such a target would lead to higher GDP growth and more income per person, in contrast to current CBO projections of exploding deficits.
+<P>
+But achieving this target means that the future expenditure share of GDP would be substantially lower than projected by the CBO under current policy.
+As John Cogan explains in his recent book The High Cost of Good Intentions, consolidation paths like this require reforms that boost the efficiency of government programs – such as keeping the growth of Social Security spending per person in line with inflation.
+<P>
+<P>
+Some economists – such as Jason Furman of Harvard University’s Kennedy School – have argued for another type of fiscal reform, which would increase the magnitude of automatic stabilizers.
+I disagree.
+Yes, there are good reasons for the federal deficit to rise automatically during economic downturns and to fall during booms.
+Such movements tend to stabilize the economy, and they occur automatically as a result of programs like unemployment compensation and a progressive tax system.
+<P>
+But automatic stabilizers have been working well for many years.
+Regression estimates show that their recent size has been about the same as it has been for the past half-century.
+As real GDP declines relative to its potential (that is, as the output gap rises), spending growth increases and tax revenue growth declines, resulting in a larger cyclical deficit.
+From 2000 to 2018, the output gap accounted for 38% of the cyclical component of the deficit, about the same as the 36% share over the five decades from 1969 to 2018, based on data from the CBO’s January 28, 2019, report on the automatic stabilizers.
+One can see this relationship in the scatter plot below, showing the cyclical deficit and the GDP gap during 1969-2018.
+The dots are scattered tightly around a straight line with a slope of 0.36.
+<P>
+One reason sometimes given to justify strengthening the automatic stabilizers is that monetary policy can no longer do the job because it is constrained by the zero bound on interest rates.
+But it is better to fix monetary policy by using rules, including rules for forward guidance, than it is to change the automatic stabilizer component of fiscal policy when the problem lies elsewhere.
+<P>
+<P>
+The current federal budget is off track and needs to be reformed.
+The problem is that spending is projected to grow too rapidly relative to revenues, not that the deficit responds too modestly to the ups and downs in the economy.
+The reform suggested here would focus on the problem with a very gradual fiscal consolidation, which would make the policy process more permanent, pervasive, and predictable.
+Most important, it would both accelerate GDP growth and create a more resilient economy.

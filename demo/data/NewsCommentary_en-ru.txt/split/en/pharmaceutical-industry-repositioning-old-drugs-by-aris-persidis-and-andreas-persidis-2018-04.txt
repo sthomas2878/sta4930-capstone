@@ -1,0 +1,58 @@
+<HEADLINE>
+Teaching Drugs New Tricks
+<P>
+CHARLOTTESVILLE – Producing effective medicines requires huge investments of time and money.
+The average drug on the market today spent a decade in the lab and in clinical trials, and cost more than $2 billion to develop.
+Unfortunately, most prescription drugs are marketed for a single disease, rather than a group of diseases for which they could be safe and effective.
+This increases development costs, and complicates the discovery of new drug applications.
+<P>
+Fortunately for patients everywhere – not to mention the pharmaceutical industry and health-care systems worldwide – there is a better approach.
+Similar to recycling of household goods, “systematic drug repositioning” seeks to make drugs developed for one illness capable of treating another.
+<P>
+That is the story of thalidomide, which was used in the 1950s and 1960s by pregnant women to allay morning sickness, but was banned after it was found to cause severe birth defects.
+After significant study, however, scientists modified the drug’s molecular structure to alter how it works.
+Now, the thalidomide family of drugs is prescribed for multiple myeloma, mantle cell lymphoma, certain skin diseases, and some forms of anemia.
+<P>
+What is significant about thalidomide is that a new treatment emerged from the ashes of failure.
+Many patients are benefiting today because a few scientists and their financial backers took a chance on reconsidering a failed drug.
+<P>
+Equally remarkable is the history of a new multiple sclerosis (MS) treatment, called dimethyl fumarate.
+Under the brand name Tecfidera, this compound generates some $3 billion in annual revenue, and has helped many patients manage a crippling disease.
+Yet it was first created almost 200 years ago by a French chemist as a mold inhibitor for sofas and leather apparel.
+It was later used to treat psoriasis; but, because psoriasis is related to autoimmune deficiencies, it was eventually tested on other autoimmune disorders, including MS.
+<P>
+Most drug-repositioning successes have happened by chance, as was the case with thalidomide and dimethyl fumarate.
+But what would happen if researchers and drug companies collaborated to search systematically for new uses of existing drugs?
+Medically, the payoffs could be massive – bringing equally massive benefits to society.
+<P>
+Drugs work by targeting specific molecules in the body.
+In some cases, different diseases have the same “target” molecule.
+For example, Arzerra, which was developed to treat chronic lymphocytic leukemia, targets a protein called CD20.
+But this protein is also associated with MS, and researchers found during testing that ofatumumab, which is the active ingredient in the medicine, could be of benefit to MS and possibly other autoimmune patients.
+<P>
+Given the drug’s potential for treating cancer, GlaxoSmithKline, which markets Arzerra, first licensed the rights to its use as a cancer drug to another pharmaceutical giant, Novartis.
+Then, in a subsequent and separate deal, the company licensed additional rights to Novartis for the repositioned use in treating MS.
+<P>
+For the pharmaceutical industry, this was a revolutionary approach.
+The typical business model is to license all of a drug’s current and future uses, even if the drug’s potential is unknown at the time.
+In the case of Arzerra, however, a new business opportunity was created by splitting the drug into two revenue-generating assets.
+<P>
+Repositioning does not usually happen smoothly.
+Clinical trials are slow, cumbersome, and costly; many drugs don’t overcome the financial hurdles.
+Moreover, “off-label prescribing” presents marketing challenges.
+After encountering patients who don’t respond to standard courses of treatment, doctors may want to dispense a repositioned drug, but often don’t have enough data to make an informed decision.
+<P>
+Pharmaceutical and biotech companies like ours are working to make this process easier.
+We focus on finding new uses for existing drugs in a systematic manner, combining augmented and artificial intelligence (AI) to do so.
+Our goal is a future where every drug is mapped against every known disease, no matter how that drug came into existence.
+Not only is this critical for improved patient health; it is also financially prudent, given that repositioning can cut the time and expense of drug development in half.
+<P>
+Other stakeholders are also getting involved.
+For example, the MEPs Against Cancer group, as well as a handful of non-profit foundations and certain policymakers, are reviewing the current regulatory pathway in Europe, and are calling for new drug-development routes that complement existing ones.
+<P>
+In the near future, drugs may even be repositioned in real time, mapped to the unique needs of each patient.
+New technologies like AI and augmented reality could help doctors find alternative treatments for patients with difficult-to-treat illnesses or complex comorbidities.
+<P>
+To realize this future, however, systematic repositioning must be integrated into every pharmaceutical firm’s business model.
+Fortunately, there are strong economic incentives for companies proactively to do just that.
+If they do, we may find ourselves on the cusp of another discovery: that leveraging biological interconnectedness to reposition systematically old and new drugs is the best way to improve health and reduce health-care costs worldwide.

@@ -1,0 +1,58 @@
+<HEADLINE>
+Solving the Productivity Puzzle
+<P>
+SAN FRANCISCO – For years, one of the big puzzles in economics has been accounting for declining productivity growth in the United States and other advanced economies.
+Economists have proposed a wide variety of explanations, ranging from inaccurate measurement to “secular stagnation” to questioning whether recent technological innovations are productive.
+<P>
+But the solution to the puzzle seems to lie in understanding economic interactions, rather than identifying a single culprit.
+And on that score, we may be getting to the bottom of why productivity growth has slowed.
+<P>
+Examining the decade since the 2008 financial crisis – a period remarkable for the sharp deterioration in productivity growth across many advanced economies – we identify three outstanding features: historically low growth in capital intensity, digitization, and a weak demand recovery.
+Together these features help explain why annual productivity growth dropped 80%, on average, between 2010 and 2014, to 0.5%, from 2.4% a decade earlier.
+<P>
+Start with historically weak capital-intensity growth, an indication of the access labor has to machinery, tools, and equipment.
+Growth in this average toolkit for workers has slowed – and has even turned negative in the US.
+<P>
+In the 2000-2004 period, capital intensity in the US grew at a compound annual rate of 3.6%.
+In the 2010-2014 period, it declined at a compound annual rate of 0.4%, the weakest performance in the postwar period.
+A breakdown of the components of labor productivity shows that slowing capital-intensity growth contributed about half or more of the decline in productivity growth in many countries, including the US.
+<P>
+Growth in capital intensity has been weakened by a substantial slowdown in investment in equipment and structures.
+Making matters worse, public investment has also been in decline.
+For example, the US, Germany, France, and the United Kingdom experienced a long-term decline of 0.5-1 percentage point in public investment between the 1980s and early 2000s, and the figure has been roughly flat or decreasing since then, creating significant infrastructure gaps.
+<P>
+Intangible investment, in areas such as software and research and development, recovered far more quickly from a brief and smaller post-crisis dip in 2009.
+Continued growth in such investment reflects the wave of digitization – the second outstanding feature of this period of anemic productivity growth – that is now sweeping across industries.
+<P>
+<P>
+By digitization, we mean digital technology – such as cloud computing, e-commerce, mobile Internet, artificial intelligence, machine learning, and the Internet of Things (IoT) – that is moving beyond process optimization and transforming business models, altering value chains, and blurring lines across industries.
+What differentiates this latest wave from the 1990s boom in information and communications technology (ICT) is the breadth and diversity of innovations: new products and features (for example, digital books and live location tracking), new ways to deliver them (for example, streaming video), and new business models (for example, Uber and TaskRabbit).
+<P>
+However, there are also similarities, particularly regarding the effect on productivity growth.
+The ICT revolution was visible everywhere, the economist Robert Solow famously noted, except in the productivity statistics.
+The Solow Paradox, as it was known (after the economist), was eventually resolved when a few sectors – technology, retail, and wholesale – ignited a productivity boom in the US.
+Today, we may be in round two of the Solow Paradox: while digital technologies can be seen everywhere, they have yet to fuel productivity growth.
+<P>
+MGI research has shown that sectors that are highly digitized in terms of assets, usage, and worker enablement – such as the tech sector, media, and financial services – have high productivity.
+But these sectors are relatively small in terms of share of GDP and employment, whereas large sectors such as health care and retail are much less digitized and also tend to have low productivity.
+<P>
+MGI research also suggests that while digitization promises significant productivity-boosting opportunities, the benefits have not yet materialized at scale.
+In a recent McKinsey survey, global firms reported that less than a third of their core operations, products, and services were automated or digitized.
+<P>
+This may reflect adoption barriers and lag effects, as well as transition costs.
+For example, in the same survey, companies with digital transformations under way said that 17% of their market share in core products or services was cannibalized by their own digital products or services.
+Moreover, less than 10% of the information generated and that flows through corporations is digitized and available for analysis.
+As these data become more readily available through blockchains, cloud computing, or IoT connections, new models and artificial intelligence will enable corporations to innovate and add value through previously unseen investment opportunities.
+<P>
+The last feature that stands out in this period of historically slow productivity growth is weak demand.
+We know from corporate decision-makers that demand is crucial for investment.
+For example, an MGI survey conducted last year found that 47% of companies increasing their investment budgets were doing so because of an increase in demand or demand expectations.
+<P>
+Across industries, the slow recovery in demand following the financial crisis was a key factor holding back investment.
+The crisis increased uncertainty about the future direction in consumer and investment demand.
+The decision to invest and boost productivity was correctly deferred.
+When demand started to recover, many industries had excess capacity and room to expand and hire without needing to invest in new equipment or structures.
+That led to historically low capital-intensity growth – the single biggest factor behind anemic productivity growth – in the 2010-2014 period.
+<P>
+But, as more companies adopt and learn through digital solutions, and as new forms of employment and investment opportunities strengthen the demand recovery, we expect productivity growth to recover.
+Myriad factors contribute to productivity gains, but it is the twenty-first century’s steam engine – digitization, data, and its analysis – that will power and transform economic activity, add value, and enable income-boosting and welfare-enhancing productivity gains.

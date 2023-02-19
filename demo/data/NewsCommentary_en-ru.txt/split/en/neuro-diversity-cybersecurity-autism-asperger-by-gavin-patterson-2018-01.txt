@@ -1,0 +1,43 @@
+<HEADLINE>
+Fighting Cybercrime with Neuro-Diversity
+<P>
+LONDON – Cybersecurity is one of the defining challenges of the digital age.
+Everyone, from households to businesses to governments, has a stake in protecting our era’s most valuable commodity: data.
+The question is how that can be achieved.
+<P>
+The scale of the challenge should not be underestimated.
+With attackers becoming increasingly nimble and innovative, armed with an increasingly diverse array of weapons, cyber-attacks are happening at a faster pace and with greater sophistication than ever before.
+The security team of my company, BT, a network operator and Internet service provider, detects 100,000 malware samples every day – that’s more than one per second.
+<P>
+Creative thinking among cyber attackers demands creative thinking among those of us fending them off.
+Here, the first step is ensuring that there are enough talented and trained individuals engaged in the fight.
+After all, according to a recent survey by the International Data Corporation, 97% of organizations have concerns about their security skills.
+By 2022, another study estimates, there will be 1.8 million vacant cybersecurity jobs.
+<P>
+Amid this critical shortage of security specialists, it is imperative that we develop new approaches to attracting, educating, and retaining talented individuals, in order to create a deep pool of highly skilled cyber experts prepared to beat cybercriminals at their own game.
+<P>
+The key to success is diversity of talents and perspectives.
+This includes neurological diversity, such as that represented by those with autism, Asperger syndrome, and attention-deficit disorder.
+People with Asperger syndrome or autism, for example, tend to think more literally and systematically, making them particularly adept at mathematics and pattern recognition – critical skills for cybersecurity.
+<P>
+The problem is that neurologically exceptional people tend to be disadvantaged by the traditional interview process, which relies heavily on good verbal communication skills.
+As a result, such people often struggle to find employment, and even when they do find a job, their work environment may not be able to support them adequately.
+<P>
+The United Kingdom’s National Autistic Society reports that just 16% of autistic adults in Britain have full-time paid employment, and only 32% have any kind of paid work, compared to 47% for disabled people and 80% for non-disabled people.
+This highlights the scale of the challenge faced by such candidates, as well as the vast untapped resource that they represent.
+<P>
+Recognizing the potential of neurological diversity to contribute to strengthening cybersecurity, we at BT have reframed how we interact with candidates during interviews.
+We encourage them to talk about their interests, rather than expecting them simply to answer typical questions about their employment goals or to list their strengths and weaknesses.
+This approach has already been applied with great success by the likes of Microsoft, Amazon, and SAP in the areas of coding and software development, and by the UK’s GCHQ intelligence and security organization, one of the country’s biggest employers of autistic people.
+<P>
+Of course, an updated approach to interviewing candidates will not work for everyone.
+But it is a start.
+More broadly, we must do more not just to expand the opportunities available to neurologically exceptional candidates, but also to ensure that these opportunities are well publicized.
+<P>
+Delivering this change will require leadership by – and cooperation between – government and business.
+I am pleased to say that, on this front, BT is already taking a leading role, including by working with the British government on their Cyber Discovery program, a special initiative to attract schoolchildren into the cyber industry, and through our own apprenticeship programs.
+<P>
+In the digital age, neuro-diversity should be viewed as a competitive advantage, not a hindrance.
+We now have a chance to invest in talented people who are often left behind when it comes to work, benefiting them, business, and society as a whole.
+By recognizing and developing the skills of this widely overlooked talent pool, we can address a critical skills shortage in our economies and enhance our ability to fight cybercrime.
+Such opportunities are not to be missed.

@@ -1,0 +1,59 @@
+<HEADLINE>
+The False Promise of Cost-Benefit Analysis
+<P>
+COLLEGE PARK, MARYLAND – Can we really use data to overcome the left/right ideological divide and identify policies that, as Bjørn Lomborg puts it, “would have the biggest impact on society?”
+Lomborg is a leading advocate of cost-benefit analysis (CBA) as the best way to choose between policy options.
+He is not alone in this belief, though he is perhaps extreme in his faith in CBA.
+<P>
+Lomborg is the Director of the Copenhagen Consensus Center (CCC), and both there and in his regular commentaries, including for Project Syndicate, he reports on the results of CBA to recommend development priorities.
+Over the years, Lomborg has hired more than 300 economists, including seven Nobel laureates, to carry out these economic evaluations.
+Unfortunately, these – indeed, all – CBA results are infused with the ideology of those funding and conducting them – and thus offer very limited information for public policy choice.
+<P>
+CBA, and its common use in studies of the rate of return on investment, originated in the United States in the 1930s to assess water resource projects.
+But, while the general methodology has become part of orthodox economics, it is mostly confined to academic research.
+Institutions like the World Bank use it to make decisions, but governments rarely do (and most often to offer a post hoc rationale for some policy choice).
+<P>
+The fundamental problem is that these types of economic analyses are so loosely specified in practice that the result is almost always full of analyst bias.
+Indeed, CBA provides a misleading basis even for prioritizing policies within a sector.
+One well-known example is that, starting in the 1980s, CBA was used to argue that the returns on primary education were much higher than the returns on higher education.
+The World Bank went around the world encouraging or requiring governments to cut subsidies for universities and expand those for primary schooling.
+<P>
+But this CBA-derived conclusion was based on a very narrow, mechanistic, and simplistic calculation.
+In 2000, a joint World Bank/UNESCO report argued that many of the economic benefits higher education generates were not counted in the CBA.
+These included: technology development, discoveries and invention, private-sector innovation, a better investment climate, and democratic functioning, among many others.
+<P>
+While difficult to measure, especially in monetary terms, such factors are among the most critical benefits that higher education brings to societies.
+Analysts have concluded that basing the choice to favor primary education on a narrow CBA has disadvantaged many developing countries, by preventing them from competing internationally on the basis of a more educated labor force, rather than on low-wage labor.
+Yet, in 2014, Lomborg commissioned a study by an economist that, with another narrow CBA, came to the same – if not discredited, at least debated – conclusion favoring investment in primary education over higher education.
+<P>
+The costs and benefits being analyzed, it too often seems, are in the eyes of those beholding the data.
+A 2004 conference that Lomborg initiated, for example, focused on global warming; for the three widely touted climate-change policies examined, Lomborg’s panel concluded that “costs were likely to exceed benefits.”
+<P>
+Columbia University’s Jeffrey Sachs, criticized these findings, arguing that Lomborg “failed to mobilize an expert group that could credibly identify and communicate a true consensus.”
+And John Quiggin of the University of Queensland was even more blunt: the 2004 conference amounted to “exercises in political propaganda,” and the “panel members were slanted toward conclusions previously supported by Lomborg.”
+<P>
+The CCC continues to assess climate-change policies.
+On its website is a testimonial by the American Council on Science and Health, a pro-petrochemical industry group, praising Lomborg’s advocacy for “cheap fossil fuels for those living in impoverished countries.”
+<P>
+Biases are often not explicit or visible.
+For example, in a recent commentary, Lomborg argued that his CBA “found that freer trade would be one of the best development policies, lifting 160 million people out of poverty and making every person in the developing world $1,000 better off, on average.”
+In fact, the costs and benefits of freer trade are highly contested by economists, and these numbers have to be taken with a grain of salt, not as reliable inputs for policymakers.
+<P>
+I have taught courses on CBA for many years.
+My examples above are not exceptions.
+All applications of CBA are controversial when economists with different explicit or implicit biases study the same topic.
+Dozens, often hundreds, of assumptions must be made to estimate just the costs of almost any policy.
+Well-intentioned analysts can and do differ on what assumptions to make and often arrive at very different estimates.
+<P>
+This is even truer on the benefits side of the equation, where the assumptions concern not only how to measure returns, but what counts as a return in the first place.
+The bottom line for me is that economics, like all fields of study, is irreducibly ideological, and the tools that it has developed are far from value-free.
+<P>
+Lomborg has been very critical of the 2030 Agenda for Sustainable Development and the broad democratic processes that led to its 17 goals and 169 targets.
+He greatly preferred the Sustainable Development Goals’ predecessor, the Millennium Development Goals, which were fewer in number and reflected technocratic decision-making.
+<P>
+I am sympathetic to Lomborg’s view that the SDGs’ sheer number of targets makes prioritization extremely difficult.
+But a return to technocratic decision-making is not a valid way to reduce 169 targets to the 19 he thinks will have the most impact.
+<P>
+Yes, governments and policymakers need evidence before they act.
+But evidence generated by CBAs should always be contested.
+In choosing our priorities, we need to honor and reconcile different views about what counts and how to count it, in what will be – and should be – messy, participatory, democratic processes.

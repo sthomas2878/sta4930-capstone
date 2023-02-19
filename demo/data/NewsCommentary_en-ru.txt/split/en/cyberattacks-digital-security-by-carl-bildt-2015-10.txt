@@ -1,0 +1,64 @@
+<HEADLINE>
+One Net, One Future
+<P>
+SEOUL – Once upon a time, two superpowers, the United States and the Soviet Union, held summits to reduce the danger of a nuclear war.
+Today, the summitry is between the US and China, a large part of which is to reduce the dangers of confrontation and conflict in cyberspace.
+<P>
+The stakes could not be higher.
+How the world responds to the threat of cyber attacks will determine the extent to which future generations will be able to benefit from the digital era.
+In addition to the possibility of conflict, there is the danger that governments will overreact, erecting barriers to information that undermine the potential of the Internet.
+<P>
+In a way, we are already in a low-level continuous conflict in cyberspace.
+China is not the only country that is engaging, through direct or indirect state action, in massive cyber operations against other countries’ political and economic structures.
+We are in the midst of one of those historic shifts when offensive technologies are cheaper and more powerful than defensive ones.
+<P>
+Clearly, there is a need for rules of the road in cyberspace, and perhaps cyber-power summitry – the US is the Internet technology leader, while China has the largest numbers of users – is the first step in this direction.
+But the danger is not only political confrontation between states.
+Fear of loss of control within states is driving new data-localization requirements and other new barriers that would ultimately fracture and even balkanize the Internet.
+<P>
+In Russia, the Kremlin clearly has its own reasons for stipulating – despite the unavoidable economic cost – that all data generated within the country be stored on Russian-based servers.
+But equally worrying are policies in the European Union that, in the name of defending citizens’ privacy, are leading to the erection of barriers to the free flow of data.
+<P>
+In some European countries, not least Germany, there seems to be a conviction that citizens’ data will be safe only if it is stored on European soil, out of reach of, say, evil American spies.
+This simplistic philosophy also seems to have underpinned the European Court of Justice’s recent decision invalidating the so-called Safe Harbor agreement, which facilitates the free flow of information across the Atlantic.
+As a result, the entire legal framework for these data transfers has been thrown into disarray.
+<P>
+Ensuring the protection and integrity of data is indeed a vital issue.
+But this has very little to do with where data are stored.
+Attackers based in China recently broke into the US Office of Personnel Management and stole up to 22 million files with sensitive information on federal employees.
+Chinese and Russian hackers routinely penetrate secure industrial and government networks in the US and Europe.
+And several countries are tapping underwater cables carrying the world’s communications.
+So what problem does data localization actually solve?
+<P>
+The solution to privacy concerns lies not in data localization, but in the development of secure systems and the proper use of encryption.
+Data storage actually means the continuous transfer of data between users, with no regard for Westphalian borders.
+Security in the digital world is based on technology, not geography.
+<P>
+With the rapid development of global value chains, our economies are becoming increasingly dependent on the free flow of data across political borders.
+With the advent of new, global technologies such as blockchains – continuously growing transaction databases used, for example, to sustain virtual currencies – the notion of data localization becomes even more misguided.
+<P>
+The OECD has just issued a report highlighting how data-driven innovation will increasingly drive the economies of the future.
+Crucially, it stresses “the need to promote the ‘openness’ in the global data ecosystem and thus the free flow of data across nations, sectors, and organizations.”
+<P>
+These principles are enshrined in the just-concluded Trans-Pacific Partnership, which will govern trade and investment among 12 Pacific Rim countries, including the US.
+The rest of the world should follow suit.
+<P>
+Indeed, a huge global agenda of digital governance – the new domain of diplomacy – lies before us.
+It includes the establishment of formal and informal norms for state behavior, better legal mechanisms for addressing cross-border cybercrime, transparent national legislation for law enforcement, and endorsement of the need for encryption to protect the integrity of data.
+In all of these areas – and more – efforts to deal with cybercrime and terrorism must not undermine the principles on which the Internet is built.
+<P>
+China will face a choice.
+Today, it talks about its so-called “One Belt, One Road” initiative to link its economy with those of Central Asia and Europe.
+But China’s global future will be as dependent as everyone else’s on One Net – an open, free, dynamic, and secure Internet.
+<P>
+Europe also faces some important choices.
+The EU must not allow a muddled understanding of digital realities to give rise to profoundly damaging digital protectionism.
+It must overcome the institutional barriers that make it seemingly impossible to forge a common position on external cyber policy.
+And it needs to take the foreign-policy implications of its actions seriously: When EU countries talk about data localization, others do too.
+<P>
+Finally, the US needs to adapt as well.
+It must accept that it is no longer the only global cyberpower, and that its own behavior must comply with globally accepted norms to which all must adhere.
+<P>
+The Internet has already become the world’s most important infrastructure.
+But this is only the beginning: soon it will be the infrastructure of all other infrastructures.
+Policies born of confusion, chaos, and confrontation have no place in this new world of opportunities.

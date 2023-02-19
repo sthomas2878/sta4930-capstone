@@ -1,0 +1,67 @@
+<HEADLINE>
+Was the Financial Crisis Wasted?
+<P>
+LONDON – As the tenth anniversary of the start of the global financial crisis approaches, a wave of retrospective reviews is bearing down on us.
+Many of them will try to answer the Big Question: Has the financial system been fundamentally reformed, so that we can be confident of preventing a repeat of the dismal and destructive events of 2008-2009, or has the crisis been allowed to go to waste?
+<P>
+There will be no consensus answer to that question.
+Some will argue that the post-crisis reforms, especially those concerning banks’ capital requirements, have gone too far, and that the costs in terms of output have been too high.
+Others will argue that far more must be done, that banks need far higher capital, and possibly, as the proponents of a recent Swiss referendum argued, that banks should lose their ability to create money.
+<P>
+But any reasonable observer must acknowledge that there has been a very significant change.
+Most large banks now have 3-4 times as much capital, and of far higher quality, than they had in 2007.
+Additional buffers are now required in systemic institutions.
+Risk management has been greatly strengthened.
+And regulatory intervention powers are far more robust.
+Political support for tough regulation remains strong, at least everywhere except the United States, and even there the Trump administration’s measures have mainly benefited community banks, not Wall Street.
+<P>
+There is one area, however, where far less has been achieved.
+As former US Federal Reserve board chair Paul Volcker has observed, “virtually every post-mortem of the financial crisis cites the convoluted regulatory system [in the US] as a contributory factor in the financial meltdown.”
+<P>
+Yet the 2010 Dodd-Frank legislation, which sought to address the shortcomings exposed by the financial crisis, made very few changes.
+It abolished only one small agency, the unlamented Office of Thrift Supervision, and added another, the Consumer Financial Protection Bureau, a body so little loved by the current administration that one wonders about its longevity.
+<P>
+The convolution highlighted by Volcker was not addressed.
+His verdict today is that “the system for regulating financial institutions in the US is highly fragmented, outdated, and ineffective.”
+Aside from that, all is well!
+<P>
+The US is undoubtedly an outlier.
+What of the rest of the world?
+There have been a few changes, perhaps most notably in the United Kingdom, where we enjoy rearranging institutional deck chairs.
+The functions of the fully integrated Financial Services Authority (of which I was the first chair) have been returned to the Bank of England or reallocated to the Financial Conduct Authority.
+<P>
+A recent study by the Financial Stability Institute, established by the Bank for International Settlements and the Basel Committee on Banking Supervision, concludes that 11 of the 79 countries assessed have made some changes.
+Interestingly, despite the UK reform, the weak international trend remains toward integrated regulation, and away from the traditional model whereby different agencies regulate insurance and securities, while the central bank oversees the banking system.
+<P>
+But there remains a remarkable diversity of practice worldwide.
+Of the 79 countries, 39 still operate a three-way sectoral breakdown, and 23 have integrated agencies (nine of which double up as the monetary authority).
+Nine others have two agencies divided along sectoral lines, and eight have chosen a so-called Twin Peaks system, with one agency handling capital-market regulation and the other overseeing business conduct.
+<P>
+One might have expected that some degree of agreement would have emerged from an analysis of what did, and did not, work in the crisis.
+But there is little sign of it.
+<P>
+The conclusions of what analysis there has been are somewhat ambiguous.
+It is hard to say that one structure worked better than another in every place.
+But there are some suggestive assessments.
+An International Monetary Fund study of pre-crisis regulation concluded that “countries with integrated supervisory agencies [at that time generally outside the central bank] enjoy greater consistency in quality of supervision.”
+In other words, their compliance with Basel-set standards was more rigorous.
+Yet, where changes have been made since the crisis, central banks have typically been given greater powers.
+<P>
+This structural diversity of post-crisis reforms does not help ensure consistency in the implementation of global standards.
+It is particularly problematic in the European Union.
+There is now a banking union in the eurozone, but supervisors in around half of the member states are in the central bank, while they are outside it in the other half.
+<P>
+Is there not a job here for the Financial Stability Board?
+Could the FSB not review practices and point to a preferred structure, or at least some non-preferred ones?
+<P>
+There is, unfortunately, no appetite there for picking up that thistle.
+National supervisors have no interest in criticizing their own systems.
+The Financial Stability Institute’s review showed a bit more courage.
+Reading between the lines, the authors think little of the sectoral model, but their anticlimactic conclusion is only that “it looks worthwhile to regularly conduct assessments of the functioning of the supervisory architecture in each jurisdiction in the light of prevailing objectives.”
+<P>
+Who could disagree with that?
+The authors were clearly mindful that every academic paper worth its salt ends with a plea for more research.
+<P>
+So we seem set to limp along with a highly diverse system.
+Even the 2008 financial crisis did not dislodge the vested interests in many countries.
+So while financial regulation has been materially strengthened, which is clearly the most important thing, its implementation remains in the hands of a patchwork quilt of national agencies.

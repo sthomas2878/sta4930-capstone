@@ -1,0 +1,59 @@
+<HEADLINE>
+The Case for Digital Identification
+<P>
+MUMBAI/SAN FRANCISCO – Worldwide, more than four billion people are connected to the Internet, spending an average of roughly six hours per day on Internet-enabled devices and services.
+In Thailand and the Philippines, average daily usage is 9.5 hours; in the United States, 26% of the population is online “almost constantly;” and one billion more people in the world are projected to join the ranks of internet users by 2022.
+Yet as we embrace the digital world, the complexity of navigating it securely, efficiently, and in a personalized manner becomes more acute.
+One promising solution is already being deployed in some countries: digital identification.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The case for “digital IDs” – the electronic equivalent of physical identification– is strong.
+For starters, most Internet users are unable to keep track of their digital footprint and find it inconvenient to register, authenticate, and manage online accounts.
+On average, 90 online accounts are linked to every email address, and this total doubles every five years.
+It is no wonder, then, that 25% of users forget one password at least once a day, and about a third of all calls to banks’ call centers are requests to reset misplaced or forgotten passwords.
+<P>
+Carefully designed digital IDs can also help defend against data breaches targeting retailers, a growing concern for many consumers.
+In just the last two months, for example, security breaches were reported by Marriott and Quora, exposing the personal information of hundreds of millions of customers.
+As the scope and sophistication of hacks increase, the need for better security is obvious.
+<P>
+But perhaps the most compelling argument supporting digital IDs is the most basic: people in developing countries need them to prove who they are.
+According to the World Bank’s ID4D initiative, nearly one billion people lack any legal identification, making it difficult or impossible to vote, bank, access subsidized food, or buy property.
+Of the 1.7 billion adults who are currently unbanked, 20-30% cite their lack of documentation as a primary reason.
+<P>
+Recognizing the problem – and the potential – dozens of countries are implementing digital IDs in some form.
+India’s Aadhaar program, for example, is a biometric “proof of identity” that covers more than 1.2 billion residents and is used to coordinate distribution of government benefits.
+In Estonia, 98% of the population have an electronic ID, and 99% of public services – including voting – can be accessed online.
+<P>
+The topic is also appearing more frequently on human-development agendas.
+In Africa, governments, development agencies, and business leaders gather annually for the ID4Africa forum, which promotes “robust and responsible ID ecosystems.”
+<P>
+The private sector – led by the financial services and technology industries – is taking steps to develop digital ID systems.
+For example, since 2003, a consortium of banks in Sweden has used BankID to authenticate digital transactions, and the system has since been adopted by the government to streamline access to public services and health records.
+<P>
+Yet, the reality is that digital ID programs have had mixed success to date.
+While a few have achieved large-scale implementation, many have failed to attain even modest levels of usage.
+Most of the world’s digital IDs are limited in scope, enabling only a few of their many possible economic, political, and social functionalities.
+Digital ID could play a much more expansive role in the way individuals and institutions interact with each other.
+<P>
+Digital ID systems that succeed in driving high adoption could create significant economic value for individuals, businesses, and government institutions.
+As we document in a new report, digital IDs have the potential to reduce fraud rates, cut customer onboarding costs, boost financial inclusion, and deepen savings and credit for under-banked customers.
+They can also spur development by enabling digital talent matching and streamlined employee verification, resulting in higher participation in the labor market.
+Digital IDs could even establish a means to control data and digital footprints in interconnected online ecosystems.
+Overall, we estimate that high adoption of digital ID could help produce economic value equivalent to 3% of GDP in a typical advanced economy and as much as 6% in a typical emerging economy.
+<P>
+Digital ID technologies are, however, akin to dual-use technologies that can be used both to the benefit of society and for undesirable purposes.
+Poorly planned digital ID systems do carry risks.
+Without proper design principles and controls, a digital ID system can put enormous power into administrators’ hands, enabling unfair discrimination or other inequities.
+To mitigate these risks, countries will need to develop tough data protection and privacy laws, as well as robust enforcement and security measures.
+Advances in registration and authentication technologies – such as electronic cards, cryptography, and biometrics – will help, but strong policies will also be essential.
+<P>
+Still, while the challenges are real, our research shows that the economic, social, and political benefits are simply too great to ignore.
+If governments and developers are aware of the risks and act to minimize them, digital ID could become a key to inclusive growth.

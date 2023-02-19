@@ -1,0 +1,58 @@
+<HEADLINE>
+Lending in the Dark
+<P>
+HONG KONG – The proliferation of China’s opaque, loosely regulated (or unregulated) shadow-banking system has been raising fears of possible financial instability.
+But just how extensive – and how risky – is shadow banking in China?
+<P>
+According to the China Banking Regulatory Commission, shadow banking (all credit not regulated by the same standards as conventional bank loans) increased from ¥800 billion ($130 billion) in 2008 to ¥7.6 trillion in 2012 (roughly 14.6% of GDP).
+Total off-balance-sheet banking activity in China – composed of credits to property developers (30-40%), local-government entities (20-30%), and small and medium-size enterprises (SMEs), individuals, and bridge-loan borrowers – was estimated to be as high as ¥17 trillion in 2012, roughly one-third of GDP.
+<P>
+The term “shadow banking” gained prominence during the subprime mortgage crisis in the United States to account for non-bank assets in the capital market, such as money-market funds, asset-backed securities, and leveraged derivative products, usually funded by investment banks and large institutional investors.
+In 2007, the volume of shadow-banking transactions in the US exceeded that of conventional banking assets.
+<P>
+The Financial Stability Board has estimated that total global shadow-banking assets in 2011 amounted to $67 trillion, with the US accounting for $23 trillion, the eurozone for $22 trillion, and the United Kingdom for $9 trillion.
+Chinese shadow banking totals only about $2.2 trillion.
+<P>
+Shadow banking in China is dominated by lending to higher-risk borrowers, such as local governments, property developers, and SMEs.
+It is ultimately funded through retail bank deposits, banks’ wealth-management products, and private equity.
+Thus, the real issue in China is not the volume of shadow credit, but its quality, and the banking system’s capacity to absorb potential losses.
+<P>
+Market forces and policy conflicts triggered shadow banking’s emergence in China.
+With the People’s Bank of China (PBOC) keeping interest rates artificially low, retail depositors began taking advantage of higher rates of return offered by local governments, property developers, and SMEs, which needed funding to maintain investment and adjust to a new market environment.
+<P>
+Since 2008, shadow banking has exploded, owing to price and regulatory factors.
+In an environment dominated by direct quantitative controls, such as increasingly stringent lending quotas, shadow banking is meeting genuine market demand, with the interest rates that borrowers are willing to pay providing a useful price-discovery mechanism.
+China simply needs a better system for evaluating the quality of such credits (and for providing depositors with returns that can offset inflation).
+<P>
+Chinese policymakers should view the shadow-banking scare as a market-driven opportunity to transform the banking system into an efficient, balanced, inclusive, and productive engine of growth.
+They should begin by reforming the property-rights regime to enable market forces to balance the supply and demand of savings and investments in a manner that maintains credit discipline and transparency.
+<P>
+This requires, first and foremost, determining who – the investor or the bank – bears the underlying default risk of high-yield wealth-management products.
+Given that this is a legal question of contract definition and enforcement, it should be answered in the courts or arbitration tribunals, not by regulators.
+Clarifying ultimate responsibility for credit quality and risk would also reduce intermediation costs by eliminating the need to resort to informal channels, such as credit-guarantee and trust companies.
+<P>
+Furthermore, reducing local-government financing vehicles’ exposures is essential.
+China needs to build its municipal bond market to generate more sustainable funding for infrastructure projects.
+Local governments could then privatize the massive assets that they have accumulated during years of rapid growth, using the proceeds to pay down their debt.
+<P>
+Reform efforts should be supported by measures – such as strict enforcement of balance-sheet transparency requirements – to improve risk management.
+In fact, the existing shadow-banking risks are manageable, given relatively robust GDP growth and strong macroeconomic fundamentals.
+At the end of 2012, China’s commercial banks held ¥6.4 trillion in core capital and ¥1.5 trillion in non-performing-loan provisions, for a risk cushion of roughly ¥8 trillion.
+<P>
+Low-risk central-government bonds and central-bank reserve requirements – most of which are backed by substantial foreign-exchange reserves – account for ¥31 trillion of the ¥95 trillion in total commercial-bank assets.
+Another ¥8 trillion are housing mortgages, which also carry little risk, given low loan-to-value ratios.
+Exposure to domestic sovereign obligations – by state-owned enterprises and local governments – accounts for about ¥32 trillion, and obligations by private firms amount to roughly ¥24 trillion.
+<P>
+This breakdown suggests that the ¥8 trillion cushion would be sufficient to offset potential losses arising from higher-risk credit in China’s commercial banking sector.
+The high interest-rate margins set by the PBOC provide additional support.
+<P>
+But, if more risk builds up through continued expansion of shadow credit, this risk buffer may become inadequate.
+Thus, Chinese policymakers must focus on curbing the shadow-banking sector’s growth, while ensuring that all current and future risks stemming from the system are laid bare.
+The introduction of measures to cool the property market, and new direct regulatory controls over shadow-banking credit, represent a step in the right direction.
+<P>
+Perhaps the biggest challenges facing China are raising real returns on financial liabilities (deposits and wealth-management products) and promoting more balanced lending.
+Increased costs for investment in real assets would help to rein in property prices and reduce over-capacity in infrastructure and manufacturing.
+<P>
+Ultimately, addressing shadow banking in China will require mechanisms that clearly define, allocate, and adjudicate financial risks among the key players.
+This includes ensuring that borrowers are accountable and that their liabilities are transparent; deleveraging municipal debt through asset sales and more transparent financing; and shifting the burden of resolving property-rights disputes from regulators to arbitrators and, eventually, to the judiciary.
+Such institutional reforms would go a long way toward eliminating default (or bailout) risk and creating a market-oriented financial system of balanced incentives that supports growth and innovation.

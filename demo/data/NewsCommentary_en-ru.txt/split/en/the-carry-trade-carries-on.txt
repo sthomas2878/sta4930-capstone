@@ -1,0 +1,65 @@
+<HEADLINE>
+The Carry Trade Carries On
+<P>
+LONDON – The Bank for International Settlements recently reported that $4 trillion a day is traded in global foreign-exchange (FX) markets, up from $3.3 trillion in 2007.
+But, while the size of the FX business always grabs headlines, the way that currencies are traded also matters – and this has evolved mightily over the years.
+<P>
+Any introductory finance textbook will tell you that investors care about the returns of their overall portfolio, not just its individual assets.
+Investors prize assets that are relatively uncorrelated, or even better, negatively correlated with the returns of the market as a whole.
+Owning such assets tends to stabilize overall returns.
+<P>
+That is fine in theory, but where do such assets come from?
+Some stock prices are normally relatively uncorrelated with the market.
+But stock prices tend to move much more closely together at times of market dislocation.
+So the relationship is liable to go wrong at the worst possible time: when a hedge would be most useful, the asset you were relying on becomes a risk.
+<P>
+Many financial derivatives were developed for exactly this reason – to allow both financial and non-financial companies to hedge their overall returns.
+But not all investors are able to trade derivatives.
+<P>
+Partly for these reasons, using currencies to hedge overall portfolios, or to have exposures that are related to other asset markets, has become increasingly popular.
+FX markets have two important advantages in this respect.
+First, FX is all about relative prices – if the dollar appreciates some other currency must depreciate.
+So it offers natural hedges.
+<P>
+Second, FX markets are very liquid.
+Even during the worst of the recent financial crisis, when many markets almost stopped functioning, the FX market carried on relatively normally.
+<P>
+Some of the more important examples of how currencies have become hedges involve the yen.
+Japanese interest rates have been close to zero for many years – significantly lower than those in most other economies, especially in the pre-crisis period.
+Low Japanese rates led to a “search for yield” by Japanese investors who increasingly invested their savings in foreign currencies, where they received higher interest rates: the famous “FX carry trade.”
+<P>
+This was not without risk.
+What matters to Japanese investors is the overall return in yen terms, not simply the difference in interest rates.
+If the yen were to appreciate against the currency where the money was invested, it would be possible to get a lower return than simply keeping the money in a Japanese bank account.
+Indeed, economic theory suggests that the interest-rate differential should be offset on average by depreciation of the currency with the higher interest rate, the differential thus reflecting the compensation required by investors to hold money in relatively risky currencies.
+<P>
+But the carry trade has tended to produce positive returns.
+And in the period prior to the financial crisis, the yen depreciated against most currencies, as well as having lower interest rates, so borrowing in yen and investing in high-interest-rate currencies such as the Australian dollar or the Turkish lira was very profitable.
+This led to increased flows into the carry trade, which for a while increased its success, because higher inflows tended to exacerbate the weakness of the low-interest-rate currencies.
+<P>
+The carry trade during this period was primarily aimed at maximizing returns rather than managing risks.
+But it did lead to two developments in risk management.
+<P>
+First, whereas in equity markets, few advocate investing in just one company’s shares rather than a diversified portfolio, that is essentially what happened in FX markets, where the traditional way of investing in the carry trade was to use a single exchange rate.
+So products were developed that allowed investors to borrow easily in several currencies at once and invest in a portfolio of high-interest-rate currencies.
+This protected investors from a general sell-off of the carry trade and lessened their exposure to idiosyncratic risks.
+<P>
+The second development was that the carry trade appeared to perform strongly when other risky assets also did well, and vice versa.
+More specifically, exchange rates such as the Australian dollar/yen became strongly correlated with global equity markets.
+This meant that an investor who was pessimistic about equities, but who might face constraints in hedging that risk by using derivatives or selling equities short, could reduce his exposure to equity markets by reversing the carry trade – borrowing in Australian dollars and investing in Japanese yen, for example.
+<P>
+Of course, a good hedge lasts only as long as such correlations persist.
+But, while many financial relationships broke down once the financial crisis started, this one actually became more pronounced, and has become a popular strategy.
+<P>
+The relationship between the Chinese economy and the Australian dollar is another interesting example.
+Chinese growth has been stellar, but many investors find it difficult to put their money directly in the economy.
+Australia has been a particularly large beneficiary of Chinese growth, which is relatively commodity-intensive.
+This has tended to increase metals prices, fueling Australia’s large export surplus in metals.
+<P>
+That means that buying the Australian dollar is seen as a proxy for investing in China.
+Because it is traded in developed and liquid markets that have no capital-account restrictions, many investors have bought or sold it according to their view of China’s economic prospects.
+<P>
+Investment strategies such as this must be entered into with caution: simply assuming that a past correlation will persist is never a good idea.
+But currency values are driven by macroeconomic developments, and therefore FX does offer natural hedging opportunities in liquid and transparent markets.
+So if the correlation makes sense given the fundamentals, it seems sensible to bet on its persistence.
+And it does seem likely that such strategies will continue.

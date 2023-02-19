@@ -1,0 +1,63 @@
+<HEADLINE>
+3D Fantasies
+<P>
+NEW YORK – How will 3D printing change the world?
+Today, you can read about jewelry and custom can openers, much as three decades ago you could have read that the personal computer would enable people to keep their recipes organized.
+Of course, PCs became much more useful than that.
+Many entrepreneurs and small businesspeople can now run their entire operations on a computer, and people keep their recipes not only organized, but also online.
+They also track their workouts, monitor their babies, and amass huge collections of digital friends (for better or worse).
+<P>
+The Internet changed the balance of power between individuals and institutions.
+It enabled millions of people to have jobs without having bosses.
+Instead, they have agents – such as TaskRabbit or Amazon Web Services or Uber – who match providers and customers.
+<P>
+I think we will see a similar story with 3D printing, as it grows from a novelty into something useful and disruptive – and sufficiently cheap and widespread to be used for (relatively) frivolous endeavors as well.
+We will print not just children’s playthings, but also human prostheses – bones and even lungs and livers – and ultimately much machinery, including new 3D printers.
+<P>
+So, even as custom-manufactured goods become cheaper and people talk about local manufacture as well as local foods, other goods may get more expensive if we do it right.
+“Juan got his wife Alice a real wooden chair for her birthday!” you might hear.
+But their daughter Mika got a reprinted chair made from the same old materials plus a little more, marking her growth from her last birthday.
+Only the size and the filigree on the back are different, reflecting her new interest in space travel; last year, it was horses.
+<P>
+Like computers and the Internet, 3D printing will affect business and behavior around the world and across industries.
+Already, there is a growing number of shared 3D printing services, enabling you to print something of your own design or use (a customized version of) designs that you can find in online catalogues or order through 3D design shops.
+<P>
+Over time, these print shops will replace thousands of stores carrying millions of items, some of which sit around for months waiting to be bought.
+They will print goods using designs from online services that offer designs for both open-source, free-design goods and branded goods that may not seem very distinct except for a logo.
+<P>
+Indeed, branding and intellectual property issues will become increasingly “complicated” for hardware, just as they are now for software and content.
+Many people will have to shift from controlling design to offering better services to make money, or perhaps band together under a particular brand known for some other quality.
+<P>
+Materials may come to be one such differentiator, as illustrated by a startup called Emerging Objects.
+As in the world of content and software, new design brands are likely to emerge and die more quickly; the pace of change will increase and it will be harder to stay on top for long.
+<P>
+Outside the world of manufacturing, where mass-produced goods may still have a substantial cost advantage over custom-printed ones, 3D printing will have far greater impact downstream, in the market for spare parts and replacements, where demand is less predictable but more precise.
+(If you want a widget, any widget will do, but once you have widget 94303, only part 94303A will satisfy you.)
+<P>
+One early example is KeyMe.net, which makes house keys on demand.
+The user needs one original, which he registers by inserting into the KeyMe kiosk; he can then store that design anonymously in KeyMe’s database, with unique access to it via his fingerprints and email (but with no reference to a physical address).
+Then, when he loses the key or needs a spare, he can get a new copy at any location with a kiosk – of which there will soon be many, the company hopes.
+<P>
+The cost in money (let alone convenience) is a fraction of that for going to an ordinary key maker – especially at the hours when such emergencies usually occur.
+KeyMe does not actually use 3D printing; it cuts them out of blanks the “traditional” way, but uses the same kind of electronic design representation that a 3D printer would.
+In fact, I consider it a brilliant forerunner of the overall impact of 3D printing – making the occasional production of cheap copies of a specific item easy and available anywhere, anytime.
+<P>
+Today, for example, many businesses are devoted to managing and storing spare parts.
+Each location needs to carry thousands of different spare parts because it is not clear which ones will be needed where.
+But, in the future, if something breaks, you will be able to take it over to the 3D print shop to be reprinted.
+Better yet, the shop may be able to reuse the materials in your broken part – saving the costs and environmental burden of throwing things away, shipping them somewhere, and so forth.
+<P>
+Consider Apple power cords (the item that I lose most often), which are a huge source of profit for all involved.
+That will change - hallelujah!
+Of course, my reduced cost will be someone else’s reduced revenue – and not just Apple’s.
+<P>
+One big loser in this world will be the freight business (along with junkyards, logistics companies, and centralized recycling operations).
+When things can be made, used, broken/worn out, and recycled closer to home, the need for transport is reduced dramatically.
+Recycled materials do not need to be delivered to centralized processing centers and then forwarded to factories.
+Products will not need to be made in those factories and then shipped to customers or to inventory centers.
+<P>
+Right now, US inventories held by manufacturers, wholesalers, and retailers are valued at around $1.7 trillion – or about 10% of annual GDP.
+This includes many things that cannot be 3D-printed (anytime soon, at least), but it does hint at how much stuff is just sitting around.
+<P>
+In the short run, this means greater efficiency and more and speedier recycling, happening locally rather than centrally.
+In the long run, 3D printing will allow more efficient use of physical resources and faster diffusion of the best designs, boosting living standards around the world.

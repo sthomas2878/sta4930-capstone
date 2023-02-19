@@ -1,0 +1,66 @@
+<HEADLINE>
+The Post-Crisis Elephant in the Room
+<P>
+LONDON – The global financial crisis that began in August 2007 resulted from a massive, unavoidable cognitive mistake on the part of regulators and bankers.
+It is now ten years later, and yet few are willing to admit this fact, let alone explore appropriate remedies.
+<P>
+In fact, the opposite has happened: regulators have piled on ever-more complex rules, and too-big-to-fail banks have become still bigger.
+Even worse, the wrong-headed response to the crisis threatens not just the financial sector, but open societies generally.
+<P>
+To be sure, the financial crisis had different catalysts in different countries, including subprime loans, real-estate bubbles, sovereign debt, and economic downturns that affected small and medium-size enterprises.
+But there was also a common denominator: a structural weakness in the banking sector – already one of the economy’s most regulated sectors – that left highly regulated banks unable to withstand economic perturbations as well as unregulated financial institutions.
+<P>
+According to a 2012 study by Andrew G. Haldane of the Bank of England, the financial crisis caused failures in around half of the 101 banks with balance sheets larger than $100 billion as of 2006.
+The vast majority of these banks, including Lehman Brothers in the US, had not breached any of the prudential regulations already in place before the crisis.
+Moreover, 11 had already met the capital requirements that are currently being introduced as part of the new Basel III regulations.
+And yet four of those 11 still failed.
+<P>
+These findings imply that the new post-crisis rules are inadequate.
+For more proof, consider Spain’s Banco Popular, which passed the European Central Bank’s Asset Quality Review in 2014 and the European Banking Authority’s stress test in 2016.
+As of last December, Banco Popular still had a tier 1 capital ratio of over 12%, which is only slightly below average and 50% above the minimum requirement.
+Six months later, it went bankrupt, wiping out many bondholders’ assets along the way.
+<P>
+Despite such red flags, few have demanded an explanation from financial authorities for why the new regulations are falling short.
+As a result, Mark Carney, the governor of the Bank of England and the chairman of the Financial Stability Board (FSB), had no problem boasting in a letter to G20 leaders this July that “the largest banks are required to have as much as ten times more of the highest quality capital than before the crisis.”
+This claim, whether true or not, points to a serious mistake before the crisis that has not been sufficiently investigated, much less corrected.
+<P>
+The capital of the top 55 US and European banks has about doubled since 2006,both in absolute terms and relative to risk-weighted assets.
+But despite the Banco Popular episode, bankers on both sides of the Atlantic are lobbying for the new capital rules to be relaxed further, and for permission to increase leverage and returns.
+<P>
+Why are regulators and bankers apparently seeking to double down on their mistakes?
+For starters, banking authorities never adequately investigated their own role in the previous crisis, because they had no incentive to do so.
+On the contrary, they jumped at the opportunity to hide their responsibility when disoriented politicians blamed other non-bank financial activities, which they have misnamed “shadow banking.”
+<P>
+Such labels only confuse the problem with the solution, because they do not address the central fact that the banking-supervision system itself caused the last crisis.
+Market-based financial intermediaries, such as hedge funds, may be relatively unregulated, but they are also responsible for their own destiny.
+As a result, they almost always operate with far more capital than what banks are required to have for the same level of risk.
+No wonder they proved way more resilient in the crisis.
+<P>
+Bankers, on the other hand, are presiding over large institutions that have many lines of business in a wide variety of jurisdictions.
+Given this complexity, they are unlikely to comprehend the overall risks run by their institutions.
+Instead, they are likely to rely on the prudential rules they are given, happy to see that they remain profitable.
+<P>
+When banks enjoy extraordinary profitability even while playing by the rules, bankers assume that they are doing something right, and they compensate themselves accordingly.
+That reduces the post-bonus return on shareholders’ capital to a more normal level.
+Regulators are now targeting excessive compensation with a new set of intrusive rules.
+But excessive compensation is just another direct consequence of the regulators’ own mistake of setting insufficient minimum capital requirements.
+<P>
+We all seem to have missed a basic fact.
+The economy is a complex, adaptive system populated by fallible agents with imperfect knowledge.
+And within that system are other complex systems, such as today’s financial-regulatory regimes and the large financial institutions themselves.
+In such systems, policies may not be nearly as effective as models would suggest, and they will often backfire or lead to unintended consequences.
+<P>
+Although markets are almost always wrong, they are nevertheless a powerful mechanism for holding individuals and entities responsible for their own mistakes.
+Regulatory technocracies do the opposite: by diluting accountability and privileging collective decisions, they stymie the individual talent that populate them.
+<P>
+Of course, this is all very disorienting for the public.
+We know that in a complex system, the proverbial butterfly flapping its wings on one continent can cause a hurricane on another.
+But we don’t blame butterflies for the weather, and we are generally ready for its vagaries.
+Yet we tend to search for scapegoats when things go wrong, and we share the illusion that tighter controls are always better.
+This explains the establishment of new post-crisis entities with impossible missions, such as the FSB.
+We would do just as well to establish a Fair Weather Commission to ensure that there is always sunshine on weekends.
+<P>
+When politicians and technocrats seek more power to deliver results, citizens have to sacrifice some freedoms.
+But more often than not, achieving the promised outcome is beyond our leaders’ control.
+When they fail, they blame factors other than their inability to deal with the complex system they have created, in order to avoid undermining their own authority.
+But this will always end in widespread frustration and discontent, giving fodder to populists the world over.

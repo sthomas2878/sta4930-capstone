@@ -1,0 +1,63 @@
+<HEADLINE>
+How to Save the Internet
+<P>
+MANCHESTER – In a scene in the US sitcom Silicon Valley, digital startups compete for funding by presenting their ideas.
+In each presentation, company founders repeat the Silicon Valley mantra of “making the world a better place.”
+One founder pledges to make the world a better place through “software-defined data centers for cloud computing,” and another via “scalable, fault-tolerant distributed databases with asset transactions.”
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Although the idea of the Internet “making the world a better place” is often ridiculed today, it’s easy to forget that this decade began amid optimism that new technologies would connect people, broaden access to information, and generate abundant new economic opportunities.
+<P>
+Coming from Syria, I experienced some of these potential benefits.
+In a country with limited space for debate, the Internet provided citizens with a forum to learn and discuss.
+And, following the 2011 Arab Spring protests, it played an important role in documenting events and sharing information.
+As millions of Syrians subsequently fled the country, the Internet became the only means of connecting them.
+A Syrian comedian joked that “Syrian society exists only on Facebook,” illustrating how the Internet became the only tool for people scattered around the world to maintain a sense of solidarity.
+<P>
+Today, however, governments around the world are considering policies that would undermine the Internet’s openness and global reach.
+And they have many tools at their disposal.
+The Chinese authorities, for example, use a range of measures often collectively referred to as the “Great Firewall of China.”
+Other countries, such as Indonesia, Brazil, Russia, India, Turkey, and Nigeria, have considered – and some have implemented – similar measures in recent years.
+Russia’s “sovereign Internet law” is just one recent example of this trend.
+<P>
+These policies take different forms.
+Some states are implementing “data localization” policies, which require data to be hosted in a particular jurisdiction.
+Other states are adopting tools and regulations that provide them with greater control over different aspects of the Internet.
+A recent debate triggered by the European Union’s new copyright directive prompted the establishment of a “Save Your Internet” movement to lobby against some of its more controversial provisions.
+This growing divergence of policies and regulatory frameworks threatens to create an increasingly balkanized digital world.
+<P>
+While this threat is real, it would be wrong to dismiss every policy that interferes with the Internet as an authoritarian attempt to undermine democracy.
+The increase in Internet policies is also a response to two other major changes in recent years.
+<P>
+First, the Internet’s economic importance has grown exponentially, driven by a higher number of users and the growing adoption of digital tools.
+E-commerce, cloud computing, online advertising, digital payments, Internet infrastructure, and the number and range of connected devices have all grown rapidly in recent years.
+These trends are likely to continue with the expansion of technologies such as artificial intelligence (AI) and the emergence of the Internet of Things.
+This means that a growing share of economic transactions will either take place or be mediated via the internet, placing the network at the heart of our economies.
+<P>
+Second, the Internet is no longer an open arena where startups compete to introduce ideas and create new businesses.
+Companies such as Google, Amazon, Facebook, and Alibaba have become huge, market-dominant businesses, and are globalizing their activities by expanding – and acquiring firms – worldwide.
+As Shoshana Zuboff argues in her new book, The Age of Surveillance Capitalism, these platforms are building a technological and organizational architecture that aims to lock in far-reaching control over the digital economy.
+<P>
+As this economy continues to expand, the global tech giants’ dominance threatens to aggravate existing economic and technological inequalities.
+An example is the extraction of value by digital platforms through their intermediary roles, whether in transportation, accommodation, retail, or media.
+More generally, the technology gap – a key factor driving global inequality – could widen as digital giants in advanced economies move further into new areas such as AI and seek to occupy an infrastructural position in and across economies.
+The very low level of tax revenues that digital firms often generate in the countries where they operate further exacerbates the problem.
+<P>
+Many governments will therefore come under increasing pressure to protect national economies, including through policies that disrupt the global nature of the Internet.
+Far from being an exception, China’s success in creating homegrown digital firms such as Alibaba and Baidu will be seen by other countries as a model to follow.
+Authoritarian governments will find it easier to justify measures that allow them greater control over the internet.
+<P>
+So far, efforts to fight Internet fragmentation have focused on pushing for international trade rules that would limit governments’ ability to intervene in the digital economy.
+But some emerging and developing countries rightly fear that such measures will entrench the technology gap by making digital giants even more powerful.
+And even if such rules are enacted, it is not clear how effective they will be in limiting the trend of digital fragmentation.
+<P>
+Rather than simply criticizing every interventionist Internet policy, therefore, those wishing to save the Internet should focus on countering the underlying trends that are prompting many of these measures (or that could be used as justifications for them).
+Saving the global Internet requires limiting the growing concentration of power in the digital economy and preventing the Internet from becoming another engine of inequality.

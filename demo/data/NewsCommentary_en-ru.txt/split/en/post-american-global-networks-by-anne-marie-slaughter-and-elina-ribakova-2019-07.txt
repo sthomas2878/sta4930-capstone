@@ -1,0 +1,64 @@
+<HEADLINE>
+Post-American Networks
+<P>
+WASHINGTON, DC – In today’s world, access to global networks is a critical source of power, but the resulting interdependence can also generate vulnerability.
+The power flows from centrality: being a hub that connects all (or most) other nodes.
+The threat of denying access to such hubs can be a powerful sanction against bad actors.
+But if that power is abused – if asymmetrical interdependence is weaponized – participants in a network may decide to create alternative networks of their own.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+That is the risk the United States is currently running.
+It holds the world’s principal reserve currency and enjoys a central role in global financial networks.
+But it is using that position to pursue foreign-policy goals that are likely to weaken its centrality, and thus its leverage over the long term.
+<P>
+A prime example is the mounting crisis with Iran, which started in May 2018, when the US unilaterally withdrew from the 2015 nuclear deal, known officially as the Joint Comprehensive Plan of Action (JCPOA).
+Worse, the US has since imposed its decision on the other signatories – Britain, France, Russia, China, Germany, and the European Union – by threatening secondary sanctions against third parties honoring the JCPOA.
+<P>
+In theory, the remaining parties to the JCPOA should have been able to continue doing business with Iran.
+But the US, invoking a cooperation agreement with the EU that was originally designed for the fight against al-Qaeda, has been able to enforce its secondary sanctions through the Belgium-based Society for Worldwide Interbank Financial Telecommunication (SWIFT).
+<P>
+Under pressure from the US, SWIFT has had to bar Iranian banks from the global payments system it oversees, effectively locking Iran out of the global financial system and curtailing its ability to conduct business even with countries that have not sanctioned it.
+<P>
+Like many European companies, SWIFT has a legal presence and a data center in the US.
+Had it refused to comply, it could have faced significant fines, the loss of US visas for its staff, or a denial of access to US dollars.
+<P>
+France, Germany, and the United Kingdom then announced plans to create a special-purpose vehicle called INSTEX, which, by netting exports and imports, allows goods to flow between Europe and Iran without direct bilateral money flows.
+Yet, in practice, INSTEX transactions have been limited to humanitarian goods that are not subject to US sanctions.
+The US has effectively frozen participation in the deal.
+<P>
+But, regardless of whether it succeeds in bending Iran to its will – an outcome that currently looks highly unlikely – the Trump administration has strengthened other countries’ incentives to bypass the US financial system altogether.
+In response to Western sanctions imposed following its intervention in Ukraine in 2014, Russia decreased its external vulnerabilities.
+It is now the only major emerging market with fiscal and current-account surpluses, low government debt, and high reserves.
+It no longer fears losing access to global funding markets.
+Russia has also forged stronger ties with China.
+The two countries recently announced a new cross-border payments system for settling bilateral trade in renminbi and rubles, with initial transactions planned for this year.
+And Iran and Turkey have since expressed an interest in joining.
+<P>
+Meanwhile, India and Japan already have independent domestic payments systems, and Russia has launched a card payments system to circumvent US-based credit card networks.
+Similarly, in China, mobile payment apps such as Alibaba’s Alipay and Tencent’s WeChat Pay allow consumers to forego credit cards altogether, paying directly with their smartphones.
+Not to be left behind, Facebook has announced the creation of a new cryptocurrency that presumably will be available to all of its users, many more of whom live outside the US than within it.
+<P>
+Such moves from US adversaries were predictable, but Europeans, too, are looking for alternatives.
+A number of European countries maintain close ties to Russia, and some have already signed up to participate in China’s “Belt and Road Initiative.”
+Linking to a Russian-Chinese payment system could offer valuable protection against potential US efforts to sanction projects that are critical to European interests, such as the Nord Stream 2 gas pipeline between Russia and Germany.
+<P>
+Moreover, the EU has become more assertive in declaring its economic sovereignty, and it has invited other JCPOA parties to join INSTEX.
+The EU’s official position has long been that it neither encourages nor discourages an international role for the euro.
+But the European Commission recently outlined proposals that would expand use of the euro by non-residents, including for trade in the energy, food, and aerospace sectors.
+Europe’s desire to reduce its dependence on the US financial system may provide an impetus for deeper monetary and fiscal integration, especially come 2020, when new EU leaders are installed and Brexit is completed.
+<P>
+As Barry Eichengreen of the University of California, Berkeley, has shown, a rebalancing of power within the global financial system can come either from historical cataclysms, such as world wars, or from institutional changes.
+The establishment of the US Federal Reserve System, for example, shifted the center of gravity in global finance from the UK to the US.
+<P>
+This time around, the system’s central player is abusing its position in ways that are prodding others – including its own allies – to develop alternative networks.
+In a networked world, where the power of economic coercion depends on specific webs of connections, the networks themselves are a valuable resource.
+But they are not natural resources; they must be built and maintained through responsible stewardship.
+The Trump administration should not take them for granted.

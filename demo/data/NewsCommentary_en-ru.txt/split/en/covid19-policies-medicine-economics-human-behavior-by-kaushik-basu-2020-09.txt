@@ -1,0 +1,65 @@
+<HEADLINE>
+The Rise of Covidnomics
+<P>
+ITHACA – Boundaries between academic disciplines are always artificial creations intended to facilitate analysis, given our limitations.
+But as the economist Albert Hirschman once argued, there are times when it is incumbent on us to trespass them.
+The ongoing battle against COVID-19 and its economic fallout is such a time.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The pandemic has cast a shadow over the global economy.
+So far, the two worst-performing economies in the second quarter of 2020 (April-June) were Peru and India, where GDP shrank by 30.2% and 23.9%, respectively, in year-on-year terms.
+These record declines were caused by the pandemic, but also by how we are dealing with it.
+<P>
+In Peru, for example, the crude mortality rate (CMR) – the number of COVID-19 deaths per million people – is 939.
+The plunge in its GDP is clearly related to this.
+<P>
+Several European countries with high CMRs, such as Spain (647) and the United Kingdom (613), also have reported some of the deepest economic slumps.
+But India’s CMR is only 60, which, though one of the highest in Asia and Africa, makes its sharp second-quarter contraction (bigger than almost any country in the world) difficult to explain – especially given that the Indian economy was among the world’s three or four fastest-growing until five years ago.
+<P>
+How can we understand such anomalies?
+To understand such matters, we need to recognize the interaction between medicine and human behavior.
+<P>
+Consider the conventional wisdom that COVID-19 is more likely to be transmitted in closed spaces than in open areas.
+So, you are safer being close to someone in a park than in a restaurant.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+We assume that this insight comes from medicine and physics, which tell us, respectively, that COVID-19 is highly infectious, and that aerosols carrying the SARS-CoV-2 virus (which causes the disease) are likely to be blown away and miss your nostrils in outdoor parks.
+But that is not necessarily so, because aerosols are relatively heavy and tend to drop quickly in still air.
+Conversely, a breeze in an open space makes it likely that the aerosol will remain airborne for longer and thus pose a risk that does not exist indoors.
+<P>
+The claim that closed spaces are more dangerous may nonetheless be true – not because of what we know about the coronavirus and the aerodynamics of aerosols, but because of human behavior.
+<P>
+Assume, for the sake of argument, that the probability of the virus being transmitted by an infected person nearby is 50% in both a restaurant and a park.
+Assume further that half of the population is infected.
+So, if you are near a random person in a park or a restaurant, the probability that you will contract COVID-19 is 25%.
+<P>
+Suppose, however, that a trusted authority announces that the risk of contracting COVID-19 is greater in a restaurant than in a park.
+If people believe this, it can turn out to be a self-fulfilling prophecy.
+Restaurants will be less attractive to risk-averse people (say, those who don’t go to places where the infection risk is higher than 25%).
+Thus, only more risk-tolerant people will go to restaurants.
+<P>
+It is reasonable to suppose that the restaurant patrons are therefore more likely to be infected, because they would have been taking more risk.
+Assume, for simplicity, that 75% of risk-tolerant people are infected, while only 25% of risk-averse people are.
+The probability that an infected person will transmit the virus is still 50%, as before.
+Then, if people believe that restaurants are riskier (and only the risk-tolerant enter them), the probability of contracting the virus in a restaurant is 37.5%, whereas the probability of contracting it in a park is less than 25%.
+<P>
+These probabilities will be borne out by the epidemiological data, and most people will believe that the pattern has something to do with the nature of the virus, rather than being driven entirely by human behavior.
+By this argument, if the authorities had announced that restaurants were safer than parks, then parks would in time have become the riskier place.
+Even if parks were safer than restaurants for reasons of epidemiology and the physics of aerosol movement, you could face a bigger risk in a park than in a restaurant if it were widely believed that parks were more risky than restaurants.
+<P>
+Recognizing these kinds of connections creates scope for policy interventions that can contain the virus without crushing the economy.
+India’s mistake was to impose a “lockdown” – a misnomer, because it forced tens of millions of migrant workers to spread out across the country, often on foot, after their jobs and wages in urban centers vanished overnight.
+<P>
+Once we pinpoint the links between medicine and economics, fascinating policy ideas begin to emerge, as the Georgia Institute of Technology’s Joshua Weitz reported in a recent Stockholm School of Economics webinar.
+<P>
+Countries like India or Peru must design rules of behavior that allow the economy to function, at least partly, while containing the virus.
+Here is an idea.
+As increased testing gives us a better sense of who has had COVID-19 and has SARS-CoV-2 antibodies, we can offer these people a very high wage to do COVID-19-risky jobs – including in hospitals, and in business sectors involving face-to-face interaction.
+By using them as links between vulnerable people, we can keep supply chains intact while disrupting virus transmission chains.
+<P>
+Under normal circumstances, the market would do this on its own: demand for people with antibodies would rise, and so would their wages.
+But markets do not function well during a pandemic, when many externalities are at work.
+Governments therefore need to intervene with intelligent, well-designed policies, which would enable us to keep the virus under control without bringing the economy to a halt.

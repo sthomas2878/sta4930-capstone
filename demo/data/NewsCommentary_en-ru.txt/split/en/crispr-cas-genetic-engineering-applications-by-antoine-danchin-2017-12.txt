@@ -1,0 +1,58 @@
+<HEADLINE>
+The Holy Grail of Genetic Engineering
+<P>
+HONG KONG – Since its introduction four decades ago, genetic engineering has been a source of high hopes for health, agriculture, and industry.
+But it has also provoked deep anxiety, not least owing to the laborious nature of the genome-editing process.
+Now, a new technique, CRISPR-Cas, offers both precision and the ability to modify the genome text at several places simultaneously.
+But this has not eliminated reason for concern.
+<P>
+The genome can be viewed as a kind of musical score.
+Just as sheet music tells musicians in an orchestra when and how to play, the genome tells the cell’s component parts (generally proteins) what they must do.
+A score may also include notes from the composer, showing possible changes, frills that can be added or omitted depending on the circumstances.
+For the genome, such “notes” emerge from cell survival over many generations in an ever-changing environment.
+<P>
+The DNA genetic program is akin to a fragile book: the order of its pages can change, with some even being moved to another cell’s program.
+If a page is, say, laminated, it is less likely to be damaged as it is moved around.
+Likewise, elements of a genetic program protected by a solid coating are better able to invade a variety of cells, and then to reproduce as the cell reproduces.
+<P>
+Ultimately, that element becomes a virus, spreading rapidly.
+The next step is for the cell that reproduces a virus, whether useless or harmful, to develop some way to resist it.
+And, in fact, it was in this manner – as a bacteria’s defense against invading viruses – that the CRISPR-Cas process first emerged.
+<P>
+That process allows acquired characteristics to become inherited.
+In the course of a first infection, a small fragment of the viral genome – a kind of signature – is copied into the CRISPR genomic island (an extra piece of genome, outside of the parent genome text).
+As a result, the memory of the infection is retained across generations.
+When a descendant of the cell is infected with a virus, the sequence will be compared to the viral genome.
+If a similar virus has infected a cell’s parent, the descendant will recognize it, and ad hoc machinery will destroy it.
+<P>
+This complex process took many decades for scientists to decipher, not least because it controverted standard theories of evolution.
+But now scientists have figured out how to replicate the process, enabling humans to edit, with the utmost precision, specific genomes – the Holy Grail of genetic engineering for nearly 50 years.
+<P>
+This means that scientists can apply the CRISPR-Cas mechanism to correct problems in the genome – the equivalent of typos in a written text.
+For example, in the case of cancer, we would want to destroy those genes that allow the multiplication of tumor cells.
+We are also interested in introducing genes in cells that never gained them by natural genetic transfer.
+<P>
+There is nothing new about these objectives.
+But, with CRISPR-Cas, we are far better equipped to achieve them.
+Previous techniques left traces in the modified genomes, contributing, for example, to antibiotic resistance.
+A mutation obtained by CRISPR-Cas, by contrast, is not distinguishable from a mutation that emerged spontaneously.
+That is why the US Food and Drug Administration has ruled that such constructs do not need to be labeled as genetically modified organisms.
+<P>
+Previous techniques were especially arduous if one needed to modify several genes, because the process would need to occur sequentially.
+With CRISPR-Cas, the ability to perform genome modifications simultaneously has already enabled the creation of fungi and apples that do not oxidize, or turn brown, when they come into contact with air – a result that required several genes to be deactivated simultaneously.
+Such apples are already on the market, and are not considered genetically modified organisms.
+<P>
+Other applications are in development.
+The so-called gene drive procedure for manipulating the genome could diminish the harm caused by disease-carrying insects.
+Targeted modification of gametes in mosquitoes – the world’s deadliest animal to humans – would render them incapable of transmitting a virus or parasite.
+<P>
+But the application of CRISPR-Cas must be approached with care.
+While the technology could prove a boon in the fight against many deadly diseases, it also implies serious – and potentially entirely unpredictable – risks.
+For starters, because genomes multiply and spread with reproduction, modifying an entire population would require modifications to only a limited number of individuals, especially if the organism’s lifecycle is short.
+<P>
+Moreover, given the ubiquity of hybridization among neighboring species, it is possible that the modification of a mosquito species would also spread progressively and uncontrollably to other species.
+Analysis of animal genomes shows that such events have taken place in the past, with species invaded by genetic elements that could have affected ecosystem balances and species evolution (though it is impossible to say how).
+And, if modifying a mosquito population is dangerous, there is no telling what could happen if we modify human cells – in particular, germ cells – without doing our due diligence.
+<P>
+CRISPR-Cas technology is poised to change the world.
+The imperative now is to ensure that those changes are positive.

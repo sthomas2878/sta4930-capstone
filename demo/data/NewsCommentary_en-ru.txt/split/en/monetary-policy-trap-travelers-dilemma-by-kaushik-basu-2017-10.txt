@@ -1,0 +1,56 @@
+<HEADLINE>
+Central Banks Must Work Together – or Suffer Alone
+<P>
+NEW YORK – Global growth seems to be moving, slowly but surely, along the path to recovery.
+The International Monetary Fund’s latest World Economic Outlook predicts 3.5% global growth this year, up from 3.2% last year.
+But there’s a hitch: the easy monetary policies that have largely enabled economies to return to growth are reaching their limits, and now threaten to disrupt the recovery by creating the conditions for another financial crisis.
+<P>
+In recent years, the world’s major central banks have pursued unprecedentedly easy monetary policies, including what a recent Deutsche Bank report calls “multi-century all-time lows in interest rates.”
+That, together with large-scale quantitative easing, has injected a massive $32 trillion into the global economy over the last nine years.
+But these unconventional policies are turning out to be a classic game-theoretic bad equilibrium: each central bank stands to gain by keeping interest rates low, but, collectively, their approach constitutes a trap.
+<P>
+In today’s globalized world, a slight reduction in interest rates by an individual central bank can bring some benefits, beginning with weakening the currency and thus boosting exports.
+But the more countries employ this strategy, the greater the strain on the banking sector.
+This is already apparent in Europe, where bank equity prices have dropped steadily in recent months.
+<P>
+Moreover, low and especially negative interest rates make holding cash costly, prompting investors to seek riskier investments with higher potential returns.
+As a result, collateralized loan obligations (CLOs) have more than doubled this year, reaching an overall market value of $460 billion.
+That looks a lot like the surge in collateralized debt obligations (CDOs) that helped to drive the 2008 financial crisis.
+While the world has implemented more checks and balances for CLOs than it did for CDOs before the crisis, the trend remains deeply worrying.
+<P>
+Finally, persistently low interest rates can cause people to worry about their retirement funds, spurring them to save more.
+Far from boosting consumption, as intended, monetary stimulus may create an environment that dampens demand, weakening prospects for economic growth.
+<P>
+Today, no single country can steer the world away from this trap.
+The United States, which might have taken the lead in the past, has ceded its global leadership position in recent years – a process that has been greatly accelerated during the first year of Donald Trump’s presidency.
+Moreover, the G20 has lately lost steam in supporting closer coordination of monetary and fiscal policies among the world’s major advanced and emerging economies.
+<P>
+Perhaps a new grouping of the major players – the GMajor? – needs to step up, before it is too late.
+To gain the needed motivation, monetary policymakers should recall the “traveler’s dilemma,” a game theory parable that highlights the pitfalls of individual rationality.
+<P>
+The parable features a group of travelers, returning home with identical pottery purchased on a remote island.
+Finding that the pottery has been damaged in transit, they demand compensation from the airline.
+Because the airline manager – known as the “financial wizard” – has no idea what the price of the pottery is, a creative solution is needed to determine the appropriate amount of compensation.
+<P>
+The manager decides that each traveler should write down the price – any integer from $2 to $100 – without conferring with one another.
+If all write the same number, that figure will be understood as the price, and thus the amount of compensation each traveler receives.
+If they write different numbers, the lowest number will be taken as the correct price.
+Whoever wrote the lowest number would receive an additional $2, as a reward for honesty, while anyone who wrote a higher number would receive $2 less, as a penalty for cheating.
+So if some write $80 and some $90, they will receive $82 and $78, respectively, in compensation.
+<P>
+At first blush, the travelers are thrilled.
+The pottery has no actual monetary value, but if they each write $100, all can receive $100 in compensation.
+One traveler, however, quickly realizes that writing $99 would be a better option, because it would garner that extra $2 reward, and thus a total of $101.
+That traveler quickly realizes, however, that others must have had the same idea, and so decides to put down $98 instead.
+But what if the others had the same thought?
+Better make it $97.
+<P>
+In the end, trapped by this inexorable logic, all travelers end up writing and receiving $2.
+The outcome may seem a disaster, but it is also the most rational choice – the “Nash equilibrium” of the traveler’s dilemma game.
+It is clear how the financial wizard came by his moniker.
+<P>
+The moral of the story is simple.
+The invisible hand of the market does not always lead individually self-interested agents to a collectively desirable outcome.
+Altruism and regard for others must play a role.
+If they are missing, the players at least need to coordinate their decisions.
+Unless central bankers take that message to heart, they will find themselves sweeping up a lot of broken pottery.

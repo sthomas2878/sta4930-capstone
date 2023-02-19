@@ -1,0 +1,69 @@
+<HEADLINE>
+Is Tech a New Frontier for Sustainability?
+<P>
+PARIS – Discussions about “sustainability” usually center on a company’s environmental and social commitments, and for understandable reasons.
+But the financial sector in particular should consider two other, less obvious, dimensions of sustainability.
+Regulatory sustainability is essential for addressing the systemic risk that the financial sector poses to our societies.
+In addition, the emerging new frontier of technological sustainability is having an increasing impact on business models and strategies.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Data, robotics, and artificial intelligence are on everyone’s minds.
+But although these new technologies have vast potential, financial institutions also need to understand their risks, social impact, and ethical implications.
+<P>
+Regarding data, the numbers are striking: 90% of all data worldwide have been created in the last two years, and we generate an estimated 2.5 quintillion bytes of it every day.
+In this context, it is essential for financial institutions – which are both key producers and users of data – to address issues concerning data creation and protection.
+<P>
+Regulations in this field are becoming stricter, as the European Union’s General Data Protection Regulation (GDPR) illustrates.
+Fortunately, banks and insurance companies continue to benefit from their reputation for being trustworthy.
+Their challenge is to honor and maintain that trust despite the growing temptation to monetize their data “assets” by selling them or using them for marketing purposes.
+<P>
+Robotics, meanwhile, is transforming all industries and the job market.
+According to some estimates, between one-quarter and one-half of the financial sector’s total workforce could be replaced by robots and AI over the next decade.
+True, studies of German manufacturing workers have found no evidence that robots reduce overall employment: although each robot eliminates two manufacturing jobs, it creates additional jobs in the service sector that fully offset this loss.
+But robots do affect the composition of aggregate employment.
+<P>
+In fact, we are probably experiencing another episode of Schumpeterian “creative destruction.”
+Robotics and AI will change the types of jobs on offer, their location, and the skills required to fill them.
+This disruptive effect must be managed carefully.
+Banks and other financial institutions should therefore focus on anticipating these technologies’ impact on their employees, and invest in training and career counseling to help them during the transition.
+<P>
+AI technologies are probably the most difficult for the finance sector to address, owing to their complexity and ethical implications.
+Although financial institutions have been criticized since the global financial crisis, they have in fact long taken ethical considerations into account.
+But with AI, we are moving to another level, where firms must anticipate potential ethical risks and define the mechanisms to ensure control and accountability.
+<P>
+Two major issues stand out.
+The first is algorithm bias (or AI bias), which occurs when an algorithm produces systematically prejudiced results owing to erroneous assumptions in the machine-learning process.
+In 2014, for example, Amazon developed a tool for identifying software engineers it might want to hire, but the algorithm incorporated the biases of the male engineers who created it.
+As a result, the system soon began discriminating against women, leading the company to abandon it in 2017.
+More recently, Apple and Goldman Sachs launched a credit card that some have accused of being sexist.
+For a married couple who file joint tax returns and live in a community-property state, Apple’s black-box algorithm gave the husband a credit limit 20 times higher than that of his wife.
+<P>
+The influence of the conscious or unconscious preferences of algorithms’ creators may go undetected until they are used, and their built-in biases potentially amplified.
+Fortunately, algorithms can be reviewed and monitored to avoid unfair outcomes.
+For example, a bank employee may unconsciously consider an applicant’s gender when making a loan decision.
+But with an algorithm, you can simply exclude a gender variable and other closely correlated factors when computing a score.
+That is why it is crucial to implement the right safeguards when developing the model.
+<P>
+The other big ethical concern relates to the transparency and “explainability” of AI-driven models.
+Because these models will increasingly be used to make recruiting, lending, and perhaps even legal decisions, it is essential to know their critical features and the relative importance of each in the decision-making process.
+We need to open the black box to understand the processes, procedures, and sometimes-implicit assumptions it contains.
+Regulation also will increasingly push us in this direction: the GDPR, for example, introduces the right for individuals to obtain “meaningful information about the logic involved” in automated decision-making that has “legal or similarly relevant effects.”
+<P>
+Today, we still have more questions than answers regarding technological sustainability.
+That is probably fine for the time being, because we are proceeding into uncharted territory with care and concern.
+After all, developing a more comprehensive approach to climate and the environment has taken many years, and we probably still have a long way to go.
+We now must start a similar journey toward technological sustainability and ask ourselves how well equipped we are to discuss the practical, social, and ethical implications of new and powerful digital tools.
+<P>
+Because these questions touch upon anthropology and philosophy as much as economics and politics, we must respond to them with open and inclusive debate, interdisciplinary frameworks, and well-coordinated collective action.
+This shared effort should bring together the public and private sectors, as well as consumers, employees, and investors.
+<P>
+Although technological progress comes with risks, it ultimately improves everyone’s lives.
+By managing these advances responsibly, we can ensure that humanity and digital technology combine to produce a more sustainable future.

@@ -1,0 +1,71 @@
+<HEADLINE>
+No More Half-Measures on Corporate Taxes
+<P>
+NEW YORK – Globalization has gotten a bad rap in recent years, and often for good reason.
+But some critics, not least US President Donald Trump, place the blame in the wrong place, conjuring up a false image in which Europe, China, and developing countries have snookered America’s trade negotiators into bad deals, leading to Americans’ current woes.
+It’s an absurd claim: after all, it was America – or, rather, corporate America – that wrote the rules of globalization in the first place.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+That said, one particularly toxic aspect of globalization has not received the attention it deserves: corporate tax avoidance.
+Multinationals can all too easily relocate their headquarters and production to whatever jurisdiction levies the lowest taxes.
+And in some cases, they need not even move their business activities, because they can merely alter how they “book” their income on paper.
+<P>
+Starbucks, for example, can continue to expand in the United Kingdom while paying hardly any UK taxes, because it claims that there are minimal profits there.
+But if that were true, its ongoing expansion would make no sense.
+Why increase your presence when there are no profits to be had?
+Obviously, there are profits, but they are being funneled from the UK to lower-tax jurisdictions in the form of royalties, franchise fees, and other charges.
+<P>
+This kind of tax avoidance has become an art form at which the cleverest firms, like Apple, excel.
+The aggregate costs of such practices are enormous.
+According to the International Monetary Fund, governments lose at least $500 billion per year as a result of corporate tax shifting.
+And Gabriel Zucman of the University of California, Berkeley, and his colleagues estimate that some 40% of overseas profits made by US multinationals are transferred to tax havens.
+In 2018, 60 of the 500 largest companies – including Amazon, Netflix, and General Motors – paid no US tax, despite reporting joint profits (on a global basis) of some $80 billion.
+These trends are having a devastating impact on national tax revenues and undermining the public’s sense of fairness.
+<P>
+Since the aftermath of the 2008 financial crisis, when many countries found themselves in dire financial straits, there has been growing demand to rethink the global regime for taxing multinationals.
+One major effort is the OECD’s Base Erosion and Profit Shifting (BEPS) initiative, which has already yielded significant benefits, curbing some of the worst practices, such as that associated with one subsidiary lending money to another.
+But, as the data show, current efforts are far from adequate.
+<P>
+The fundamental problem is that BEPS offers only patchwork fixes to a fundamentally flawed and incorrigible status quo.
+Under the prevailing “transfer price system,” two subsidiaries of the same multinational can exchange goods and services across borders, and then value that trade “at arm’s length” when reporting income and profits for tax purposes.
+The price they come up with is what they claim it would be if the goods and services were being exchanged in a competitive market.
+<P>
+For obvious reasons, this system has never worked well.
+How does one value a car without an engine, or a dress shirt without buttons?
+There are no arm’s-length prices, no competitive markets, to which a firm can refer.
+And matters are even more problematic in the expanding services sector: how does one value a production process without the managerial services provided by headquarters?
+<P>
+The ability of multinationals to benefit from the transfer price system has grown, as trade within companies has increased, as trade in services (rather than goods) has expanded, as intellectual property has grown in importance, and as firms have gotten better at exploiting the system.
+The result: the large-scale shifting of profits across borders, leading to lower tax revenues.
+<P>
+It is telling that US firms are not allowed to use transfer pricing to allocate profits within the US.
+That would entail pricing goods repeatedly as they cross and re-cross state borders.
+Instead, US corporate profits are allocated to different states on a formulaic basis, according to factors such as employment, sales, and assets within each state.
+And, as the Independent Commission for the Reform of International Corporate Taxation (of which I am a member) shows in its latest declaration, this approach is the only one that will work at the global level.
+<P>
+For its part, the OECD will soon issue a major proposal that could move the current framework a little in this direction.
+But, if reports of what it will look like are correct, it still would not go far enough.
+If adopted, most of a corporation’s income would still be treated using the transfer price system, with only a “residual” allocated on a formulaic basis.
+The rationale for this division is unclear; the best that can be said is that the OECD is canonizing gradualism.
+<P>
+After all, the corporate profits reported in almost all jurisdictions already include deductions for the cost of capital and interest.
+These are “residuals” – pure profits – that arise from the joint operations of a multinational’s global activities.
+For example, under the 2017 US Tax Cuts and Jobs Act, the total cost of capital goods is deductible in addition to some of the interest, which allows for total reported profits to be substantially less than true economic profits.
+<P>
+Given the scale of the problem, it is clear that we need a global minimum tax to end the current race to the bottom (which benefits no one other than corporations).
+There is no evidence that lower taxation globally leads to more investment.
+(Of course, if a country lowers its tax relative to others, it might “steal” some investment; but this beggar-thy-neighbor approach doesn’t work globally.)
+A global minimum tax rate should be set at a rate comparable to the current average effective corporate tax, which is around 25%.
+Otherwise, global corporate tax rates will converge on the minimum, and what was intended to be a reform to increase taxation on multinationals will turn out to have just the opposite effect.
+<P>
+The world is facing multiple crises – including climate change, inequality, slowing growth, and decaying infrastructure – none of which can be addressed without well-resourced governments.
+Unfortunately, the current proposals for reforming global taxation simply don’t go far enough.
+Multinationals must be compelled to do their part.

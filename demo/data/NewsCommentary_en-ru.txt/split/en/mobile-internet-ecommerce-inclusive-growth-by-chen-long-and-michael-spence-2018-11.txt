@@ -1,0 +1,59 @@
+<HEADLINE>
+The Digital Key to Inclusive Growth
+<P>
+HANGZHOU/MILAN – Discussions about the effects of digital technology on the economy and society have lately tended to focus on the negative.
+But it would be a mistake to let the risks associated with digital technology obscure its potential to make the world better, not least by supporting more inclusive growth.
+<P>
+To be sure, the potential risks are profound.
+The recent bestselling novel by former US President Bill Clinton and novelist James Patterson, The President is Missing, is based on the plausible conjecture that data on computers and servers could be destroyed on a massive scale, bringing all modern economies to a sudden stop.
+Given such threats, policies involving cross-border technology transfer and investment now account for digital technologies’ cyber-security implications, not to mention their potential military and defense applications.
+<P>
+Questions about data security extend far beyond national security, with many increasingly concerned about privacy and protection of their personal information.
+This has spurred efforts to tighten regulations.
+<P>
+Moreover, social media are blamed for amplifying political polarization, while providing a platform for foreign meddling in countries’ elections and public discourse.
+But regulations here are more complicated, as they must be balanced with the right to free speech.
+Meanwhile, the massive market power of digital mega-platforms is prompting calls to revisit competition policy.
+<P>
+The risks that have received the most attention, however, relate to employment.
+As a growing number of jobs or tasks are automated, many fear that there will not be a sufficient number left for humans.
+And, even if there are, ensuring that workers – particularly those who previously held routine jobs – can fill the new digitally assisted positions represents a major challenge.
+<P>
+So far, it seems that the rise of the digital economy has already contributed to a broad pattern of income and job polarization in the developed world.
+Yet digital technology can play a powerful role in fostering inclusive growth patterns, especially in developing economies, thanks to two key features.
+<P>
+First, digitized information has low marginal costs and is non-rival.
+Second, digital technologies – from mobile Internet and cloud computing to artificial intelligence and blockchain – are more accessible than ever, meaning that the skill requirements for effective participation in the digital economy are now relatively low (though literacy remains essential).
+<P>
+Mobile Internet is the key enabler of the digital economy.
+Smartphones have given a huge and growing number of people – particularly in the lower half of the income distribution – Internet access for the first time, while the rise of mobile payment systems has supercharged this inclusive effect.
+People who previously lacked the official documentation required to access financial services can now engage in transactions, build a record, and eventually, say, take out a loan.
+In this sense, data have become the new collateral.
+E-commerce platforms amplify this effect further, as they provide a new pathway to economic inclusion.
+<P>
+As Ming Zeng explains in Smart Business: What Alibaba’s Success Reveals about the Future of Strategy, e-commerce and payment platforms, at least in China, have evolved from standalone platforms into widely accessible digitally enabled ecosystems.
+Entry barriers are low, and the markets small businesses can access digitally are much larger than traditional markets, which are constrained by geography.
+Furthermore, complementary resources for new business models are available and relatively easily coordinated via the platform’s open architecture.
+<P>
+Ongoing research at the Luohan Academy in Hangzhou, a newly established institute devoted to exploring the characteristics and impacts of the digital economy, indicates that such inclusive effects are already emerging, certainly in China.
+Beyond contributing to overall growth, particularly in the domestic consumer economy, where small and medium-size businesses have thrived and multiplied, mobile payment systems and e-commerce appear to be expanding economic participation by lower-income citizens and benefiting lagging regions.
+<P>
+Perhaps this effect should not be surprising.
+After all, fostering inclusive growth and employment was a key motivation behind the creation of Alibaba’s e-commerce platform, and continues to guide its evolution.
+<P>
+Moreover, the power of ecosystems is well known.
+Across many countries and sectors, there are hotspots of innovation, characterized by the dynamic exchange of ideas.
+As these hotspots develop, they increasingly provide complementary resources (including human capital) that facilitate the creation of new businesses, essentially by lowering entry barriers.
+<P>
+Digitally enabled ecosystems – including not just e-commerce and payment platforms, but also social media – function as turbo-charged versions of these traditional local ecosystems.
+They create new, dynamic, and far-flung markets not just for goods and services, but also for ideas and social interactions.
+<P>
+Of course, none of this happens overnight.
+Just like in a traditional ecosystem, it takes time for the infrastructure to be constructed.
+Ultimately, however, the potential of digital ecosystems to foster inclusive growth patterns in developing economies is huge.
+<P>
+To be sure, the recipe for growth and development is not the same in all places.
+But, while every country finds its own path, there are common ingredients, such as leveraging the global economy’s knowledge and technology base and securing relatively high levels of private and social investment.
+<P>
+It now seems increasingly clear that digital technologies should be included in the mix.
+At a time when these technologies are making inroads into the labor-intensive manufacturing/assembly sectors of the tradable economy (the traditional basis of comparative advantage), digital marketplaces, open-architecture ecosystems, and mobile payment platforms can offer a powerful, affordable, and inclusive growth engine for a wide variety of developing economies.

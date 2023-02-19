@@ -1,0 +1,49 @@
+<HEADLINE>
+Trumping the Dollar
+<P>
+LONDON – One of the more fascinating developments in the seven months since US President Donald Trump was elected has been the trajectory of the US dollar, relative to other major currencies.
+After soaring in the wake of Trump’s victory, the dollar’s value began to slide in April.
+<P>
+There are various explanations for this.
+One is that Trump’s much-anticipated economic-growth agenda has not materialized, and stands no chance of making it through Congress.
+Another is that the rest of the world, not least the eurozone, has performed better than expected since Trump’s election.
+<P>
+I spent decades immersed in the intricacies of the foreign-exchange market, so I know that it is foolhardy to assume that one can ever know everything that is going on.
+Still, beyond the cyclical explanations for today’s trends, a third explanation has become increasingly clear: markets have built in a risk premium for the dollar, to account for the uncertainties that Trump’s presidency has introduced.
+<P>
+In the course of estimating the underlying equilibrium value of the dollar and other currencies, I have developed a process for approximating where a currency “should” be trading, all things being equal.
+This process has generally served me well, insofar as anything can serve one in the world of foreign exchange.
+And assuming that it is at least vaguely accurate, we can conclude that any resulting deviation in the actual value of a currency represents some kind or premium or discount.
+<P>
+According to conventional economic theory, the exchange rate can be calculated in terms of a currency’s so-called purchasing power parity (PPP): if the same basket of goods can be purchased with the same number of euros as dollars, then the exchange rate is 1:1.
+But in the early 1990s, I came to regard this approach as insufficient, because it failed to take into account that the underlying real (inflation-adjusted) exchange rate could itself vary.
+<P>
+Béla Balassa, Paul Samuelson, and John Williamson were among the earliest economists to estimate the real exchange-rate equilibrium that, in a perfect world, also reflects the balance-of-payments and full-employment equilibria.
+But when I was at Goldman Sachs, I developed my own very simple version of this framework: the Dynamic Equilibrium (Real) Exchange Rate (GSDEER).
+Right now, the GSDEER for the euro-dollar exchange rate is around €1:$1.20, which would suggest that the dollar is overvalued against the euro by about 6-7%.
+<P>
+I also developed what I called the Adjusted GSDEER, which corrects the “equilibrium” rate for the ongoing economic cycle, by accounting for factors such as the real interest-rate differential between the US and the eurozone.
+Which interest rate is best for making comparisons is a matter of debate, as are the effects of quantitative easing; but I see no good reason not to use the ten-year government bond differential, adjusted for inflation expectations.
+<P>
+Accordingly, the Adjusted GSDEER for the euro-dollar exchange rate, as of June 7, was €1:$1.0590.
+Given that the dollar was trading at around $1.1250 against the euro on that day, this suggests that the dollar is actually around 6% weaker than it should be.
+<P>
+Now, of course, 6% is not a particularly significant difference, and this finding may not mean anything at all.
+Those who are bullish on the dollar (and who probably have plenty of underlying biases) would tell you that now is an ideal time to buy dollars, as the value is sure to rise.
+They may be right.
+The US economy could start to grow at a faster rate; Trump might somehow get some of his growth-boosting policies enacted; and Europe’s growth may taper off.
+<P>
+On the other hand, the eurozone could maintain its amazing ascent; and the Trump administration may continue to disappoint.
+Moreover, Trump’s proposed policy framework might very well deserve to have a rising risk premium.
+It is still too early to know for sure, given that the stock market continues to reach new heights, while US bond yields have softened.
+But if the Trump administration does indeed pursue a deliberate policy of isolationism, high risk premia on the dollar will have been justified, especially when one accounts for the persistently low US domestic savings rate and high dependency on net foreign capital.
+<P>
+Some economic observers have long believed that the US cannot sustain an economy in which personal consumption constitutes 70% of GDP.
+And for a brief period in 2008-2009, it looked as though the US economy could be on the verge of a major structural adjustment, some of which could have been helpful, if it reduced consumer dominance.
+Fortunately, the worst was avoided.
+But almost a decade later, US domestic consumption once again accounts for more than 70% of GDP.
+<P>
+There are good ways and bad ways to shrink the consumption share of GDP to a more appropriate size.
+The good way is for the US to import less and export more, and to increase its domestic savings and investment.
+The bad way – particularly for American consumers – is for the US to pick fights and retreat from the world.
+Trump and his advisers would do well to act accordingly.

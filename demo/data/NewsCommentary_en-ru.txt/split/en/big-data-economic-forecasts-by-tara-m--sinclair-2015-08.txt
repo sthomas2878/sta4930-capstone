@@ -1,0 +1,43 @@
+<HEADLINE>
+Economic Forecasts in the Age of Big Data
+<P>
+WASHINGTON, DC – In late July, it came to light in the press that the US Federal Reserve had accidentally published economic forecasts for the next five years on its website.
+The forecasts, which make clear that the Fed does not expect a recession before 2020, revealed worrying problems not just in terms of data security, but also in the methods used by its economists.
+<P>
+Given that periods of economic expansions historically average about 4.8 years, the Fed’s predictions seem like wishful – and perhaps dangerous – thinking.
+The economic recovery following the 2009 global financial crisis may have been extremely weak; but we would be wise to prepare for another downturn in the next few years.
+<P>
+The disconnect between the Fed’s forecast data – upon which, in theory, it bases its decisions – and the historical trends is not surprising.
+Attempts by economists to predict the future have had mixed results, at best; very few foresaw the depth of the Great Recession, even after it had already started.
+The trouble lies in the fact that many of the leading indicators used to measure the economy rely on out-of-date, incomplete, or flawed data.
+<P>
+For example, forecasters calculate real GDP on the basis of initial monthly estimates of quarterly GDP – a statistic that is often substantially revised as more data become available.
+As a result, forecasts lag behind reality.
+During the third quarter of 2008, fewer than 30% of the forecasters who contribute to the Survey of Professional Forecasters predicted a decline in GDP in the remaining months of the year; in fact, GDP plunged more than 8% in the fourth quarter of 2008, one of the largest drops on record.
+<P>
+Economists, policymakers, and business leaders need better data on which to base their forecasts.
+Fortunately, new sources of information on the economy have recently emerged: the vast collections of private data collected by search engines and other Internet companies.
+<P>
+At Indeed, the job-search company where I am chief economist, real-time job data allow us to see which sectors are attempting to recruit the most candidates – a powerful economic indicator when evaluating the labor market.
+A look at the job postings in the building industry, for example, allows us to see whether construction is up or down compared to the previous year, providing insights into the housing market.
+Examining how workers are behaving in their job searches indicates their perception of the labor market’s health, with implications for economic growth.
+<P>
+My company is just one example of potential sources of real-time economic data.
+The Billion Prices Project at MIT measures inflation using real-time data on online purchases from hundreds of retailers globally.
+The Google Price Index provides similar information, and Google Trends offers insights from Internet search data.
+<P>
+Researchers are also mining social media sites for useful leading economic indicators, including the Twitter hashtag #NFPGuesses, a weekly aggregation of predictions about non-farm payroll gains.
+Zillow, an online real-estate service, collects information about home sales and mortgages, and companies such as SpaceKnow are using satellite imagery to track production.
+<P>
+Unlike the sample survey data that currently drive forecasts, these newly available data reflect the real-time behavior of economic actors, revealing previously undetectable shifts in the economy.
+For example, data on job searches and job postings could be used to predict employment for the following month.
+<P>
+Properly used, new data sources have the potential to revolutionize economic forecasts.
+In the past, predictions have had to extrapolate from a few unreliable data points.
+In the age of Big Data, the challenge will lie in carefully filtering and analyzing large amounts of information.
+It will not be enough simply to gather data; in order to yield meaningful predictions, the data must be placed in an analytical framework.
+<P>
+The Fed may have blundered in releasing its data ahead of schedule.
+But its mistake offers us an important opportunity.
+In order to improve economic predictions, economists must be encouraged to seek new sources of data and develop new forecasting models.
+As we learn how to harness the power of big data, our chances of predicting – and perhaps even preventing – the next recession will improve.

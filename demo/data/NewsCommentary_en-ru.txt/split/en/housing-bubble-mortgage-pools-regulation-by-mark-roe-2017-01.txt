@@ -1,0 +1,68 @@
+<HEADLINE>
+Surviving the Next Housing-Market Hurricane
+<P>
+KEY WEST – Biking along the beach here for a good sunrise view, my bicycle’s headlight illuminates signs for the hurricane evacuation route to Miami.
+The signs are not surprising, given the intensity of the storms that can smash into the Florida Keys.
+More surprising is that those signs hold important lessons for financial regulation.
+<P>
+The Florida Keys are much more developed than they were during, say, Ernest Hemingway’s lifetime.
+All along the hundred-mile archipelago, substantial hurricane protections are in place.
+Construction standards are higher, so that residents can wait out storms in their homes – or, at least, in local buildings.
+If an evacuation is required, there is the so-called overseas highway – a high-cost engineering feat that links the archipelago’s islands to one another and to the mainland.
+<P>
+But if the evacuation plan is not well-executed, bottlenecks along the 113-mile route could trap evacuees.
+If you’re stuck in traffic on that road, there is not much you can do other than wait and hope.
+<P>
+Today’s plans for protecting the financial system have a similar weakness.
+<P>
+Since the financial crisis, regulators in the United States and elsewhere have been preparing banks to weather a banking crisis like that of 2008 and 2009.
+They are now justifiably more confident that a troubled bank can be restructured effectively, and that depositors and other short-term creditors would not trigger a collapse by hastily withdrawing their money.
+Long-term creditors, they are confident, would take the hit.
+<P>
+But disturbing evidence has emerged suggesting that, overall, the global financial system is no safer today than it was in 2007.
+When the 2008 global financial crisis erupted, America’s red-hot housing market had been operating as a money market for years.
+Companies’ chief financial officers (and others with excess, temporary cash) were using their cash to purchase securities backed by pools of mortgages, which they would sell back to the bank the following day, reaping attractive interest gains.
+This overnight market was – and remains – huge, rivaling the size of the entire deposit-based banking system.
+<P>
+But illiquid real estate cannot solidly underpin a stable market for overnight obligations forever.
+And, indeed, when the housing bubble burst, the money market in mortgages failed.
+Because CFOs (and other institutional savers) no longer wanted to risk large amounts of cash on mortgages, they stopped making the purchases, leaving banks short on cash to lend to businesses.
+Like a hurricane, this disaster smashed into the financial system, which could not absorb the losses smoothly.
+<P>
+So regulators are constructing stronger buildings that can withstand a financial hurricane.
+They want to make sure that banks pay off the overnight mortgage pools first.
+That way, the overnight mortgage-pool buyers are less likely to get spooked, rush to their cars, and clog up the evacuation route at the first sign of trouble at a single bank.
+<P>
+It sounds great – if it works.
+But what if overnight mortgage-pool buyers decide, in the face of a crisis, that it is not worth waiting around to find out whether the highly complex mechanisms meant to ensure that they are paid will work as planned?
+What if they’re worried about the entire mortgage-pool market and not just the safety of a single bank?
+They could flee en masse – and take their cash with them.
+<P>
+The problem extends even further.
+If those who use overnight mortgage pools receive priority over other creditors, as is the case today, the short-term market for housing securities will surely grow.
+After all, it is appealing for investors to hold what is virtually cash, while benefiting from better interest rates than the near-zero rate on deposits.
+Likewise, banks will prefer the interest rates on such overnight purchases to the rates on long-term debt.
+The result could well be even greater bank dependence on mortgage pools, which are safe enough taken separately, but, together, render the entire system more fragile.
+<P>
+This danger can be illustrated by the situation in the Florida Keys.
+If, in the early twentieth century, only 50% of the archipelago’s infrastructure could withstand a hurricane, then, say, half the population would evacuate when a hurricane hit.
+If the narrow escape route – until 1935 a railroad connection that was, in fact, destroyed by a hurricane – became overly congested, tragedy would ensue.
+<P>
+So the authorities toughened up the construction code, providing a new level of safety that attracted more inhabitants.
+If one building floods, it is more likely to stand.
+In any case, its occupants have plenty of options: they can escape to a nearby building or along the clear highway.
+But what if the entire town floods?
+With twice as many residents, the escape route would becomes congested and dangerous if all headed toward it simultaneously.
+<P>
+The quality of hurricane protection in the Florida Keys seems to be formidable.
+Even if the buildings are not 100% safe and the evacuation route is not 100% smooth, they are close enough to ensure that residents are safe.
+<P>
+In banking, though, one cannot be so certain.
+The safety level for a single failed bank is probably high nowadays.
+But there seem to be too many weaknesses in the overall system to guarantee against a rout if several banks failed simultaneously – or, worse, if the entire housing market, built on an unstable market of overnight lending, suffered another of its once-in-a-generation crises.
+By making housing-based short-term debt more attractive than other savings channels, we are courting trouble.
+<P>
+The systems that regulators have put in place since the 2008 crisis may work.
+If the failure is localized, they will most likely work well.
+But, at this point, it is impossible, even for regulators, to know for sure whether the system can withstand a market-wide failure.
+Given that the world suffers from major housing bubbles every decade or so, it might not be many years before we find out.

@@ -1,0 +1,47 @@
+<HEADLINE>
+Blood Quest
+<P>
+WASHINGTON, DC – In most developed countries, patients can be confident about the safety of blood transfusions.
+The problem is that maintaining a steady, uncontaminated supply of donor blood is not always easy.
+Is it possible to ensure an adequate supply of safe blood once and for all?
+<P>
+Today’s blood supplies, often donated by volunteers, can be contaminated with HIV and other infectious agents.
+And donor blood must be kept in cold storage, where it has a 28-day shelf life.
+Given fear of contamination – and military interest in a more durable supply – research into synthetic alternatives has long been a medical priority.
+<P>
+The idea of using blood substitutes was first advanced in the seventeenth century, and continues to attract researchers today.
+Several products that could revolutionize transfusion medicine have already been developed in the pursuit of shelf-stable, portable, one-type-fits-all blood substitutes, which could replace standard blood transfusions in extreme situations, such as on the battlefield.
+<P>
+But, after more than three decades of active research and development, no clinically viable product has obtained regulatory approval, owing to the significant scientific challenges.
+<P>
+Blood is a complicated stew of plasma proteins, red blood cells, platelets, and other cellular components.
+These elements perform crucial functions, such as transporting oxygen, nutrients, and immunoglobulins (which defend against infection), and regulating water content, temperature, and pH level.
+<P>
+In the early twentieth century, researchers began to examine hemoglobin – the protein responsible for carrying oxygen from the respiratory organs to the rest of the body – in red blood cells.
+They found that, when isolated from aging cells – whether from human or cow blood, or from genetically engineered sources – free hemoglobin can be rejuvenated, chemically stabilized, and re-infused as a blood “substitute” that can carry oxygen as effectively as red blood cells, but for a much shorter time.
+(Non-hemoglobin synthetic blood substitutes, known as fluorocarbons, have proved to be less effective oxygen carriers.)
+<P>
+But free hemoglobin can wreak havoc in the human body, causing hypertension, cardiac arrest, or even death.
+Indeed, in almost all living creatures, hemoglobin is encapsulated in red blood cells, which protect the body from the protein’s negative effects (and, in turn, protect hemoglobin from the body’s digestive enzymes).
+Experts nonetheless believe that hemoglobin-based products can be used to save the lives of trauma patients, as well as to treat patients who object to donated blood on religious grounds (for example, Jehovah’s Witnesses).
+<P>
+Hemoglobin contains hemes, chemical compounds that contain iron – a transition metal that can undergo oxidation, or “rusting” processes.
+Outside of red blood cells, “good” ferrous iron – the only oxygen-carrying form – is oxidized uncontrollably to form the “bad” ferric and “ugly” ferryl forms of hemoglobin.
+When released into a person’s circulatory system, hemoglobin in these higher oxidation states eventually self-destructs, damaging molecules in surrounding tissue.
+<P>
+Given that these mischievous forms of hemoglobin are difficult to study in living systems, researchers have largely ignored them.
+Instead, they have focused on strategies for preventing the kidneys from filtering the infused hemoglobin; the hemoglobin from leaking through the blood-vessel walls; and synthetic hemoglobin from destroying nitric oxide (a gas produced in blood vessels that helps them to dilate and increase blood flow).
+Some researchers consider the reaction with nitric oxide the most problematic, because it raises blood pressure.
+<P>
+But progress has been made in finding ways to control these oxidation reactions.
+Researchers (including at my laboratory) have investigated how the body naturally handles the occasional release of hemoglobin from aging red blood cells and from cells affected by blood diseases, such as hemolytic anemia.
+They have found that the body’s first line of defense against hemoglobin oxidation is a process of reduction, in which molecules like uric acid or ascorbic acid (vitamin C) impede oxidation by reducing the iron to a less oxidizing species.
+<P>
+Moreover, a host of blood proteins are specialized scavengers of hemoglobin or its fragments.
+They reduce its toxicity and safely clear it for further processing within specialized cells called macrophages.
+For example, haptoglobin tightly binds to hemoglobin subunits, while hemopexin captures the heme when the hemoglobin releases it.
+Some recent therapeutic possibilities include the co-infusion of haptoglobin with hemoglobin in circulation or with vitamin C – additives that hold promising implications for the development of safe and effective blood substitutes.
+<P>
+Researchers must build on this progress.
+Safe blood substitutes and new therapeutic options that make blood transfusion more effective would significantly improve treatment in challenging situations.
+Ultimately, that promises to save many lives.

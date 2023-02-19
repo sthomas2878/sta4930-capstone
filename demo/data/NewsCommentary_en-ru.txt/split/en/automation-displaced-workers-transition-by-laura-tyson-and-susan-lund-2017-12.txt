@@ -1,0 +1,65 @@
+<HEADLINE>
+Rage Against the Machine?
+<P>
+BERKELEY – Intelligent machines are transforming the way we produce, work, learn, and live throughout the world.
+Almost every aspect of our economies will be radically altered.
+<P>
+Major logistics companies and individual drivers are using new technologies to optimize their route planning.
+Companies like BMW and Tesla have already released self-driving features in their automobiles, which are produced with the help of sophisticated robots.
+The Associated Press is using artificial intelligence to help write news stories.
+3D printers are being used to produce replacement parts – for both machines and humans.
+AT&T, in collaboration with Udacity, is offering online “nanodegrees” in data analytics.
+Drones are delivering health supplies to remote locations in poor countries.
+<P>
+These marvelous new technologies promise higher productivity, greater efficiency, and more safety, flexibility, and convenience.
+But they are also stoking fears about their effects on jobs, skills, and wages.
+Feeding these fears is a recent study by the University of Oxford’s Carl Frey and Michael Osborne, and another by the McKinsey Global Institute (MGI), which find that large shares of employment in both developing and developed countries could technically be automated.
+History and economic theory, however, suggest that anxieties about technological unemployment, a term coined by John Maynard Keynes nearly a century ago, are misplaced.
+<P>
+In the future, as in the past, technological change is likely to fuel productivity gains and income growth, boosting demand for labor.
+Add to that lower prices and rising quality, and demand for goods and services will also increase.
+Many of the jobs created cannot even be imagined today, just as few people a century ago could have anticipated that automobiles would give rise to drive-through restaurants and roadside motels.
+<P>
+A new MGI report finds that under a moderate scenario for the speed and breadth of automation, about 15% of the global workforce, or 400 million workers, could be displaced between now and 2030.
+A faster pace of automation would trigger greater displacement.
+<P>
+The good news is that as a result of projected increases in demand for goods and services – driven primarily by rising incomes, the growing health-care needs of aging populations, and investment in infrastructure, energy efficiency, and renewables – enough new jobs are likely to be created to offset job losses.
+But the new jobs will differ mightily from the jobs displaced by automation, imposing painful transition costs on workers, businesses, and communities.
+<P>
+Depending on the pace of automation, 75-375 million workers, or 3-14% of the global workforce, will need to change occupational categories by 2030.
+In the United States and other developed economies where automation is likely to occur more rapidly, 9-32% of the workforce may need to change occupational categories and the skills associated with them.
+<P>
+In these countries, jobs in major occupational categories like production and office support, and jobs requiring a high school education or less, are likely to decline, while jobs in occupational categories like health and care provision, education, construction, and management, and jobs requiring a college or advanced degree, will increase.
+<P>
+According to one recent survey, the majority of Americans are concerned that automation will increase income inequality.
+Their concern appears warranted.
+As many middle-wage occupations succumb to automation, income polarization in the US and other developed countries is likely to continue.
+If workers displaced by automation are unable to find new jobs quickly, frictional unemployment will rise, putting downward pressure on wages.
+<P>
+So, what can be done to speed and ease the occupational transitions that automation will compel?
+For starters, fiscal and monetary policies to sustain full-employment levels of aggregate demand are critical.
+Policies to promote investment in infrastructure, housing, alternative energy, and care for the young and the aging can boost economic competitiveness and inclusive growth, while creating millions of jobs in occupations likely to be augmented, rather than displaced, by automation.
+<P>
+A second response must be a dramatic expansion and redesign of workforce training programs.
+Over the past two decades, government outlays for skills training and labor-market adjustment have fallen in most OECD countries.
+That has been compounded in the US by a sizeable decline in business spending on training as well.
+<P>
+These trends must be reversed.
+Lifelong learning needs to become a reality.
+Jobs will change as machines take over some tasks, and human activities will require different skills.
+MGI’s analysis shows that higher-level cognitive abilities – such as logical reasoning, stronger communication skills, and enhanced social and emotional skills – will become more important, while machines take over routine capabilities common in the workplace today, including in cognitive tasks like data collection and processing.
+<P>
+For mid-career workers with children, mortgages, and other financial responsibilities, training that is measured in weeks and months, not in years, will be necessary, as will financial support to undertake such training.
+Sending people for two-year degrees at their own expense is not the answer.
+<P>
+Instead, nanodegrees and stackable credentials are likely to gain in importance.
+German-style apprenticeships combining classroom work and practical work, and enabling participants to earn a salary while learning, could be important solutions even for middle-aged displaced workers.
+Collaboration between companies and educational institutions, as AT&T (on whose board one of the authors serves), Starbucks, and other firms are showing, can provide workers with the new or enhanced skills that are increasingly needed.
+<P>
+Tax and other incentives to encourage more business investment in workforce training, especially by small and medium-size companies, may be necessary.
+Governments will also need to offer universal and portable social benefits like health care, child care, and retirement security, as well as transition support, to workers who are forced to change jobs, occupations, and employers frequently.
+Sweden’s job-security councils, run by the private sector and funded by a payroll tax on companies, provide displaced workers with a comprehensive suite of income support, training, coaching, and assessment with caseworkers.
+<P>
+Like previous technologies, automation today promises major productivity gains, benefiting individuals, communities, and societies.
+But, for millions of workers, the path to an increasingly automated future could be long and difficult.
+It is up to us to make the policy and investment choices that can ease the transition, reduce its costs, and ensure that the income gains are equitably shared.

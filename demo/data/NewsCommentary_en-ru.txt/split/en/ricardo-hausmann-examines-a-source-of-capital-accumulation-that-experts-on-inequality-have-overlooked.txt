@@ -1,0 +1,73 @@
+<HEADLINE>
+Piketty’s Missing Knowhow
+<P>
+CAMBRIDGE – Theoretical frameworks are great because they allow us to understand fundamental aspects of a complex world in much simpler terms, just as maps do.
+But, like maps, they are useful only up to a point.
+Road maps, for example, do not tell you current traffic conditions or provide updates on highway repairs.
+<P>
+A useful way to understand the world’s economy is the elegant framework presented by Thomas Piketty in his celebrated book Capital in the Twenty-First Century.
+Piketty splits the world into two fundamental substances – capital and labor.
+Both are used in production and share in the proceeds.
+<P>
+The main distinction between the two is that capital is something you can buy, own, sell, and, in principle, accumulate without limit, as the super-rich have done.
+Labor is the use of an individual capacity that can be remunerated but not owned by others, because slavery has ended.
+<P>
+Capital has two interesting features.
+First, its price is determined by how much future income it will bring in.
+If one piece of land generates twice as much output in terms of bushels of wheat or commercial rent as another, it should naturally be worth double.
+Otherwise, the owner of one parcel would sell it to buy the other.
+This no-arbitrage condition implies that, in equilibrium, all capital yields the same risk-adjusted return, which Piketty estimates historically at 4-5% per year.
+<P>
+The other interesting feature of capital is that it is accumulated through savings.
+A person or country that saves 100 units of income should be able to have a yearly income, in perpetuity, of some 4-5 units.
+From here, it is easy to see that if capital were fully reinvested and the economy grew at less than 4-5%, capital and its share of income would become larger relative to the economy.
+<P>
+Piketty argues that, because the world’s rich countries are growing at less than 4-5%, they are becoming more unequal.
+This can be discerned in the data, though in the United States a large part of the increase in inequality is due not to this logic but to the rise of what Piketty calls “super-managers,” who earn extremely high salaries (though he does not tell us why).
+<P>
+So let us apply this theory to the world to see how well it fits.
+In the 30 years from 1983 to 2013, the US borrowed from the rest of the world in net terms more than $13.3 trillion, or about 80% of one year’s GDP.
+Back in 1982, before this period started, it was earning some $36 billion from the rest of the world in net financial income, a product of the capital that it had previously invested abroad.
+<P>
+If we assume that the return on this capital was 4%, this would be equivalent to owning $900 billion in foreign capital.
+So, if we do the accounting, the US today must owe the rest of the world roughly $12.4 trillion (13.3 minus 0.9).
+At 4%, this should represent an annual payment of $480 billion.
+Right?
+<P>
+Wrong – and by a long shot.
+The US pays nothing in net terms to the rest of the world for its debt.
+Instead, it earned some $230 billion in 2013.
+Assuming a 4% yield, this would be equivalent to owning $5.7 trillion in foreign capital.
+In fact, the difference between what the US “should” be paying if the Piketty calculation was right is about $710 billion in annual income, or $17.7 trillion in capital – the equivalent of its yearly GDP.
+<P>
+The US is not the only exception in this miscalculation, and the gaps are systematic and large, as Federico Sturzenegger and I have shown.
+<P>
+At the opposite extreme are countries such as Chile and China.
+Chile has borrowed little in net terms for the past 30 years, but pays to the rest of the world as if it had borrowed 100% of its GDP.
+China has lent to the rest of the world, in net terms, over the last decade, about 30% of its annual GDP but gets pretty much nothing for it.
+From the point of view of wealth, it is as if those savings did not exist.
+<P>
+What is going on?
+The simple answer is that things are not made just with capital and labor, as Piketty argues.
+They are also made with knowhow.
+<P>
+To see the effect of this omission, consider that America’s net borrowing of $13 trillion dramatically understates the extent of gross borrowing, which was more like $25 trillion in gross terms.
+The US used $13 trillion to cover its deficit and the rest to invest abroad.
+<P>
+This money is mixed with knowhow as foreign direct investment, and the return to both is more like 9%, compared to the 4% or less paid to lenders.
+In fact, 9% on $12 trillion is more than 4% on $25 trillion, thus explaining the apparent puzzle.
+<P>
+Chile and China put their savings abroad without mixing them with knowhow – they buy stocks and bonds – and as a consequence get just the 4-5% or less that Piketty assumes.
+By contrast, foreign investors in Chile and China bring in valuable knowhow; hence the gross capital that flows in yields more than the gross savings abroad.
+This return differential cannot be arbitraged away, because one needs the knowhow to get the higher returns.
+<P>
+The point is that creating and deploying knowhow is an important source of wealth creation.
+After all, Apple, Google, and Facebook are jointly worth more than $1 trillion, even though the capital originally invested in them is a minuscule fraction of that.
+<P>
+Who gets to pocket the difference is up for grabs.
+Knowhow resides in coherent teams, not individuals.
+Everybody in the team is crucial, but outside the team each individual is worth much less.
+Shareholders may want to take the difference as profits, but they cannot do without the team.
+<P>
+This is where the super-managers come in: they strive to pocket part of the value created by the team.
+Behind the growth of wealth and inequality lies not just capital, but also knowhow.

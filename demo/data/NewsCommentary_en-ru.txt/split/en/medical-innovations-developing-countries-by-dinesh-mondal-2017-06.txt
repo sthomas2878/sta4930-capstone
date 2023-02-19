@@ -1,0 +1,53 @@
+<HEADLINE>
+Supporting the Developing World’s Health Innovators
+<P>
+DHAKA – In 2012, the London Declaration on Neglected Tropical Diseases signaled a bold new vision for international cooperation, in which networking and globalization could underpin efforts in the global South to eradicate deadly diseases that disproportionately affect the poorest communities.
+The London Declaration – the largest global public-health collaboration to date – helped to foster trust in the rules-based global order that emerged after World War II.
+<P>
+But this hard-earned trust is now in grave danger as populist forces across the Western world take aim at their countries’ foreign-aid commitments.
+In particular, President Donald Trump has announced sweeping cuts to the United States’ international aid budget, in order to appease economically frustrated US voters who want their tax money spent at home.
+What this approach fails to recognize is that the long-term rewards of supporting medical research in the global South far outweigh the short-term costs.
+<P>
+As a Bangladeshi researcher at the International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), I have been intimately involved in local efforts to eradicate visceral leishmaniasis (VL, also known as kala-azar), one of the diseases covered by the London Declaration.
+Thanks to generous support from international donors, I have been able to conduct path-breaking research in the field.
+<P>
+Back in 2006, through research funded by the World Health Organization’s Special Programme for Research and Training in Tropical Diseases (TDR), I found virtually no sandfly-control initiatives in place in districts where VL – spread by a single species of sandfly – was endemic.
+That realization was a wake-up call to policymakers and led to the initiation of sandfly-control efforts throughout the country.
+<P>
+Years later, as part of UBS Optimus Foundation-funded research into household-level insect-control methods, my team found that a novel technology – durable wall linings soaked with the insecticide deltamethrin – was effective at killing sandflies for up to a year after application.
+We are currently testing other durable insect-control solutions, including wall paints blended with three different insecticides.
+<P>
+This work has implications beyond VL – and beyond Bangladesh.
+Indoor spraying remains the most widely used method of household insect control worldwide.
+But in isolated rural communities, the solutions that we are researching may be more robust, convenient, and effective against not just sandflies, but also other kinds of disease-carrying insects, such as Zika-infected mosquitos.
+<P>
+I have also been engaged in research on novel types of VL transmission.
+After recovering from VL, many patients in Bangladesh go on to develop a condition known as macular post-kala-azar dermal leishmaniasis.
+In order to find out whether PKDL patients can act as a reservoir for VL – and therefore boost our capacity to eradicate the disease – my team and I have set up an insectarium to breed sterile sandflies.
+<P>
+Our insectarium – funded by the Drugs for Neglected Diseases Initiative and the Spanish Foundation for International Cooperation – is one of just seven in the world (with the majority located in developed countries).
+It amounts to a permanent and valuable resource for research into vector control and disease transmission in Bangladesh.
+<P>
+Already, the insectarium has facilitated important progress.
+Recent pilot experiments showed that macular PKDL can act as a source of infection, with the results published in the journal Clinical Infectious Diseases.
+We are also using the insectarium to test insecticide resistance and susceptibility in captive sandflies – research that will support the optimization of sandfly-control strategies throughout the Indian subcontinent.
+<P>
+Of course, a key element of any strategy to eradicate disease is early and effective diagnosis.
+When it comes to VL, standard diagnoses rely on the detection of circulating antibodies in blood or urine.
+But, because antibodies persist in the blood even after recovery, this method falsely identifies healthy, non-contagious patients as needing treatment.
+While a DNA-based diagnostic test provides more accurate results, the methods currently used rely on expensive equipment like thermal cyclers and functioning cold chains.
+<P>
+So my team went to work to develop a system for enabling DNA-based diagnosis in low-resource settings.
+Using an isothermal DNA amplification method, called recombinase polymerase amplification, we developed a cold-chain-independent method for detecting VL, which we then incorporated into a solar-powered mobile “lab suitcase” that can be used easily in rural settings.
+<P>
+We are now trying to repurpose that suitcase, so that it can also enable the diagnosis of typhoid fever and tuberculosis, further revolutionizing disease surveillance in poor and rural communities.
+In other words, the development of cold-chain-independent disease detection, like the rest of our research and innovations, has far-reaching implications for global health.
+<P>
+Yet all of the success we have achieved over the last two decades is now at risk.
+Donor agencies, facing reduced aid from major players like the US, could be forced to withdraw funding for the kind of research described here.
+With Bangladesh unable to pick up the slack, life-saving projects like ours will collapse; the long-term resources we have developed, from the insectarium to new diagnostic devices, will have to be abandoned; and the developing world’s poorest communities will suffer.
+<P>
+More is at stake than generosity.
+Aid donors accrue important benefits from financing scientific research in the global South, beginning with reinforcement of the trust that underpins the fragile international order on which we all depend.
+More directly, supporting the development of low-cost health innovations could play a vital role in reducing the now-colossal health-care expenditure of advanced countries like the US.
+Those savings could, in the long term, easily offset the cost of supporting the life-saving work of organizations like icddr,b.

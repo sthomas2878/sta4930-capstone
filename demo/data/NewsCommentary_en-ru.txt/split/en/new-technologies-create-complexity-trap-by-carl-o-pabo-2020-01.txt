@@ -1,0 +1,56 @@
+<HEADLINE>
+Escaping the Global Complexity Trap
+<P>
+SAUSALITO, CALIFORNIA – Modern civilization has set a trap for itself, as ever more complex technologies are deployed at an accelerating rate.
+Every second, billions of devices, protocols, ideas, traditions, and people interact around the world.
+The resulting increase in complexity poses a huge and possibly unmanageable challenge.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Experts understand parts of the system, but the whole is far beyond the comprehension of any scientist, citizen, or political leader.
+To address the big global challenges of the next decade, we need a paradigm shift in societal regulatory systems to break us out of the complexity trap.
+<P>
+While humanity arrived at this point gradually, there have been foreshocks at earlier stages of technological development.
+Over the last several hundred years, science and technology, guided by reason and knowledge, have clearly improved daily life for most of humanity.
+But progress is not linear.
+Each advance produces some kind of disruption and side effects that society then struggles to address.
+<P>
+For example, the Haber-Bosch process for artificial fixation of nitrogen increased agricultural yields but has led to waterways around the world being polluted with runoff from excessive use of some fertilizers.
+Chlorofluorocarbons, used as refrigerants, caused the ozone hole, but efforts to replace them gave rise to hydrofluorocarbons, which are dangerous greenhouse gases.
+And although antibiotics have saved hundreds of millions of lives, they are now used so widely that drug-resistant strains have become a new risk to human health.
+There are many more such examples across all areas of science and technology.
+<P>
+Such problems arise because of system-level effects that are not obvious when new technologies are first introduced and deployed.
+Unanticipated consequences can occur at almost any level – chemical, biological, computational, economic/financial, or social/political.
+But emergent complexity (moving beyond any prospect of direct human comprehension) becomes an increasingly serious problem with the rise of computers, as individual components of the system become smarter, interact more rapidly, and connect on a global scale.
+<P>
+All of these challenges are intertwined with broader issues concerning science and society.
+As a scientist myself, I had studied the structure and design of DNA-binding proteins, but I resigned a tenured faculty position in MIT’s biology department to look at the larger challenges of human thought and humanity’s future.
+I studied finance, cognitive neuroscience, governance, climate change, the risks of environmental degradation, and the dangers posed by the rise of artificial intelligence.
+And one thing became clear: the limits of human cognitive capacity leave us struggling to grasp the complexity of the problems now facing the planet.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+So, what are we to do?
+It is not reasonable to ask scientists or other experts to anticipate the full effects of their work.
+Instead, a new approach to handling emerging complexity should begin by recognizing that this complexity engenders two kinds of external costs (or “externalities”) paid by society as a whole.
+Some involve direct damage, such as when Facebook was used to incite hatred and disrupt the 2016 US presidential election.
+Others are less direct, such as the time and attention needed to sort through new problems and develop effective plans to address them.
+<P>
+As with other externalities – like those associated with fossil fuels – society faces a fundamental challenge in allocating complexity’s costs and benefits in a fair, reliable, and well-structured way that ensures that those developing and selling new technologies repay society for the external costs.
+For starters, we need better methods for evaluating potential problems.
+Companies developing new technologies, for example, should evaluate and mitigate risks at key points in the research, development, and implementation processes.
+These evaluations should aim to anticipate a range of potential outcomes and weigh their respective costs and benefits to society.
+<P>
+These initial working assumptions do not solve the complexity problem, but they frame it well enough to serve as a call for advice and comment.
+Open-ended discussions could be funded by governments or tech companies, or by philanthropists who want to preserve democracy and guarantee a livable human future.
+<P>
+Democracy and capitalism, coupled with modern science, have given rise to a remarkable flourishing of thought, creativity, expression, and invention, which has entrenched the longstanding assumption that knowledge – and prospects for human control of our fate – would steadily increase.
+But we have now entered a phase in which increasing complexity is creating a world that no one understands in detail.
+<P>
+Escaping this trap will require more than a technical fix involving a clever new program, device, or brain implant.
+I think the discussion should begin with gating mechanisms and new types of regulatory schema that can serve as precautionary tools when technology is first introduced.
+<P>
+Ultimately, though, we will need to upgrade our very methods of thought.
+This is a call to global action, worthy of our brightest minds.

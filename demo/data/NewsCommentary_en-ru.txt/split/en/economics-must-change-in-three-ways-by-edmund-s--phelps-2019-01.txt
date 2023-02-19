@@ -1,0 +1,75 @@
+<HEADLINE>
+The Three Revolutions Economics Needs
+<P>
+PARIS – The West is in crisis – and so is economics.
+Rates of return on investment are meager.
+Wages – and incomes generally – are stagnating for most people.
+Job satisfaction is down, especially among the young, and more working-age people are unwilling or unable to participate in the labor force.
+Many in France decided to give President Emmanuel Macron a try and now are protesting his policies.
+Many Americans decided to give Donald Trump a try, and have been similarly disappointed.
+And many in Britain looked to Brexit to improve their lives.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Yet economists have been largely mute on the underlying causes of this crisis and what, if anything, can be done to restore economic vigor.
+It is safe to say that the causes are not well understood.
+And they will not be understood until economists finally engage in the task of reshaping how economics is taught and practiced.
+In particular, the profession needs three revolutions that it still resists.
+<P>
+The first concerns the continuing neglect of imperfect knowledge.
+In the interwar years, Frank Knight and John Maynard Keynes launched a radical addition to economic theory.
+Knight’s book Risk, Uncertainty, and Profit(1921), and Keynes’s thinking behind his General Theory of Employment, Interest, and Money(1936) argue that there is no basis – and could be no basis – for models that treat decision-makers as having correct models with which to make decisions.
+Knight injected an uncertain future, Keynes added the absence of coordination.
+But subsequent generations of economic theorists generally disregarded this breakthrough.
+To this day, despite some important work on formalizing Knight’s and Keynes’s insights (most notably by Roman Frydman and his colleagues), uncertainty – real uncertainty, not known variances – is not normally incorporated into our economic models.
+(An influential calculation by Robert J. Barro and Jason Furman, for example, made predictions of business investment resulting from Trump’s corporate profits tax cut without bringing in Knightian uncertainty.)
+The Uncertainty Revolution still has not succeeded.
+<P>
+Second, there is still a neglect of imperfect information.
+In what has come to be known as the “Phelps volume,” Microeconomic Foundations of Employment and Inflation Theory, we brought to light a phenomenon overlooked by economists.
+Overestimation by workers of wage rates outside their towns brings inflated wages and thus abnormally high unemployment; underestimation brings bargain pay levels and thus abnormally low unemployment.
+When workers lose their jobs in, say, Appalachia they have little idea – no well-based estimate – of what their wage would be outside their world and how long it might take to find a job; so they might remain unemployed for months or even years.
+There is a deficiency of information, not “asymmetric information.”
+<P>
+More than that, the volume sees every actor in the economy as being thrown back on whatever sense he or she can make of it, as Pinter depicted, and to do the best they can, as Voltaire urged.
+But theorists at the University of Chicago created a mechanical location model in which unemployment is merely frictional and thus transitory – the so-called island model.
+As a result, the Information Revolution has not yet been absorbed.
+<P>
+The last great challenge is the utter omission from economic theory of economic dynamism.
+While economists have come to recognize that the West has suffered a massive slowdown, most of them offer no explanation for it.
+Others, wedded to Schumpeter’s early thesis on innovation in his classic 1911 book The Theory of Economic Development, infer that the torrent of discoveries by scientists and explorers has shrunk to a trickle in recent times.
+Schumpeter’s theory operated on the explicit premise that the mass of people in the economy lack inventiveness.
+(He famously remarked that he never met a businessman with any originality.)
+<P>
+This was an extraordinary premise.
+One can argue that the West as we know it – the modern world, we might say – began with the great scholar Pico della Mirandola, who argued that all mankind possesses creativity.
+And the concerns of many other thinkers – the ambitiousness of Cellini, the individualism of Luther, the vitalism of Cervantes, and the personal growth of Montaigne – stirred people to use their creativity.
+Later, Hume stressed the need for imagination, and Kierkegaard emphasized acceptance of the unknown.
+Nineteenth-century philosophers such as William James, Friedrich Nietzsche, and Henri Bergson embraced uncertainty and relished the new.
+<P>
+As they reached a critical mass, these values produced indigenous innovation throughout the labor force.
+The phenomenon of grassroots innovation by virtually all sorts of people working in all sorts of industries was first perceived by the American historian Walt Rostow in 1952 and described vividly and voluminously by the British historian Paul Johnson in 1983.
+I discuss its origins in my 2013 book Mass Flourishing.
+<P>
+So it was by no means clear that the Schumpeterian thesis would be incorporated into economic theory.
+But when MIT’s Robert Solow introduced his growth model, it became standard to suppose that the “rate of technical progress,” as he called it, was exogenous to the economy.
+So the idea that people – even ordinary people working in all industries – possess the imagination to conceive of new goods and new methods was not considered.
+And it would have been dismissed had it been mooted.
+The Dynamism Revolution in economic theory was put on hold.
+<P>
+With the great slowdown and a decline of job satisfaction, however, there now appears to be a chance to introduce dynamism into economic modeling.
+And doing so is imperative.
+The importance of understanding the newly stagnant economies has sparked an effort to incorporate imagination and creativity into macroeconomic models.
+I have been arguing for a decade or more that we cannot understand the symptoms observed in the Western nations until we have formulated and tested explicit hypotheses about the sources, or origins, of dynamism.
+<P>
+That theoretical advance will give us hope of explaining not only the slow growth of total factor productivity, but also the decline of job satisfaction.
+America cannot be America again, France cannot be France again, and Britain cannot be Britain again until their peoples are once again engaged in thinking of better ways to do things and excited at embarking on their voyages into the unknown.
+<P>
+This commentary was adapted from a speech given at Paris Dauphine University on January 15, 2019.

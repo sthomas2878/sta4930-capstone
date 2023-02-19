@@ -1,0 +1,58 @@
+<HEADLINE>
+Charting Our AI Future
+<P>
+OXFORD – Galileo viewed nature as a book written in the language of mathematics and decipherable through physics.
+His metaphor may have been a stretch for his milieu, but not for ours.
+Ours is a world of digits that must be read through computer science.
+<P>
+It is a world in which artificial-intelligence (AI) applications perform many tasks better than we can.
+Like fish in water, digital technologies are our infosphere’s true natives, while we analog organisms try to adapt to a new habitat, one that has come to include a mix of analog and digital components.
+<P>
+We are sharing the infosphere with artificial agents that are increasingly smart, autonomous, and even social.
+Some of these agents are already right in front of us, and others are discernible on the horizon, while later generations are unforeseeable.
+And the most profound implication of this epochal change may be that we are most likely only at the beginning of it.
+<P>
+The AI agents that have already arrived come in soft forms, such as apps, web bots, algorithms, and software of all kinds; and hard forms, such as robots, driverless cars, smart watches, and other gadgets.
+They are replacing even white-collar workers, and performing functions that, just a few years ago, were considered off-limits for technological disruption: cataloguing images, translating documents, interpreting radiographs, flying drones, extracting new information from huge data sets, and so forth.
+<P>
+Digital technologies and automation have been replacing workers in agriculture and manufacturing for decades; now they are coming to the services sector.
+More old jobs will continue to disappear, and while we can only guess at the scale of the coming disruption, we should assume that it will be profound.
+Any job in which people serve as an interface – between, say, a GPS and a car, documents in different languages, ingredients and a finished dish, or symptoms and a corresponding disease – is now at risk.
+<P>
+But, at the same time, new jobs will appear, because we will need new interfaces between automated services, websites, AI applications, and so forth.
+Someone will need to ensure that the AI service’s translations are accurate and reliable.
+<P>
+What’s more, many tasks will not be cost-effective for AI applications.
+For example, Amazon’s Mechanical Turk program claims to give its customers “access to more than 500,000 workers from 190 countries,” and is marketed as a form of “artificial artificial intelligence.”
+But as the repetition indicates, the human “Turks” are performing brainless tasks, and being paid pennies.
+<P>
+These workers are in no position to turn down a job.
+The risk is that AI will only continue to polarize our societies – between haves and never-will-haves – if we do not manage its effects.
+It is not hard to imagine a future social hierarchy that places a few patricians above both the machines and a massive new underclass of plebs.
+Meanwhile, as jobs go, so will tax revenues; and it is unlikely that the companies profiting from AI will willingly step in to support adequate social-welfare programs for their former employees.
+<P>
+Instead, we will have to do something to make companies pay more, perhaps with a “robo-tax” on AI applications.
+We should also consider legislation and regulations to keep certain jobs “human.”
+Indeed, such measures are also why driverless trains are still rare, despite being more manageable than driverless taxis or buses.
+<P>
+Still, not all of AI’s implications for the future are so obvious.
+Some old jobs will survive, even when a machine is doing most of the work: a gardener who delegates cutting the grass to a “smart” lawnmower will simply have more time to focus on other things, such as landscape design.
+At the same time, other tasks will be delegated back to us to perform (for free) as users, such as in the self-checkout lane at the supermarket.
+<P>
+Another source of uncertainty concerns the point at which AI is no longer controlled by a guild of technicians and managers.
+What will happen when AI becomes “democratized” and is available to billions of people on their smartphones or some other device?
+<P>
+For starters, AI applications’ smart behavior will challenge our intelligent behavior, because they will be more adaptable to the future infosphere.
+A world where autonomous AI systems can predict and manipulate our choices will force us to rethink the meaning of freedom.
+And we will have to rethink sociability as well, as artificial companions, holograms (or mere voices), 3D servants, or life-like sexbots provide attractive and possibly indistinguishable alternatives to human interaction.
+<P>
+It is unclear how all of this will play out, but we can rest assured that new artificial agents will not confirm the scaremongers’ warnings, or usher in a dystopian science-fiction scenario.
+Brave New World is not coming to life, and the “Terminator” is not lurking just beyond the horizon, either.
+We should remember that AI is almost an oxymoron: future smart technologies will be as stupid as your old car.
+In fact, delegating sensitive tasks to such “stupid” agents is one of the future risks.
+<P>
+All of these profound transformations oblige us to reflect seriously on who we are, could be, and would like to become.
+AI will challenge the exalted status we have conferred on our species.
+While I do not think that we are wrong to consider ourselves exceptional, I suspect that AI will help us identify the irreproducible, strictly human elements of our existence, and make us realize that we are exceptional only insofar as we are successfully dysfunctional.
+<P>
+In the great software of the universe, we will remain a beautiful bug, and AI will increasingly become a normal feature.

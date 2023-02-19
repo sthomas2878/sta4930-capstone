@@ -1,0 +1,63 @@
+<HEADLINE>
+The AI Governance Challenge
+<P>
+PARIS – On the sidelines of the last World Economic Forum meeting in Davos, Singapore’s minister of communications and information quietly announced the launch of the world’s first national framework for governing artificial intelligence.
+While the global media have glossed over this announcement, its significance reaches well beyond the borders of Singapore or the Swiss town where it was made.
+It is an example that the rest of the world urgently should follow – and build upon.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Over the last few years, Singapore’s government, through the state-led AI Singapore initiative, has been working to position the country to become the world’s leader in the AI sector.
+And it is making solid progress: Singapore – along with Shanghai and Dubai – attracted the most AI-related investment in the world last year.
+According to one recent estimate, AI investment should enable Singapore to double the size of its economy in 13 years, instead of 22.
+<P>
+Of course, AI’s impact extends globally.
+According to a recent McKinsey report, AI could add up to 16% to global GDP growth by 2030.
+Given this potential, the competition for AI investment and innovation is heating up, with the United States and China predictably leading the way.
+Yet, until now, no government or supranational body has sought to develop the governance mechanisms needed to maximize AI’s potential and manage its risks.
+<P>
+This is not because governments consider AI governance trivial, but because doing so requires policymakers and corporations to open a Pandora’s box of questions.
+Consider AI’s social impact, which is much more difficult to quantify – and mitigate, when needed – than its economic effects.
+Of course, AI applications in sectors like health care can yield major social benefits.
+However, the potential for the mishandling or manipulation of data collected by governments and companies to enable these applications creates risks far greater than those associated with past data-privacy scandals – and reputational that governments and corporations have not internalized.
+<P>
+As another McKinsey reportnotes, “realizing AI’s potential to improve social welfare will not happen organically.”
+Success will require “structural interventions from policymakers combined with a greater commitment from industry participants.”
+As much as governments and policymakers may want to delay such action, the risks of doing so – including to their own reputation – must not be underestimated.
+<P>
+In fact, at a time when many countries face a crisis of trust and confidence in government, strengthening AI-related governance is in many ways as important as addressing failures in corporate or political governance.
+After all, as Google CEO Sundar Pichai put it in 2018, “AI is one of the most important things humanity is working on.
+It is more profound than, I don’t know, electricity or fire.”
+<P>
+The European Commission seems to be among the few actors that recognize this, having issued, at the end of last year, “draft ethics guidelines for a trustworthy AI.”
+Whereas Singapore’s guidelines are focused on building consumer confidence and ensuring compliance with data-treatment standards, the European model aspires to shape the creation of human-centric AI with an ethical purpose.
+<P>
+Yet neither Singapore’s AI governance framework nor the EU’s preliminary guidelines address one of the most fundamental questions about AI governance: where does ownership of the AI sector, and responsibility for it and its related technologies, actually lie?
+This question raises the fundamental issue of responsibility for AI, and whether it delivers enormous social progress or introduces a Kafkaesque system of data appropriation and manipulation.
+<P>
+The EU guidelines promise that “a mechanism will be put in place that enables all stakeholders to formally endorse and sign up to the Guidelines on a voluntary basis.”
+Singapore’s framework, which also remains voluntary, does not address the issue at all, though the recommendations are clearly aimed at the corporate sector.
+<P>
+If AI is to deliver social progress, responsibility for its governance will need to be shared between the public and private sectors.
+To this end, corporations developing or investing in AI applications must develop strong linkages with their ultimate users, and governments must make explicit the extent to which they are committed to protecting citizens from potentially damaging technologies.
+Indeed, a system of shared responsibility for AI will amount to a litmus test for the broader “stakeholder capitalism” model under discussion today.
+<P>
+Public versus private is not the only tension with which we must grapple.
+As Francis Fukuyama once pointed out, “as modern technology unfolds, it shapes national economies in a coherent fashion, interlocking them in a vast global economy.”
+At a time when technology and data are flowing freely across borders, the power of national policies to manage AI may be limited.
+<P>
+As attempts at Internet governance have shown, creating a supranational entity to govern AI will be challenging, owing to conflicting political imperatives.
+In 1998, the US-based Internet Corporation for Assigned Names and Numbers (ICANN) was established to protect the Internet as a public good, by ensuring, through database maintenance, the stability and security of the network’s operation.
+Yet approximately half of the world’s Internet users still experience online censorship.
+The sky-high stakes of AI will compound the challenge of establishing a supranational entity, as leaders will need to address similar – and potentially even thornier – political issues.
+<P>
+Masayoshi Son, CEO of the Japanese multinational conglomerate SoftBank and an enthusiastic investor in AI, recently said that his company seeks “to develop affectionate robots that can make people smile.”
+To achieve that goal, governments and the private sector need to conceive robust collaborative models to govern critical AI today.
+The outcome of this effort will determine whether humankind will prevail in creating AI technologies that will benefit us without destroying us.

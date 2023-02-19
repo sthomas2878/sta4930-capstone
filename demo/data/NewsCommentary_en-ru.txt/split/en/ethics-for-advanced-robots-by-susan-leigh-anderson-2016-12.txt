@@ -1,0 +1,53 @@
+<HEADLINE>
+The Promise of Ethical Machines
+<P>
+STORRS, CONNECTICUT – The prospect of artificial intelligence (AI) has long been a source of knotty ethical questions.
+But the focus has often been on how we, the creators, can and should use advanced robots.
+What is missing from the discussion is the need to develop a set of ethics for the machines themselves, together with a means for machines to resolve ethical dilemmas as they arise.
+Only then can intelligent machines function autonomously, making ethical choices as they fulfill their tasks, without human intervention.
+<P>
+There are many activities that we would like to be able to turn over entirely to autonomously functioning machines.
+Robots can do jobs that are highly dangerous or exceedingly unpleasant.
+They can fill gaps in the labor market.
+And they can perform extremely repetitive or detail-oriented tasks – which are better suited to robots than humans.
+<P>
+But no one would be comfortable with machines acting independently, with no ethical framework to guide them.
+(Hollywood has done a pretty good job of highlighting those risks over the years.)
+That is why we need to train robots to identify and weigh a given situation’s ethically relevant features (for example, those that indicate potential benefits or harm to a person).
+And we need to instill in them the duty to act appropriately (to maximize benefits and minimize harm).
+<P>
+Of course, in a real-life situation, there may be several ethically relevant features and corresponding duties – and they may conflict with one another.
+So, for the robot, each duty would have to be relativized and considered in context: important, but not absolute.
+A duty that prima facie was vital could, in particular circumstances, be superseded by another duty.
+<P>
+The key to making these judgment calls would be overriding ethical principles that had been instilled in the machine before it went to work.
+Armed with that critical perspective, machines could handle unanticipated situations correctly, and even be able to justify their decision.
+<P>
+Which principles a machine requires would depend, to some extent, on how it is deployed.
+For example, a search and rescue robot, in fulfilling its duty of saving the most lives possible, would need to understand how to prioritize, based on questions like how many victims might be located in a particular area or how likely they are to survive.
+These concerns don’t apply to an eldercare robot with one person to look after.
+Such a machine would instead have to be equipped to respect the autonomy of its charge, among other things.
+<P>
+We should permit machines to function autonomously only in areas where there is agreement among ethicists about what constitutes acceptable behavior.
+Otherwise, we risk a backlash against allowing any machine to function autonomously.
+<P>
+But ethicists would not be working alone.
+On the contrary, developing machine ethics will require research that is interdisciplinary in nature, based on a dialogue between ethicists and AI specialists.
+To be successful, both sides must appreciate the expertise – and the needs – of the other.
+<P>
+AI researchers must recognize that ethics is a long-studied field within philosophy; it goes far beyond laypersons’ intuitions.
+Ethical behavior involves not only refraining from doing certain things, but also doing certain things to bring about ideal states of affairs.
+So far, however, the determination and mitigation of ethical concerns regarding machine behavior has largely emphasized the “refraining” part, preventing machines from engaging in ethically unacceptable behavior, which often comes at the cost of unnecessarily constraining their possible behaviors and domains of deployment.
+<P>
+For their part, ethicists must recognize that programming a machine requires the utmost precision, which will require them to sharpen their approach to ethical discussions, perhaps to an unfamiliar extent.
+They must also engage more with the real-world applications of their theoretical work, which may have the added benefit of advancing the field of ethics.
+<P>
+More broadly, attempting to formulate an ethics for machines would give us a fresh start at determining the principles we should use to resolve ethical dilemmas.
+Because we are concerned with machine behavior, we can be more objective in examining ethics than we would be in discussing human behavior, even though what we come up with should be applicable to humans as well.
+<P>
+For one thing, we will not be inclined to incorporate into machines some evolutionarily evolved behaviors of human beings, such as favoring oneself and one’s group.
+Rather, we will require that they treat all people with respect.
+As a result, it is likely that the machines will behave more ethically than most human beings, and serve as positive role models for us all.
+<P>
+Ethical machines would pose no threat to humanity.
+On the contrary, they would help us considerably, not just by working for us, but also by showing us how we need to behave if we are to survive as a species.

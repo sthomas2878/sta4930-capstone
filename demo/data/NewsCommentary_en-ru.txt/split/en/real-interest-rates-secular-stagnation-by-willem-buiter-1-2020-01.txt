@@ -1,0 +1,55 @@
+<HEADLINE>
+Past Interest Rates and Future Growth
+<P>
+NEW YORK – A new chapter has been written in the history of risk-free global interest rates.
+In a recent study, Paul Schmelzing of the Bank of England tracks global real (inflation-adjusted) interest rates over the period from 1311 to 2018.
+Despite temporary stabilizations during the periods 1550-1640, 1820-1850, and 1950-1980, he finds that global safe real rates have persistently trended downward over the past five centuries, and that negative safe real rates have steadily become more frequent since the fourteenth century.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In light of this historical record, Schmelzing questions the hypothesis, advanced by Lawrence H. Summers of Harvard University and others, that advanced economies are experiencing “secular stagnation.”
+Insofar as the secular-stagnation narrative “posits an aberration of longer-term dynamics over recent decades,” Schmelzing believes that it is “fully misleading.”
+<P>
+Some caution concerning Schmelzing’s empirical findings is warranted, however.
+The supposedly safe rates he catalogs may in fact include default risk premia that could vary systematically over time.
+The early inflation data are likely to be unreliable.
+And even if Schmelzing’s data provide an unbiased and reliable picture of real interest-rate developments since the fourteenth century, they have no obvious bearing on the plausibility of the secular-stagnation hypothesis for 2020 and beyond.
+<P>
+That hypothesis holds that the natural real rate of interest – the safe real interest rate consistent with full utilization of labor and capital, stable inflation, and a sustainable current-account balance – has fallen to zero or negative levels for most advanced economies.
+One reason for this is a declining rate of potential output growth.
+Today’s weak potential growth is attributable to a variety of factors, including societal aging, de-globalization (since the 2008 financial crisis), and possibly slower total-factor-productivity growth.
+Both the natural and the market rate of interest have been lowered by an increase in private saving propensities (which may reflect demographics, growing income and wealth inequality, and post-2008 balance-sheet deleveraging).
+<P>
+Moreover, today’s safe rates may have been further depressed by higher demand for safe assets, which comes partly from emerging markets and partly from changes in financial regulations and financial-sector norms since the 2008 crisis.
+The neutral real rate is at or below zero, nominal policy rates are at or near historically low levels (and often constrained by the zero lower bound), and inflation is low and apparently impervious to central banks’ efforts to push it up decisively.
+As a result, the market real rate now exceeds the neutral real rate, or will do so in the next cyclical downturn.
+<P>
+Whenever that comes, it could result in a stagnationary equilibrium, as economic activity and realized private saving fall to match weak private investment.
+Depressed aggregate demand, activity, and employment could further weaken potential output, driving the neutral real rate even lower.
+In an inversion of Say’s Law, a lack of effective demand can create its own lack of potential supply.
+Asset booms and bubbles can artificially and unsustainably prop up aggregate demand.
+These are driven by risk denial and a desperate reach for yield, itself in part a product of central banks’ long reliance on ultra-low nominal and real interest rates, quantitative and qualitative easing, and far-reaching forward guidance and yield-curve targeting.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The policy prescription for restoring full employment and escaping cyclical and secular stagnation is straightforward.
+Governments should use expansionary fiscal policy and supply-side structural reforms to boost aggregate demand and raise the neutral real interest rate to the point that it can be equated with the market interest rate.
+<P>
+The composition of the ideal fiscal package will be country-specific.
+The United States, with its appalling infrastructure, should boost public investment accordingly (and federal and state governments should have an extensive list of “shovel-ready” projects waiting).
+Public spending on health, education, and research and development also has much to recommend it.
+As for many other countries, fiscal boosts to private consumption or cuts in corporate taxation might be appropriate.
+And European NATO members, for their part, could make good on their commitments to raise defense expenditures to 2% of GDP.
+<P>
+The effects of fiscal stimulus on public debt should not be ignored, of course.
+But in most advanced economies, the GDP growth rate exceeds the interest rate on the public debt, which means that fiscal space is unlikely to be a binding constraint on well-designed stimulus measures.
+We also should not underestimate the potential of labor-market reforms (particularly in France) and measures to restore competition in key product markets (particularly in the US).
+Both could lead to a healthy increase in private investment.
+<P>
+Given all the options still on the table for boosting aggregate demand and the natural rate of interest, it is clear that secular stagnation is not a technologically determined necessity, but rather a dysfunctional collective choice.
+More to the point, today’s growth challenges are nothing like those faced by the pre-modern savers, investors, workers, farmers, and capitalists whom Schmelzing studies.
+<P>
+To be sure, it will be interesting to see future research on what drove the “suprasecular” decline in real interest rates over the past five centuries, and on the interactions between the natural and market rate of interest in pre-industrial societies.
+It is hard to imagine a more radical demographic shock than the Black Death that ravaged Europe and Asia in the mid-1300s, and yet the impact on the real rate of interest appears to have been minimal.
+In any case, nothing in Schmelzing’s research so far invalidates today’s secular-stagnation hypothesis.

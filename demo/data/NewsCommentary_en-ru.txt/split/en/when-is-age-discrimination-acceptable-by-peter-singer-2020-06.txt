@@ -1,0 +1,63 @@
+<HEADLINE>
+Is Age Discrimination Acceptable?
+<P>
+MELBOURNE – Should we value all human lives equally?
+<P>
+This question arose in an acute form in March, when the coronavirus overwhelmed Italy’s health-care system.
+Envisaging a situation in which there would not be enough ventilators for all patients needing one, a working group of the Italian Society of Anesthesia, Analgesia, Resuscitation, and Intensive Care reluctantly supported rationing by age, while also taking into account frailty and the severity of any other health problems.
+The group’s aim was to support those with the greatest chance of survival and likely to have the most years of life ahead of them.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Proposals for age-based rationing were discussed in many countries, and often met with opposition.
+In the United Kingdom, for example, Catherine Foot, director of evidence at the Center for Ageing Better, said that such proposals show “a dangerous kneejerk ageism, where the older we get, the less value we have and the less important our lives are to save.”
+<P>
+The issue is much broader than the current pandemic.
+In 2003, the United States Environmental Protection Agency (EPA) had to decide what costs it would impose on industry in order to limit air pollution.
+Doing that involved putting an upper limit on the cost of saving a life.
+The EPA proposed setting the limit for the life of a person younger than 70 at $3.7 million, and at $2.3 million for the life of a person older than 70.
+<P>
+When the media reported this, organizations advocating for the elderly labeled it “the senior death discount” and accused the agency of not caring about older Americans.
+Eventually, the negative publicity forced the EPA to take the policy off the table.
+<P>
+But the EPA is not alone in making such calculations.
+For the past 30 years, the World Health Organization has set its priorities by assessing the impact of illnesses on what it calls “the global burden of disease.”
+The idea is to learn which diseases cause the most harm, and target them, where that is feasible and cost-effective.
+<P>
+While some diseases are more likely to kill children, others, like COVID-19, pose the greatest risk to older people, and still others are equally likely to kill people at any age.
+The WHO uses a tool called the “disability-adjusted life year” (DALY) to measure the years of life lost by premature death and the years of life lived in less than full health.
+The more DALYs a disease causes to be lost, the greater its global burden.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The DALY is an imprecise tool.
+How one arrives at the right trade-off between the number of life-years lost and the years lived in any of the various possible states of “less than full health” is a controversial question.
+To object to taking into account the number of life-years lost, however, seems perverse.
+We should not be misled by talk of “saving lives.”
+What medical treatment does, if successful, is prolong lives.
+Successfully treating a disease that kills children and young adults is, other things being equal, likely to lead to a greater prolongation, and thus do more good, than successfully treating a disease that kills people in their 70s, 80s, and 90s.
+<P>
+If this is “ageism,” is it wrong?
+The WHO metrics count every DALY equally, whether it is a DALY in the life of a healthy teenager or a DALY in the life of a healthy 90-year-old.
+Saving the life of the teenager counts for more not because the teenager is younger, but because saving a younger person is likely to mean enabling the person saved to live more years of life.
+<P>
+To see why some forms of ageism are justifiable, imagine that you have just become a parent and are being consulted on an issue that will affect your newborn child, whose interests, naturally, are close to your heart.
+You are informed that at some stage in your child’s life, she is likely to be infected with a dangerous virus.
+Her chances of being infected are the same in any year of her life, and so is the risk of her dying from the virus, unless she receives a specially designed drug.
+<P>
+Researchers have discovered, however, that the design of the drug must vary with the patient’s age.
+Drug A is effective on those under 40, and drug B on those over 40, but the production process is so costly that the national health service cannot afford to pay for both drugs to be produced.
+It must choose one of them.
+You can vote on which.
+<P>
+Given this choice, and assuming that you believe your child’s life will be valuable, it is clearly contrary to her interests to vote for drug B. That would increase your child’s risk of dying before her 40th birthday.
+To improve her chances of living a longer life, you should vote for drug A.
+<P>
+As this example shows, discriminating on the basis of age is very different from discriminating on the basis of, say, race.
+Everyone who is old was once young.
+No one who is black was ever white.
+And there is no impartial, race-neutral perspective from which we can all see that it is in everyone’s interests to save the lives of white people rather than black people.
+<P>
+But the justification for ageism is limited.
+It does not extend to forms of age-based discrimination that are not life-saving, such as giving preference in employment to younger people when older people can do the job as well or better.

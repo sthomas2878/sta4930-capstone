@@ -1,0 +1,64 @@
+<HEADLINE>
+The Moral Identity of Homo Economicus
+<P>
+CAMBRIDGE – Why do people vote, if doing so is costly and highly unlikely to affect the outcome?
+Why do people go above and beyond the call of duty at their jobs?
+<P>
+Two recent books – Identity Economics by Nobel laureate George Akerlof and Rachel Kranton and The Moral Economy by Sam Bowles – indicate that a quiet revolution is challenging the foundations of the dismal science, promising radical changes in how we view many aspects of organizations, public policy, and even social life.
+As with the rise of behavioral economics (which already includes six Nobel laureates among its leaders), this revolution emanates from psychology.
+But while behavioral economics relies on cognitive psychology, this one is rooted in moral psychology.
+<P>
+As with most revolutions, this one is not happening because, as Thomas Huxley surmised, a beautiful old theory has been killed by ugly new facts.
+The ugly facts have been apparent for a while, but people cannot abandon one mental framework unless another one can take its place: in the end, beautiful old theories are killed only by newer, more powerful theories.
+<P>
+For a long time, economic theory aspired to the elegance of Euclidean geometry, where all true statements can be derived from five apparently incontrovertible axioms, such as the notion that there is only one line that connects two points in space.
+In the nineteenth century, mathematicians explored the consequences of relaxing one of those axioms and discovered the geometries of curved spaces, where an infinite number of longitudinal lines can pass through the poles of a sphere.
+<P>
+The axioms underpinning traditional economics embody a view of human behavior known as homo economicus: we choose among the available options that which we want or prefer the most.
+But what makes us want or prefer something?
+<P>
+Economics has long assumed that whatever informs our preferences is exogenous to the issue at hand: de gustibus non est disputandum, as George Stigler and Gary Becker argued.
+But with a few reasonable assumptions, such as the idea that more is better than less, you can make many predictions about how people will behave.
+<P>
+The behavioral economics revolution questioned the idea that we are good at making these judgments.
+In the process, they subjected the assumptions underlying homo economicus to experimental tests and found them wanting.
+But this led at most to the idea of nudging people into better decisions, such as forcing them to opt out of rather than into better choices.
+<P>
+The new revolution may have been triggered by an uncomfortable finding of the old one.
+Consider the so-called ultimatum game, in which a player is given a sum of money, say, $100.
+He must offer a share of that money to a second player.
+If the latter accepts the offer, both get to keep the money.
+If not, they both get nothing.
+<P>
+Homo economicus would give $1 to the second player, who should accept the offer, because $1 is better than zero dollars.
+But people throughout the world tend to reject offers below $30.
+Why?
+<P>
+The new revolution assumes that when we make choices, we do not merely consider which of the available options we like the most.
+We are also asking ourselves what we ought to do.
+<P>
+In fact, according to moral psychology, our moral sentiments, on which Adam Smith wrote his other famous book, evolved to regulate behavior.
+We are the most cooperative species on earth because our feelings evolved to sustain cooperation, to put “us” before “me.”
+These feelings include guilt, shame, outrage, empathy, sympathy, dread, disgust, and a whole cocktail of other sentiments.
+We reject offers in the ultimatum game because we feel they are unfair.
+<P>
+Akerlof and Kranton propose a simple addition to the conventional economic model of human behavior.
+Besides the standard selfish elements that define our preferences, they argue that people see themselves as members of “social categories” with which they identify.
+Each of these social categories – for example, being a Christian, a father, a mason, a neighbor, or a sportsman – has an associated norm or ideal.
+And, because people derive satisfaction from behaving in accordance with the ideal, they behave not just to acquire, but also to become.
+<P>
+Bowles shows that we have distinct frameworks for analyzing situations.
+In particular, giving people monetary incentives may work in market-like situations.
+But, as a now-famous study of Haifa daycare centers showed, imposing fines on people who picked up their kids late actually had the opposite effect: if a fine is like a price, people may find that it is a price worth paying.
+<P>
+But without the fine, coming late constitutes impolite, rude, or disrespectful behavior toward the caregivers, which self-respecting people would avoid, even without fines.
+Unfortunately, this other-regarding view of behavior has been de-emphasized both in the corporate and the public domain.
+Instead, strategies have been derived from the view that all our behaviors are selfish, with the intellectual challenge being to design “incentive-compatible” mechanisms or contracts, an effort that has also been recognized with Nobel Prizes.
+<P>
+But, as George Price showed long ago, Darwinian evolution may have made us altruistic, at least toward people we perceive as members of the group we call “us.”
+The new revolution in economics may find a place for strategies based on affecting ideals and identities, not just taxes and subsidies.
+In the process, we may understand that we vote because that is what citizens ought to do, and we excel at our jobs because we strive for respect and self-realization, not just a raise.
+<P>
+If successful, the new revolution may lead to strategies that make us more responsive to our better angels.
+Economics and our view of human behavior need not be dismal.
+It may even become inspirational.

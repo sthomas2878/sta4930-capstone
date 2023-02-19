@@ -1,0 +1,52 @@
+<HEADLINE>
+Learning from Martin Luther About Technological Disruption
+<P>
+GENEVA – Five hundred years ago this week, a little-known priest and university lecturer in theology did something unremarkable for his time: he nailed a petition to a door, demanding an academic debate on the Catholic Church’s practice of selling “indulgences” – promises that the buyer or a relative would spend less time in purgatory after they died.
+<P>
+Today, Martin Luther’s “95 Theses,” posted at the Castle Church in Wittenberg, Germany (he simultaneously sent a copy to his boss, Cardinal Albrecht von Brandenburg), are widely recognized as the spark that started the Protestant Reformation.
+Within a year, Luther had become one of Europe’s most famous people, and his ideas – which challenged not only Church practice and the Pope’s authority, but ultimately man’s relationship with God – had begun to reconfigure systems of power and identity in ways that are still felt today.
+<P>
+What made Luther’s actions so momentous?
+After all, calls for reforming the Church had been occurring regularly for centuries.
+As the historian Diarmaid MacCulloch writes in A History of Christianity: The First Three Thousand Years, the two centuries before Luther featured near-constant challenges to papal supremacy on issues of philosophy, theology, and politics.
+How did the concerns of a minor theologian in Saxony lead to widespread religious and political upheaval?
+<P>
+A central piece of the puzzle is the role of emerging technology.
+A few decades before Luther developed his argument, a German blacksmith named Johannes Gutenberg had invented a new system of movable-type printing, allowing the reproduction of the written word at greater speeds and lower costs than the laborious and less-durable woodblock approach.
+<P>
+The printing press was a revolutionary – and exponential – technology for the dissemination of ideas.
+In 1455, the “Gutenberg Bible” was printed at a rate of roughly 200 pages per day, significantly more than the 30 pages per day that a well-trained scribe could produce.
+By Luther’s time, the daily printing rate of a single press had increased to roughly 1,500 single-sided sheets.
+Improved printing efficiency, combined with steep declines in cost, led to a dramatic increase in access to the written word between 1450 and 1500, even though only an estimated 6% of the population was literate.
+<P>
+Luther quickly grasped the potential of the printing press to spread his message, effectively inventing new forms of publishing that were short, clear, and written in German, the language of the people.
+Perhaps Luther’s most enduring personal contribution came via his translation of the Bible from Greek and Hebrew into German.
+He was determined to “speak as men do in the marketplace,” and more than 100,000 copies of the “Luther Bible” were printed in Wittenberg over the following decades, compared to just 180 copies of the Latin Gutenberg Bible.
+<P>
+This new use of printing technology to produce short, punchy pamphlets in the vernacular transformed the industry itself.
+In the decade before Luther’s theses, Wittenberg printers published, on average, just eight books annually, all in Latin and aimed at local university audiences.
+But, according to the British historian Andrew Pettegree, between 1517 and Luther’s death in 1546, local publishers “turned out at least 2,721 works” – and average of “91 books per year,” representing some three million individual copies.
+<P>
+Pettegree calculates that a third of all books published during this period were written by Luther himself, and that the pace of publishing continued to increase after his death.
+Luther effectively published a piece of writing every two weeks – for 25 years.
+<P>
+The printing press greatly expanded the accessibility of the religious controversy that Luther helped fuel, galvanizing the revolt against the Church.
+Research by the economic historian Jared Rubin indicates that the mere presence of a printing press in a city before 1500 greatly increased the likelihood that the city would become Protestant by 1530.
+In other words, the closer you lived to a printing press, the more likely you were to change the way you viewed your relationship with the Church, the most powerful institution of the time, and with God.
+<P>
+There are at least two contemporary lessons to be drawn from this technological disruption.
+For starters, in the context of the modern era’s “Fourth Industrial Revolution” – which Klaus Schwab of the World Economic Forum defines as a fusion of technologies blending the physical, digital, and biological spheres – it is tempting to assess which technologies could be the next printing press.
+Those who stand to lose from them might even move to defend the status quo, as the Council of Trent did in 1546, when it banned the printing and sale of any Bible versions other than the official Latin Vulgate, without Church approval.
+<P>
+But perhaps the most enduring lesson of Luther’s call for a scholarly debate – and his use of technology to deliver his views – is that it failed.
+Instead of a series of public discussions about the Church’s evolving authority, the Protestant Reformation became a bitter battle played out via mass communication, splitting not just a religious institution but also an entire region.
+Worse, it became a means to justify centuries of atrocities, and triggered the Thirty Years’ War, the deadliest religious conflict in European history.
+<P>
+The question today is how we can ensure that new technologies support constructive debate.
+The world remains full of heresies that threaten our identities and cherished institutions; the difficulty is to view them not as ideas that must be violently suppressed, but as opportunities to understand where and how current institutions are excluding people or failing to deliver promised benefits.
+<P>
+Calls for more constructive engagement may sound facile, naive, or even morally precarious.
+But the alternative is not just the hardening of divisions and estrangement of communities; it is widespread dehumanization, a tendency that current technologies seem to encourage.
+<P>
+Today’s Fourth Industrial Revolution could be an opportunity to reform our relationship with technology, amplifying the best of human nature.
+To grasp it, however, societies will need a subtler understanding of the interplay of identity, power, and technology than they managed during Luther’s time.

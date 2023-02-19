@@ -1,0 +1,53 @@
+<HEADLINE>
+Getting Past Slow Growth
+<P>
+WASHINGTON, DC – Most economists nowadays are pessimistic about the world economy’s growth prospects.
+The World Bank has, yet again, downgraded its medium-term projections, and economists the world over are warning that we are facing a “new normal” of slower growth.
+Where there is less consensus – or so it seems – is in accounting for this weakness.
+<P>
+Almost three years ago, former US Treasury Secretary Larry Summers revived Alvin Hansen’s “secular stagnation” hypothesis, emphasizing demand-side constraints.
+By contrast, in Robert Gordon’s engaging and erudite book The Rise and Fall of American Growth, the focus is on long-term supply-side factors – in particular, the nature of innovation.
+Thomas Piketty, in his best-selling tome Capital in the Twenty-First Century, describes the rise of inequality that is resulting from low GDP growth.
+Joseph E. Stiglitz’s book Re-Writing the Rules of the American Economy: An Agenda for Growth and Shared Prosperity blames political choices for both slowing growth and rising inequality.
+<P>
+These accounts differ in emphasis, but they are not contradictory.
+On the contrary, while Summers, Gordon, Piketty, and Stiglitz each examines the issue from a different perspective, their ideas are complementary – and even mutually reinforcing.
+<P>
+Summers’s Keynesian argument is that the problem is a chronic aggregate-demand shortfall: Desired investment lags behind desired savings, even at near-zero nominal interest rates, resulting in a chronic liquidity trap.
+Today’s near-zero – even slightly negative – short-term policy interest rates do not mean that longer-term rates, which are more relevant to investment financing, have also hit zero.
+But the yield curve in the major advanced economies is very flat, with both real and nominal longer-term rates at historic lows.
+<P>
+There may be many reasons for this, but Gordon describes one possibility: The underlying pace of innovation has slowed, leading to lower expected returns on investment and thus forcing down interest rates.
+And it is the investment needed to translate new knowledge into actual innovation that links the supply and demand sides and generates growth.
+<P>
+Both of these theories can be connected with Piketty’s arguments about the dynamics of capital accumulation.
+Implicit in Piketty’s thesis is that capital can be substituted for labor relatively easily.
+When capital grows faster than labor and GDP, the rate of return will fall over time, but proportionately less than growth in the amount of capital.
+The result is a redistribution of income from labor to those who own capital.
+<P>
+Summers actually proposed a new form of the production function, whereby the progress of intelligent machines makes capital a perfect substitute for segments of the labor force.
+An increasing concentration of income at the top, combined with top earners’ high propensity to save, then leads to the chronic shortfall of aggregate demand that characterizes secular stagnation.
+Stiglitz makes the case that policy bias also contributes to income concentration.
+<P>
+Gordon’s thesis is more about a kind of “satiation” in rapid technological progress, which depresses expected returns and thus helps to explain the chronic lack of sufficient investment.
+But, at the end of his book, he makes median income the real indicator of economic performance.
+In Gordon’s 2015-2040 projection, annual growth in median income in the United States is only 0.4%, compared to average income growth of 0.8%, reflecting continuously rising inequality.
+(Compare this to 1.82% annual growth in median income from 1920 to 2014.)
+<P>
+The intertwined forces of chronic Keynesian imbalance, a slowdown in productivity growth, and a concentration of income at the top lead to a very subdued outlook for growth in median income.
+With expectations about the future being undermined by such deep-rooted and multifaceted forces, perhaps it should not be surprising that voters in the United States, Europe, and elsewhere are expressing anger toward the establishment.
+<P>
+Fortunately, there are reasons for hope.
+First, I do not share Gordon’s assessment of prospects for longer-term technological progress.
+I believe that, as the digital revolution and artificial intelligence restructure larger segments of economic activity, overall productivity growth may accelerate again, leading to higher expected returns and, therefore, more investment and faster growth.
+That in itself will not lead to a more balanced distribution of wealth or income, and it may not generate enough employment.
+But it could help create the political and fiscal space for inclusiveness-oriented policy reforms.
+<P>
+Second, developing and emerging economies still offer immediate opportunities for large high-return investments, which should be financed by what appears as excess global savings.
+With significant room to move toward the technology frontier, including in services, there are still plenty of opportunities for “catch-up” growth.
+Such investments would help close the global savings gap and generate positive feedback for advanced economies as well.
+To take advantage of these opportunities, however, regulatory and political uncertainty must be reduced and public-private partnerships in development finance must be scaled up within a framework that leads to inclusive benefits.
+<P>
+It is likely that continued rapid increases in prosperity are possible.
+Ultimately, however, political choices will determine whether the diffusion of artificial intelligence leads to widespread increases in median incomes or exacerbates polarization and inequality.
+Political will and powerful messaging will be needed to spur the ambitious social and economic reforms, together with the kind of international cooperation, that will be needed to take advantage of opportunities for inclusive growth.

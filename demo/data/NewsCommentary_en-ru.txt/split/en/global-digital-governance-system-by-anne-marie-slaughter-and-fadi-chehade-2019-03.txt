@@ -1,0 +1,61 @@
+<HEADLINE>
+How to Govern a Digitally Networked World
+<P>
+WASHINGTON, DC – Governments built the current systems and institutions of international cooperation to address nineteenth- and twentieth-century problems.
+But in today’s complex and fast-paced digital world, these structures cannot operate at “Internet speed.”
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Recognizing this, United Nations Secretary-General António Guterres last year assembled a high-level panel – co-chaired by Melinda Gates and Alibaba co-founder Jack Ma – to propose ways to strengthen digital governance and cooperation.
+(Fadi Chehadé, a co-author of this article, is also a member.)
+It is hoped that the panel’s final report, expected in June, will represent a significant step forward in managing the potential and risks of digital technologies.
+<P>
+Digital governance can mean many things, including the governance of everything in the physical world by digital means.
+We take it to mean the governance of the technology sector itself, and the specific issues raised by the collision of the digital and physical worlds (although digital technology and its close cousin, artificial intelligence, will soon permeate every sector).
+<P>
+The issue is rapidly rising to the top of the global agenda.
+At this year’s annual meeting of the World Economic Forum in Davos, the leaders of Japan, South Africa, China, and Germany called for global oversight of the technology sector, while acknowledging the difficulty of designing a workable governance system.
+<P>
+Some business leaders also accept the need for digital rules and conventions.
+Microsoft President Brad Smith has called for a “Digital Geneva Convention” to protect citizens from peacetime cyberattacks, while Apple CEO Tim Cook argues that the United States needs its own version of the European Union’s General Data Protection Regulation regarding personal data.
+Both recognize that a continued lack of norms will hit business growth and further erode trust in their companies’ stewardship of the digital world.
+<P>
+Because the Internet is a network of networks, its governing structures should be, too.
+Whereas we once imagined that a single institution could govern global security or the international monetary system, that is not practical in the digital world.
+No group of governments, and certainly no single government acting alone, can perform this task.
+<P>
+Instead, we need a digital co-governance order that engages public, civic, and private leaders on the basis of three principles of participation.
+First, governments must govern alongside the private and civic sectors in a more collaborative, dynamic, and agile way.
+Second, customers and users of digital technologies and platforms must learn how to embrace their responsibilities and assert their rights.
+Third, businesses must fulfill their responsibilities to all of their stakeholders, not just shareholders.
+<P>
+In the digital order we envisage, representatives of governments, businesses, and civil society would form peer-to-peer, self-governing horizontal networks.
+A central hub would activate these groups to address specific digital issues – such as the use of facial-recognition data, the sharing of patients’ health records with insurance providers, and hidden advertising aimed at children – and ensure that relevant experts are included.
+<P>
+Participants in these networks would co-design digital norms, or actionable rules and implementation guidelines that give companies and citizens clear incentives to cooperate responsibly in the digital world.
+These co-designers should produce the best possible solutions at Internet speed, and make them available for anyone to adopt voluntarily.
+<P>
+In some cases, national or international authorities may adopt new laws and regulations to ensure that digital norms are implemented and enforced.
+But such “top-down” actions should be only a last resort, and would ideally use the co-designed digital norms as blueprints.
+<P>
+The central hub or clearing house would loosely coordinate the networks and ensure that the entire co-governance order operates according to principles of openness, inclusivity, subsidiarity, resiliency, and innovation.
+Furthermore, the hub would serve as an exchange for different networks’ digital norms, thereby encouraging their spread and adoption.
+This would also help to increase cohesion and limit unnecessary duplication.
+<P>
+In time, the hub might actively help governments, businesses, and user groups, as well as other relevant national and international organizations, to participate in the design – and, crucially, the adoption – of digital norms.
+But it would push resources and power to the participants rather than acting as a top-down authority.
+<P>
+Horizontal networks are a practical design for governing the digital world.
+At the same time, they draw heavily on the successes (and failures) of existing networks of national regulators, such as the Basel Committee on Banking Supervision, the Financial Stability Board, and the Internet Corporation for Assigned Names and Numbers (ICANN).
+Instead of spending another year debating the perfect digital governance system, it would be wiser to start with a functional and proven approach and adapt along the way.
+<P>
+The world urgently needs a workable digital governance system that serves the common good.
+If public, private, and civic leaders do not act soon, we risk economic decline, faster weaponization of digital technologies, and further erosion of trust and security.
+The consequences of this failure would extend well beyond the digital world.

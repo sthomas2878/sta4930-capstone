@@ -1,0 +1,42 @@
+<HEADLINE>
+What Energy Shortage?
+<P>
+MARTIGNY, SWITZERLAND – If we were able to capture and use the energy from just two minutes of sunlight falling on the earth, it would be enough to fuel our cars, light and heat our buildings, and provide for all of our other electricity needs for an entire year.
+Simply put, we humans are not facing a shortage of energy.
+We are facing a technical challenge in capturing it and delivering it to consumers; and one of the most efficient ways to meet that challenge is to invest in better ways to store it.
+<P>
+Many of the world’s problems today can be traced to energy use, from conflicts over oil supplies and concerns about greenhouse-gas emissions to lost productivity and output stemming from shortages and blackouts.
+In many of the poorest parts of the world, the lack of energy stifles economic development.
+Globally, more than 1.3 billion people have no access to electricity; and some 2.6 billion have no access to modern cooking facilities.
+More than 95% of these people are in Sub-Saharan Africa or developing Asia, and 84% live in rural areas.
+<P>
+During the run-up to the recent presidential election in Nigeria, for example, a woman was asked what she wanted the candidates to deliver.
+She replied with a one-word answer: “Light.”
+Electricity, a basic commodity, would allow her to continue to work and her children to study.
+<P>
+Unreliable or unavailable energy is a problem in much of Africa and the Indian sub-continent, as well as some other parts of Asia.
+According to a report by the International Energy Agency, improvements to the energy sector could provide the equivalent of a decade of growth in some of the poorest parts of the world.
+<P>
+Our global energy crisis has been aggravated by a lack of innovation.
+According to a study by the United States government’s Lawrence Livermore National Laboratory, more than 60% of the energy we use is lost between the time it is generated and the time it is consumed.
+This includes the inefficiency in converting fossil fuels to electricity, losses during transmission, wasteful consumer behavior, and the need to maintain a reserve to prevent blackouts.
+<P>
+A new wave of innovation is required, one that can eliminate waste, reduce pollution, and broaden access to energy around the world.
+That means focusing on efficiency-boosting technologies such as wireless communication, machine-to-machine communication, smart metering, and better production management.
+<P>
+Renewable energy sources, including solar and wind power, are well positioned to contribute to energy needs in both mature and emerging economies.
+But, because the sun does not always shine, and the wind does not always blow, energy from these sources is unstable and intermittent.
+And this will continue to be a problem unless, and until, we are able to store power from renewable sources efficiently.
+<P>
+Studies by the US Western Electricity Coordinating Council have found that finding better ways to store energy could cut total waste by about 18% and boost the efficiency of electricity use by up to 11%.
+Better energy-storage methods would also make it easier to deliver electricity to hard-to-reach areas that are currently underserved, as well as help make the best use of often-scarce sources of power.
+<P>
+One well-tested method for storing energy is to use excess capacity to pump water into reservoirs, so that it can be used later to power turbines when demand is high.
+But this approach is practical only in mountainous areas, making it unsuitable as a mass-market solution.
+Promising areas of research include grid-scale batteries with the ability to charge and discharge tens of thousands of times and data analytics to optimize the use of the batteries and make the grid as efficient as possible.
+<P>
+It is not enough to generate energy.
+We must also use it efficiently, and the wide-scale adoption of state-of-the-art storage technology will be an essential part of the solution.
+Ensuring that the world’s energy supplies are stable, efficient, accessible, and affordable will take time.
+But breakthroughs are on the horizon.
+Our task is to keep our sights there.

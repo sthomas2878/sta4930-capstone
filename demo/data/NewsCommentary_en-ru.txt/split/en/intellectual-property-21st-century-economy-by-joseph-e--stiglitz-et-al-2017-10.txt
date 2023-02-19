@@ -1,0 +1,72 @@
+<HEADLINE>
+Intellectual Property for the Twenty-First-Century Economy
+<P>
+NEW YORK – When the South African government attempted to amend its laws in 1997 to avail itself of affordable generic medicines for the treatment of HIV/AIDS, the full legal might of the global pharmaceutical industry bore down on the country, delaying implementation and exacting a human cost.
+South Africa eventually won its case, but the government learned its lesson: it did not try again to put its citizens’ health and wellbeing into its own hands by challenging the conventional global intellectual property (IP) regime.
+<P>
+Until now.
+The South African cabinet is preparing to finalize an IP policy that promises to expand access to medicines substantially.
+South Africa will now undoubtedly face all manner of bilateral and multilateral pressure from wealthy countries.
+But the government is right, and other developing and emerging economies should follow in its footsteps.
+<P>
+Over the last two decades, there has been serious pushback from the developing world against the current IP regime.
+In large part, this is because wealthy countries have sought to impose a one-size-fits-all model on the world, by influencing the rulemaking process at the World Trade Organization (WTO) and forcing their will via trade agreements.
+<P>
+The IP standards advanced countries favor typically are designed not to maximize innovation and scientific progress, but to maximize the profits of big pharmaceutical companies and others able to sway trade negotiations.
+No surprise, then, that large developing countries with substantial industrial bases – such as South Africa, India, and Brazil – are leading the counterattack.
+<P>
+These countries are mainly taking aim at the most visible manifestation of IP injustice: the accessibility of essential medicines.
+In India, a 2005 amendment created a unique mechanism to restore balance and fairness to patenting standards, thereby safeguarding access.
+Overcoming several challenges in domestic and international proceedings, the law has been found to comply with WTO standards.
+In Brazil, early action by the government to treat people with HIV/AIDS resulted in several successful negotiations, lowering drug prices considerably.
+<P>
+These countries are fully justified in opposing an IP regime that is neither equitable nor efficient.
+In a new paper, we review the arguments about the role of intellectual property in the process of development.
+We show that the preponderance of theoretical and empirical evidence indicates that the economic institutions and laws protecting knowledge in today’s advanced economies are increasingly inadequate to govern global economic activity, and are poorly suited to meet the needs of developing countries and emerging markets.
+Indeed, they are inimical to providing for basic human needs such as adequate health care.
+<P>
+The central problem is that knowledge is a (global) public good, both in the technical sense that the marginal cost of someone using it is zero, and in the more general sense that an increase in knowledge can improve wellbeing globally.
+Given this, the worry has been that the market will undersupply knowledge, and research will not be adequately incentivized.
+<P>
+Throughout the late twentieth century, the conventional wisdom was that this market failure could best be rectified by introducing another one: private monopolies, created through stringent patents strictly enforced.
+But private IP protection is just one route to solving the problem of encouraging and financing research, and it has been more problematic than had been anticipated, even for advanced countries.
+<P>
+An increasingly dense “patent thicket” in a world of products requiring thousands of patents has sometimes stifled innovation, with more spent on lawyers than on researchers in some cases.
+And research often is directed not at producing new products but at extending, broadening, and leveraging the monopoly power granted through the patent.
+<P>
+The US Supreme Court’s 2013 decision that naturally occurring genes cannot be patented has provided a test of whether patents stimulate research and innovation, as advocates claim, or impede it, by restricting access to knowledge.
+The results are unambiguous: innovation has been accelerated, leading to better diagnostic tests (for the presence of, say, the BRCA genes related to breast cancer) at much lower costs.
+<P>
+There are at least three alternatives for financing and incentivizing research.
+One is to rely on centralized mechanisms of direct support for research, such as the National Institutes of Health and the National Science Foundation in the United States.
+Another is to decentralize direct funding through, say, tax credits.
+Or a governmental body, private foundation, or research institution can award prizes for successful innovations (or other creative activity).
+<P>
+The patent system can be thought of as awarding a prize.
+But the prize impedes the flow of knowledge, reduces the benefits derived from it, and distorts the economy.
+By contrast, the final alternative to this system maximizes the flow of knowledge, by maintaining a creative commons, exemplified by open-source software.
+<P>
+Developing economies should use all of these approaches to promote learning and innovation.
+After all, economists have recognized for decades that the most important determinant of growth – and thus of gains in human development and welfare – is technological change and the knowledge it embodies.
+What separates developing countries from developed countries is as much a gap in knowledge as a gap in resources.
+To maximize global social welfare, policymakers should strongly encourage the diffusion of knowledge from developed to developing countries.
+<P>
+But while the theoretical case for a more open system is robust, the world has been moving in the opposite direction.
+Over the last 30 years, the prevailing IP regime has erected more barriers to the use of knowledge, often causing the gap between the social returns to innovation and the private returns to widen.
+The powerful advanced-economy lobbies that have shaped that regime clearly put the latter first, reflected in their opposition to provisions recognizing intellectual property rights associated with traditional knowledge or biodiversity.
+<P>
+The widespread adoption of today’s stringent IP protection is also historically unprecedented.
+Even among the early industrializers, IP protection came very late and often was deliberately eschewed to enable for quicker industrialization and growth.
+<P>
+The current IP regime is not sustainable.
+The twenty-first-century global economy will differ from that of the twentieth in at least two critical ways.
+First, the economic weight of the economies such as South Africa, India, and Brazil will be substantially higher.
+Second, the “weightless economy” – the economy of ideas, knowledge, and information – will account for a growing share of output, in developed and developing economies alike.
+<P>
+The rules relating to the “governance” of global knowledge must change to reflect these new realities.
+An IP regime dictated by the advanced countries more than a quarter-century ago, in response to political pressure by a few of their sectors, makes little sense in today’s world.
+Maximizing profits for a few, rather than global development and welfare for the many, didn’t make much sense then, either – except in terms of the power dynamics at the time.
+<P>
+Those dynamics are changing, and emerging economies should take the lead in creating a balanced IP system that recognizes the importance of knowledge for development, growth, and wellbeing.
+What matters is not only the production of knowledge, but also that it is used in ways that put people’s health and welfare ahead of corporate profits.
+South Africa’s potential decision to enable access to medicine may be an important milestone on the road toward that goal.

@@ -1,0 +1,65 @@
+<HEADLINE>
+How 5G Can Advance the SDGs
+<P>
+ADDIS ABABA – Ultra-fast 5G wireless technology has been widely touted as a potentially transformative development, on par with the advent of electricity.
+This is not mere hyperbole.
+One area where 5G will play a decisive role is in progress toward achieving the 2030 Agenda for Sustainable Development, adopted unanimously by the United Nations in 2015.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Consider Sustainable Development Goal 4 – to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all” – which affects the achievement of all other SDGs, beginning with ending poverty (SDG 1).
+As the UN Development Programme’s Multidimensional Poverty Index shows, of all of the deprivations that affect the poor – from inadequate nutrition to lack of access to clean water and sanitation – lack of quality education is among the biggest obstacles to upward social mobility.
+<P>
+The adverse effects of educational deprivation intensify as a person ages.
+And, because the children of uneducated adults are less likely to attend school, deficient education is a leading contributor to intergenerational poverty.
+<P>
+It is easy to see how this can undermine the achievement of other SDGs.
+An uneducated workforce is a low-skilled workforce, ill-equipped to secure productive employment (SDG 8), close income gaps (SDG 10), or build strong institutions (SDG 16).
+UNESCO estimates that in low-income countries, each additional year of education adds about 10% to an individual’s average lifetime earnings.
+<P>
+Ensuring quality education is also closely tied to the goal of achieving gender equality (SDG 5).
+In Africa, women lag men in educational attainment by one year, on average.
+In the more challenged countries – such as the Central African Republic, Chad, and Niger – women are expected to complete six years of schooling.
+In Eritrea, that number falls to just four years.
+Unsurprisingly, men earn an average of 1.6 times more than women.
+<P>
+More educated women have better health practices, marry later, and have fewer children.
+This leads to better maternal and child health.
+Furthermore, the children of educated mothers are more likely to attend school themselves, creating a virtuous cycle of intergenerational progress.
+<P>
+The obvious question is how to achieve universal quality education in a region like Africa, where schooling can be prohibitively expensive for many.
+With 85% of the multidimensionally poor living in rural areas, access represents a major challenge.
+To serve all of Sub-Saharan Africa’s children, a new primary school would need to be completed every hour between now and 2030.
+<P>
+Even if the region’s governments had the money for such rapid construction (which they don’t), they would have to secure the needed land and ensure its accessibility to enough students – efforts subject to complex procurement processes with rigid timelines.
+Teachers would also need to be trained and deployed.
+<P>
+This may not be impossible, but it is not really feasible either.
+A better approach would take advantage of 5G technology to offer improved remote-learning opportunities.
+This would eliminate the need for large-scale land use and construction, while keeping procurement processes confined largely to investments in the technology itself.
+These investments should not be too difficult to secure, given that 5G’s applications extend well beyond the education sector.
+<P>
+Remote learning has already begun to take off in some parts of the world.
+But 5G would greatly improve the quality of such learning, because of its sheer speed – up to 100 times faster than 4G – which would allow for instant interactivity, without much energy consumption.
+This means that, rather than watching videos of distant teachers, students in remote African villages would be able to participate in classes in real time.
+<P>
+This would vastly expand the pool of qualified teachers available to educate young Africans.
+With volunteers able to teach from wherever they are, there would be no need to train local teachers or attract foreign teachers to underserved areas, with all of the bureaucratic challenges that entails.
+<P>
+Beyond facilitating the delivery of traditional schooling, 5G is creating opportunities for entirely new approaches to learning.
+For example, haptic gloves could be used to track and record the movement of an expert – from a pianist to a surgeon – in real time, using 5G technology.
+That information could then be uploaded into a skills database, accessible to students.
+<P>
+Similarly, Chinese doctors are already working on procedures for using virtual reality technology and 3D imaging to allow a surgeon to aid in an operation taking place thousands of miles away.
+Some types of remote surgery have been possible for a while, but the speed of 5G connectivity creates important new opportunities – not just to save the lives of patients who cannot access a surgeon with the relevant expertise, but also to train aspiring doctors.
+<P>
+The challenge of achieving the SDGs is daunting.
+But a powerful tool for overcoming that challenge is already here.
+African governments must come together not only to invest in building 5G networks, but also to seize all of the opportunities those networks make possible – including quality education for all.

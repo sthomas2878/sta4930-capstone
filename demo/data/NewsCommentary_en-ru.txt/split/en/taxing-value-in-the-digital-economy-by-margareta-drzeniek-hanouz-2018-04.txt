@@ -1,0 +1,59 @@
+<HEADLINE>
+Rethinking the Twenty-First-Century Economy
+<P>
+GENEVA – Before the threat of a US-China trade war arose, surging stock markets and corporate profits had obscured the fact that the global economic system is under existential stress.
+Global financial stability remains considerably in doubt.
+Indeed, as world financial leaders gather for the annual IMF/World Bank spring conference in Washington, DC, the rapid pace of technological change and rising inequality are fueling ever louder calls for root-and-branch revision of the entire system.
+<P>
+For governments to cope with these mounting pressures, they will need to rethink the key policy tools on which they have relied for well over a century, starting first and foremost with taxation.
+<P>
+Death and taxes may have been the only certainties in the world of Benjamin Franklin two centuries or so ago; today, only death remains undeniable.
+With the rise of the digital economy, more and more economic value is derived from intangibles such as the data collected from digital platforms, social media, or the sharing economy.
+And because company headquarters can now be moved between countries with ease, governments are finding it ever harder to raise taxes.
+At the same time, public spending will likely have to increase to meet the demands of those left behind in the era of globalization and digital technologies.
+<P>
+Lawmakers have mostly sought to nurture innovation, in the hope that new industries will spur productive capacity and, in due course, fill government coffers.
+But digital service providers have grown larger in terms of just about everything except the taxes they pay.
+<P>
+That may be about to change.
+One idea currently gaining traction is to tax firms offering free-to-use digital services differently, so that their intangible value receives the same tax treatment as the tangible value produced by manufacturers and traditional service providers.
+<P>
+But taxation could be on the cusp of a much broader transformation, not limited to the digital economy.
+With today’s businesses expected to contribute more to society than just what is on their balance sheets, there is a new impetus to base corporate taxation partly on a firm’s social footprint.
+For example, governments could adjust tax rates according to a company’s environmental stewardship or the size of its workforce.
+<P>
+Another idea is to tax robots and related technologies to compensate for the drift of economic rewards away from labor.
+In any case, broadening the tax base will require new approaches to measuring value in the economy.
+<P>
+Beyond the debate about how to tax today’s tech giants, Western economies confront the more fundamental question of whether markets still represent the most efficient way to allocate resources.
+In many ways, today’s transformative technologies are challenging that premise.
+<P>
+Modern data science, for example, is becoming so advanced that algorithms driven by existing consumer data could soon take over the task of making efficient buying decisions.
+The question, then, will be whether the market or a state armed with algorithmic knowledge would be better at providing certain goods and services.
+<P>
+Data are influencing our economic consciousness in other ways, too.
+For one thing, consumers are starting to realize the extent to which digital services profit from their personal information.
+Data are also the wellspring for artificial intelligence, machine learning, and similar technologies, which will have an ever-greater economic impact.
+Thus, we may be approaching an inflection point where consumers start demanding payment for their data.
+<P>
+Big data will also disrupt much of the financial sector.
+Today’s insurance industry, for example, is built on information asymmetries and mutualization of risks.
+As we move closer to an ecosystem of near-perfect information, the tools for accurately pricing risk will become increasingly powerful.
+<P>
+Finally, today’s economic transformation has prompted a healthy discussion of the relationship between economic output and wellbeing or happiness.
+Of course, wellbeing itself is hard to measure, so one could argue that it is better to approach the issue from the other direction, by identifying the factors that make us less well.
+That is the idea behind the annual Bloomberg Misery Index, which measures inflation and unemployment, on the assumption that both generate economic costs for societies.
+<P>
+Bloomberg’s approach raises the key question of how we should measure economies in the twenty-first century.
+In the 1930s, the economist Simon Kuznets identified gross national product as an indicator of an economy’s output of goods and services over a given period.
+Now, GNP – along with gross domestic product, or GDP – is regarded as the de facto indicator of national welfare around the world.
+<P>
+But these measures are misleading, because they do not account for many of the things that matter to societies, such as equality, social mobility, or sustainability.
+Even if GDP were a good predictor of success in those categories, it still does not capture the intangible value being created in the digital economy.
+<P>
+At the end of the day, the main challenge confronting governments is the same as in earlier eras: to make life better – longer, healthier, wealthier, and more secure – for current and future generations.
+The biggest difference today is that rapid technological change, coupled with emerging environmental and inter-generational challenges, is directly affecting governments’ ability to act.
+<P>
+But governments will not achieve their goals by using outdated tools.
+Tax codes written for an analog economy and statistical methods that fail to capture real wealth will not do.
+A new approach to ensuring happiness and wellbeing in the decades ahead is unavoidable.

@@ -1,0 +1,55 @@
+<HEADLINE>
+China’s Internet Revolution
+<P>
+BEIJING – It is a story that has played out worldwide.
+Internet adoption reaches critical mass, changing how business is conducted and creating billion-dollar markets for digital goods and services – and causing massive “creative destruction.”
+It is now China’s turn to experience this phenomenon – only, in China’s case, it is occurring amid broad economic transformation and rapid social change.
+The collision of these forces could fundamentally transform the world’s second-largest economy.
+<P>
+With 632 million users, China’s Internet has already produced a dynamic technology sector, thriving social networks, and the world’s largest e-tail (consumer-facing e-commerce) market.
+Global investors’ excitement about the IPO of China’s largest online retailer, Alibaba, reflects the scale of the economic value that has already been created.
+<P>
+But most of the action so far has been on the consumer side.
+Key sectors, from manufacturing to health care, have not progressed beyond the early stages of the shift online.
+Indeed, as of 2012, only about one-quarter of China’s small and medium-size enterprises had started to use the Internet in areas like procurement, sales, and marketing – meaning that the most sweeping changes lie ahead.
+<P>
+As traditional industries increase their usage of the Internet, they streamline their operations, find new methods of collaboration, and expand their reach via e-commerce – all of which accelerate productivity growth.
+The McKinsey Global Institute projects that new Web applications could enable as much as 22% of China’s total GDP growth through 2025.
+<P>
+Beyond its effects on GDP and productivity, the Internet can also boost transparency and trust.
+E-tailing, for example, began with a cash-on-delivery business model.
+But, over time, online-payment platforms gained Chinese consumers’ trust, paving the way for explosive growth in e-tailing.
+<P>
+Other industries are beginning to follow suit.
+Online real-estate databases match buyers and sellers faster, while reducing price premiums stemming from information asymmetries.
+Such platforms have been created for land auctions and foreclosures, as well as private transactions.
+<P>
+Similarly, China’s nascent used-car market stands to benefit significantly from the Internet revolution, as e-commerce boosts the transparency of vehicle listings and transactions, and new online tools help lenders acquire and analyze credit histories in a more detailed and sophisticated way.
+<P>
+Of course, though the Internet can facilitate competition, forcing companies of all sizes to raise their game, building such a trust-based system is no easy feat.
+Much of the Internet’s commercial potential stems from data collection, sharing, and analysis, all of which are fraught with privacy concerns.
+<P>
+Though China’s government established preliminary rules governing online privacy in 2012, many gray areas remain, including basic issues like the types of information companies can share, how that information can be used, and what constitutes consumer consent.
+In addition to clarifying the legal framework for data sharing, the government can set an example by using the Internet to render its own data collection and transaction records more uniform and systematic.
+Moreover, by making some of its own data sets publicly available, it can kick-start an open-data movement and pave the way for the emergence of related industries.
+<P>
+For Chinese firms, such a movement will have to be accompanied by a fundamental change in mentality.
+Instead of focusing on large-scale, one-size-fits-all production, firms must use the data they receive to glean more detailed insights about consumers’ preferences and expectations – and expand their portfolios to include the niche products that consumers crave.
+<P>
+Given that the Internet empowers consumers to compare offerings directly and choose the most economical and attractive option, firms that attempt to adhere to business as usual will quickly be overtaken by their competitors.
+Of course, such intense competition will erode firms’ profit margins – a trend that they can offset by integrating Internet technologies into back-office functions and logistics.
+<P>
+Another fundamental shift to be expected from the rise of China’s Internet economy is that the most innovative and flexible – not necessarily the largest or most established – enterprises will be the most successful.
+The Internet enables startups to scale up rapidly and at a low cost, unburdened by legacy systems and traditional methods of doing business, while blurring the lines between sectors.
+<P>
+As a result, new players can emerge suddenly to challenge long-established institutions.
+Nowhere is this more apparent than in banks’ current scramble to defend their territory from online financial-services providers.
+<P>
+The Internet revolution will also disrupt the labor market, with some jobs being automated away and companies facing a shortage of technologically proficient workers.
+A company’s success will depend on its employees’ willingness to acquire new skills, undertake new roles, and adapt to the faster pace and unfamiliar demands of the digital marketplace.
+<P>
+But the onus of adaptation does not rest entirely on workers.
+Policymakers and business leaders must ensure that displaced workers have options for retraining, and that the education system is producing enough technology-savvy workers.
+<P>
+The Internet will not only create economic momentum for China in the years ahead; it will help to transform an unsustainable growth model based on fixed investment and cheap labor.
+By unleashing the economy’s productivity-growth potential, the Internet can help China attain its goal of developing a growth model that can lift the country to high-income status.

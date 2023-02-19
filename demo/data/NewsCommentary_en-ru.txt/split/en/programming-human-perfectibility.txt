@@ -1,0 +1,66 @@
+<HEADLINE>
+Programming Human Perfectibility?
+<P>
+NEW YORK – In theory, it is hard to think of any nobler computer service than the typical “Help Wanted” board.
+It helps people find work that fulfills their potential, and it helps employers find people who can use their infrastructure (whether machines or office equipment or even just a methodology for service delivery) to satisfy the needs of businesses and consumers around the world.
+<P>
+That was why, long ago, I invested in a European job board.
+But when they asked me to give a talk in Tallinn, Estonia, under the title “How to find the right people,” I balked.
+<P>
+That’s because, in practice, job boards fail to fulfill their potential.
+The best people usually find jobs (or are found) through professional connections, and most mediocre people get mediocre or worse jobs where they lose whatever potential they had.
+Even at their best, all job boards do is allocate scarce talent resources; they don’t create them.
+<P>
+In the end, I agreed to do the talk in Tallinn, but only if I could change the title to “How to find and develop great people.”
+<P>
+I recalled that episode recently when a startup came to me with an idea that included an online market for “life coaches.”
+(I’m being vague because the company is in stealth mode.)
+To my surprise, there are about 100,000 certified life coaches in the United States these days.
+They range from experienced counselors with psychology degrees to people with a certificate from a training institute to non-certified people who just happen to be good at it.
+<P>
+So the market is not just the buyers (people with family problems, career challenges, and other personal issues to resolve) and sellers (the life coaches).
+It is also the producers – the training schools that want their certificates to have value in the marketplace, and that would be willing to sponsor or advertise on such a service.
+<P>
+As for me, I am simultaneously a cynic and an idealist.
+I would rather get my advice for free from a genuine friend, or perhaps even from some folks on Facebook, than from a jobless stranger who has just spent $2,295 on a five-month, part-time course.
+<P>
+But then I thought about jury duty – the US system whereby people who might otherwise be in a five-month training course sit in judgment of their peers.
+I have performed jury duty and found it an inspiring experience.
+Normal people – with or without much education, with or without much money – rise to the occasion.
+They pay attention to the drama outlined by the lawyers, try to put their biases aside, and decide the fate of a fellow human being.
+<P>
+Of course, that’s only my own experience.
+Through extreme luck, I happened to sit next to former US Supreme Court Justice Sandra Day O’Connor at a recent dinner.
+I asked her: “Is it just me, or do juries really rise to the challenge?”
+She replied: “Only twice in my career have I disagreed with the verdict of my jury.”
+<P>
+So, could being thrust into a formal role of responsibility have at least some of the same effects as jury duty?
+Rather than cheapening a relationship, could training and payment actually turn normal people into excellent coaches?
+How much does context matter, and how much can people develop good habits when appropriately challenged?
+I’m not sure, but it may be that a life-coach job board is not such a bad idea after all.
+<P>
+In the meantime, I was approached by a company called Talent Sciences, which I am sure has a good idea.
+The proposition is ultimately simple: use computers not just to find good employees, but also to help people become better employees.
+In part, that means generating data to assess and match people to the right jobs; it also means simulating situations – learning experiences – in which people can develop the habits, skills, and attitudes they need to match any particular job and employer.
+<P>
+The first step for Talent Sciences is to work with a large employer and assess “talent” with a set of games and interactive experiences: How do people reason and make decisions?
+Do they read the instructions first or react on the fly?
+Do their answers to management-scenario questions change depending on whether the delinquent employee is Juan or Alice?
+Do they follow procedures methodically, or do they take short cuts?
+Do they try harder under pressure, or do they quit in the face of difficulty?
+And so on.
+<P>
+There are no right answers, only patterns.
+Some patterns match successful employees in particular jobs; others match successful employees in other jobs (you want different traits in an advertising copywriter and in an accountant).
+Each company, and each kind of job within it, will have its own patterns of success (as defined by who stays and gets promoted).
+In a company with a pathological culture, success will be defined by liars and social climbers.
+<P>
+But the goal is not just selecting employees (ideally within good companies).
+After that, the service can be used to coach employees and empower them to improve themselves.
+Call it simulated apprenticeship: if your company has a shortage of supportive managers to train employees, they can be modeled in the software.
+The games and simulation exercises can be designed to train and reward certain kinds of behavior – quick decision-making over too much deliberation, delegation rather than do-it-myself behavior, and so on.
+<P>
+It remains unclear how effective this will be, but I’m betting on it.
+Experience shapes us as much as our genes (or innate talents) do, and online experience is cheaper and easier to shape.
+In real life, success could be due to luck, and it might teach us the wrong lessons.
+In a game, we can make sure that it teaches us the right ones.

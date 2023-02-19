@@ -1,0 +1,60 @@
+<HEADLINE>
+Emerging Markets’ Hidden Debt Risk
+<P>
+WASHINGTON, DC/LONDON – Stark warnings about the COVID-19 shock’s potentially devastating effects on emerging markets (EMs) have become ubiquitous.
+With the pandemic engulfing ever more countries, EMs face a mass exit by foreign investors seeking safe assets.
+As a result, capital outflows and currency depreciations have become unprecedentedly synchronized.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+A first round of policy interventions to blunt the pandemic’s financial and economic impact on EMs is already underway.
+But although these actions – mainly aimed at alleviating stress in foreign-exchange (FX) markets – are welcome, the ongoing currency depreciations present financial-stability challenges that have long-term implications going far beyond immediate liquidity problems.
+<P>
+When an EM currency depreciates, that country’s foreign-currency-denominated debt burden – both its absolute value and debt-service costs – can escalate rapidly.
+Such balance-sheet effects often presage corporate defaults, financial instability, and output declines, as we saw during previous EM crises.
+<P>
+In devising an appropriate economic policy response to COVID-19, therefore, EM policymakers must answer a key question: how much financial trouble linked to balance-sheet effects is this wave of currency depreciations likely to cause?
+Estimating the potential damage is complicated by the fact that the magnitude of unhedged FX debt in EMs is hard to pin down.
+<P>
+Over the last 40 years, the debt landscape in EMs has changed dramatically.
+On one hand, EM governments have significantly reduced the extent of their “original sin” of relying on FX borrowing, owing to improved macroeconomic fundamentals and better fiscal and monetary discipline.
+<P>
+In the meantime, however, EM companies have gone in the opposite direction: as it became cheaper for these firms to borrow in global currencies, their FX borrowing grew.
+And recent research shows that when the cost of borrowing in foreign currency drops, more firms issue FX debt.
+<P>
+This migration of FX exposure from EM sovereigns to corporate borrowers has brought new challenges.
+In particular, private firms’ finances are less regulated than those of governments and banks, so we know much less about their balance sheets.
+<P>
+Nonetheless, our research – using a variety of private and public sources – gives a sense of the magnitudes involved.
+Figure 1 shows the FX debt of households and non-financial firms in major EMs, both as a share of their total debt and as a share of GDP.
+<P>
+<P>
+Encouragingly, Figure 1 suggests that private-sector FX borrowing in many EMs might be relatively limited.
+With a few exceptions (notably Turkey, Mexico, and Argentina), most countries have manageable levels of private-sector FX exposure relative to total debt.
+More important, this “raw” measure should be viewed as an upper bound of the FX debt problem in EMs.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+That is because FX borrowing per se is not a problem when foreign-currency liabilities are sufficiently hedged (that is, matched by foreign-currency assets and revenues), which can be done either naturally or through financial instruments.
+A commodity exporter that generates foreign-currency revenues is a typical example of a natural hedger.
+Because many EMs with high FX exposure are large commodity exporters (such as Mexico and Chile), the numbers in Figure 1 might overstate the actual size of the problem.
+<P>
+The bad news is not only that this type of natural hedging may provide no buffer in the current environment of low commodity prices, but also that EM firms in non-tradable sectors could have substantial unhedged FX borrowing on their balance sheets.
+Although there is no systematic data regarding these companies’ use of FX derivatives to hedge foreign-currency debt, evidence from Hungary (albeit based on data from before 2010), Chile, and Turkey indicates that non-financial firms borrowing in foreign currency use such instruments infrequently.
+<P>
+And, as Figure 2 shows, the share of foreign-currency loans in non-tradable sectors has risen to about 40% in Hungary and Peru (for construction), and around 50% in Turkey and Mexico (for services).
+<P>
+<P>
+The high levels of unhedged FX debt among private-sector EM firms are particularly worrisome in the context of the COVID-19 crisis.
+With significantly reduced income and sales, such firms will struggle to repay debt, and some might default.
+That would jeopardize financial stability, because most FX borrowing is intermediated through domestic financial systems.
+<P>
+We know surprisingly little about the extent of this problem in EMs.
+A common practice is to take central-bank FX reserves as a measure of a country’s preparedness to fight a capital-flow reversal.
+But such an approach may offer false comfort, because it is impossible to know whether reserves adequately cover unhedged FX debt in the private sector.
+<P>
+As the COVID-19 crisis continues, EM countries with large amounts of unhedged private-sector FX debt should concentrate their efforts on securing stable access to external financing through, say, the US Federal Reserve or multilateral lenders.
+<P>
+But it will be critical to understand the extent of unhedged corporate FX borrowing, along with firms’ ability to absorb the current income shock, potential spillovers to the rest of the economy, and the scope to contain the fallout from bankruptcies.
+Central banks and regulatory agencies, which have access to such data, should use it to anticipate the damage arising from currency depreciations and design policy responses accordingly.

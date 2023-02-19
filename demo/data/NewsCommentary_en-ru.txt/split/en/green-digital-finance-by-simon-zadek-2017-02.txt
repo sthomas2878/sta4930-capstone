@@ -1,0 +1,48 @@
+<HEADLINE>
+Greening Digital Finance
+<P>
+BEIJING – Digital finance has turned out to be an unexpected revolutionary, simply by enabling low-cost financial inclusion.
+Thanks to new financial technologies (fintech), consumers can shop seamlessly, migrants can send hard-earned money to their families cheaply, small businesses can access credit in minutes through Big Data-driven profiling, and savers can shape their own investment destinies.
+But if fintech is to reach its potential to advance the global public good, another factor must be accounted for: the environment.
+<P>
+The United Nations Environment Programme (UNEP) recently published a report, “Fintech and Sustainable Development: Assessing the Implications,” exploring how digital finance can be leveraged for environmental gains.
+As the report points out, by reducing costs and boosting efficiency, fintech is already mobilizing green finance, enabling poorer people to access clean energy through innovative payment systems and facilitating green savings for rich and poor alike.
+<P>
+The Swedish start-up Trine, for example, enables savers in downtown Stockholm to fund distributed solar-energy systems in rural areas thousands of kilometers away.
+Kenya’s M-KOPA is leveraging the hugely successful domestic mobile payments platform, M-PESA, to make clean energy available to poorer communities.
+Other experiments highlight the green potential of blockchain and cryptocurrencies.
+<P>
+The rewards of such initiatives could be substantial – for households, financial-services providers, economies, and the environment.
+With this in mind, a coalition of digital-finance companies, the Green Digital Finance Alliance, was launched at this year’s World Economic Forum Annual Meeting in Davos, Switzerland.
+<P>
+One of the alliance’s founders, ANT Financial Services has a mobile-payments platform with 450 million users in China alone.
+The organization is now working with UNEP to offer an experimental “green energy” app that rewards users for reduced carbon use.
+<P>
+Fintech is part of a broader digital revolution, which also includes Big Data, the Internet of Things, blockchain, and artificial intelligence.
+Such technologies enable us to record and trace the lifecycle of products – even money itself – thereby determining precisely how they were used, how they were financed, and what impact they had on the environment.
+So ANT’s new green energy app translates financial-transaction data into implied carbon emissions.
+This approach, if extended across more payments platforms, could engage hundreds of millions of individuals in factoring carbon-savings into their daily lifestyle choices.
+<P>
+All revolutions carry unintended costs, and are susceptible to diversion, if not outright corruption.
+The fintech revolution is no different.
+Loss of privacy is the most obvious risk; indeed, despite efforts to create safeguards, it is all but inevitable.
+But there are also less visible risks, stemming from the disruption of existing markets.
+As the journalist and author Michael Lewis emphasized in his bestseller Flash Boys, the risks created by high-frequency trading on the financial returns of our lumbering, twentieth-century pension funds are far-reaching.
+<P>
+Another casualty will be regulation, at least for a while, as policymakers struggle to figure out how to manage an increasingly complex, dynamic, and virtual financial system.
+There is also a risk that the commoditization effects brought by speed and Big Data will undermine the conditions for sustainable development.
+<P>
+Though these risks cannot be eliminated, they can be mitigated.
+Regulators, in particular, will need to work fast to keep up, as best they can, in a fast-changing financial milieu.
+But their goal should not be only to protect against fintech’s risks; they should also aim to guide it, so that it can reach its full potential.
+For example, fintech should be aligned with the Sustainable Development Goals – an effort that demands new standards, market innovation, and collaboration.
+<P>
+Countries worldwide should integrate digital finance into their sustainable-development financing plans.
+Coalitions like the Green Digital Finance Alliance can support these efforts, by mobilizing collective action on the part of financial institutions and their stakeholders.
+<P>
+Multilateral measures will also be important.
+This year, the G20, under Germany’s leadership, will focus on building resilience, improving sustainability, and assuming responsibility for climate change – all areas where digitization must be part of the solution.
+Likewise, the G7, under Italy’s leadership, will explore how to finance “green” small and medium-size enterprises, taking advantage of fintech-powered innovations.
+<P>
+With the right approach, fintech can be harnessed to strengthen economies and societies, while helping to preserve the environment.
+Fortunately, this could well be the year that green digital finance comes of age.

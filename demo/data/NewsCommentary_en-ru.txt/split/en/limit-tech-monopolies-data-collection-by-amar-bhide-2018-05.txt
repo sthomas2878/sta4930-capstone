@@ -1,0 +1,58 @@
+<HEADLINE>
+Corralling the Info-Monopolists
+<P>
+MEDFORD, MASSACHUSETTS – In a modern capitalist economy, we celebrate innovations that produce market power, but fear the risks of unchecked dominance.
+Nowhere are those risks more apparent than with today’s information-technology monopolies.
+<P>
+The question of how to encourage transformational, market-dominating innovations while limiting the abuse of market power long precedes the digital age.
+In the United States, the story of Walmart founder Sam Walton is a case in point.
+The World War II veteran went from small-town variety-store franchise owner to multi-billionaire mogul, presiding over what would become the world’s largest private employer.
+<P>
+It is a stirring tale of audacity and enterprise, which included innovations – such as establishing distribution centers in sparsely populated regions and building up global supply chains – that business students worldwide now study.
+And the huge profits Walmart generates for its owners are dwarfed by the value it provides to its customers, who rely on the low prices made possible by the company’s ability to buy and sell on a massive scale.
+<P>
+Yet Walmart also stands accused of desolating downtowns, impersonalizing shopping, and depriving small retailers of their livelihoods.
+In the future, Walmart could use its market power to squeeze customers (though another, more ambitious behemoth, Amazon, would likely get in the way).
+<P>
+So far, Americans have largely tolerated – and even applauded – the creative destruction associated with business innovation, and have been cautious in limiting potential abuses.
+Despite rules prohibiting “predatory” pricing and “anti-competitive” mergers, price wars and acquisitions that increase market leaders’ power are permitted in practice.
+Legally mandated breakups – such as of Standard Oil in 1911 and AT&T in 1982 – are rare, and regulating prices charged by “natural monopolies” (such as electric utilities) is uncommon.
+<P>
+This innovation-favoring approach has helped to make the US a nursery of world-dominating businesses, and it has not changed with the digital revolution, either.
+The “info-monopolists” Google and Facebook, faced with few regulatory obstacles, have created unprecedented value for consumers – and have secured massive market power for themselves.
+<P>
+These companies have eviscerated traditional media, though many of the losers were themselves oligopolists or monopolists.
+When they dominated the airwaves, the US television networks ABC, CBS, and NBC charged advertisers steep rates.
+The one or two newspapers that dominated in each city or town avoided cutthroat price competition.
+This helps to explain why the struggles of traditional media – many owned by wealthy families or conglomerates – have spurred even less of a backlash than did Walmart’s decimation of independently owned retailers.
+<P>
+Unimpeded growth has no doubt helped to increase the value that Google and Facebook can offer.
+The more Google searches are conducted, the better the results.
+The more people who use Facebook, the more reason there is to join.
+This attracts advertisers, whose payments fund investments in improved technology and added features.
+<P>
+But unchecked market power creates opportunities for abuse, particularly with regard to user privacy.
+Unlike television networks or newspapers, these digital behemoths don’t merely give advertisers an audience; they tailor ads to individual consumers.
+This is not a benign difference, because in order to tailor ads effectively – thereby maximizing their value to advertisers (and thus profits for the platform) – these companies collect a huge amount of personal data from their users.
+<P>
+Perhaps because most users don’t know the details of which data are being collected, they have so far shown a surprisingly high tolerance for online surveillance.
+Most would be outraged if a mega-discounter bugged shopping carts to find out what should be pitched to a specific customer at the checkout counter, even if it helped keep prices low, and machines, not humans, did the eavesdropping.
+Yet most users never bother to read, say, Facebook’s terms of service before clicking “agree,” and are indifferent to how much surveillance is being carried out.
+<P>
+In fact, extensive tracking has become the new normal.
+The question is no longer whether Facebook should monetize users’ personal data, but whether it should be required to pay users for their data or even charge users a fee to opt out of data collection.
+<P>
+But it is not at all clear that these companies can be trusted with the data they collect.
+Despite Facebook’s insistence that it does not sell data to advertisers, the company was recently found to have allowed nearly 90 million users’ data to be harvested by the political consultancy Cambridge Analytica.
+And subsequent testimony before the US Congress by Facebook founder and CEO Mark Zuckerberg did not prove particularly reassuring, given the lack of real information that he provided.
+Members of Congress – many of whom have received campaign contributions from Facebook – largely limited themselves to denouncing Facebook’s carelessness, and Zuckerberg earnestly promised to invest more in security.
+<P>
+But could the data that Facebook or Google accumulates ever really be safe?
+No matter how much one spends on protecting large databases, it is farfetched to believe that nobody inside or outside such a massive and complex organization could breach it.
+America’s own National Security Agency could not prevent Edward Snowden, a low-level contractor, from walking off with a trove of state secrets on a thumb drive.
+<P>
+In some cases, such as health care or banking, the public benefits of digitally stored data justify the risks.
+But, for the most part, limiting data collection is a much safer bet than relying on data protection.
+<P>
+Ensuring that today’s info-monopolists can legally collect only a very limited amount of personal data – say, what newspapers receive about their subscribers – would protect users, without fatally diminishing the platforms’ appeal to advertisers.
+Without such limitations, the risks these platforms pose may, in users’ eyes, begin to outweigh their benefits – a development that could have political implications as far-reaching as the info-monopolists’ economic rise.

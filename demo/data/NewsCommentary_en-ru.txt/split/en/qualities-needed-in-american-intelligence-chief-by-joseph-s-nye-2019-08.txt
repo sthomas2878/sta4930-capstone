@@ -1,0 +1,68 @@
+<HEADLINE>
+Speaking Truth to Power
+<P>
+CAMBRIDGE – US President Donald Trump’s nomination of John Ratcliffe, a highly partisan Congressman with little international experience, to replace Dan Coats as Director of National Intelligence raised the red flag of the politicization of intelligence.
+Opposition to Ratcliffe among Democrats and Republicans alike forced Trump to withdraw the nomination, but the question remains: Will power corrupt truth?
+Presidents need an intelligence director they can trust, but can the rest of the government trust that director to speak truth to power, as Coats did when he contradicted the president on issues like Russia, Iran, and North Korea?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Costly intelligence failures are not unique to the United States.
+France failed to foresee Germany’s attack through the Ardennes in 1940; Stalin was blindsided by Hitler’s attack in 1941; and Israel was surprised by the Yom Kippur War in 1973.
+<P>
+Trump, who is angry at the US intelligence services for pointing out the degree of Russian interference in his 2016 election, often justifies his dismissal of their work by referring to their inaccurate assessment that Iraq possessed weapons of mass destruction.
+Many partisans accused President George W. Bush of lying and pressuring the intelligence community to produce intelligence to justify a war that Bush had already chosen.
+But the situation was complicated, and to understand the problems of speaking truth to power, we must clear away the myths.
+<P>
+As the American weapons inspector David Kay later characterized the estimates of WMD in Iraq, “we were almost all wrong.”
+Even the United Nations’ chief inspector, the Swedish diplomat Hans Blix, said he thought that Iraq had “retained prohibited items,” and French and German opposition to the Iraq war was not based on different intelligence assessments regarding the weapons.
+But the US (and British) experience combined failures at three levels: collection, analysis, and public presentation.
+<P>
+Iraq was a difficult target for intelligence collection.
+Saddam Hussein was a dictator who instilled fear by killing those who talked, including his own son-in-law when he disclosed in 1995 that Saddam had a biological weapons program.
+The US and the United Kingdom had few reliable spies in Iraq, and they sometimes reported only indirectly on things they had heard but not seen.
+After the UN inspectors were expelled in 1998, the US lost access to their impartial human intelligence and often filled the vacuum with the tainted testimony of Iraqi exiles who had their own agenda.
+And neither country had access to Saddam’s inner circle, and thus had no direct evidence about the biggest puzzle of all: if Saddam had no weapons, why did he persist in acting as though he did?
+<P>
+Analysis was also weak.
+The analysts were honest, but, lacking evidence about Saddam’s thinking, they tended to succumb to “mirror imaging”: they assumed that Saddam would respond the way we (or any “rational” leader) would.
+Instead, he felt his power at home and in the region depended on his preserving his reputation for possessing WMD.
+Another problem was the analysts’ tendency to overcompensate for their earlier, opposite error.
+<P>
+After the first Gulf War, UN inspectors discovered that Saddam was closer to developing a nuclear weapon than analysts had thought.
+Vowing not to underestimate Saddam again, the analysts overestimated, a tendency that was reinforced by the trauma of 9/11.
+In practice, such dominant mental frameworks or “groupthink” should be challenged by a variety of analytical devices such as designating devil’s advocates and creating “red teams” to make the case for alternative interpretations, or requiring analysts to ask what change in assumptions would make their analysis wrong.
+By all accounts, this rarely happened.
+<P>
+So, what role did politics play?
+The Bush administration did not order intelligence officials to lie, nor did they.
+But political pressure can subtly skew attention even if it does not directly corrupt intelligence.
+As a wise veteran explained to me: “We had a big pile of evidence that Saddam had weapons of mass destruction, and a smaller pile that he did not.
+All the incentives were to focus on the big pile, and we did not spend enough time on the smaller pile.”
+<P>
+The presentation of intelligence to (and by) political leaders was also flawed.
+There was little warning that “weapons of mass destruction” was a confusing term in the way it lumped together nuclear, biological, and chemical weapons, which in fact have very different characteristics and consequences.
+The 2002 National Intelligence Estimate cited Saddam’s purchase of aluminum tubes as proof that he was reconstituting his nuclear program, but Department of Energy analysts, who had the expertise, disagreed.
+Unfortunately, their dissent was buried in a footnote that was dropped (along with other caveats and qualifiers) when the executive summary was prepared for Congress and a declassified public version.
+Political heat melts nuances.
+The dissent should have been discussed openly in the text.
+<P>
+Political leaders cannot be blamed for the analytical failures of intelligence, but they can be held accountable when they go beyond the intelligence and exaggerate to the public what it says.
+US Vice President Dick Cheney said there was “no doubt” that Saddam had WMD, and Bush stated flatly that the evidence indicated that Iraq was reconstituting its nuclear programs.
+Such statements ignored the doubts and caveats that were expressed in the main bodies of the intelligence reports.
+<P>
+Trust in intelligence runs in cycles in our democracy.
+During the Cold War, intelligence officials were often seen as heroes.
+After Vietnam, they became villains.
+September 11 restored public recognition that good intelligence is more important than ever, but the failure to find WMD in Iraq renewed suspicion again, and Trump has used it to obscure the problem of Russian interference in American elections.
+<P>
+The lessons for the next American DNI are clear.
+In addition to the bureaucratic tasks of coordinating budgets and agencies, he (or she) will have to monitor tradecraft in collection of intelligence, defend rigorous use of alternative techniques for analyzing it, and ensure careful presentation to political leaders and the public.
+Above all, the DNI has a duty to speak truth to power.

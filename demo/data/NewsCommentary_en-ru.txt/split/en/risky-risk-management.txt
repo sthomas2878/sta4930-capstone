@@ -1,0 +1,53 @@
+<HEADLINE>
+Risky Risk Management
+<P>
+LONDON – Mainstream economics subscribes to the theory that markets “clear” continuously.
+The theory’s big idea is that if wages and prices are completely flexible, resources will be fully employed, so that any shock to the system will result in instantaneous adjustment of wages and prices to the new situation.
+<P>
+This system-wide responsiveness depends on economic agents having perfect information about the future, which is manifestly absurd.
+Nevertheless, mainstream economists believe that economic actors possess enough information to lend their theorizing a sufficient dose of reality.
+<P>
+The aspect of the theory that applies particularly to financial markets is called the “efficient market theory,” which should have blown sky-high by last autumn’s financial breakdown.
+But I doubt that it has.
+Seventy years ago, John Maynard Keynes pointed out its fallacy.
+When shocks to the system occur, agents do not know what will happen next.
+In the face of this uncertainty, they do not readjust their spending; instead, they refrain from spending until the mists clear, sending the economy into a tailspin.
+<P>
+It is the shock, not the adjustments to it, that spreads throughout the system.
+The inescapable information deficit obstructs all those smoothly working adjustment mechanisms – i.e., flexible wages and flexible interest rates – posited by mainstream economic theory.
+<P>
+An economy hit by a shock does not maintain its buoyancy; rather, it becomes a leaky balloon.
+Hence Keynes gave governments two tasks: to pump up the economy with air when it starts to deflate, and to minimize the chances of serious shocks happening in the first place.
+<P>
+Today, that first lesson appears to have been learned: various bailout and stimulus packages have stimulated depressed economies sufficiently for us to have a reasonable expectation that the worst of the slump is over.
+But, judging from recent proposals in the United States, the United Kingdom, and the European Union to reform the financial system, it is far from clear that the second lesson has been learned.
+<P>
+Admittedly, there are some good things in these proposals.
+For example, the US Treasury suggests that originators of mortgages should retain a “material” financial interest in the loans they make, in contrast to the recent practice of securitizing them.
+This would, among other things, reduce the role of credit rating agencies.
+<P>
+But there is no indication as to how much of the loan they would be required to hold, or for how long.
+Nor do these official responses to the crisis envisage limiting the amount of loans to some multiple of the borrowers’ income or some proportion of the value of the property being bought.
+This, it is feared, might slow recovery.
+It would have been better for both recovery and reform to promise to introduce such limitations in (say) two years time.
+<P>
+Most disappointing to reformers has been the official rejection of the “Glass-Steagall” approach to banking reform.
+This would have restored the separation between retail and investment banking, which was swept away by the de-regulating wave of the 1980’s and 1990’s.
+<P>
+The logic behind the separation was absolutely clear: banks whose deposits were insured by the taxpayers should not be allowed to speculate with their depositors’ money.
+Instead, the reform proposals have opted for a mixture of higher capital requirements for leading banks and pre-funding of deposit insurance by a special levy on banks.
+<P>
+There seems to be little appetite for proposals to vary capital adequacy requirements counter-cyclically.
+This would enable capital buffers to be created in good years, which could then be drawn down in bad years.
+<P>
+Admittedly, there are difficulties with all proposals to restrict the scope of “risky” banking, especially in the context of a global economy with free capital mobility.
+As is frequently pointed out, unless banking regulations are identical across frontiers, there will be plenty of scope for “regulatory arbitrage.”
+Similarly, banks would have incentives to “game” capital-adequacy requirements by manipulating how capital and assets are defined.
+Indeed, investment banks like Goldman Sachs and Barclays Capital are already inventing new types of securities to reduce the capital cost of holding risky assets.
+<P>
+The underlying problem, though, is that both regulators and bankers continue to rely on mathematical models that promise more than they can deliver for managing financial risks.
+Although regulators now place their faith in “macro-prudential” models to manage “systemic” risk, rather than leaving financial institutions to manage their own risks, both sides lumber on in the untenable belief that all risk is measurable (and therefore controllable), ignoring Keynes’s crucial distinction between “risk” and “uncertainty.”
+<P>
+Salvation does not lie in better “risk management” by either regulators or banks, but, as Keynes believed, in taking adequate precautions against uncertainty.
+As long as policies and institutions to do this were in place, Keynes argued, risk could be let to look after itself.
+Treasury reformers have shirked the challenge of working out the implications of this crucial insight.

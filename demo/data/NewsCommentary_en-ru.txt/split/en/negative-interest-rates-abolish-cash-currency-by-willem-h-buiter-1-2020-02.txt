@@ -1,0 +1,55 @@
+<HEADLINE>
+The New Normal Should Be Cashless
+<P>
+NEW YORK – In December 2019, the Swedish central bank departed from a negative-interest-rate policy that it had maintained for almost five years.
+The Riksbank’s repo rate (the rate at which it lends to commercial banks), which reached a low of -0.5% in February 2016, had risen to 0% by January.
+The latest rate hike comes despite signs that the Swedish economy is slowing, with inflation running below target.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In the event of a cyclical downturn, says Riksbank Governor Stefan Ingves, stimulus will need to come from government spending and asset purchases by the central bank, given the limited effectiveness of negative interest rates.
+“There actually is a lower bound for the policy rate,” Ingves argues, making it “hard to imagine that you would go negative to, say, minus 5 percent.”
+<P>
+I beg to differ.
+It may well be that, in a low-interest-rate environment, countercyclical fiscal policy can play a more prominent role in managing the business cycle without creating any debt-sustainability issues.
+Even so, negative interest rates have not been given a fair chance.
+<P>
+Around the world, central banks and economic policymakers have been unwilling to remove (or at least lower substantially) the effective lower bound (ELB) on nominal interest rates created by the existence of cash or currency.
+As a financial instrument that pays a zero nominal interest rate, cash sets a floor for other financial instruments that do, in principle, have freely variable nominal interest rates.
+Owing to the “carry costs of currency” (the cost of storage, insurance, and so on), the ELB is probably around -75 basis points – a level achieved by the policy rates in Denmark and Switzerland.
+<P>
+To be sure, a recent influential paper by Markus K. Brunnermeier and Yann Koby of Princeton University contends that there may be an “interest rate … at which accommodative monetary policy reverses and becomes contractionary for [bank] lending.”
+According to the authors, this reversal rate is determined by four factors: “banks’ fixed-income holdings, … the strictness of capital constraints, … the degree of pass-through to deposit rates, and … the initial capitalization of banks.”
+<P>
+I have no quarrel with the authors’ argument, but I would simply point out that the degree of pass-through to deposit rates is limited by the existence of an ELB on nominal interest rates.
+So, the question is whether the degree of pass-through to deposit rates (and other rates paid to bank creditors) would continue to be lower at negative interest rates than at positive interest rates if the ELB were removed by abolishing currency, or lowered significantly by removing all large-denomination currency notes.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Yes, firms and households that have grown up in an economic environment with positive nominal interest rates might have trouble calculating the real (inflation-adjusted) rate of interest associated with a negative nominal interest rate.
+But this difficulty would be only temporary.
+Neutral real rates are already at zero or in negative territory in most advanced economies, and are likely to remain there for years if not decades to come.
+As these economies continue to register below-target inflation, the implication is that negative nominal interest rates will become the new normal, and that the “inflation illusion” or “nominal interest rate illusion” will become a thing of the past.
+There is no reason to assume that such cognitive distortions will last forever.
+<P>
+There are three ways to eliminate the ELB.
+The first is to introduce a variable exchange rate between currency and deposits with the central bank (implying the same for deposits with commercial banks and other private instruments).
+Charging a -5% interest rate on deposits while simultaneously appreciating the value of deposits vis-à-vis currency holdings at a 5% rate would eliminate any arbitrage opportunities.
+<P>
+The second way to get rid of the ELB is to tax currency.
+But I would prefer the third option: abolish the currency and replace it with a central-bank digital currency, while allowing for a transition period during which time small-denomination notes could be kept in circulation to accommodate the digitally and financially excluded.
+<P>
+In Sweden’s case, abolishing cash would be a minor event.
+The value of Swedish banknotes in circulation at the end of 2019 was just SEK60.38 billion ($6.2 billion, or 1.26% of GDP).
+Of that amount, SEK44.85 billion comprised the two largest denominations – SEK500 and SEK1,000 notes (akin to American $50 and $100 bills, respectively) – which suggests that they were unlikely to be used in small retail transactions by technological laggards.
+<P>
+By comparison, in the United States, cash in circulation at the end of 2018 stood at $1.67 trillion (around 8% of GDP), of which 80% was in $100 bills.
+In the eurozone, the figure for the same year was €1.23 trillion ($1.33 trillion, or 9% of GDP), of which 48% was in denominations equal to or higher than €100.
+Clearly, going digital would be more challenging for the US and much of the eurozone than for Sweden; but even in the former two, it remains eminently feasible.
+<P>
+Finally, there is a further benefit to abolishing currency: doing so eliminates the preferred means of payment and store of value among tax evaders, money launderers, drug cartels, human traffickers, and other criminals.
+I would, of course, regret depriving the libertarian community of a financial bearer instrument whose anonymity offers protection from an overbearing and possibly predatory state; but those who want anonymity could always choose Bitcoin.
+The rest of us could prepare to welcome -5% policy rates during the next deep recession.
+<P>
+Correction: February 26, 2020The number for the ELB in the fourth paragraph is -75, not -0.75

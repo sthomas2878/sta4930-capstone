@@ -1,0 +1,62 @@
+<HEADLINE>
+Zimbabwe Needs Its Own Cryptocurrency
+<P>
+ADDIS ABABA – When Zimbabwe’s President Robert Mugabe was deposed in November 2017, after 30 years in power, many hoped that the economic decline he had overseen would soon be reversed.
+But, a year and a half later, the economy is showing no signs of recovering, thanks to an ongoing currency crisis.
+Could a blockchain-based cryptocurrency be the cure for what ails Zimbabwe?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Just over a decade ago, Zimbabwe was beset by such severe hyperinflation – which peaked at 89.7 sextillion percent in November 2008 – that it abandoned its currency altogether, adopting instead a basket of international currencies, led by the US dollar.
+But acute dollar shortages drove up prices, spurring the government, in 2016, to introduce its own banknotes and coins that were supposedly worth the same as US dollars.
+<P>
+Due to lack of confidence, however, the new money traded at a significant discount on the black market.
+With dollars continuing to flow out of the country at a faster rate than they flowed in, the government recently merged its currency and all electronic money into yet another new unit: the Real Time Gross Settlement (RTGS) dollar.
+<P>
+But simply issuing another currency will not be enough to solve Zimbabwe’s problem.
+A “fiat” currency – whose value is not intrinsic, but established by the government – is viewed as credible only when the government prints money responsibly and most money in the country is held in the banking system.
+When the system’s credibility collapses, it takes decades to rebuild.
+<P>
+That is what has happened in Zimbabwe, where the government has a long history of poor fiscal management.
+In 2003, for example, the government was routinely withdrawing money from privately held foreign-currency-denominated accounts without the account holders’ consent; meanwhile, it couldn’t afford the ink needed to print more bank notes.
+<P>
+Their confidence shaken by years of politically motivated monetary interventions, including unrestrained money-printing to fund discretionary spending, Zimbabweans have long avoided holding currency issued by their own government.
+In 2008, money was changing hands over a hundred times faster in Zimbabwe than elsewhere in Sub-Saharan Africa, as people sought more trustworthy stores of value.
+<P>
+This lack of consumer and business confidence in a state-run monetary system continues to this day.
+The RTGS dollar lost one-fifth of its value within a month of its introduction.
+<P>
+None of this should be surprising.
+When people lose their life savings and are plunged into poverty through no fault of their own, the last thing they want to do is rely on the government that put them there and, amid shrinking tax revenues, offers them little support in getting back on their feet.
+<P>
+A blockchain-based cryptocurrency would circumvent this lack of confidence.
+Rather than being managed by the central bank, transactions would be stored on a distributed, decentralized public ledger.
+And, as with Bitcoin, the supply would be capped, in order to prevent the discretionary printing of money.
+In this sense, a cryptocurrency would resolve the two most fundamental problems with a state-run monetary system in Zimbabwe.
+<P>
+The benefits would be far-reaching.
+Blockchain technology makes transactions virtually tamper-proof.
+And, with third-party intermediation unnecessary, transactions costs are low.
+This could save the Zimbabwean diaspora up to $90 million annually in remittance-related fees.
+<P>
+Lower transaction costs would also support progress on financial inclusion, as anyone with Internet access could trade even very small amounts of money in real time.
+With the expansion of Internet-enabled mobile-phone use, even those living in isolated regions have gained valuable opportunities to participate in the formal banking system.
+According to the United Nations, this trend has already brought millions into the formal economy in Asia.
+<P>
+The next step would be for Zimbabwe to start using self-executing “smart contracts” in its formal economy – a change that could save up to 0.5% of Zimbabwe’s annual GDP.
+This approach would boost business confidence, by making transactions safer and cheaper.
+Such a shift could be extended to many other applications: for example, blockchain technology could enable the instant digital transfer of asset titles.
+<P>
+The ultimate goal would be to create an open banking system – a more transparent model, in which banking data are shared through open application programming interfaces, enabling third-party developers to build their own applications and services.
+Given Zimbabweans’ lack of faith in their existing system, it would not take much to convince them to leave it behind.
+<P>
+As a blockchain-based system strengthened business and consumer confidence, investment and household spending would rise, bolstering the economy and boosting tax revenues.
+This, together with the government’s inability to engage in discretionary money-printing, would vastly improve the management of public finances, helping the government to recover its credibility in the long term.
+But the lynchpin of this system is the fact that it will function, even while the government remains discredited.

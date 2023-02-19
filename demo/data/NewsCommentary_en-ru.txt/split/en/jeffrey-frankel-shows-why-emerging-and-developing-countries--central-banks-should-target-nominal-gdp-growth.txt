@@ -1,0 +1,66 @@
+<HEADLINE>
+Emerging-Market Target Practice
+<P>
+ISTANBUL – Central bankers want only a few things.
+To achieve any of them they usually seek to nudge inflation expectations, demonstrate the transparency of monetary policy, and establish their institutions’ credibility.
+To communicate their intentions simply and clearly, they may set an explicit target range in terms of a particular economic variable, or announce a forecast for the variable, or offer forward guidance by specifying a threshold value for it that must be met before changing interest rates.
+<P>
+But what should that one economic variable be?
+In the 1980s, major advanced countries tried the money supply.
+After the monetarist approach failed, some switched to targeting the inflation rate.
+But they repeatedly missed their targets.
+<P>
+Until the currency crashes of the 1990s, emerging and developing countries tended to target their exchange rates.
+Many then also switched to inflation targets; but they tend to miss these targets even more often than the advanced countries do.
+<P>
+The problem with these approaches to monetary-policy targeting is that even though a particular numerical target may be reasonable when it is set, subsequent unexpected developments often make the target hard to live with.
+The monetary authorities are then confronted with a harsh choice between violating their announced target, and thus undermining the credibility that was the point of the exercise, or setting policy too tight or too loose, thus doing unnecessary damage to the economy.
+<P>
+Major central banks can generally withstand failure to achieve targets without a fatal loss of credibility.
+The Bundesbank routinely missed its money-supply targets, and yet remained a credible, admired institution.
+More recently, inflation expectations in the United States and the United Kingdom remained well anchored even when the Federal Reserve and the Bank of England had to walk away from the unemployment thresholds they had announced.
+<P>
+The situation is different in emerging and developing economies.
+These countries’ need to establish policy credibility tends to be more acute, whether as a result of histories of high inflation, an absence of credible institutions, or political pressure to monetize budget deficits.
+They need targets with which they can really live.
+<P>
+Nothing seems to work.
+When the International Monetary Fund comes around asking what their nominal anchor is, many declare themselves to be inflation targeters.
+But they have trouble abiding by their targets.
+If they are hit by an adverse supply shock or terms-of-trade shock in the meantime, the right step would be to loosen monetary policy sufficiently that the currency depreciates.
+But targeting the consumer price index precludes this, because depreciation would raise the price of imported oil, food, and other tradable commodities.
+<P>
+Indeed, if the shock is an increase in the dollar price of oil, an inflation target in theory dictates tightening monetary policy enough that the currency appreciates.
+But such a policy would mean that the adverse shock is reflected in a sharp fall in output.
+<P>
+In practice, an inflation-targeting central bank usually abandons the target for price stability in such a case.
+It tries to explain the failure to the public in terms of “core inflation”: what has happened is only an increase in the cost of filling their gas tank or buying groceries.
+But this defeats the very purposes – transparency, credibility, and predictability – for which a target was announced in the first place.
+<P>
+Emerging-market countries ought to consider targeting nominal GDP.
+Relative to inflation targeting, the great virtue of NGDP targeting is that it is robust with respect to supply shocks and terms-of-trade shocks, meaning that the central bank is not faced with a choice between abandoning the target and hurting the economy.
+<P>
+Proposals to target NGDP are familiar in major industrialized countries, first arising in the 1980s.
+In the wake of sharp price increases in the 1970s, central banks wanted to commit credibly to monetary discipline in order to facilitate disinflation.
+<P>
+The proposal was never adopted.
+Yet the idea was suddenly revived two or three years ago.
+The context this time was a desire to achieve expectations of greater monetary stimulus, in order to facilitate recovery from the great recession of 2008-2009.
+<P>
+There are good reasons to think that NGDP targeting is better suited to emerging and developing economies than to industrialized countries.
+These economies are more frequently subject to adverse terms-of-trade shocks, such as increases in world oil prices or declines in prices for their commodity exports.
+Their economies also tend to suffer larger supply shocks from natural disasters, other weather events, social unrest, and unexpected productivity changes.
+<P>
+The advantage of a nominal GDP target is that adverse shocks of these sorts are reflected equally in output and inflation, rather than imposing the entire burden in the form of a loss in output.
+This provides the sort of response that one would want anyway, while still retaining the advantages of a rule (communicating the central bank’s plans in such a way that it can live with what it has promised to do).
+<P>
+Many emerging and developing countries need to bring inflation down, much as advanced countries needed to do 30 years ago.
+One example is India, which is currently considering adopting inflation targeting to enhance monetary discipline.
+But the country is regularly hit by supply shocks such as good or bad monsoons.
+Statistical estimates suggest that an attempt to set the path of inflation in the face of such shocks would lead to undesirably large swings in real GDP, compared to anchoring policy to the path of NGDP.
+<P>
+The target path for nominal GDP can be set at whatever level of monetary discipline is desired.
+The robustness of NGDP targeting to unknown future shocks is similar whether the objective is to ease money, tighten money, or stay the course, and whether the central bank wants to announce a forecast, a target range, or a threshold for forward guidance.
+<P>
+If it is worth communicating a plan, it is worth choosing a plan that one can live with.
+NGDP targeting is that plan.

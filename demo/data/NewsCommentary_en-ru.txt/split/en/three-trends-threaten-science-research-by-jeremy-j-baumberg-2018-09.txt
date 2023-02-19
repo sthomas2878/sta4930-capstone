@@ -1,0 +1,68 @@
+<HEADLINE>
+What Is Threatening Science?
+<P>
+CAMBRIDGE – Scientific knowledge and technological innovation, as Yuval Noah Harari emphasizes in his book Sapiens: A Brief History of Humankind, are among the key drivers of economic progress.
+Yet there is remarkably little reflection taking place about the state of science today, despite significant challenges, rooted in globalization, the digitization of knowledge, and the growing number of scientists.
+<P>
+At first glance, all of these seem to be positive trends.
+Globalization connects scientists worldwide, enabling them to avoid duplication and facilitating the development of universal standards and best practices.
+The creation of digital databases allows for systematic mining of scientific output and offers a broader foundation for new investigations.
+And the rising number of scientists means that more science is being conducted, accelerating progress.
+<P>
+But these trends are Janus-faced.
+To understand why, one must recognize, first, that science is an ecosystem.
+Just like any other ecosystem, it is characterized by the push and pull among competing actors.
+Universities compete to ascend the research rankings.
+Scientific journals compete to publish the most relevant papers.
+Conference organizers compete for the most distinguished speakers.
+Journalists compete for scoops on the most important breakthroughs.
+Funders compete to identify and support the research that will produce the most significant advances in terms of social impact, security, or commercial profitability.
+<P>
+Like in the natural world, this complex competition enables the production of both ecosystem “goods” and “services.”
+Our natural ecosystems produce goods in the form of raw materials and services such as maintaining oxygen in the atmosphere, pollinating plants, cleaning air and water, and even providing us with beauty and inspiration.
+<P>
+Our scientific ecosystem’s goods are the independent, distilled, peer-reviewed knowledge that drives our societies and economies forward.
+Its services include an improved understanding of our world and the frameworks that best support progress, enabling us to innovate and solve problems.
+<P>
+The scientific ecosystem also serves us in ways that are harder to articulate.
+It instills in us an appreciation for the beauty of mathematics, a belief in the inherent values of education, trust in the intrinsic worth of transnational intellectual communities, and interest in scholarly discussion.
+<P>
+Yet funders and governments have undervalued these essential ecosystem services.
+And the three trends mentioned above – globalization, digitization of knowledge, and the expanding ranks of scientists – are exacerbating the problem.
+<P>
+As globalization increases competition, it also reinforces certain narratives – such as those dictating which research areas deserve the most funding.
+In my meetings with government officials around the world, I have seen this firsthand.
+They trumpet the importance of science to their countries’ futures, and then identify the areas that they “uniquely” are spearheading.
+The areas are usually the same.
+<P>
+Just as “trending” topics in the media can come to dominate public attention, trending research areas attract the vast majority of funding.
+Support for parallel research in the same areas reduces the efficiency of each investment, and such herding behavior by donors may even preclude some of the most significant advances, which often come as a result of combining the results of seemingly unrelated research.
+<P>
+The digitization of knowledge has intensified these effects.
+The currency of science is the citation – when one scientist refers to another’s previously published work.
+With all scientific publications recorded digitally, citations can be counted instantly, allowing scientists to be ranked accordingly.
+<P>
+The “h-index,” for example, attempts to measure the productivity and impact of a particular scientist using citation data – and it has become a kind of currency.
+If a scientist’s h-index is their bitcoin – convertible through salaries and research grants – then citations are the blockchain on which it depends.
+Now, again, the same researchers producing the same types of research are being rewarded disproportionately, leaving less room for those with less of this quantifiable esteem.
+<P>
+This trend is exacerbated further by the rise in the number of scientists.
+Ask a room full of chemists how many colleagues they have in the world, and no one will know.
+Ask how many are needed, and they will look at their shoes.
+What is known is that the population of scientists is increasing at a faster rate than the human population as a whole.
+<P>
+More scientists do not mean more discoveries.
+What they can cause – through intensifying competition within the ecosystem – is h-index inflation, just as printing more money can cause price inflation.
+<P>
+Given these trends, scientists in recent decades have felt increasingly compelled to oversell their research.
+And in the complex and interconnected scientific ecosystem, a solution is not easy to find.
+But there are some dynamics that are worth exploring.
+<P>
+Most fundamental, encouraging diversity – of institutions, funding mechanisms, and research approaches – is vital to prevent innovation-killing conformity.
+Ecosystems always require diversity for resilience.
+Such disruption can come not only from the new mega-rich tech giants, but also from crowd sourcing, and tech-wealthy benefactors.
+<P>
+To support this effort, we could encourage a new breed of science curators to explore the terrain of scientific knowledge more systematically, looking beyond trending topics to identify surprising but promising linkages between research, as well as conflicting results that merit further inquiry.
+<P>
+Finally, the one-dimensional citation metric should be complemented by additional indices that provide a more comprehensive, multifaceted assessment of scientific work.
+Only then can the huge number of new minds that join the ranks of the world’s scientific researchers each year actually contribute meaningfully to the advancement of science and, in turn, the progress of humankind.

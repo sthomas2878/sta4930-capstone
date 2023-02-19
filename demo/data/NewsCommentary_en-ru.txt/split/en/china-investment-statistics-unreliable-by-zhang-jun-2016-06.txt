@@ -1,0 +1,52 @@
+<HEADLINE>
+China’s Mysterious Investment Statistics
+<P>
+SHANGHAI – The accuracy of China’s official GDP and growth rates has long been a hotly debated topic, with the detention in January of Wang Baoan, the director of the country’s National Bureau of Statistics, on graft charges intensifying doubts about the agency’s integrity.
+Yet, somehow, China’s official investment statistics have largely escaped discussion.
+<P>
+According to China’s National Bureau of Statistics (NBS), fixed-capital formation (the net increase in fixed assets) has averaged about 46% of GDP in recent years.
+That is much higher than the global average of around 22%; yet it is also significantly lower than the average of the figures provided by China’s provinces.
+In 2012, for example, nearly half of the provinces reported GDP shares for capital formation of more than 60%; six exceeded 80%.
+<P>
+One would assume that the national capital-formation figures are based on local reports – not least because, until recent reforms, the NBS was not collecting data independently.
+Moreover, the basic NBS investment figures – that is, total fixed-asset investment, from which fixed capital formation is derived – reflect the total of the provincial figures.
+<P>
+The NBS has refused to share how it calculates total fixed-capital formation.
+Given the importance of such information for assessing the results’ accuracy, I – along with China Europe International Business School’s Zhu Tian and a doctoral student, Liu Fang – decided to investigate.
+Our findings do not inspire confidence.
+<P>
+Since 2004 or so, total fixed-asset investment reported by the NBS has consistently been much higher than gross fixed-capital formation (which constitutes roughly 98% of total capital formation).
+By 2013, total investment in fixed assets accounted for more than 76% of China’s GDP, while gross fixed-capital formation accounted for only 46%.
+<P>
+Such a discrepancy could conceivably be explained by rising real (inflation-adjusted) land prices.
+But land purchases have amounted to less than 15% of China’s official fixed-capital formation rate – or around 10% of total investment in fixed assets – since 2004.
+That is not enough to have such a large impact.
+<P>
+Moreover, the discrepancy does not always appear.
+Indeed, provincial-level data show fixed-capital formation to be closely aligned with total fixed-asset investment.
+And the gross fixed-capital formation that we calculated by using the NBS’s own figures and the method explained in a publicly issued NBS manual also aligned closely with total fixed-asset investment, making it far higher than the NBS’s fixed-capital formation figures.
+<P>
+Unless the NBS explains to the public the specifics of its accounting and adjustment methods, we may never know for sure the reasons for these discrepancies.
+But we can make some educated guesses.
+<P>
+My team’s calculation of capital formation for 2012 is 64% higher than the NBS’s official figure.
+That result, along with the same figures for final consumption expenditure and net exports used by the NBS (but calculated independently), yields a total for expenditure-based GDP that is 32% higher than the production-based figure released by the NBS.
+Because the NBS considers the production approach to be more accurate in China, it seems likely that GDP by expenditure is not calculated independently, but instead uses GDP by production as a reference.
+<P>
+Indeed, official figures for fixed-capital formation may well be produced with simple adjustments, aimed at getting it as close as possible to GDP by production minus consumption expenditure and net exports.
+Otherwise, the NBS would have to increase its GDP by expenditure, taking it much higher than GDP by production.
+Of course, if this is the case, an underestimation of consumption share, which is likely to happen, would produce an inflated share of fixed-capital formation in China’s GDP.
+<P>
+As if that were not enough uncertainty, there is also the question of how accurate China’s fundamental fixed-asset investment figures are.
+Local governments have long been accused of inflating these numbers, such as by including planned spending.
+But even if that is happening, it does not explain how the total could continue to rise for more than a decade.
+And there is no clear reason why local governments would suddenly start lying in 2004, since there was already plenty of incentive to provide the highest possible figures before that year.
+<P>
+We cannot know what adjustments have been made to figures for total fixed-asset investment.
+What is clear, though, is that they have made it increasingly difficult to assess gross fixed-capital formation.
+To produce more accurate figures for fixed-capital formation, China will need to modify or even abandon the current system, based on local government reports, and adopt an independent survey and accounting system to measure fixed-asset investment.
+<P>
+China has built one of the world’s largest and most influential economies.
+Given the far-reaching impact of economic developments here, it is vital that the country provide accurate data.
+And that will require more transparent, impartial accounting, based on independent surveys and calculations.
+Only then can we know what is really going on in China.

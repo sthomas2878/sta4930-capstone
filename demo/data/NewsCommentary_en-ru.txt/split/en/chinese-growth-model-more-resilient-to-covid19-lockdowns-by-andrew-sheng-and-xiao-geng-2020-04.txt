@@ -1,0 +1,78 @@
+<HEADLINE>
+What COVID-19 Reveals About the US and China
+<P>
+HONG KONG – There is nothing like a pandemic to expose systemic differences.
+For China and the United States, which were locked in an ideologically driven competition even before the COVID-19 crisis, those differences are stark.
+But the two countries have at least one thing in common: when this is all over, they will need to rethink their social contracts.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+To curb virus transmission, China and the US have implemented social-distancing measures, which – together with the unemployment they produce – have broken the cycle of earning and spending that sustains global growth.
+The International Monetary Fund estimates that world GDP will contract by 3% this year.
+China’s shrank by 6.8% in the first quarter.
+<P>
+Yet the type of public-health measures pursued – and their outcomes – have diverged sharply.
+China’s draconian lockdowns produced a dramatic decline in new cases, whereas America’s delayed and fragmented response allowed infections – and the death toll – to mount.
+<P>
+This divergence is often attributed to political differences: Chinese central planning allows for more resolute action.
+But this explanation misses the extent to which the US and Chinese growth models have shaped their responses – and the financial and economic effects.
+<P>
+In the US, decades of neoliberal policies have led to a dependence on debt-financed consumption.
+Americans saved little but borrowed a lot.
+Thanks to the “exorbitant privilege” afforded by the US dollar’s position as the leading global reserve currency, so did the government.
+Fiscal and current-account deficits swelled.
+<P>
+Inflation, however, remained low, even when the US Federal Reserve pursued expansionary policies, largely because of the positive supply shocks produced by the integration of China and other developing countries into the global economy.
+The Fed is taking that route again during the pandemic, slashing interest rates and expanding its balance sheet by more than $2.4 trillion in the past six weeks to prevent a systemic liquidity shortage.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The US financial system has also built up excessive leverage, while becoming increasingly disconnected from the real economy.
+Wall Street firms trade among themselves, rather than serving Main Street.
+Corporations rely more on capital markets than on banks.
+<P>
+Moreover, despite advancements in electronic payments, households and small businesses continue to operate mainly in less efficient cash, paper checks, and credit cards.
+The US Treasury is delivering pandemic stimulus payments through direct deposits and mailed checks.
+<P>
+Technology platforms have capitalized on this debt-driven growth model, pushing endless consumption by users – through, say, targeted ads – with less concern for supporting those attempting to generate income online.
+The “gig economy” exemplifies this one-way dynamic: a platform like Uber is optimized for sales and provides workers with the bare minimum of training and protection, while regulators take a hands-off approach.
+<P>
+It has long been clear that the US model is financially, environmentally, and – given skyrocketing inequality – socially unsustainable.
+But the COVID-19 pandemic has shown that any disruption of the debt-consumption cycle threatens to trigger collapse almost immediately: as soon as incomes are interrupted, private financial institutions curtail credit, fearing non-performing loans.
+Consumption plummets, depleting incomes further.
+To stave off disaster, the Fed and Treasury must step in, shifting credit risks to the public-sector balance sheet.
+<P>
+The Chinese model avoids many of these pitfalls.
+Beyond high savings, China has relied on exports and investment, rather than unsustainable levels of domestic consumption, to fuel growth.
+Furthermore, innovative technology platforms – especially in fintech – have linked the traditional economy with a broadly accessible digital ecosystem that encourages users both to consume and to earn, thereby boosting the Chinese economy’s structural and organizational resilience.
+<P>
+These are the results not of central planning, but of continuous experimentation on the ground and adaptation based on bottom-up feedback.
+It was tech platforms, not central planners, that developed inclusive networks that fostered innovation, created new markets, and generated jobs.
+Regulators merely facilitated it.
+<P>
+The COVID-19 crisis has underscored the benefits of this approach.
+Chinese “super app” ecosystems create sustainable, circular digital “earn-spend-pay” business models that merge business and consumer functions, far more broad-based than Western models that are still segmented by sectoral regulations.
+During lockdown, Alibaba, Pinduoduo, and other marketplaces became a lifeline for many small- and micro-business owners, keeping them connected to millions of domestic and international consumers.
+Online logistics companies, such as JD.com, were also critical, as they ensured the delivery of essential goods throughout the lockdown.
+<P>
+Tencent’s WeChat, a social media platform, enabled people to stay in touch with their families and friends during the lockdown, while allowing some creative individuals to earn incomes from blogs and vlogs.
+Payments were sent via WeChat Pay.
+WeChat also enabled the government to relay critical messages to the public, and facilitated the coordination of complex projects, such as the delivery of critical medical equipment and supplies.
+Tencent’s Meeting app allowed schools to continue operating through online classrooms.
+<P>
+As lockdowns are eased, software installed in WeChat and Alipay, Alibaba’s online payment platform, is being used to monitor residents’ health and determine where they can go.
+This is possible because of these platforms’ reach: one or both of these apps is already installed on nearly every smartphone in China.
+<P>
+So, on top of the hierarchical traditional banking system, China has developed a flat, adaptive system connecting 800 million domestic smartphones in productive ways.
+This is a crucial element of China’s broader hybrid-circular savings-consumption-debt-income model, which is more resilient than the Western model of debt-financed consumption.
+Indeed, it is a major reason why China’s financial sector did not confront severe liquidity shortages that warranted a drastic central-bank response during the economy’s lockdown.
+<P>
+As China’s development model continues to evolve, it could become a fully circular system that fosters the creation of economic, social, and natural capital, rather than simply consuming it.
+But success will depend on the development of a more inclusive post-pandemic social contract – a process that could easily be disrupted by the relentless ideological and geopolitical rivalry with the US.
+<P>
+Yet the US has its own social contract to update, especially by bolstering inclusiveness and resilience.
+As with China, the key will be to strike the right balance between large corporations and small firms, individual privacy and big data, and short-term efficiency and long-term risk-management.
+<P>
+But, for that to happen, political grandstanding must give way to rational, informed, and inclusive exchanges.
+Judging by the US response to the COVID-19 crisis, that is far from guaranteed.

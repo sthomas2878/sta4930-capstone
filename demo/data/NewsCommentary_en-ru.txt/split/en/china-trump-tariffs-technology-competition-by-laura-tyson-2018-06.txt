@@ -1,0 +1,68 @@
+<HEADLINE>
+Avoiding the Sino-American Technology Trap
+<P>
+BERKELEY – With its ambitious Made in China 2025 strategy, China has made clear its objective to secure global economic leadership in advanced technology industries.
+This places it in direct competition with the United States – which currently leads in those industries – in what is emerging as an undeclared but intensifying cold war over technologies with both commercial and military applications.
+<P>
+With its investments in such dual-use technologies, China is seeking more than to compete commercially with the US; it is also seeking greater military and geopolitical power.
+And it has deployed a variety of methods – including weak intellectual property (IP) protections, technology transfers as a condition for joint ventures with Chinese partners, evasion of export controls, and regulatory harassment – to acquire such technologies from the US and other trading partners.
+<P>
+China’s intentions and practices have long been an irritant in Sino-American relations.
+The so-called Section 301 trade investigation launched by President Donald Trump’s administration last year charged that China’s trade and industrial policies, which provide advantages to specific technology industries, violate both US and international trade law.
+<P>
+The Section 301 report recommends curbing this behavior by imposing 25% tariffs on a number of Chinese exports – worth a total value of about $50 billion – that allegedly benefit from these policies.
+The Trump administration has just followed through on this recommendation, unleashing another round of tariffs on China – and prompting immediate retaliation.
+<P>
+Trump has cited national security concerns in order to justify his tariffs – including the hefty tariffs on steel and aluminum (automotive imports may be next) that he has imposed.
+But applying this rationale to America’s closest allies turns the national-security claim into a mere fig leaf for traditional protectionism for commercial objectives.
+<P>
+The Year Ahead 2019h4 { text-align: center;}Featuring commentaries by Joseph Stiglitz, Sri Mulyani Indrawati, Angus Deaton, Célestin Monga, Jean-Claude Juncker, and other leading thinkers.
+Now available for pre-order.Learn moreWhen it comes to technology and trade with China, there are legitimate national security concerns, which are all the more salient because technologies developed by US businesses for commercial purposes increasingly match the sophistication of those developed by the military in key areas like virtual reality, facial recognition, and drones.
+Yet tariffs are not the answer.
+In fact, even tariffs targeting only Chinese products that benefit from the government’s mercantilist practices are counterproductive, because they effectively tax the US companies they are supposed to defend.
+The reason lies in today’s complex global supply chains.Many of China’s exports targeted by the Trump administration’s tariffs are produced by “foreign-funded enterprises,” in China, and US and other non-Chinese companies are major investors.
+Moreover, such products – including 86% of US imports from China in computer and electronic products, 63% in electronic equipment and components, and 59% in nonelectrical machinery – usually embody high-value inputs or equipment produced by foreign (often US) companies outside China.This means that the value added to technology goods “produced” in China is considerably less than the value of those exports.
+It also means that US businesses operating in China are vital links and major beneficiaries of the very supply chains that will be disrupted by Trump’s tariffs.So if tariffs cannot counter China’s violations of US and international trade law, what can?
+A special report on semiconductors – essential to US national security and economic competitiveness – for President Barack’s Obama’s Council of Advisors on Science and Technology (PCAST) provides some answers.The report, written by a nonpartisan group of business and academic leaders (I was a member), proposed that the US work with its allies to enforce international law, push China to comply with its World Trade Organization obligations, and strengthen export controls and inward investment restrictions.
+The European Union, Japan, South Korea, and Taiwan all have prominent roles in the global supply chain for semiconductors, and some have already tightened security on the flow of semiconductor IP to China and on the acquisition of semiconductor companies by Chinese investors.The PCAST report recommends that the US adopt similar tactics, calibrating export controls and inward investment limits according to China’s behavior.
+Proposed bipartisan legislation to expand the jurisdiction of the Committee on Foreign Investment in the US (which reviews mergers and acquisitions of domestic companies by foreign entities) to a broader range of investments – including Chinese venture capital and private-equity investments in US start-ups – is consistent with this recommendation.The PCAST report acknowledges that the US cannot stop China from pursuing industrial policies to build its advanced technology industries.
+After all, in the nineteenth century, many countries, including the US, used such policies to build their industrial bases.
+And, as the threat of recent (now reversed) US sanctions on the Chinese telecoms firm ZTE confirms, China cannot depend on a reliable supply of critical inputs from the US; it must depend on its own capabilities.Moreover, as the PCAST report notes, Chinese subsidies for science and technology industries are not zero-sum; they can benefit US consumers through innovation, lower costs, and lower prices.
+The challenge for US policy is to ensure that Chinese policies comply with WTO rules, including the requirement to notify other countries of subsidy programs and the prohibition of zero-sum tactics like IP theft, forced technology transfer, and discriminatory procurement practices.Finally, the PCAST report underscores the need for the US to respond to China’s challenge in semiconductors with an industrial policy of its own.
+Such a policy should include lower business taxes, more funding for basic research and development, higher investment in talent development, and federal support for a series of “moonshot” programs in areas like biodefense systems, threat detection networks, and a distributed electric grid.
+Ultimately, whether the US semiconductor industry withstands the challenge that China poses will depend not on America’s success in curbing China’s progress, but rather on its ability to sustain and support innovation by US companies.History is replete with examples of the Thucydides Trap, tensions between rising and established powers escalate into military conflict.
+Rather than allow intensifying techo-nationalism to push China and the US into this trap – with devastating consequences for the entire world – we need smart and calibrated policies for trade with China in high-technology products.
+<P>
+When it comes to technology and trade with China, there are legitimate national security concerns, which are all the more salient because technologies developed by US businesses for commercial purposes increasingly match the sophistication of those developed by the military in key areas like virtual reality, facial recognition, and drones.
+Yet tariffs are not the answer.
+In fact, even tariffs targeting only Chinese products that benefit from the government’s mercantilist practices are counterproductive, because they effectively tax the US companies they are supposed to defend.
+The reason lies in today’s complex global supply chains.
+<P>
+Many of China’s exports targeted by the Trump administration’s tariffs are produced by “foreign-funded enterprises,” in China, and US and other non-Chinese companies are major investors.
+Moreover, such products – including 86% of US imports from China in computer and electronic products, 63% in electronic equipment and components, and 59% in nonelectrical machinery – usually embody high-value inputs or equipment produced by foreign (often US) companies outside China.
+<P>
+This means that the value added to technology goods “produced” in China is considerably less than the value of those exports.
+It also means that US businesses operating in China are vital links and major beneficiaries of the very supply chains that will be disrupted by Trump’s tariffs.
+<P>
+So if tariffs cannot counter China’s violations of US and international trade law, what can?
+A special report on semiconductors – essential to US national security and economic competitiveness – for President Barack’s Obama’s Council of Advisors on Science and Technology (PCAST) provides some answers.
+<P>
+The report, written by a nonpartisan group of business and academic leaders (I was a member), proposed that the US work with its allies to enforce international law, push China to comply with its World Trade Organization obligations, and strengthen export controls and inward investment restrictions.
+The European Union, Japan, South Korea, and Taiwan all have prominent roles in the global supply chain for semiconductors, and some have already tightened security on the flow of semiconductor IP to China and on the acquisition of semiconductor companies by Chinese investors.
+<P>
+The PCAST report recommends that the US adopt similar tactics, calibrating export controls and inward investment limits according to China’s behavior.
+Proposed bipartisan legislation to expand the jurisdiction of the Committee on Foreign Investment in the US (which reviews mergers and acquisitions of domestic companies by foreign entities) to a broader range of investments – including Chinese venture capital and private-equity investments in US start-ups – is consistent with this recommendation.
+<P>
+The PCAST report acknowledges that the US cannot stop China from pursuing industrial policies to build its advanced technology industries.
+After all, in the nineteenth century, many countries, including the US, used such policies to build their industrial bases.
+And, as the threat of recent (now reversed) US sanctions on the Chinese telecoms firm ZTE confirms, China cannot depend on a reliable supply of critical inputs from the US; it must depend on its own capabilities.
+<P>
+Moreover, as the PCAST report notes, Chinese subsidies for science and technology industries are not zero-sum; they can benefit US consumers through innovation, lower costs, and lower prices.
+The challenge for US policy is to ensure that Chinese policies comply with WTO rules, including the requirement to notify other countries of subsidy programs and the prohibition of zero-sum tactics like IP theft, forced technology transfer, and discriminatory procurement practices.
+<P>
+Finally, the PCAST report underscores the need for the US to respond to China’s challenge in semiconductors with an industrial policy of its own.
+Such a policy should include lower business taxes, more funding for basic research and development, higher investment in talent development, and federal support for a series of “moonshot” programs in areas like biodefense systems, threat detection networks, and a distributed electric grid.
+Ultimately, whether the US semiconductor industry withstands the challenge that China poses will depend not on America’s success in curbing China’s progress, but rather on its ability to sustain and support innovation by US companies.
+<P>
+History is replete with examples of the Thucydides Trap, tensions between rising and established powers escalate into military conflict.
+Rather than allow intensifying techo-nationalism to push China and the US into this trap – with devastating consequences for the entire world – we need smart and calibrated policies for trade with China in high-technology products.

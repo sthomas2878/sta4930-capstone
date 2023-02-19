@@ -1,0 +1,56 @@
+<HEADLINE>
+What’s Behind Latin America’s Jobless Recovery?
+<P>
+MONTEVIDEO – After a sharp and continuous slowdown that began in mid-2013 and ended in the last quarter of 2015, economic growth in most Latin American countries has now officially returned.
+But a corresponding decline in unemployment is nowhere in sight.
+In fact, unemployment in much of the region has continued climbing during the last seven quarters.
+Why?
+<P>
+Latin America’s jobless recovery is of great concern for many, and with good reason.
+During the first seven quarters of the previous recovery, which began in 2004, average unemployment decreased by 0.2 percentage points for every percentage point of GDP growth.
+This time, unemployment over the last seven quarters has actually increased by 0.3 percentage points for each percentage point of growth, resulting in a total rise in unemployment of almost one percentage point since the end of 2015.
+<P>
+One common explanation for the apparent decoupling of growth and employment is that technological advances, such as automation and robotics, have resulted in capital substituting for labor across the region’s economies.
+As innovations in production have reduced the number of workers needed to generate a unit of output, the traditional correlation between output and employment has been severed.
+<P>
+It seems like a compelling theory.
+But in Latin America’s case, it is also likely the wrong one.
+We do not need the rise of robots to account for the growth-unemployment paradox.
+<P>
+If the technology hypothesis were true, we would expect to see an increase in productivity-enhancing capital expenditures during the current period relative to prior recoveries.
+But the data show the opposite.
+During the first seven quarters of this rally, the region’s average investment decreased by 2.2% for each percentage point of growth; in the past, average investment increased by almost 2.3%.
+<P>
+But if labor-substituting technology does not explain Latin America’s current jobless growth cycle, what does?
+Two possible answers stand out.
+<P>
+First, the current recovery is much slower and shallower than previous ones, which means that jobs are not being created as fast and at sufficiently high numbers to keep up with labor market entrants.
+In fact, average annual growth in Latin America was a meager 1.4% during the first seven quarters of the current recovery, compared to 5.4% following the previous one.
+The problem with this explanation is that it doesn’t account for the lack of investment.
+<P>
+A second possible answer is what I call the “capacity glut” hypothesis.
+In the decade before mid-2013, Latin America grew at a breakneck pace – about twice its historic average.
+Until the boom’s end, consensus forecasts predicted that the bonanza would continue.
+At the time, this seemed a reasonable assumption.
+China’s voracious appetite for commodities dramatically altered perceptions about the global economy’s trajectory.
+But, to paraphrase Mafalda, the iconic protagonist of the Argentine artist Quino’s signature cartoon series, the future is no longer what it was.
+<P>
+In 2013, amid waning Chinese demand, commodity prices fell.
+Since then, average economic growth in Latin America has slowed to about a quarter of previously projected rates.
+Firms that predicted a continuing boom – and therefore invested in expanding production and increased their workforce – were left with excess capacity relative to actual demand.
+As aggregate demand conditions improved, firms responded by using this excess capacity, reducing capital expenditures and slowing their pace of hiring.
+<P>
+To illustrate this dynamic, consider how the region’s soybean exporters have managed production in recent years.
+During the expansion period, producers thrived, owing in part to record-high prices.
+So did firms that provide complementary services – harvesting, transport, and storage, for example – which made investment decisions expecting high prices to persist.
+<P>
+Once soybean prices began to fall, however, the entire industry found itself with excess capacity, as well as high debt burdens, reflecting previous investments in labor and capital.
+When prices eventually recovered and soybean production picked up once more, firms could accommodate the surge in demand by making use of existing excess capacity.
+No additional hiring or investment in machinery was necessary.
+<P>
+If the “capacity glut” hypothesis bears out for Latin America as a whole, the region can breathe easy, because the higher unemployment and lower levels of investment accompanying the current recovery would be finite trends.
+As economic activity in the region picks up, and the slack in capacity utilization begins to shrink, the relationship between growth, unemployment, and investment should return to normal.
+<P>
+Of course, if the hypothesis does not hold, then we may have to revisit the possibility that technology-induced structural change is leading Latin America, if not the world, into uncharted territory, and perhaps even to a “new normal” of jobless growth.
+Or we may have to search for a different explanation altogether.
+But it is too soon to rule out a simpler and more plausible hypothesis.

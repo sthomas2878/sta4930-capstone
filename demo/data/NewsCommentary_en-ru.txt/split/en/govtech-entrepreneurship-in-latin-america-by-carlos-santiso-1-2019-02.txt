@@ -1,0 +1,55 @@
+<HEADLINE>
+The GovTech Latin America Needs
+<P>
+BOGOTÁ – As the digital revolution continues to hurtle forward in the advanced economies, Latin America is increasingly at risk of being left behind.
+To avoid this outcome, the region must find ways to seize the opportunities that new technologies create for business, research, and – perhaps most urgent – public administration.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+It is no accident that the world’s most competitive economies – from the United States and the United Kingdom to South Korea, Singapore, and Israel – have the most modern, innovative, and efficient systems of public administration.
+Recognizing the profound far-reaching benefits they have reaped from their strong institutional arrangements, these countries have worked actively to ensure the continued upgrading of their public sectors.
+<P>
+In particular, these countries have promoted entrepreneurship in so-called govtech, nurturing innovations by small and medium-size enterprises (SMEs) and tech-based, data-driven startups that are focused on boosting the efficiency of public administration.
+These entrepreneurs create scalable business models that respond to the demand for the development and application of new technologies and innovative solutions for the public sector.
+<P>
+Such creative entrepreneurship is also emerging in Latin American countries, with an emerging wave of govtech startups offering cutting-edge solutions to longstanding public-administration challenges.
+In Argentina, for example, there is MuniDigital, a platform focused on improving the management of services at the municipal level by collecting up-to-date and accessible data, as well as Appterix and Signatura, which offer blockchain-based solutions for public management and digital signatures, respectively.
+In Colombia, Datasketch leverages big and open data to create public value.
+<P>
+Mexico boasts Visor Urbano, which focuses on the fast and efficient processing of permits for business licenses and construction permits.
+Brazil has Linte, whose software supports document automation and workflow control, and Facilit, which develops data dashboards to monitor performance management.
+And, outside Latin America, Spain has Green Urban Data, a producer of software that facilitates decision-making on climate action.
+<P>
+Such innovative entrepreneurship is exactly what Latin American public administration needs.
+Yet the market for public-administration technology solutions – which generates more than $400 billion per year globally – remains dominated by large tech companies.
+If governments take steps to open up that market up to govtech startups, they would boost diversity and competition, spurring increased innovation with a stronger focus on the end users.
+<P>
+To this end, Latin America’s governments should take action on at least three fronts.
+First, they should adapt regulatory policies, in order to facilitate public procurement of technology from govtech start-ups.
+Such regulatory frameworks should lower entry barriers for startups, simplify sales cycles, and promote public demand for innovation.
+Colombia and Spain,for example, are testing innovation criteria to public-procurement processes, in order to help government bodies find alternative solutions to the challenges they face.
+Several governments, like those in Chile, Colombia, Portugal, and Uruguay, have created innovation labs within government entities to incubate and accelerate disruptive solutions in sandbox-like arrangements.
+<P>
+Governments should also implement legal, regulatory, fiscal, and contractual measures that help startups to survive the “valley of death” – that is, the early stages of a start-up’s development, when the new products or services are not yet bringing in revenues from customers or users.
+For example, Chile recently enacted a law establishing a firm 30-day payment deadline for SMEs.
+This will benefit start-ups most of all.
+<P>
+Finally, governments should cultivate, at least initially, the emerging market for public-administration technology solutions through investment funds and seed capital for govtech start-ups, especially in the early stages of their development.
+Venture capital funds – mostly US-based – tend to be suspicious of companies for which the public sector is a client, because they tend to take longer to hit their competitive stride.
+These companies need investors with longer time horizons of, say, 3-5 years.
+<P>
+That is where the public sector comes in.
+In order to close initial investment gaps, some countries have already created public funds to foster and finance govtech start-ups focused on improving public administration.
+Companies and programs that have been financed include the United Kingdom’s GovTech Catalyst Fund and Israel’s Digital Innovation for Public Sector Challenges program.
+Other countries – such as Canada and France – are working to develop similar programs and deploy catalytic funds to close the initial investment gap.
+<P>
+Just as the fintech industry has transformed the financial sector, the emerging govtech industry can create a new paradigm for the efficient provision of public services.
+As they pursue a much-needed digital transformation, Latin American governments should work actively to develop and nurture a new generation of public-private partnerships with govtech startups producing the relevant and cost-effective solutions needed to make governments leaner and smarter.
+If they get this right, the region can look forward to a more prosperous, efficient, and competitive future.

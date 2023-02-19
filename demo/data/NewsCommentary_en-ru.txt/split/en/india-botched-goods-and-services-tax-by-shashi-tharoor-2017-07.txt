@@ -1,0 +1,58 @@
+<HEADLINE>
+India’s Botched Tax Reform
+<P>
+NEW DELHI – On July 1, an eerie silence descended over many of India’s teeming marketplaces.
+At midnight, a new national goods and services tax (GST) had come into effect at a glittering ceremony in India’s parliament.
+It was hailed as the biggest tax reform since independence, but business owners were so uncertain about how it would affect the prices of their wares that many shuttered their businesses for the day.
+<P>
+Many (including me) have long advocated a national GST, which has the potential to unify India’s national market, making the economy more transparent, digitized, and efficient.
+Its introduction was delayed for a decade by the now-ruling Bharatiya Janata Party (BJP), including Prime Minister Narendra Modi, who, as Chief Minister of Gujarat, argued that it would encroach on states’ rights and rob them of revenue.
+<P>
+But, proving the aphorism that where you stand depends on where you sit, Modi changed his tune when he moved to Delhi.
+And now, over three years after taking power, he has implemented the GST that he once derided.
+But the version that he has implemented falls well short of advocates’ hopes.
+Indeed, much like Modi’s disastrous demonetization gamble just eight months ago – which entailed the abrupt withdrawal of all large-denomination banknotes from circulation – his GST has proved both messy and disruptive.
+<P>
+In fact, the GST Modi has introduced seems to replace the world’s most complex and fragmented system of indirect taxation with the world’s most complex unified indirect tax.
+Instead of one GST rate, as in most countries, India will have four: 5%, 12%, 18%, and 28%, plus a 0% rate for items like food grains, cereal, and fresh milk, and a luxury tax (43% and more) on expensive cars and other high-end consumer items.
+There is also a quirky 3% rate on gold imports.
+(India imports more gold than any other country in the world, and the government seems anxious not to tax it so heavily that smuggling increases.)
+<P>
+With seven separate rates, the GST has certainly not fulfilled the goal of “one nation, one tax.”
+Some 1,200 items and almost every imaginable service were slotted into a rate category, though not before being shifted around in response to popular opposition (for example, to high taxes on previously exempted goods used by the disabled).
+And the results are murky, to say the least.
+Milk products, for example, may fit into four different tax rates; generic flour will not be taxed, but branded flour will be taxed at 5%.
+Not surprisingly, the result has been widespread confusion about which tax rates apply to what.
+<P>
+Complicating matters further, there are significant omissions, because the Modi government yielded to the states’ demands to retain some taxation powers on high-yielding sources of revenue.
+Notable exclusions are real estate and alcohol – notorious sources of black money, the eradication of which is supposed to be a major objective of the Modi government – as well as petroleum products (currently taxed at about 45%), electricity, and communications tariffs.
+<P>
+It is undoubtedly a relief that the farrago of central and state sales taxes that had previously bedeviled Indian businesses will be replaced by the GST.
+But the GST retains enough complexity that it is likely to lead to evasion, arbitrage, and even bribery of tax officials.
+<P>
+The GST is also likely to trigger a flood of litigation about which tax brackets companies fall into and how their goods should be categorized.
+Even before the GST was rolled out, the Indian judicial system was choked by indirect tax appeals, tying down some $23 billion in tax revenue.
+With its judicial system already heavily backlogged – a staggering 24 million cases are pending – more tax-related lawsuits are the last thing India needs.
+<P>
+But the problems with India’s new GST don’t end there.
+The regime also requires firms to file at least three online tax returns per month (37 per year) into the GST Network (GSTN), the GST’s formidable technical backbone.
+About eight million taxable businesses have now registered with GSTN.
+But most small business owners, as well as traders and shopkeepers, are not computer-enabled, and now have to scramble to acquire the needed computer access and literacy.
+<P>
+Moreover, the haste with which the GST was rolled out raises legitimate concerns about whether the software has been tested adequately and will be able to handle the intended 3-5 billion invoices per month.
+Reports of repeated system crashes have already started circulating.
+<P>
+The confusing tax rates, excessive documentation, and anxiety over the implementation of compliance requirements has prompted fears that the GST will damage people’s livelihoods.
+The self-employed informal sector, a major contributor to India’s economy, was already badly hurt by demonetization just a few months ago.
+GST could turn out to be a second body blow, this time potentially fatal.
+<P>
+The GST could have been a success story for India.
+But that would have required the central government to work with states to develop a rational and simpler system, with the rate capped, as the opposition Congress party demanded, at 18%, rather than the ultra-high 28% the BJP chose (for as many as 30% of all items, no less).
+<P>
+It also would have required Modi’s government to test the GSTN more thoroughly before implementing it, and to give small and medium-size businesses, multi-state businesses, and consumers time to familiarize themselves with the task of filing three returns each month.
+Tax inspectors should have been required to undergo more thorough training, spending time with businesses and filing test returns themselves.
+And petroleum products, electricity, and real estate should have been included in the GST scheme.
+<P>
+Finance Minister Arun Jaitley hailed both demonetization and the GST as “tectonic policy initiatives” that would lead to “growth, competitiveness, indirect tax simplification, and greater transparency.”
+Those are laudable objectives.
+But, as will likely become apparent within this fiscal year, disorderly and rushed measures are not the way to achieve them.

@@ -1,0 +1,53 @@
+<HEADLINE>
+Probing the Productivity Paradox
+<P>
+WASHINGTON, DC – Over the last decade or so, productivity growth has slowed considerably in most major developed economies, even as impressive advances have been made in areas like computing, mobile telephony, and robotics.
+All of these advances ostensibly should have boosted productivity; and yet, in the United States, a world leader in technological innovation, business-sector labor productivity growth in 2004-2014 averaged less than half the rate of the previous decade.
+What is going on?
+<P>
+One theory that has gained a lot of traction lately is that the so-called productivity paradox does not actually exist.
+Productivity growth only seems to be dropping, the logic goes, because the statistics we use to measure it fail to capture fully recent gains, especially those from new and higher-quality information and communication technology (ICT).
+If prices do not reflect quality improvements in the new products, price deflators are overestimated, and real output is underestimated.
+<P>
+Moreover, the skeptics point out, standard measures of productivity are based on GDP, which, by definition, includes only output produced.
+Consumer surplus – which is growing fast, as Internet-based services like Google search and Facebook generate substantial utility to consumers, at a market price of close to zero – is ignored.
+<P>
+There is some logic to this argument.
+Indeed, a recent review of research on productivity by the Brookings Institution and the Chumir Foundation confirmed that gains from new technologies are underestimated, owing to measurement issues relating to both product quality and consumer surplus.
+<P>
+But these two types of mismeasurement, the report continues, explain only a relatively small share of the slowdown in economic gains.
+Furthermore, these lapses have existed for a long time, and they do not seem to have increased substantially in recent years.
+The conclusion is clear: the productivity-growth slowdown is real.
+<P>
+Perhaps, then, we must look at the other component of the paradox: technological innovation.
+Many have argued that the real issue is that recent technological innovations have been less consequential than their predecessors.
+New ICT technologies, the “techno-pessimists” claim, simply do not bring the kind of economy-wide benefits that were brought by, say, the internal combustion engine and electrification.
+“Techno-optimists,” for their part, believe that ICT advances do have the potential to drive rapid productivity growth; their benefits are merely subject to lags and come in waves.
+<P>
+What do the numbers say?
+Firm-level data show that productivity growth has held up relatively well for firms that are at the technological frontier.
+It is the less technologically advanced firms, which are often smaller, that have experienced the major growth slowdowns.
+This suggests that the problem may not be the technology itself, but rather its slow diffusion.
+<P>
+There is also a macroeconomic element to the decline in productivity growth, rooted in deficient aggregate demand.
+According to former US Treasury Secretary Larry Summers, when the desired level of investment is below the desired level of savings despite a nominal interest rate of zero, chronically deficient demand constrains GDP and productivity growth, producing so-called “secular stagnation.”
+<P>
+But, of course, demand- and supply-side arguments are inextricably linked.
+And, indeed, techno-pessimist expectations, which can lower expected profits, may be discouraging investment.
+Meanwhile, excessive income concentration at the top – a situation that inadequate technological diffusion may exacerbate – contributes to excess savings.
+<P>
+Any strategy to address the problems underpinning low productivity growth – from inadequate technological diffusion to income inequality – must address skill constraints and mismatches affecting the labor market’s ability to adjust.
+As it stands, workers, particularly from lower income groups, are slow to respond to demand for new higher-level skills, owing to lags in education and training, labor-market rigidities, and perhaps also geographical factors.
+These factors, together with rent capture and winner-take-all markets, can entrench inequality and blunt markets’ competitiveness.
+<P>
+Spurring investment is also important.
+In most advanced economies and many emerging economies, investment rates fell sharply in the wake of the 2008 global financial crisis, and have still not returned to pre-crisis levels.
+But innovation is often embedded in capital and needs new investment to spread across economies.
+<P>
+Fortunately, world leaders seem to recognize some of the imperatives they face.
+At the recent G20 summit in Hangzhou, China, world leaders emphasized the need to boost investment and accelerate structural reforms to enhance productivity and lift potential growth.
+One hopes that this is the first step toward an integrated approach that addresses the forces impeding technology diffusion, undermining competitiveness, and exacerbating inequality.
+<P>
+We cannot know how new technologies will affect the world economy in the long term.
+But we know one thing: the productivity paradox is real, and it is contributing to rising inequality in many societies.
+It is time to address it.

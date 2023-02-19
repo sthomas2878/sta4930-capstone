@@ -1,0 +1,76 @@
+<HEADLINE>
+Risky Advice
+<P>
+BRIGHTON – Why do we seem to be witnessing an increasing number of nasty technological surprises?
+Indeed, this year’s Fukushima nuclear disaster in Japan and last year’s BP oil spill in the Gulf of Mexico have taken their place alongside older problems, such as ozone depletion.
+We believe that the way in which scientific advice is developed and communicated lies at the heart of the question.
+<P>
+Science is increasingly used to support what are essentially public-policy decisions, particularly concerning new and complex technologies like genetically modified (GM) foods, novel chemicals, and contending energy infrastructures.
+Decisions about options and how to implement them are difficult, owing to uncertainties over hazards, benefits, and potential side effects.
+Doubts surround not just likelihoods, but extend to the outcomes themselves, and what they might mean.
+Powerful economic interests are often at stake, raising the pressures even more.
+<P>
+Too often, expert opinion is thought most useful to policymakers when presented as a single “definitive” interpretation.
+As a result, experts typically understate uncertainty.
+And, to the extent that they acknowledge uncertainty, they tend to reduce unknowns to measurable “risk.”
+<P>
+Yet risk is just one – relatively tractable – aspect of uncertainty.
+Beyond familiar notions of risk lie deeper predicaments of ambiguity and ignorance.
+<P>
+Such insights are not new, but they are often neglected in policymaking.
+They can be traced back to the economist Frank Knight’s 1921 book Risk, Uncertainty, and Profit.
+Knight recognized that a significant distinction should be drawn between outcomes whose probabilities are well characterized (“risks”) and those where this is not possible (“uncertainties”).
+<P>
+Examples of risk arise when individuals or groups are confident in their accumulated knowledge or experience.
+This is the case with many established consumer products, routine transport safety, or the incidence of familiar diseases.
+<P>
+Where we face uncertainty, though, we are confident in our knowledge of possible outcomes, but not of their likelihood – owing either to difficulties in prediction or to lack of information.
+And yet scientific advisers face strong temptations and pressures to treat every uncertainty as a risk.
+<P>
+Unfortunately, there are two further and even more problematic aspects of uncertainty.
+These arise where we are unsure not just about how likely different outcomes are, but also about which outcomes are relevant.
+What options should be considered?
+What might these mean given differing views and interests?
+How should we classify and prioritize costs and benefits?
+<P>
+Examples of such ambiguity arise in fields as diverse as nuclear power, GM food, and the Iraq War.
+Each is definitely happening (so “probability” is not the problem), but what do they mean?
+Do they leave the world better or worse?
+In what senses?
+What are the alternatives, if any?
+<P>
+Different experts, studies, and organizations adopt contrasting but often equally legitimate and scientifically-founded perspectives on these questions.
+To try to enforce a single definitive interpretation is deeply misleading, and thus unhelpful – and potentially dangerous – in policymaking.
+Indeed, there can be no guarantee under ambiguity that even the best scientific analysis will lead to a definitive policy answer.
+Consequently, fully “science-based decisions” are not just difficult to achieve; they are a contradiction in terms.
+<P>
+The final, most intractable aspect of incomplete knowledge is ignorance.
+Here, our understanding of both likelihoods and the possibilities themselves is problematic.
+<P>
+Of course, no one can reliably foresee the unpredictable, but we can learn from past mistakes.
+One example is the belated recognition that seemingly inert and benign halogenated hydrocarbons were interfering with the ozone layer.
+Another is the slowness to acknowledge the possibility of novel transmission mechanisms for spongiform encephalopathies (“mad cow disease”).
+<P>
+In their early stages, these sources of harm were not formally recognized, even as possibilities.
+Instead, they were “early warnings” offered by dissenting voices.
+Policy recommendations that miss such warnings court over-confidence and error.
+<P>
+The key question is how to move from the narrow focus on risk toward broader and deeper understandings of incomplete knowledge – and thus to better scientific policy advice.
+<P>
+One high-stakes – and thus particularly politicized – context for expert policy advice is the setting of financial interest rates.
+In the United Kingdom, the Bank of England’s Monetary Policy Committee describes its expert advisory process as a “two-way dialogue” – with a priority placed on public accountability.
+Great care is taken by officials to inform the Committee not just of the results of formal analysis by the sponsoring bodies, but also of complex real-world conditions and perspectives.
+Reports detail contrasting recommendations by individual members and explain reasons for differences.
+Why is this kind of thing not normal in scientific advising?
+<P>
+When faced with immeasurable uncertainties, it is much more common for a scientific committee to spend hours negotiating a single interpretation of the risks, even when faced with a range of contending but equally well-founded analyses and judgments, often from different (but equally scientific) fields and disciplines.
+As we know from the work of Thomas Kuhn and other philosophers of science, dominant paradigms do not always turn out to be the most accurate.
+Knowledge is constantly evolving, and it thrives on skepticism and diversity.
+<P>
+Experience with standard-setting for toxic substances, and policy processes concerning the safety of various GM and energy technologies, shows that it would often be more accurate and useful to accept divergent expert interpretations, and focus instead on documenting the reasons underlying disagreement.
+Concrete policy decisions could still be made – possibly more efficiently.
+Moreover, the decision’s relationship with the available science would be clearer, and the inherently political dimensions more transparent.
+<P>
+Instead of seeking definitive global judgments about the risks of particular choices, it is wiser to consider the assumptions behind such advice – since these are central in determining the conditions under which the advice is relevant.
+Above all, there is a constant need for humility about “science-based decisions.”
+<P>

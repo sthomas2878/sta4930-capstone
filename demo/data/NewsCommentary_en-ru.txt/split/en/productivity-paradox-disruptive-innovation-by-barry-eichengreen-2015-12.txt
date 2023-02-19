@@ -1,0 +1,51 @@
+<HEADLINE>
+Today’s Productivity Paradox
+<P>
+NEW YORK – Recent trends in productivity growth make it hard to be optimistic about the future.
+In 2014, the global growth of total factor productivity, or TFP, which measures the combined productivity of capital and labor, was essentially zero for the third consecutive year.
+This was down from 1% in 1996-2006 and 0.5% in the crisis years of 2007-2012.
+And, by every indication, 2015 has been no less dismal.
+In the US, revised data released at the beginning of December show productivity up only 0.6% year on year in the third quarter.
+<P>
+If the underlying rate of TFP growth has in fact fallen from its historical norm of 1.5% per year to near zero in countries like the United States, then the living standards of today’s young adults will rise much more slowly than those of their parents.
+Any increase will depend entirely on improvements in education and training, which are absent from the data, and from investment in equipment and structures, which is depressed relative to historical levels.
+<P>
+Economists such as Robert Gordon of Northwestern University argue that this slump in productivity growth reflects the stagnation of technology.
+Gordon argues that all of the epochal advances, from running water and electricity to the internal combustion and jet engines, have been made.
+The positive effect of instant messaging and video gaming on productivity and living standards pales in comparison.
+<P>
+This conclusion will strike many people – especially those of us who live on the fringes of Silicon Valley – as implausible.
+We see radical technological advances in robotics, artificial intelligence, biotechnology, and materials design going on all around us.
+<P>
+One view, popular among economic historians, is that it takes time for the productivity-enhancing effects of new technologies to show up.
+Indeed, when radical innovations are first rolled out, their immediate effect is to reduce, not raise, productivity.
+Electricity, the new technology studied by the eminent Stanford University economic historian Paul David, is a classic case in point.
+<P>
+As David explains, before electric motors were installed in factories, machines were arranged around centralized steam engines, to which they were connected by belts and pulleys.
+Self-standing electrical motors allowed machines, the workers operating them, and their activities all to be reorganized in more efficient ways.
+<P>
+But this reorganization took time.
+Meanwhile, established modes of production were “disrupted,” in twenty-first-century business-school parlance, causing productivity to fall.
+But this slump in productivity was actually a harbinger of better times.
+<P>
+Another prominent economist, Harvard’s Lawrence Summers, has objected that this story is incompatible with a second recent trend, namely declining employment of men aged 25-54.
+If productivity has fallen temporarily because everyone is hard at work at the twenty-first-century equivalent of reorganizing the factory floor, then the employment rate should be going up, not down, as firms continue to operate their old “steam-powered machinery” at the same time they are adding new “electrical capacity.”
+Employment of prime-age males should be rising, not falling.
+<P>
+But this will be true only if new twenty-first-century technologies require significant amounts of labor to develop and install, compared to the jobs they disrupt and eliminate.
+This is not obviously the case.
+<P>
+My favorite example is electronic medical records (my wife is a doctor), which have tremendous potential to enhance the efficiency of health-care delivery in the US.
+Even today, most information on patient care is transmitted between clinics and hospitals, and between generalists and specialists, by fax and telephone.
+A less efficient system is hard to imagine – other, that is, than attempting to coordinate patient care in the traditional way while undertaking the transition to electronic record keeping.
+New systems are being adopted and serially abandoned as their deficiencies are discovered.
+Different medical clinics and hospitals are installing systems that are incompatible and unable to communicate with one another.
+<P>
+In the long run, doctors will look back on all of this as healthy experimentation.
+For the moment, however, they are tearing their hair out.
+They are delivering less patient care as they spend more time hunched over their laptops, inputting data that add nothing, currently, to their productivity.
+<P>
+Moreover, the number of people working at developing electronic medical systems is small relative to the number of medical professionals suffering the effects of this imperfect transitional technology.
+Indeed, the number of such people may be even smaller than that of medical professionals who have dropped out of the field in frustration over being unable to deliver care at the standard they were trained to provide.
+<P>
+I am happy to refer those seeking further particulars to one such former practicing physician: my wife.

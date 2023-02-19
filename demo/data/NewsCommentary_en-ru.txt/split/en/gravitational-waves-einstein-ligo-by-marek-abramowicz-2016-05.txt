@@ -1,0 +1,50 @@
+<HEADLINE>
+Finishing What Einstein Started
+<P>
+GÖTEBORG – A long time ago in a galaxy far, far away, two enormous black holes – each with a mass roughly 30 times larger than that of the sun – collided and merged, sending out a short, powerful blast of gravitational waves.
+The energy from the blast spread across the universe at the speed of light, diluting its power into the immense vastness of space.
+<P>
+More than a billion years later, the energy from the blast reached Earth as an incredibly weak signal, lasting for about a tenth of a second.
+On September 14, 2015, scientists from the Laser Interferometer Gravitational-Wave Observatory (LIGO) in the United States detected the gravitational wave as gentle chirp on their instruments – providing the first confirmation of a prediction made by Albert Einstein 100 years earlier.
+<P>
+LIGO, which operates under the direction of the US National Science Foundation, uses two advanced interferometers.
+These high-tech wonders, located at opposite ends of the country and put into operation shortly before the successful measurement of the gravitational wave (known as GW150914), operate using the principle of light interference.
+They detect the strains in space/time geometry induced by gravitational waves by measuring alterations in the arm-lengths of the interferometers.
+In the case of GW150914, the length changed by less than one-thousandth of the size of a proton.
+<P>
+The challenges in detecting such a small change were enormous, given the various types of noise that could influence the measurement and destroy its integrity.
+LIGO dug the tiny, short chirp out from the omnipresent chaos of space by comparing the measurements of the two interferometers.
+The noise at one is not correlated with the noise at the other – unlike the signal from a passing gravitational wave, which would occur first at one location and then the other.
+The signal from GW150914 coincided with such impressive accuracy that any possibility of it being a spurious chance event was excluded.
+<P>
+Whether such a feat should win a Nobel Prize is beyond doubt; the only question is who should receive it.
+LIGO’s success is not only a triumph of technology; it is also – and more importantly – the result of a century of work by theorists on mathematical descriptions of gravitational waves – not just Einstein, but also Leopold Infeld, Joshua Goldberg, Richard Feynman, Felix Pirani, Ivor Robinson, Hermann Bondi, and André Lichnerowicz.
+<P>
+LIGO’s discovery, specifically, was made possible by the Polish physicist Andrzej Trautman, who provided gravitational wave theory with sharp mathematical rigor, and the French physicist Thibault Damour, who developed practical mathematical tools for using observed wave fronts to decipher information about the waves’ sources.
+Their work established the solid mathematical base of the theory that made the success of LIGO possible.
+<P>
+Einstein’s Theory of General Relativity is mankind’s greatest intellectual achievement.
+And yet nobody has received a Nobel Prize for developing its mathematical foundations.
+The prize has been given to experimental physicists who made observational confirmations of some of the theory’s important predictions.
+And it has been given to quantum physicists for purely mathematical works.
+But it has never been awarded to a pure theorist researching relativity.
+<P>
+I hope that this year the Nobel committee will recognize the importance of theoretical work and give the prize in the correct proportions: to a single experimental physicist, for developing the technological concepts behind LIGO, and to two pure theoreticians: Trautman and Damour.
+<P>
+There is so much more for LIGO – and its European counterpart, called Virgo – to discover.
+Measurements of gravitational waves will not only provide insights into phenomena that until now were completely out of reach, such as the Big Bang, black hole horizons, and the interiors of neutron stars; they could also revolutionize our understanding of the universe.
+<P>
+The Theory of General Relativity describes large-scale physical phenomena: humans, rocks, planets, stars, galaxies, the entire universe.
+Quantum Mechanics, on the other hand, is equally successful at describing the universe at the smallest scales: quarks, electrons, atoms, and molecules.
+<P>
+And yet these fundamental theories of modern physics are incompatible, and perhaps even contradictory.
+No quantum-gravity theory has been found so far, despite laborious efforts.
+Several provisional quantum-gravity models of particular phenomena involving black holes have been proposed; but, because none has been tested experimentally, no one knows whether these models are correct (indeed, some lead to acute paradoxes).
+<P>
+Many physicists are convinced that these problems indicate a missing ingredient in our understanding of the fundamental principles of nature.
+In desperation, often mixed with arrogance, some are suggesting completely crazy quantum-gravity concepts, including bizarre alternatives for standard Einsteinian black holes – with no experimental foundation.
+<P>
+As a result, for many physicists today, the genuinely fundamental problem of reconciling the two theories has degenerated into pompous, meaningless humbug.
+<P>
+What is needed are solid experimental facts to sweep away all this nonsense and perhaps even inspire a solution to the dilemma.
+And that is exactly what future measurements of gravitational waves could provide.

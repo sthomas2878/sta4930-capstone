@@ -1,0 +1,51 @@
+<HEADLINE>
+Why Are Commodity Prices Falling?
+<P>
+CAMBRIDGE – Oil prices have plummeted 40% since June – good news for oil-importing countries, but bad news for Russia, Venezuela, Nigeria, and other oil exporters.
+Some attribute the price drop to the US shale-energy boom.
+Others cite OPEC’s failure to agree on supply restrictions.
+<P>
+But that is not the whole story.
+The price of iron ore is down, too.
+So are gold, silver, and platinum prices.
+And the same is true of sugar, cotton, and soybean prices.
+In fact, most dollar commodity prices have fallen since the first half of the year.
+Though a host of sector-specific factors affect the price of each commodity, the fact that the downswing is so broad – as is often the case with big price swings – suggests that macroeconomic factors are at work.
+<P>
+So, what macroeconomic factors could be driving down commodity prices?
+Perhaps it is deflation.
+But, though inflation is very low, and even negative in a few countries, something more must be going on, because commodity prices are falling relative to the overall price level.
+In other words, real commodity prices are falling.
+<P>
+The most common explanation is the global economic slowdown, which has diminished demand for energy, minerals, and agricultural products.
+Indeed, growth has slowed and GDP forecasts have been revised downward since mid-year in most countries.
+<P>
+But the United States is a major exception.
+The American expansion seems increasingly well established, with estimated annual growth exceeding 4% over the last two quarters.
+And yet it is particularly in the US that commodity prices have been falling.
+The Economist’s euro-denominated Commodity Price Index, for example, has actually risen over the last year; it is only the Index in terms of dollars – which is what gets all of the attention – that is down.
+<P>
+That brings us to monetary policy, the importance of which as a determinant of commodity prices is often forgotten.
+Monetary tightening is widely anticipated in the US, with the Federal Reserve having ended quantitative easing in October and likely to raise short-term interest rates sometime in the coming year.
+<P>
+This recalls a familiar historical pattern.
+Falling real (inflation-adjusted) interest rates in the 1970s, 2002-2004, and 2007-2008 were accompanied by rising real commodity prices; sharp increases in US real interest rates in the 1980s sent dollar commodity prices tumbling.
+<P>
+There is something intuitive about the idea that when the Fed “prints money,” the money flows into commodities, among other places, and so bids their prices up – and thus that prices fall when interest rates rise.
+But, what, exactly, is the causal mechanism?
+<P>
+In fact, there are four channels through which the real interest rate affects real commodity prices (aside from whatever effect it has via the level of economic activity).
+First, high interest rates reduce the price of storable commodities by increasing the incentive for extraction today rather than tomorrow, thereby boosting the pace at which oil is pumped, gold is mined, or forests are logged.
+Second, high rates also decrease firms’ desire to carry inventories (think of oil held in tanks).
+<P>
+Third, portfolio managers respond to a rise in interest rates by shifting out of commodity contracts (which are now an “asset class”) and into treasury bills.
+Finally, high interest rates strengthen the domestic currency, thereby reducing the price of internationally traded commodities in domestic terms (even if the price has not fallen in foreign-currency terms).
+<P>
+US interest rates did not really rise in 2014, so most of these mechanisms are not yet directly at work.
+But speculators are thinking ahead and shifting out of commodities today in anticipation of future higher interest rates in 2015; the result has been to bring next year’s price decrease forward to today.
+<P>
+The fourth of the channels, the exchange rate, has already been functioning.
+The prospect of US monetary tightening coincides with moves by the European Central Bank and the Bank of Japan toward enhanced monetary stimulus.
+The result has been an appreciation of the dollar against the euro and the yen.
+The euro is down 8% against the dollar since the first half of the year and the yen is down 14%.
+That explains how so many commodity prices can be down in terms of dollars and up in terms of other currencies.

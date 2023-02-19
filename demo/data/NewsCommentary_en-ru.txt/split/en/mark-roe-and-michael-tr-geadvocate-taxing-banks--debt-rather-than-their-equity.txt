@@ -1,0 +1,59 @@
+<HEADLINE>
+Another Way to Make Finance Safer
+<P>
+CAMBRIDGE – Since the financial crisis erupted in 2008, policymakers have sought to make the world’s banks safer, mainly via detailed instructions: use more capital, avoid specified risky activities, provide more transparency, and punish reckless behavior.
+But this approach to financial regulation, while laudable, requires officials to make, or shape, banks’ most important strategic decisions: capital levels, liability structure, and the scope of their business activities.
+And, while regulators often target bank executives’ incentives, they often leave intact the organization’s incentives to take risks – but then command them, via regulation, not to take those risks.
+<P>
+This command-and-control approach has shortcomings: regulators may mistake which activities to regulate and how; banks resist; and bankers and their advisers – some of the smartest businesspeople around – innovate to free themselves from many of the imposed constraints.
+High-quality economic talent could be better used elsewhere.
+<P>
+Worse, many command-and-control efforts have become too complex to implement well.
+In the United States, the Dodd-Frank Act’s famous “Volcker rule,” which seeks to limit banks’ proprietary trading, has swollen to hundreds of pages, and its introduction has been repeatedly delayed.
+<P>
+There is a simpler, mostly untried approach to financial regulation.
+Instead of relying primarily on command-and-control rules, regulators should focus on what motivates the organization as a whole and align those incentives with financial safety.
+Doing so could both change banks for the better and increase the effectiveness of ongoing command-and-control regulation.
+<P>
+The recent massive fine of $13 billion imposed by the US government on JPMorgan Chase fits this mode of financial regulation.
+But, because such fines are erratic and difficult for banks and banking executives to predict, their impact on long-term organizational incentives is unclear.
+<P>
+The best opportunity to align overall organizational incentives is to be found in tax rules.
+Yet reforms in this area are not only untried; they are not even under discussion.
+That needs to change.
+<P>
+Like other corporations, financial institutions are taxed on their income, with expenses – including the firm’s financing costs, like interest payments to its creditors – deducted from revenues.
+Interest on debt lightens the tax burden and increases profits; returns to equity do not.
+As a result, safe equity becomes more expensive than riskier debt financing.
+<P>
+In the mainstream understanding of finance, a firm’s debt level is primarily a trade-off between the benefits of the tax deduction for interest paid and the increased probability of bankruptcy or operational degradation.
+So taxing banks on their debt, not their equity, would fundamentally alter organizational incentives.
+<P>
+Two basic options are available.
+The most straightforward is to eliminate the deductibility of interest from a bank’s tax bill.
+The bank, its shareholders, directors, and executives would no longer have tax reasons to prefer debt over equity, because the bank’s total pre-interest-expense income would be taxed (at a lower rate than the tax on profit), without benefiting from deducting interest expenses on its debt.
+<P>
+However, this tax structure’s impact would vary over time, as interest rates rise and fall.
+With today’s interest rates at historical lows, the impact of adjusting the deduction for interest on debt would be small.
+When interest rates return to more normal levels, the impact would be greater.
+<P>
+Alternatively, the authorities could levy an excise tax on bank debt in exchange for repealing the corporate tax.
+The tax should be calibrated so that banks would pay the same amount, on average, before and after the change.
+The tax rate would be low.
+A bank financed with 8% equity should be indifferent to paying an excise tax of 0.5% of its debt or paying today’s corporate tax.
+<P>
+But, though the total tax paid would be the same, the incentives for the bank, its board, and its executives to make the bank and the financial system safer would be strengthened.
+The tax would make debt more expensive, because it would be taxed, while making equity cheaper, because profits would not be taxed.
+Banks would want to use more safe equity and less risky debt.
+<P>
+Tax reform would not solve everything needed to ensure systemic financial safety.
+Bank debt receives other subsidies, such as from the implicit too-big-to-fail guarantee.
+Nor would the size of the tax be tied to the damage that major bank failures do to the rest of the economy.
+And there would be implementation and avoidance issues, as is true of all taxes.
+Nevertheless, the tax would better align financial firms’ incentives with the goal of minimizing the risk of systemic crises.
+Moreover, because the shift to taxing debt instead of equity would reduce the corporate tax for financial firms, policymakers could hope that it would not generate the resistance that the post-crisis command-and-control rules have.
+<P>
+Regulatory styles have diminishing returns.
+Much of what can destroy a bank is not headstrong recklessness, but ordinary day-to-day failures.
+Command-and-control regulation, which can generate more pushback by its targets as the regulatory commands get stronger, is by now well developed for banks and finance.
+Addressing banks’ and financial firms’ organizational incentives should play a more prominent role in the financial-policy mix than it does today.

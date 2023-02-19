@@ -1,0 +1,58 @@
+<HEADLINE>
+The Brussels Effect Comes for Big Tech
+<P>
+NEW YORK – The European Commission has just unveiled landmark regulations for the digital economy, setting yet another global standard.
+The Digital Services Act (DSA) and the Digital Markets Act (DMA), designed to curtail the power of Big Tech, will have a far-reaching impact on the business practices of Apple, Amazon, Facebook, Google, and other primarily US-based giants.
+The European Union is expected to designate these companies as the “gatekeepers” of the Internet, justifying a targeted regulatory push to rein in their outsize market power.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The new regulations will complement the EU’s antitrust authority, which has repeatedly been used to extract billions of dollars in fines from US tech giants and to mandate changes to their business practices.
+Under the DMA, for example, practices such as self-preferencing will be “blacklisted” – presumed illegal without the need for the EU to bring an antitrust challenge to demonstrate harm to competition.
+<P>
+The DSA, for its part, will impose more onerous obligations on Big Tech companies to disclose their algorithms or remove illegal or harmful online content, including hate speech and disinformation.
+Together, these measures will assert significant new regulatory control over the digital economy both in Europe and beyond.
+<P>
+The stakes for the Big Tech giants are particularly high because EU regulations often have a global impact – a phenomenon known as the “Brussels effect.”
+Because the EU is one of the world’s largest consumer markets, most multinational corporations accept its terms of business as the price of admission.
+To avoid the cost of complying with multiple regulatory regimes around the world, these companies often extend EU rules to their operations globally.
+That is why so many large non-EU companies follow the EU’s General Data Protection Regulation (GDPR) across all of their operations.
+<P>
+Unsurprisingly, Big Tech leaders and other critics of EU regulation are pushing back, accusing the EU of regulatory overreach and protectionist motives.
+But the EU is not unfairly infringing on successful US tech companies’ commercial freedom, nor is it undermining US regulators’ autonomy.
+Even if EU regulations do prove costly for big US companies, many smaller US firms will benefit from them.
+For years, these smaller US players have had to rely on the EU – rather than on their own government – to challenge the giants in their industry.
+<P>
+Likewise, thanks to their global reach, EU regulations have brought significant benefits to American Internet users, many of whom welcome enhanced privacy protections and less rampant online hate speech.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The United States’ own inaction has paved the way for the EU’s rise as a regulatory superpower.
+Embracing deregulation and techno-libertarianism as its approach to governing the digital economy, the US has long watched from the sidelines as the EU sets regulations for the global marketplace.
+By abandoning international engagement and regulatory cooperation, the Trump administration reinforced this regulatory isolationism – effectively, albeit inadvertently, trading globalization for Europeanization.
+<P>
+But the winds in the US may finally be changing.
+Legislators and enforcement agencies are starting to wake up to Big Tech’s excesses.
+Earlier this year, the House Judiciary Committee’s report on competition in digital markets issued a powerful call to action and outlined a new vision for revitalizing US antitrust laws.
+<P>
+Moreover, the US Department of Justice is now challenging Google’s monopolistic practices (after tolerating them for the past decade), and the Federal Trade Commission – along with 46 of the 50 states, Washington, DC, and Guam – is suing Facebook as an illegal monopoly.
+It is unclear whether these steps mark the beginning of a progressive antitrust revolution in the US, or whether they will stall in a divided Congress or before conservative-leaning courts that are accustomed to a more limited role for antitrust law.
+<P>
+In any case, the US would do well to abandon its hands-off approach to technology companies.
+It needs to stop being a rule-taker and start shoring up its own regulations.
+A federal privacy law would be an ideal place to start, considering that the idea already has support from leading US companies such as Microsoft, Facebook, and Apple.
+<P>
+A more robust privacy law would help the US reinstate data flows with the EU, which were halted by the European Court of Justice, owing to the lack of privacy protections in the US.
+It would also allow the US to address its concerns about Chinese government surveillance of American citizens.
+The Trump administration’s haphazard effort to ban the Chinese-owned social-media platform TikTok from the US market is not a substitute for regulations to protect Americans’ personal data.
+<P>
+The case for renewed US regulatory leadership is even more compelling in view of China’s increasing global influence over tech-governance standards.
+Chinese companies, all with varying ties to the ruling Communist Party, have supplied critical technological infrastructure to countries around the world.
+China has also supplied artificial intelligence-driven surveillance technology to numerous governments that are eager to pursue illiberal ends.
+<P>
+Given China’s authoritarian vision of the Internet, the US would gain much from working closely with the EU on regulating Big Tech and the digital economy.
+Their disagreements when it comes to antitrust, privacy, and taxation, are manageable, and should be addressed as part of a broader effort to reset transatlantic relations.
+<P>
+Instead of fighting the EU’s legitimate attempts to defend its vision of the digital economy, President-elect Joe Biden’s administration should explore how it can work with the EU to advance a shared vision.
+After all, citizens on both sides of the Atlantic want a human-centric Internet that is grounded in the values of liberal democracy and individual autonomy.

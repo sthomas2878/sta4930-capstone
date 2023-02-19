@@ -1,0 +1,52 @@
+<HEADLINE>
+Reforming or Deforming the Fed?
+<P>
+BERKELEY – The silly season that is a presidential election campaign in the United States has taken a particularly absurd turn as the candidates offer their proposals for monetary-policy reform.
+This is not the first time, of course, that presidential candidates have proposed changing how US monetary policy is conducted.
+But the radical, sometimes harebrained, nature of the current crop of schemes is exceptional by historical standards.
+<P>
+Why such proposals appeal to the candidates and potential voters is no mystery.
+Since the financial crisis, the US Federal Reserve has taken a series of unprecedented steps, cutting interest rates to zero, massively expanding its balance sheet, and bailing out troubled financial institutions.
+Those measures were intended to treat the economy’s ills, but their very association with those ills encourages the belief that they are somehow the underlying cause.
+<P>
+Likewise, the Fed’s participation in rescues of troubled financial institutions is criticized for favoring Wall Street over Main Street.
+And, separately, the Fed is slammed for creating inequality, first by keeping interest rates low, which hurts those on fixed incomes, and now by raising rates, which keeps a lid on wage growth.
+<P>
+Clearly, the Fed just can’t win – and for reasons that have nothing to do with current monetary policy.
+Two of the most deep-seated features of American political culture – with roots extending back to the eighteenth century – are suspicion of powerful government and distrust of concentrated financial power.
+The Fed is the single institution that best encapsulates those fears.
+<P>
+Thus, we have proposals by Republican candidates Ted Cruz, Rand Paul, and Mike Huckabee to require the Fed to maintain a fixed dollar price of gold.
+To call these actual proposals is a bit generous.
+The proponents do not specify whether the Fed would be obliged to provide gold at this price to all comers, as before 1933, or only to foreign governments, as between 1945 and 1971.
+Nor do they explain whether that obligation could be suspended in an emergency, as in those earlier eras.
+<P>
+More fundamentally, they fail to explain what is special about gold aside from its talismanic quality.
+They do not clarify why the Fed should focus on stabilizing the price of this particular metal, rather than on the price of a representative basket of goods and services.
+Indeed, if the critics focused on the latter, they could give their proposal a name.
+They could call it “inflation targeting.”
+<P>
+Proposals for a “Taylor rule” are more serious, if only because such a rule, first described by Stanford University economist John Taylor, links the policy interest rate to just such a representative basket of goods and services, namely the consumer price index, while adjusting for the rate of unemployment.
+But the rule is merely a formula purporting to explain why the Fed set its policy interest rate as it did in the 1980s and early 1990s, the period Taylor considered in his original study.
+<P>
+Indeed, a Taylor rule is a guide for desirable policy only if one thinks that the policies followed in that period were desirable, or, more to the point, that similar policies will be desirable in the future.
+It provides no direct way to address other concerns, such as financial stability, which most people will agree should, in light of recent events, figure more prominently in monetary-policy decisions.
+<P>
+Some of the reform proposals by Bernie Sanders, a contender for the Democratic nomination, also deserve to be taken seriously.
+The fact that three of the nine directors of the Fed’s regional reserve banks are private bankers is an anachronism that creates the appearance, and potentially the reality, of a conflict of interest.
+Sanders’ suggestion that the US president, rather than their own directors, nominate the regional reserve banks’ presidents is also worthy of consideration.
+<P>
+It is important to recall that the peculiar arrangements prevailing today were designed to overcome the financial sector’s opposition to the establishment of a central bank when the Federal Reserve Act was passed in 1913.
+This, clearly, is no longer the problem; on the contrary, the financial sector today is one of the Fed’s last staunch defenders.
+<P>
+Other proposals by Sanders are more dubious.
+For example, to release full transcripts six months after Fed meetings would guarantee a scripted debate.
+Meaningful discussion would simply move to the anteroom.
+The result, perversely, would be a decline in policy transparency.
+<P>
+Above all, Sanders’ recent statements betray a disturbing inclination to interfere in the conduct of monetary policy.
+The Fed, he argues, should not have raised interest rates in December in response to “phantom inflation.”
+He may be right.
+But it is not the role of the US president to tell the Fed how to manage its policy rate.
+The independence of the central bank is an essential cornerstone of effective monetary policy.
+Even – or especially – an aspiring president should be sensitive to this fact.

@@ -1,0 +1,58 @@
+<HEADLINE>
+The Limits of Carbon Pricing
+<P>
+LONDON – In 2004, German households installing rooftop solar energy systems received a guaranteed price of €0.57 ($0.68) per kilowatt hour (kWh) generated.
+In Mexico last week, a large-scale energy auction was won at a bid price of $0.0177 per kWh.
+Even comparing similar-size projects, solar costs have fallen 90% in ten years.
+Improvements in photovoltaic technology make further reductions inevitable: within five years, we will see a price of $0.01 per kWh in favorable locations.
+<P>
+This stunning achievement has been driven by huge private-sector investment and cutting-edge innovation.
+But it would never have occurred without strong public-policy support.
+<P>
+Publicly sponsored research ensured basic scientific breakthroughs, and large initial subsidies, in Germany and then in other countries, enabled the industry to achieve critical scale.
+Solar now costs less than coal in many countries, because initial public subsidization unleashed a self-reinforcing cycle of increasing scale, continuous learning, and declining cost.
+<P>
+All economists who accept the scientific reality of climate change support policy interventions to address “externalities” – costs that polluters impose on others but do not pay.
+But many free-market economists are inherently suspicious of direct support for specific investments, instead harking after the pure and simple market solution – a carbon price set either by taxation or by competition for permits within an emissions trading scheme.
+Carbon pricing, it is said, avoids the dangers of picking winners, unleashes a market-driven search for the best technological answer, and ensures least-cost emissions reduction.
+<P>
+But explicit carbon prices played almost no role in driving down the cost of solar power, or in achieving a similarly dramatic decline in the cost of wind power and batteries.
+In the real world, direct investment support can sometimes be more effective than theoretically appealing carbon prices.
+<P>
+Low-carbon electricity – whether from renewables or nuclear – entails very high upfront capital investments but near-zero marginal operating costs.
+As a result, its economics are strongly influenced by the cost of capital (the required rate of return), which reflects assessments of risk.
+Direct support for initial deployment – with guaranteed prices for electricity delivered – reduces risk and thus lowers required returns.
+<P>
+Carbon pricing alone, by contrast, does not.
+With carbon prices as the sole policy instrument, risk assessments of renewables investments would reflect highly uncertain forecasts of fossil fuel and marginal electricity prices far into the future.
+As a result, the cost of capital would be higher, and the pace of deployment and cost reduction far slower.
+<P>
+Fixed-price contracts for certain delivery are a more effective policy to stimulate renewables investment than carbon prices.
+Auctions for such contracts should remain a key feature of renewables markets, even now that the prices set at auctions often undercut the likely future cost of fossil-fuel-based power generation.
+<P>
+Straightforward regulation is also sometimes more effective than price-based instruments.
+The plummeting cost of LED light bulbs – also down more than 90% in the last ten years –reflects the effect of outright bans on inefficient incandescent bulbs, public procurement policies, and, in India, the public sector’s role as a bulk buyer and low-cost distributor.
+<P>
+In economic theory, household light bulb purchases reflect net present value calculations of lifetime bulb and electricity costs for alternative bulb types, which could be influenced by taxes on incandescent bulbs, or through carbon prices on electricity.
+But normal human beings, unlike economists, do not make such calculations.
+In the real world, direct regulation can drive technological investment and cost reduction better than price can.
+<P>
+As for the dangers of trying but failing to “pick winners,” we need to distinguish between what is uncertain and what is clear.
+True, we cannot know the precise mix of technologies and investments that will deliver a low-carbon economy at lowest cost.
+But we do know that there is no feasible pathway to low-carbon prosperity without rapid decarbonization of electricity, followed by electrification of as much of the economy as possible.
+<P>
+Policies that directly support low-carbon electricity generation are therefore clearly justified.
+So, too, is public research expenditure to support further progress in battery technology.
+<P>
+That said, carbon prices still have a vital role to play, and their importance will likely increase over time.
+In power generation, the objective is clear – lower carbon per kilowatt generated – and it is certain that some mix of a relatively small number of known technologies can solve the problem.
+<P>
+But in steel, cement, and plastics production, the routes to decarbonization are less clear, may differ between locations, and may involve complex combinations of different techniques.
+A significant and rising carbon price is therefore essential to unleash a market-driven search for optimal solutions.
+<P>
+Carbon prices are also essential because the same technological progress that is driving rapid reduction in the cost of renewables is also enabling dramatic declines in fossil-fuel production costs, particularly in the shale industry.
+In a world where energy prices may decline across the board, a significant carbon price is essential to ensure that the feasible path to a low-cost low-carbon future is not impeded by falling fossil-fuel prices.
+Higher prices for carbon-based energy would also usefully strengthen incentives for energy efficiency, reducing the danger of “rebound effects,” whereby falling energy costs increase energy consumption.
+<P>
+So price instruments are a vital part of the policy armory.
+But collapsing solar, wind, battery, and LED prices show that other instruments are also required, and in some cases more effective.

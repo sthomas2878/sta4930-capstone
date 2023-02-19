@@ -1,0 +1,73 @@
+<HEADLINE>
+What Next for Unconventional Monetary Policies?
+<P>
+SYDNEY – The Bank for International Settlements (BIS), the central bankers’ club in Basel, Switzerland, recently conducted an in-depth evaluation of the unconventional monetary policies that have become the norm in many countries since the 2008 financial crisis.
+It should come as no surprise that the resulting report, compiled by a committee of central bankers reviewing their own past performance, finds little to fault.
+That is fine; the financial system was saved, after all.
+But a more important question is whether, and to what extent, unconventional policies remain relevant in the post-crisis world.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Back in 2008, the primary task for policymakers was to prevent the financial sector from collapsing and stabilize the economy.
+Conventional policies proved insufficient, and it became clear that other measures were needed to address the financial meltdown directly.
+Chief among these was quantitative easing, in which the central bank buys up assets in order to inject liquidity into the financial system.
+<P>
+In November 2008, at the height of the crisis, the US Federal Reserve started purchasing securities in the then-frozen mortgage market.
+QE1, as it came to be known, was highly successful: mortgage lending soon resumed, supporting the crippled housing market, and many borrowers were able to refinance their loans at much lower interest rates.
+<P>
+The QE1 purchases might have been unusual, but they were not “unconventional.”
+Walter Bagehot, the storied editor of The Economist, pointed out over a century ago that it was the duty of central banks to prop up collapsing financial sectors.
+Central banks have been stepping in and leveraging their balance sheets in times of crisis ever since.
+When QE1 began, Lehman Brothers was bankrupt, the insurance giant AIG had been bailed out, and the money market had been given a government guarantee.
+Against that backdrop, QE1 was just another rescue measure among many throughout Western economic history.
+<P>
+The unanimous view is that QE1 and central banks’ other immediate measures were successful.
+But once the financial system had been saved, monetary policymakers started confronting an entirely different challenge.
+Despite near-zero interest rates, the post-crisis recovery was decidedly lackluster.
+<P>
+So, QE continued, but with a new operational objective: to give monetary policy more traction by lowering the long end of the yield curve.
+With this objective in mind, several central banks pushed interest rates into negative territory.
+And through “forward guidance” announcements that interest rates would be kept “low for long” – central bankers assured markets that the era of cheap funding would continue.
+<P>
+For all of the boldness of these initiatives, the results were disappointing.
+US bank lending fell after QE1 began, and didn’t recover its pre-crisis peak until more than three years later.
+In Europe and the United Kingdom, bank lending was even less responsive.
+Japan, the country with the longest experience of QE, remains mired in slow growth and below-target inflation to this day.
+<P>
+Negative interest rates often seemed to be aimed mainly at achieving a more competitive exchange rate, which might well have been criticized as a “beggar thy neighbor” policy.
+Forward guidance, meanwhile, just confused things: market participants became more focused on the next round of “guidance” than on the economy’s prospects, and often overreacted to the wording of the central bank’s latest pronouncement, as in the case of the 2013 “taper tantrum.”
+<P>
+Despite the mediocre performance of unconventional monetary policies throughout the recovery phase, the BIS report concludes that the benefits outweighed the adverse side effects.
+It goes on to argue that such policies should become a standard monetary-policy tool.
+The unconventional should become routine.
+<P>
+Yet that wouldn’t resolve the central conundrum of the post-crisis period.
+Why didn’t extremely loose monetary-policy conditions have more of an impact?
+The BIS report itself offers a clue when it argues that unconventional monetary policies would be more effective if accompanied by other policies, notably fiscal expansion.
+<P>
+During the post-2010 period, fiscal austerity prevailed around the world, which was completely out of balance with the super-expansionary monetary conditions.
+True, many governments pursued fiscal stimulus immediately following the 2008 crash, and these measures were endorsed by the G20 in London in 2009.
+But by 2010, the European periphery was in crisis and fears of rising public debt ushered in broad fiscal retrenchment.
+In the five years to 2015, the United States reduced its deficit by 5% of GDP.
+That alone is enough to explain why the recovery was so weak.
+<P>
+But it doesn’t explain why near-zero interest rates have had so little effect on private-sector investment.
+As the economist Paul Samuelson once reportedly quipped, if real (inflation-adjusted) interest rates were zero and expected to remain so, it would be profitable to flatten the Rocky Mountains just to reduce transportation costs.
+With borrowing costs so low for so long, why has there not been an explosion of profitable projects and investments?
+<P>
+A number of answers have been suggested, from Lawrence H. Summers’s contention that we are experiencing “secular stagnation,” to the argument that short-termism has short-circuited corporate managers’ decision-making.
+Perhaps US President Donald Trump’s trade war has contributed confidence-sapping uncertainty.
+Or maybe all of the best investment projects are in the non-market public sector, where deficit fears have prevented them from being realized.
+<P>
+Whatever the answer, it is doubtful that pushing harder on monetary policy – with lower (perhaps negative) interest rates and the full panoply of unconventional policies – would lead to much additional investment.
+Moreover, unconventional policies can distort financial prices, resulting in poor assessments, resource misallocations, and arbitrary reallocations of wealth.
+<P>
+In the short term, then, the BIS report’s oblique and subtle message should be heeded: the strenuous efforts of monetary policies over the past decade need to be supplemented by fiscal expansion, especially if the global economy is slowing.
+But in the longer term, we need a better understanding of why private-sector investment has lost its mojo.

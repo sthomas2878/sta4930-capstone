@@ -1,0 +1,56 @@
+<HEADLINE>
+Are Democrats Really Better for America’s Economy?
+<P>
+CAMBRIDGE – Hillary Clinton has repeatedly claimed in recent months that the US economy does much better when a Democrat is in the White House.
+Coming from the presumptive Democratic presidential nominee, that probably sounds like political spin.
+But the truth is that she is absolutely right.
+<P>
+The president, no doubt, is but one of many factors shaping the economy, and some presidents have certainly been luckier than others.
+But that doesn’t mean that Clinton’s claim is only “half true,” as asserted by some media fact-checkers (including the Pulitzer Prize-winning PolitiFact).
+The difference in economic performance under Democratic and Republican presidents is consistent and substantial, with the disparities clearly above the threshold for statistical significance.
+<P>
+Princeton University economists Alan Blinder and Mark Watson confirm this Democratic dividend in a recent study.
+Their starting point is the observation that in the post-World War II period (from Harry Truman to Barack Obama), annual GDP growth has averaged 4.3% during Democratic administrations, compared to 2.5% under Republicans.
+If one goes back further, to include Herbert Hoover and Franklin D. Roosevelt, the disparity is even larger.
+The results are similar even if one assigns responsibility for the first three months – or the first few quarters – of a president’s term to his predecessor.
+<P>
+But there is more.
+Over the 256 quarters in the 16 post-war presidential terms, the US economy was in recession for an average of 1.1 quarters during Democratic presidencies and 4.6 quarters during the Republican terms.
+The odds that such a large difference is the result of mere chance are no more than one in 100.
+<P>
+And the trend is not restricted to GDP.
+Since 1945, the unemployment rate fell by 0.8 percentage points under Democrats, on average, and rose by 1.1 percentage points under Republicans – a remarkable difference of 1.9 percentage points.
+<P>
+The structural budget deficit has also been smaller under Democratic presidents (1.5% of potential GDP) than when Republicans have been in office (2.2%), though this has not stopped Republicans from criticizing Democrats for excessive spending.
+Even returns on the S&P 500 have been substantially higher under Democrats – 8.4% versus 2.7%.
+(This differential is not as significant statistically, however, because equity prices are so volatile.)
+<P>
+The likelihood that luck alone could have produced such large and consistent differences in economic performance is extremely low – a point that can be illustrated even without fancy econometrics.
+Take the recession record.
+If the chances of a recession starting during a Democratic or a Republican president’s term were equal, the odds of four successive recessions beginning under Republicans would be 16 to one – the same as getting “heads” on four out of four coin-flips.
+That is not particularly likely, yet it is exactly what happened in the last 35 years.
+<P>
+If one were to go back ten business cycles assuming an equal chance of a recession starting under a Democratic or a Republican president, the odds become even longer.
+There is only a 100-to-one chance that nine out of the last ten recessions would have begun under Republican presidents.
+Yet they did, as confirmed by the NBER Business Cycle Dating Committee.
+<P>
+An even more startling fact emerges from a review of the last eight times an incumbent from one party was succeeded by a president from the other party.
+In the four transitions when a Republican took office, GDP growth slowed; in the other four transitions, when a Democrat moved in, the growth rate went up.
+That is as unlikely as getting heads on eight coin tosses in a row – a one-in-256 shot.
+<P>
+Democrats thus have not succeeded by luck alone.
+(In fact, Blinder and Watson also observe that the US economy performs better when Democrats control Congress or have appointed the Federal Reserve chair, though the main determinant remains the party of the president.)
+So what accounts for the partisan performance gap?
+<P>
+Blinder and Watson suggest that five factors – oil shocks, productivity growth, defense spending, foreign economic growth, and consumer confidence – may together explain 56% of the growth gap.
+But it is impossible to know the extent to which these factors were influenced by the US president’s policies.
+We know even less about the factors responsible for the other 44% of the performance gap.
+<P>
+In assessing Clinton’s statements on this topic, the fact-checkers make much of the finding by Blinder and Watson that, contrary to widespread assumptions, fiscal and monetary policies are not more “pro-growth” or expansionary under Democrats than under Republican presidents, and therefore cannot explain the performance differential.
+But presidents make many policy decisions – concerning energy, anti-trust, regulation, trade, labor, and foreign policy, to name a few – beyond how much fiscal and monetary stimulus to pursue.
+There is no way to test econometrically this myriad of policies.
+<P>
+It is this uncertainty that has driven the fact-checkers to rate Clinton’s statements as half-true.
+But she never attempted to pinpoint particular policies to explain the performance gap.
+All she said was that the US economy does better under Democratic presidents.
+That is 100% true.

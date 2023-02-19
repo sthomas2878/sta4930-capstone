@@ -1,0 +1,54 @@
+<HEADLINE>
+The Quantified Community
+<P>
+NEW YORK – I have written previously about the Quantified Self movement – individuals equipped with the tools (monitoring devices and software) needed to measure their own health and behavior (and, by doing so, to improve them).
+This movement is not quite sweeping the world, but it is making a difference.
+So-called Quantified Selfers are monitoring their blood pressure, sleep cycles, and body mass.
+At least some of them are using that information to improve their health and live more productively.
+<P>
+In the same way, I predict (and am trying to foster) the emergence of a Quantified Community movement, with communities measuring the state, health, and activities of their people and institutions, thereby improving them.
+Just consider: each town has its own schools, library, police, roads and bridges, businesses, and, of course, people.
+All of them potentially generate a lot of data, most of it uncollected and unanalyzed.
+That is about to change.
+<P>
+As with the Quantified Self, the tools for collecting and analyzing data about everything from public health to potholes in roads, real-estate prices, school attendance, and more are beginning to emerge.
+Indeed, many independent data-analysis software tools and Web sites provide data that can be filtered for local information and presented with useful visualizations.
+<P>
+Many of these tools are funded by the Sunlight Foundation (I sit on its board), the Knight Foundation, and CodeforAmerica (my niece Lauren Dyson works there).
+Others are available from Citymart.com, a marketplace for such tools (as well as more operational software and services).
+<P>
+Other services include SeeClickFix, a user-generated data tool that lets individuals collect information about infrastructure problems such as potholes, broken streetlights, and the like, and then monitor the repairs.
+Likewise, Zillow collects and publishes real-estate information.
+And contests like New York City’s BigApps competition encourage developers to create apps that use city data about everything from restaurant inspection results to school performance records.
+Quantified Selfers can contribute their own health and activity data.
+<P>
+As people and communities use such tools, more and better ones will be created, and developers will start mashing data together, enabling us to see, for example, the relationship between people’s exercise habits and local health statistics.
+Employers and insurers can also contribute anonymized data.
+The goal is to create competition – among communities and among developers of the tools – and thus to foster even better tools and more livable, productive communities.
+<P>
+This is not only an American phenomenon.
+Two weeks ago, at the Open Project Foundation in Moscow, I saw a startup called Antropolis, which provides a map of community development projects and data about them: who’s in charge, budgets, suppliers, and so forth.
+<P>
+Many institutions are unlikely to provide the necessary data at first.
+But the data do exist, and most of it could be made available if it were demanded vigorously enough.
+One institution capable of leading the way is local newspapers, many of which are searching for a new business model and a new source of unique content.
+They have the connections, the resources, and the respect to play a key role.
+<P>
+Indeed, I believe that local newspapers will often find that the Quantified Community offers them the business model that they need at a time when many advertisers are bypassing them for social marketing and running their own Web sites.
+Despite the pending demise of print journalism, local papers still generally reach more local citizens than any other single institution.
+They need a way to remain relevant; this could be it.
+<P>
+In addition to selling advertising around the data, local newspapers could charge institutions for specific data analyses, benchmarking studies, and the like.
+The more enterprising of them could license their analytical software to other newspapers that follow their lead in other communities.
+<P>
+Any local news organizations could collect and manage the data (using its own people and perhaps some of the third-party resources that I mentioned) and provide a central hub to manage and cross-reference the data.
+For example, which neighborhoods have the healthiest people?
+Which employers are hiring, and which are shedding workers?
+How does absenteeism correlate with health – and with health-club membership?
+<P>
+A news company could encourage contests within neighborhoods or with other communities to become healthier, fix more potholes, reduce the rate of traffic accidents, or curb drunk driving.
+Just as competition with other individuals is part of the Quantified Self movement, so competition with other communities will be part of the Quantified Community movement.
+<P>
+All of this is still at an early stage, but I believe that it is probably the best outcome for many local newspapers searching for a business model, not to mention for the many communities that could benefit from more self-awareness and the spur of scrutiny and competition.
+With luck, as some communities lead the way, others will learn from them.
+Someday, citizens will not just complain about local problems; they will have the data to prove their case – and to figure out how to fix those problems!

@@ -1,0 +1,62 @@
+<HEADLINE>
+From Good Intentions to Deep Decarbonization
+<P>
+NEW YORK – In the run-up to the United Nations Climate Change Conference (COP21) in Paris, more than 150 governments submitted plans to reduce carbon emissions by 2030.
+Many observers are asking whether these reductions are deep enough.
+But there is an even more important question: Will the chosen path to 2030 provide the basis for ending greenhouse-gas emissions later in the century?
+<P>
+According to the scientific consensus, climate stabilization requires full decarbonization of our energy systems and zero net greenhouse-gas emissions by around 2070.
+The G-7 has recognized that decarbonization – the only safe haven from disastrous climate change – is the ultimate goal this century.
+And many heads of state from the G-20 and other countries have publicly declared their intention to pursue this path.
+<P>
+Yet the countries at COP21 are not yet negotiating decarbonization.
+They are negotiating much more modest steps, to 2025 or 2030, called Intended Nationally Determined Contributions (INDCs).
+The United States’ INDC, for example, commits the US to reduce CO2 emissions by 26-28%, relative to a 2005 baseline, by 2025.
+<P>
+Though the fact that more than 150 INDCs have been submitted represents an important achievement of the international climate negotiations, most pundits are asking whether the sum of these commitments is enough to keep global warming below the agreed limit of 2º Celsius (3.6º Fahrenheit).
+They are debating, for example, whether the INDCs add up to a 25% or 30% reduction by 2030, and whether we need a 25%, 30%, or 40% reduction by then to be on track.
+<P>
+But the most important issue is whether countries will achieve their 2030 targets in a way that helps them to get to zero emissions by 2070 (full decarbonization).
+If they merely pursue measures aimed at reducing emissions in the short term, they risk locking their economies into high levels of emissions after 2030.
+The critical issue, in short, is not 2030, but what happens afterward.
+<P>
+There are reasons to worry.
+There are two paths to 2030.
+We might call the first path “deep decarbonization,” meaning steps to 2030 that prepare the way for much deeper steps after that.
+The second path could be called the way of “low-hanging fruit” – easy ways to reduce emissions modestly, quickly, and at relatively low cost.
+The first path might offer little low-hanging fruit; indeed, the low-hanging fruit can become a distraction or worse.
+<P>
+Here is the reason for worry.
+The simplest way to reduce emissions to 2030 is by converting coal-fired power plants to gas-fired power plants.
+The former emit about 1,000 grams of CO2 per kilowatt-hour; the latter emit around half of that.
+During the coming 15 years, it would not be hard to build new gas-fired plants to replace today’s coal plants.
+Another low-hanging fruit is great gains in the fuel efficiency of internal combustion engines, taking automobile mileage from, say, 35 miles per gallon in the US to 55 miles per gallon by 2025.
+<P>
+The problem is that gas-fired power plants and more efficient internal-combustion vehicles are not nearly enough to get to zero net emissions by 2070.
+We need to get to around 50 grams per kilowatt-hour by 2050, not 500 grams per kilowatt-hour.
+We need to get to zero-emission vehicles, not more efficient gas-burning vehicles, especially given that the number of vehicles worldwide could easily double by mid-century.
+<P>
+Deep decarbonization requires not natural gas and fuel-efficient vehicles, but zero-carbon electricity and electric vehicles charged on the zero-carbon electricity grid.
+This more profound transformation, unlike the low-hanging fruit eyed today by many politicians, offers the only path to climate safety (that is, staying below the 2ºC limit).
+By pursuing coal to gas, or more efficient gas-burning vehicles, we risk putting ourselves into a high-carbon trap.
+<P>
+<P>
+The figure above illustrates the conundrum.
+The low-hanging-fruit pathway (red) achieves a steep reduction by 2030.
+It probably does so at lower cost than the deep-decarbonization pathway (green), because the conversion to zero-carbon electricity (for example, wind and solar power) and to electric vehicles might be more costly than a simple patch-up of our current technologies.
+The problem is that the low-hanging-fruit pathway will achieve fewer reductions after 2030.
+It will lead into a dead end.
+Only the deep-decarbonization pathway gets the economy to the necessary stage of decarbonization by 2050 and to zero net emissions by 2070.
+<P>
+The allure of the short-term fix is very powerful, especially to politicians watching the election cycle.
+Yet it is a mirage.
+In order for policymakers to understand what’s really at stake in decarbonization, and therefore what they should do today to avoid dead-end gimmicks and facile solutions, all governments should prepare commitments and plans not only to 2030 but also at least to 2050.
+This is the main message of the Deep Decarbonization Pathways Project (DDPP), which has mobilized research teams in 16 of the largest greenhouse-gas emitters to prepare national Deep Decarbonization Pathways to mid-century.
+<P>
+The DDPP shows that deep decarbonization is technically feasible and affordable, and it has identified pathways to 2050 that avoid the traps and temptations of low-hanging fruit and put the major economies on track to full decarbonization by around 2070.
+The pathways all rely on three pillars: major advances in energy efficiency, using smart materials and smart (information-based) systems; zero-carbon electricity, drawing upon each country’s best options, such as wind, solar, geothermal, hydro, nuclear, and carbon capture and storage; and fuel-switching from internal combustion engines to electric vehicles and other shifts to electrification or advanced biofuels.
+<P>
+A key question for Paris, therefore, is not whether governments achieve 25% or 30% reductions by 2030, but how they intend to do it.
+For that, the Paris agreement should stipulate that every government will submit not only an INDC for 2030 but also a non-binding Deep Decarbonization Pathway to 2050.
+The US and China have already signaled their interest in this approach.
+In this way, the world can set a course toward decarbonization – and head off the climate catastrophe that awaits us if we don’t.

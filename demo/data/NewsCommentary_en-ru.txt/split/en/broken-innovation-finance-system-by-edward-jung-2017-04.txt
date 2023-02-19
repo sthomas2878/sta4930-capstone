@@ -1,0 +1,59 @@
+<HEADLINE>
+A Better Way from ‘R’ to ‘D’
+<P>
+BELLEVUE, WASHINGTON – When business leaders get together to talk about innovating their industries, they typically focus on initiatives like improving government funding for basic research, or building technology hubs and incubators.
+But a crucial element of “innovation” is often absent from these discussions: the final products.
+<P>
+That’s no oversight.
+On the contrary, the lack of product-focused discussion is symptomatic of a far more serious problem facing businesses of all sizes in nearly every industry.
+Simply put, product development takes a back seat in innovation strategy because the financial link between ideation and commercialization is broken.
+<P>
+For economies to prosper, good ideas need a nudge getting to market.
+Innovative products are, after all, what makes life healthier, more efficient, and more fun.
+But there’s ample evidence to suggest that development – the “D” in R&D – has not kept pace with the blistering speed of “R” – modern-day research.
+<P>
+Even the most robust economies have a surplus of ideas that never reach consumers.
+In the US, for example, just 5% of all active patents are ever licensed or commercialized.
+Most companies use less than a quarter of the inventions they own.
+Technology transfers from academia aren’t going so well, either.
+Although more than 75,000 patents have been issued to American universities since 1969, the vast majority of technology transfer offices – administrative units that manage a school’s intellectual-property output – are failing to generate enough revenue even to cover their operating costs.
+<P>
+If we want to reverse these trends and maximize innovation output, we need more mechanisms for funding the commercialization of smart ideas.
+<P>
+At the moment, venture capital-backed startups are the standard mechanism for moving from “R” to “D.”
+These companies are formed for the sole purpose of pushing good ideas through the development pipeline.
+And, given the stellar valuations of some startups, it’s easy to assume that a healthy ecosystem of savvy companies and venture capital funding is all that is needed to ensure innovation.
+<P>
+But most companies are simply unable to take good ideas to market, because they lack access to pools of capital earmarked for innovation.
+Small- and medium-size enterprises (SMEs) often struggle to secure financing to build R&D infrastructure.
+Multinational corporations use retained earnings to finance R&D, but because this approach can adversely affect a company’s stock valuation, even they tend to be conservative in pushing new ideas forward.
+<P>
+Compare that scenario with the way that multinationals finance infrastructure investments.
+Let’s say, for example, that DuPont wanted to build a new manufacturing facility.
+It could borrow money from a bank and repay it from resulting profits.
+But if DuPont needed capital to produce a new chemical in an existing plant, it couldn’t get a loan, because banks don’t know how to assess the risks of innovative products (in the chemical industry or any other).
+<P>
+Unless you’re a giant like Alphabet, Apple, or Tesla, you can’t justify the risk and expense of a blue-sky R&D program.
+These days even the biggest companies are more likely to acquire a new, pre-packaged technology than to develop it in-house.
+That’s one reason why mergers and acquisitions are increasingly common (and why some observers see M&As as the new R&D).
+<P>
+This situation isn’t ideal for investors, either.
+Consider the case of Sony’s PlayStation gaming console.
+Development of the PlayStation attracted considerable attention from investors in the 1990s.
+But the only way to back the project was to buy shares in the parent company—which encompassed music, film, camera, and television businesses as well.
+This sort of misalignment is just as inefficient for companies as it is for investors.
+And it’s not even an option for smaller companies; selling equity is hard when you’re an SME.
+<P>
+Clearly, current funding models stifle product-specific innovation and investment, and all but freeze out SMEs.
+The government officials with whom I speak are more concerned with maintaining the health of their countries’ SMEs than protecting multinational corporations, for good reason: SMEs everywhere account for an overwhelming share of employment and job creation.
+Yet they aren’t getting the financing opportunities they deserve.
+<P>
+To turn things around, businesses need financing vehicles tied to product development.
+One idea is debt-based funds offering bonds with more predictable returns based on revenue from new products.
+These funds could be structured to distribute risk among a variety of projects or sectors, which might make them more attractive to investors who avoid high-stakes venture financing.
+This kind of funding would also enable much closer alignment between investors and innovative projects.
+<P>
+Companies with proven track records, technical skills, experienced management teams, and established sales channels are sources of innovation that no country can afford to squander.
+The limitations of the current financing regime mean that countries are letting opportunity pass them by.
+Despite few ready avenues for product commercialization, the world’s companies, research institutes, and university and government laboratories together spend more than a trillion dollars on R&D annually.
+Without a new approach to product financing, most of what they discover will remain on the shelf.

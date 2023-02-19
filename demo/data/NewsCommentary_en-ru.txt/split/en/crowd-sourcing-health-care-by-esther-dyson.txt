@@ -1,0 +1,65 @@
+<HEADLINE>
+The Healthy Crowd
+<P>
+BERLIN – I recently attended the JP Morgan health-care conference, the Davos of the medical world.
+And, like the World Economic Forum’s annual gathering of business leaders, the JP Morgan conference is a Rorschach blot: you find in it what you are looking for.
+<P>
+Personally, I am interested in how health-care business models are changing – not in a smooth trend line, but one example at a time.
+The change has less to do with health-care “reform” than it does with improved access to information beyond the traditional sources of clinical trials and medical billing systems.
+Now we can find out more about each individual patient (and ultimately aggregate data), about the use and performance of drugs and treatments out in the market (not just during testing), and even about outcomes.
+<P>
+In search of this theme, I met with a variety of start-up companies on the fringes of the event.
+(The formal program was mostly publicly traded companies talking about their earnings outlooks, with one section reserved for privately held companies.)
+<P>
+First, there was Andrew Brandeis of SharePractice, a doctor who used to run a high-end medical service called CarePractice in San Francisco, but saw a need for doctors to share information about how they treat patients.
+The industry standard for such information, Epocrates, offers a mobile app with information about pretty much every drug on the market, but neglects other kinds of treatments.
+(Brandeis also asserts that there is too much advertiser influence; in fact, only Epocrates’ educational content and sponsor messages are driven by ads.
+Make of that what you will.)
+<P>
+Brandeis’s idea is crowd-sourced information: Doctors will record for one another what treatments they actually use.
+He showed me his own cellphone contact list; most of the people on it are other doctors.
+He shares with them already; SharePractice will make it easy.
+<P>
+But will they want to share this kind of information?
+Yes, says Brandeis, because they already do, via text, email, and phone: “It’s a cumbersome process, the data are totally unstructured, and doctors wind up repeating themselves, because searching through six months of text messages makes no sense.”
+<P>
+SharePractice simplifies the entire process.
+In the end, SharePractice will adopt more or less the same revenue model as Epocrates: freemium/subscription, perhaps institutional sales, and lead generation.
+What is different is the origin of the data.
+<P>
+Almost by coincidence, one of the next sessions at the conference was led by Athenahealth, announcing its planned acquisition of…Epocrates!
+“We don’t care about Epocrates’ revenues,” to paraphrase Athenahealth CEO Jonathan Bush.
+“We have 30% awareness among doctors; they have 90%.”
+In short, he sees Epocrates as a marketing/distribution channel for Athenahealth, and is not overly worried about pleasing advertisers.
+<P>
+In fact, the primary influence on both Epocrates and SharePractice most likely will be the institutions that pay for the medicines (and procedures): “Here is what other doctors suggest, and here is the subset whose costs will be at least partly covered by the patient’s insurance.”
+Ultimately, formularies (payer restrictions on which drugs they will cover, and how much), rather than advertisers, will control how the choices are displayed.
+<P>
+Finally, I met with another start-up, WiserTogether, whose idea is to offer treatment-choice information to users on a personalized basis.
+The two founders are former consultants to health institutions and, true to type, they used a broad survey of both patients and doctors (40,000-plus individuals) to generate their basic data set.
+<P>
+The WiserTogether service uses a unique interface/data-presentation model to provide personal advice to consumers of medical services, though it will be sold primarily to institutions and doctors.
+Consider it a clinician/patient communication tool.
+<P>
+While SharePractice focuses on day-to-day practice, WiserTogether’s tool is for patients considering whether to try surgery or radiation for cancer, for example, or physical therapy or drugs for back pain.
+With WiserTogether’s tool, they can get a sense of the choices made by others who share their preferences – for example, regarding effectiveness, speed, cost, side effects, or aversion to pain – and their satisfaction with the results.
+<P>
+WiserTogether updates its data over time, but it is still relying mostly on traditional survey techniques, though it is also monitoring what is happening in the field through volunteered claims data and data from medical records.
+The health-care industry is lurching slowly toward real-time, user-generated data.
+With greater data liquidity, it becomes easy to match health indicators (from both patient and doctor), patients’ preferences, appropriate treatments, and payer constraints.
+It’s all just data.
+<P>
+In the old days, we used to monitor traffic with road cameras and the occasional TV-news helicopter.
+Now we simply collect signals from the cellphones of millions of drivers around the world.
+We aren’t invading their privacy, because no one cares who they are – only where they are and how fast they are going.
+<P>
+It is the same in health care.
+Initially, we take formal surveys and run carefully monitored clinical trials; each patient in such a trial represents – more or less – thousands of others.
+And, indeed, such trials are a good predictive tool.
+<P>
+But someday health care will be more like highway traffic; we will be able to see it unfold in real time, and we will see how well people get to their goals by their chosen routes.
+Millions of people will be uploading daily statistics with tools that monitor not just activity, but also blood composition and – courtesy of the Japanese – chemicals in our urine.
+<P>
+Would you drive around in Manhattan, Moscow, or Mumbai without a real-time traffic map?
+Not anymore.
+Someday we will think of health interventions in the same way.

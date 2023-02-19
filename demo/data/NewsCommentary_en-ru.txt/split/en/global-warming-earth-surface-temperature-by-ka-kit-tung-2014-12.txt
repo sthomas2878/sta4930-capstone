@@ -1,0 +1,53 @@
+<HEADLINE>
+Where Has Global Warming Gone?
+<P>
+SEATTLE – For the last quarter of the twentieth century, the average temperature at the surface of the earth edged inexorably upward.
+Then, to the surprise even of scientists, it stopped.
+The concentration of carbon dioxide in the earth’s atmosphere continued to rise; indeed, it is higher today than it has been for centuries.
+And yet, for the last 15 years, according to the conventional way of measuring global warming, the planet does not seem to have become any hotter.
+<P>
+What explains this unexpected turn of events, and what does it mean for future climate policy?
+<P>
+The pause in the rise of surface temperatures is real.
+It can be observed in surveys of the surface of the sea and in satellite measurements of the troposphere.
+But the reason it has occurred is not that our greenhouse-gas emissions are no longer changing the earth’s climate; it is that surface temperature is a poor metric for human-induced warming.
+Indeed, what scientists have figured out is that, instead of warming the surface, the excess heat that is being generated has gone to the deeper oceans.
+<P>
+This calls into question some of the international strategies for combating climate change that are currently being negotiated, such as those aimed at preventing the global temperature at the earth’s surface from rising more than 2º Celsius above the pre-industrial average.
+<P>
+Scientists probably did not adequately convey to the public that their projections for future warming are based on models that account only for the so-called “forced response” in global mean surface temperatures – that is, the change caused by greenhouse-gas emissions.
+But what is observed at the surface includes unforced, or natural, variations, such as the El Niño and La Niña fluctuations from year to year, and the 60-70 year cycle from the fluctuations of the Great Ocean Conveyor Belt in the Atlantic.
+<P>
+In fact, this cycle is now thought to bury heat deep in the oceans periodically.
+And, because it existed even before humans put significant carbon into the atmosphere, it is likely natural.
+<P>
+Given the oceans’ massive heat-storage capacity, determining how much of the warming remains at the surface over the course of decades is a very difficult task.
+Though the challenge is beginning to be appreciated, current projections of the dreaded two-degree warming have yet to take into account variable ocean cycles.
+<P>
+To be sure, surface temperatures remain important.
+They are a better measure of the threats posed by climate change than heat sequestered underwater.
+But some of the threats that scientists (and economists) deduce from the surface temperature also reflect natural climate change, and thus cannot be mitigated through the reduction of CO2 emissions.
+<P>
+The total amount of heat contained in oceans responds to changes in emissions, and is therefore a better metric for measuring such responses.
+Indeed, it has continued to warm as expected, even as the surface temperature has stopped rising.
+<P>
+The oceans’ heat content is measured by a network of more than 3,000 free-drifting robotic floats spread out across the world’s waters, where they routinely dive 2,000 meters beneath the surface.
+The temperature they measure is transmitted to orbiting satellites and made available online to anyone in near-real time.
+For ease of interpretation, the oceans’ heat content can easily be converted to a mean temperature after dividing by a constant.
+In time, models could demonstrate how to relate this new global metric to emissions’ regional climate impact.
+<P>
+The intensive scientific search for an explanation for the pause in global warming at the earth’s surface has led to a better understanding of the complex functioning of the climate.
+It confirms the long-held theory that the earth has an energy budget that is affected by radiative perturbations at the top of the atmosphere, though partitioning that energy between the surface and the deeper oceans has been difficult.
+<P>
+Nobody knows how long the current pause will last.
+Nonetheless, at some point, the natural cycles will shift; the oceans will cease to absorb the bulk of the planet’s warming; and surface temperatures will begin to climb again.
+When they do, we can expect the increase to resume the rapid pace observed during the late twentieth century, when surface temperature rose by about 0.17 degrees Celsius every ten years.
+<P>
+In the meantime, whether the overall risk to our environment has been reduced by the pause remains an open question.
+Some argue that what went down will eventually come back up.
+The sloshing back and forth of warm and cold waters – El Niño and La Niña – in the shallow layer of the equatorial Pacific Ocean will continue to produce fluctuations in surface temperatures every year.
+Over longer periods, however, the risk that the heat currently stored in the deep ocean will resurface is remote.
+<P>
+One thing is clear.
+Monitoring surface temperatures does not give us an accurate enough representation of human-induced global warming.
+As long as we lack a clear understanding of the relationship between our cumulative greenhouse-gas emissions and the temperature of the earth, it will remain difficult to assess the potential for damage related to climate change caused by humans – or develop the right strategies to minimize it.

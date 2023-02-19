@@ -1,0 +1,53 @@
+<HEADLINE>
+Should Tech Companies Be More Tightly Regulated?
+<P>
+WASHINGTON, DC – In the wake of recent high-profile tech scares, such as a fatality involving an Uber self-driving car and Facebook’s alleged mishandling of users’ personal data, stricter regulation of the industry – along the lines of, say, the financial sector – has become the policy question du jour.
+Stock-market values for leading tech companies are down – or perhaps just becoming more volatile – in the light of such concerns.
+<P>
+Obviously, rules regarding motor vehicles need to be examined carefully.
+In the United States, this is generally a state-level decision, though the federal National Transportation Safety Board has a very good reputation for its investigations and often changes how we think about best practices.
+The NTSB is investigating the Uber crash and previously assessed a fatality involving a Tesla vehicle.
+<P>
+As for Facebook, press reports suggest that the company may have made some egregious mistakes.
+One hopes we will learn more about the details of its decision-making on data privacy when its chairman and CEO, Mark Zuckerberg, testifies before Congress, as he has agreed to do.
+<P>
+But responding with tighter regulation at the federal level seems premature, even for these specific activities – let alone for the broader tech sector.
+<P>
+Finance is regulated because of major potential spillover effects: bank failures can bring down the whole economy.
+That is why safety nets, such as deposit insurance, have been put in place.
+But the existence of deposit insurance creates room for abuse, in the form of excessive risk taking, because bank executives get the upside if things goes well, and any potential losses are imposed on the insurance fund.
+Preventing abuse and encouraging appropriate caution requires rules, and the US Federal Deposit Insurance Corporation is one of the world’s best examples of how to make these work.
+<P>
+The world of high technology – computer hardware, software, and digital services – is very different.
+There is plenty of competition for hardware.
+If one firm gets into trouble, it will not bring down the system.
+Of course, some policymakers like to favor “national champions” vis-à-vis international competitors; but this raises issues that are different from regulating behavior.
+<P>
+Amazon is a powerful and rising company, spanning multiple activities – now including grocery stores and the delivery of fresh food.
+But it has plenty of competitors in this area, and existing rules and regulations (such as those covering how food is handled) seem sufficient.
+<P>
+Other digital-based companies, such as Google and Apple, are very strong in specific activities.
+But they do not exhibit the kind of monopoly pricing behavior that triggers anti-trust action by the government.
+And it is not clear what other kind of regulation would be helpful to customers.
+<P>
+The European Union is considering more regulation of digital firms, and insisting on greater care for the handling of data may make sense.
+But the EU also substantially missed out on the round of digital entrepreneurship that began in the 1990s, and it is not generally at the forefront of this sector currently – so few people in the US are rushing to follow its example.
+<P>
+To avoid misunderstanding, let me be clear: not everything is going well with regard to US government policy in this area.
+In particular, the impending repeal of the “net neutrality” rule by the Federal Communications Commission (FCC) appears to be a major step toward favoring large incumbents and away from making it easy for digital start-ups to prosper quickly.
+Andy Lippman of the MIT Media Lab has a very good video explainer on this issue, which should be required viewing for policymakers (and voters).
+<P>
+Facebook currently looks like a special case, in the sense that network effects mean millions of people will stick with this service, regardless of how they are treated.
+And there may have been some misunderstanding or (allegedly) miscommunication regarding how their personal data would be treated.
+Facebook faces understandable political pressure to change its practices, but what it really needs is new competitors that prove they can be profitable while putting privacy first.
+<P>
+Cryptocurrencies reflect a growing overlap between finance and tech.
+It would not be a surprise if the US Securities and Exchange Commission determined that a great deal of recent money-raising activity (known as Initial Coin Offerings) in this industry actually amounts to the issuance of securities, which would trigger the application of various rules and requirements.
+But such a decision would not amount to new regulation – just the application of existing regulations.
+The principles applied by securities regulators since the 1930s remain sensible: protect investors and require sufficient disclosure of all the risks involved in an investment.
+<P>
+The same is true of self-driving cars.
+There were 40,000 road fatalities in 2016 in the US, and more than one million worldwide, according to the latest World Health Organization data.
+As in all previous years, human error of various kinds was responsible for most of these deaths.
+Reducing road fatalities is an important goal, and the growing engagement of tech companies (and competition with the established auto companies) should be welcomed, in the interest of improving road safety.
+Here, too, existing regulatory principles, and the agencies that apply and enforce them, should be given an opportunity to prove themselves.

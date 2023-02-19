@@ -1,0 +1,44 @@
+<HEADLINE>
+The Productivity Gap
+<P>
+Year after year throughout the 1990's, Europe's productivity grew at a pace 18% slower than in the United States.
+The European experience varied from country to country, but no one did better than the US.
+By the end of the decade, Europe's productivity gap with the U.S. was 7% in Italy, 9% in France and 12% in the Netherlands, three relatively good cases, but a whopping 25% in Denmark, and 23% in the UK.
+What explains these sharp differences?
+<P>
+An economy's productivity - that is, how much it produces per worker employed - depends on three factors: its endowment of capital, the quality of the country's workers and its ability to combine workers and capital efficiently to produce goods and services, what economists refer to as "total factor productivity."
+Availability of capital is not the explanation.
+European firms have plenty of capital!
+Indeed, European firms, probably in a response to rigid labor markets, have for at least twenty years been using technologies that are much more capital-intensive than that of US firms.
+<P>
+Capital intensity is 80% higher in Denmark than in the US, 60% higher in France, 50% in Italy, 40% in Germany.
+Even in Spain, the endowment of capital per worker is 30% higher than in America.
+The shift into labor-saving technologies shows no sign of reversal: since the mid 1980s the capital intensity of European firms has increased 6% relative to US firms.
+<P>
+To begin understand the differences between the US and Europe, look at the quality of the labor force.
+The average number of years spent in school is a good indicator of a worker's quality, especially because improvements in output nowadays mostly arise from the ability to adopt new technologies.
+The number of schooling years of the typical worker is 13% lower in Europe than in the US, ranging from 8% lower in the UK to 36% in Spain.
+<P>
+Where the gap with the US is most stunning is found in something called "total factor productivity."
+Success in this area depends on two factors: technology - both the talent to innovate and the ability to adopt new production techniques - and organization.
+Here Europe's performance is consistently below that of America: 30% on average, with the U.K. 43% and Germany 56% below the US.
+Moreover, that disparity is growing over time: since the mid 1980s the gap has become 6% wider.
+<P>
+These data highlight two vital weaknesses in European firms.
+The first is related to organization.
+Rigid labor markets and a corporate governance culture that protects incumbent managers, make it hard to reap the benefits of new technologies.
+At the 20 th century's start it took twenty years for the textile industry to benefit from the dynamo - not because new electrical machines were hard to buy, but rather because it took almost twenty years to change the work culture in textile factories.
+Also, goods market regulations favor incumbent firms and discourage new entrants: while firm profits in Europe are high, investment is not, at least when compared to the US.
+<P>
+This exposes the second weakness: the ability to innovate.
+As in the case of capital, what Europe lacks is not scientific competence, but the ability to translate scientific achievements into business innovations.
+European scientific competence is not in question.
+In 1999, for instance, European scientists published almost as many articles per head as their American-based colleagues.
+Also the trend in the number of citations per article (an important indicator of research quality) is rising: +3% in Europe in the 1990's, while it remained flat in the US.
+<P>
+But European scientific competence does not translate into valuable business ideas - at least not as frequently as in the US - mostly because Europe's focus seems ill-directed.
+European researchers register a large number of patents, but the number of patents (per million population) granted to innovations in high-tech fields is much smaller than in America: in 1998, 60% of all US patents were in high-tech fields, as opposed to 11% in Europe.
+<P>
+An important reason for this failure to translate knowledge into "action" lies in the lack of dynamic private universities.
+Europe's obsession with public and standardized universities discourages competition in the R&D sectors and reduces the extent of a profitable relationship between higher education institutions and the world of entrepreneurs.
+While in the 1990s American youths were inventing dotcoms in their garages, European youths spent years enjoying a worry-free, tuition-free and pampered life in publicly funded universities, paid for by taxpayers.

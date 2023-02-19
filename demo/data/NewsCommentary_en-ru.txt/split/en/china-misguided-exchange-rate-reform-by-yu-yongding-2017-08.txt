@@ -1,0 +1,40 @@
+<HEADLINE>
+China’s Misguided Exchange-Rate Machinations
+<P>
+BEIJING – On August 11, 2015, the People’s Bank of China (PBOC) established that the central parity of the renminbi’s exchange rate against the US dollar would be set with reference to the previous trading day’s closing price, within a 2% band.
+It was a bold step toward a more flexible, market-driven exchange rate.
+But the announcement of the reform caused the market to panic, triggering a 3% decline in the renminbi in just four trading days.
+So it was quickly abandoned.
+<P>
+That policy reversal, while understandable, is regrettable.
+For the rest of 2015, the PBOC struggled to prevent the renminbi from weakening.
+Having spent a huge amount of foreign-exchange reserves, it decided in February 2016 to introduce a new rule for setting the central parity rate.
+<P>
+According to the replacement rule, the central parity rate would take into account not just the previous trading day’s closing price, but also the “theoretical exchange rate” that would keep the index of the China Foreign Exchange Trade System, a 24-currency basket, unchanged over the previous 24 hours.
+In other words, whenever there was a change in the US dollar index, the PBOC would have to intervene in the foreign-exchange market to align the market-determined renminbi-dollar exchange rate with the theoretical exchange rate that kept the CFETS index stable.
+<P>
+According to the PBOC, with an uncertain dollar index, the introduction of a basket of currencies into the price-setting process was needed to enable two-way fluctuations of the renminbi-dollar exchange rate.
+The market was allowed to verify whether the PBOC had followed the rate-setting rule, but it didn’t determine the exchange rate; that task was carried out by the PBOC.
+<P>
+In any case, when the dollar index is rising, the new rule seemed to work just fine.
+Given persistent downward pressure on the exchange rate, if the PBOC allowed the renminbi to fall against the rising dollar index, the CFETS index would stay more or less constant.
+This meant that the PBOC could follow the rate-setting rule without resorting to intervention too often.
+<P>
+But, all else being equal, if the dollar index was falling, the PBOC would have to set a higher central parity rate for the renminbi.
+This implies that the PBOC could be forced to sell its US dollar reserves, already substantially depleted, to push up artificially the closing price of the renminbi and keep the spot rate within the 2% band.
+<P>
+In July 2017, the PBOC decided to make an additional change to the rate-setting rule to correct for “big market swings” and “irrational herd behavior.”
+By introducing a so-called “countercyclical factor” to the rate-setting equation, the PBOC attempted to temper the disproportionate impact of depreciation expectations, relative to improvements in the Chinese economy’s fundamentals, on the exchange rate.
+<P>
+The logic is debatable.
+But the real problem with the change is that no one outside the PBOC knows how the countercyclical factor is quantified, much less how it is weighted against the previous day’s closing price or the theoretical exchange rate.
+As a result, the market does not merely have a substantially reduced role in setting the exchange rate; it can’t even check whether the PBOC is following its rate-setting rule for the central parity.
+This means that the monetary authorities have even more discretion than they had before.
+<P>
+The August 2015 reforms were rightly aimed at making China’s exchange-rate system more transparent, market-driven, and flexible.
+With the new rule, the PBOC effectively backpedaled.
+And it didn’t have to: with the benefit of hindsight, it seems reasonable to assume that, had the PBOC simply been more patient, it could have stuck with the August 2015 reform.
+Within a few weeks or even days, calm probably would have returned to the market, and the PBOC would have made important progress.
+<P>
+In recent months, the Chinese economy has shown credible signs of stabilization; capital outflows have ebbed, at least for the time being; and the financial market has remained much calmer than in 2015.
+In this more favorable context, the PBOC, rather than churning out unnecessarily complicated new rate-setting rules, needs to return to reform.

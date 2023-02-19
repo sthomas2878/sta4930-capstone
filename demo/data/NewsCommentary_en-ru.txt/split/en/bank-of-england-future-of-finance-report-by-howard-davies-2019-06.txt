@@ -1,0 +1,60 @@
+<HEADLINE>
+The Bard and the Bank Regulators
+<P>
+LONDON – Banking supervision teams at the Bank of England “now receive the equivalent of twice the entire works of Shakespeare of reading each week.”
+So says Huw van Steenis, the author of a new report, “Future of Finance,” commissioned by the Bank’s outgoing governor, Mark Carney.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+One might argue with the word “equivalent.”
+Few regulatory submissions rival the Bard’s output in their timelessness or vivid use of language: the Bank of England would probably send them winging straight back to their originators if they did.
+But van Steenis’s point about the volume of reporting is a valid one.
+The system of banking supervision has become highly complex, with a risk that the forest is entirely lost from view in the midst of thousands of trees.
+<P>
+The team that produced the report commissioned McKinsey and Company to assess the cost of all this reporting to banks in the United Kingdom.
+Their estimate is £2-4.5 billion ($2.5-5.7 billion) per year – rather a broad range, but even the lower bound is a big number, with a material impact on profitability.
+<P>
+Van Steenis argues that better use of technology – regtech – could make a difference.
+Regulators should be using artificial intelligence and machine learning to interrogate regulatory returns and identify risks and anomalies.
+He also points out that much of the complexity has its origin in the overlapping and sometimes conflicting priorities of different regulators.
+In comparison with the United States, the UK system is relatively streamlined, but banks must still satisfy the requirements of the Bank of England, the Financial Conduct Authority, the Competition and Markets Authority, the Payment Systems Regulator, and the Open Banking Implementation Entity.
+They are not always easy to reconcile.
+<P>
+The problem is particularly acute in relation to the payments system, which, owing to new entrants – perhaps soon to include Facebook with its Libra currency – has become far more complex to oversee.
+As a result, a number of regulators impose their own requirements.
+<P>
+Van Steenis argues for “a joined-up strategy to improve our payments infrastructure and regulation,” and an approach which he describes as analogous to air traffic control, to ensure that the demands of different regulators do not land on banks and others in an unmanageable and uncoordinated way.
+The UK government has responded positively to that idea, but it will not be easy to bring greater coherence to a range of regulators that each has its own legal obligations and political masters.
+Air traffic controllers can order a plane to enter a holding pattern, as anyone who has flown into Heathrow in recent years knows only too well.
+Who can tell a statutory regulator to get back in its box and wait for others to finish their work?
+We must hope that the government can answer that question.
+<P>
+The most interesting parts of “Future of Finance” concern how means of payment are changing.
+Cash is in decline in many countries, though the rate differs markedly from place to place.
+Cash usage has fallen by over 80% in Sweden in the last decade and is now dropping by 10% per year in the UK, while it is barely changing in Germany.
+Van Steenis warns that the “Swedish experience shows that without a coordinated plan, the pace of change risks excluding some groups in society.”
+<P>
+He is also a skeptic when it comes to cryptocurrencies: “crypto assets that are not backed by currency are an unreliable store of value, inefficient medium of exchange and simply won’t cut the mustard.”
+And he does not see a compelling case for a central bank digital currency, which puts him at odds with some others in the central banking world, who see attractions in the idea, not least greater leeway to impose negative interest rates.
+<P>
+But, despite skepticism about the viability of cryptocurrencies, bankers will not find “Future of Finance” reassuring reading.
+It points out that Ant Financial, which I visited in Shanghai last week, is now the world’s largest financial services firm, with over a billion customers, and not a single brick-and-mortar branch.
+There are more mobile and contactless payments in China each year – worth $15.4 trillion – than are managed by Visa and MasterCard combined.
+And in response to the report, the Bank of England announced that in the future, non-bank payment providers will be allowed to hold interest-bearing accounts at the central bank, a privilege previously available only to commercial banks.
+<P>
+Anyone working in finance knows that a revolution is under way, driven by disruptive technology.
+The full implications, for providers of finance and those who regulate them, are only dimly understood so far.
+The Bank of England’s report sheds valuable light on aspects of that revolution.
+It examines the threat to traditional banks’ core income streams in an analog world.
+<P>
+It is right to face up to that threat, and to be anxious.
+As Laertes said to Ophelia as she embarked on her doomed dalliance with Hamlet, “Be wary then; best safety lies in fear.”
+That warning probably does not appear in the Shakespeare-sized weekly reading of the Bank of England supervisors.
+Perhaps it should.

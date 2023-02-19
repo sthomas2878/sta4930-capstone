@@ -1,0 +1,65 @@
+<HEADLINE>
+What Should Economists Be Doing?
+<P>
+ITHACA – The unexpected financial crash of 2008, the persistence of the slowdown that occurred in its wake, the failure of conventional monetary and fiscal policies to revive economies, and the cracks in global trade that we are witnessing now have all given rise to a widespread disquiet about conventional economics.
+As David Graeber wrote in a recent review of Robert Skidelsky’s new book Money and Government: The Past and Future of Economics, “There is a growing feeling … that the discipline of economics is no longer fit for purpose.”
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Rather than offering a specific critique or solution, I want to draw attention to some foundational issues concerning the evaluation of economics.
+What makes assessing the discipline so challenging is the very nature of the subject, which is a strange mixture of science and commonsense.
+This is the reason for many policy mistakes by politicians – they take it to be all commonsense.
+<P>
+Another challenge arises from the fact that, unlike for most natural sciences, what economists say can affect what they study.
+Consider the frequent complaint that no economist has been able to predict, say, stock market crashes or exchange-rate fluctuations.
+Now, assume such an economist exists.
+If she predicts a stock market crash next month, the crash will happen immediately, not next month, because people will sell their stocks right away.
+Moreover, the sole reason for the immediate crash may well be that the economist predicted it.
+An economist who is known to be able to forecast crashes with a lead time, and can demonstrate this ability, is a logical impossibility.
+<P>
+Nonetheless, we have to recognize that conventional economics, and the social sciences more generally, have not done well in helping us cope with our new world and its major issues: the digital revolution, volatile markets, sharp climatic changes, and the retreat of democracy.
+<P>
+There is no denying that serious empirical research has helped make economics the important discipline that it is today.
+At the same time, it is now time to turn to economic theory.
+Ailing economies and crumbling politics prompt big questions about the discipline’s foundations.
+It is no surprise that the biggest breakthroughs in economic theory have occurred during times of great turmoil.
+As I have written elsewhere, it was on the heels of the Industrial Revolution that the British economist Stanley Jevons had his seminal insight into how prices are formed and goods and services acquire value.
+As he wrote to his brother in 1860, “I cannot now read other books on the subject without indignation.”
+This was the start of the marginalist revolution, soon to be followed by path-breaking contributions from Léon Walras and others.
+<P>
+The decade or so after the Great Depression marked another era of breakthroughs.
+The Nobel laureate economist Robert Solow, reflecting on his high school years in the late 1930s, wrote that “It was an obvious fact of life to us that our society was malfunctioning politically and economically, and that nobody really knew how to explain it or what to do about it.”
+It is no coincidence that several seminal works were published around this time, such as John Maynard Keynes’ The General Theory of Employment, Interest and Money (1936) and John Hicks’ Value and Capital (1939).
+<P>
+We live in similar times: Solow’s quote is as relevant for today’s world as it was for the world in the 1930s.
+The only difference is that our world is more globalized, so the malaise is not confined to the United States and a few other advanced economies, but extends to Latin America, Africa, and Asia.
+<P>
+Such times call for a paradigm shift in the science trying to grapple with the problem.
+All science, including economics, is based on assumptions.
+Many of these are written down explicitly, often as axioms.
+In addition, however, all disciplines rely on assumptions that are so deeply engrained that even practitioners are not aware of them.
+These are what may be called the “assumptions in the woodwork.”
+<P>
+You can see their presence even in everyday life.
+When your dinner host asks if you eat everything and you say yes, you presume sticks and stones are not part of the discourse.
+Occasionally, during cross-cultural encounters, you are jolted into awareness of these latent assumptions.
+<P>
+Euclidean geometry was developed by explicitly writing down a series of axioms.
+What was not written down, but was central to the Euclidean paradigm, was the assumption of a flat, horizontal surface.
+Hence, Euclidean geometry would not strictly apply to all worlds, including the spherical one that we inhabit.
+The Swiss mathematician Leonhard Euler realized this in the eighteenth century, marking the start of a paradigm shift to non-Euclidean geometry.
+(Of course, giving rise to a whole field named as not being one’s own is still a staggering achievement.)
+<P>
+Economics is now at a stage when we need to examine the assumptions in the woodwork that are hindering our ability to understand and map the new world of digital technology and inter-linkages that we are beginning to inhabit.
+“Normal science” must continue, but it is also time to examine the theoretical foundations of the discipline.
+<P>
+We need to go beyond mere statistical regularities to understand, for example, how the world of money affects the supply of goods and services.
+We need to investigate how economics influences our political choices, and how those choices that feed back to economics.
+And we must recognize that economic behavior is shaped not only by prices and regulation but also by social norms that are woven into our psyche and influence our individual choices – and, through those choices, the wellbeing of our communities, countries, and the world.

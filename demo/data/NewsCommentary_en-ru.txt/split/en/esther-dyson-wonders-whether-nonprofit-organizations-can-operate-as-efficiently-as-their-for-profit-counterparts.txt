@@ -1,0 +1,71 @@
+<HEADLINE>
+Philanthropies of Scale
+<P>
+MIDLAND, TEXAS – Since starting my own nonprofit organization, I look at other nonprofits with new eyes.
+There are far more of them than I ever realized.
+As an angel investor, I did not normally engage with them.
+Now I worry that they are terribly inefficient.
+<P>
+As I travel in small towns, many of the businesses that I see – most of them, it seems – belong to large chains, with mass-purchasing contracts, standardized training procedures, consistent quality, and, I assume, profitability.
+The nonprofits, by contrast, are mostly small and are often run by people with passion but not much expertise or management skill.
+They benefit from dedication rather than efficiency – which is honorable but not easily scalable.
+<P>
+This is a challenge for the general proposition of self-help, and also for my own new venture: the Health Initiative Coordinating Council (HICCup), which will advise five communities competing to win the HICCup Prize for the greatest improvement, according to five metrics, in health (not health care) over five years.
+<P>
+The last thing we want to do or could do is to run things.
+Yet we do need to figure out how to provide the right support to help communities run things themselves – just as a corporation might support a franchise or a dealership.
+The ownership is local.
+Our ultimate goal is to provide models and inspiration for other, larger communities over time.
+<P>
+What worries me is that just having a diabetes program, a visiting nurse corps, or a bicycle-share program is not enough.
+There are good programs and unsuccessful ones – just as there are good and bad restaurants, airlines, and oil companies.
+Management makes a difference, one that ultimately boils down to good leadership and best practices.
+<P>
+But that is not what most nonprofit programs can achieve.
+They are not part of a larger organization that trains their workers, sets standards, and provides support for everything from branding to purchasing.
+<P>
+Yes, there are now “social entrepreneurs.”
+But can we find and support them at scale?
+Nonprofits have no easy way to expand, raise capital, or combine forces.
+There are some new business models (such as social-impact bonds), and there are certainly businesses that sell social programs to payers such as governments, just as there are charities that outsource.
+But, unlike the for-profit sector, the nonprofit world is not fluid and efficient, and nonprofits have no incentive to merge, particularly as some people would have to give up their board seats or leadership positions.
+<P>
+While that is also true of many for-profit companies, the market trumps their leaders’ preferences.
+If customers or shareholders walk away, the board hires new managers or sells the company to someone who can run it better.
+<P>
+The problem with charities is that they have little incentive to become more efficient.
+Disclosure requirements help, but they are no match for the discipline of the market.
+In the case of for-profit goods and services, customers and payers are the same people; they monitor the quality themselves.
+And the shareholders monitor – in essence – the use of resources to deliver that quality (roughly measured as profitability).
+<P>
+There is no simple way to monitor the quality and efficiency of a charity – especially one devoted to long-term changes (that is, investments) rather than daily delivery of services.
+At HICCup, we are looking for places and people that have already decided to do something and need help going further.
+But even where such “social fabric” exists, a proliferation of independent efforts often reflects individuals’ passions rather than broad-based capacity.
+<P>
+So how does one go about building the interacting capabilities that address poverty, ignorance, and poor health while avoiding too much redundancy?
+<P>
+The question is not how to create a chain of soup kitchens, but how to develop leadership that creates intrinsic incentives for the staff.
+Consider Susan Burden at Beach Cities Health District in California.
+Originally an administrator at a for-profit hospital, she joined BCHD when it was a small pot of money and a building left over from the sale of a nonprofit hospital to a for-profit health group.
+<P>
+With energy and enthusiasm, Burden turned that operation into a thriving health (not health-care) agency that covers three cities and about 300,000 people on the western edge of Los Angeles.
+The BCHD has 70 staff and about 700 volunteers.
+Outsiders have found tangible improvements in residents’ health.
+<P>
+The BCHD’s programs are not novel: walk-to-school programs for children, healthy menus (through the district’s Blue Zones Project) for local restaurants, social support for older people, exercise classes, immunization programs, and the like.
+But the energy with which people are drawn in and motivated is unique.
+<P>
+I am excited about the possibility of using software to help deliver customized community services at little extra cost.
+But the capacity in short supply is trained people.
+How much do we need to train the trainers – and those who train the trainers?
+How trainable are people?
+Online courses may work for teaching technical topics, but is there a way to automate, at least partly, the training of all the people who need to be mobilized to foster health?
+<P>
+For example, I am an investor in Omada Health, a for-profit diabetes-management service.
+A single counselor runs ten groups of ten people each, partly online, partly face-to-face (usually paid for by health insurers or employers, who benefit when pre-diabetics become healthy or do not develop the disease).
+The challenge for Omada is not the curriculum; it is training people to become effective counselors.
+<P>
+While I expect to learn much more as I work on HICCup, I am already sure that the biggest problem will be finding people to take on the challenges in each community. What’s the optimal balance between replicability and the human touch?
+<P>
+The promise of scale is great for nonprofits – not just in terms of costs, but also for best practices and quality control.
+Yet the real value is in training people to deliver for themselves, at a local scale – empowered rather than controlled, creative rather than rehearsed, and working by choice rather than in desperation.

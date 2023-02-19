@@ -1,0 +1,53 @@
+<HEADLINE>
+Will Health Care Be Disrupted?
+<P>
+LEXINGTON, MASSACHUSETTS – Although intelligent machines are increasingly operating complex manufacturing systems and replacing humans on factory floors, they have not made significant inroads in health care.
+The sector’s most advanced machines, from ultra-high-resolution imaging instruments to surgical robots, are still fully controlled by humans.
+<P>
+But as robotic and artificial-intelligence (AI) systems become more advanced, will they eventually render doctors and nurses obsolete, with patients consulting a computer instead?
+The short answer is: not anytime soon.
+Health-care professionals will certainly become increasingly dependent on machines; but technology will augment, not replace, their abilities, and doctors will remain in charge of medical practices.
+<P>
+In his 2009 book The Innovator’s Prescription, Harvard Business School’s Clayton Christensen identified a spectrum of medical practices that range between “intuitive” and “precision.”
+Intuitive medicine describes when a doctor interprets a patient’s symptoms to arrive at a diagnosis and prescribe a treatment, the efficacy of which is often uncertain.
+Precision medicine – which should not be confused with personalized medicine – describes a rules-based process by which standardized treatments with predictable outcomes are applied to known health conditions.
+<P>
+According to Christensen, most of the medicine practiced today is closer to the intuitive side of the spectrum, and only a few diseases, primarily infections, can be treated using precision medicine.
+In fact, at the moment, the concept of precision medicine is incorrectly applied to improve only the outcomes of intuitive medicine, instead of identifying the causal mechanisms of diseases.
+As long as this is true, human know-how and engagement will remain integral to health care.
+<P>
+Treating unspecific symptoms without a prescribed roadmap requires effective decision-making and trust, which is a significant hurdle for machines.
+After millions of years of evolution, humans have developed a capacity for contextual intuition that enables trained doctors to make sensible and timely decisions in uncertain, data-scarce environments.
+Even the most sophisticated AI systems that we have today would need to be improved significantly in order to mimic this ability.
+<P>
+Communicating with patients poses an even greater challenge for machines.
+Explaining the many nuances of a mysterious disease such as cancer requires emotional intelligence and the ability to build trust with patients by delivering information effectively.
+Doctors also must exhibit cultural humility, so that they can take into account a patient’s social background when administering care.
+For the foreseeable future, machines probably will not be able to match humans in helping chronically ill patients whose prognosis remains uncertain.
+<P>
+Still, despite intelligent machines’ limitations, they will continue to play a bigger role in health care, even in the realm of intuitive medicine.
+Owing to their superior analytic power, machines are already providing more data upon which physicians base their diagnostic and treatment decisions.
+Machines are increasingly monitoring patients as well, helping to prevent human errors in hospitals and pharmacies.
+Soon, many more ancillary functions such as admissions, scheduling, and discharges will be automated.
+<P>
+But, again, until the scope of precision medicine surpasses that of intuitive medicine, health-care professionals will continue to make medical decisions and interpret the data.
+So, what are the prospects for such a shift?
+<P>
+Up until the mid-nineteenth century, bacterial and viral diseases were treated through intuitive medicine, because nobody had isolated the cause of patients’ symptoms.
+Then, Louis Pasteur and other scientists developed the germ theory, microscopes improved, and scientists began to identify the sizes and shapes of microbes.
+<P>
+Over the past century, our scientific understanding of germs has improved so much that every virus and bacteria can now be quickly diagnosed and isolated.
+This has enabled health-care professionals to switch from practicing intuitive medicine to precision medicine, where they can apply standardized processes that predictably cure diseases.
+With simple and inexpensive methods, we have eradicated deadly diseases such as polio and smallpox.
+More recently, researchers discovered an Ebola vaccine that provides 100% protection against the virus.
+<P>
+One day, when we have gained a similar level of understanding of the biochemistry and physiology of the human body, precision medicine will be applied to all disease categories.
+We will be able to determine every disease’s cause and progression precisely, and machines will operate with more autonomy, within a standardized environment, to provide the exact treatment that every patient needs.
+<P>
+Just as rules-based processes have laid the groundwork for self-driving vehicles, rules-based precision medicine will steadily increase the importance of automated super-machines in health care.
+It already feels routine to be prescribed antibiotics for an infection.
+Eventually, patients will have the same confidence in machines to administer their care; and as our understanding of diseases improves, personal interactions will become less necessary.
+<P>
+We shouldn’t expect machines to replace health-care professionals for some time, but new technologies will continue to be introduced into the sector’s evolving landscape, and we should welcome them.
+Practicing more precision medicine than intuitive medicine will make health care simpler, more accessible, and less expensive.
+By understanding patients’ diseases precisely, we can push medicine one step closer to its ultimate goal: patient-centered care of the finest quality.

@@ -1,0 +1,46 @@
+<HEADLINE>
+Inheritance and Inequality
+<P>
+NEW YORK – The buzz over Thomas Piketty’s book Capital in the Twenty-First Century may have subsided somewhat, but the analysis of its conclusions is far from complete.
+Consider its discussion of inheritance, which emphasizes its rising share in household wealth over time.
+This seems like a shocking revelation, implying ever-rising wealth inequality.
+But is it correct?
+<P>
+For many people, inherited wealth evokes moral repugnance.
+They associate it with the Rockefellers and Vanderbilts, whose great fortunes have supported generation after generation, and more generally with “trust-fund babies,” who inherit so much money that they never have to work.
+<P>
+Critics are right that inheritances and gifts – collectively known as “wealth transfers” – are distributed unevenly.
+Only about one-fifth of families in the United States in 2007 had ever received a wealth transfer.
+In general, recipients of any wealth transfer are likely to have larger incomes and to be in a higher wealth class.
+And the wealthiest young people tend to have wealthy parents and to have received larger wealth transfers than their poorer counterparts.
+<P>
+There is also significant inequality among those who receive wealth transfers.
+In 2007, only 7.4% of beneficiaries had received more than $1,000,000.
+The top 1% received 35% of all wealth transfers, and the top 20% received 84%.
+In other words, wealth transfers are about as unequal among recipients as their household net worth.
+<P>
+But these figures do not speak to Piketty’s thesis that inheritance has accounted for an increasing share of household wealth and exacerbates wealth inequality.
+In fact, the figures for the US from 1989 to 2010 – taken from the Federal Reserve Board’s triennial Survey of Consumer Finances – contradict both claims.
+<P>
+For starters, the average value of inheritances (in constant dollars) increased by only 24% over that period, which translates into an annual growth rate of 1% – less than the 1.7% annual growth in net worth.
+This means that wealth transfers as a proportion of net worth actually fell, from 29% to 26%.
+<P>
+Likewise, the share of a wealthy person’s net worth attributable to wealth transfers is, on average, less than 20% – that is, less than the one-third ratio for the middle class.
+And, for the wealthiest 1%, the ratio fell sharply, from 23% in 1989 to 11% in 2010.
+<P>
+Several factors have contributed to this decline.
+One is increased lifespans, which have led to a decline in the number of bequests per year and forced people to finance more years of life (including higher health-care expenses).
+Moreover, the share of estates dedicated to charitable bequests has risen over time, particularly among the wealthiest group.
+In this sense, wealth transfers have an equalizing effect.
+<P>
+At first blush, this statement may seem counter-intuitive – not least because wealthier households receive larger wealth transfers than poorer ones.
+But, when taking into account existing wealth, even a relatively small transfer to a poorer household would have a greater impact, in percentage terms, than a much larger gift to a wealthy household.
+This means that net worth excluding wealth transfers and wealth transfers themselves are negatively correlated, and the addition of transfers to net worth reduces overall wealth inequality.
+<P>
+It helps that wealth transfers generally flow toward poorer individuals or households, especially from richer parents to poorer children.
+This effect becomes even more pronounced when the estate of a single person or household is divided among multiple heirs – a very common occurrence.
+The massive wealth of the original plutocrat is thus dissipated over several generations – as has occurred with the Rockefellers – with the rate of dissipation depending on how many children each heir has.
+<P>
+In short, the overarching claim that the share of wealth transfers in household wealth is rising is not accurate in all cases – and certainly not in the world’s richest economy.
+Even if it were true, it would not be particularly problematic, given that, in the long term, inheritances and gifts help to reduce wealth inequality.
+In fact, we might all be better off if people transferred more of their wealth to others, if just to members of their own families.

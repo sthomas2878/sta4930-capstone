@@ -1,0 +1,59 @@
+<HEADLINE>
+The Digital Divide
+<P>
+LONDON: A global division is arising between the world’s computer haves and have-nots.
+Call it the digital divide.
+Seven months ago at the Kyushu-Okinawa Summit the world’s leading industrial countries established a Digital Opportunity Taskforce (dotforce) to share information and communication technologies with poor countries.
+Are computer technologies, however, really so easily transferred?
+Moreover, will governments in poor and postcommunist countries seize upon the supposedly magical powers of computers as an excuse not to pursue coherent growth strategies?
+<P>
+It is said that, unless developing and postcommunist countries catch up with the computer “revolution”, their economies will fall ever farther behind.
+True, integration in the world economy offers the best hope for growth.
+But global integration cannot be achieved by IT alone.
+Indeed, the word from Microsoft’s Bill Gates is that poor countries need sound development strategies, not a great leap into cyberspace.
+<P>
+Poverty, underdevelopment, and mal-development result from macroeconomic and industrial policies, skewed income distribution, and flawed market infrastructures.
+Of these, only the latter may be affected positively by IT.
+<P>
+Undoubtedly, the digital divide excludes much of the world’s population by age, income and residence from today’s computer revolution.
+To benefit from Information and Communication Technologies (ICTs) an economy requires, in addition to sophisticated telecommunications infrastructure, fundamental advances in basic literacy and secondary technical education.
+These are the pre-conditions for successful technology transfers.
+A liberal regulatory regime helps, too.
+So, clearly, the dotforce initiative is no stand-alone development tool.
+Governments must also act.
+<P>
+Unfortunately, government actions usually obstruct more than help.
+Some developing and postcommunist countries censor the Internet by excess taxation and/or by limiting access.
+So, as international agencies invest in computers for developing countries they must identify the obstacles erected by governments to the diffusion of ICTs, as well as the costs for overcoming these obstacles.
+Moreover, technology transfer is not free.
+The technical expertise required for IT start-ups will only be transferred by investors if they are compensated.
+Still, even if governments do everything right, the benefits of ICTs for low-income countries are limited and difficult to predict.
+<P>
+Right now, IT exports offer the most promise.
+High Tech provides 28% of East Asian and Pacific regional exports.
+The average level of high tech exports for all of South Asia is 4% with India topping 10%.
+India’s software exports, indeed, exceeded $4 billion in 2000, about 9% of India’s total exports.
+In Latin America and the Caribbean, high tech exports amount to 12% of manufactured exports.
+Fueled by microchip exports (38% of the total), Costa Rica’s economy grew 8.3% in 1999, the highest in Latin America.
+<P>
+Domestic demand in developing and postcommunist countries lags behind because people are usually too poor to buy IT goods and services.
+Constraining demand even more is the fact that businesses in poor countries only need IT when they have educated workforces, which most poor country firms neither have nor need.
+<P>
+To change all this, spending on education must change.
+In high-income countries public expenditure on education reached 5.4% of GDP in 1997, in middle income countries it was 4.8%, but only 3.3% in low income countries, and only 2.2% in Mali.
+India, which spends 3.2% of GDP on education, ranks lower than the average in Sub-Saharan Africa.
+Public spending, moreover, on education is often regressive.
+In Nepal, the richest quintile receives four times as much public education spending as the poorest quintile.
+<P>
+Skills, including literacy, as well as infrastructure, will also hold the IT revolution back.
+The illiteracy rate is 68% in Central African Republic, 57% in India, 16% in South Africa.
+In Africa, there are 14 million telephone lines, a figure roughly comparable to that of any of the world’s major cities.
+The Internet is of no benefit if you can’t get online.
+To assure positive outcomes from ICT investment, policymakers should focus on integrated development, telecommunications infrastructure, and education as the foundation for gradual technology transfer.
+<P>
+Privacy laws, taxation and openness are as important for the development of the Internet as for every other aspect of development.
+Institutional and political failures will limit the capacity of developing countries to benefit from investments in technology in the same measure as developed countries, even when they actually acquire computers in optimal numbers.
+<P>
+Because of a lack of empirical evidence, it is too early to say that these obstacles are binding constraints.
+But it is clear that IT will deliver benefits only if sound development strategies are pursued.
+The failure of other ‘magic bullet’ cures for development should make everyone pause before placing unbounded faith in what the Internet can deliver.

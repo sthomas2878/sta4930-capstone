@@ -1,0 +1,62 @@
+<HEADLINE>
+Reimagining the Office
+<P>
+BOSTON – Last month, Twitter CEO Jack Dorsey announced that the company would allow its employees, currently working from home in accordance with social-distancing protocols, to stay there for good.
+Several other big businesses – from Facebook to the French automaker PSA – have followed suit with plans to keep far more employees at home after the COVID-19 crisis ends.
+Will the office be yet another casualty of the pandemic?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In a sense, the death of the office has been a long time coming.
+In the 1960s, American futurist Melvin Webber predicted that the world would reach a “post-city age,” in which “it might be possible to locate on a mountain top and to maintain intimate, real-time, and realistic contact with business or other associates.”
+<P>
+During the dot-com boom of the late 1990s, the rise of Internet-based companies made that future seem closer than ever.
+As the British journalist Frances Cairncross put it in 1997, the Internet meant the “death of distance.”
+Once distance doesn’t matter, the logic goes, offices – and, by extension, cities – become irrelevant.
+<P>
+It may seem like we are reaching this point.
+From newscasters to office workers, jobs once thought to necessitate a shared workplace are being performed from home during the pandemic.
+And yet anyone who has been on a group Zoom call knows that, despite advances in communication technologies, engaging with colleagues remotely often remains far more difficult than meeting face to face.
+<P>
+The problem runs deeper than time lags or toddler interruptions.
+As the sociologist Mark Granovetter argued in 1973, functioning societies are underpinned not only by “strong ties” (close relationships), but also by “weak ties” (casual acquaintances).
+Whereas strong ties tend to form dense, overlapping networks – our close friends are often close friends with one another – weak ties connect us to a larger and more diverse group of people.
+<P>
+By bridging different social circles, weak ties are more likely to connect us with new ideas and perspectives, challenging our preconceptions and fostering innovation and its diffusion.
+And while video-chatting or social media may help us to maintain our strong ties, it is unlikely to produce new ones, let alone connect us with as many people from outside our social circles: baristas, fellow train passengers, colleagues with whom we don’t work directly, and so on.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+An analysis of data from MIT students, professors, and administrators during the pandemic seems to bear this out.
+My colleagues and I built two models of the same communication network – one showing interactions before the campus was closed, and the other showing interactions during the shutdown.
+<P>
+Initial results – which will still need additional validation and peer review – indicate that interactions are narrowing, with people exchanging more messages within a smaller pool of contacts.
+In short, existing strong ties are deepening, while weak ties falter.
+<P>
+Perhaps in the future, it will be possible to mimic physical serendipity and form weak ties online.
+But, for now, online platforms appear ill-equipped to do so.
+On the contrary, they often actively filter out unknown individuals or opposing ideas – a function that was fueling political polarization even before the pandemic.
+As a result, our lockdown-enforced social bubbles are increasingly opaque.
+<P>
+Shared physical spaces seem to be the only antidote to this fragmentation.
+Offices, which facilitate deeper interactions among diverse acquaintances, can be a particularly powerful corrective.
+<P>
+And yet demand for shared spaces seems unlikely to return to pre-pandemic levels.
+Companies like Twitter that do not see productivity fall will be eager to lower overhead costs.
+As for employees, it was never going to take long to get used to living without long commutes, strict corporate schedules, and uncomfortable office attire.
+<P>
+This will have far-reaching implications.
+Even a 10% reduction in demand for office space could cause property values to plummet.
+But while this would be bad news for developers, designers, and real-estate agents, it could also ease the economic pressures behind urban gentrification.
+<P>
+In any case, companies would be well-advised not to eschew offices entirely, both for their own sake – new, innovative, and collaborative ideas are essential to success – and for the wellbeing of the societies in which they operate.
+Instead, they can allow employees to stay home more often, while taking steps to ensure that the time people do spend in the office is conducive to establishing weak ties.
+<P>
+This could mean, for example, transforming traditional floor plans, designed to facilitate solitary task execution, into more open, dynamic spaces, which encourage the so-called cafeteria effect.
+(Nowhere is it easier to establish weak ties than while eating lunch in a cafeteria.)
+More radical redesigns may follow, with designers finding ways to generate serendipity, such as through choreographed, “event-based” spaces.
+<P>
+The COVID-19 crisis has shown that we have the tools to stay connected from a mountaintop – or our kitchen table, for that matter.
+Our challenge today is to leverage physical space so that we may regularly descend from our isolated summits.
+That means pursuing the rebirth of the office in a form that enhances its greatest asset: the ability to nurture all the ties that bind.

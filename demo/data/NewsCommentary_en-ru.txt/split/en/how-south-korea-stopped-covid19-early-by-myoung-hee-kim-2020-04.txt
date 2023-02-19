@@ -1,0 +1,53 @@
+<HEADLINE>
+How South Korea Stopped COVID-19 Early
+<P>
+SEOUL – South Korea experienced one of the world’s largest initial outbreaks of COVID-19 outside China.
+But, unlike the United States and many European countries, we have been able to contain and drastically reduce the spread of the virus, at least so far – and without imposing a nationwide lockdown.
+Our response may provide insights that can help other governments and civil-society groups working to combat the pandemic.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+So, how did we do it?
+<P>
+As is widely known, South Korea’s government focused on aggressive testing and contact tracing to contain community transmission, and established a strict triage system to protect health-care workers.
+But testing and tracing alone did not stop the spread of the virus.
+The country’s civil society – including non-governmental organizations and trade unions – played a critical role by monitoring the situation closely, helping to hold the authorities accountable, and reaching the most vulnerable social groups.
+<P>
+The government procured high-quality diagnostic kits based on a tightly coordinated transfer of public-funded technology to private manufacturers, and quickly established a mass testing system in which public-health centers played a central part.
+These early interventions paid off: the country now has more than 600 testing sites, including 80 drive-through centers, capable of testing a total of 20,000 people per day.
+Moreover, individuals with suspected COVID-19 symptoms and contact history are legally entitled to be tested free of charge.
+<P>
+Each time a new case was identified, local governments used contact tracing to quarantine potential carriers and publicly disclosed their individual travel histories in order to inform nearby residents of their potential exposure.
+This helped to contain infection clusters.
+And the triage system in hospitals helped to prevent patients with severe symptoms from indiscriminately infecting health-care workers and other patients.
+<P>
+For contact tracing, the authorities relied on mobile-phone GPS data, credit-card transaction records, and CCTV footage.
+While this use of personal data is legal in South Korea and proved effective in combating the virus, it also raised significant privacy concerns.
+Over the last two months, some patients whose detailed travel history was made public have been blamed, as if they had recklessly put others at risk of infection.
+The country’s National Human Rights Commission and advocacy organizations have called for an appropriate balance between protecting the public and respecting individual rights, and this debate continues today.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Trade unions, NGOs, and the public were also instrumental in pushing the government to protect vulnerable citizens, respect their basic human rights, and address the deeply rooted inequalities highlighted by social-distancing measures.
+<P>
+Many low-wage workers, for example, could not work remotely or take paid leave to support themselves and their families.
+A call center in southwest Seoul, where workers were crammed into a small, poorly ventilated office, emerged as one of the country’s biggest COVID-19 clusters.
+And one delivery worker died on the job, collapsing from exhaustion because of the huge increase in online orders.
+Unions informed the public and policymakers about such problems, based on reports from their rank-and-file members, and advocated for greater employment security, paid sick leave, and adequate protective gear, including facemasks.
+<P>
+Similarly, public hospitals, which have long suffered from underinvestment, began to take the lead in accommodating the influx of patients.
+At the same time, the COVID-19 crisis highlighted the inadequacy of South Korea’s private hospitals, which account for 90% of the country’s hospital beds.
+When the virus struck, they lacked both the relevant equipment and isolation units, because these were not profitable in normal times.
+As a result, civil-society groups are now demanding an expansion of the country’s public health-care system.
+<P>
+In addition, NGOs cooperated closely with local service providers to identify gaps in care.
+NGOs monitored assisted-living facilities, homeless shelters, and vulnerable individuals at home to ensure that these populations were receiving proper attention.
+And community volunteers stepped in to provide additional support where local governments lacked the capacity to do so.
+<P>
+Finally, the government responded to civil-society organizations’ demands that migrants and refugees – often the targets of racism and anti-immigrant rhetoric – have access to testing and treatment.
+For example, the Ministry of Justice announced in early March that undocumented migrants could be tested for COVID-19 without risking deportation, and published multilingual information materials.
+NGOs working with South Korea’s migrant communities are now disseminating critical information about medical access and paid leave to help support these groups.
+<P>
+As governments around the world increasingly adopt wartime-like measures to fight the pandemic, civil-society groups must prevent policymakers from responding in ways that further exacerbate inequalities or marginalize the most vulnerable groups.
+Such efforts were crucial to South Korea’s success, and they can help other countries to beat the virus, too.

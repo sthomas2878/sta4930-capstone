@@ -1,0 +1,63 @@
+<HEADLINE>
+Making America’s Deficits Great Again
+<P>
+FRANKFURT – US President Donald Trump and congressional Republican allies have succeeded in passing their big tax legislation.
+While it lacks many of the desirable attributes of true tax reform, it amounts to a success for Trump, who failed to deliver any other major piece of legislation during the first year of his administration.
+But what will it mean for Trump’s other major promise, to cut the US trade deficit?
+<P>
+Simply put, the Republicans’ tax law – which emphasizes big cuts, especially for corporations and the highest-income earners – is virtually certain to widen the budget deficit and, in turn, increase the current-account deficit.
+Trump’s legislative victory implies the return of the infamous twin deficits that followed George W. Bush’s tax cuts of 2001 and 2003, and Ronald Reagan’s cuts of 1981-1983.
+<P>
+There are different ways to measure the balance of payments, each appropriate for different purposes.
+The narrowest – and probably the least informative – measure includes only merchandise trade.
+Yet Trump likes to focus on bilateral merchandise balances, rather than a broader and more useful indicator, such as the overall balance of goods and services.
+<P>
+The current-account balance is broader still, including such other transactions as net investment earnings from abroad, expatriates’ remittances, and foreign aid.
+It is useful, because it shows whether the United States is spending beyond its means and therefore going into debt to the rest of the world.
+And, whichever approach an economist takes, the result is clear: Trump’s tax cuts will have a negative effect on the current-account balance.
+<P>
+Start with the simple Keynesian model.
+A tax cut boosts income and spending.
+True, Trump’s tax cut focuses heavily on corporate taxes, rather than personal income taxes.
+But, as Republicans like to point out, corporations are people, too, in the sense that people own and run them.
+<P>
+Most of the corporate windfall that Trump’s tax cut will deliver will be passed through to shareholders in the form of dividends and share buy-backs, and given to managers as higher pay.
+The recipients will spend some of that additional income on foreign goods, boosting imports and worsening the trade balance.
+<P>
+The simple Keynesian model is less relevant when the economy is at full employment, as the US now is, and output is constrained by capacity.
+But, under such circumstances, the result is also problematic: the increase in spending afforded by tax cuts goes entirely, rather than only partly, into the current-account deficit.
+<P>
+Moreover, when output is constrained, the increased demand tends to lead to inflation.
+Higher prices for US products will reinforce domestic consumers’ incentive to buy foreign products, while reducing external demand for US exports.
+The result, again, will be a larger trade deficit.
+<P>
+What about the burst of investment and eventual rise in productivity that is supposed to result from the Republican tax reform?
+<P>
+In the short run, higher investment is another form of spending: yet again, imports rise, and the trade deficit widens.
+This effect is likely to be compounded by the expectation that a lower corporate tax rate will attract foreign investment, resulting in a net capital inflow.
+According to the so-called intertemporal approach, a policy change that people believe augurs higher productivity in the future causes a current-account deficit today.
+And, in fact, the model that White House economists use to claim that the corporate tax cut will raise wages assumes a large capital inflow and current account deficit.
+<P>
+The net capital inflow will be even larger if the US Federal Reserve continues to respond to increases in demand by raising interest rates.
+This policy would probably also drive up the value of the US dollar, which would undermine the international price competitiveness of US exports and worsen the trade balance further.
+<P>
+So, whichever approach one takes, it is hard to escape the conclusion that the Republican tax cut will widen the trade and current-account deficits, achieving the opposite of what Trump has promised.
+But that doesn’t mean that Trump skeptics can just sit back and wait for him to be proven wrong, because it is possible that, in the first year, the reported trade deficit will narrow, even as the true trade deficit widens.
+<P>
+It all comes down to “transfer pricing” – the prices multinational corporations use to put a value on cross-border trade in inputs among their subsidiaries.
+Consider an American pharmaceutical company that establishes a plant in Ireland.
+The Irish affiliate imports some inputs (most notably, the intellectual property represented by the drug patent), assembles the product in Ireland, and exports it back to the US.
+In terms of value-added, the patent makes the biggest contribution.
+But, because the corporate tax rate is lower in Ireland than in the US, the company has an incentive to assign a low value to the patent, thereby maximizing the profits in Ireland and minimizing them in the US, where the patent was developed.
+<P>
+This sort of profit-shifting – or, put another way, “creative accounting” – is widespread, and has long made the US trade balance appear worse than it really is (while making US primary income look better than it really is).
+George Saravelos and his colleagues at Deutsche Bank argue that eliminating the measurement error that arises from inaccurate transfer pricing could give a one-time boost to the reported trade balance – particularly in the form of reported service exports – as large as $250 billion.
+The trade deficit would ostensibly be halved.
+<P>
+But there is a difference between the reported trade balance and the true one; whatever narrowing of the trade deficit arises from the adjustment of transfer prices would be illusory.
+Moreover, the current-account balance, reported or true, would not improve at all, because the apparent improvement in service exports would be offset by an apparent worsening of profits earned abroad.
+On the contrary, that balance would deteriorate, for all the reasons stated above.
+<P>
+No matter how you look at it, the Republican tax cut, by widening the budget deficit, will fuel growth in the US current-account deficit.
+It’s the early 1980s all over again.
+But it’s not morning in America.

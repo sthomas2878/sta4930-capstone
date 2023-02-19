@@ -1,0 +1,48 @@
+<HEADLINE>
+Is US Monetary Policy Made in China?
+<P>
+AMSTERDAM – For much of the year, investors have been fixated on when the Fed will achieve “liftoff” – that is, when it will raise interest rates by 25 basis points, or 0.25%, as a first step toward normalizing monetary conditions.
+Markets have soared and plummeted in response to small changes in Fed statements perceived as affecting the likelihood that liftoff is imminent.
+<P>
+But, in seeking to gauge changes in US monetary conditions, investors have been looking in the wrong place.
+Since mid-August, when Chinese policymakers startled the markets by devaluing the renminbi by 2%, China’s official intervention in foreign-exchange markets has continued, in order to prevent the currency from falling further.
+The Chinese authorities have been selling foreign securities, mainly United States Treasury bonds, and buying up renminbi.
+<P>
+This is the opposite of what China did when the renminbi was strong.
+Back then, China bought US Treasury bonds to keep the currency from rising and eroding the competitiveness of Chinese exporters.
+As a result, it accumulated an astounding $4 trillion of foreign reserves.
+<P>
+And what was true of China was also true of other emerging-market countries receiving capital inflows.
+These countries’ foreign reserves, mainly held in US securities, topped $8 trillion at their peak last year.
+<P>
+The effects of these purchases attracted considerable attention.
+In 2005, US Federal Reserve Chair Alan Greenspan pointed to the phenomenon as an explanation for his famous “conundrum”: interest rates on Treasury bonds were lower than market conditions appeared to warrant.
+His successor, Ben Bernanke, similarly pointed to purchases of US debt by foreign central banks and governments as a reason why American interest rates were so low.
+<P>
+Now this process has gone into reverse.
+Although no one outside official Chinese circles knows the exact magnitude of China’s foreign-exchange intervention, informed guesses suggest that it has been running at roughly $100 billion a month since mid-August.
+Observers believe that roughly 60% of China’s liquid reserves are in US Treasury bills.
+Given that reserve managers prefer to avoid unbalancing their carefully composed portfolios, they probably have been selling Treasuries at a rate of roughly $60 billion a month.
+<P>
+The effects are analogous – but opposite – to those of quantitative easing.
+Recall that the Fed began its third round of quantitative easing (QE3) by purchasing $40 billion of securities a month, before boosting the volume to $85 billion.
+Monthly sales of $60 billion by China’s government would lie squarely in the middle.
+Estimates of the effects of QE3 differ.
+But the weight of the evidence is that QE3 had a modest but significant downward impact on Treasury yields and a positive effect on demand for riskier assets.
+<P>
+Menzie Chinn of the University of Wisconsin has examined the impact of foreign purchases and sales of US government securities on ten-year Treasury yields.
+His estimates imply that foreign sales at a rate of $60 billion per month raise yields by ten basis points.
+Given that China has been at it for 2.5 months, this implies that the equivalent of a 25-basis-point increase in interest rates has already been injected into the market.
+<P>
+Some would object that the renminbi is weak because China is experiencing capital outflows by private investors, and that some of this private money also flows into US financial markets.
+This is technically correct, but it is already factored into the changes in interest rates described above.
+Recall that capital also flowed out of the US when the Fed was engaged in QE, without vitiating the effects.
+That was what the earlier debate over “currency wars” – when emerging markets complained about being inundated by financial inflows from the US – was all about.
+<P>
+Another objection is that QE operates not just through the so-called portfolio channel – by changing the mix of securities in the market – but also through the expectations channel.
+It signals that the authorities are seriously committed to making the future different from the past.
+But if Chinese intervention is just a one-off event, and there are no expectations of it continuing, then this second channel shouldn’t be operative, and the impact will be smaller than that of QE.
+<P>
+The problem is that no one knows how long capital outflows from China will persist or how long the Chinese authorities will continue to intervene.
+From this standpoint, the Fed’s decision to wait to begin liftoff is eminently sensible.
+And, given that China holds (and is therefore now selling) euros as well, the European Central Bank also should bear this in mind when it decides in December whether to ramp up its own program of quantitative easing.

@@ -1,0 +1,66 @@
+<HEADLINE>
+Banking on Refugees
+<P>
+KAMPALA – Every minute, on average, 31 people are displaced – forced to leave their jobs, homes, and even their families.
+These refugees often arrive, after arduous journeys, in new countries with no money or identification, and few possessions.
+Yet, far from securing a safer, more prosperous future, they often find themselves marginalized, excluded, and even demonized, denied opportunities to integrate into their host societies or contribute to the local economy.
+One straightforward way to empower refugees is to give them access to financial services.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Financial service providers (FSPs) have long neglected this population, owing to accessibility and identification challenges, together with perceptions of refugees as a high-risk group.
+But technological advances in the last decade have made providing financial services to refugees easier, safer, and more cost-effective than ever.
+<P>
+Thanks to digital and mobile technologies, banking no longer happens primarily in brick-and-mortar branches, but rather on people’s phones, wherever they are.
+This has facilitated the rise of digital wallets that enable users to receive, store, and spend money using only their phones.
+In recent years, mobile money has become wildly popular in Sub-Saharan Africa in particular, and it can be a game changer for the world’s massive unbanked population – 1.7 billion people – two-thirds of whom already own a mobile phone that could act as a gateway to financial services.
+<P>
+There is little reason to distinguish refugees from the rest of the world’s unbanked.
+Contrary to popular belief, refugees are not a higher-risk demographic: the Kiva Refugee Impact Report found that, when it comes to loan repayment, refugees are on par with non-refugees.
+Moreover, thanks to facial-recognition and artificial-intelligence technologies, banks can now instantly verify users’ identities, using, for example, a quick iris scan run through an open-source identity-verification application programming interface (API).
+<P>
+As a result, refugees’ lack of an identity card, loan collateral, and/or a fixed address is becoming irrelevant.
+This will be all the more true with the introduction of ID2020, a collaboration among Microsoft, Accenture, and the United Nations that will use biometric data and the blockchain (distributed ledgers) to create an encrypted, permanent, and shareable means of identification for all refugees.
+<P>
+It is in the interest of FSPs themselves to make use of the blockchain.
+True, the technology – which facilitates direct transactions among parties, creating a permanent and immutable record – has the potential to displace FSPs in the long term, by ending their monopoly on intermediating trust.
+But, in the short term, its adoption by banks could slash costs and reduce the risk of fraud, thereby enabling the rapid expansion of services to refugees, among others.
+In this sense, the blockchain could revolutionize credit access for refugees.
+<P>
+Already, the blockchain is being used to help refugees.
+For example, in Jordan, the Zaatari refugee camp distributes humanitarian aid using the blockchain and cryptocurrency.
+Each refugee is issued a digital wallet, into which money for food and supplies is deposited, with facial recognition being used to verify transactions.
+The results have been compelling: fair and accurate aid distribution, a 98% reduction in transaction fees, and fewer cases of misappropriation of funds.
+<P>
+In Finland, MONI, a blockchain startup, and the Finnish Immigration Service have issued refugees a digital ID stored on the blockchain.
+With a MONI account, refugees can access government benefits, even if they have lost their passports.
+Such uses of the blockchain reduce reliance on government-issued identification, as they encourage the acceptance of other forms, such as a UN-issued refugee ID.
+<P>
+There is another, long-term rationale for FSPs to expand services to refugees.
+Doing so would allow them to collect data and learn valuable lessons that can help shape their approach to increasingly mobile global customers, who are shifting from full-time jobs to remote and freelance work in the “gig economy.”
+<P>
+The creditworthiness of freelancers – expected to represent 43% of the workforce by 2020 – can be difficult to determine, owing to their irregular and unpredictable incomes.
+And so-called digital nomads often lack a permanent address, making it difficult to conduct credit checks.
+These workers of the future thus raise many of the same challenges for traditional financial services that refugees do.
+Alternative credit-scoring methods that are created for refugees today could be applied much more widely in the future.
+<P>
+Given all of this, banks should act now to expand their services to refugees.
+They could follow the example of the financial-technology (fintech) company MyBucks, which has already opened a banking branch in Malawi’s Dzaleka refugee camp to provide loans, mobile banking, and training services.
+<P>
+Of course, resolving the refugee crisis and tapping the economic potential of the more than 25 million refugees worldwide will also require changes in other areas, beginning with destination-country political narratives.
+In many countries, politicians and the media have been portraying refugees as a threat to security, cultural cohesion, and public resources.
+<P>
+Former US Secretary of State Hillary Clinton blamed her loss to Donald Trump in the 2016 presidential election, and the Brexit vote that preceded it, on the public backlash against immigration, and recently suggested that Europe should admit fewer refugees, in order to stem the rise of populism.
+Gunter Nooke, Germany’s Africa Commissioner, had an even more unpalatable proposal: African countries should cede land to be administered by the European Union as special economic zones, in what would amount to “voluntary colonialism.”
+<P>
+Such solutions are not only unethical; they would not end the crisis.
+Humanitarian aid alone will not work, either, except as a stopgap measure.
+To preserve long-term stability and dynamism, host countries must unlock economic opportunities for refugees.
+FSPs and fintech companies, known for their capacity for disruption, can play a key role in that process.

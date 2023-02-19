@@ -1,0 +1,67 @@
+<HEADLINE>
+The Anatomy of the Coming Recession
+<P>
+NEW YORK – There are three negative supply shocks that could trigger a global recession by 2020.
+All of them reflect political factors affecting international relations, two involve China, and the United States is at the center of each.
+Moreover, none of them is amenable to the traditional tools of countercyclical macroeconomic policy.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The first potential shock stems from the Sino-American trade and currency war, which escalated earlier this month when US President Donald Trump’s administration threatened additional tariffs on Chinese exports, and formally labeled China a currency manipulator.
+The second concerns the slow-brewing cold war between the US and China over technology.
+In a rivalry that has all the hallmarks of a “Thucydides Trap,” China and America are vying for dominance over the industries of the future: artificial intelligence (AI), robotics, 5G, and so forth.
+The US has placed the Chinese telecom giant Huawei on an “entity list” reserved for foreign companies deemed to pose a national-security threat.
+And although Huawei has received temporary exemptions allowing it to continue using US components, the Trump administration this week announced that it was adding an additional 46 Huawei affiliates to the list.
+<P>
+The third major risk concerns oil supplies.
+Although oil prices have fallen in recent weeks, and a recession triggered by a trade, currency, and tech war would depress energy demand and drive prices lower, America’s confrontation with Iran could have the opposite effect.
+Should that conflict escalate into a military conflict, global oil prices could spike and bring on a recession, as happened during previous Middle East conflagrations in 1973, 1979, and 1990.
+<P>
+All three of these potential shocks would have a stagflationary effect, increasing the price of imported consumer goods, intermediate inputs, technological components, and energy, while reducing output by disrupting global supply chains.
+Worse, the Sino-American conflict is already fueling a broader process of deglobalization, because countries and firms can no longer count on the long-term stability of these integrated value chains.
+As trade in goods, services, capital, labor, information, data, and technology becomes increasingly balkanized, global production costs will rise across all industries.
+<P>
+Moreover, the trade and currency war and the competition over technology will amplify one another.
+Consider the case of Huawei, which is currently a global leader in 5G equipment.
+This technology will soon be the standard form of connectivity for most critical civilian and military infrastructure, not to mention basic consumer goods that are connected through the emerging Internet of Things.
+The presence of a 5G chip implies that anything from a toaster to a coffee maker could become a listening device.
+This means that if Huawei is widely perceived as a national-security threat, so would thousands of Chinese consumer-goods exports.
+<P>
+It is easy to imagine how today’s situation could lead to a full-scale implosion of the open global trading system.
+The question, then, is whether monetary and fiscal policymakers are prepared for a sustained – or even permanent – negative supply shock.
+<P>
+Following the stagflationary shocks of the 1970s, monetary policymakers responded by tightening monetary policy.
+Today, however, major central banks such as the US Federal Reserve are already pursuing monetary-policy easing, because inflation and inflation expectations remain low.
+Any inflationary pressure from an oil shock will be perceived by central banks as merely a price-level effect, rather than as a persistent increase in inflation.
+<P>
+Over time, negative supply shocks tend also to become temporary negative demand shocks that reduce both growth and inflation, by depressing consumption and capital expenditures.
+Indeed, under current conditions, US and global corporate capital spending is severely depressed, owing to uncertainties about the likelihood, severity, and persistence of the three potential shocks.
+<P>
+In fact, with firms in the US, Europe, China, and other parts of Asia having reined in capital expenditures, the global tech, manufacturing, and industrial sector is already in a recession.
+The only reason why that hasn’t yet translated into a global slump is that private consumption has remained strong.
+Should the price of imported goods rise further as a result of any of these negative supply shocks, real (inflation-adjusted) disposable household income growth would take a hit, as would consumer confidence, likely tipping the global economy into a recession.
+<P>
+Given the potential for a negative aggregate demand shock in the short run, central banks are right to ease policy rates.
+But fiscal policymakers should also be preparing a similar short-term response.
+A sharp decline in growth and aggregate demand would call for countercyclical fiscal easing to prevent the recession from becoming too severe.
+<P>
+In the medium term, though, the optimal response would not be to accommodate the negative supply shocks, but rather to adjust to them without further easing.
+After all, the negative supply shocks from a trade and technology war would be more or less permanent, as would the reduction in potential growth.
+The same applies to Brexit: leaving the European Union will saddle the United Kingdom with a permanent negative supply shock, and thus permanently lower potential growth.
+<P>
+Such shocks cannot be reversed through monetary or fiscal policymaking.
+Although they can be managed in the short term, attempts to accommodate them permanently would eventually lead to both inflation and inflation expectations rising well above central banks’ targets.
+In the 1970s, central banks accommodated two major oil shocks.
+The result was persistently rising inflation and inflation expectations, unsustainable fiscal deficits, and public-debt accumulation.
+<P>
+Finally, there is an important difference between the 2008 global financial crisis and the negative supply shocks that could hit the global economy today.
+Because the former was mostly a large negative aggregate demand shock that depressed growth and inflation, it was appropriately met with monetary and fiscal stimulus.
+But this time, the world would be confronting sustained negative supply shocks that would require a very different kind of policy response over the medium term.
+Trying to undo the damage through never-ending monetary and fiscal stimulus will not be a sensible option.

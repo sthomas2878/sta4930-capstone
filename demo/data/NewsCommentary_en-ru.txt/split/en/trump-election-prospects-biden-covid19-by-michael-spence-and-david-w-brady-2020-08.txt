@@ -1,0 +1,73 @@
+<HEADLINE>
+COVID-19 Is Beating Trump
+<P>
+MILAN/STANFORD – Given the stark differences between US President Donald Trump and Joe Biden, his presumptive Democratic challenger, the outcome of the November presidential election will have far-reaching implications not only for the United States, but also for the rest of the world.
+So should we brace for four more years of Trump, or is change coming?
+<P>
+In today’s highly polarized environment, committed voters from either party are unlikely to switch sides.
+But there are too few such voters on either side to clinch the election.
+This means that moderates and especially self-identified independents will make all the difference.
+From this perspective, Trump appears to be in trouble.
+<P>
+This was not the case just five months ago, when the COVID-19 crisis first erupted in the US.
+At the time, Italy – with its overwhelmed hospitals, strict economic lockdown, and devastated economy – was dominating headlines.
+The US had no restrictions in place, and its health system was managing just fine.
+<P>
+This seems to have created the impression that the US was managing the crisis well.
+As Table 1 shows, Trump’s overall approval ratings rose in March, with a significant share of not only Republicans and moderates, but also Democrats and independents approving of his virus response.
+<P>
+Since then, however, COVID-19 infections and deaths have skyrocketed in the US, and the Trump administration has done little to address the problem.
+On the contrary, some in the administration have attempted to undermine Anthony Fauci, the country’s top infectious disease expert, and Trump steadfastly refused to wear a face mask, even ridiculing Biden for doing so.
+<P>
+Meanwhile, unemployment has soared, and while some protections for workers and businesses were introduced, many expect a wave of evictions following the expiration of those measures.
+GDP contracted by 9.5% in the second quarter, or 32.9% year on year – the worst performance since 1947.
+<P>
+Not surprisingly, voter attitudes have shifted dramatically.
+As Table 2 shows, from the end of March to mid-July, approval of both Trump’s overall performance and his handling of the COVID-19 crisis declined among all groups.
+For moderates in both parties, the swing is medium to large.
+For independents – whose voting patterns are significant determinants of outcomes in swing states – the shift was very large.
+<P>
+As disapproval of Trump and his COVID-19 response has grown, so has the number of Americans who plan to vote for Biden in November.
+As Table 3 shows, from late March to mid-July, the number of independents who intend to vote for Biden increased by a striking 23%.
+The number of self-identified Democrats who support Biden also increased modestly – by 4% – while the number of Republicans planning to vote for Trump declined by 3%.
+<P>
+The COVID-19 crisis is not the only factor influencing support for Biden.
+But it is a highly significant one.
+If one runs a regression with conventional factors to account for the varying issues and dynamics at play, the COVID-19 crisis – including presumably its health and economic dimensions – accounts for about 20% of the change from March to July.
+<P>
+Among the 84% of Republicans who approve of Trump’s handling of the COVID-19 crisis, 97% say they will vote for him.
+Among the 15% who disapprove in July, however, only 40% plan to vote for him, while, as Table 4 shows, 36% plan to vote for Biden – an 8% increase since late March.
+<P>
+Among the 25% of moderates who approve of Trump’s COVID-19 response, 85% will vote for him.
+But of the 75% who disapprove, just 7% plan to vote for him.
+<P>
+As for independents, as Table 4 shows, 68% disapproved of Trump’s handling of COVID-19 in July, a 25% increase since March.
+Of these, 64% intend to vote for Biden.
+Only 11% of independents who disapprove of Trump’s COVID-19 response plan to vote for him.
+Eighty percent of the 43% of independents who do approve of Trump’s response plan to vote for him.
+<P>
+In sum, Trump is losing among independents and moderates, owing to his handling of the pandemic.
+But three months is a long time in electoral politics, and Trump seems to be trying to turn things around.
+In late July, he resumed regular COVID-19 briefings, began promoting mask wearing, and canceled the Republican National Convention celebrations scheduled for August in Jacksonville, Florida.
+<P>
+Yet it is far from clear whether this will be enough – and not only because Trump has nonetheless continued to tout “alternative facts” about COVID-19.
+One of the key lessons from the rest of the world is that a rapid response is critical to contain the virus and to minimize the economic damage.
+The Trump administration’s response continues to be anything but rapid.
+<P>
+Another lesson is that restricting mobility and travel within a country is essential to contain outbreaks.
+When northern Italy was wracked by COVID-19, the government halted all non-essential inter-regional travel, in order to protect other regions from similar outbreaks.
+In the US, by contrast, such decisions were left up to state governors, only a few of whom belatedly imposed travel restrictions.
+<P>
+With outbreaks spinning out of control in several states, stronger action to protect public health is needed.
+The economic costs will depend partly on how strict such measures are.
+But with many people unlikely to resume normal economic activities until the virus is contained, there is no question that US leaders – beginning with Trump – face a stark choice.
+<P>
+Neither option is attractive.
+A lockdown would ravage an economy that is already cratering, while rejecting a lockdown would most likely merely prolong the pain.
+Either way, it is safe to say that Trump’s loss will almost certainly be Biden’s gain.
+<P>
+Trump can claim, rightly, that unlike, say, the 2008 global financial crisis, the COVID-19 pandemic did not result from internal policy lapses.
+But it was exacerbated by them.
+The US compares unfavorably with many other developed countries on pandemic performance, to the extent that the country’s already-diminished global standing has taken a serious hit.
+While this may not be a major concern for most Americans today, this could change if international restrictions on US travelers persist.
+In any case, Trump will be battling uphill until November.

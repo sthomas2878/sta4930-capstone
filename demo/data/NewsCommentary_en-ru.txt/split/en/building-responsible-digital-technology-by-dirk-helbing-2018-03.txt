@@ -1,0 +1,56 @@
+<HEADLINE>
+Engineering a More Responsible Digital Future
+<P>
+ZURICH – The world is being battered by technological disruption, as innovations such as big data analytics, artificial intelligence (AI), robotics, the Internet of Things, blockchain, 3D printing, and virtual reality change how societies and economies work.
+Individually, each of these technologies has the potential to transform established products, services, and associated support networks.
+Taken together, they will upend old business models and institutions, heralding a new era of economic, social, and political history.
+How will we respond?
+<P>
+Major economic transformations typically produce far-reaching change.
+During the first Industrial Revolution, in the eighteenth and nineteenth centuries, new manufacturing processes eventually led to huge improvements in human wellbeing.
+As productivity increased, salaries and living standards rose.
+But, early in the process, mechanization brought negative consequences, like unemployment, child labor, and environmental degradation.
+<P>
+The social and political impact of the digital revolution could be even more dramatic.
+Wars and revolutions may erupt, and values like human rights and civil liberties could be undermined.
+As my colleagues and I noted in a recent article in Scientific American, the more computers know about us, “the less likely our choices are to be free and not predetermined by others” – as long as informational self-determination is impossible.
+<P>
+Fortunately, the loss of individual autonomy is not inevitable.
+It is possible to engineer a more responsible digital future.
+But we must start doing so immediately.
+Success requires public discourse, digital enlightenment and emancipation, and broader awareness of technology’s risks.
+In other words, the transition we are facing is bigger than any one country or organization can manage alone.
+We all have something at stake: our future.
+<P>
+There are obvious dangers in letting technological progress alone drive this change.
+In 2008, Wired editor Chris Anderson suggested that big data would eventually reveal all truth, without requiring science or theory.
+Clearly, that hasn’t happened.
+With more data at their disposal, scientists find more patterns to study; it takes science to judge which are meaningful and which are misleading.
+The expectation that AI would overcome human weaknesses such as bias has also fallen short.
+Today, many AI systems discriminate against people, and can even be manipulated.
+<P>
+Other predictions of the new “digital society” were equally off-base.
+So-called smart cities – in which urban life is automated – have so far failed to live up to expectations.
+That’s because cities are not simply giant supply chains; they are also spaces for experimentation, creativity, innovation, learning, and interaction.
+<P>
+Finally, while the “platform economy,” and its reliance on the Internet, computation, and data, has given rise to some of the most valuable companies in the world, it has also turned many citizens into passive consumers.
+The irony of hyper-connectivity is that people are less discerning not only about the products they buy, but also with the information they consume.
+It is, after all, this “attention economy” that spawned “fake news.”
+<P>
+Simply put, our digital utopia will not arrive unaided.
+We need a more ethical approach to engineering technology, one that integrates constitutional, cultural, and moral norms and values into artificial and autonomous systems.
+An “ethically aligned,” “value-sensitive” design approach is needed in every aspect of technological development – from smart devices to the software that supports our governments and markets.
+<P>
+For example, if democracy is to remain a viable political model, the information systems that democratic governments use must be designed to support human rights, dignity, self-determination, pluralism, division of responsibility, transparency, fairness, and justice.
+<P>
+To achieve this democratic digital future, the world needs to change how it thinks about technology.
+We need to build open, participatory information ecosystems that empower anyone in the global economy to contribute ideas, talent, and resources.
+In a networked world, where everything we do affects others, we must learn to think beyond ourselves, and pursue cooperation, co-creation, co-evolution, and collective intelligence.
+<P>
+If we progress accordingly, the Fourth Industrial Revolution can be more inclusive than the first; that is the future that my colleagues and I are working toward.
+For example, at Delft University of Technology in the Netherlands, we are engineering socially responsible communication networks and urban governance systems, while the FuturICT initiative, an international network of researchers, is applying a multidisciplinary approach to technology development.
+The goal of both research efforts is to facilitate a more equitable digital future.
+<P>
+We have the ability to engineer technology that serves us, rather than enslaves us.
+But building that future demands a new digital zeitgeist, whereby social, cultural, environmental, and ethical values become part of the design process.
+Innovations and revolutions are often upsetting and tumultuous, but in the digital age, they can also be responsible.

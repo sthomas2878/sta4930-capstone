@@ -1,0 +1,59 @@
+<HEADLINE>
+Y2K Worries
+<P>
+CAMBRIDGE: The passage to the year 2000 involves more than the usual end-of-century doomsday fears.
+Even those who are comfortable that we are not approaching the end of the world and civilization anticipate a serious bump in the road.
+Information technology, the blessings of which are sung day in and day out, not least by investment gurus, may spoil the party.
+Payments systems may fail, transport systems may fail, even security installations might malfunction.
+But empty shops and banks are perhaps the least of the risks we face.
+Should we get out of the markets and into cash early, build inventories of food and simply hunker down until the uncertainties pass?
+<P>
+Preparedness for Y2K varies substantially around the world.
+Surveys show that the US is best prepared, that Japan has prepared very little, and that emerging markets basically not at all.
+What can go most wrong and where is the weakest link?
+A first useful distinction in judging the economic effects of Y2K is between what might actually happen and how people act, as a result, in anticipation.
+Two important areas come into play, production and inventories on one hand and financial transactions on the other.
+For production and inventories the story is simple: businesses fear the disruption of the supply of intermediate goods or final goods and, as a result, they increase their inventories.
+That way, if something goes wrong with their suppliers' systems, at least they will have something on their shelves.
+This effect means that there will be more production and inventory building in the run-up to the year 2000, and correspondingly inventory run-offs and less production in the beginning on next year.
+In the US this effect is estimated to be about one third of one percent of GDP, not small at all.
+<P>
+What appears appropriate for business will also be adopted by households.
+No one, of course, wants to face empty shelves.
+We know this perfectly well; anytime there is a snowstorm or other threatened disruption, households build stocks.
+They will act in this way even more so this time because it is in the nature of Y2K that no one can anticipate the scope and duration of the problems it will cause.
+All this is sound economics.
+But imagine if things don't work out this way.
+Imagine if households don't plan ahead, don't build up reserves.
+Clearly, we would see overproduction and unsold inventories resulting in a far sharper cut in production early in 2000.
+<P>
+The more important issue concerns financial markets and payments systems.
+Imagine if Wall Street closes down because systems fail; no one trades, debts don't get paid, payments are not received leaving would-be recipients without liquidity and unable to meet their obligations.
+In no time, the financial system would grind to a halt.
+Asset prices might collapse and payment irregularities would abound.
+This might happen.
+<P>
+Households and businesses will take great precautions to avoid being caught.
+They will avoid holding bonds that mature at the critical time and thus might not pay; they will avoid lending to businesses that might not be able to rollover their debts.
+They surely would try and hold lots of cash, the most liquid asset of all.
+And because everybody shies away from trading on the critical days, markets will be thin and so the fear of markets disappearing becomes real.
+Such lack of liquidity in turn means that anyone forced to borrow on the first day of the new millenium might find no counterparty.
+<P>
+What can policy makers do to accommodate the situation?
+Clearly they can supply all the cash demanded.
+They do so anyway at Christmas, but this time they will have to prime the pump on a much bigger scale.
+Moreover, if something goes wrong in the sense of payments system failure, the central bank can guarantee liabilities of financial institutions so as to ward off a financial crisis.
+<P>
+The financial risks of Y2K are real; holding long term bonds or holding on to stocks is the right answer; holding more cash and understanding that ATM machines will be empty is only reasonable.
+It is as reasonable to believe that monetary authorities can and will avoid wider problems.
+We will not see market collapses, confidence crises, bank runs.
+No need to sell off your stocks and bonds and sit on cash throughout this December only to worry about getting robbed.
+<P>
+The most likely course of Y2K is like when a big snowstorm hits - a city closes down for a few days and nothing much happens.
+But there is one area that is worrying: public utilities and other systems including transportation and military installations.
+The Chinese leadership has already ordered management of the airlines to be in the air by midnight 2000, nothing better to focus the mind on the need for precaution and Y2K fitness in good time.
+But here, too, fears are probably exaggerated.
+So what if the post office closes for a week- the US government was closed for a week or more last year and nobody really minded very much except for those dependent on disbursements of unemployment compensation or the delivery of passports.
+<P>
+The truth is that most countries do not have the deep reliance on information technology of the US, and for most of them Y2K will be mostly a non-issue.
+It might be just as uneventful as the transition to EMU this past new year's day.

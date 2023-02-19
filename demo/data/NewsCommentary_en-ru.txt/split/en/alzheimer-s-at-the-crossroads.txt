@@ -1,0 +1,63 @@
+<HEADLINE>
+Alzheimer’s at the Crossroads
+<P>
+STOCKHOLM – “Perfect health, like perfect beauty, is a rare thing; and so, it seems, is perfect disease,” said Peter Latham, a nineteenth-century English physician.
+Alzheimer’s disease (AD) is certainly no exception: changes in the brain occur decades before symptoms begin to show; there is no validated biological diagnostic test; and there are only imprecise measures of correlation between AD’s clinical and neuropathological progression.
+There is no cure yet, but, unlike just ten years ago, treatment of its symptoms is now widely available.
+<P>
+Alzheimer’s has again come to a crossroads.
+Diagnostic criteria have not been updated in nearly two decades, but this is about to change.
+New versions of the International Classification of Diseases (ICD-11) and Diagnostic and Statistical Manual of Mental Disorders (DSM-V) are planned for 2013-2014, and proposals for revising the definition of AD have recently been published.
+<P>
+AD is currently diagnosed late, in the stage of dementia characterized by cognitive impairments so severe that they undermine social and occupational functioning.
+When significant irreversible brain damage has already occurred, the benefits of any medication are limited at best.
+Thus, the dementia requirement for diagnosing AD is one important contributor to the failure of many drug trials, and also to the frustration of many patients who are impaired but not yet demented.
+<P>
+Two major interrelated changes are occurring in the definition of AD.
+First, there is a shift of focus from dementia to the disease’s pre-dementia stages.
+Second, there is a tendency to move from predominantly clinical to more biologically oriented criteria, based on neuroimaging, cerebrospinal fluid (CSF) markers, and genetics.
+<P>
+Establishing a new threshold of AD diagnosis fuels many debates where the very definition of ‘disease’ is at stake.
+Interestingly, two different sets of Alzheimer criteria have been mentioned: one for clinics and one for clinical trials.
+This cannot be attributed only to technical difficulties with biomarker assessments in regular clinics; it also reflects deeper uncertainties about biomarkers’ role.
+<P>
+Several markers have been linked to AD neuropathology or symptoms, but some of them are also associated with various neurodegenerative or other diseases.
+Many elderly people without symptoms may have positive biomarkers or AD-related brain changes on post-mortem evaluation.
+<P>
+So do biomarkers have real validity as criteria, and are they absolutely necessary for an AD diagnosis?
+Particular notice should be taken of biomarker-positive asymptomatic patients, since risk states are not necessarily the same thing as having the disease.
+<P>
+Much current AD research is focused on identifying disease-modifying therapies.
+Several AD-related mechanisms are being tested, with many compounds in different phases of development.
+And today’s new thinking on AD is also changing the way clinical trials are planned and conducted.
+<P>
+Should biomarkers be used to select patients for clinical trials?
+Or do they work best if used after selection, as stratification criteria for assessing the differences in response to therapy in drug trials in early AD?
+Would biomarker criteria identify patients with relatively more severe disease and less responsiveness to therapy?
+<P>
+The answers would certainly be worth the (seldom-made) financial effort of evaluating and documenting biomarkers at the beginning of clinical trials, before any medication is administered.
+<P>
+Inclusion and exclusion criteria in clinical trials can have huge consequences for both clinical practice and patients’ lives if an effective disease-modifying treatment is approved.
+In theory, clinical-trial patients should be representative of AD patients in general.
+So restricting trial participants to biomarker-positive AD patients may affect the generalizability of trial results to “regular patients.”
+<P>
+Indeed, a key question is this: are trials being adjusted to the patients, or are patients being adjusted to the trials?
+Given the revised definition of AD, if a new treatment is approved, how many patients risk falling into the gap between criteria for clinics and criteria for clinical trials?
+<P>
+AD diagnosis is a matter of science, but any official medical lexicon has powerful effects beyond diagnosis and treatment of disease.
+Governments, insurance companies, and patients use disease names and diagnostic codes in accounting and budgeting, for medical care, medical retirement, disability compensation, etc, and to construct or dismantle health programs.
+New diagnostic criteria for AD will have to meet standards of not only scientific credibility, but also public accountability.
+<P>
+The debates about pre-dementia and even asymptomatic stages of AD have had another important effect.
+The age-old principle that prevention may be the best cure is being ‘rediscovered’ in AD research, where the focus has long been primarily on treating symptoms as they occur.
+But AD is not just a matter of medical care provision; with the increasing aging of populations, it is also a major public-health problem.
+<P>
+Several large prevention trials are currently going on.
+The emphasis is on a life-course perspective on AD, with modifiable vascular and lifestyle-related risk factors addressed as early as mid-life.
+In addition, full recognition is given to the complexity of the disease by applying multi-domain preventive interventions in which several risk factors are addressed simultaneously.
+<P>
+The multi-domain approach should receive more attention even in clinical trials for AD treatment, where the single-target model (one protein, one disease mechanism, and one drug) still dominates.
+Complex diseases may not respond to a single pill, and a single cure for AD is unlikely to be found.
+New pieces of the complex AD puzzle, gleaned from pre-clinical research, might mean that networks of interactions, rather than single potential drug targets, can be identified.
+<P>
+Several promising RCTs are ongoing, and increased collaboration between pharmaceutical companies, basic researchers, and clinical researchers can bring us closer to developing an optimum treatment, as well as effective prevention strategies.

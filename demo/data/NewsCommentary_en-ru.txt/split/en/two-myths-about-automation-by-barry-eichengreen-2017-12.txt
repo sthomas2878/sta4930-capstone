@@ -1,0 +1,60 @@
+<HEADLINE>
+Two Myths About Automation
+<P>
+BERKELEY – Robots, machine learning, and artificial intelligence promise to change fundamentally the nature of work.
+Everyone knows this.
+Or at least they think they do.
+<P>
+Specifically, they think they know two things.
+First, more jobs than ever are threatened.
+“Forrester Predicts that AI-enabled Automation will Eliminate 9% of US Jobs in 2018,” declares one headline.
+“McKinsey: One-third of US workers could be jobless by 2030 due to automation,” seconds another.
+<P>
+Reports like these leave the impression that technological progress and job destruction are accelerating dramatically.
+But there is no evidence of either trend.
+In reality, total factor productivity, the best summary measure of the pace of technical change, has been stagnating since 2005 in the United States and across the advanced-country world.
+<P>
+Moreover, as the economist Timothy Taylor recently pointed out, the rate of change of the occupational structure, defined as the absolute value of jobs added in growing occupations and jobs lost in declining occupations, has been slowing, not accelerating, since the 1980s.
+This is not to deny that the occupational structure is changing.
+But it calls into question the widely held view that the pace of change is quickening.
+<P>
+The second thing everyone thinks they know is that previously safe jobs are now at risk.
+Once upon a time, it was possible to argue that robots would displace workers engaged in routine tasks, but not the highly skilled and educated – not the doctors, lawyers and, dare one say, professors.
+In particular, machines, it was said, are not capable of tasks in which empathy, compassion, intuition, interpersonal interaction, and communication are central.
+<P>
+Now, however, these distinctions are breaking down.
+Amazon’s Alexa can communicate.
+Crowd-sourcing, together with one’s digital history, can intuit buying habits.
+Artificial intelligence can be used to read x-rays and diagnose medical conditions.
+As a result, all jobs, even those of doctors, lawyers, and professors, are being transformed.
+<P>
+But transformed is not the same as threatened.
+Machines, it is true, are already more efficient than legal associates at searching for precedents.
+But an attorney attuned to the personality of her client still plays an indispensable role in advising someone contemplating a messy divorce whether to negotiate, mediate, or go to court.
+Likewise, an attorney’s knowledge of the personalities of the principals in a civil suit or a criminal case can be combined with big data and analytics when the time comes for jury selection.
+The job is changing, not disappearing.
+<P>
+These observations point to what is really happening in the labor market.
+It’s not that nurses’ aides are being replaced by health-care robots; rather, what nurses’ aides do is being redefined.
+And what they do will continue to be redefined as those robots’ capabilities evolve from getting patients out of bed to giving physical therapy sessions and providing emotional succor to the depressed and disabled.
+<P>
+At one level, this is good news for those concerned about the prospects of incumbent workers: there will continue to be demand for workers in existing occupations.
+Not all nurses’ aides will have to become software engineers.
+The knowledge they acquire on the job – of how one interacts with patients, how one recognizes their moods, and how one acknowledges their needs – will remain pertinent and valued.
+They will use that knowledge to guide and cooperate with their robotic colleagues.
+<P>
+Thus, the coming technological transformation won’t entail occupational shifts on the scale of the Industrial Revolution, with its wholesale redistribution of labor between the agricultural and industrial sectors.
+After all, the vast majority of Americans already work in the service sector.
+But it will be more important than ever for people of all ages to update their skills and renew their training continuously, given how their occupations will continue to be reshaped by technology.
+<P>
+In countries like Germany, workers in a variety of sectors receive training as apprentices and then over the course of their working lives.
+Companies invest and reinvest in their workers, because the latter can insist on it, possessing as they do a seat in the boardroom as a result of the 1951 Codetermination Law.
+Employers’ associations join with strong trade unions to organize and run training schemes at the sectoral level.
+The schemes are effective, in part, because the federal government sets standards for training programs and issues uniform curricula for trainees.
+<P>
+In the US, board membership for workers’ representatives, strong unions, and government regulation of private-sector training are not part of the prevailing institutional formula.
+As a result firms treat their workers as disposable parts, rather than investing in them.
+And government does nothing about it.
+<P>
+So here’s an idea.
+Instead of a “tax reform” that allows firms to expense their capital outlays immediately, why not give companies tax credits for the cost of providing lifelong learning to their employees?

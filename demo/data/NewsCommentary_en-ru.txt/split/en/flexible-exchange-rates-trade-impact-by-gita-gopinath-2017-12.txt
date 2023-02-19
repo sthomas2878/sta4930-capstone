@@ -1,0 +1,48 @@
+<HEADLINE>
+The Elusive Benefits of Flexible Exchange Rates
+<P>
+CAMBRIDGE – In 1953, Milton Friedman published an essay called “The Case for Flexible Exchange Rates,” arguing that they cushion an economy from internal and external shocks by bringing about just the right price changes required to keep the economy at full employment.
+But after almost half-a-century of floating exchange rates, the reality is more complicated than that.
+<P>
+To understand Friedman’s logic, consider a scenario in which productivity in the United States rises.
+In an efficient system, this should reduce the price of US goods relative to those of the rest of the world, with US exports becoming cheaper than imports.
+As America’s terms of trade (the ratio of export prices to import prices) deteriorate, demand is shifted toward US goods, keeping the economy at full employment.
+<P>
+If prices are “sticky” (in the producer’s currency), however, a potential hitch emerges.
+Say the prices of US imports from Japan are sticky in Japanese yen and the prices of US exports to Japan are sticky in dollars.
+The terms of trade will thus remain unchanged, as long as the exchange rate does as well.
+<P>
+Here is where a floating exchange rate comes in.
+By enabling monetary expansion, and thus causing the US dollar to depreciate, the logic goes, a floating exchange rate allows the prices of US exports to decline relative to its imports.
+The result is the desired deterioration of the producer’s terms of trade and the maintenance of full employment.
+<P>
+But this line of reasoning assumes that a country’s terms of trade move in lockstep with its exchange rate.
+And that, as history over a quarter-century has shown, does not seem to be the case.
+<P>
+In a recent paper, the International Monetary Fund’s Emine Boz, Princeton’s Mikkel Plagborg-Møller, and I construct bilateral export- and import-price indices for 2,500 country pairs, covering 91% of world trade for the period 1989-2015.
+We exclude the prices of commodities (oil, copper, and other such goods that are traded on an exchange), as these prices are not sticky.
+<P>
+As it turns out, there is no evidence that the terms of trade and the exchange rate move in tandem.
+On the contrary, a 1% depreciation in the bilateral exchange rate is associated with only a 0.1% depreciation in the bilateral terms of trade in the year of the depreciation.
+The origin of this disconnect – which Camila Casas, Federico Diez, Pierre-Olivier Gourinchas, and I describe in a 2016 paper – seems to be that, for the vast majority of internationally traded goods, prices are sticky in dollars, not in the producer’s currency, as Friedman’s reasoning required.
+<P>
+Consider the case of the US and Japan.
+Almost 100% of US exports to Japan are priced in dollars, meaning that they, as in Friedman’s version, are sticky in dollars.
+But 80% of US imports from Japan are invoiced in dollars, meaning that those prices, too, are sticky in dollars, rather than in Japanese yen.
+As a result, the terms of trade change very little, even if the exchange rate fluctuates.
+<P>
+This means that, even if the US dollar depreciates, it does not become more expensive for US importers to buy Japanese goods, so there is limited incentive to switch from Japanese to US goods.
+A weaker dollar thus has limited impact on US imports.
+Likewise, a weaker yen does little to spur Japanese exports to the US, because the dollar price of those exports remains roughly constant.
+<P>
+This phenomenon applies even to trade transactions that do not include the US.
+As I documented in a 2015 paper, the share of world imports invoiced in US dollars is 4.7 times larger than the share of world imports involving the US.
+For world exports, that figure is 3.1.
+This “dominant currency paradigm” lies at the root of the terms-of-trade disconnect.
+<P>
+In fact, we document that global trade prices and volumes are driven by the dollar exchange rate, rather than the exchange rate between the two trading partners’ currencies.
+So fluctuations in the price and quantity of India’s imports from China, for example, depend on the rupee-dollar exchange rate, rather than the rupee-renminbi exchange rate.
+The strength of the US dollar is thus a key predictor of aggregate trade volume and consumer/producer price inflation worldwide.
+<P>
+Friedman was right about one thing: flexible exchange rates do provide valuable monetary-policy independence.
+But, in a dollar-dominated trade environment, their ability to support full employment is severely limited.

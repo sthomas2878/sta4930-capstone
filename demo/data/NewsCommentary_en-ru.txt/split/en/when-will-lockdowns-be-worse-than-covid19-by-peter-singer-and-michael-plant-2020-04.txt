@@ -1,0 +1,81 @@
+<HEADLINE>
+When Will the Pandemic Cure Be Worse Than the Disease?
+<P>
+MELBOURNE/OXFORD – As of today, almost half the world’s population, nearly four billion people, are under government-mandated lockdowns in an effort to stop the spread of the COVID-19 coronavirus.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+How long should the lockdowns last?
+The obvious answer, to paraphrase UK Prime Minister Boris Johnson, is until we’ve “beaten” COVID-19.
+But when exactly will that be?
+Until not a single person on Earth has it?
+That may never happen.
+Until we have a vaccine, or an effective treatment?
+That could easily be a year away, perhaps much longer.
+Do we want to keep people locked down, our societies shuttered – restaurants, parks, schools, and offices closed – for that long?
+<P>
+It pains us to say it, but US President Donald Trump is right: “We cannot let the cure be worse than the disease.”
+Lockdowns have health benefits: fewer will die of COVID-19, as well as other transmissible diseases.
+But they have real social and economic costs: social isolation, unemployment, and widespread bankruptcies, to name three.
+These ills are not yet fully apparent, but they soon will be.
+<P>
+Some people insist that there is, in practice, no trade-off: lockdowns are better for saving lives and the economy.
+This seems to be wishful thinking.
+Presumably, such people are supposing lockdowns will end soon.
+But if we end lockdowns before vanquishing COVID-19, some people will die from the disease who otherwise would have lived.
+It’s not so simple to escape the trade-off between saving lives and saving livelihoods.
+<P>
+It seems safe to say that the right time to end the lockdowns is sometime between today and ten years.
+But that’s not very helpful.
+If we want a more useful answer than that, we must think carefully about how to make trade-offs.
+<P>
+How should we do that?
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+First, we must not overlook the potential costs of containing coronavirus.
+Research in moral psychology has revealed an “identified victim effect.”
+People prefer to offer aid to a specific, known victim rather than provide the same benefit to each of a larger, vaguely defined set of individuals.
+We think the identified victim effect is a moral mistake – we should strive to do as much good as possible, even when we do not know exactly who gains.
+<P>
+Something equivalent – call it an “identified cause effect” – may be limiting our collective thinking about COVID-19: we are focusing on a specific known source of suffering, even if we do not know who suffers, and neglecting other problems.
+Could the images of people dying on stretchers in tents in hospital parking lots be blinding us to the greater harm we may be causing across society through our efforts to avoid those awful deaths?
+<P>
+Second, making trade-offs requires converting different outcomes into a single unit of value.
+A problem with the current conversations about whether we should strangle the economy to save lives is that we cannot directly compare “lives saved” against “lost GDP.”
+We need to put them into some common unit.
+<P>
+One way to make progress is to consider that a lockdown, if it goes on long enough, will bring about a smaller economy that can afford fewer doctors, nurses, and medicines.
+In the United Kingdom, the National Health Service estimates that for about £25,000 ($30,000) it can pay for one more “quality-adjusted life year.”
+In effect, that sum can buy a patient an extra year of healthy life.
+<P>
+If we then estimate how much lockdowns cost the economy, we can estimate the years of healthy life we are likely to gain now by containing the virus and compare it to how many years we are likely to lose later from a smaller economy.
+<P>
+We have not yet seen any sufficiently rigorous attempts to do this.
+Paul Frijters, an economist, has offered a back-of-the-envelope analysis that leads to a startling result: it would have been better, in terms of years of healthy life lost, not to have started the lockdowns.
+<P>
+In reaching that conclusion, a major factor is that most of those who die from COVID-19 are elderly or have underlying health conditions.
+Frijters makes some questionable assumptions.
+He attributes all the economic downturn to government actions, whereas COVID-19 would have caused significant economic disruption anyway; and his estimate of the fatality rate does not account for the additional deaths likely to occur when overburdened intensive care units are unable to admit new patients.
+<P>
+In any case, thinking solely in terms of quality-adjusted life years is too narrow.
+Health isn’t all that matters.
+What we really need to do is compare the impact different policies have on our overall wellbeing.
+<P>
+To do that, we think it’s best to measure wellbeing by using individuals’ reports of how happy and how satisfied with their lives they are, an approach pioneered by academics in the World Happiness Report.
+Doing this means we can, in a principled way, weigh up otherwise hard-to-compare considerations when deciding how to respond to COVID-19 – or to any other systemic risk.
+<P>
+To focus on one major concern, ten million US jobs have been lost in just two weeks, almost entirely due to the pandemic.
+In India, the lockdown has devastated migrant workers, many of whom have no other means of support.
+We all agree that unemployment is bad, but it’s not obvious how we should trade unemployment against years of healthy life.
+<P>
+Thinking directly in terms of wellbeing allows us to make this comparison.
+Unemployment has dire effects on wellbeing, reducing individuals’ life satisfaction by 20%.
+With this information, we can compare the human costs of a lockdown to the wellbeing gained by extending lives.
+A broader analysis would include other impacts, such as social isolation and anxiety, and tell us when a lockdown should be lifted.
+<P>
+COVID-19 will be with us for some time.
+Are months of government-enforced lockdowns the right policy?
+We don’t know, and as moral philosophers, we can’t answer this question on our own.
+Empirical researchers need to take on the challenge of calculating the effects, not in terms of wealth or health, but in the ultimate currency, wellbeing.

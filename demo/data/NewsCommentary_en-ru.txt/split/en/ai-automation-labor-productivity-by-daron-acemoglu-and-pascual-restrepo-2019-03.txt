@@ -1,0 +1,62 @@
+<HEADLINE>
+The Revolution Need Not Be Automated
+<P>
+BOSTON – Artificial intelligence is transforming every aspect of our lives, not least the economy.
+As a general-purpose technology, AI’s applications are potentially endless.
+While it can be used to automate tasks previously performed by people, it can also make human labor more productive, thereby increasing labor demand.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Unfortunately, the current trend in commercial AI development is toward more and more automation, with potentially disastrous consequences for society.
+To be sure, automation has been an engine of productivity growth since the beginning of the Industrial Revolution, when, starting in the late eighteenth century, weaving and spinning were mechanized.
+But the tide of automation does not automatically lift all boats.
+By replacing labor with machines in production tasks, automation reduces labor’s share of value added (and national income), contributes to inequality, and may reduce employment and wages.
+<P>
+And yet most modern economies have experienced robust wage and employment growth since the Industrial Revolution.
+As automation has displaced workers in performing certain tasks, other technologies have emerged to restore labor’s central role in the production process by creating new tasks in which humans have a comparative advantage.
+These technologies have not only contributed to productivity growth, but have also increased employment and wages, generating a more equitable distribution of resources in the process.
+<P>
+Consider agricultural mechanization, which started in the nineteenth century.
+At first, the substitution of machines for raw labor did reduce the share of labor in value added, displacing a huge share of the US workforce that had previously been employed in farming.
+But, at the same time, burgeoning new industries needed workers to perform novel tasks and pursue emerging occupations.
+Clerical positions expanded both in services and manufacturing, where a finer division of labor boosted productivity, employment, and wage growth.
+<P>
+A similar pattern of technological change fueled employment and wage growth for high- and low-skilled workers alike in the decades following World War II.
+Yet, in the past three decades, the accompanying changes needed to offset the labor-displacement effects of automation have been notably absent.
+As a result, wage and employment growth has remained stagnant, and productivity growth anemic.
+<P>
+Ominously, AI appears set to exacerbate this pattern, leading to even higher inequality and many more decades of slow wage growth and declining labor-market participation.
+But there is nothing about AI that requires this outcome.
+On the contrary, AI applications could be deployed to restructure tasks and create new activities where labor can be reinstated, ultimately generating far-reaching economic and social benefits.
+<P>
+In education, for example, real-time data collection and processing by AI systems can empower teachers to offer individualized instruction calibrated to each student’s needs, which likely vary from subject to subject.
+The same applies to health care, where AI can empower technicians and skilled nurses to offer personalized treatments.
+Moreover, AI’s potential benefits for labor are not confined to services.
+Thanks to advances in augmented and virtual reality, it can also be used to create new tasks for humans in high-precision manufacturing, which is currently dominated by industrial robots.
+<P>
+It is tempting to think that the market will translate these promises into reality.
+New technologies generate benefits not just for the inventors and early adopters, but for other producers, workers, and consumers as well.
+And some technologies have the capacity to spur job creation and reduce inequality, with huge social benefits that the inventors and early adopters didn’t even consider.
+<P>
+The problem is that technology markets don’t work so well when there are competing paradigms in play.
+The more the automation paradigm pulls ahead, the more market incentives will favor investing in that area at the expense of other paradigms that could create new labor-intensive tasks.
+<P>
+If that isn’t reason enough not to trust in the market, there are additional problems specific to AI technologies.
+To take one example, the field is dominated by a handful of large tech companies with business models closely linked to automation.
+These firms account for the bulk of investments in AI research, and they have created a business environment in which the removal of fallible humans from the production processes is regarded as a technological and business imperative.
+To top it off, governments are subsidizing corporations through accelerated amortization, tax breaks, and interest deductions – all while taxing labor.
+<P>
+No wonder adopting new automation technologies has become profitable even when the technologies themselves are not particularly productive.
+Such failures in the market for innovation and technology seem to be promoting precisely the wrong kind of AI.
+A single-minded focus on automating more and more tasks is translating into low productivity and wage growth and a declining labor share of value added.
+<P>
+This doesn’t have to be the case.
+By recognizing an obvious market failure and redirecting AI development toward the creation of new productivity-enhancing tasks for people, we can achieve shared prosperity once again.
+We dare not hazard the alternatives.

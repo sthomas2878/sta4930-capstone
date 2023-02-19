@@ -1,0 +1,58 @@
+<HEADLINE>
+Crypto-Fool’s Gold?
+<P>
+CAMBRIDGE – Is the cryptocurrency Bitcoin the biggest bubble in the world today, or a great investment bet on the cutting edge of new-age financial technology?
+My best guess is that in the long run, the technology will thrive, but that the price of Bitcoin will collapse.
+<P>
+If you haven’t been following the Bitcoin story, its price is up 600% over the past 12 months, and 1,600% in the past 24 months.
+At over $4,200 (as of October 5), a single unit of the virtual currency is now worth more than three times an ounce of gold.
+Some Bitcoin evangelists see it going far higher in the next few years.
+<P>
+What happens from here will depend a lot on how governments react.
+Will they tolerate anonymous payment systems that facilitate tax evasion and crime?
+Will they create digital currencies of their own?
+Another key question is how successfully Bitcoin’s numerous “alt-coin” competitors can penetrate the market.
+<P>
+In principle, it is supremely easy to clone or improve on Bitcoin’s technology.
+What is not so easy is to duplicate Bitcoin’s established lead in credibility and the large ecosystem of applications that have built up around it.
+<P>
+For now, the regulatory environment remains a free-for-all.
+China’s government, concerned about the use of Bitcoin in capital flight and tax evasion, has recently banned Bitcoin exchanges.
+Japan, on the other hand, has enshrined Bitcoin as legal tender, in an apparent bid to become the global center of fintech.
+<P>
+The United States is taking tentative steps to follow Japan in regulating fintech, though the endgame is far from clear.
+Importantly, Bitcoin does not need to win every battle to justify a sky-high price.
+Japan, the world’s third largest economy, has an extraordinarily high currency-to-income ratio (roughly 20%), so Bitcoin’s success there is a major triumph.
+<P>
+In Silicon Valley, drooling executives are both investing in Bitcoin and pouring money into competitors.
+After Bitcoin, the most important is Ethereum.
+The sweeping, Amazon-like ambition of Ethereum is to allow its users to employ the same general technology to negotiate and write “smart contracts” for just about anything.
+<P>
+As of early October, Ethereum’s market capitalization stood at $28 billion, versus $72 billon for Bitcoin.
+Ripple, a platform championed by the banking sector to slash transaction costs for interbank and overseas transfers, is a distant third at $9 billion.
+Behind the top three are dozens of fledgling competitors.
+<P>
+Most experts agree that the ingenious technology behind virtual currencies may have broad applications for cyber security, which currently poses one of the biggest challenges to the stability of the global financial system.
+For many developers, the goal of achieving a cheaper, more secure payments mechanism has supplanted Bitcoin’s ambition of replacing dollars.
+<P>
+But it is folly to think that Bitcoin will ever be allowed to supplant central-bank-issued money.
+It is one thing for governments to allow small anonymous transactions with virtual currencies; indeed, this would be desirable.
+But it is an entirely different matter for governments to allow large-scale anonymous payments, which would make it extremely difficult to collect taxes or counter criminal activity.
+Of course, as I note in my recent book on past, present, and future currencies, governments that issue large-denomination bills also risk aiding tax evasion and crime.
+But cash at least has bulk, unlike virtual currency.
+<P>
+It will be interesting to see how the Japanese experiment evolves.
+The government has indicated that it will force Bitcoin exchanges to be on the lookout for criminal activity and to collect information on deposit holders.
+Still, one can be sure that global tax evaders will seek ways to acquire Bitcoin anonymously abroad and then launder their money through Japanese accounts.
+Carrying paper currency in and out of a country is a major cost for tax evaders and criminals; by embracing virtual currencies, Japan risks becoming a Switzerland-like tax haven – with the bank secrecy laws baked into the technology.
+<P>
+Were Bitcoin stripped of its near-anonymity, it would be hard to justify its current price.
+Perhaps Bitcoin speculators are betting that there will always be a consortium of rogue states allowing anonymous Bitcoin usage, or even state actors such as North Korea that will exploit it.
+<P>
+Would the price of Bitcoin drop to zero if governments could perfectly observe transactions?
+Perhaps not.
+Even though Bitcoin transactions require an exorbitant amount of electricity, with some improvements, Bitcoin might still beat the 2% fees the big banks charge on credit and debit cards.
+<P>
+Finally, it is hard to see what would stop central banks from creating their own digital currencies and using regulation to tilt the playing field until they win.
+The long history of currency tells us that what the private sector innovates, the state eventually regulates and appropriates.
+I have no idea where Bitcoin’s price will go over the next couple years, but there is no reason to expect virtual currency to avoid a similar fate.

@@ -1,0 +1,73 @@
+<HEADLINE>
+The Great Wealth Tax Debate
+<P>
+WASHINGTON, DC – In 1990, 12 advanced economies had a tax on household wealth.
+Now only four do, after French President Emmanuel Macron scrapped his country’s version in 2017.
+Yet, a fierce debate has erupted in the United States over the proposal by Senator Elizabeth Warren, a leading Democratic presidential candidate, to introduce a tax of 2% on the wealth of “ultra-millionaires” (and 3% on that of billionaires).
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+In a new book, economists Emmanuel Saez and Gabriel Zucman of the University of California, Berkeley, who have advised Warren, claim that her tax would tackle growing wealth concentration in the US and yield some $250 billion per year, or 1.2% of GDP.
+But critics such as Larry Summers, a former US Secretary of the Treasury under President Bill Clinton, and Greg Mankiw, who served as President George W. Bush’s chief economic adviser, argue that a wealth tax would yield little revenue, distort investor behavior, and fail to curb the billionaires’ power.
+The ongoing controversy over the wealth tax is bound to be a defining one for the Democrats.
+<P>
+The starting point of this debate is fairly clear.
+As Lucas Chancel of the Paris School of Economics noted at a recent conference on combating inequality organized by the Peterson Institute for International Economics, the increase in wealth concentration is unmistakable, at least in the US.
+According to Saez and Zucman, the top 1% of US households now own 40% of the country’s wealth, while the bottom 90% hold only one-quarter.
+Since 1980, the 1% and the 90% have traded places.
+<P>
+Economists are generally reluctant to make normative judgments about wealth inequality, because theory does not provide them with a proper yardstick for doing so.
+If innovators become immensely rich, it is presumably because their innovation was immensely valuable – in which case their wealth is deserved – or because they have managed to turn their idea into a monopoly rent, which should be addressed via competition policy, not taxation.
+Although many economists advocate curbing Amazon’s growing monopoly power, for example, most do not propose taxing away the value of Jeff Bezos’s innovation.
+<P>
+Furthermore, wealth taxation itself gives rise to disputes.
+As Mankiw suggests, consider two high-flying professionals with comparable incomes but different lifestyles.
+Why should the one who saves and invests be taxed more than the one who uses a private jet to go skiing?
+Surely, the saver contributes more to collective wellbeing; if anything, the tax burden should fall on the skier.
+<P>
+For that reason, many economists advocate a combination of a progressive income tax and an inheritance tax, rather than a tax on wealth.
+But there are two problems with this idea.
+The first is that many of the super-rich have little income.
+As Saez and Zucman point out, Warren Buffett and Mark Zuckerberg earn little more than they spend.
+Their wealth increases as a result of capital gains, not saved income.
+And because such gains are taxable only when the corresponding assets are sold, their annual increase in wealth essentially escapes taxation.
+<P>
+The second obstacle is that inheritance tax is politically toxic.
+Opinion polls consistently show that while economists love the idea, most voters hate it.
+Politicians understandably tend to steer clear of what most voters reject.
+<P>
+But if the income tax does not apply to capital gains and the estate tax does not redistribute wealth when someone dies, wealth inequality is bound to increase further.
+Some will say there is nothing wrong with that, provided capital is put to productive or collectively beneficial use.
+In Germany, for example, private companies are exempt from inheritance tax so that family-owned Mittelstand firms – which are essential to the country’s prosperity – can be transferred to the next generation.
+<P>
+However, a society of heirs in which a person’s lifetime labor income matters less than the capital they inherit from their parents is morally indefensible, unlikely to be politically sustainable, and may not be economically efficient.
+Heirs are often poor managers and poor investors.
+<P>
+True, a wealth tax does not come without difficulties.
+How, for example, should a start-up founder be taxed when their firm has a market value but is yet to generate any income?
+Should he or she pay the government in shares?
+And in Europe, which lacks a harmonized tax regime, how can national authorities cope when rich people can simply move to another country?
+Designing a fair and efficient wealth tax is bound to be more complicated than its proponents typically claim.
+<P>
+At least one thing is clear: the European wealth taxes of the past are not examples to follow.
+They kicked in at far too low a threshold – €1.3 million ($1.5 million) in the case of France’s impôt de solidarité sur la fortune – and were riddled with loopholes as a consequence.
+In the French case, a business owner was exempt as long as he or she did not sell the company.
+That led to successful serial start-up founders being taxed while sleepy entrepreneurs were not.
+And whereas a moderately wealthy French household’s financial portfolio could easily generate a negative after-tax return, the effective tax rate on the wealth of the country’s 100 richest individuals was a ridiculously low 0.02%.
+<P>
+As Saez and Zucman argue, a wealth tax should treat all assets equally and have a high enough threshold.
+Warren is proposing a 2% tax on wealth above $50 million.
+The equivalent threshold in Europe would probably be lower, but certainly not low enough to satisfy Thomas Piketty, who proposes in his latest book a 5% annual tax on wealth of €2 million.
+Whereas Warren wants to reform capitalism, Piketty would like to end it and eradicate private property as we know it.
+<P>
+Inequality is back at the forefront of economic policy debates, for good reason.
+A wealth tax is no panacea, and not even an ideal response to growing inequality at the top.
+But absent a better alternative, it can serve as a reasonable second-best policy.
+At the very least, the idea does not deserve to be banished as a heresy.

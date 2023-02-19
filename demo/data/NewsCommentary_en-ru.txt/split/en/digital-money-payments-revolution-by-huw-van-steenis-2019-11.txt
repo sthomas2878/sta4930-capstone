@@ -1,0 +1,71 @@
+<HEADLINE>
+The Digital Money Revolution
+<P>
+LONDON – How radically will digital currencies change our methods of exchange and the way that we think about money?
+With innovation in digital payments barreling ahead, these questions are now commanding the attention of the World Economic Forum and other international institutions.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Regardless of how Facebook’s own digital-currency moonshot, Libra, fares, it has already provided a wake-up call for firms and policymakers around the world.
+“If revolution there is to be, let us rather undertake it than undergo it,” Otto von Bismarck once said.
+The question for policymakers is not whether to try to shape the digital-money revolution, but how.
+<P>
+Digital money is already a key battleground in finance, with technology firms, payment processing companies, and banks all vying to become the gateway into the burgeoning platform-based economy.
+The prizes that await the winners could be huge.
+In China, Alipay and WeChat Pay already control more than 90% of all mobile payments.
+And in the last three years, the four largest listed payment firms – Visa, Mastercard, Amex, and PayPal – have increased in value by more than the FAANGs (Facebook, Apple, Amazon, Netflix, and Google).
+In a way, Libra is actually crashing the party late.
+<P>
+The opportunities offered by digital money are clear.
+Across Western countries, moving money is overly costly and inefficient, and those who end up paying the most are often the ones who can least afford to do so.
+As I argued in a report for the Bank of England (BOE) earlier this year, improving these processes could yield significant returns and social benefits.
+<P>
+Moreover, the needs – the potential returns – are even greater in many emerging markets, particularly when it comes to cross-border payments.
+According to the World Bank, the cost of sending international peer-to-peer remittances averages around 7% of the sum.
+Efforts to improve the main payment channels are ongoing.
+TransferWise, for example, claims to have reduced the average cost of cross-border transfers for its clients to 0.74%.
+But less well-trodden routes remain a challenge, owing to the hurdles posed by anti-money-laundering rules and poor data quality.
+<P>
+Given the concerns that Libra has raised, some central banks have begun to explore the option of issuing their own digital tokens.
+Others are studying the thorny legal and regulatory challenges posed by digital money, so that they can safeguard monetary and financial stability.
+For her part, Lael Brainard, a governor on the US Federal Reserve Board, recently suggested that the risks of cryptocurrencies outweigh the benefits.
+By contrast, the People’s Bank of China is forging ahead – though not toward the decentralized or “permissionless” blockchain model envisioned by crypto enthusiasts.
+The PBOC wants to use cryptography to issue tokens to mainstream banks, which will then be passed on to customers within the existing two-tiered banking system.
+<P>
+Hence, if the European Central Bank (or others) wanted to be the first central bank to issue digital money, the opportunity is there for the taking.
+To policymakers considering the options presented by digital money, I would offer five recommendations from my BOE report.
+<P>
+First, monetary authorities should create the infrastructure to enable alternative payment methods to connect to one another.
+The private sector can flourish when central banks act as a platform for innovation, as BOE Governor Mark Carney has shown by granting non-bank payment firms access to the BOE payments system.
+But success will depend on how easily new providers can access the central-bank infrastructure, which will require well-designed application programming interfaces through which to receive and share information.
+<P>
+Second, policymakers should usher in the next generation of payments regulation.
+Rules need to be updated to reflect the increasing complexity and shifting risks of the current system.
+As the cost of payments falls, the value of data will grow.
+Yet existing rules pertaining to data sharing, security, and liability are mostly rudimentary.
+Given the flurry of new entrants, there is a case to be made for tiering regulation – as the Singaporeans have done – and stress-testing payment firms for their financial resilience and cyber-security protections.
+<P>
+Third, governments need to champion better digital identification, which is essential to improving financial inclusion, curbing cyber fraud, and reducing costs.
+Some countries have already made impressive progress on this front.
+India, for example, has largely cracked the identification problem with its Aadhaar program, which dramatically simplifies the process through which networks can know their customers.
+Countries that do not have a tradition of issuing national ID cards have more work to do, but their governments can cooperate with the private sector, or use existing high-quality national data sets such as passport and tax numbers.
+<P>
+Fourth, all countries need to support stronger messaging standards to improve cross-border payments, reduce costs, and prevent fraud.
+Just as postal codes help mail get to the right place, so too could better tagging of payment senders and recipients.
+<P>
+Fifth, and critically, policymakers need to create a roadmap for the decline of cash.
+In Sweden, cash payments have fallen by 80% over the past decade, and many other developed markets are just 5-10 years behind.
+Digital payments bring many benefits, but the Swedish experience shows that without a coordinated plan, the pace of change risks excluding some groups in society.
+As payment habits shift, each country will need a strategy to improve its payments infrastructure – including broadband and mobile-telephony networks – so that no one is left behind.
+<P>
+Payments innovation is moving at a dizzying pace.
+Some ideas may fail to get off the ground, while others may need to pivot to become commercially viable.
+Other issues, like market dominance or cyber-security risks, will undoubtedly become more prominent in policy debates.
+On balance, however, the economic and social benefits of a frictionless, fraud-free, and trusted global payments system will likely outweigh the risks.

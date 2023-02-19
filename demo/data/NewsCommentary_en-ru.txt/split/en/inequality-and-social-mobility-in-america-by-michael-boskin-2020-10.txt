@@ -1,0 +1,69 @@
+<HEADLINE>
+Inequality and Its Discontents
+<P>
+STANFORD – Inequality has been seizing ever more of the public’s attention in recent years, reflected everywhere from papal encyclicals and economic tomes by French socialists to technical academic debates and the demotic language of politicians and pundits.
+The health and economic effects of the COVID-19 pandemic have further elevated these concerns.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+But which aspect of inequality should we be worried about?
+There are inequalities of opportunity and inequalities of outcome; there is overall inequality, and there is inequality at the tails of the distribution.
+Should we be more worried about absolute or relative positions – mobility or stability?
+What is really more important, the distribution of the economic pie or the level and growth of living standards?
+<P>
+In China over the past four decades, inequality has soared, even as hundreds of millions of people have been lifted out of abject poverty.
+In the United States today, after-tax per capita GDP is 50% higher than in less unequal Denmark and Sweden, where higher taxes fund huge welfare systems.
+Among the American states, California has the highest poverty rate once one adjusts for its 20% higher average household size and 15% higher cost of living.
+<P>
+Moreover, consumption and disposable income are considerably less unequal than the oft-quoted market income figures.
+Average measures taken over a longer term tend to show less inequality, reflecting the fact that many people are poor or rich only temporarily.
+Many of my university students currently have low incomes, but will almost certainly be very well off later in their lives.
+It is not surprising that natural age-earnings profiles and measures of life-cycle wealth accumulation would show considerable inequality at any point in time.
+All data sources have strengths and limitations, be it sample size, frequency, item coverage, or comparability (especially relevant in the case of international data).
+<P>
+Accounting as best as I can for these factors, I have compiled the following summary of major trends in US inequality in recent decades.
+Since around 1980, the skill premium in wages has grown substantially, whereas lower-skill real (inflation-adjusted) wages have grown more slowly (not to be confused with a decline).
+This reflects technology’s bias toward skilled labor, globalization’s negative effects on less-skilled wage earners, and the composition of labor-skill supply and demand.
+<P>
+During this period, overall inequality increased in almost all advanced economies (though some believe it will reverse), suggesting that domestic policies could not have been the primary cause.
+Similarly, after a long period of stability, labor’s share of national income has declined in all major economies.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Meanwhile, though social mobility has remained at considerable levels, it likely declined, including inter-generationally.
+Changes in the wage distribution have been concentrated mostly in the top half, and though there has been a relative increase in wealth at the very top, it is less than some commentators claim.
+<P>
+Indeed, there has been a huge increase in cash and in-kind transfer payments.
+One-sixth of US income comes from such payments, and the rate in Western Europe’s social-welfare states is even higher.
+America’s unfunded entitlements liabilities have grown to several times the already-high national debt.
+<P>
+While inequality in disposable income (and even more so in consumption) remains substantial, it is much lower than inequality in market incomes.
+After adding transfers and subtracting taxes, one finds that the income of the top 1% in the US falls by over one-third, while that of the bottom 20% triples.
+<P>
+Finally, until recently, only limited progress was made in combating poverty, despite the proliferation of several scores of programs costing $1.2 trillion per year.
+In the three years prior to the COVID-19 crisis, however, the acceleration of economic growth was accompanied by a reduction in poverty to the lowest level ever.
+Median incomes rose far more than in the preceding eight years, and wages grew most rapidly at the bottom.
+The income gap between those with a college degree and those without narrowed, as did the gap between whites and minorities.
+<P>
+Where do these broad trends leave us?
+Former US President John F. Kennedy famously proclaimed that “a rising tide lifts all boats.”
+(More accurately, a rising tide lifts the most boats and leaves the fewest grounded or sunk.)
+In a growing economy, the absolute well-being of those near the top and the bottom are positively correlated, so the most important policies to pursue are those that promote strong economic growth and full employment.
+<P>
+In this context, there is not much scope for major expansion of the welfare state without seriously harming economic growth and thus inter-generational equity.
+Any such expansion is limited by the ever-larger unfunded liabilities for Social Security, Medicare, and their state and local analogs, as well as by the negative incentive effects of higher explicit and implicit taxes (reflecting the rate at which recipients lose benefits as income rises).
+<P>
+By consolidating, modernizing, and better targeting existing programs, the US could free up resources for where they are most needed.
+The federal government does not need 47 job-training programs in nine agencies, costing some $20 billion per year and yielding poor results.
+Likewise, slowing the growth of Social Security spending on those who already have considerable other resources could reduce the need for higher future taxes and help achieve President Franklin D. Roosevelt’s original goal of providing a “measure of protection … against poverty-ridden old age.”
+<P>
+Moreover, educational reforms, such as greater school choice and merit pay, can improve opportunities for disadvantaged children.
+And taxing a broader base of economic activity and people can keep rates as low as possible while still adequately funding the necessary functions of government.
+<P>
+While some on the left and libertarian right push for a universal basic income, it would be far better simply to subsidize low wages for those able to work.
+That would raise incomes, provide stronger work incentives, and get more people onto the economic ladder than would high minimum-wage mandates that price people out of the market and create welfare dependency.
+And while the direct costs of wage subsidies would be substantial, they would be heavily offset by the reduction in payments from existing programs.
+<P>
+It is time to start harnessing the power of the market rather than the government.
+That is how we will replace dependency with opportunity and upward mobility.

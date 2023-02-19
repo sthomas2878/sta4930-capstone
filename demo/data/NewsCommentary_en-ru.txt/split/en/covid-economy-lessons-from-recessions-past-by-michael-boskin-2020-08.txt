@@ -1,0 +1,67 @@
+<HEADLINE>
+How Does the COVID Recession Compare?
+<P>
+STANFORD – The historically deep COVID-19 recession appears to have turned the corner in most countries.
+But current private and official forecasts, if correct, imply that most economies will not return to their previous performance peaks until late 2022.
+Much will depend not only on the evolution of the pandemic and effective therapeutic and vaccine deployment, but also on the monetary, fiscal, trade, and regulatory policies that are pursued.
+Policymakers and commentators are thus examining previous episodes in search of an effective response.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+All recessions differ in terms of their proximate cause.
+Several post-World War II recessions in the United States followed monetary-policy tightening by the US Federal Reserve to control rising inflation.
+The deep recessions of 1973-75 and 1981-82 followed large oil shocks (when the economy relied more heavily on energy imports than it does now).
+And the 2001 recession came after the dotcom bubble burst.
+<P>
+America’s 2008-09 Great Recession, by contrast, was caused by a crisis stemming from overleveraged financial institutions.
+The US had engaged in serial social engineering to extend home loans to people who traditionally would not have qualified for them, causing housing prices and household debt ratios to rise to unsustainable levels.
+The subsequent decline in housing prices and explosion of foreclosures and unemployment hit aggregate demand, resulting in the third major recession of the post-war era.
+<P>
+Finally, the COVID recession has come on the tail of unprecedented lockdown measures that halted the entire in-person “non-essential” economy.
+What started as a massive supply-side shock quickly morphed into a demand shortfall, owing to the rapid increase in unemployment, high levels of uncertainty about recovery prospects, online-only shopping, and an increase in personal saving.
+<P>
+Deep recessions are usually followed by rapid recoveries, as illustrated by the years of annual GDP growth above 4% in the 1970s and 1980s.
+Similarly, mild recessions – like that of 1990-91 – are usually followed by relatively slower recoveries.
+The Nobel laureate economist Milton Friedman dubbed this phenomenon the “plucking” effect (in reference to a violin string).
+<P>
+The post-2008 Great Recession, however, was followed by eight years of half-speed (2%) annual growth.
+A recovery as strong as those from previous deep recessions would have saved roughly 20 million job-years (one full-time job for one year) over four years.
+There are many potential explanations for this underperformance.
+One is that the government’s attempt to re-engineer wide swaths of the economy with Obamacare, banking, and energy regulation caused great uncertainty and discouraged hiring and investment; another is that the policy response undermined work incentives.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The Great Recession launched a train of monetary and fiscal measures to stimulate the economy.
+The Fed had plenty of room to lower its target interest rate from 5% to zero, and left it there for seven years, while arranging bailouts, backstops, currency swap lines, and asset purchases of some $3 trillion worth of Treasuries and mortgage-backed securities.
+But diminishing returns set in.
+Adding another trillion dollars to an excess of reserves that are not being lent – on which the Fed pays interest – does little for the economy.
+<P>
+In 2007, the US debt-to-GDP ratio was 35%.
+Following the financial crisis, the US pursued fiscal measures that included the 2009 $800 billion-plus stimulus package, the similar-sized 2010 tax relief and unemployment benefits bill, and other measures, including the $3 billion “cash for clunkers” program.
+By 2013, the debt-to-GDP ratio had more than doubled, reaching 72%.
+In the end, even after adjusting for the effects of the business cycle, the Obama administration ran the largest budget deficits of any administration since WWII – though the Trump administration has now surpassed that record.
+<P>
+Keynesians throughout the post-2008 period expected a much stronger recovery than they got (indeed, Obama administration economists used spending multipliers three times above current academic estimates).
+To be fair, there was great uncertainty amid the crisis.
+And yet, many of the policy decisions did not deliver as advertised.
+Among the major mistakes was President Barack Obama’s failure to adopt the sensible recommendations for deficit reduction proposed by his own Simpson-Bowles Commission.
+<P>
+Before COVID-19, unemployment was at a historic low, inflation was under control, and household debt burdens were far lower relative to GDP than before the Great Recession.
+Corporate debt was up, but servicing costs were manageable.
+The Fed had less room to lower rates, and its balance sheet had swollen to roughly $4 trillion.
+Under President Donald Trump, federal deficits and debt remained massive by prosperous peacetime standards.
+<P>
+In response to the pandemic, the Fed quickly adopted a zero-interest-rate policy, backstopped several markets, and expanded its balance sheet to more than $7 trillion, abandoning its traditional gradualist approach.
+The fiscal measures enacted by Congress to support businesses and households already amount to several trillion dollars.
+And Trump has now issued executive orders aimed at postponing payroll taxes and providing additional payments to households.
+The uncertainties include a possible Democratic administration and Congress next year, which would likely pursue a major tax, spending, and regulatory expansion in 2021.
+<P>
+Because the recovery from the post-2008 Great Recession was so slow despite a strong stock-market rebound, few at the start of this year were thinking about it as a model for responding to another major recession.
+Over the long run, differences in economic growth rates and the achievement of long, persistent expansions tend to be what people remember when looking for lessons.
+<P>
+In the COVID recession, economic conditions are too closely tied to the pandemic’s trajectory to be able to forecast with confidence the course of recovery.
+The decline in output and employment was much larger, and happened much faster, than in the Great Recession, and the early V-shaped recovery appears to be slowing – and is likely to continue at a more modest pace.
+The likely long-run effects include a huge loss of small businesses and human capital (due to unemployment and online-only instruction); more permanent telecommuting; acceleration of the digital transformation; and increased concentration and decreased competition in some sectors.
+<P>
+Tentative lessons based on academic research suggest that policymakers should delay new regulation until the economy recovers, focusing additional fiscal measures on tax reduction and implementing a credible fiscal consolidation plan as conditions warrant, in order to avoid being in worse shape when the next big crisis arrives.

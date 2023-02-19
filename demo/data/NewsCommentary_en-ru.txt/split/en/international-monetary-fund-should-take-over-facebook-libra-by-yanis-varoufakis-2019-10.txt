@@ -1,0 +1,72 @@
+<HEADLINE>
+The IMF Should Take Over Libra
+<P>
+ATHENS – The Libra Association is fragmenting.
+Visa, Mastercard, PayPal, Stripe, Mercado Pago, and eBay have abandoned the Facebook-led corporate alliance underpinning Libra, the asset-backed cryptocurrency meant to revolutionize international money.
+More corporations are likely to follow as pressure upon them mounts from worried governments determined to stop Libra dead in its tracks.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+This is a good thing.
+Humanity would have suffered had Facebook been allowed to use Libra to privatize the international payments system.
+But the authorities that are now strangling Libra should look to the future and do with it something innovative, useful, and visionary: hand Libra, or its core concept, over to the International Monetary Fund so that it can be used to reduce global trade imbalances and rebalance financial flows.
+Indeed, a Libra-like cryptocurrency could help the IMF fulfill its original purpose.
+<P>
+When Facebook CEO Mark Zuckerberg announced Libra amid great fanfare, the idea sounded interesting and innocuous.
+Anyone with a mobile phone would be able to buy Libra tokens with domestic currency and by standard methods such as debit cards and online banking.
+Those tokens could then be used to make payments to other Libra users, whether to purchase goods and services or repay debts.
+To ensure full transparency, all transactions would be handled by blockchain technology.
+In sharp contrast to Bitcoin, however, Libra tokens would be fully backed by copper-bottomed assets.
+<P>
+To anchor Libra to tangible assets, the association backing it promised to use its revenues, along with the seed capital contributed by its member companies (at least $10 million each), to buy highly liquid, highly rated financial assets (such as US Treasuries).
+Given Facebook’s leading role, it was not hard to envisage a moment when half of the planet’s adult population, represented by 2.4 billion monthly active Facebook users, would suddenly have a new currency allowing them to transact with one another and bypass the rest of the financial system.
+<P>
+The authorities’ initial reaction was awkwardly negative.
+By highlighting the potential criminal uses of Libra, they only succeeded in confirming the libertarian suspicion that, faced with the threat of losing control over money, regulators, politicians, and central bankers prefer to smother liberating monetary innovations.
+This is a pity, because the greatest enabler of illicit activity is old-fashioned cash, and, more important, because Libra would pose a systemic threat to our political economies even if it were never used to finance terrorism or criminality.
+<P>
+Starting with Libra’s ill effects on individuals, recall the great effort most countries have invested in minimizing the volatility of the purchasing power of domestic money.
+As a result of those efforts, one hundred euros or dollars buy today more or less the same goods that they will buy next month.
+But the same could not be said of one hundred euros or dollars converted into Libra.
+<P>
+To the extent that Libra would be backed by assets denominated in several currencies, a Libra token’s purchasing power in any given country would fluctuate a great deal more than the domestic currency.
+Libra would, in fact, resemble the IMF’s internal accounting unit, known as Special Drawing Rights (SDRs), which reflect a weighted average of the world’s leading currencies.
+<P>
+To see what this means, consider that in 2015, the exchange rate between the US dollar and the SDR fluctuated by up to 20%.
+Had a US consumer converted $100 into Libra back then, they would be subjected to the agony of watching the tokens’ domestic purchasing power move up and down like a yo-yo.
+As for residents of developing countries, whose currencies are prone to depreciation, Libra’s facilitation of money changing would accelerate the depreciation, boost domestic inflation, and make capital flight both likelier and more pronounced.
+<P>
+Since the 2008 financial crash, authorities have struggled to manage inflation, employment, and investment with the fiscal and monetary levers that, prior to the crisis, seemed to work reasonably well.
+Libra would further diminish our states’ capacity to smooth the business cycle.
+Fiscal policy’s efficacy would suffer as the tax base shrunk, with every payment shifting to a global payments system residing within Facebook.
+An even greater shock would await monetary policy.
+<P>
+For better or worse, our central banks manage the quantity and flow of money by withdrawing or adding paper assets to the stock held by private banks.
+When they want to stimulate economic activity, central banks buy from private banks commercial loans, mortgages, deposits, and other assets.
+The banks then have more cash to lend.
+And vice versa when the authorities want to cool down the economy.
+But the more successful Libra becomes, the more money people will transfer from their bank account to their Libra wallet and the less able central banks will be to stabilize the economy.
+In other words, the greater the flight to Libra, the deeper the volatility and crises afflicting people and states.
+<P>
+The sole beneficiary would be the Libra Association, which would collect tremendous interest income on the assets from around the world that it would accumulate using the large portion of global savings attracted to its payment platform.
+Soon, the Association would yield to the temptation to advance credit to individuals and corporations, graduating from a payments system to a gargantuan global bank that no government could ever bail out, regulate, or resolve.
+<P>
+That is why it is a good thing that Libra is unraveling, along with Zuckerberg’s dream of a private global payments monopoly.
+But we should not throw the technological baby out with the monopolistic bathwater.
+The trick is to entrust implementation of the idea to the IMF, on behalf of its member states, with a view to reinventing the international monetary system in a manner reflecting John Maynard Keynes’ rejected proposal at the 1944 Bretton Woods Conference for an International Clearing Union.
+<P>
+To bring about this new Bretton Woods, the IMF would issue a blockchain-based, Libra-like token – let’s call it the Kosmos – whose exchange rate with domestic currencies floats freely.
+People continue to use their domestic currency, but all cross-border trade and capital transfers are denominated in Kosmos and pass through their central bank’s account held at the IMF.
+Trade deficits and surpluses incur a trade-imbalance levy, while private financial institutions pay a fee in proportion to any surge of outward capital flows.
+These penalties accrue in a Kosmos-denominated IMF account that operates as a global sovereign wealth fund.
+Suddenly, all international transactions become frictionless and fully transparent, while small but significant penalties keep trade and capital imbalances in check and fund green investment and remedial North-South wealth redistribution.
+<P>
+Brilliant ideas that would be catastrophic in the hands of buccaneering privateers should be pressed into public service.
+That way, we can benefit from their ingenuity without falling prey to their designs.

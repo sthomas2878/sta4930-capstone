@@ -1,0 +1,60 @@
+<HEADLINE>
+How the Pandemic Can Revolutionize Climate Policy
+<P>
+AMSTERDAM – Economists have long dominated climate-policy debates, but have scant results to show for it.
+As with the ongoing global fight against the coronavirus pandemic, our best hope for tackling the climate crisis may instead lie with systems science.
+By better understanding how networks function, we can design policies that harness them for the common good.
+<P>
+Today, much of climate policy is concerned with identifying desirable centralized interventions, such as closing coal plants or boosting energy efficiency.
+While such measures could work in principle, they have largely failed to deliver sufficient change, and not at the speed that nature requires.
+Other economists, meanwhile, simply advocate letting markets drive climate innovation.
+Meanwhile, greenhouse-gas (GHG) emissions have risen again as locked-down economies have reopened.
+<P>
+Because of the pandemic, however, terms like contagion rate and social distancing, previously limited to systems-science circles, are now in everyday use.
+Moreover, it is abundantly clear that no single top-down intervention will eliminate the coronavirus directly.
+Until a vaccine arrives, all governments can do is change the virus’s context so that the pandemic runs out of steam.
+A similar systems-driven approach should also characterize climate policy.
+<P>
+Indeed, many of the dynamics of pandemics also apply to climate-related issues.
+For example, solar-panel adoption also has a contagion rate, albeit in the positive sense of the more the better.
+When you see your neighbor installing panels on their roof, you are more likely to follow the example.
+The adoption rate varies by city and neighborhood, and economics is actually a poor guide to the spread of solar photovoltaic technology.
+Rather, it is the level of trust between citizens and the strength of the social fabric that drives this desirable contagion, ahead of economic factors like affordability or utility.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+From this perspective, policymakers should focus on creating the super-spreaders that will boost the transmission of solar-energy adoption.
+Other desirable social norms, such as rapid replacement of fossil-fuel-powered cars, lower consumption of red meat, and curbs on runaway consumerism are all subject to the same types of network forces.
+<P>
+Consider coal.
+Although there is a clear-cut case for shutting down coal-fired power plants, wagging fingers at coal-intensive societies simply does not work.
+And while carbon taxes may work in theory, they have proven to be ineffective in practice.
+There are roughly 6,600 active coal units worldwide and another 1,100 planned or under construction.
+Many banks have stopped financing coal projects, so all the new plants are backed by a small number of financial institutions – resulting in a small, interconnected network of people who hold the purse strings.
+<P>
+One solution is to make coal abstinence more contagious.
+For example, when coal backers come to the annual meetings of the International Monetary Fund and World Bank Group or attend the World Economic Forum’s annual flagship gathering in Davos, the organizers could seat them strategically, map their networks, and intentionally increase their contact with networks that adhere to a different set of norms.
+<P>
+Systems not only behave in unique ways, but also interconnect with one another in unexpected ways.
+For example, who would have thought that a virus could reduce China’s GHG emissions in four weeks by the amount the Netherlands emits in a year.
+The public-health benefit of reduced fine-particle pollution may yet outweigh the devastation caused by the virus.
+But the loss of livelihoods for the most economically vulnerable members of society may be the most damaging consequence of all.
+<P>
+Climate policy needs to deal with similar interconnections.
+Some assume that simply swapping brown electrons for green ones will do the trick.
+It won’t.
+The energy system is so deeply intertwined with everything else in society that it is resilient to change, which would, in turn, trigger other changes.
+<P>
+That does not mean policymakers should throw up their hands in despair because climate policy is too complicated.
+Rather, they need to look beyond mainstream economics and engage with people who understand complex systems, in the same way that they listen to epidemiologists and doctors during a pandemic.
+<P>
+We don’t need to abandon our current climate-policy toolkit, as deficient as it has been, but we do need to expand it.
+Systems science is at the heart of coronavirus policy; it should also take its rightful place in climate policy.
+Driving network effects and breaking path dependencies is not easy, but several governments’ responses to the pandemic show how networks can be mapped and managed.
+<P>
+What the COVID-19 crisis has made clear is that change can scale remarkably quickly through changes in networks.
+The ongoing pandemic has brought about global shifts, good as well as bad, in a matter of weeks and months, while climate policy is usually framed in terms of decades.
+<P>
+We have procrastinated for too long in the face of the climate crisis, and traditional policy measures have failed to curb emissions in any meaningful way.
+By applying lessons from the pandemic, we can finally start tackling the other major global crisis we face with the urgency it demands.

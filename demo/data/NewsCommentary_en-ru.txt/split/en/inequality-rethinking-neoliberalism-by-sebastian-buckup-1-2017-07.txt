@@ -1,0 +1,66 @@
+<HEADLINE>
+A New Course for Economic Liberalism
+<P>
+GENEVA – Since the Agrarian Revolution, technological progress has always fueled opposing forces of diffusion and concentration.
+Diffusion occurs as old powers and privileges corrode; concentration occurs as the power and reach of those who control new capabilities expands.
+The so-called Fourth Industrial Revolution will be no exception in this regard.
+<P>
+Already, the tension between diffusion and concentration is intensifying at all levels of the economy.
+Throughout the 1990s and early 2000s, trade grew twice as fast as GDP, lifting hundreds of millions out of poverty.
+Thanks to the globalization of capital and knowledge, countries were able to shift resources to more productive and higher-paying sectors.
+All of this contributed to the diffusion of market power.
+<P>
+But this diffusion occurred in parallel with an equally stark concentration.
+At the sectoral level, a couple of key industries – most notably, finance and information technology – secured a growing share of profits.
+In the United States, for example, the financial sector generates just 4% of employment, but accounts for more than 25% of corporate profits.
+And half of US companies that generate profits of 25% or more are tech firms.
+<P>
+The same has occurred at the organizational level.
+The most profitable 10% of US businesses are eight times more profitable than the average firm.
+In the 1990s, the multiple was only three.
+<P>
+Such concentration effects go a long way toward explaining rising economic inequality.
+Research by Cesar Hidalgo and his colleagues at MIT reveals that, in countries where sectoral concentration has declined in recent decades, such as South Korea, income inequality has fallen.
+In those where sectoral concentration has intensified, such as Norway, inequality has risen.
+<P>
+A similar trend can be seen at the organizational level.
+A recent study by Erling Bath, Alex Bryson, James Davis, and Richard Freeman showed that the diffusion of individual pay since the 1970s is associated with pay differences between, not within, companies.
+The Stanford economists Nicholas Bloom and David Price confirmed this finding, and argue that virtually the entire increase in income inequality in the US is rooted in the growing gap in average wages paid by firms.
+<P>
+Such outcomes are the result not just of inevitable structural shifts, but also of decisions about how to handle those shifts.
+In the late 1970s, as neoliberalism took hold, policymakers became less concerned about big firms converting profits into political influence, and instead worried that governments were protecting uncompetitive companies.
+<P>
+With this in mind, policymakers began to dismantle the economic rules and regulations that had been implemented after the Great Depression, and encouraged vertical and horizontal mergers.
+These decisions played a major role in enabling a new wave of globalization, which increasingly diffused growth and wealth across countries, but also laid the groundwork for the concentration of income and wealth within countries.
+<P>
+The growing “platform economy” is a case in point.
+In China, the e-commerce giant Alibaba is leading a massive effort to connect rural areas to national and global markets, including through its consumer-to-consumer platform Taobao.
+That effort entails substantial diffusion: in more than 1,000 rural Chinese communities – so-called “Taobao Villages” – over 10% of the population now makes a living by selling products on Taobao.
+But, as Alibaba helps to build an inclusive economy comprising millions of mini-multinationals, it is also expanding its own market power.
+<P>
+Policymakers now need a new approach that resists excessive concentration, which may create efficiency gains, but also allows firms to hoard profits and invest less.
+Of course, Joseph Schumpeter famously argued that one need not worry too much about monopoly rents, because competition would quickly erase the advantage.
+But corporate performance in recent decades paints a different picture: 80% of the firms that made a return of 25% or more in 2003 were still doing so ten years later.
+(In the 1990s, that share stood at about 50%.)
+<P>
+To counter such concentration, policymakers should, first, implement smarter competition laws that focus not only on market share or pricing power, but also on the many forms of rent extraction, from copyright and patent rules that allow incumbents to cash in on old discoveries to the misuse of network centrality.
+The question is not “how big is too big,” but how to differentiate between “good” and “bad” bigness.
+The answer hinges on the balance businesses strike between value capture and creation.
+<P>
+Moreover, policymakers need to make it easier for startups to scale up.
+A vibrant entrepreneurial ecosystem remains the most effective antidote to rent extraction.
+Digital ledger technologies, for instance, have the potential to curb the power of large oligopolies more effectively than heavy-handed policy interventions.
+Yet economies must not rely on markets alone to bring about the “churn” that capitalism so badly needs.
+Indeed, even as policymakers pay lip service to entrepreneurship, the number of startups has declined in many advanced economies.
+<P>
+Finally, policymakers must move beyond the neoliberal conceit that those who work hard and play by the rules are those who will rise.
+After all, the flipside of that perspective, which rests on a fundamental belief in the equalizing effect of the market, is what Michael Sandel calls our “meritocratic hubris”: the misguided idea that success (and failure) is up to us alone.
+<P>
+This implies that investments in education and skills training, while necessary, will not be sufficient to reduce inequality.
+Policies that tackle structural biases head-on – from minimum wages to, potentially, universal basic income schemes – are also needed.
+<P>
+Neoliberal economics has reached a breaking point, causing the traditional left-right political divide to be replaced by a different split: between those seeking forms of growth that are less inclined toward extreme concentration and those who want to end concentration by closing open markets and societies.
+Both sides challenge the old orthodoxies; but while one seeks to remove the “neo” from neoliberalism, the other seeks to dismantle liberalism altogether.
+<P>
+The neoliberal age had its day.
+It is time to define what comes next.

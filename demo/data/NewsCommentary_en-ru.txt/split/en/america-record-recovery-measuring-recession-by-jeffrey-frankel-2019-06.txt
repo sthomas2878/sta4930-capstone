@@ -1,0 +1,71 @@
+<HEADLINE>
+The US Recovery Turns Ten
+<P>
+CAMBRIDGE – This month marks the tenth full year of the US economic recovery that began in June 2009.
+Back then, a “trough” in business activity signified the end of the Great Recession that followed the 2007-08 global financial crisis.
+The current expansion has continued, uninterrupted, ever since.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The best explanation for the length of this recovery is disappointingly simple: the Great Recession was the United States’ worst downturn since the 1930s.
+The deeper the hole, the longer it takes to climb out.
+Yet the prolonged US expansion also highlights some important issues regarding how countries measure business cycles and economic slumps.
+<P>
+For starters, the ten-year milestone is especially noteworthy.
+Assuming that the US is not unknowingly already in a new recession, the current recovery is now tied with the decade-long expansion from March 1991 to March 2001 for the longest on record.
+(Records of US troughs and peaks go back to 1854.)
+<P>
+This US expansion, however, is far from being a world record.
+That honor goes to Australia, where the unbroken recovery that began in mid-1991 will soon complete its 28th year.
+<P>
+Australia and most other countries date their economic expansions using the rule that defines a recession as two or more consecutive quarters of negative GDP growth.
+The US is almost alone in using a less mechanical process that includes employment and a variety of other economic indicators, in addition to the core criterion of GDP.
+(Japan’s government also departs from the automatic two-quarter rule and considers other indicators.)
+<P>
+Troughs and peaks in the US economy are dated by the Business Cycle Dating Committee of the National Bureau of Economic Research (NBER).
+(I am a member of this committee, but I do not speak for it, and I am writing here in a personal capacity.)
+The NBER’s dates are regarded as official: the US Commerce Department and other government agencies rely on them in their own reporting and analysis of economic data.
+<P>
+The choice of method for dating business cycles can make a significant difference.
+The Italian economy, for example, has experienced several separate recessions since 2008 according to the standard two-quarter rule, but one long recession if one applies a more common-sense approach.
+<P>
+Clearly, the two-quarter rule has both pros and cons compared to the NBER committee’s less mechanical approach.
+One advantage is that it appears more objective.
+Another is that the public learns of a cyclical turning point with a lag of only a few months – that is, as quickly as the GDP statistics are compiled.
+The NBER, by contrast, typically waits a year or longer after the fact, until all the data are in, before announcing a turning point.
+Its announcements are then duly ridiculed for their long lag.
+<P>
+One major disadvantage of the two-quarter rule, however, is that GDP statistics are usually revised subsequently, which may require a retroactive revision of the cyclical turning points.
+For example, a 2011-12 recession in the United Kingdom was subsequently erased from the record when the GDP numbers were revised in June 2013.
+The reason the NBER waits so long before dating a trough or peak is so that it can be reasonably sure it won’t have to revise the call in the future.
+Likewise, the Japanese government waits for a year or so before making such announcements.
+<P>
+There is another, more fundamental reason for abandoning the two-quarter rule.
+Some countries experience sharp slowdowns or periods of diminished economic activity, and yet their long-term trend growth rates are either so high or so low that the negative-growth rule does not capture what is needed to describe the state of the economy.
+<P>
+Consider first a country where the rule would yield excessively frequent “recessions.”
+In Japan, the population is shrinking, and productivity growth is far below what it used to be, so the country’s output growth has averaged only 1% per year in recent decades.
+As a result, even small fluctuations can turn GDP growth negative.
+The two-quarter rule would suggest that Japan had seven recessions between 1993 and 2015, or one every 3-4 years.
+<P>
+Now consider the opposite problem, when the two-quarter rule yields infrequent recessions.
+To be sure, much of Australia’s success can be attributed to its adoption of structural reforms since the 1980s, its openness to trade, and a switch to a floating exchange rate.
+Still, one reason why Australia’s GDP shows no downturns in the past 28 years is that the country’s population and labor force are growing substantially faster than those in the US and other advanced economies, especially in Europe and East Asia.
+<P>
+Similarly, China has not had a recession in 26 years (since 1993).
+Although its economy has of course performed outstandingly, it, too, suffered in the Great Recession.
+But even an eight-percentage-point decrease in GDP growth (from 14% in 2007 to 6% at one point in 2009) was not enough to cause China’s output to shrink.
+The reason, of course, is that its trend growth rate has been very high, owing to rapid productivity growth.
+<P>
+Assuming the current US expansion continues in July, it will break the record of ten years set in 1991-2001.
+But if the dates of American business cycles were determined by the rule that most other countries apply, the US recession of March to November 2001 would be erased.
+(It did not include two consecutive quarters of negative GDP growth, but rather two negative quarters separated by a positive one.)
+Under that interpretation, the US record, it seems, would instead be the 17-year expansion from the first quarter of 1991 to the fourth quarter of 2007.
+And the current recovery would still have a long way to go to top that.

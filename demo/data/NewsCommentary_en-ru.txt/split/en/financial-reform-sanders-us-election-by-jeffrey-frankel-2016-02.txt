@@ -1,0 +1,56 @@
+<HEADLINE>
+Who’s Right on US Financial Reform?
+<P>
+CAMBRIDGE – Eight years after triggering a crisis that nearly brought down the global financial system, the United States remains plagued by confusion about what reforms are needed to prevent it from happening again.
+As Americans prepare to choose their next president, a better understanding of the policy changes that would minimize the risk of future crises – and which politicians are most likely to implement them – is urgently needed.
+<P>
+What Americans are sure about is that they are angry with the financial sector.
+This is reflected in the success of recent Hollywood movies such as The Big Short (which has been rightly praised for making complex instruments like derivatives broadly understandable).
+And it is reflected in the current presidential campaign – most notably, in remarkable support for Senator Bernie Sanders’s leftist bid for the Democratic nomination.
+<P>
+At the center of Sanders’s campaign is a proposal to break up the big Wall Street banks into little pieces, thereby ensuring that no bank is so big that its failure would endanger the rest of the financial system.
+The appeal of that goal is understandable.
+But achieving it would require a massive sledgehammer.
+<P>
+Though the American banking system historically featured thousands of small banks, the “too big to fail” phenomenon is not exactly new.
+The first bank that was declared “too big to fail” was Continental Illinois, which received a bailout in 1984 from President Ronald Reagan.
+With banks now bigger than ever – America’s four largest each held more than $1 trillion in assets in 2011 – breaking them down to the point that no segment is systemically important would be a long and complex process, to say the least.
+Merely turning the deregulatory clock back 30 years would not do the trick.
+<P>
+But even if Sanders did somehow manage to break up the banks sufficiently, it would not solve the problem.
+After all, the US experienced a run on depositary institutions in the 1930s, when its financial system still comprised thousands of small banks.
+Yet Canada, with a financial system dominated by just five large banks, sailed through the global financial crisis of 2008-2009 more easily than almost any other country.
+<P>
+Yet Sanders has indicated that he would even prohibit anyone with past experience on Wall Street from serving in his administration.
+Such blanket statements and superficial judgments do not belong in the selection of individuals for important positions.
+<P>
+Consider Gary Gensler, a former co-head of finance at Goldman Sachs, whose appointment as Chair of the Commodity Futures Trading Commission Sanders tried (and failed) to block in 2009.
+In that position, to the consternation of many former Wall Street colleagues, Gensler spent five years working vigorously to implement financial-reform legislation, including pursuing the aggressive regulation of derivatives.
+Gensler also supported the prosecution of five financial institutions that had colluded to manipulate the London Interbank Offered Rate (Libor, the benchmark rate that some major banks charge one another for short-term loans).
+<P>
+Attacking banks is emotionally satisfying.
+But it won’t prevent financial crises.
+In fact, the financial industry’s biggest problems lie elsewhere: hedge funds, investment banks, and other non-bank financial institutions that face less regulatory oversight and restrictions (such as on capital standards and leverage) than commercial banks.
+Recall that Lehman Brothers was not a commercial bank, and AIG was an insurance company.
+<P>
+Former Secretary of State Hillary Clinton – Sanders’s opponent for the Democratic nomination – recognizes the need to place a high priority on regulating non-banks, and she has proposed specific measures to do so.
+For example, she is calling for a small tax targeting certain kinds of high-frequency trading prone to abuse.
+Clinton also aims to close the “carried interest” loophole that currently allows hedge-fund managers to pay lower tax rates on their incomes than almost everyone else, and she proposes imposing a “risk fee” on big financial institutions that would rise as they grow.
+<P>
+Clinton’s proposed risk fee resembles one advanced by President Barack Obama’s administration in 2010 in order to discourage risky activity by the largest banks, while helping to recoup some revenue from bailouts.
+But that plan was thwarted by three Republican senators who would support critical financial-reform legislation – the Dodd-Frank Wall Street Reform and Consumer Protection Act – only if the fee was dropped.
+<P>
+Even without the risk fee for large banks, the Dodd-Frank legislation was a step in the right direction.
+Among other things, it increased transparency for derivatives, raised capital requirements for financial institutions, imposed additional regulations on “systemically important” institutions, and, per the suggestion of Senator Elizabeth Warren, established the Consumer Financial Protection Bureau (CFPB).
+<P>
+But Dodd-Frank was far from complete.
+Making matters worse, many in Congress have spent the last six years chipping away at it, such as by exempting auto dealers from the CFPB and restricting the budgets of the regulatory agencies.
+Those who worked to undermine the financial regulatory-reform legislation – mostly Republicans – appear to have paid no political price for it.
+Meanwhile, those who, like Gensler, worked tirelessly to implement the reforms are judged according to superficial criteria by the very politicians who should support them.
+<P>
+There is a place in political campaigns for bumper-sticker slogans.
+And there is definitely a place for ambitious goals.
+But the danger is that those who are attracted to inspirational rallying cries and sweeping proposals will lack the patience required to identify which side to support in the numerous complex battles over financial regulation that take place every year.
+<P>
+To get the details of financial regulation right, the US needs leaders with the wisdom, experience, and perseverance to identify the right measures, push for their enactment, and then implement them effectively.
+If such people are not the ones who receive political support, we should not be surprised if the financial sector again escapes effective regulation and crises recur.

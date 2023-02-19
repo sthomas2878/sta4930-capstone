@@ -1,0 +1,64 @@
+<HEADLINE>
+ECB Loosening Is Not Enough
+<P>
+LONDON – If indications of disappointing economic growth in the eurozone are confirmed, the European Central Bank will loosen monetary policy further in September.
+Last week, outgoing ECB President Mario Draghi signaled a further likely cut in the ECB’s rate on commercial banks’ overnight deposits with the central bank, which is already -0.4%.
+In addition, the ECB is discussing a new program of asset purchases.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Economic stimulus is clearly needed.
+Annual inflation is well below the ECB’s target of “close to, but below 2%,” and financial markets expect it to remain so for years.
+What’s more, the eurozone has grown more slowly than the US economy since the 2008 global financial crisis.
+Growth has flagged since peaking in the third quarter of 2017, and slowed again in the second quarter of this year.
+<P>
+It is also clear that national governments in the eurozone are reluctant to provide a coordinated fiscal stimulus, despite the urgings of the ECB and many economists.
+Willingly or not, the ECB remains the only game in town.
+<P>
+The question is whether monetary policy alone can help to improve real growth and the inflation outlook in the eurozone.
+Monetary policy can be a powerful tool.
+The key to President Franklin D. Roosevelt’s successful effort to revive the US economy in the 1930s was not deficit spending, but rather the large monetary stimulus resulting from America leaving the gold standard before continental European countries did.
+Today, the ECB needs to engineer something similar with different tools.
+<P>
+In principle, taking the ECB deposit rate further into negative territory should remove the restriction on future expected short-term interest rates turning negative, and therefore flatten the forward yield curve.
+A rate cut should also put downward pressure on the euro’s exchange rate, potentially making eurozone exporters more competitive.
+<P>
+But such a move would be controversial, in particular because it would dent the profitability of banks that cannot pass on negative ECB deposit rates to their customers.
+Such policies have heterogeneous effects across banks, and mitigating action, although feasible, requires complex engineering.
+<P>
+According to an analysis by the ECB’s staff, “strong” eurozone banks are able to pass on negative rates to their corporate clients; “weak” banks cannot.
+<P>
+The ECB is therefore considering ways to mitigate this – in particular by granting very favorable conditions on the special loans that it will offer under the TLTRO III program, which are likely to be taken by the “weak” banks.
+In addition, a tiering system is being considered in which reserves below a certain threshold would not be subject to negative rates.
+But this is likely to benefit the strongest banks of stronger core eurozone countries such as Germany, France, and the Netherlands, which together hold about one-third of total deposits at the ECB.
+<P>
+Beyond these technical considerations, policymakers must grapple with two root causes of excess demand for central-bank reserves among strong eurozone banks.
+One is very high demand for safe assets in general – and banks in core eurozone countries have little incentive to hold their own governments’ debt when the interest rate is below the ECB deposit rate.
+Another cause is the segmentation of the eurozone’s interbank market, which, if the ECB implemented tiering, would prevent strong banks from benefiting from arbitrage opportunities by lending to weak banks at a rate above -0.4%.
+Both causes are the result of the eurozone’s dysfunctional banking system, in which demand for safe assets involves both a “home bias” and a strong demand for core countries’ sovereign debt.
+<P>
+In these circumstances, the ECB will not find it easy to implement a policy that would remove the constraint of the zero lower bound on interest rates, while ensuring that the policy’s distributional effects on banks and EU member states are neutral.
+Doing so will involve many instruments and complex design, far from the simple one-tool-for-one-target framework that was best practice before the financial crisis.
+<P>
+Moreover, negative rates become less effective over time and, if protracted, may have undesirable effects – for example, by inducing savers to de-risk, thereby potentially generating asset-price bubbles and increasing financial disintermediation.
+The positive stimulus from the depreciation of the euro’s exchange rate could offset these effects, but only if other central banks – and in particular the US Federal Reserve – do not ease at the same time.
+And on July 31, the Fed announced a widely expected quarter-percentage-point cut in its benchmark interest rate, while further future cuts cannot be excluded.
+<P>
+But the main problem is that neither negative rates nor quantitative easing can by themselves address the pervasive risk aversion holding back the eurozone economy.
+The ECB is trying to discourage demand for safe assets by making them more expensive to hold, but it cannot address the causes of the increase in such demand.
+This is a global trend driven by several factors, including demographic changes, widespread uncertainty linked to technological transformation, and political risks such as trade wars and nationalism.
+But in the eurozone they are exacerbated by the lack of reform of the single currency.
+<P>
+More than ten years after the financial crisis, the eurozone’s financial markets are still fragmented, and the supply of safe assets is limited by the conservative fiscal policy of northern European countries, particularly Germany.
+Eurozone policymakers must, therefore, find the political will to design a comprehensive package of financial and fiscal measures aimed at injecting new energy into the European project.
+Such a combined approach is essential to address the deep-rooted risk aversion sapping growth across the eurozone.
+<P>
+In the 1930s, America’s key stimulus was monetary rather than fiscal, but a vital ingredient of success was a comprehensive set of reforms coupled with a strong message capable of unifying the country.
+Today, Europe needs a twenty-first-century version of that policy.

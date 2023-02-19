@@ -1,0 +1,70 @@
+<HEADLINE>
+Our Bodies or Ourselves
+<P>
+WASHINGTON, DC – Technological developments in recent years have highlighted not only the benefits of big data, but also the need to come to terms with the dangers it poses to our privacy, civil liberties, and human rights.
+Nowhere is this question more relevant than with the latest source of that data: our bodies.
+<P>
+Law enforcement authorities around the world are building and using technologies to identify us from our biometrics, including our face, fingerprints, DNA, voice, iris, and gait.
+Long used in passports and at border crossings, these unique identity markers have many other applications.
+<P>
+For years, we have allowed governments and companies to gather and analyze our biometric data whenever we have applied for a driver’s license, a travel visa, naturalization, or certain jobs, or even simply gone to an amusement park.
+Increasingly, we use our fingerprints or our face to unlock our smartphones, pay for purchases, and board airplanes.
+<P>
+The protection against theft is obvious: what use is a phone, car, or ticket that will only work for its legitimate owner?
+Above all, biometrics can protect against theft of our identities themselves.
+<P>
+That is the argument behind the world’s largest biometrics project, a multimodal solution (iris, fingerprints, and face) affecting more than one billion Indians.
+Nandan Nilekani, the chairman of Infosys who left his job to create the system, known as Aadhaar, credits it with saving the Indian government roughly $9 billion by eliminating duplicate and false identities in government beneficiary lists.
+<P>
+Thanks to Aadhaar, more than a half-billion people have connected their digital IDs directly to a bank account, allowing the government to deposit over $12 billion without the risk of fraud, theft, or – especially important for women – the male drinking and domestic violence that frequently accompanies sudden infusions of cash.
+For many of India’s poor, living in unmapped villages or slums, a digital ID gives them official personhood – just as a birth certificate or social security number does in developed countries.
+<P>
+But biometrics increases the likelihood of Jeremy Bentham’s Panopticon, the dystopia of an all-seeing state.
+China makes no effort to hide its use of biometrics and artificial intelligence (AI) to police its population.
+Less well known is the advanced use of biometrics in liberal democracies.
+<P>
+In the United States, a study in 2016 by the Center on Privacy & Technology at Georgetown University Law Center found that the facial images of more than 117 million Americans – nearly half of all US adults – were held in US law enforcement databases, some of which are accessible by the FBI.
+Next month, Customs and Border Protection will start using a new facial-recognition technology as part of a larger Biometric Exit Program already operating in the airports of eight US cities.
+<P>
+In the United Kingdom, the facial images of 12.5 million people, hundreds of thousands of whom are not guilty of a crime, are stored in the National Police Database (NPD), while HM Customs and Revenue (HMRC) has gathered over five million voice recordings without consent.
+This defies a 2012 British High Court ruling that ordered the Home Office to delete face and voice biometrics of detainees who have been released without charge or acquitted – in line with the law requiring the deletion of DNA and fingerprints.
+<P>
+The collection and storage of people’s biometric data fundamentally changes the relationship between citizen and state.
+Once “presumed innocent,” we are now, in the sinister words of former UK Home Secretary Amber Rudd, “unconvicted persons” – people who have not been found guilty of a crime, yet.This shift has not gone unchallenged.
+In the UK, the South Wales police and the Metropolitan police face legal action from Liberty and Big Brother Watch, respectively, for their use of automatic facial recognition.
+In the US, the city of Orlando, Florida, has abandoned its trial of Amazon’s Rekognition facial recognition software.India’s biometrics system also faces legal challenges.
+While the government made signing up to Aadhaar voluntary, it is effectively mandatory for anyone who needs to access government services, open a bank account, or obtain a mobile phone contract.
+Yet obliging Indians to use Aadhaar became illegal in 2017, after the Supreme Court ruled that the “right to privacy … [is] an intrinsic part of the right to life and personal liberty.”
+The Court upheld the government’s authority to curtail privacy rights for a compelling reason, such as national security, crime prevention, or social welfare; but the action must be reasonable and proportional to the end sought.More worrying is that Aadhaar is not secure.
+In January 2018, reporters at The Tribune newspaper in India paid 500 rupees (just under $8) to get a login and password that enabled them to access the name, address, postal code (PIN), photo, phone number, and email of every person in the system.
+For just 300 rupees more, the reporters could print out – and start using – copies of anyone’s unique identity cards.Years of massive data breaches in the US (affecting companies such as Target, Yahoo, LinkedIn, and Intel, as well as the federal government’s Office of Personnel Management), and reports of companies such as Facebook and Google handing over personal data to developers and other third parties, have led to little concrete change.
+This may reflect a lack of incentives: while identity fraud resulting from such breaches is tiresome and time-consuming to resolve, any financial pain is ultimately borne by banks and credit card companies.It is a different world of pain when our biometric data is compromised, because unlike our usernames or passwords, biometric data cannot be reset.
+Moreover, errors are even harder to correct.
+And when paired with other data about us (financial, professional, and social), our biometrics can be fed into algorithms and used to deny us loans, health insurance, and jobs, guess our sexuality or political preferences, and predict our likelihood to commit crimes — entirely without our knowledge.Having a unique, unforgeable identity could be a blessing.
+But we must identify and protect against the many ways that it can become a curse.
+<P>
+The collection and storage of people’s biometric data fundamentally changes the relationship between citizen and state.
+Once “presumed innocent,” we are now, in the sinister words of former UK Home Secretary Amber Rudd, “unconvicted persons” – people who have not been found guilty of a crime, yet.
+<P>
+This shift has not gone unchallenged.
+In the UK, the South Wales police and the Metropolitan police face legal action from Liberty and Big Brother Watch, respectively, for their use of automatic facial recognition.
+In the US, the city of Orlando, Florida, has abandoned its trial of Amazon’s Rekognition facial recognition software.
+<P>
+India’s biometrics system also faces legal challenges.
+While the government made signing up to Aadhaar voluntary, it is effectively mandatory for anyone who needs to access government services, open a bank account, or obtain a mobile phone contract.
+Yet obliging Indians to use Aadhaar became illegal in 2017, after the Supreme Court ruled that the “right to privacy … [is] an intrinsic part of the right to life and personal liberty.”
+The Court upheld the government’s authority to curtail privacy rights for a compelling reason, such as national security, crime prevention, or social welfare; but the action must be reasonable and proportional to the end sought.
+<P>
+More worrying is that Aadhaar is not secure.
+In January 2018, reporters at The Tribune newspaper in India paid 500 rupees (just under $8) to get a login and password that enabled them to access the name, address, postal code (PIN), photo, phone number, and email of every person in the system.
+For just 300 rupees more, the reporters could print out – and start using – copies of anyone’s unique identity cards.
+<P>
+Years of massive data breaches in the US (affecting companies such as Target, Yahoo, LinkedIn, and Intel, as well as the federal government’s Office of Personnel Management), and reports of companies such as Facebook and Google handing over personal data to developers and other third parties, have led to little concrete change.
+This may reflect a lack of incentives: while identity fraud resulting from such breaches is tiresome and time-consuming to resolve, any financial pain is ultimately borne by banks and credit card companies.
+<P>
+It is a different world of pain when our biometric data is compromised, because unlike our usernames or passwords, biometric data cannot be reset.
+Moreover, errors are even harder to correct.
+And when paired with other data about us (financial, professional, and social), our biometrics can be fed into algorithms and used to deny us loans, health insurance, and jobs, guess our sexuality or political preferences, and predict our likelihood to commit crimes — entirely without our knowledge.
+<P>
+Having a unique, unforgeable identity could be a blessing.
+But we must identify and protect against the many ways that it can become a curse.

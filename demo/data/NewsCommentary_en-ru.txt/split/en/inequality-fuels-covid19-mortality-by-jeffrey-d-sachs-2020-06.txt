@@ -1,0 +1,65 @@
+<HEADLINE>
+How Inequality Fuels COVID-19 Deaths
+<P>
+NEW YORK – Three countries – the United States, Brazil, and Mexico – account for nearly half (46%) of the world’s reported COVID-19 deaths, yet they contain only 8.6% of the world’s population.
+Some 60% of Europe’s deaths are concentrated in just three countries – Italy, Spain, and the United Kingdom – which account for 38% of Europe’s population.
+There were many fewer deaths and lower death rates in most of Northern and Central Europe.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Several factors determine a country’s COVID-19 death rate: the quality of political leadership, the coherence of the government’s response, the availability of hospital beds, the extent of international travel, and the population’s age structure.
+Yet one deep structural characteristic seems to be shaping the role of these factors: countries’ income and wealth distribution.
+<P>
+The US, Brazil, and Mexico have very high income and wealth inequality.
+The World Bank reports the respective Gini coefficients for recent years (2016-18) at 41.4 in the US, 53.5 in Brazil, and 45.9 in Mexico.
+(On a 100-point scale, a value of 100 signifies absolute inequality, with one person controlling all income or wealth, and zero means a completely equal distribution per person or household).
+<P>
+The US has the highest Gini coefficient among the advanced economies, while Brazil and Mexico are among the world’s most unequal countries.
+In Europe, Italy, Spain, and the UK – with Gini scores of 35.6, 35.3, and 34.8, respectively – are more unequal than their northern and eastern counterparts, such as Finland (27.3), Norway (28.5), Denmark (28.5), Austria (30.3), Poland (30.5), and Hungary (30.5).
+<P>
+The correlation of death rates per million and income inequality is far from perfect; other factors matter a lot.
+France’s inequality is on par with Germany’s, but its COVID-19 death rate is significantly higher.
+The death rate in relatively egalitarian Sweden is significantly higher than in its neighbors, because Sweden decided to keep its social distancing policies voluntary rather than mandatory.
+Relatively egalitarian Belgium was battered with very high reported death rates, owing partly to the authorities’ decision to report probable as well as confirmed COVID-19 deaths.
+<P>
+High income inequality is a social scourge in many ways.
+As Kate Pickett and Richard Wilkinson convincingly reported in two important books, The Spirit Level and The Inner Level, higher inequality leads to worse overall health conditions, which significantly increases vulnerability to COVID-19 deaths.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Moreover, higher inequality leads to lower social cohesion, less social trust, and more political polarization, all of which negatively affect governments’ ability and readiness to adopt strong control measures.
+Higher inequality means a larger proportion of low-income workers – from cleaners, cashiers, guards, and delivery persons to sanitation, construction, and factory workers – must continue their daily lives, even at the risk of infection.
+More inequality also means more people living in crowded living conditions and therefore unable to shelter safely.
+<P>
+Populist leaders exacerbate the enormous costs of inequality.
+US President Donald Trump, Brazilian President Jair Bolsonaro, and British Prime Minister Boris Johnson were elected by unequal and socially divided societies with the support of many disgruntled working-class voters (typically white, less-educated men who resent their declining social and economic status).
+But the politics of resentment is almost the opposite of the politics of epidemic control.
+The politics of resentment shuns experts, derides scientific evidence, and resents elites who work online telling workers who can’t to stay home.
+<P>
+The US is so unequal, politically divided, and badly governed under Trump that it has actually given up on any coherent national strategy to control the outbreak.
+All responsibilities have been shifted to state and local governments, which have been left to fend for themselves.
+Heavily armed right-wing protesters have, on occasion, mobbed state capitals to oppose restrictions on business activity and personal mobility.
+Even face masks have become politicized: Trump refuses to wear one, and he recently said that some people do so only to express their disapproval of him.
+The result is that his followers gleefully reject wearing them, and the virus, which started in the “blue” (Democratic) coastal states, is now hitting Trump’s base in “red” (Republican) states hard.
+<P>
+Brazil and Mexico are mimicking US politics.
+Bolsonaro and Mexico’s President Andrés Manuel López Obrador are quintessential populists in the Trump mold, mocking the virus, disdaining expert advice, making light of the risks, and flamboyantly rejecting personal protection.
+They are also guiding their countries into a Trumpian disaster.
+<P>
+With the exception of Canada and all too few other places, the countries of North and South America are being ravaged by the virus, because almost the entire Western hemisphere shares a legacy of mass inequality and pervasive racial discrimination.
+Even well-governed Chile fell prey to violence and instability last year, owing to high and chronic inequality.
+This year, Chile (along with Brazil, Ecuador, and Peru) has suffered one the world’s highest COVID-19 death rates.
+<P>
+Inequality is certainly not a death sentence.
+China is rather unequal (with a Gini score of 38.5), but its national and provincial governments adopted rigorous control measures after the initial Wuhan outbreak, essentially suppressing the virus.
+The recent outbreak in Beijing, after weeks of zero confirmed new cases, resulted in renewed lockdowns and massive testing.
+<P>
+In most other countries, however, we are witnessing once again the enormous costs of mass inequality: inept governance, social distrust, and a huge population of vulnerable people unable to protect themselves from encroaching harms.
+Alarmingly, the epidemic itself is widening inequalities even further.
+<P>
+The rich now work and thrive online (Amazon founder Jeff Bezos’s wealth has risen by $49 billion since the start of the year, thanks to the decisive shift to e-commerce), while the poor are losing their jobs and often their health and lives.
+And the costs of inequality are sure to rise further, as revenue-starved governments slash budgets and public services vital for the poor.
+<P>
+But a reckoning is coming.
+In the absence of coherent, capable, and trustworthy governments that can implement an equitable and sustainable pandemic response and strategy for economic recovery, the world will succumb to further waves of instability generated by a growing array of global crises.

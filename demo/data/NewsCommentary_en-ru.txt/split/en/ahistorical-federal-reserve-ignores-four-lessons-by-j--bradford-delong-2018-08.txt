@@ -1,0 +1,39 @@
+<HEADLINE>
+The Ahistorical Federal Reserve
+<P>
+BERKELEY – Economic developments over the past 20 years have taught – or ought to have taught – the US Federal Reserve four lessons.
+Yet the Fed’s current policy posture raises the question of whether it has internalized any of them.
+<P>
+The first lesson is that, at least as long as the current interest-rate configuration is sustained, the proper inflation target for the Fed should be 4% per year, rather than 2%.
+A higher target is essential in order to have enough room to make the cuts in short-term safe nominal interest rates of five percentage points or more that are usually called for to cushion the effects of a recession when it hits the economy.
+<P>
+The Fed protests that to change its inflation target even once would erode the credibility of its commitment to ensuring price stability.
+But the Fed can pay now or it can pay later.
+After all, what good is credibility today when it means sticking tenaciously to a policy that deprives you of the ability to do your job properly tomorrow?
+<P>
+The second lesson is that the two slope coefficients in the algebraic equation that is the Phillips curve – the link between expected inflation and current inflation, and the responsiveness of future inflation to current unemployment – are both much smaller than they were back in the 1970s or even in the 1980s.
+Then-Fed Chair Alan Greenspan recognized this in the 1990s.
+He rightly judged that pushing for faster growth and lower unemployment was not taking excessive risks, but rather harvesting low-hanging fruit.
+The current Fed appears to have a different view.
+<P>
+The third lesson is that yield-curve inversion in the bond market is not just a sign that the market thinks that monetary policy is too tight; it is a sign that monetary policy really is too tight.
+The people who bid up the prices of long-term US Treasury bills in anticipation of interest-rate cuts when the Fed overshoots and triggers a recession are the same people who are now on tenterhooks wondering when to start cutting back on investment plans because a recession will soon produce overcapacity.
+<P>
+The Fed today has a “habitat theory” about why this time is different – that is, why the preferences of investors for particular maturity lengths imply that a yield-curve inversion would not mean what it has always meant.
+But 2006, just before the financial crisis hit, was supposed to be different, too.
+(And there were plenty of times before then that were supposed to be different, too.)
+History suggests that this time is highly unlikely to be different – and that it will not end well if the Fed continues to believe and behave otherwise.
+<P>
+The fourth lesson similarly reflects developments extending back further than 20 years.
+Back in the 1980s, it was not unreasonable to argue that the next large shock to the US macroeconomy was likely to be inflationary.
+It is much more difficult to reasonably argue that today.
+For the past three and a half decades, the principal shocks have not been inflationary, like the 1973 and 1979 oil crises, but rather deflationary, like the US savings and loan crisis in the 1980s and 1990s, the 1997 Asian crisis, the 2000 dot-com bust, the terrorist attacks of September 11, 2001, the 2007 subprime collapse that began in the US, and the 2010 European debt crash.
+<P>
+Former Fed Chair Janet Yellen told me back in the 1990s that, in her view, conducting the Fed’s internal debate within the framework of interest-rate rules had greatly increased the ease of getting from agreement about the structure and state of the economy to a rough consensus on appropriate policy.
+<P>
+But, at least as I see it, right now the Fed’s process of getting from a realistic view of the economy to an appropriate monetary policy does not seem to be functioning well at all.
+Perhaps it is time for the Fed to place its internal discussions in a more explicit framework.
+One can imagine, for example, the Fed adopting an “optimal control” method, whereby monetary-policy settings are established by running multiple simulations of a macroeconomic model using different combinations of interest rates and balance-sheet tools to project future inflation and unemployment.
+<P>
+The problem for optimal control methods is that the real world is not some closed system where economic relationships never change, or where they change in fully predictable ways.
+The most effective – and thus the most credible – monetary policy is one that reflects not only the lessons of history, but also a willingness to reconsider long-held assumptions.

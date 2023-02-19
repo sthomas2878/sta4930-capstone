@@ -1,0 +1,71 @@
+<HEADLINE>
+Are Randomized Poverty-Alleviation Experiments Ethical?
+<P>
+PRINCETON – Last month, the Nobel Memorial Prize in Economic Sciences was awarded to three pioneers in using randomized controlled trials (RCTs) to fight poverty in low-income countries: Abhijit Banerjee, Esther Duflo, and Michael Kremer.
+In RCTs, researchers randomly choose a group of people to receive an intervention, and a control group of people who do not, and then compare the outcomes.
+Medical researchers use this method to test new drugs or surgical techniques, and anti-poverty researchers use it alongside other methods to discover which policies or interventions are most effective.
+Thanks to the work of Banerjee, Duflo, Kremer, and others, RCTs have become a powerful tool in the fight against poverty.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+But the use of RCTs does raise ethical questions, because they require randomly choosing who receives a new drug or aid program, and those in the control group often receive no intervention or one that may be inferior.
+One could object to this on principle, following Kant’s claim that it is always wrong to use human beings as a means to an end; critics have argued that RCTs “sacrifice the well-being of study participants in order to ‘learn.’”
+<P>
+Rejecting all RCTs on this basis, however, would also rule out the clinical trials on which modern medicine relies to develop new treatments.
+In RCTs, participants in both the control and treatment groups are told what the study is about, sign up voluntarily, and can drop out at any time.
+To prevent people from choosing to participate in such trials would be excessively paternalistic, and a violation of their personal freedom.
+<P>
+A less extreme version of the criticism argues that while medical RCTs are conducted only if there are genuine doubts about a treatment’s merits, many development RCTs test interventions, such as cash transfers, that are clearly better than nothing.
+In this case, maybe one should just provide the treatment?
+<P>
+This criticism neglects two considerations.
+First, it is not always obvious what is better, even for seemingly stark examples like this one.
+For example, before RCT evidence to the contrary, it was feared that cash transfers lead to conflict and alcoholism.
+<P>
+Second, in many development settings, there are not enough resources to help everyone, creating a natural control group.
+Relatedly, in a world of scarce resources, it doesn’t just matter whether an intervention is better than nothing; donors and policymakers need to know how much better, and at what price.
+Thus, development RCTs use a broader notion of uncertainty that includes the size and costs of an intervention’s effects.
+It would be unethical to provide a treatment that “works” if it is much less cost-effective than a viable alternative and therefore can benefit fewer people.
+<P>
+A third version of the ethical objection is that participants may actually be harmed by RCTs.
+For example, cash transfers might cause price inflation and make non-recipients poorer, or make non-recipients envious and unhappy.
+These effects might even affect people who never consented to be part of a study.
+<P>
+This is perhaps the most serious criticism, but it, too, does not make RCTs unethical in general.
+It is generally considered acceptable to expose research participants to some risk of harm.
+Ethics review boards balance studies’ risks against their potential benefits.
+Medical research is similar: the “do no harm” principle to which doctors adhere in clinical practice is replaced by a weaker requirement to minimize risks and maximize benefits in research studies.
+Potential participants are told about them so they can make an informed decision about whether to proceed.
+<P>
+Angus Deaton, another Nobel laureate economist, recently pointed out (as others have also done) that some anti-poverty RCTs include people who do not know that they are part of a trial but may be affected nonetheless.
+This raises additional ethical worries.
+In response, we should recognize that these RCTs often test programs that are already being implemented by governments, NGOs, and firms.
+It is important to understand whether and how such programs affect non-beneficiaries.
+For example, if an RCT finds that an intervention seriously harms non-beneficiaries, that can prevent it from being scaled up, thereby greatly reducing the total harm done.
+<P>
+Second, even RCTs that do some harm to nonparticipants and don’t directly test programs that might be implemented by policymakers can be permissible if the benefits they generate decisively outweigh the costs.
+The philosopher Derek Parfit asks whether a person trapped in a collapsing building may break an unconscious stranger’s toe in order to save a child’s life.
+Most agree that “using” the stranger in this way is ethically permissible.
+Similarly, RCTs have occasionally identified interventions that are tens or even thousands of times more effective than others.
+These findings enable policymakers to save or improve many lives by choosing the most effective interventions.
+Using RCTs is therefore ethically permissible, and, we argue, may even be ethically required.
+<P>
+Nevertheless, the ethics of RCTs in developing countries are delicate, and some critics have argued that while RCTs can be ethical in theory, they aren’t in practice.
+There is a significant asymmetry of power and privilege at work when researchers, usually from rich countries, conduct experiments with and on the poor.
+Researchers usually require approval from independent ethics review boards, both in their own country and where the study is conducted.
+<P>
+This is a vital safeguard, as it ensures that ethical standards are not imposed from abroad.
+<P>
+The World Bank economist Oyebola Okunogbe recently suggested that if such local oversight is unavailable, researchers should find other ways to check the ethics of their studies locally.
+Ankur Sarin of the Indian Institute of Management suggested that ethics review boards make the explanations for their decisions public.
+We think these are both good suggestions.
+<P>
+The new Nobel laureates themselves are contributing to a solution by making educational opportunities available to the next generation of developing-country researchers.
+A new program at MIT, established with the help of Banerjee and Duflo, offers fully funded Master’s degrees in economics to citizens from developing countries who have shown their potential in an online course – no high school diploma required.

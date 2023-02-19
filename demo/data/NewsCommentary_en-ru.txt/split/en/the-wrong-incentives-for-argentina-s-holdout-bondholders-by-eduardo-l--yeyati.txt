@@ -1,0 +1,44 @@
+<HEADLINE>
+Argentina’s Debt Conundrum
+<P>
+BUENOS AIRES – Argentina is in a quandary.
+Prior to its 2005 sovereign-debt exchange, its legislature enacted a “lock law,” which barred the way to any future offers to holders of bonds on which Argentina defaulted in 2002.
+While the lock law helped to boost the participation rate in the 2005 exchange, holdout creditors remained, and have pursued litigation to force repayment.
+<P>
+In late November, Thomas Griesa, a United States federal judge in New York, ordered Argentina to deposit the $1.33 billion owed to holdouts into an escrow account by December 15.
+Griesa lifted the stay on his order from February 2012, following indications from Argentina’s government that it intended to ignore the ruling – including public statements calling the holdouts “vulture funds” and a vow by President Cristina Fernández de Kirchner never to pay.
+The ruling, pending appeal, leaves Argentina with three options: violate its own law, violate US law, or default again.
+<P>
+In his ruling, which was based on the pari passu (“equal footing”) clause included in the bonds, Griesa included the Bank of New York Mellon (the bondholders’ trustee) among entities that act “in active concert and participation” with Argentina, and cautioned it against transferring funds if Argentina ignores the order.
+As a result, if Argentina chooses to pay exchange bondholders as usual, BNY Mellon may refuse to transfer the funds, triggering a technical default.
+<P>
+But time to search for loopholes is limited.
+While the US Second Circuit Court of Appeals has granted Argentina an emergency stay order, temporarily lifting the threat of default, Argentine officials will need to present their arguments before the court in February.
+<P>
+The decision ensures normal debt payments by Argentina in December.
+But, beyond that point, Argentina’s government may face a dilemma: By continuing to make payments, it would be committing to comply with a ruling that is widely viewed as excessive and unfair; but refusing to pay would undermine the appeals process by exposing Argentina’s unwillingness to abide by an adverse ruling.
+Indeed, the government’s harsh rhetoric has given it little leeway.
+As in poker, it will have to pay to see the next card.
+<P>
+But Argentina does have options.
+While the required escrow deposit is not an actual payment to holdouts, given that the guarantee would be recovered if the appeals court ultimately ruled in Argentina’s favor, it could be considered a contingent payment in violation of the lock law.
+The government could easily avoid this by obtaining parliamentary agreement to suspend the law temporarily, as it did in 2010, when a second sovereign-debt exchange was conducted.
+Indeed, reopening the exchange, an option already being assessed, remains a natural alternative to Griesa’s maximalist interpretation of pari passu – though it may be too late to pursue this route.
+<P>
+By contrast, refusing to comply with the ruling would likely inhibit BNY Mellon from executing the payments, making it virtually impossible to pay the warrant to exchange bondholders on time.
+But, even in this case, a technical default – which would further reduce Argentina’s already-limited access to international funds – could be avoided by re-routing payments on the exchange bonds to the United Kingdom, elsewhere in Europe, or Argentina (the most likely option).
+According to the bonds’ collective action clause (CAC), this would not amount to a default if 75% of bondholders accepted the change of venue.
+<P>
+To be sure, the bondholders might refuse, given that, if they individually declared the exchange bonds to be in default, they could demand in court immediate payment in full of the remaining debt.
+But they might not if it meant that Argentina, unable to cover the accelerated payments, would be forced to repudiate the debt – leaving the bondholders with nothing.
+<P>
+In the absence of a sovereign bankruptcy procedure, a coordinated solution – which debt exchanges and CACs are designed to facilitate – is the best option.
+But Griesa’s ruling undercuts prospects for cooperation.
+After all, investors are more likely to reject a longer period of lower payments on exchange bonds if they can seek immediate and full retribution for the original debt.
+<P>
+Indeed, not even the risk of receiving nothing ensures that bondholders will not revert to the old bonds.
+And, beyond the much debated – and, in my view, overstated – aggregation problem, lowering the cost of “holding out,” as Griesa’s ruling does, would impede the success of CACs.
+<P>
+Unless Argentina puts forward an alternative payment proposal, the US Court of Appeals (and, possibly, the US Supreme Court) will have to choose between the holdouts’ “all” and Argentina’s “nothing.”
+Suspending the lock law and reopening the exchange could provide a basis for revision of the case – and lead to a ruling that begins to fill the gaps in the international financial architecture.
+At a time when new sovereign-debt restructurings are distinct possibilities, such action is crucial.

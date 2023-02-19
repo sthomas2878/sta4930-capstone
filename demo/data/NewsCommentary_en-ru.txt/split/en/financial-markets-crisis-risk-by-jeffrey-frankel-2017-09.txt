@@ -1,0 +1,59 @@
+<HEADLINE>
+Why Financial Markets Underestimate Risk
+<P>
+CAMBRIDGE – During most of 2017, the Chicago Board Options Exchange Volatility Index (VIX) has been at the lowest levels of the last decade.
+Recently, the VIX dipped below nine, even lower than in March 2007, just before the subprime mortgage crisis nearly blew up the global financial system.
+Investors, it seems, are once again failing to appreciate just how risky the world is.
+<P>
+Known colloquially as the “fear index,” the VIX measures financial markets’ sensitivity to uncertainty – that is, the perceived probability of large fluctuations in the stock market’s value – as conveyed by stock index option prices.
+A low VIX signals a “risk-on” period, when investors “reach for yield,” exchanging US Treasury bills and other safe-haven securities for riskier assets like stocks, corporate bonds, real estate, and carry-trade currencies.
+<P>
+This is where we are today, despite the variety of actual risks facing the economy.
+While each of those risks will probably remain low in a given month, the unusually large number of them implies a reasonably strong chance that at least one will materialize over the next few years.
+<P>
+The first major risk is the bursting of a stock-market bubble.
+Major stock-market indices hit record highs in September, in the United States and elsewhere, and equity prices are high relative to benchmarks like earnings and dividends.
+Robert Shiller’s cyclically adjusted price-earnings ratio is now above 30 – a level previously reached only twice, at the peaks of 1929 and 2000, both of which were followed by stock-market crashes.
+<P>
+We also face the risk of a bursting bond-market bubble.
+Former US Federal Reserve Board Chair Alan Greenspan recently suggested that the bond market is even more overvalued (or “irrationally exuberant”) than the stock market.
+<P>
+The market is accustomed to falling bond yields: both corporate and government bonds were on a downward trend from 1981 to 2016.
+But interest rates can’t go much lower than they are today; in fact, they are expected to rise, particularly in the US, though the European Central Bank and other major central banks also appear to be entering a tightening cycle.
+If, say, an increase in inflation generates expectations that the Fed will raise interest rates more aggressively, a stock- or bond-market crash might result.
+<P>
+Geopolitical risk is also high – indeed, it has rarely been higher than it is today, just as faith in the stabilizing influence of US global leadership has rarely been lower.
+The most acute risk relates to North Korea’s advancing nuclear program, but there are also substantial risks in the Middle East and elsewhere.
+<P>
+These risks are being exacerbated by US President Donald Trump, who has made a number of foreign-policy missteps, from mishandling the North Korea crisis to threatening to abrogate the Iran nuclear agreement.
+So far, the consequences of Trump’s wild rhetoric on the domestic front have been limited, because most of it has not been translated into legislation.
+But on the international front, it could have disastrous implications.
+<P>
+Beyond Trump’s capriciousness is a broader crisis in US politics.
+Though showdowns in the US Congress over the debt ceiling did not result in a government shutdown this month, US leaders have only kicked the can down the road to the end of the year, when the stakes could well be higher and the stalemate more intractable.
+The US may even face a constitutional crisis, if Special Counsel Robert Mueller were to find, for example, evidence of illegal contact between the Trump campaign and the Russian government.
+<P>
+The last time the VIX was as low as it is today, in 2006 and early 2007, one could also draw up a lengthy list of potential crises.
+Most obvious, housing prices in the United Kingdom and the US were at record highs relative to benchmarks like rent, raising the risk of a collapse.
+Yet markets acted as if risk was low, driving down the VIX and US Treasury bill rates, and driving up prices of stocks, junk bonds, and emerging-market securities.
+<P>
+When the housing market did crash, it was regarded as a surprise.
+The crash lay outside any standard probability distribution that could have been estimated from past data, analysts declared, and was therefore a black swan event, or a case of “Knightian uncertainty,” radical uncertainty, or unknown unknowns.
+After all, the analysts argued, housing prices had never fallen in nominal terms before.
+<P>
+But, while nominal housing prices had not fallen in the US in the previous 70 years, they had fallen in Japan in the 1990s and in the US in the 1930s.
+This was, therefore, not a case of Knightian uncertainty, but of classical uncertainty, in which the data set generating the probability distribution was unnecessarily limited to a few decades of domestic observations.
+<P>
+In this sense, it is the “black swan” term that fits best – indeed, better than those who use it realize.
+Nineteenth-century British philosophers cited black swans as the quintessential example of a phenomenon whose occurrence could not be inferred from observed data.
+But that, too, reflected a failure to consider data from enough countries or centuries.
+(The black swan is an Australian species that had been identified by ornithologists in the eighteenth century.)
+<P>
+This type of failure to take a sufficiently broad view turns out to be a key reason why investors periodically underestimate risk.
+The formulas for pricing options, for example, require a statistical estimate of the variance.
+Likewise, the formula for pricing mortgage-backed securities requires a statistical estimate of the frequency distribution of defaults.
+Analysts estimate these parameters by plugging in just the last few years of data for the given country.
+Moreover, in the boom-bust cycle described by Hyman Minsky, a period of low volatility lulls investors into a false sense of security, leading them to become over-leveraged and ultimately producing a crash.
+<P>
+Perhaps investors will re-evaluate the risks affecting the economy today, and the VIX will adjust.
+But, if history is any guide, this will not happen until the negative shock, whatever it is, actually hits.

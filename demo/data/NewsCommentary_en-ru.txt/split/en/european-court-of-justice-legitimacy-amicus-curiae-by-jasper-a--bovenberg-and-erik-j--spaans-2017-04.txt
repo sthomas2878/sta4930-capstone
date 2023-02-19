@@ -1,0 +1,62 @@
+<HEADLINE>
+Befriending the European Court of Justice
+<P>
+AMSTERDAM– On March 25, the European Union celebrated the 60th anniversary of the Treaty of Rome, which gave birth to the European Economic Community and set the stage for the EU’s creation.
+Like any birthday, it was an opportunity not just to celebrate, but also to consider what has been achieved – and what must change.
+<P>
+At a time when member countries are increasingly pulling away from the EU – and the United Kingdom is actually leaving – the need for reform is clear.
+Discussions about how to bring the European Council, Commission, and Parliament closer to EU citizens, thereby closing Europe’s “democratic deficit,” are frequent and animated.
+But another institution that could benefit from more input from EU citizens is often left out of these discussions: the European Court of Justice.
+<P>
+The ECJ is the EU’s judicial authority.
+It gives preliminary rulings on the interpretation of the European treaties and the validity of actions taken by EU institutions.
+It has played a central role in the legal integration of the EU, adjudicating the limits of the EU’s authority and shaping the definition and application of its core principles.
+And it acts de facto (if not de jure) as a constitutional court.
+<P>
+Over the years, the ECJ’s judicial activism has encountered both praise and criticism, with some claiming that its growing powers have eroded its popular legitimacy.
+Such claims have gained traction since the expansion of the court’s jurisdiction to include areas like human rights, monetary policy, immigration, and citizenship.
+<P>
+Many ECJ decisions have a political dimension and concern fundamental principles.
+Examples include the patentability of human embryos, the legality of monetary-policy decisions by the European Central Bank, and the privacy of European Facebook users.
+All ECJ decisions extend beyond the specific disputes at issue, to have binding effect erga omnes (toward everyone), as opposed to merely inter partes (between the parties).
+<P>
+Given the far-reaching implications of ECJ decisions, there is a strong case for the issues at stake not only to be scrutinized ex post, but also to be assessed ex ante.
+And, to some extent, they are: EU member states and the European Commission can submit their written observations on pending cases (though the ECJ doesn’t publish them).
+<P>
+But affected third parties, much less the general public, do not have any avenue to inform the court of their knowledge, perspectives, or interests, or to demonstrate how a decision would affect them or their communities and societies.
+This is a serious shortcoming.
+Without information and insights from those affected, a court cannot effectively balance all relevant interests and assess all potential implications.
+<P>
+The ECJ’s peers elsewhere in the world seem to recognize this.
+In the United States, for example, the Supreme Court invites third-party and public input, in the form of so-called amicus curiae (“friend of the court”) briefs.
+<P>
+The goal of an amicus curiae, which dates back to Roman law, is to contribute to the quality and legitimacy of the administration of justice, and hence to the promotion and strengthening of the rule of law.
+An amicus can fulfill one of two roles: independent expert or interested advocate.
+<P>
+Independent experts may submit scientific evidence, which could confirm or refute assumptions on which the Court is to base its verdict.
+Those experts may be from the legal field, but they don’t have to be: there are plenty of areas where experts might have something to contribute to a pending decision.
+In the seminal school segregation case Brown v. Board of Education, the US Supreme Court cited a number of social-science studies that challenged the assumption that “separate but equal” public education was possible at all.
+<P>
+In the near future, it seems likely that the ECJ’s decision-making may also be aided and informed by Big Data analysis and Artificial Intelligence applications, such as IBM’s Watson and the ROSS AI research tool.
+But the ECJ would nonetheless put “public intelligence” first.
+<P>
+An amicus curiae acting as an advocate of a public or private interest could enrich the ECJ’s understanding of the implications of pending decisions.
+Such an advocate could highlight the decision’s impact on an individual, a business or economic sector, a religious, social, or economic group, or even a foreign government.
+<P>
+A court is typically not required to discuss the contents of an amicus brief, let alone be guided by it.
+But the ECJ is not bound to heed the written observations of EU member states or the European Commission, either.
+That does not negate the value of filing them.
+The ECJ can also technically disregard the opinions rendered by its advocate-general, but it rarely does.
+<P>
+Because the ECJ’s current procedures do not allow for the submission of amicus briefs, we have taken it upon ourselves to create a platform by which the public can deliver them.
+Our platform – the first of its kind – collects, presents, and categorizes references for a preliminary ruling pending before the ECJ, with the possibility to leave a brief.
+<P>
+The timing for submitting briefs on our platform is the same as that for EU member states and the Commission to file their written observations.
+That way, amicus briefs received by the platform can inform not only the ECJ’s decision-making, but also the written observations delivered by those bodies, and even the advocate-general.
+<P>
+As the EU continues to develop, the ECJ’s role will only become more important, and its legitimacy will face more challenges.
+It is essential that the ECJ’s decisions and the values it enforces reflect an understanding of all relevant interests and potential implications, and that the public feels that it is being heard.
+The only way to achieve that is to establish channels for EU citizens to share their knowledge and insights with the court.
+<P>
+The ECJ is even older than the Treaty of Rome: it turns 65 in December.
+If its birthday is to be a happy one, it will have to invite its friends for a little help.

@@ -1,0 +1,92 @@
+<HEADLINE>
+Soil Science for a Hungry Planet
+<P>
+AUBURN, ALABAMA – According to the United Nations, sometime around 2050, the planet’s human population will be close to ten billion, a threshold that will stress many of the world’s most important systems, especially agriculture.
+How will farmers – including poor growers in developing countries – increase crop productivity to meet growing food demand?
+<P>
+Feeding the world efficiently will not be easy, and intangibles such as climate change, violent conflict, and the availability of fresh water will complicate it further.
+New farming techniques that use data and drones to monitor crop health will help.
+But one of the most powerful methods for increasing yields sustainably will come from leveraging what is already in the ground.
+<P>
+Naturally occurring microbes in soils help foster crop health and improve plant output.
+But poor soil management can lead to a loss of microbial content.
+By replenishing depleted soils with these beneficial organisms, farm productivity can be increased, without reliance on costly inputs like fertilizers and pesticides, thereby helping to meet the daunting challenges of feeding a growing population while protecting the environment.
+Several start-up companies are already working to harness the power of microbes.
+San Francisco-based Biome Makers, for example, is using DNA sequencing to help winemakers take advantage of microorganisms to improve the quality and yield of vineyards.
+Indigo, a Boston-based “agtech” firm, creates microbial products that help plants withstand drought conditions.
+And in Florida, Pathway Biologic is developing microbial products for use throughout the agricultural sector.
+Big companies, too, are getting in on the act.
+Bayer Crop Sciences, for example, markets a number of microbial-based products, including one that reportedly improves corn yields by as much as 15%.
+Many other companies are developing similar products that are expected to reach the market soon.
+The Year Ahead 2019h4 { text-align: center;}Featuring commentaries by Joseph Stiglitz, Sri Mulyani Indrawati, Angus Deaton, Célestin Monga, Jean-Claude Juncker, and other leading thinkers.
+Now available for pre-order.Learn moreUniversities are of course actively participating in microbial-related research as well.
+At Auburn University, for example, I am part of a research team that tests the effects of soil microbes on the growth and resilience of corn and cotton plants.
+As I have seen in my own work, maize plants grown in soil infused with certain bacteria develop root systems that are triple the size of plants grown in untreated soils.
+I have also seen how these bacteria protect crops from drought; in one experiment, we withheld water from a group of microbe-treated plants and a control group.
+After five waterless days, the treated plants still stood tall and robust, while the untreated plants wilted and withered.
+One of the major reasons farmers find microbial products attractive is that they are formulated from naturally occurring organisms, and do not carry the same risks as synthetic chemicals.
+The current market value for these products is $2.3 billion, and the market is expected to grow to $5 billion over the next four years.
+It is hard to overemphasize the benefits of microbial soil treatment for agricultural productivity, especially in the developing world, where increasing crop yields is a matter of survival for smallholder farms.
+This is particularly true for farmers in Africa.
+Today, roughly 65% of Africa’s agricultural soil is degraded, lacking sufficient nutrients and microbial life to support plant health.
+African farmers spend $68 billion annually to reverse these declines, mostly through the application of chemical fertilizers.
+Microbe-based solutions could, therefore, help improve soil quality more sustainably than traditional means, enabling African farmers to grow the crops needed to feed the continent’s population.
+But research on African soil microbes remains limited, with most microbial solutions being developed for Western markets.
+This should change.
+More investment could enable scientists to discover new microbial strains with unique abilities to influence soil and crop health locally, thereby leveraging Africa’s own natural environment to improve agricultural productivity.
+Greater investment in soil research could also have spillover benefits for African economies.
+With new discoveries leading to patents and licenses, the resulting research could spur the formation of new agribusinesses and farm-related industries.
+I can personally vouch for the power of spillover benefits from this type of research.
+My own work on soil microbes at Auburn led to the issuance of three US patents, with several agricultural companies pursuing the rights to commercialize products from the technology.
+Additional patent applications from my research have been filed in other countries, including Argentina, Bolivia, Paraguay, Uruguay, and Venezuela.
+Once issued, technologies developed from these patents could benefit millions of farmers and lead to commercial products that generate lucrative new revenue sources.
+Meeting the food demands of the planet’s growing population will require new farming products, technologies, and practices to increase productivity.
+Solutions derived from beneficial microbes will be key to these innovations.
+For agricultural scientists like me, no issue facing future generations is more important than food security.
+The good news is that, as we search for new ways to push plants to do more, the most promising technologies are natural, resting dormant in the ground beneath our feet, waiting only to be discovered.
+<P>
+Naturally occurring microbes in soils help foster crop health and improve plant output.
+But poor soil management can lead to a loss of microbial content.
+By replenishing depleted soils with these beneficial organisms, farm productivity can be increased, without reliance on costly inputs like fertilizers and pesticides, thereby helping to meet the daunting challenges of feeding a growing population while protecting the environment.
+<P>
+Several start-up companies are already working to harness the power of microbes.
+San Francisco-based Biome Makers, for example, is using DNA sequencing to help winemakers take advantage of microorganisms to improve the quality and yield of vineyards.
+Indigo, a Boston-based “agtech” firm, creates microbial products that help plants withstand drought conditions.
+And in Florida, Pathway Biologic is developing microbial products for use throughout the agricultural sector.
+<P>
+Big companies, too, are getting in on the act.
+Bayer Crop Sciences, for example, markets a number of microbial-based products, including one that reportedly improves corn yields by as much as 15%.
+Many other companies are developing similar products that are expected to reach the market soon.
+<P>
+Universities are of course actively participating in microbial-related research as well.
+At Auburn University, for example, I am part of a research team that tests the effects of soil microbes on the growth and resilience of corn and cotton plants.
+As I have seen in my own work, maize plants grown in soil infused with certain bacteria develop root systems that are triple the size of plants grown in untreated soils.
+I have also seen how these bacteria protect crops from drought; in one experiment, we withheld water from a group of microbe-treated plants and a control group.
+After five waterless days, the treated plants still stood tall and robust, while the untreated plants wilted and withered.
+<P>
+One of the major reasons farmers find microbial products attractive is that they are formulated from naturally occurring organisms, and do not carry the same risks as synthetic chemicals.
+The current market value for these products is $2.3 billion, and the market is expected to grow to $5 billion over the next four years.
+<P>
+It is hard to overemphasize the benefits of microbial soil treatment for agricultural productivity, especially in the developing world, where increasing crop yields is a matter of survival for smallholder farms.
+This is particularly true for farmers in Africa.
+<P>
+Today, roughly 65% of Africa’s agricultural soil is degraded, lacking sufficient nutrients and microbial life to support plant health.
+African farmers spend $68 billion annually to reverse these declines, mostly through the application of chemical fertilizers.
+Microbe-based solutions could, therefore, help improve soil quality more sustainably than traditional means, enabling African farmers to grow the crops needed to feed the continent’s population.
+<P>
+But research on African soil microbes remains limited, with most microbial solutions being developed for Western markets.
+This should change.
+More investment could enable scientists to discover new microbial strains with unique abilities to influence soil and crop health locally, thereby leveraging Africa’s own natural environment to improve agricultural productivity.
+<P>
+Greater investment in soil research could also have spillover benefits for African economies.
+With new discoveries leading to patents and licenses, the resulting research could spur the formation of new agribusinesses and farm-related industries.
+<P>
+I can personally vouch for the power of spillover benefits from this type of research.
+My own work on soil microbes at Auburn led to the issuance of three US patents, with several agricultural companies pursuing the rights to commercialize products from the technology.
+Additional patent applications from my research have been filed in other countries, including Argentina, Bolivia, Paraguay, Uruguay, and Venezuela.
+Once issued, technologies developed from these patents could benefit millions of farmers and lead to commercial products that generate lucrative new revenue sources.
+<P>
+Meeting the food demands of the planet’s growing population will require new farming products, technologies, and practices to increase productivity.
+Solutions derived from beneficial microbes will be key to these innovations.
+For agricultural scientists like me, no issue facing future generations is more important than food security.
+The good news is that, as we search for new ways to push plants to do more, the most promising technologies are natural, resting dormant in the ground beneath our feet, waiting only to be discovered.

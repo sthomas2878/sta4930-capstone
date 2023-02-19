@@ -1,0 +1,70 @@
+<HEADLINE>
+A New Approach to Protecting Gig Workers
+<P>
+BERKELEY – In the United States and other advanced industrial economies, a growing number of workers no longer work for a single employer on a traditional contract.
+Instead, they earn income through a variety of “non-standard” working arrangements, including work mediated by digital platforms, or so-called gig work.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The distinction between an employee and a gig worker is not inconsequential.
+Under current laws, employees have rights and access to significant protections and benefits not provided to gig workers.
+A critical question now confronting policymakers is whether gig workers should be classified as independent contractors or as employees of the platform companies with which they have employment contracts and for whose customers they provide services.
+<P>
+California, a US state with more than two million independent contractors, has attempted to resolve this question with a new law, California Assembly Bill 5, which codifies the legal criteria for determining how to categorize workers.
+Applying the three-part “ABC test” that many states already use to determine whether a worker is eligible for unemployment insurance, AB5 makes it considerably harder for businesses to classify their workers as independent contractors rather than employees.
+<P>
+To win political support for AB5’s passage, lawmakers exempted many types of independent contractors – such as doctors, dentists, and real-estate agents – on the grounds that they set their own compensation rates, communicate directly with their customers, and earn at least twice the minimum wage.
+But AB5 does cover the more than 400,000 workers who drive for platform companies like the ride-sharing services Uber and Lyft and the food-delivery firm DoorDash.
+<P>
+Enforcement of AB5 means that these companies will have to start providing their drivers with benefits like minimum wages, overtime pay, sick leave, unemployment insurance, and employer contributions to Medicare and Social Security.
+Moreover, companies employing gig workers may have to bargain with unions, which their workers will now have the right to form.
+National unions, such as the Transport Workers and the Teamsters, and newer groups, like Rideshare Drivers United, are already reaching out to organize such workers.
+<P>
+As California Governor Gavin Newsom noted, AB5 is an important step toward delivering economic security to workers.
+Yet, as both the law’s supporters and opponents also recognize, the changes could increase labor costs significantly – by an estimated 20-30%.
+This is the last thing that platform companies and their investors want.
+<P>
+Not surprisingly, Uber and Lyft tried to stop AB5, offering to implement a wage floor, create a benefit fund, and allow workers to form organizations to defend their interests, in exchange for continuing to classify them as independent contractors.
+California lawmakers, however, rejected the companies’ proposals, which fell short of the benefits and protections that employees enjoy under state and federal law.
+Similar proposals have been rejected in New York, New Jersey, and Washington.
+<P>
+But platform companies will not give up so easily.
+In response to AB5, Uber’s chief legal officer, Tony West, released a statement declaring, “We continue to believe that drivers are properly classified as independent,” because they are “outside the usual course of Uber’s business.”
+That is a bizarre and outrageous claim for a company whose business model is based on giving rides and making deliveries.
+Uber, Lyft, and DoorDash have pledged $90 million to a 2020 California ballot initiative that would essentially exempt them from AB5.
+<P>
+Platform companies are also pursuing another route to evade AB5.
+California allows a ballot initiative’s proponents to withdraw it, if they believe that the problems it aims to solve have otherwise been addressed.
+So Uber and Lyft are developing an updated plan that would set higher pay standards, provide more benefits, and create a driver feedback mechanism.
+<P>
+The success of this approach is far from guaranteed, and not just in California.
+Several states – including New York, Illinois, Oregon, and Washington – are considering legislation resembling AB5, and many Democratic presidential candidates have hailed AB5’s passage, signaling that they would support its application nationally.
+<P>
+President Donald Trump’s administration, however, opposes extending traditional employment protections to gig workers.
+The Trump-appointed National Labor Relations Board recently ruled that gig workers are independent contractors with no right to unionize.
+Amid heated debates on Big Tech’s market power, AB5 and similar legislation can be expected to spur major legal and political battles in 2020.
+<P>
+Meanwhile, assuming AB5 is enforced, employers will retain the authority to determine how to distribute the increased labor costs among their stakeholders – shareholders, workers, and customers.
+The decisions of individual companies will be shaped by both their traditional market power and their monopsony power – that is, their power in the labor markets where they hire workers.
+<P>
+Newsom himself has acknowledged that AB5 is only a first step.
+The next is to “create pathways for more workers to form a union, collectively bargain to earn more, and have a stronger voice at work – all while preserving flexibility and innovation.”
+To that end, he has pledged to “convene leaders from the legislature, the labor movement, and the business community.”
+<P>
+Such discussions should recognize the potential of portable benefits systems.
+By allowing (or requiring) multiple employers to make pro-rated contributions to security accounts attached to the individual, rather than the job, such systems enable workers to combine benefits from the various companies that purchase their labor.
+Because all businesses would have to make contributions for all of their workers, a portable benefits system would level the playing field among firms, while discouraging them from misclassifying workers.
+<P>
+The portable benefits concept already has some political momentum in the US.
+Early this year – some three years after former US President Barack Obama endorsed the idea – US Senator Mark Warner introduced the Portable Benefits for Independent Workers Pilot Program Act, which would establish a $20 million fund to support experimentation in this area.
+<P>
+As Newsom put it, the hollowing out of the American middle class has been 40 years in the making.
+Rather than allowing technology to accelerate this trend, governments at all levels should be strengthening worker protections.
+In a fast-changing labor market, there is no time to waste.

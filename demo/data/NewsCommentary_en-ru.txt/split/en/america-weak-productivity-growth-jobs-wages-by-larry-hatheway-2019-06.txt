@@ -1,0 +1,72 @@
+<HEADLINE>
+The US Economy’s Strange Decade
+<P>
+ZURICH – The current US economic expansion is extraordinary.
+Not only does it rival the longest on post-war record, but, unlike previous periods of sustained growth, it has not unleashed much inflation.
+Corporate profits have soared to unprecedented levels.
+And economic inequality in the United States is at its most extreme in a half-century.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Each of these unique features is paradoxically linked to another oddity: despite a mostly lackluster expansion since 2009, the US unemployment rate has fallen significantly further than would have been predicted by GDP growth alone.
+But perhaps the defining aspect of this strange decade-long expansion, and the one that helps to explain its main anomalies, is weak productivity growth.
+<P>
+Consider, first, the jobs phenomenon.
+Using a simple model relating unemployment to GDP growth – similar to Okun’s Law – indicates that the jobless rate has fallen by half a percentage point more per year during this expansion than history would have suggested.
+Since 2014, the rate of US employment growth has exceeded what GDP growth would have predicted by nearly one million jobs per year.
+<P>
+Even as unemployment has fallen to historic lows, job creation remains more than double the rate of increase of the labor force.
+Firms are hiring strongly despite tepid growth, a dwindling pool of productive workers, and troubling political and policy uncertainty.
+The soft May jobs report, alone, does not change the decade-long phenomenon of robust employment growth.
+<P>
+One plausible explanation is that firms are substituting cheap labor for expensive capital.
+The share of total worker compensation in US national income has fallen steadily this century, reaching a low of 60% in late 2014, before edging back to its current level of 62%.
+Yet that is still three full percentage points below its average level between 1965 and 2000.
+<P>
+On the other hand, returns on capital are exceptionally high.
+Since 2010, the share of corporate profits in GDP has reached average levels that are unrivaled in the post-war era.
+One might think, therefore, that firms would prefer to invest in high-returning capital rather than in labor.
+But that is not the case.
+The average annual rate of non-residential gross fixed capital formation since 2009 has been 5.3%, more or less the same as it was in the expansions of the early 2000s and the 1980s, and well below the rate in the investment-led boom of the late 1990s.
+<P>
+Why is cheap labor so abundant?
+Perhaps workers are willing to sacrifice higher wages in return for job security.
+That’s understandable, given the painful memories of the 2008-2009 recession.
+Wage demands may be restrained by fears of losing jobs to China, Mexico, or machines.
+Yet a rising “quits rate,” which is now back to levels seen prior to the financial crisis, suggests that workers are perhaps less excessively cautious than they once were.
+<P>
+Another factor is declining union membership.
+In the early 1980s, nearly one-quarter of the US labor force was unionized.
+Today, that figure has fallen to about one-tenth.
+Non-union workers earn, on average, about 20% less than their unionized counterparts.
+A less unionized labor force works more cheaply and, perhaps, more flexibly, making it more attractive for companies to hire.
+<P>
+But the most important factor behind sluggish wage growth is probably weak productivity growth.
+Average labor productivity in the US (and in most other advanced economies) has slumped in the past decade.
+Despite the explosive growth in information technology, the average worker is not becoming more productive.
+<P>
+If output per hour worked is not rising much, then the number of hours worked must increase to ensure adequate provision of goods and services.
+This is why US job creation remains robust, despite pedestrian GDP growth.
+<P>
+In addition, firms cannot raise wages by more than the increase in the marginal product of labor.
+Low productivity growth therefore explains sluggish wage increases.
+It also makes firms less willing to invest.
+The resulting capital discipline contributes to high returns on capital, which underpin soaring profits and yawning income inequality.
+<P>
+US policymakers must try to ensure that the benefits of growth are more equally distributed.
+Populist proposals from both ends of the political spectrum, such as calls for protectionism or a universal basic income, are unlikely to do the trick.
+Such measures would simply result in Americans fighting over shares of a shrinking pie.
+<P>
+Rather, the key is to raise average levels of productivity.
+For a variety of reasons, including the current political and social backlash against capitalism, the US cannot address its productivity challenge solely with 1980s-style deregulation, lower taxes, and less government.
+Economic efficiency will have to be augmented by improvements to energy and transport infrastructure, along with better access to quality education, worker training, and health care.
+<P>
+America’s growth over the past decade has been unique in many ways.
+But if its productivity malaise is allowed to persist, the expansion will remain uniquely unbalanced and unhealthy.

@@ -1,0 +1,45 @@
+<HEADLINE>
+Managing Big Data’s Big Risks
+<P>
+NEW YORK – In the last 15 years, we have witnessed an explosion in the amount of digital data available – from the Internet, social media, scientific equipment, smart phones, surveillance cameras, and many other sources – and in the computer technologies used to process it.
+“Big Data,” as it is known, will undoubtedly deliver important scientific, technological, and medical advances.
+But Big Data also poses serious risks if it is misused or abused.
+<P>
+Already, major innovations such as Internet search engines, machine translation, and image labeling have relied on applying machine-learning techniques to vast data sets.
+And, in the near-future, Big Data could significantly improve government policymaking, social-welfare programs, and scholarship.
+<P>
+But having more data is no substitute for having high-quality data.
+For example, a recent article in Nature reports that election pollsters in the United States are struggling to obtain representative samples of the population, because they are legally permitted to call only landline telephones, whereas Americans increasingly rely on cellphones.
+And while one can find countless political opinions on social media, these aren’t reliably representative of voters, either.
+In fact, a substantial share of tweets and Facebook posts about politics are computer-generated.
+<P>
+In recent years, automated programs based on biased data sets have caused numerous scandals.
+For example, last April, when a college student searched Google images for “unprofessional hairstyles for work,” the results showed mostly pictures of black people; when the student changed the first search term to “professional,” Google returned mostly pictures of white people.
+But this was not the result of bias on the part of Google’s programmers; rather, it reflected how people had labeled pictures on the Internet.
+<P>
+A Big Data program that used this search result to evaluate hiring and promotion decisions might penalize black candidates who resembled the pictures in the results for “unprofessional hairstyles,” thereby perpetuating traditional social biases.
+And this isn’t just a hypothetical possibility.
+Last year, a ProPublica investigation of “recidivism risk models” demonstrated that a widely used methodology to determine sentences for convicted criminals systematically overestimates the likelihood that black defendants will commit crimes in the future, and underestimates the risk that white defendants will do so.
+<P>
+Another hazard of Big Data is that it can be gamed.
+When people know that a data set is being used to make important decisions that will affect them, they have an incentive to tip the scales in their favor.
+For example, teachers who are judged according to their students’ test scores may be more likely to “teach to the test,” or even to cheat.
+<P>
+Similarly, college administrators who want to move their institutions up in the US News and World Reports rankings have made unwise decisions, such as investing in extravagant gyms at the expense of academics.
+Worse, they have made grotesquely unethical decisions, such as the effort by Mount Saint Mary’s University to boost its “retention rate” by identifying and expelling weaker students in the first few weeks of school.
+<P>
+Even Google’s search engine is not immune.
+Despite being driven by an enormous amount of data overseen by some of the world’s top data scientists, its results are susceptible to “search-engine optimization” and manipulation, such as “Google bombing,” “spamdexing,” and other methods serving parochial interests.
+<P>
+A third hazard is privacy violations, because so much of the data now available contains personal information.
+In recent years, enormous collections of confidential data have been stolen from commercial and government sites; and researchers have shown how people’s political opinions or even sexual preferences can be accurately gleaned from seemingly innocuous online postings, such as movie reviews – even when they are published pseudonymously.
+<P>
+Finally, Big Data poses a challenge for accountability.
+Someone who feels that he or she has been treated unfairly by an algorithm’s decision often has no way to appeal it, either because specific results cannot be interpreted, or because the people who have written the algorithm refuse to provide details about how it works.
+And while governments or corporations might intimidate anyone who objects by describing their algorithms as “mathematical” or “scientific,” they, too, are often awed by their creations’ behavior.
+The European Union recently adopted a measure guaranteeing people affected by algorithms a “right to an explanation”; but only time will tell how this will work in practice.
+<P>
+When people who are harmed by Big Data have no avenues for recourse, the results can be toxic and far-reaching, as data scientist Cathy O’Neil demonstrates in her recent book Weapons of Math Destruction.
+<P>
+The good news is that the hazards of Big Data can be largely avoided.
+But they won’t be unless we zealously protect people’s privacy, detect and correct unfairness, use algorithmic recommendations prudently, and maintain a rigorous understanding of algorithms’ inner workings and the data that informs their decisions.

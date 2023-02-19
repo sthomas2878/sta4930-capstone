@@ -1,0 +1,62 @@
+<HEADLINE>
+Can Fake News Be Outlawed?
+<P>
+PARIS – How can societies combat the stream of false, often fabricated information that surges across the Internet and through social media, polluting political debates almost everywhere?
+<P>
+That question has bedeviled defenders of democracy at least since the 2016 US presidential election.
+And at a New Year’s press conference outside the Élysée Palace this month, French President Emmanuel Macron offered his own answer.
+<P>
+Macron’s goal, it seems, is to curtail “fake news” by law.
+He is promising that, by the end of the year, he will introduce a bill to crack down on those spreading misinformation during any election period.
+<P>
+But France already has a repressive law banning the publication or broadcasting of disinformation in bad faith.
+Under Article 27 of the famous Press Law of 1881, disseminating false information “by whatever means” is punishable by a fine of up to €45,000 ($55,000) in today’s currency.
+<P>
+The Press Law, however, applies only to information that has “disturbed the public peace,” which can be very difficult to define, let alone prove.
+Another law, part of the electoral code, provides for punishment of one year in prison and a fine of €15,000 for anyone who uses false information “or other fraudulent maneuvers” to steal votes.
+But this provision applies primarily to cases of electoral fraud.
+<P>
+Macron’s challenge, then, is to craft legislation for the digital age.
+Although he didn’t explicitly say so in his recent speech, he is clearly targeting the kind of Russian interference that played a prominent role in the 2016 US presidential election, and also threatened his own presidential campaign last spring.
+<P>
+But Macron is also looking beyond Russia.
+His larger goal is to protect democratic institutions against any regime advocating what he calls “political illiberalism,” such as the governments led by Turkish President Recep Tayyip Erdoğan, Hungarian Prime Minister Viktor Orbán, or Poland’s Law and Justice (PiS) party.
+<P>
+The first track Macron is exploring concerns transparency.
+Digital platforms will likely be subjected to higher transparency standards for all “sponsored content,” not just to disclose the identity of advertisers, but also to limit the amounts spent on these messages.
+Second, Macron will try to establish summary proceedings in which judges can order that content be deleted, or that websites be delisted from search engines or blocked altogether.
+<P>
+France is not the first country to legislate against fake news.
+On the eve of the German federal election last September, Germany’s parliament passed a law known as “NetzDG,” which came into force on January 1, 2018.
+The law requires social networks such as Facebook, Twitter, and YouTube to remove all illegal content posted by users – which includes hate speech, in addition to disinformation – within 24 hours, or face a fine of up to €50 million ($61.3 million).
+Italy’s government, ahead of a general election in March, has also proposed a bill to police fake news.
+<P>
+Not surprisingly, Macron’s proposed legislation has provoked criticism, not just from Marine Le Pen’s far-right National Front, but also from the extreme left.
+Macron’s critics have enlisted the help of legal experts who argue that the laws already on the books are sufficient to contain fake news.
+<P>
+Yet these experts have failed to grasp the extent to which new technologies, particularly social media, enable wrongdoing.
+Those seeking to spread misinformation and conspiracy theories now have more opportunities than ever to do so.
+If anything, the need for new measures ensuring transparent and accurate online content should be obvious.
+<P>
+Still, the new judicial procedure that Macron envisions will need to be examined carefully once it has been fleshed out.
+Should a judge have the power to decide on the spot what is true and what is false, and then issue fines?
+After all, “fake news” can take many forms, and sometimes it is disseminated without any malign intention to manipulate voters or sway an election.
+<P>
+A second complication is the controversial issue of net neutrality.
+Presumably, the law will have to police disinformation while also ensuring that Internet service providers treat all online content equally.
+<P>
+Moreover, it remains to be seen how Macron will address social networks and online actors that are based abroad, and over whom French authorities have no jurisdiction.
+<P>
+No reasonable person suspects Macron of wanting to introduce censorship.
+But his proposed law will need to include safeguards.
+For now, it is promising to learn that the proposed law would pertain only to the period preceding elections – a delicate moment in the public life of a democracy.
+<P>
+In any case, Macron’s proposed legislation will be but one tool in the fight against disinformation.
+Public education to improve media literacy, and new classifications to treat social-media platforms as publishers with editorial accountability, can also undermine disinformation campaigns.
+<P>
+Ultimately, stanching the flow of fake news is a global challenge that will require a global solution.
+In this regard, the European Commission’s decision to convene a group of experts to lead a public consultation on the issue is to be welcomed.
+One hopes that the process results in a set of recommendations on the best way forward.
+<P>
+But, until then, Macron’s controversial proposals – which, to be sure, some 79% of French people favor, according to a recent poll – will at least prompt citizens to start thinking in stark terms about an issue that touches the very foundation of Western democracy.
+As we have seen in one country after another, a disinformed voter is a democrat’s nemesis.

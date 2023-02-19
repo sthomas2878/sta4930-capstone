@@ -1,0 +1,57 @@
+<HEADLINE>
+The Death of Inflation Targeting
+<P>
+CAMBRIDGE – It is with regret that we announce the death of inflation targeting.
+The monetary-policy regime, known as IT to friends, evidently passed away in September 2008.
+The lack of an official announcement until now attests to the esteem in which it was held, its usefulness as an ornament of credibility for central banks, and fears that there might be no good candidates to succeed it as the preferred anchor for monetary policy.
+<P>
+Inflation targeting was born in New Zealand in March 1990.
+Admired for its transparency, and thus for facilitating accountability, it achieved success there, and soon in Canada, Australia, the United Kingdom, Sweden, and Israel.
+It subsequently became popular in Latin America (Brazil, Chile, Mexico, Colombia, and Peru) and among other developing countries (including South Africa, South Korea, Indonesia, Thailand, and Turkey).
+<P>
+One reason that IT gained such wide acceptance as the monetary-policy anchor of choice was the demise of its predecessor, exchange-rate targeting, in the currency crises of the 1990’s.
+Pegged exchange rates had come under fatal speculative attack in many of these countries, whose authorities thus needed something new to anchor the public’s expectations concerning monetary policy.
+Inflation targeting was in the right place at the right time.
+<P>
+In the early 1980’s, prior to the reign of exchange-rate targeting, the fashion was money-supply targeting, the brainchild of the monetarist Milton Friedman.
+But that rule succumbed rather quickly to violent money-demand shocks, though Friedman’s general argument – that a credible commitment to low inflation requires favoring rules over discretion – remains very influential.
+<P>
+Inflation targeting was best known as a rule that instructed central banks to set – and try their best to attain – a target range for the annual rate of change of the consumer price index (CPI).
+Close cousins included targeting the price level instead of the inflation rate, and targeting core inflation (the CPI minus volatile food and energy prices).
+<P>
+There were also proponents of flexible inflation targeting, who held that it was fine to put some weight on real GDP growth in the short run, so long as there was a clear longer-term target for CPI inflation.
+But some felt that if the definition of IT were stretched too far, it would lose its meaning.
+<P>
+Regardless of the form it took, IT began to receive some heavy blows a few years ago (analogous to the crises that hit exchange-rate targets in the 1990’s).
+Perhaps the biggest setback hit in September 2008, when it became clear that central banks that had been relying on IT had not paid enough attention to asset-price bubbles.
+<P>
+Central bankers had told themselves that they were giving asset markets all of the attention that they deserved, by specifying that housing prices and equity prices could be taken into account to the extent that they implied information regarding goods inflation.
+But this escape clause proved insufficient: when the global financial crisis hit (suggesting, at least in retrospect, that monetary policy had been too loose from 2003 to 2006), it was neither preceded nor followed by an upsurge in inflation.
+<P>
+That the boom-bust cycle could occur without inflation should not have come as a surprise.
+After all, the same thing happened when asset-price bubbles ended in crashes in the United States in 1929, Japan in 1990, and Thailand and Korea in 1997.
+And the hope of long-time US Federal Reserve Chairman Alan Greenspan that monetary easing could clean up the mess in the aftermath of such a crash proved wrong.
+<P>
+While the lack of response to asset bubbles was probably IT’s biggest failing, another major setback was inappropriate responses to supply shocks and terms-of-trade shocks.
+An economy is healthier if monetary policy responds to an increase in the world prices of its exported commodities by tightening enough to cause the currency to appreciate.
+But CPI targeting instead tells the central bank to tighten policy in response to an increase in the world price of imported commodities – exactly the opposite of accommodating the adverse shift in the terms of trade.
+<P>
+It is widely suspected, for example, that the reason for the European Central Bank’s otherwise puzzling decision to raise interest rates in July 2008, as the world was sliding into the worst recession since the 1930’s, was that oil prices were just then reaching an all-time high.
+Oil prices are given substantial weight in the CPI, so stabilizing the CPI when dollar-denominated oil prices go up requires euro appreciation vis-à-vis the dollar.
+<P>
+One candidate to succeed IT as the preferred nominal monetary-policy anchor has lately received some enthusiastic support in the economic blogosphere: nominal GDP targeting.
+The idea is not new.
+It had been a candidate to succeed money-supply targeting in the 1980’s, since it did not share the latter’s vulnerability to so-called velocity shocks.
+<P>
+Nominal GDP targeting was not adopted then, but now it is back.
+Its fans point out that, unlike IT, it would not cause excessive tightening in response to adverse supply shocks.
+Nominal GDP targeting stabilizes demand – the most that can be asked of monetary policy.
+An adverse supply shock is automatically divided equally between inflation and real GDP, which is pretty much what a central bank with discretion would do anyway.
+<P>
+A dark-horse candidate is product-price targeting, which would focus on stabilizing an index of producer prices rather than an index of consumer prices.
+Unlike IT, it would not dictate a perverse response to terms-of-trade shocks.
+<P>
+Supporters of both nominal GDP targeting and product-price targeting claim that IT sometimes gave the public the misleading impression that it would stabilize the cost of living, even in the face of supply shocks or terms-of trade-shocks, over which it had no control.
+<P>
+Inflation targeting is survived by the gold standard, an elderly distant relative.
+Although some eccentrics favor a return to gold as the monetary anchor, most would prefer to leave this relic of another age to its peaceful retirement.

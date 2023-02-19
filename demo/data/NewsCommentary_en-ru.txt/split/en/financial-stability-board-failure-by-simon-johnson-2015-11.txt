@@ -1,0 +1,48 @@
+<HEADLINE>
+Failure at the Financial Stability Board
+<P>
+WASHINGTON, DC – At least since the fall of 2008, leading economies’ officials have agreed – in principle – that something must be done about financial firms that are “too big to fail.”
+Great efforts, including countless international meetings, working papers, and communiqués have been devoted to this end.
+Earlier this month, the Basel-based Financial Stability Board (FSB) announced, to some fanfare, the completion of a major stage in this project.
+But the announcement only served to underscore how little progress has been made.
+The world’s largest banks remain too big to fail, and this is likely to have dire consequences in the near future.
+<P>
+The problem of too big to fail is not new – the phrase was first used in the United States in the 1980s.
+It refers to any firm – usually in the financial sector – whose failure would have major negative spillover effects for the rest of the financial system and for the real (non-financial) part of the economy.
+<P>
+Prior to September 2008, there was some doubt as to whether large non-bank financial firms would be regarded as too big to fail.
+Bear Stearns came close to failing earlier that year, before the Federal Reserve stepped in to facilitate a purchase by JPMorgan Chase.
+Bear Stearns’ shareholders did not do well and much of its management immediately left the scene, but creditors were fully protected (in fact, ensuring this protection was a central motivation for the Fed’s intervention).
+<P>
+When Lehman Brothers came under severe pressure in September 2008, uncertainty reigned in financial markets (and at the top of Lehman): perhaps the Fed would help out again in some fashion.
+By all accounts, the US Treasury and the Fed did indeed consider providing assistance, but then held back, worried about overstepping their legal authority and sufficiently confident that permitting Lehman to fail would not have dire consequences for the broader economy.
+<P>
+The second view proved to be spectacularly wrong.
+Within 24 hours of Lehman’s failure, the US authorities were scrambling to prevent asset fire sales, a run on money market mutual funds, the collapse of other investment banks (such as Merrill Lynch, Morgan Stanley, and Goldman Sachs), and even the demise of large, integrated, global banks (such as Citigroup).
+<P>
+While deploying an unprecedented amount of financial firefighting equipment, officials and lawmakers – on both sides of the Atlantic – were clear that this was a “never again” situation.
+As soon as the fires were out, they pledged, they would work diligently to ensure that the “next Lehman” could fail in a government-managed “resolution” process that would not cause panic and a collapse of credit.
+<P>
+This task was taken up at the international level by the FSB, established after the G-20 summit in London in April 2009.
+After many years of working closely with leading national authorities (including in the US and Europe), on November 9 the FSB published “Removing Remaining Obstacles to Resolvability,” along with a number of related technical papers.
+<P>
+Unfortunately, there are three flaws in the FSB’s framework that will prevent it from being effectively applied to large global banks.
+<P>
+First, by definition, global banks operate across borders, and there is no agreement among different national authorities regarding how to respond in a crisis.
+There is, arguably, better communication than there was before 2008, but when the chips are down, this will be worth little.
+The countries involved have different legal rules, different procedures for protecting local assets, and different court systems.
+A major international treaty could address all of this, but the immediate prospects for one are nonexistent.
+<P>
+Second, the FSB proposes to require a Total Loss Absorbing Capacity for all large banks.
+But TLAC is just jargon for saying that these banks should fund themselves with both equity and “bail-in-able debt” – debt that can be converted to equity (or wiped out) when there is an official resolution event.
+All this really means is that some debt can fall dramatically in value when government officials pull the trigger.
+<P>
+This may seem elegant in theory, but it is completely unworkable in practice.
+In any real crisis, the authorities’ real fear is that the fall in one asset price (the equity value of big banks) will cause other asset-price declines – leading to a broader contraction of credit.
+The idea of “loss-absorbing debt” is an oxymoron.
+<P>
+Third, what really matters for financial systems is the extent of equity financing – including how much equity banks are required to have.
+Current levels are so low – debt funds around 95% of total credit exposure in most big US banks (and a slightly higher share in big European banks) – that banks’ equity can be substantially wiped out by even moderate negative shocks.
+<P>
+The good news is that the Fed increasingly seems to be taking this point on board – and inching toward higher capital requirements for the biggest banks.
+Unfortunately, the failure of the international FSB approach means that the Fed must largely go it alone.

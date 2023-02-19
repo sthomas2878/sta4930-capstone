@@ -1,0 +1,70 @@
+<HEADLINE>
+A Silent Hero of the Coronavirus Crisis
+<P>
+NEW HAVEN – Not to diminish the superhuman efforts of nurses, doctors, and health-care workers worldwide, but sometimes, no matter how hard one tries, and no matter how selflessly one sacrifices, one stands no chance against a more powerful enemy.
+The new coronavirus, COVID-19, has proved to be such a foe.
+Were it not for technology, the battle against it would have been lost by now.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Math and technology, to be more precise.
+I say math, because understanding a concept as basic as “exponential growth” proved crucial for attacking the enemy head-on.
+<P>
+The successful containment of the epidemic in China, South Korea, and Japan has been attributed to strong governments and cultures that put society’s good ahead of private convenience.
+I would add that these countries also stand out for their students’ high math literacy.
+In the 2019 PISA rankings, produced by the OECD, China ranks first in math with a score of 591 out of 600, Japan ranks 6th, and South Korea is 7th.
+By contrast, Italy is in 31st place, Spain places 34th, and the United States ranks 37th.
+<P>
+PISA scores may have their shortcomings, but they do provide a rough idea of the math literacy of the average citizen in the countries that take part.
+And the fact that the countries with the highest rankings seem to have adopted the most effective containment strategies serves as a reminder that, ultimately, the reason we want better training in math and logic is not to land more lucrative jobs, but to make better decisions regarding our lives.
+<P>
+Technology has been the true champion in the fight against the spread of COVID-19.
+Here, I don’t mean the ICUs and respirators without which severely ill patients would not stand a chance.
+I mean the new data-driven technologies that enabled responsible governments to track the infected, contact them, and quarantine them early.
+These technologies have been the target of much criticism in recent years.
+Now, when they are helping us save lives, they deserve our praise.
+<P>
+South Korea’s achievement is truly impressive.
+As of March 17, the country has had 8,320 cases and 81 deaths, despite an early bad start.
+Contrast this with Italy, which at the same time reports 27,980 cases and 2,158 deaths.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Technology’s contribution to pandemic management goes beyond tracking and quarantines.
+As the US and countries in Europe move toward near-complete lockdown, with potentially disastrous consequences for the world economy, technology offers a glimmer of hope.
+<P>
+Many firms, especially in tech, have closed their offices, mandated that employees telecommute, and provided them with computing and video technology to work remotely.
+Not only does this keep an important part of the economy going, but it also has had unintended positive consequences.
+Vehicle congestion, for example, has vanished.
+The hours harried commuters previously lost in traffic can now be dedicated to work and family.
+Corporate travel is disappearing, and video conferences are the new norm, with associated reductions in airplane pollution and huge savings in time.
+<P>
+Likewise, educators at nearly every level are scrambling to find online alternatives to in-classroom instruction.
+Whereas in earlier times, school closings would have implied loss of instruction time, technology is allowing students to continue learning.
+And the current crisis will advance that process, as a relatively modest group of early adopters in producing online courses is joined by whole universities that have been forced to move to the web.
+<P>
+Obviously, there are challenges to adapting a curriculum intended to be taught in person to the online setting.
+But with entire faculties experimenting, we are certain to see innovation and rapid improvement in the effectiveness of distance learning.
+Once students finally return to the classroom, we should continue to leverage these innovations, not only in the developed world, where necessity has forced our hand, but also in developing countries hungry for cost-effective education.
+<P>
+In the retail sector, digital platforms can fill the gap when supermarket shelves empty or self-quarantine makes in-person shopping impossible.
+And film and music streaming, video chats, and social media have offered avenues to reduce isolation, stay connected, and preserve mental health while locked down.
+<P>
+In these and other ways, the pandemic is accelerating existing technological trends and revealing important benefits, which we should embrace, both now and after the crisis abates.
+But when normalcy returns, we are also likely to confront once again some tough questions about technological innovation.
+<P>
+The COVID-19 crisis has revived the tension between privacy and effective targeting.
+In recent years, we often encountered this debate with respect to major tech platforms using granular information about users to deliver micro-targeted news and advertising.
+But the same kinds of technology have been used to identify those infected by or most vulnerable to the coronavirus.
+<P>
+Of course, the tension between privacy and health outcomes is not new: the desire to protect individual histories prevents medical researchers and clinicians from mining the full set of health data to achieve better outcomes.
+COVID-19 reminds us that we may want to think carefully about the relative benefits of data sharing, as they may sometimes dominate the value of preserving privacy.
+<P>
+Absent intervention, technological trends will inevitably generate winners and losers.
+Brick-and-mortar stores that were already losing market share to digital platforms are likely to be decimated wherever self-quarantine and mandatory lockdowns are in effect.
+And though increased telecommuting, reduced business travel, and distance learning will increase productivity for some, they are significantly disrupting the livelihoods of others, and that disruption will accelerate in the next few months.
+<P>
+So, more than ever, it will be imperative to provide support and adjustment assistance to individuals, firms, or entire communities hit by the crisis.
+But we should resist the urge to resume our relentless, if fashionable, tech bashing.
+If there is a silver lining in the current crisis, it is the realization that knowledge – primarily math, science, and technology in this case – is our best weapon.

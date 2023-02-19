@@ -1,0 +1,50 @@
+<HEADLINE>
+Breaking Asia’s Data Drought
+<P>
+MANILA – Many parts of Asia have been gripped by searing temperatures and the worst drought in decades.
+Millions of people face shortages of food or water, leading to the loss of lives, livelihoods, crops, and livestock.
+As water shortages depress productivity, reduce energy output at hydro plants, and cut food exports, economies are suffering.
+<P>
+To find relief, we must look to the skies – but not in the way one might expect.
+While rainfall would obviously be welcome, there is a tool for coping with extreme weather over which we actually have some control: satellites.
+<P>
+The extreme weather confronting Asia is not expected to abate anytime soon.
+The current drought can be blamed partly on an unusually strong El Niño that has been warming the Pacific Ocean since mid-2015.
+More and stronger El Niños are expected this century, reflecting the impact of climate change.
+This will aggravate Asia’s already serious water problem, which is becoming particularly serious in cities, owing to rapid urbanization.
+The region’s urban population is set to double, to 3.2 billion people, by 2050, by which time nearly three-quarters of its total population could face water stress.
+<P>
+Controlling these forces may seem impossible.
+But preventing further water shortages is not.
+What is needed now is bold action to improve our understanding of the nature and scale of Asia’s water crisis, thereby strengthening our capacity to respond to it.
+<P>
+A lack of data about, say, riparian flows, including how much water is diverted for agriculture and human consumption, undermines efficient resource management.
+Likewise, the absence of detailed rainfall records, particularly in remote areas, impedes efforts to assess flood and drought risk.
+Accurate data are also needed to design the right irrigation systems, dams, and embankments – not to mention building them where they will have the greatest impact in terms of mitigating the effects of climate change.
+<P>
+Missing data frustrate sound policymaking in myriad ways.
+Though agriculture consumes about 80% of freshwater stocks in Asia, most countries cannot correctly measure how much water is used to grow a crop, and how much of that water is re-used downstream.
+Greater clarity about how much water enters and leaves catchments, and for what purposes, would enable smarter policies, just as savvy investors rely on good financial accounting.
+As some water-scarce countries, such as Australia, have already shown, such accounting helps countries to allocate water more efficiently among agriculture and energy producers and urban consumers.
+<P>
+Here is where satellite technology comes in.
+Regular sweeps over cropped areas using remote sensing – something like a full-body health scan – can quickly gather information on rainfall, land temperature, and even groundwater levels that would otherwise take months to obtain.
+When combined with physical measurements on the ground, these data can help governments gain a better accounting of water resources, prepare for droughts and floods, and plan future water use.
+<P>
+Already, the Water Accounting Plus software system – developed by UNESCO-IHE, the International Water Management Institute, and the Food and Agriculture Organization – uses open-access remote-sensing data to assess land use, rainfall, and temperature.
+The data enable the system to determine how much water is available in a river basin, how much is being used for various purposes, and how water use has changed over time.
+<P>
+With such information, countries like Cambodia and Vietnam can confront the surge in water demand they face.
+To help propel them toward that goal, UNESCO-IHE, with support from the Asian Development Bank, has been working with their governments – as well as the authorities in India, Indonesia, Pakistan, Sri Lanka, and Uzbekistan – to create a pilot program to answer key questions about land and water use.
+<P>
+More such initiatives are needed – and quickly.
+One area of focus must be agriculture.
+In Vietnam’s parched central highlands and coastal provinces, for example, there is an urgent need to harvest “more crop per drop” and improve emergency responses.
+If satellite technology is fully exploited, farmers could receive real-time information on their mobile phones about how much water to use and when.
+Moreover, the region’s most productive farmers could be identified and encouraged to share their best practices with other farmers.
+<P>
+Another key step will be to map water stocks and usage across entire countries, and to make this information available online.
+Rather than allowing vital data to gather dust, as has occurred in the past, we must augment it, update it, and share it widely, so that it can be put to use.
+<P>
+Breaking the data drought will not by itself end Asia’s water crisis.
+But it is a crucial first step to ensure that the region’s destiny is not dictated by its weather.

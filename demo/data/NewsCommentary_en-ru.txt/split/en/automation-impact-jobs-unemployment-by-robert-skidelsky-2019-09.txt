@@ -1,0 +1,75 @@
+<HEADLINE>
+The Economic Consequences of Automation
+<P>
+LONDON – While Brexit captures the headlines in the United Kingdom and elsewhere, the silent march of automation continues.
+Most economists view this trend favorably: technology, they say, may destroy jobs in the short run, but it creates new and better jobs in the longer term.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The destruction of jobs is clear and direct: a firm automates a conveyor belt, supermarket checkout, or delivery system, keeps one-tenth of the workforce as supervisors, and fires the rest.
+But what happens after that is far less obvious.
+<P>
+The standard economic argument is that workers affected by automation will initially lose their jobs, but the population as a whole will subsequently be compensated.
+For example, the Nobel laureate economist Christopher Pissarides and Jacques Bughin of the McKinsey Global Institute argue that higher productivity resulting from automation “implies faster economic growth, more consumer spending, increased labor demand, and thus greater job creation.”
+<P>
+But this theory of compensation is far too abstract.
+For starters, we need to distinguish between “labor-saving” and “labor-augmenting” innovation.
+Product innovation, such as the introduction of the automobile or mobile phone, is labor-augmenting.
+By contrast, process innovation, or the introduction of an improved production method, is labor-saving, because it enables firms to produce the same quantity of an existing good or service with fewer workers.
+<P>
+True, new jobs created by product innovation may be offset by a “substitution effect,” as the success of a new product causes the labor employed in producing an old one to become redundant.
+But the biggest challenge comes from process innovation, because this only ever displaces jobs, and does not create new ones.
+Where process innovation is dominant, only compensatory mechanisms can help to prevent rising unemployment, or what the British economist David Ricardo called the “redundancy” of the population.
+<P>
+There are several such mechanisms.
+First, increased profits will lead to further investment in new technology, and hence new products.
+In addition, competition between firms will lead to a general reduction in prices, increasing demand for products and hence labor.
+Finally, the reduction in wages caused by initial technological unemployment will increase demand for labor and induce a shift back to more labor-intensive methods of production, soaking up the redundant workers.
+<P>
+How quickly these compensation mechanisms operate will depend on how easily capital and labor move between occupations and regions.
+The introduction of labor-saving technology will result in lower prices, but it will also reduce consumption by workers who are made redundant.
+It is then a question of which effect is faster.
+Keynesian economists argue that the fall in demand for goods resulting from unemployment will precede, and thus dominate, the reduction in prices resulting from automation.
+This will lead to a further increase in joblessness, at least in the short run.
+<P>
+Moreover, even if such job losses were only a short-run phenomenon, the cumulative effect of a series of labor-saving innovations over time could create long-term unemployment.
+Furthermore, an effective price-adjustment mechanism presumes the general prevalence of competition.
+But in an oligopolistic market, a firm may use its cost savings to boost profits rather than reduce prices.
+<P>
+Such considerations buttress the contemporary view that the benefits of automation are long term, with “redundancy” set to rise during a “transitional period.”
+But when the transition may last for decades, as a recent McKinsey Global Institute report acknowledges, it is hardly surprising that workers are skeptical of this slew of compensation arguments.
+<P>
+Karl Marx argued that no such compensatory processes existed, either in the short or long run.
+The story he told therefore has no happy ending for the workers – at least not under capitalism.
+<P>
+Marx said that competition forces individual firms to invest as much of their profits as possible in labor-saving – that is, cost-cutting – machinery.
+But increased mechanization doesn’t benefit capitalists as a class.
+True, the first mover enjoys a temporary advantage by “rushing down on declining average-cost curves,” as Joseph Schumpeter put it in his History of Economic Analysis, and annihilating weaker firms in the process.
+But competition then diffuses the new technology and rapidly eliminates any temporary super-profit.
+<P>
+Restoring the rate of profit, Marx argued, requires an increasingly large “reserve army of the unemployed.”
+Thus, he wrote, mechanization “threw laborers on the pavement.”
+For Marx, unemployment is essentially technological in nature.
+And although the reserve army is temporarily absorbed into the labor force during bursts of high prosperity, its continued existence leads to ever-increasing pauperization in the long run.
+<P>
+For Marx, therefore, the long-run sequence of events was exactly the opposite of the orthodox view: mechanization creates febrile prosperity in the short run, but at the cost of long-term degradation.
+<P>
+The distributional effects of technological change have long featured prominently in discussions among economists.
+In his 1932 book The Theory of Wages, John Hicks developed the idea of induced innovation.
+He argued that higher wages, by threatening the profit rate, would impel businesses to economize on the use of labor because this factor of production was now relatively more expensive.
+Automation of the economy is therefore not simply the result of increased computing power, à la Moore’s Law, but depends on changes in the relative cost of labor and capital.
+<P>
+These are technically complicated arguments.
+But economic theory evidently does not provide a clear answer regarding the long-term effect of technological progress on employment.
+The best conclusion we can draw is that the impact will depend on the balance between product and process innovation, and on factors such as the state of demand, the degree of competition in the market, and the balance of power between capital and labor.
+<P>
+These are all important areas in which governments can intervene.
+Even if automation has traditionally been beneficial in the long run, policymakers should not ignore its disruptive short-run effects.
+The short run, after all, is where historical horrors happen.

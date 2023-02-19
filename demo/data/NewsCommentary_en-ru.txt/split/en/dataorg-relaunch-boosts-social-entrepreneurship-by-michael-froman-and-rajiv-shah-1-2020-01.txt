@@ -1,0 +1,54 @@
+<HEADLINE>
+A Data Revolution for All
+<P>
+NEW YORK – Science has revolutionized medicine and agriculture over the last 100 years, particularly for the poorest of the poor.
+Achievements ranging from the treatment of hookworm to the green revolution attest to its power.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Looking ahead, data science has even greater potential to revolutionize everything from how we treat disease to how we build more inclusive economies.
+History shows us that when the power of science and technology is brought to bear on society’s greatest challenges, millions of lives can be improved.
+<P>
+Pick any problem you see around the world: the raging wildfires that are devastating Australia; the opioid epidemic that is ravaging poor communities in the United States; the world’s worst refugee crisis since World War II.
+Confronting these problems and others – from poverty and inequality to conservation and climate change – requires the responsible application of data, and the insights drawn from them.
+<P>
+Yet, while there have been great advances in data science in the private sector, many social-sector and civic organizations are lagging behind.
+With proper support, they can leverage data analytics to make their work go further and faster, ultimately helping more people.
+Just last year, our two organizations – Mastercard and The Rockefeller Foundation – committed to addressing this gap.
+By becoming more data-science driven, all organizations can achieve their full potential.
+<P>
+Fortunately, innovators in the field are already performing some of this work.
+The volunteer-based organization DataKind, for example, has connected non-profits with private-sector data scientists to solve issues facing community health workers.
+Community Solutions, a non-profit working in more than 80 US cities and counties, is using data science to tackle homelessness.
+And Benefits Data Trust, a Philadelphia-based national non-profit, leverages the power of artificial intelligence to help millions of low-income American families access the social benefits available to help them.
+<P>
+Data-driven insights have also been used to help mayors across the US pursue strategies of inclusive economic growth, and to help government officials in Africa predict the locations and causes of at-risk pregnancies in rural communities.
+And yet, these efforts represent merely the starting point, not the final destination.
+There is still so much more work to do.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Transforming the role of data in addressing major social and economic issues is not a job for any one person or organization.
+We must build on the successes of those who have come before.
+In 2002, a group of innovative social entrepreneurs, together with anti-poverty advocates and the Irish rock musician and philanthropist Bono, launched DATA.org, a nonprofit committed to alleviating debt, fighting AIDS, and reducing trade inequalities in Africa.
+In what ultimately became the ONE Campaign, they galvanized support for poverty alleviation by focusing on real-world data, and by advocating evidence-based approaches to development.
+<P>
+At the time, these efforts broke new ground by recognizing the power of data to address society’s greatest challenges.
+In partnership with millions of activists around the world, the coalition behind DATA.org facilitated the cancellation of $100 billion of debt owed by poor countries, marshaled $50 billion in contributions for health and development aid, and pushed for trade deals that helped millions of vulnerable families.
+<P>
+But, although data are ubiquitous, and the opportunities offered by the data revolution are even larger, not everyone is poised to gain from it equally.
+Once again, we need a bold effort to bridge the gap and ensure that the most vulnerable are not left behind.
+<P>
+With that challenge in mind, and with the support of DATA.org’s original founders, The Rockefeller Foundation and Mastercard are relaunching DATA.org to serve as a platform for partnerships to expand further the field of data science for social impact, and to ensure that non-profit and civic organizations are well positioned to take advantage of the data revolution.
+<P>
+By relaunching the platform, we hope to use data to tackle homelessness, improve access to social benefits, and support community health workers worldwide.
+Those on the front lines of efforts to improve public health, fight poverty, and solve many other problems will have improved access to data scientists who can help them maximize their impact.
+Most important, this will be done in a way that brings more people and organizations together to effect positive social change, all while adhering to principles of responsible data use.
+<P>
+Expanding the field of data science for social impact is a shared global effort.
+It will take collaboration from all sectors to ensure that the nearly 2.5 quintillion bytes of data being produced every day have a positive social impact.
+Just as DATA demonstrated the promise of evidence-driven policies for development 18 years ago, the relaunch of the platform this month will create new momentum for tackling the world’s biggest challenges.
+<P>
+The data revolution must benefit all.
+Together, we can make 2020 the year that partnerships began to extend the promise of a data-driven economy to everyone, everywhere.

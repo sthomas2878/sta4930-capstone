@@ -1,0 +1,65 @@
+<HEADLINE>
+Was the Stock-Market Boom Predictable?
+<P>
+NEW HAVEN – Should we have known in March 2009 that the United States’ S&P 500 stock index would quadruple in value in the next ten years, or that Japan’s Nikkei 225 would triple, followed closely by Hong Kong’s Hang Seng index?
+The conventional wisdom is that it is never possible to “time the market.”
+But moves as big as these, it might seem, must have been at least partly foreseeable.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The problem is that no one can prove why a boom happened, even after the fact, let alone show how it could have been predicted.
+The US boom since 2009 is a case in point.
+<P>
+In looking at the US stock market, it is important to bear in mind that its participants are overwhelmingly US investors.
+According to a US government study published last year, despite some growth between 2009 and 2017, the share of the US stock market owned by foreigners was still only about one-seventh in 2017.
+But if all people heeded financial advisers’ counsel and were completely diversified, people outside the US, who held more than two-thirds of the world’s wealth as of last year, would own over two-thirds of the US stock market as well.
+Home-country bias, or patriotism, is a big factor in the stock market.
+So, to understand the US stock market’s strength, we need to consider the thinking of its participants.
+<P>
+There seems to have been an overreaction in the US to a temporary drop in earnings.
+S&P 500 earnings per share had been negative (a very rare event) in the fourth quarter of 2008, both for “reported earnings” and for “operating earnings,” and those numbers were just coming in around March 2009, when the index reached its nadir.
+<P>
+You might think that an intelligent observer in the US in 2009 would have recognized that the decline was temporary, and would have expected earnings – which are relevant to forecasting long-term growth of stock prices – to recover.
+But the real question is whether the observer could have based a very optimistic forecast for long-term earnings growth on the rebound from that negative earnings moment.
+We now know that long-term measures of earnings growth did not change a lot.
+Ten-year average S&P 500 earnings per share from 2009 to 2019 were up only 71% from the previous decade.
+The quadrupling in the S&P 500 price index was thus driven not by higher earnings but by much higher valuations of earnings.
+<P>
+It is true that real interest rates are down since 2009, with the ten-year US Treasury Inflation-Protected Security yielding 0.8% in February, down from 1.71% in March 2009.
+But all of that decline occurred by 2010 and could not justify any of the strong uptrend in stock prices since then.
+<P>
+In 2009, some people in the US were using very strong language to express their fear.
+One heard that a “financial supernova” was coming.
+A ProQuest News & Newspapers search for “derivatives” and “financial weapons of mass destruction” (a phrase attributed to Warren Buffett) shows that these two terms first appeared together in 2003 and gained intense popularity by 2009, only to fade to near nothing by 2018.
+<P>
+Those who were prescient enough to know that derivatives markets weren’t going to blow up the economy might have known that any drag on the market from the fear that they would could not be sustained for ten years.
+But a forecast based on such prescience is hard to quantify or defend publicly.
+<P>
+The fact that economists on the whole had not predicted the 2008 financial crisis was much emphasized at the time and led to some lost faith.
+Many people were worrying in March 2009 that stocks had a lot further to fall.
+<P>
+Under my direction, the Yale School of Management has been collecting data on the opinions of both institutional and individual investors in the US since 1989.
+One of the questions is: What do you think is the probability of a catastrophic US stock-market crash, like that of October 28, 1929 or October 19, 1987, in the next six months, including a crash caused by financial contagion from other countries?
+In early 2009, the percentage of people who gave a probability greater than 10% reached a record high (since 1994).
+<P>
+Likewise, ProQuest News & Newspapers counts of the frequency of the phrase “Great Depression” soared to unprecedented heights.
+There were more mentions of “Great Depression” in 2009 than there were during the Great Depression.
+<P>
+But then, with no stock-market crash and no extreme depression in sight, these fears were replaced by their opposite: deeper admiration of business success.
+A new narrative emerged, featuring a new wave of billionaire geniuses whose appearance in the 1990s was interrupted only briefly by the financial crisis.
+The publication in 2011 of the number-one best seller Steve Jobs,Walter Isaacson’s biography of the Apple founder, is one example.
+Elon Musk has stirred excitement with futuristic companies such as aerospace manufacturer SpaceX and Neuralink, which is developing implantable brain-computer interfaces.
+<P>
+The accession of a flamboyant businessman, Donald Trump, to the US presidency is evidence of the strength of many Americans’ identification with business heroes.
+Starting in 2004, Trump spent much of his time developing his business persona as the star of the reality TV show The Apprentice, and then, from 2008, The Celebrity Apprentice.
+His campaign marshaled this enthusiasm, and his claim that he would “Make America Great Again” appealed to the optimism of US investors.
+<P>
+The quadrupling of US stock prices since 2009, as well as Trump’s election, thus appears to reflect, at least in part, a process of fear abatement and re-enchantment with American business culture.
+But it is hard to forecast such trends – even the biggest – in the stock market, not only because forecasting is a highly competitive business, but also because spontaneity plays such an important role in human behavior.

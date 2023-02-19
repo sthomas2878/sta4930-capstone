@@ -1,0 +1,60 @@
+<HEADLINE>
+Making Sense of the Swiss Shock
+<P>
+PRINCETON – Since the European sovereign-debt crisis erupted in 2009, everyone has wondered what would happen if a country left the eurozone.
+At first, the debate focused on crisis countries – Greece, or maybe Portugal, Spain, or Italy.
+Then there was a rather hypothetical discussion of what would happen if strong surplus countries – say, Finland or Germany – left.
+<P>
+Through it all, a consensus emerged that an exit by one country could – like the collapse of Lehman Brothers in 2008 – trigger a wider meltdown.
+Now, in Switzerland, we have a demonstration of just some of the risks that might emerge were a surplus country to leave the eurozone.
+<P>
+In September 2011, Switzerland pegged its currency to the euro to set a ceiling to the Swiss franc’s rapid appreciation in the wake of the global financial crisis that erupted in 2008.
+The country thus became a temporary adjunct member of the European monetary union.
+But, on January 15, the Swiss National Bank (SNB) suddenly and surprisingly abandoned the peg.
+<P>
+Obviously, exiting a real currency union is far more complex and legally fraught than ending a temporary exchange-rate arrangement; the effects of such a move would be greatly magnified.
+Nonetheless, the Swiss move reveals at least some of the uncertainties that a full-fledged exit could create.
+<P>
+The SNB was not forced to act by a speculative run.
+No financial crisis forced its hand, and, in theory, the SNB’s directorate could have held the exchange rate and bought foreign assets indefinitely.
+But domestic criticism of the SNB’s large buildup of exchange-rate reserves (euro assets) was mounting.
+<P>
+In particular, Swiss conservatives disliked the risk to which the SNB was exposed.
+Fearing that eurozone government bonds were unsafe, they agitated to require the SNB to acquire gold reserves instead, even forcing a referendum on the matter.
+Though the initiative to require a fixed share of gold reserves failed, the prospect of large-scale quantitative easing by the European Central Bank, together with the euro’s recent slide against the dollar, intensified the political pressure to abandon the peg.
+<P>
+Whereas economists have modeled financial attacks well, there has been little study of just when political pressure becomes unbearable and a central bank gives in.
+The SNB, for example, had proclaimed loyalty to the peg just days before ending it.
+As a result, markets will now hesitate to believe central banks’ statements about future policy, and forward guidance (a major post-crisis instrument) will be much more difficult.
+<P>
+There is historical precedent for the victory of political pressure, and for the recent Swiss action.
+In the late 1960s, the Bundesbank had to buy dollar assets in order to stop the Deutsche mark from rising, and to preserve the integrity of its fixed exchange rate.
+The discussion in Germany focused on the risks to the Bundesbank’s balance sheet, as well as on the inflationary pressures that came from the currency peg.
+Some German conservatives at the time would have liked to buy gold, but the Bundesbank had promised the Fed that it would not put the dollar under downward pressure by selling its reserves for gold.
+<P>
+In 1969, Germany unilaterally revalued the Deutsche mark.
+But that was not enough to stop inflows of foreign currency, and the Bundesbank was obliged to continue to intervene.
+It continued to reduce its interest rate, but the inflows persisted.
+In May 1971, the German government – against the wishes of the Bundesbank – abandoned the dollar peg altogether and floated the currency.
+<P>
+Politics had prevailed over central-bank commitments.
+Within three months, the fallout destroyed the entire international monetary system, and US President Richard Nixon took the dollar off the gold standard.
+The credibility of the entire system of central bank commitments had collapsed, and international monetary policy became extremely unstable.
+The Deutsche mark appreciated, and life became very hard for German exporters.
+<P>
+Today, the global ramifications of a major central bank’s actions are much more pronounced than in 1971.
+When the Bundesbank acted unilaterally, German banks were not very international.
+But now finance is global, implying large balance-sheet exposures to currency swings.
+<P>
+Big Swiss banks fund themselves in Swiss francs, because so many people everywhere want the security of franc assets.
+They then acquire assets worldwide, in other currencies.
+When the exchange rate changes abruptly, the banks face large losses – a large-scale version of naive Hungarian homeowners’ strategy of borrowing in Swiss francs to finance their mortgages.
+<P>
+Though the SNB had given many warnings that the euro peg was not permanent, and though it had imposed a higher capital ratio on banks, the uncoupling from the euro came as a huge shock.
+Swiss bank shares fell faster than the general Swiss index.
+<P>
+The risks created by the SNB’s decision – as transmitted through the financial system – have a fat tail.
+The negative effects for the Swiss economy – through the decreased competiveness of its export industries (including tourism and medicine) – may already be showing that abandoning the euro peg was not a good idea.
+<P>
+But the consequences will not be limited to Switzerland.
+After years of wondering whether the exit of a small, fiscally weak country like Greece could undermine the euro, policymakers will have to deal with an even bigger shock stemming from the exit of a small, fiscally strong country that is not even a member of the European Union.

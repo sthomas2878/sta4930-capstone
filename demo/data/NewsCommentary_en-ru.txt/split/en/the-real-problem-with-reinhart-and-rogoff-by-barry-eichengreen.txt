@@ -1,0 +1,54 @@
+<HEADLINE>
+Open-Access Economics
+<P>
+CANBERRA – The brouhaha over Carmen Reinhart and Kenneth Rogoff’s article “Growth in a Time of Debt” may be the most conspicuous and incendiary scholarly controversy since 1974, when two earlier economists, Robert Fogel and Stanley Engerman, published a notorious book, Time on the Cross, defending the efficiency of American plantation slavery.
+<P>
+As with Time on the Cross, the Reinhart/Rogoff controversy, while ostensibly stemming from the authors’ statistical procedures, is actually rooted in the purposes to which others put their study.
+<P>
+Some of the results reported by Fogel and Engerman were used – not by the authors themselves, it should be noted – to challenge affirmative action and question the civil-rights movement.
+Similarly, some of the results reported by Reinhart and Rogoff have been used by politicians and others to justify fiscal austerity.
+<P>
+When the problems with the Reinhart/Rogoff analysis came to light, the critics were aghast.
+The authors had inadvertently omitted data, used a questionable weighting scheme, and employed an erroneous observation on GDP growth.
+<P>
+This raised uncomfortable questions not only about the efficacy of austerity, but also about the reliability of economic analysis.
+How could a flawed study have appeared first in the prestigious working-paper series of the National Bureau of Economic Research (NBER) and then in a journal of the American Economic Association?
+And, if this was possible, why should policymakers and a discerning public vest any credibility in economic research?
+<P>
+It was possible because economists are not obliged to make their data and programs publicly available when publishing scientific research.
+It is said that NBER working papers are even more prestigious than publication in refereed journals.
+Yet the Bureau does not require scholars to post their data and programs to its Web site as a condition for working-paper publication.
+<P>
+Independent scholars seeking to replicate these studies’ findings must first replicate the data and then replicate the programs.
+And, as empirical economics has progressed, the difficulty of doing so has grown.
+Reinhart and Rogoff may have used a relatively small set of mostly publicly available data, but the profession as a whole is using ever-larger tailor-made data sets.
+<P>
+Big data promises big progress.
+But large data sets also make replication impossible without the author’s cooperation.
+And the incentive for authors to cooperate is, at best, mixed.
+It is therefore the responsibility of editorial boards and the directors of organizations like the NBER to make open access obligatory.
+<P>
+Moreover, in a discipline that regards ingenuity as the ultimate virtue, those who engage in the grunt work of data cleaning and replication receive few rewards.
+Nobel prizes are not awarded for constructing new historical estimates of GDP that allow policy analysis to be extended back in time.
+<P>
+Then there is the fact that correlation is not causation.
+In the case of Reinhart and Rogoff, the observation that highly indebted countries grow more slowly, even if true, does not tell us anything about whether high debt causes slow growth or vice versa.
+<P>
+These are difficult questions, but they have simple solutions.
+What is needed is not more sophisticated statistical methods, but serious historical analysis of the political and economic particulars of specific historical cases in which countries were burdened with heavy debts.
+A proper historical analysis would help to identify cases in which debt was incurred for reasons other than the state of the economy, so that causality arguably runs from debt to growth, rather than the other way around.
+<P>
+Economic historians have shown how this can be done.
+My Berkeley colleagues David and Christina Romer, for example, faced an analogous problem when seeking to determine whether monetary-policy shocks affect economic growth.
+They used careful historical analysis to identify and focus on cases in which the policy stance changed for reasons not having to do with the current state of the economy.
+Doing so allowed them to isolate the impact of monetary shocks on growth.
+<P>
+Statistics are helpful.
+But in economics, as in other lines of social inquiry, they are no substitute for proper historical analysis.
+<P>
+In impugning the authors’ motives and criticizing the uses to which others have put their research, critics of Reinhart and Rogoff have taken their eye off the ball.
+The real problem is scholarly procedures and priorities, not motives.
+If the problem of procedures and priorities is addressed, the fact that politicians are tempted to misuse scholarly analysis for their own ends will take care of itself.
+<P>
+In other words, what is true of the economy is equally true of economic analysis.
+A crisis is a terrible thing to waste.

@@ -1,0 +1,62 @@
+<HEADLINE>
+Financial Stability Should Be Central Banking’s Prime Objective
+<P>
+NEW YORK – Most modern central banks regard macroeconomic stability – meaning price stability or, in some cases, price stability alongside full employment – as their main goal.
+But the Bank of Japan and the European Central Bank seem to be running out of tools with which to pursue this goal effectively.
+And the Bank of England and the US Federal Reserve could soon find themselves in a similar position.
+Whenever the next cyclical downturn arrives, the effective lower bound on the policy rate will once again become a binding constraint on monetary policymaking (a situation known as a “liquidity trap”).
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+That’s the bad news.
+The good news is that the major central banks are still adequately equipped to achieve their single-most important objective: financial stability.
+When the next financial crisis hits, central banks should still be able to provide sufficient emergency funding liquidity as the lenders of last resort (LLR), and emergency market liquidity as the market makers or buyers of last resort (MMLR).
+<P>
+There are two reasons why financial stability is – or should be – a central bank’s primary objective.
+For starters, the economic damage caused by a financial crisis can easily dwarf the losses stemming from a broader business-cycle downturn.
+Second, financial stability is itself a necessary condition for macroeconomic stability more generally.
+Obviously, financial explosions and implosions are not particularly conducive to the pursuit of stable prices and full employment.
+<P>
+To say that financial stability is a central bank’s overriding objective is not to argue that policy rates (or the size and composition of the central bank’s balance sheet) should be used to lean against the financial winds.
+For reasons outlined by Jeremy Stein of Harvard University, I personally support raising policy rates when credit growth and asset prices are buoyant, leverage is increasing, and risk premia are compressed, and cutting them when the financial cycle goes into reverse.
+<P>
+There is an alternative, though.
+Rather than using policy rates to lean against the wind, a central bank can pursue a countercyclical macroprudential policy.
+This approach can be either lender-based, through the introduction of countercyclical capital buffers and liquidity requirements, or borrower-based, using countercyclical loan-to-value, loan-to-income, or debt-service-to-income ratios.
+But, either way, all countercyclical macroprudential instruments involve regulatory regimes.
+And, unlike interest rates, which reach everywhere, rules and regulations can and will be arbitraged.
+Moreover, countercyclical macroprudential policy instruments are merely preventive.
+Once a financial crisis has erupted, they will have little to no traction.
+<P>
+A financial crisis is best understood as a breakdown in confidence.
+Lenders cut back on new lending and refuse to roll over maturing loans because they fear that borrowers may be unable to service their debt obligations.
+Borrowers respond with distress sales of illiquid assets – often rendered more illiquid by the same lack of confidence in counterparties’ solvency that triggered the credit crunch in the first place.
+This lack of funding and market liquidity then results in further distress sales that depress asset prices throughout the economy.
+This is where the central bank steps in as the LLR and MMLR, providing funding liquidity and boosting illiquid asset markets at prices that are purged of the panic discount.
+<P>
+For central banks to be able to act as LLR and MMLR, the financial instruments they purchase and the loans they provide must be denominated in their “own” currency.
+A central bank that cannot print euros, sterling, or US dollars cannot act as LLR and MMLR if the banks it is responsible for have assets and liabilities denominated in those currencies.
+Iceland discovered this, much to its detriment, in 2008-2009.
+<P>
+In late 2008, the Fed prevented a North Atlantic financial crisis from becoming a much larger global disaster by extending dollar swap lines to the ECB and the Bank of England (among other central banks).
+It is essential that similar swap lines for the dollar and other leading currencies be made available the next time a global or regional financial crisis erupts.
+A chaotic “no-deal” Brexit could provide another test of whether a network of swap lines can effectively mimic a global LLR and MMLR.
+The Fed’s failure to make US dollar swap lines available to the afflicted emerging-market central banks during the 2013 “taper tantrum” did not inspire confidence on this front.
+<P>
+More to the point, a central bank can act as LLR and MMLR only if laws and regulations permit it to do so.
+Amazingly, the US Congress has restricted the Fed’s ability to come to the aid of troubled financial institutions that have lost access to external funding markets.
+Owing to the 2010 Dodd-Frank Act, the Fed can issue emergency collateralized funding only to at least five eligible institutions – something of a problem if only your four largest banks are in trouble – and it must confirm that a counterparty is financially viable before any funding can be made available.
+But the task of establishing whether a troubled entity is viable is best left for after financial order has been restored.
+As the term implies, “emergency” liquidity must be made available to systemically important financial institutions immediately – even when they are insolvent and in resolution.
+<P>
+In any case, the countercyclical pursuit of price stability and/or full employment during cyclical downturns now seems destined for an extended involuntary holiday.
+Unless governments come to the rescue with intelligently designed countercyclical fiscal and supply-side policies, the major advanced economies are likely to embark on a long spell of classic, unadulterated cyclical downturns.
+In principle, central banks still have all the tools necessary to prevent a financial crisis – that is, a crisis of confidence – from turning into a financial massacre, provided that currency swap lines are effective.
+Laws, rules, and regulations must not stand in the way of central banks’ ability to perform their duties as LLR and MMLR.

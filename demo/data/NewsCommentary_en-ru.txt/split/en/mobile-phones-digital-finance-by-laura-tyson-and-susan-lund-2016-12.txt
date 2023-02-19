@@ -1,0 +1,62 @@
+<HEADLINE>
+The Promise of Digital Finance
+<P>
+BERKELEY – An economic development revolution lies literally in the palm of a single hand.
+As mobile phones and digital technologies rapidly spread around the world, their implications for economic development, and particularly finance, have yet to be fully realized.
+The sooner that changes, the better for people worldwide.
+<P>
+In emerging economies today, two billion people – 45% of all adults – do not have a formal account at a bank, financial institution, or with a mobile-money provider.
+The “unbanked” rate is even higher for women, the poor, and people living in rural areas.
+Moreover, at least 200 million small- and medium-size enterprises lack sufficient credit, or have no access to credit at all.
+<P>
+Entrepreneurship, investment, and economic growth suffer when savings are stored outside the financial system, and credit is scarce and expensive.
+Fortunately, according to a recent report by the McKinsey Global Institute (MGI), digital technologies – starting with mobile phones – can rapidly fix this problem and foster faster, more inclusive growth.
+<P>
+Mobile phones and the Internet can reduce the need for cash and bypass traditional brick-and-mortar channels.
+This dramatically reduces financial-service providers’ costs, and makes their services more convenient and accessible for users – especially low-income users in remote locations.
+MGI estimates that if digital finance is widely adopted, it could add $3.7 trillion to emerging countries’ GDP by 2025.
+That amounts to a 6% increase above business as usual.
+In low-income countries with very low financial inclusion rates, such as Nigeria, Ethiopia, and India, GDP could increase by as much as 12%.
+<P>
+Digital finance can boost GDP in several ways.
+Nearly two-thirds of the expected growth would come from increased productivity, because businesses, financial-service providers, and government organizations would be able to operate much more efficiently if they did not have to rely on cash and paper recordkeeping.
+Another one-third would come from increased investment throughout the economy, as personal and business savings were moved into the formal financial system, and then mobilized to provide more credit.
+The remaining gains would come from people working more hours – the time they would have spent traveling to bank branches and waiting in queues.
+<P>
+As for financial inclusion, digital finance has two positive effects.
+First, it expands access.
+In emerging markets in 2014, only about 55% of adults had a bank or financial-services account, but nearly 80% had a mobile phone.
+That 25-percentage-point gap could be closed by making mobile banking and digital wallets a reality.
+But a gender gap will also have to be closed: worldwide, about 200 million fewer women than men have mobile phones or Internet access.
+<P>
+Second, digital finance reduces costs: MGI estimates that it would cost financial-service providers 80-90% less – about $10 per year, compared to the $100 per year it costs today – to offer customers digital accounts than accounts through traditional bank branches.
+Using purely digital channels thus makes it feasible to meet the needs of low-income customers.
+Financial inclusion becomes profitable for providers even when account balances and transactions are small.
+<P>
+With digital finance, as many as 1.6 billion unbanked people – more than half of whom are women – could gain access to financial services, shifting about $4.2 trillion in cash and savings currently held in informal vehicles into the formal financial system.
+This would allow for an additional $2.1 trillion to be extended as credit to individuals and small businesses.
+Businesses could also save on labor costs, to the tune of 25 billion hours annually, by swapping cash transactions for digital payments.
+And governments could take in an additional $110 billion every year – to invest in growth-enhancing public goods like education – because digital channels make tax collection cheaper and more reliable.
+<P>
+New mobile-money services are already demonstrating digital finance’s potential.
+In Kenya, M-Pesa – which transforms one’s phone into a mobile wallet – has leveraged powerful network effects to bring about a vast expansion in the share of adults using digital financial services.
+That share grew from zero to 40% in just three years, and had risen to 68% by the end of last year.
+Traditional financial-services accounts tend to grow at the pace of national income, but M-Pesa’s adoption rate has been dramatically faster, demonstrating that digital finance can achieve significant market penetration rapidly even in the world’s poorest countries.
+<P>
+But such success stories do not happen in a vacuum.
+For starters, everyone needs a mobile phone with an affordable data plan.
+While businesses can help, it is incumbent upon governments and non-governmental organizations to extend mobile networks to low-return areas and remote populations.
+Governments must also ensure that networks between banks and telecommunications companies are interoperable; otherwise, widespread use of mobile phones for financial services and payments would be impossible.
+<P>
+Governments must establish universally accepted forms of identity as well, so that service providers can control fraud.
+In emerging economies, one in five people are unregistered, compared to only one in ten in advanced economies.
+Nearly 20% of unbanked women in emerging countries do not have the documentation necessary to open a bank account.
+Even when people have recognized IDs, they must be amenable to digital authentication.
+Digital IDs that use microchips, fingerprints, or iris scans could prove useful – and are already gaining popularity – in emerging economies.
+<P>
+Finally, governments must implement regulations that strike a balance between protecting investors and consumers, and giving banks, retailers, and financial-technology and telecommunications companies room to compete and innovate.
+Because regulations often shut out non-bank competitors, governments should consider a tiered approach, whereby businesses without a full banking license can provide basic financial products to customers with smaller accounts.
+A good model for this is the United Kingdom’s “regulatory sandbox” for financial-technology companies, which imposes lower regulatory requirements on emerging players until they reach a certain size.
+<P>
+Financial inclusion is vital for inclusive economic growth and gender equality, and it has assumed a prominent role in global development efforts, with the World Bank aiming for universal financial inclusion by 2020.
+With billions of people in emerging economies already using mobile phones, digital finance makes this goal achievable.

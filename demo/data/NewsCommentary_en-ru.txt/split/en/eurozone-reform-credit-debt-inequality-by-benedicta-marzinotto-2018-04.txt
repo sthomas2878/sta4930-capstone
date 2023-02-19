@@ -1,0 +1,50 @@
+<HEADLINE>
+How Inequality Fueled the Euro Crisis
+<P>
+BRUSSELS – Since the Great Recession of 2007-2009, most economists have begun to regard finance as a key driver of the business cycle.
+But the precise dynamics are not yet fully understood.
+<P>
+For example, the University of Chicago’s Amir Sufi and Princeton’s Atif Mian argue that credit expansion leads to nasty recessions, which emerge as soon as households, for whatever reason, lose access to the financing they need to roll over their debts.
+But this argument misses a key factor, exemplified by the eurozone crisis.
+<P>
+The creation of the euro was accompanied by large-scale financial liberalization, including the elimination of capital controls and the adaptation of the legal framework to allow any European bank to open branches abroad.
+This process led to growing competition in the banking sector and a progressive increase in the ratio of private banks to public ones.
+<P>
+The result was an across-the-board decline in long-term interest rates, and an increase in credit as a share of GDP.
+European households almost everywhere became more indebted, but the impact of this credit expansion on private consumption was fundamentally different in the EU’s core countries, where current-account surpluses grew, and in the periphery, where countries accumulated deficits.
+<P>
+Why did the same credit-supply shock produce such varied responses?
+As a recent study shows, the eurozone’s financial-liberalization process amounted to a more profound shift for the periphery than for the core, with the former having had less open capital accounts, more public banks relative to private ones, higher long-term interest rates, and lower credit-to-GDP ratios.
+<P>
+The same study argues that in the more financially repressed peripheral countries, the main expectation associated with the liberalization process was that those who had previously lacked access to credit – say, because of low incomes or low savings – could now borrow, in order to finance more consumption.
+In other words, it was low-income households – which represent a large share of the population in the relatively more unequal countries of the periphery – that played the largest role in changing their economies’ external positions.
+<P>
+In the eurozone core, by contrast, the initial upshot of the euro’s introduction was mainly more and better saving opportunities, characterized by improved risk-return trade-offs.
+This primarily benefited wealthy households, which could, for example, borrow to make long-term investments that would finance future, rather than current, consumption.
+<P>
+Because higher-income households comprise a larger share of the total in these countries (which also tend to have lower levels of inequality), aggregate consumption remained subdued.
+With inequality starting to rise in the 1990s – particularly in Germany – these households had all the more incentive to increase their savings.
+<P>
+The contrasting trends in the periphery and the core were intensified after the global financial crisis erupted, and the eurozone entered recession.
+In the periphery, low-skill groups were the first to be ejected from the labor market.
+With troubled commercial banks more risk-averse, these struggling consumers could no longer borrow to roll over their debt and finance current consumption, which came to a halt, deepening the recession.
+<P>
+In the core countries, by contrast, the key borrowers were wealthy, and thus suffered the least.
+If they did face negative income shocks, they could use their savings as a cushion.
+So the severity of the bust was a function not simply of the level of household debt, but rather of the distribution of debt across income levels.
+<P>
+To some extent, this is good news.
+With the periphery having already endured the initial financial-liberalization shock, future credit-supply events are less likely to affect them disproportionately.
+And the shifting of macroprudential regulation from the national level to the European Union may reinforce this outcome by further helping to harmonize bank-lending behavior.
+<P>
+But there is a snag: EU-level financial regulation is limited to the large systemic banks.
+As a result, it is unlikely to affect the operations of the small local banks lending small amounts to impatient low-income consumers.
+<P>
+The best way to strengthen eurozone financial resilience is to address borrowing incentives.
+And the best way to do that is to improve the position of low-income borrowers by investing European resources in education and job quality.
+Even in the core, more equality of opportunity might improve morale, thereby reducing precautionary saving.
+Human-capital upgrading and more equality of opportunity should play a prominent role in negotiations over the EU’s next Multiannual Financial Framework, with the European Investment Bank possibly also providing support.
+<P>
+As it stands, the common denominator of existing eurozone-reform proposals is the completion of a banking union, which many believe is needed to reduce financial fragmentation and break the vicious circle between banks and sovereign debt.
+This is the area where progress is most likely in the run-up to June’s European Council meeting.
+But, while a banking union would be a positive step, it will be incomplete without efforts to reduce inequality.

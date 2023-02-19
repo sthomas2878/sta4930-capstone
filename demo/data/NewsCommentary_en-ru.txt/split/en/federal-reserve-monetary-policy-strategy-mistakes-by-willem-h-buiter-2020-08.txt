@@ -1,0 +1,63 @@
+<HEADLINE>
+The Fed’s Dangerous New Strategy
+<P>
+NEW YORK – On August 27, the US Federal Reserve issued a press release summarizing updates to its longer-run goals and monetary-policy strategy, and Fed Chair Jerome Powell discussed the revisions at greater length in a speech later the same day.
+The two documents are a collection of type I and type II errors.
+If the Fed were to pursue the new strategy determinedly, it could inflict real economic damage on the United States and the world.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Let’s begin with a minor error of omission.
+In his speech, Powell referred to the Fed’s congressionally mandated goals of maximum employment and price stability – omitting, as is the norm, its third congressionally mandated objective of moderate long-term interest rates.
+The obvious tool for managing long-term rates is yield-curve control, but the policy-setting Federal Open Market Committee (FOMC) does not mention this instrument even in the context of pursuing maximum employment and stable prices.
+<P>
+But the real trouble starts with the FOMC’s reinterpretation of “maximum employment.”
+The press release states that the committee’s policy decision will be informed by its “assessments of the shortfalls of employment from its maximum level.”
+The FOMC’s original strategy statement, adopted in 2012, referred to “deviations from its maximum level.”
+<P>
+This new asymmetric interpretation is extremely worrying.
+It suggests either that maximum employment is achieved only when every working-age person has a full-time job plus any desired overtime, or that the Phillips curve – which posits an inverse relationship between inflation and unemployment – is dead when it is, at most, stunned.
+Now, it seems, the Fed will not tighten monetary policy even when the actual level of employment exceeds that at which inflationary pressures in the labor market manifest themselves – which is bound to be well below the FOMC’s maximum employment level.
+<P>
+The Fed’s mandated targets should have clear normative content and be susceptible to policy.
+But, regarding price stability, the FOMC has switched to a flexible form of average inflation targeting – itself a non-transparent form of price-level targeting.
+According to the press release, the Fed now “seeks to achieve inflation that averages 2% over time.”
+Therefore, “following periods when inflation has been running persistently below 2%, appropriate monetary policy will likely aim to achieve inflation moderately above 2% for some time.”
+<P>
+This means that past inflation will influence the Fed’s current and future monetary policy.
+But past inflation is a bygone issue and should be irrelevant for formulating policy – unlike current and expected inflation, which have normative content and can be influenced by policy.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Of course, when inflation expectations are influenced by past inflation, then the past will influence current and future monetary policy.
+But there are, and always will be, other drivers of inflation expectations.
+Average inflation targeting is just bad economics.
+<P>
+Instead, flexible inflation targeting is by far the best way to formulate the objectives and modus operandi of monetary policy.
+Under such a regime, a central bank raises (lowers) policy rates when anticipated future inflation is above (below) target and when employment is above (below) the best estimate of maximum employment.
+This is defined as the equilibrium level of employment when both actual and expected inflation are equal to the target rate of inflation – in other words, the natural level of employment.
+<P>
+Then there are the Fed’s major errors of omission.
+For starters, the FOMC does not mention enhancing its monetary-policy arsenal by removing the effective lower bound (ELB) on policy rates.
+Today’s persistent low-interest-rate environment supposedly implies that policy rates are more likely to be constrained by their ELB than in the past.
+But this is because policymakers in the US and around the world have been unwilling to remove it.
+<P>
+Abolishing cash would be the easiest way to eliminate the ELB (and would have the further benefit of taxing criminal activity), but there are other ways to achieve the same goal.
+Such a step would enable the Fed not only to cut policy rates when it otherwise would have been thwarted by the ELB, but also to lower the inflation target to the level consistent with a zero “true” inflation rate – likely below 2%.
+<P>
+The FOMC’s second major error of omission is the absence of any discussion of the Fed’s failure, since the outbreak of the COVID-19 pandemic, to enlarge and change the composition of its balance sheet to the fullest possible extent to support economic activity.
+<P>
+As of the week of January 6, 2020, the Fed had consolidated assets of $4.15 trillion, or 19.3% of US GDP in 2019.
+By the week of August 17, its balance sheet had grown to $7.01 trillion, or 32.7% of 2019 GDP.
+But this growth – equivalent to 13.4% of last year’s GDP in just seven months – seems less impressive when compared to the evolution of the European Central Bank’s balance sheet over the same period.
+Between January 3 and August 14, the consolidated Eurosystem’s total assets increased from nearly €4.7 trillion ($5.6 trillion), or 39.2% of the eurozone’s 2019 GDP, to €6.4 trillion, or 53.7% of 2019 GDP.
+The Eurosystem’s balance sheet thus grew faster than the Fed’s – by the equivalent of 14.5% of last year’s GDP – during the same period.
+<P>
+The Fed should convince the US Treasury Department to provide more equity and to guarantee more of the Fed’s risky assets on what should be a significantly larger balance sheet.
+As the issuer of the only viable global reserve currency, the Fed has an unequaled ability to enlarge its balance sheet and increase its risk, even without additional Treasury support.
+But it simply has not done enough during the pandemic.
+<P>
+The recent changes to the US monetary policy framework are ill-advised and potentially harmful.
+They also fail to address a number of other crucial problems.
+The Fed should scrap this new approach, and instead make full and effective use of the policy instruments it has – or could have – at its disposal.

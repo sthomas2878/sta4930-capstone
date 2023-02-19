@@ -1,0 +1,78 @@
+<HEADLINE>
+Journalism’s Risky Tech Attraction
+<P>
+OXFORD – Technology was supposed to solve some of the world’s biggest problems.
+Connect everyone to the Internet, it was once assumed, and democracy would follow.
+Collect enough data, and all of our questions would be answered.
+Put everything online, and algorithms would do the rest.
+The world would practically run itself.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Instead, we now know that digital technology can be used to undermine democracy; that it raises more questions than it answers; and that a world that runs itself seems more like an Orwellian nightmare scenario than a noble goal.
+But while technology isn’t the solution, it isn’t really the problem either; our single-minded focus on it is.
+<P>
+Consider the experience of the media industry, where the digital revolution has wreaked havoc on prevailing business models over the last decade.
+Publishers and editors responded by putting all their faith in technology: tracking all manner of metrics, embracing data journalism, hiring video teams, and opening podcast studios.
+<P>
+More recently, media organizations have shifted their attention toward artificial-intelligence solutions that track audience preferences, automatically produce desired content and translations, alert journalists to breaking news, and much more.
+In the Reuters Institute for the Study of Journalism’s latest annual report on media trends, 78% of respondents in a non-representative survey of international media leaders said that they planned to invest more in AI this year.
+<P>
+But the final frontier in the quest to save journalism, many believe, is the blockchain – the distributed ledger technology that underpins cryptocurrencies like Bitcoin.
+That remains to be seen: the first attempt to leverage the blockchain to free journalists from ad-driven business models, by Civil Media Company, had a bumpy start.
+<P>
+There is nothing wrong with using technology to solve problems, including those created by technology, or to give a company a competitive edge.
+That is what The Washington Post, for example, has been doing in the six years since Amazon CEO Jeff Bezos purchased it (at a time when it was hemorrhaging money and shedding jobs).
+<P>
+But not even the most advanced tech will save the media industry, or anybody else, if there is no regard for the people using it.
+And that does not mean just audiences.
+After years of chasing the latest tech trends, the media industry is increasingly confronting burnout among existing management and staff, and a shrinking pool of new talent.
+<P>
+According to the Reuters Institute report, some 60% of media leaders are concerned about burnout on their teams, and 75% now worry about retaining and attracting staff.
+Another report, Lucy Kueng’s Going Digital.
+A Roadmap for Organizational Transformation, shows that middle managers, in particular, have been exiting the industry.
+<P>
+This should not be surprising.
+Journalists have always faced pressure in managing the churn of time-sensitive, demanding, and constantly changing news situations.
+But, in the past, they could at least count on the news organizations that employed them to offer stability and consistency.
+Now, they must also navigate relentless, tech-driven organizational change – often poorly explained and hastily introduced.
+The level of uncertainty can drive away even the most loyal staff.
+<P>
+To be sure, change is unavoidable; the digital age demands constant adaptation.
+But making needed adjustments without destroying morale requires implementing a people-oriented approach.
+This is not a straightforward process.
+For tech solutions, managers can attend shiny digital conferences, take some sales team’s advice, sign a contract, and dump the new tools on their newsrooms.
+With people, they have to listen carefully, acquire an in-depth understanding of the problem, and then devise their own strategy.
+<P>
+A good place to start is leadership.
+In any industry, the key responsibilities of an organization’s leaders include making their employees feel secure and appreciated.
+That means paying attention to employees’ needs and fostering an organizational culture that provides them with a sense of belonging and purpose.
+<P>
+A similar approach must be applied to audiences.
+Not even the most accurate metrics can provide the needed guidance, if nobody understands what they actually mean, why they were chosen, or what their psychological impact would be (on audiences or staff).
+While data can deliver useful insights about audience preferences, listening to people can lead to very different impressions and conclusions.
+<P>
+For example, the data might show that more content means more page views; but if audiences long for fewer distractions and higher-quality reporting, flooding the market with robot-produced content will not satisfy them.
+Likewise, users might click on a larger share of articles if algorithms are used to personalize their experience; but if users become bored by the same topics and perspectives, personalization will not help.
+<P>
+Tech-based solutions are a means, not an end.
+That is why The New York Times, for example, is leveraging its digital success to invest more in journalism.
+Last year, the company added 120 newsroom employees, bringing the total number of journalists there to an historic high of 1,600.
+<P>
+For organizations without the clout – and digital revenue – of the Times, a people-oriented approach may also be needed to secure investment.
+With the limits of the ad-driven business model becoming increasingly apparent, many media leaders – close to one-third, according to the Reuters Institute survey – believe that in the future foundations and non-profits will play a central role in supporting the media.
+<P>
+But persuading foundations and philanthropists to open their hearts and wallets will require human connection and engagement, not algorithms or AI-enabled software.
+Potential funders need to be convinced that journalism is as noble a cause as, say, cancer research.
+<P>
+Technology alone cannot encourage democracy, help answer important questions, and facilitate effective leadership by boosting accountability.
+But, to some extent, high-quality, responsible journalism can.
+If it is to fulfill that purpose, however, news organizations must not allow themselves to be swept up by every new tech trend.
+If they treat technology as more than a tool for implementing people-centered strategies, the people they need – both staff and audiences – will continue to vote with their feet.

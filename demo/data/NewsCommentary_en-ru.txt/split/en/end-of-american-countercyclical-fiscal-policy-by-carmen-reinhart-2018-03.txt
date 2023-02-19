@@ -1,0 +1,62 @@
+<HEADLINE>
+Whatever Happened to Saving for a Rainy Day?
+<P>
+CAMBRIDGE – More than a decade ago, I undertook a study, together with Graciela Kaminsky of George Washington University and Carlos Végh, now the World Bank’s chief economist for Latin America and the Caribbean, examining more than 100 countries’ fiscal policies for much of the postwar era.
+We concluded that advanced economies’ fiscal policies tended to be either independent of the business cycle (acyclical) or to lean in the opposite direction (countercyclical).
+Built-in stabilizers, like unemployment insurance, are part of the story, but government outlays also worked to smooth the economic cycle.
+<P>
+The benefit of countercyclical policies is that government debt as a share of GDP falls during good times.
+That provides fiscal space when recessions materialize, without jeopardizing long-run debt sustainability.
+<P>
+By contrast, in most emerging-market economies, fiscal policy was procyclical: government spending increased when the economy was approaching full employment.
+This tendency leaves countries poorly positioned to inject stimulus when bad times come again.
+In fact, it sets the stage for dreaded austerity measures that make bad times worse.
+<P>
+Following its admission to the eurozone, Greece convincingly demonstrated that an advanced economy can be just as procyclical as any emerging market.
+During a decade of prosperity, with output close to potential most of the time, government spending outpaced growth, and government debt ballooned.
+Perhaps policymakers presumed that saving for a rainy day is unnecessary if this time is different and perpetual sunshine is the new normal.
+<P>
+Fast-forward to the United States in 2018.
+Trillion-dollar deficits as far as economists can project are prima facie evidence that the arc of fiscal policy in the US bends in the wrong direction.
+An aging population should be husbanding resources for the future, not spending on itself now.
+Of course, democracies have a long history of over-rewarding current voters at the expense of future generations, but the current scale and scope of fiscal largess is mistimed to both the trend and cycle of the US economy.
+Most analysts believe the US is at or near potential output.
+Fiscal stimulus at such a time is plainly procyclical.
+<P>
+The previous round of fiscal stimulus dates to the 2009 American Recovery and Reinvestment Act, enacted in response to the Great Recession.
+The stimulus stretched past the immediate need, the ultimate price tag rose to $840 billion, and the net economic benefit remains debatable.
+Yet, even with these flaws, the legislation addressed the palpable cyclical reality of an unemployment rate touching 10%.
+This is what to expect in the exercise of discretionary policy, which is why the unemployment rate moves inversely with the federal budget deficit.
+<P>
+The Reagan tax cuts of the early 1980s came at a time when the unemployment rate was climbing to post-war highs, the economy was in recession, and the Federal Reserve battling inflation and keeping interest rates at or near record highs.
+The gross public debt at the time, at 31% of GDP, was small potatoes compared to today’s ratio of 105%.
+<P>
+The two main pillars of fiscal policy passed since December contravene the fundamental design principle of countercyclicality.
+The Tax Cuts and Jobs Act of 2017 and the Bipartisan Budget Act of 2018 are projected to put the deficit above $1 trillion by next year, even as most economists project the unemployment rate to move lower.
+Most Federal Reserve officials, for example, expect the unemployment rate to be just above 3.5% over the next three years, or almost one percentage point below their assessment of its natural rate.
+<P>
+This forecast of excess demand is an important part of the Fed’s rationale for raising the policy rate and shrinking its balance sheet.
+The net result of fiscal and monetary policy moving in opposite directions is that the Fed will make the government debt created by this legislation more expensive.
+The scale is not inconsiderable.
+The Center for a Responsible Federal Budget forecasts that interest costs will be the fastest-growing component of the budget, eating up 14% by 2028.
+<P>
+True, the federal tax code is in dire need of improvement, and last year’s reform, especially the reduction in the corporate tax rate, should boost output in the longer term.
+But such a gain is hard to bank on, and there is no plausible way that reform pays for itself.
+Rather, the preferable strategy would have been to pair costly tax policy changes with revenue-raising and expenditure-cutting initiatives.
+In fact, this year’s budget deal goes further in the wrong direction, making it likely that the public debt exceeds nominal income within ten years.
+<P>
+My concern about excessive government debt back goes a long way, both in terms of my research agenda and along the timeline of global economic performance.
+In work with Vincent Reinhart and Kenneth Rogoff examining a sample of advanced economies since the Napoleonic War, we found that periods of high debt were paired with long periods of weak economic growth.
+And in the current context, any adverse effect of debt on economic growth will intensify ongoing headwinds.
+<P>
+An aging US population implies lower participation in market activity.
+This, together with slower productivity, implies that rising entitlement spending will take a bigger slice of the income pie.
+Indeed, the Congressional Budget Office foresees increases in spending relative to GDP of about five percentage points in each of the next two decades.
+<P>
+Some officials argue that foreign investors’ appetite for US government debt – the rest of the world holds almost half of all outstanding Treasury securities, worth more than $6 trillion – insulates America from economic harm.
+Capital-account surpluses, mirrored in current-account deficits, summed to about $3.3 trillion from 2010 to 2017, compared to an $8 trillion aggregate federal deficit.
+<P>
+But those macroeconomic outcomes result from policy decisions abroad and the market-clearing movements of financial prices.
+Officials in important emerging-market economies chose to accumulate Treasury securities, because US yields, albeit low, were higher than in other advanced economies.
+A confrontational stance on trade, together with greater reliance on government debt, may well extract a higher toll to balance flows of goods and services and of capital.
+Moreover, the US will be paying for its current excesses with the promise of future payments, and inefficient stimulus now will not give future generations the productive resources needed to make good on it.

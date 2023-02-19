@@ -1,0 +1,58 @@
+<HEADLINE>
+Winning the Electrification Race
+<P>
+LONDON – There is no doubt that by the year 2100, the world will enjoy abundant cheap zero-carbon energy.
+Coal will be confined to museums, and oil and gas use will be dramatically reduced.
+Technological progress makes that inevitable, even if unassisted by government policy.
+But to prevent potentially catastrophic climate change, a zero-carbon global economy must be achieved by mid-century.
+That, too, is possible, but only with strategic vision and strong policy support.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Electricity will dominate the future global energy system.
+Currently, it accounts for only 20% of final energy demand, with direct fossil-fuel use still dominant in transport, heating, and heavy industry.
+But most economic activities can be powered by electricity, and many will be far more efficient once electrified.
+<P>
+For example, internal-combustion engines typically turn 60-80% of all the energy they use into wasted heat, and only 20-40% into kinetic energy to drive the vehicle.
+Electric engines, by contrast, are over 90% efficient.
+Moreover, they are so much simpler to produce that within five years the cost savings on engines will offset the cost of batteries, making electric vehicles cheaper than diesel or gasoline cars.
+Similarly, electric heat pumps can deliver more than three kilowatt-hours of residential heating for only one kilowatt of energy input; no gas boiler could deliver more than 0.9 kWh for the same input.
+<P>
+Although battery-powered electric engines will play a growing role in short-distance aviation and shipping, batteries will be too heavy to power long-distance flights or intercontinental shipping for several decades yet.
+But ship engines could burn ammonia rather than fuel oil – and ammonia can be a zero-carbon fuel if it is made from hydrogen produced by electrolyzing water, using electricity generated from renewable sources.
+In addition, synthetic jet fuel can be made from hydrogen and carbon dioxide extracted from the air.
+Hydrogen, whether used as a fuel or a key chemical input, will also play a major role in the decarbonization of heavy industrial sectors such as steel and chemicals.
+<P>
+Without assuming any fundamental technological breakthroughs, we could certainly build by 2050 a global economy in which electricity met 65-70% of final energy demand, and hydrogen, ammonia, or synthetic fuel met a further 12-15%.
+Bioenergy and fossil fuels would then need to meet only about 20% of total energy use – and applying carbon capture to this greatly reduced fossil-fuel use could then ensure a truly zero-carbon economy.
+<P>
+Moreover, such widespread electrification would deliver huge environmental benefits, eliminating the pollution, noise, and unwanted or wasted heat inevitably produced by burning fossil fuels in vehicles, gas boilers, and industrial processes.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Building this economy will require an annual global electricity supply of about 90,000 terawatt-hours, compared to 23,000 TWh today; all of that must be generated in a zero-carbon way.
+But this goal, too, is undoubtedly attainable.
+Every day, the sun radiates to earth enough energy to cover humans’ daily energy needs 8,000 times, and we could provide 90,000 TWh of solar electricity using less than 1.5% of Earth’s land surface (or less than 0.5% if its water surface could be used as well).
+Solar-energy costs have fallen by 85% in the last ten years, and in many locations solar power is already cheaper than coal; by mid-century, it will be cheaper still.
+<P>
+Wind-power costs also have declined fast, and nuclear fusion may be a commercially viable technology within two decades.
+Battery costs have fallen by more than 80% since 2010 and will likely more than halve again by 2030, while a recent report suggests that electrolysis costs will now most probably “plummet.”
+Furthermore, a wide array of other energy-storage and demand-management technologies promises to answer the key question for renewable power systems: what to do when the sun doesn’t shine and the wind doesn’t blow.
+<P>
+These developments make it inevitable that by 2100 the world will have an ample supply of cheap and totally clean energy.
+But it is not inevitable that we will avoid catastrophic climate change.
+Fossil-fuel use is still increasing, and global warming is currently on track to reach 3°C above pre-industrial levels by 2100, dramatically overshooting the target of well below 2°C set by the Paris climate agreement.
+And although solar and wind costs have plunged, we need to increase capacity at 3-4 times the current rate to have a feasible chance of producing 90,000 TWh of clean electricity by 2050.
+<P>
+The macroeconomic cost of such an effort is not at all daunting: the total incremental investment required to build a zero-carbon economy by 2050 amounts to about 1-1.5% of global GDP per year.
+But the required acceleration will not occur without forceful government policies.
+<P>
+Such policies must start by recognizing that massive clean electrification, plus large-scale hydrogen use, is the only route to zero-carbon prosperity.
+Governments should set challenging targets for increasing renewable (and in some cases nuclear) power capacity, while using auctions to secure private-sector delivery at the lowest possible cost.
+Road-transport strategies must aim to completely eliminate internal-combustion engines from our roads by 2050 at the very latest: this will require bans on the sale of new internal-combustion vehicles far sooner.
+In addition, carbon pricing is essential to make industrial decarbonization economic.
+Finally, governments must support new technologies with initial deployment subsidies of the sort that have helped to reduce rapidly the costs of solar photovoltaic technology, wind turbines, and batteries.
+<P>
+With such policies, the world could build a zero-carbon economy fast enough to limit climate change to a manageable extent.
+But without the right measures, a zero-carbon economy will come much too late.

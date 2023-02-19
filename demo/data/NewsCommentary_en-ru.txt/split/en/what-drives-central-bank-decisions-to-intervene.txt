@@ -1,0 +1,50 @@
+<HEADLINE>
+What Drives Central Bank Decisions to Intervene?
+<P>
+Central Bank watchers everywhere have a new pastime: comparing the behavior of America's Federal Reserve (Fed) with that of the European Central Bank (ECB).
+Although the approach to interest rate management by the two central banks has claimed the most attention, the different styles of each in their interventions in global currency markets bears watching because of their impact on growth.
+<P>
+The euro's value dropped markedly against other major currencies, particularly the US-dollar and the Japanese yen, after its launch in January 1999.
+Because the exchange rate influences an economy's competitiveness, the euro's depreciation benefited EU exports and exporters--t the expense of their American counterparts.
+<P>
+So you might think that US industries exposed to severe international price competition would deem the dollar's strength undesirable.
+American politicians who fret about America's mounting current account deficit should also have shown concern.
+Yet, barring particular sectors like steel, most American politicians and bosses bit their tongues about the dollar's strength and few, if any, have jumped for joy at its recent decline.
+<P>
+Moreover, many economists believe that the euro's post-launch dive against the dollar was simply not justified by macroeconomic fundamentals in America and Europe, which its revival in the spring and summer of 2002 seem to confirm.
+Neither growth rates nor interest differentials between the two continental economies had widened.
+If anything, these gaps narrowed and began to reverse.
+Convinced that the euro was undervalued, several central banks intervened in foreign exchange markets over the past two years to support it.
+<P>
+Specifically, the European Central Bank (ECB) intervened in the foreign exchange markets on at least five occasions between September and November 2000 to support the euro vis-à-vis the dollar.
+The Bank of Japan (BOJ) supported the ECB, but intervened on its own even earlier.
+Recent BOJ data reveal that it sought to increase the value of the euro relative to the yen in June and November 1999, and again in March 2000.
+However, only once, in September 2000, did the Fed join these interventions.
+This year it has taken no action to support the falling dollar.
+<P>
+Such behavior by the Fed is not new.
+Close analysis of the behavior of the Fed and Germany's Bundesbank between 1979-1995 reveals that central bank interventions tend to cluster over time.
+This means that there is a high probability of an intervention on a particular day if an intervention occurred the previous day.
+This behavior could also be observed after the creation of the ECB, which has inherited the Bundesbank's habits about interventions.
+<P>
+Furthermore, in the past, the Fed and the Bundesbank coordinated their interventions during certain periods.
+The rationale behind such joint action is that it provides a relatively stronger impact on the expectations of foreign exchange dealers and, therefore, on the exchange itself.
+<P>
+This is because coordinated interventions signal to market participants that all intervening central banks share the judgment that exchange rates are misaligned.
+But there is an iron clad requirement for coordination to be genuinely effective: both central banks must see prevailing exchange rates as being in conflict with their domestic policy objectives and share the view that intervention can have a sustainable impact on the exchange rate.
+<P>
+Our research suggests that central banks pursue interventions with the greatest rigor when the exchange rate for their currency deviates strongly from longterm trends, in particular if the actual exchange rate and the purchasing power value of a currency become vastly different.
+In the past, however, different central banks exhibited considerable differences in their intervention behavior.
+<P>
+For example, interventions by the Bundesbank were more or less symmetrical, meaning that it intervened both when the dollar was very strong and when the dollar was very weak.
+In contrast, Fed interventions were much more likely when the dollar was undervalued than when it was overvalued.
+This latter behavior hints strongly at America's interest in maintaining a strong currency despite the possible negative effects on US exports.
+<P>
+This asymmetry between the two central banks is best seen by comparing how their behavior when they intervened in the first half of the 1980s (Figure 1a).
+During this era, the dollar strongly appreciated against major currencies and by 1985 was overvalued by virtually every measure.
+Throughout this period, the Bundesbank sold dollars to curb the dollar's appreciation (Figure 1c) but the Fed did not intervene at all (Figure 1b).
+<P>
+Despite the advent of the European Central Bank, this asymmetry continues: while the ECB repeatedly tried to break the dollar's appreciation in 2000-2001 through consecutive interventions in the foreign exchange market, the Fed intervened only once.
+This confirmed America's interest in maintaining a strong dollar.
+So long as these interests diverge, we should expect little coordination of foreign exchange policy between the two central banks.
+This means that foreign exchange markets will lack clear signals and any intervention will have a low probability of being effective.

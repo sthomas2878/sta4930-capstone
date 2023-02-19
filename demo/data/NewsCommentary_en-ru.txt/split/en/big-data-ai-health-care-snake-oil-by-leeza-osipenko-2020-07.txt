@@ -1,0 +1,65 @@
+<HEADLINE>
+Health-Tech Snake Oil
+<P>
+LONDON – In an interview with the Wall Street Journal earlier this year, David Feinberg, the head of Google Health and a self-professed astrology buff, enthused that, “If you believe me that all we are doing is organizing information to make it easier for your doctor, I’m going to get a little paternalistic here: I’m never going to let that get opted out.”
+In other words, patients will soon have no choice but to receive personalized clinical horoscopes based on their own medical histories and inferences drawn from a growing pool of patient records.
+But even if we want such a world, we should take a hard look at what today’s health-tech proponents are really selling.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In recent years, most of the United States’ Big Tech firms – along with many startups, the Big Pharma companies, and others – have entered the health-tech sector.
+With big-data analytics, artificial intelligence (AI), and other novel methods, they promise to cut costs for struggling health-care systems, revolutionize how doctors make medical decisions, and save us from ourselves.
+What could possibly go wrong?
+<P>
+Quite a lot, it turns out.
+In Weapons of Math Destruction, data scientist Cathy O’Neil lists many examples of how algorithms and data can fail us in unsuspecting ways.
+When transparent data-feedback algorithms were applied to baseball, they worked better than expected; but when similar models are used in finance, insurance, law enforcement, and education, they can be highly discriminatory and destructive.
+<P>
+Health care is no exception.
+Individuals’ medical data are susceptible to subjective clinical decision-making, medical errors, and evolving practices, and the quality of larger data sets is often diminished by missing records, measurement errors, and a lack of structure and standardization.
+Nonetheless, the big-data revolution in health care is being sold as if these troubling limitations did not exist.
+Worse, many medical decision-makers are falling for the hype.
+<P>
+One could argue that as long as new solutions offer some benefits, they are worth it.
+But we cannot really know whether data analytics and AI actually do improve on the status quo without large, well-designed empirical studies.
+Not only is such evidence lacking; there is no infrastructure or regulatory framework in place to generate it.
+Big-data applications are simply being introduced into health-care settings as if they were harmless or unquestionably beneficial.
+<P>
+Consider Project Nightingale, a private data-sharing arrangement between Google Health and Ascension, a massive non-profit health system in the US.
+When the Wall Street Journal first reported on this secret relationship last November, it triggered a scandal over concerns about patient data and privacy.
+Worse, as Feinberg openly admitted to the same newspaper just two months later, “We didn’t know what we were doing.”
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Given that the Big Tech companies have no experience in health care, such admissions should come as no surprise, despite the attempts to reassure us otherwise.
+Worse, at a time when individual privacy is becoming more of a luxury than a right, the algorithms that are increasingly ruling our lives are becoming inaccessible black boxes, shielded from public or regulatory scrutiny to protect corporate interests.
+And in the case of health care, algorithmic diagnostic and decision models sometimes return results that doctors themselves do not understand.
+<P>
+Although many of those pouring into the health-tech arena are well-intentioned, the industry’s current approach is fundamentally unethical and poorly informed.
+No one objects to improving health care with technology.
+But before rushing into partnerships with tech companies, health-care executives and providers need to improve their understanding of the health-tech field.
+<P>
+For starters, it is critical to remember that big-data inferences are gleaned through statistics and mathematics, which demand their own form of literacy.
+When an algorithm detects “causality” or some other association signal, that information can be valuable for conducting further hypothesis-driven investigations.
+But when it comes to actual decision-making, mathematically driven predictive models are only as reliable as the data being fed into them.
+And because their fundamental assumptions are based on what is already known, they offer a view of the past and the present, not the future.
+Such applications have far-reaching potential to improve health care and cut costs; but those gains are not guaranteed.
+<P>
+Another critical area is AI, which requires both its own architecture – that is, the rules and basic logic that determine how the system operates – and access to massive amounts of potentially sensitive data.
+The goal is to position the system so that it can “teach” itself how to deliver optimal solutions to stated problems.
+But, here, one must remember that the creators of the architecture – the people writing the rules and articulating the problems – are as biased as anyone else, whether they mean to be or not.
+Moreover, as with data analytics, AI systems are guided by data from the current health-care system, making them prone to replicating its own failures and successes.
+<P>
+At the end of the day, improving health care through big data and AI will likely take much more trial and error than techno-optimists realize.
+If conducted transparently and publicly, big-data projects can teach us how to create high-quality data sets prospectively, thereby increasing algorithmic solutions’ chances of success.
+By the same token, the algorithms themselves should be made available at least to regulators and the organizations subscribing to the service, if not to the public.
+<P>
+Above all, health-care providers and governments should remove their rose-tinted glasses and think critically about the implications of largely untested new applications in health care.
+Rather than simply giving away patient records and other data, hospitals and regulators should shadow the tech-sector developers who are designing the architecture and deploying experimental new systems.
+More people need to be offering feedback and questioning the assumptions underlying initial prototypes, and this must be followed by controlled experiments to assess these technologies’ real-world performance.
+<P>
+Having been massively overhyped, big-data health-care solutions are being rushed to market in without meaningful regulation, transparency, standardization, accountability, or robust validation practices.
+Patients deserve health systems and providers that will protect them, rather than using them as mere sources of data for profit-driven experiments.
+<P>
+Click here to listen to a podcast with the author and others on this topic.

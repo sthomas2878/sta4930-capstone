@@ -1,0 +1,47 @@
+<HEADLINE>
+Europe’s Naked Banks
+<P>
+WASHINGTON, DC – European leaders are convinced that bank capital is “expensive,” in the sense that raising capital requirements would slow economic growth.
+But the latest developments in the Greek crisis show that the exact opposite is true – it’s European banks’ lack of capital that threatens to derail European and global growth.
+<P>
+Banks’ “capital” simply refers to their equity funding – how much of their liabilities are owned by shareholders rather than being owed to creditors as some form of debt.
+The advantage of equity capital is that it is “loss-absorbing,” meaning that only after losses wipe out all of the equity do they need to be apportioned between creditors.
+Banks’ capital, therefore, is what stands between bad loans and insolvency.
+<P>
+In the Basel III negotiations that concluded last year, the French and Germans strongly favored relatively low capital requirements.
+This was folly: for their big banks today, more capital would reduce the probability of needing further government bailouts.
+<P>
+These banks’ potentially troubled assets include, of course, bonds issued by Greece, Ireland, Portugal, and other eurozone countries whose fiscal prospects are now being marked down by financial markets – but that until recently were regarded as “zero risk” by the relevant authorities.
+If European banks had enough capital, a reduction in the value of Greek and other debt would reduce shareholder equity and disappoint investors, but it would not cause a banking crisis.
+Unfortunately, European banks do not have enough capital, irrespective of eurozone bailout efforts, because the damage will not be limited to Greece.
+<P>
+Big European banks will not actually default on their debts – the governments of Germany, France, and Italy have made it clear that their banks are too big to fail.
+And Germany and France – though perhaps not Italy – have enough fiscal firepower to support their banks as needed.
+<P>
+But no European politician would really want to put serious money on the line for the likes of Deutsche Bank or BNP Paribas; governments will not force recapitalization using public funds.
+Nor do politicians care to order banks to raise more capital from private sources – this would be too embarrassing for all involved, because it would expose the full extent of the folly so far.
+<P>
+Finally, the bankers are paid according to return on equity, unadjusted for risk, so it is very much in their interest to continue running their business with very little equity.
+If they get lucky, the rewards are immense.
+If they hit a difficult patch – as now seems likely – society bears the brunt of the impact as credit dries up and asset prices fall.
+<P>
+To be sure, the European Central Bank could cut interest rates further (widening the gap between banks’ borrowing costs and what they charge for loans is a classic way to help them earn profits and recapitalize themselves).
+But the ECB has signaled that big interest-rate cuts are unlikely as long as the German economy remains strong, with relatively low unemployment.
+<P>
+The most likely course of action will be more regulatory forbearance, allowing banks to hide losses, combined with another round of overly optimistic financial “stress tests,” in which regulators pretend that there are no problems.
+When the Europeans stress-tested their banks in 2010, for example, they blithely assumed that Ireland did not face imminent fiscal disaster.
+Stress tests have turned out to be an exercise between futility and fiasco.
+<P>
+The reaction of European bank executives in this scenario will be to hunker down, calling in loans to reduce the size of their balance sheets and thereby pushing up equity relative to their total assets.
+There is an obvious externality here, with each bank wanting to dump assets without regard for the consequences for the rest of the economy.
+Regardless of whether Greece will or should default on its debts – or restructure payments under some euphemism – the banking system’s lack of capital means that credit throughout the eurozone will be under pressure.
+<P>
+No one knows how Greece’s problems will affect market perceptions of government debt in other eurozone countries.
+And the interlinkages between major global banks are a major, if diffuse, worry for all involved.
+Equity capital will increase relative to assets – but, under current policies, it will increase because banks reduce their assets, not because they raise capital.
+<P>
+This is exactly the wrong way to handle a financial crisis.
+If the International Monetary Fund were calling the shots in Europe, they would be arguing forcefully for tough stress tests and bank recapitalization throughout the eurozone.
+But the European Union collectively has roughly 30% of the votes at the IMF, and can effectively veto a more forceful approach to the European banking system.
+<P>
+Meanwhile, the lack of bank capital will continue, weighing heavily the European economy’s short-run performance and undermining its longer-term growth potential.

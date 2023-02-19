@@ -1,0 +1,50 @@
+<HEADLINE>
+Scandinavia’s Accounting Trick
+<P>
+While most of the world’s advanced countries face increasing difficulties in coping with the forces of globalization and competition from low-wage countries, the Scandinavian countries -- Denmark, Finland, Norway, and Sweden -- seem to have managed these challenges quite well.
+To be sure, Scandinavian growth is mediocre.
+With average yearly GDP growth of 2.2% from 1995 to 2005 it fell short of the non-Scandinavian countries of the EU-15, which grew by 2.8% on average.
+But Scandinavia is good in terms of levels of per capita GDP and unemployment.
+Its average per capita GDP was 39% above that of the other EU countries, and on average the unemployment rate stood at 6.7%, compared to 8% elsewhere in the old EU.
+<P>
+What is the secret behind Scandinavia’s success?
+One explanation of Scandinavia’s strong performance is Sweden’s courageous product market liberalization, the reduced generosity of Denmark’s wage replacement system and the Nokia miracle in Finland.
+However, while these factors may explain some of Scandinavia’s success, the low rate of unemployment and the high level of GDP per capita also have a much more straightforward explanation: the high share of government employment in the labor force.
+When private jobs are no longer competitive, government jobs seem an easy solution to keeping people employed.
+<P>
+Indeed, the share of government in employment in Scandinavia is surprising.
+In Sweden, it amounts to 33.5% of “dependent employment” (total employment excluding the self-employed), and 32.9% in Denmark.
+On average the share of state employment in the workforce across Scandinavia is 32.7%, compared to only 18.5% on average in the non-Scandinavian countries of the EU-15.
+In Germany, Europe’s largest economy, the government’s share of the workforce is only 12.2%.
+<P>
+So the high share of government employment contributes to the region’s low unemployment rate.
+Moreover, it also contributes greatly to the high per-capita GDP figures, for the simple reason that the value-added created by these government jobs is part of GDP, even if it could never have been produced in the market economy.
+<P>
+According to the rules of national income accounting, in the absence of market prices, the contribution of the government sector to GDP is measured by the wages paid out by the government, regardless of how productive or useful the government jobs are.
+Thus, the performance difference relative to Germany, say, could be caricatured as follows: while Germans collect part of the private value-added as taxes, which they then spend on unemployment benefits, Scandinavians in addition give their unemployed a desk and count the unemployment benefits as value-added in the government sector and, therefore, a contribution to GDP.
+<P>
+Apart from the accounting trick implicit in Scandinavia’s success, the high share of government in employment may also make a real contribution to solving one of the most fundamental problems western economies now face.
+Prompted by capital flows to low-wage countries, specialization, outsourcing, and even immigration, the equilibrium price of unskilled labor has fallen throughout the western countries.
+Yet these countries hesitate to let actual wages fall for obvious social reasons.
+<P>
+If they want to defend the incomes of the unskilled (or the less motivated), they have four options.
+The best option is to better educate the unskilled, but this is a cumbersome, time-consuming process that offers no short-term solution.
+Thus, only three options remain in the short and medium term.
+<P>
+The first option is to defend the wages of the low skilled through minimum-wage laws or paying social replacement incomes which imply minimum wage demands against the private economy.
+This is the strategy that most EU countries, Germany in particular, have chosen.
+It results in mass unemployment that is inefficient and financially unsustainable.
+<P>
+The second option is to pay wage subsidies instead of wage replacement incomes to allow for the wage dispersion necessary for full employment without letting the incomes of the unskilled fall.
+This is the strategy chosen by the United States with its earned-income tax credit.
+Edmund Phelps, this year’s Nobel laureate in economics, has also long advocated it.
+<P>
+The third option is the Scandinavian way.
+Here government demand for labor keeps wages high.
+<P>
+While many economists judge Germany’s strategy the worst and America’s the best, the Scandinavian strategy can be considered a second-best strategy.
+Indeed, it is better to let people clean public parks, nurse children, and take care of the old in government facilities than have them do nothing, as in Germany.
+Even though GDP is artificially inflated, some useful activities are carried out.
+<P>
+Nevertheless, it might be better to let the market decide what kinds of products the low-skilled and less motivated part of the workforce should and could reasonably produce, which speaks for the American way of subsidizing wages.
+Thus, the Scandinavian way is more than a mere accounting trick, but it is also less than a truly recommendable strategy for coping with the challenges of globalization.

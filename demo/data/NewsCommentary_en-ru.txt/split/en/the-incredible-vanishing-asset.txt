@@ -1,0 +1,63 @@
+<HEADLINE>
+The Incredible Vanishing Asset
+<P>
+ROME – Back in the late 1980’s, I attended a conference on “revenue management,” or the art of pricing airline seats to get maximize yield.
+Too high, and you lost business; too low, and you got less than people were willing to pay.
+Most of the speakers were from the airline industry, which already knew the tricks.
+Many of the listeners were from the hotel business; they were just learning.
+As a customer, I felt as if I had penetrated the enemy’s strategy session.
+<P>
+Over the years, I watched as more and more markets picked up two related concepts: time-based pricing and more efficient use of so-called “vanishing assets” – or capital goods that generate revenue only as they are used.
+In the old days, before computers, it was hard to manage complex pricing – or, for that matter, to reach the right customers with specific time-based or location-based offers.
+Hotels and airlines were a special case: their business is dependent on shared use of capital assets.
+<P>
+Of course, some businesses do use blunt versions of time-of-day or seasonal pricing.
+We take it for granted that health clubs charge more for memberships that include peak hours.
+But, in general, an asset is an asset, and you still hear complaints from people who don’t understand why the guy next to them in an airplane paid a lower price.
+<P>
+As real-time information about customers’ needs and vendors’ offers combines with a new concern for efficiency and optimization, there is a widespread shift to make use of the opportunities to personalize offers around location and time.
+The cost of complexity and targeting has dropped, even as the demand for return on assets has increased.
+<P>
+You can see this in housing rentals, hotels and hospitality, and rental and leasing in general.
+Zipcar, for example, lets people share cars.
+(Let’s hope the Chinese discover this before everyone in China buys their own car!)
+And Worktopia is an online marketplace for business meeting rooms.
+<P>
+Overall, I see a broad shift from understanding assets as something you have, to looking for a stream of utility.
+To illustrate, here are three start-ups that take the concept to individuals or small businesses; call it peer-to-peer timesharing.
+(Yes, I am betting on this trend: I am an investor in one, LendAround, and considering an investment in the other two.)
+<P>
+LendAround, in the United States, enables individuals to lend their DVDs to strangers, with the company charging a transaction fee for managing the process.
+A DVD is about the smallest, cheapest item for which the logistical costs do not outweigh the value.
+This market probably won’t last forever, but I suspect that LendAround ultimately may move on to other items.
+For now, DVDs are a convenient, commodity-like object to start with: once you specify which title, there’s no variation in quality (unlike with houses or other goods) or terms and conditions.
+<P>
+Next is Xtify, founded by long-time entrepreneur Andrew Weinreich, which is focused on time-of-day pricing targeted at people who are nearby and reachable on their mobile phones.
+To some extent, Xtify is an echo of Weinreich’s other venture, MeetMoi, a real-time dating site that uses mobile-phone location technology and interest profiles to help users find like-minded strangers.
+<P>
+Xtify lets its users – mostly small retailers and service providers – offer real-time pricing or discounts with the added precision of targeting by real-time geo-location.
+With Xtify, service vendors can appeal to customers who are conveniently placed in both space and time – so they can come in now for, say, a discount latte.
+The latte’s ingredients will remain available, but the space in the shop and the work of the people who will prepare the latte are vanishing assets.
+Xtify’s challenge will be to get distribution; users will need to add the app to their cell phone in order to be targeted by anyone from a manicurist to an airport massage booth.
+<P>
+Finally, there is Rezz.it, focused on larger, planned transactions – but, again, transactions that might not have happened because willing sellers would never have found eager buyers.
+The basic idea is that people can post items they have to rent, with a broad variety of descriptions and conditions.
+You can limit the visibility to people you know.
+The function may be to make money, or simply to remind your brother-in-law that you need the lawnmower back.
+If he forgets, Rezz.it will remind him so that you don’t have to.
+And if you want him to pay, Rezz.it will help you to collect without feeling like a cheapskate.
+<P>
+Or you may have a set of under-used dining room chairs.
+You don’t particularly want to lend them out every day, but if someone is willing to pay, say, $200 to rent them for a dinner party, the trouble might be worth it.
+So you can set a high price to offset the inconvenience and make money on the side.
+<P>
+And you can post different prices for different times: $20,000 to rent my house in London during the Olympics, $10,000 over Christmas, or $1,000 any other time.
+At the other end of the spectrum, you could rent baby clothes for three months at a time.
+<P>
+In the end, Rezz.it is unlikely to replace current real-estate rental sites, but its software may provide enabling technology for some of them.
+And it will enable other markets – for everything from lawnmowers to clothing, handbags, and cooking equipment – to become more efficient.
+<P>
+The first impact of monetizing vanishing assets could be to lower demand for such goods, since one lawnmower, for example, can serve many people.
+But it will also lower the cost of using them.
+Just imagine if there were no way to use an airplane other than by owning it.
+By sharing capital equipment, we make it more accessible to more people – and ultimately increase demand.

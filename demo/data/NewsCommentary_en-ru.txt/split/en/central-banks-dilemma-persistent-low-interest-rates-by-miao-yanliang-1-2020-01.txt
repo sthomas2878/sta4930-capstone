@@ -1,0 +1,65 @@
+<HEADLINE>
+The Dilemma of Central Banking
+<P>
+BEIJING – Low interest rates – both nominal and real – have been a persistent feature of advanced economies since the 1980s.
+How long, many now wonder, can the trend last?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In 2015, the “Geneva Report” on the topic by the International Center for Monetary and Banking Studies and the Center for Economic Policy Research argued that interest rates would stay low for long, but most likely not indefinitely.
+But with more than $13 trillion worth of negative-yielding bonds outstanding in the world economy, many more scholars and investors have started to think that rates could stay low forever.
+If so, central bankers will face a critical dilemma: in the event of a growth slowdown, should they keep their limited powder dry, or use it preemptively?
+<P>
+The answer lies outside monetary policy and beyond national borders.
+To see why, it is useful to revisit the basic concept of interest, which has always been a source of controversy in economic theory.
+As the Austrian economist Eugen von Böhm-Bawerk pointed out in his 1890 book, Capital and Interest, “the theory [of interest] exhibits a motley collection of the most conflicting opinions, no one of them strong enough to conquer, and no one of them willing to admit defeat.”
+The situation today is not much different.
+Explanations for the current era of low interest rates come from either of two seemingly contradictory schools of thoughts: neoclassical theory and Keynesian theory.
+<P>
+Neoclassical thinkers in the tradition of Alfred Marshall, Knut Wicksell, and Irving Fisher believe that real interest rates are determined by real economic forces.
+Money (or monetary policy) is neutral, and the rate of interest is that which equilibrates saving and investment, as determined by time preference and returns, respectively.
+(Hence, the title of Fisher’s 1930 book on the topic is: The Theory of Interest, as Determined by Impatience to Spend Income and Opportunity to Invest It.)
+Using the neoclassical framework, one can identify a range of structural factors – from demographic changes driving up savings to slower technological progress reducing demand – to explain the secular decline in interest rates.
+<P>
+By contrast, according to John Maynard Keynes’s “Liquidity Preference Theory,” interest is best understood as a reward for parting with liquidity for a specified period of time.
+As such, it is not about saving in general, but about the saving of money in particular.
+The interest rate, then, is determined jointly by the supply of liquidity and economic agents’ preference for money.
+<P>
+In normal times, these two schools of thought run in parallel and can coexist.
+Keynes focused on the nominal rate, while Fisher focused on the real rate; Keynes emphasized the short term, and Fisher the long run.
+Keynes’s principle of monetary non-neutrality in the short run does not directly conflict with Fisher’s principle of neutrality in the long run.
+Usually, when central banks act in a Keynesian manner by cutting nominal rates, real rates will fall, owing to the sticky-price effect.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Yet, with interest rates now stuck near or at the zero-lower bound (ZLB), these two views might collide: a nominal-rate cut will elicit an immediate one-for-one reduction in inflation expectations, leaving the real rate unchanged.
+Some economists refer to this change in expectations as the “neo-Fisherian effect,” because the traditional Fisher effect – whereby inflation tracks the nominal rate by a factor of one to one – is supposed to happen only in the long run.
+A Fisherian effect will not happen if inflation expectations remain well anchored.
+But once rates are trapped at or near the ZLB, inflation expectations begin to fall; the usual Keynesian effect comes to be dominated by the neo-Fisherian effect.
+<P>
+Hence, a distinct feature of the ZLB is that it is where Fisher crowds out Keynes.
+Central banks can cut nominal rates to zero or into negative territory all they want, but real rates will remain unchanged.
+The more Keynesian a central bank acts (by trying to stimulate demand through rate cuts), the more Fisherian the economy becomes, at least in terms of inflation expectations.
+And when this happens, monetary policy becomes not just impotent but potentially harmful.
+<P>
+To be sure, the neo-Fisherian perspective is controversial in academic circles.
+But even if there is no perverse Fisherian effect, interest-rate pegging or a situation in which rates are involuntary trapped at the ZLB could still amplify shocks.
+For central banks, avoiding these conditions can pose a dilemma.
+Should they cut rates when necessary, even if doing so might bring on a Fisherian trap?
+<P>
+An overdose of monetary policy may create conditions of monetary “non-neutrality” by pushing down the equilibrium real rate.
+This can happen through at least two channels.
+The first is the financial boom-bust cycle.
+Persistently low interest rates encourage risk-seeking, and can result in financial imbalances and debt build-ups.
+When the music stops, central banks must reduce rates even further to counter the inevitable bust.
+The second channel is resource misallocation, which can happen when too much liquidity inhibits Schumpeterian “creative destruction” by offering a lifeline to uncompetitive firms.
+<P>
+Resolving the dilemma will require a fundamental change in the design and implementation of economic policy.
+We need far better policy coordination at the national and international levels.
+At the country level, monetary policy cannot be the “only game in town.”
+Not only should fiscal policy and structural reforms play a larger role, but macroprudential policy should be made a top priority, in order to contain financial boom-bust cycles.
+<P>
+At the international level, a well-integrated financial safety net would help reduce the need for self-insurance through safe assets.
+One good way to pool resources would be to enhance the International Monetary Fund’s firepower through quota reforms.
+A new and improved international monetary system won’t be built in a day, but we have to start somewhere.

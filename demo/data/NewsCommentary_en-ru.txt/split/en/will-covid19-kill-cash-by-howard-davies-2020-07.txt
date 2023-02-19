@@ -1,0 +1,66 @@
+<HEADLINE>
+Will COVID-19 Kill Cash?
+<P>
+LONDON – Four years ago, Kenneth Rogoff, a former chief economist of the International Monetary Fund, made a powerful case for phasing out paper money.
+In his book The Curse of Cash, Rogoff argued that much paper money, especially high-denomination banknotes, facilitated tax evasion and fueled the drug trade – all the way down the supply chain: a British study in 1999 found that only four of 500 notes tested in London had no traces of cocaine.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Furthermore, the existence of cash constrains monetary policy.
+It is harder for central banks to implement negative interest rates when investors have the alternative of keeping a safe full of $100 bills.
+That seemed an abstruse point to some at the time, but the COVID-19 crisis has placed negative rates firmly on the policy agenda in several countries, albeit not yet in the United States.
+<P>
+Since Rogoff wrote, cash has been in retreat as a payment mechanism.
+In Sweden, for example, the demise of the paper krona seems within sight.
+The mobile payment system Swish dominates the small-denomination landscape.
+As anyone who has recently tried to buy a beer in Stockholm knows, you will remain thirsty if all you have is a wallet full of cash.
+<P>
+And the COVID-19 crisis has given people another reason to steer away from banknotes.
+It was widely reported that the virus could be transmitted through handling them, prompting many outlets to put up “no cash” signs.
+In my village, even the traveling fish and chip van will now accept only a contactless card.
+In fact, there is little or no validity in that scare story.
+The World Health Organization has said there is no evidence that currency notes transmit coronavirus.
+The virus lasts just as long on plastic cards, and Christine Tait-Burkard, an infectious disease expert at the University of Edinburgh, said that cash is not a vector of disease “unless someone is using a banknote to sneeze in.”
+<P>
+But the damage was done, and in the first month of the crisis cash usage in the United Kingdom fell by over 60%.
+Transaction volumes halved.
+In a survey, nearly 75% of respondents said they expect to use cash less in the future.
+<P>
+That trend, which has been replicated across the developed world, has given a further boost to digital banking and non-bank payment system providers.
+Apple Pay and PayPal are doing well.
+Fintech neobanks have continued to expand their user base, though many question whether they have yet found a sustainable business model.
+Facebook’s Libra currency is waiting in the wings, with its backers trying to persuade regulators that its model is safe and compliant with anti-money laundering protocols.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The further decline of cash has also given greater impetus to central banks’ own work on digital currencies.
+Through banknotes, citizens and businesses have for centuries been able to hold a direct claim on the central bank.
+If cash were to disappear, is there not an argument for a central bank digital currency, whether wholesale, retail, or both?
+The Bank for International Settlements reports that several central banks are actively considering introducing one, though none has yet taken the plunge.
+The Swedish Riksbank may well be the first, with an e-krona ready to roll.
+<P>
+So, is a farewell to cash at hand?
+Will even the greenback go the way of all flesh?
+<P>
+The answer is not so clear.
+In the first place, while the number of transactions fulfilled through cash transfers has indeed been falling, even at the bottom end of the range, the volume of cash in circulation has in fact continued to rise in many countries.
+Since the end of last year, according to the BIS, the value of currency in circulation has increased by 8% in Italy, and 7% in the US.
+Precautionary holdings of cash have risen.
+It is not only drug dealers and tax evaders who see the attraction of cash as a store of value and who value privacy.
+Of the largest economies, only China has begun to see an absolute decline in the ratio of physical currency to GDP.
+<P>
+There are also signs of a political backlash against the withdrawal of cash handling facilities.
+The Bank of Canada has asked retailers to continue to accept cash, citing concerns about financial exclusion, as people without access to bank accounts and cards find themselves unable to shop.
+New York City, San Francisco, and the state of New Jersey have barred retailers from refusing cash.
+Even in Sweden, the Swishers are not having it all their way.
+An activist group called Kontantupproret (Cash Rebellion) is now campaigning to sustain poorer consumers’ ability to use paper money.
+In the UK, the government has published an “access to cash” review, which recommends the mandatory maintenance of a large national fleet of ATMs, even though utilization is falling fast.
+<P>
+In sum, it may be too soon to write Dollar Bill’s obituary.
+Demand for his services remains strong.
+It may make sense for central banks to offer digital services to nonbanks, perhaps partly to avoid the loss of seigniorage income, which would enrich Facebook, rather than governments, in a Libra-dominated world.
+But unless central banks wish also to enter the credit allocation business, they will want to avoid large-scale disintermediation of the banking system.
+<P>
+I suspect that, for the foreseeable future, we will live in a kind of mixed-economy payment system.
+Cash will continue to play a role, albeit a more modest one than in the past, alongside a variety of cards and direct digital transfers.

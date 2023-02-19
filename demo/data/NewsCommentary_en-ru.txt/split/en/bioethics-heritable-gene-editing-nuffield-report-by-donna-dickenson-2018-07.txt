@@ -1,0 +1,53 @@
+<HEADLINE>
+Britain’s Dangerous Lapse in Medical Ethics
+<P>
+LONDON – On July 17, the United Kingdom’s influential Nuffield Council on Bioethics implicitly endorsed “heritable genome editing,” declaring the practice of altering the DNA of a human embryo “morally permissible” under certain circumstances.
+The council’s report was the product of 20 months of consultation with many experts in the UK and beyond, and also built on a prior report to which I contributed testimony.
+<P>
+But I have serious concerns about the new report’s conclusions.
+Simply put, I don’t believe the recommendations adequately consider all the ethical or medical risks of manipulating heritable genes.
+Nor do I think the report gives sufficient weight to the question of whether sufficiently strong safeguards ever could be put in place to prevent the technology’s misuse.
+<P>
+The Nuffield report focuses on “germline” gene editing, or genetic alterations of human embryos and gametes that are passed on to future generations.
+This type of gene modification is not currently legal in the UK, although “somatic” genome editing – performed on the non-heritable genes of individual patients – is permitted.
+<P>
+What makes the Nuffield report controversial is its precedent-setting argument.
+Germline gene editing is not approved under international law: both the Council of Europe’s Convention on Human Rights and Biomedicine (although the UK is not a signatory) and UNESCO’s Universal Declaration on the Human Genome and Human Rights prohibit the practice.
+Moreover, the overwhelming majority of countries that have ever considered legalizing it have eventually rejected the idea outright and have no plans to change their position.
+Only the UK has come close.
+In 2015, British lawmakers approved a form of germline modification known as “mitochondrial donation” – commonly referred to as “three-parent” in vitro fertilization (IVF).
+<P>
+Eliminating genetically caused conditions in future children might seem a welcome goal, particularly to couples with a family history of such diseases.
+However, we already have techniques – such as “preimplantation genetic diagnosis” of embryos – which can prevent affected children from being born.
+That is all germline genetic editing can do: it cannot cure disease or save lives.
+<P>
+Against these limited benefits, we must weigh major risks such as “off-target edits.”
+Some observers have likened germline genetic editing to hitting “find and replace all” on a computer.
+Yet not only do we lack an understanding of all future risk scenarios; there is no “undo” button.
+We are binding future generations to our own state of incomplete knowledge.
+<P>
+I am not alone in expressing these views.
+In December 2017, the Royal Society published a survey of public attitudes toward DNA sequencing and genome editing.
+While respondents were generally supportive of procedures for the treatment of life-threatening illnesses, many were adamant that every available option should be exhausted before genome editing was tried.
+People also wondered how genetic technologies might affect social inequality and how countries would guard against the emergence of “corporate-type monopolies.”
+<P>
+The new CRISPR technique, unlike some previous types of gene editing, is relatively cheap, and if current bans were relaxed, biotechnology firms would likely rush to fill the market.
+Similar “mission creep” and commercialization prompted the US Food and Drug Administration to reprimand the American company Darwin Life for promoting its three-person IVF techniques for the much wider market of age-related infertility.
+<P>
+In fact, if the UK is not careful, gene editing could follow the trajectory of cosmetic surgery.
+First developed for genuine medical needs – such as reconstructive surgery for wounded soldiers – it has morphed into a largely unregulated business worth billions.
+<P>
+Although the Nuffield Report does not explicitly recommend relaxing the UK regulatory system, it does not adequately address the pressures toward consumer choice, deregulation, and commercialization.
+Cultural pressure is already pushing people to favor particular traits in their offspring; in the United States, for example, buyers in the market for human eggs can shop for height, hair color, and intelligence.
+We could even see the rise of “gene-rich” and “gene-poor” populations: although CRISPR itself is a low-cost method, it requires women to undergo the complex, expensive, and sometimes risky procedures of IVF.
+<P>
+To justify its recommendations, the authors of the Nuffield report suggested two overarching principles that should guide the use of genetic editing.
+First, genome editing must be “intended to secure, and [be] consistent with, the welfare of a person who may be born as a consequence.”
+But no one is suggesting that harmful germline genetic interventions should be permitted.
+<P>
+The second principle – that editing “should not produce or exacerbate social division, or marginalize or disadvantage groups in society” – does, in fairness, move the debate beyond the choice of individual parents.
+But, again, the report offers little in the way of solutions, and it largely rejects the distinction between therapeutic and enhancement applications, which leaves open the possibility that such technologies could be misused for cosmetic purposes.
+<P>
+For decades, the international community has largely adhered to the UNESCO declaration, adopted in 1997, which was updated in 2015 with the injunction that all countries “should renounce the possibility of going it alone” on germline gene therapy.
+But the Nuffield Report allows the UK to do just that.
+Although the report nods in the direction of international cooperation, it breaches an international consensus in a way that increases the risks of irreversible genetic alterations and new forms of inequality.

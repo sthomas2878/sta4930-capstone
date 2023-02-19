@@ -1,0 +1,60 @@
+<HEADLINE>
+Digital Globalization and the Developing World
+<P>
+BERKELEY – Globalization is entering a new era, defined not only by cross-border flows of goods and capital, but also, and increasingly, by flows of data and information.
+This shift would seem to favor the advanced economies, whose industries are at the frontier in employing digital technologies in their products and operations.
+Will developing countries be left behind?
+<P>
+For decades, vying for the world’s low-cost manufacturing business seemed to be the most promising way for low-income countries to climb the development ladder.
+Global trade in goods rose from 13.8% of world GDP in 1985 ($2 trillion) to 26.6% of GDP ($16 trillion) in 2007.
+Propelled by demand and outsourcing from advanced economies, emerging markets won a growing share of the soaring trade in goods; by 2014, they accounted for more than half of global trade flows.
+<P>
+Since the Great Recession, however, growth in global merchandise trade has stalled, mainly owing to anemic demand in the world’s major economies and plummeting commodity prices.
+But deeper structural changes are also playing a role.
+Many companies are simplifying and shortening their supply chains.
+For a range of goods, automation means that production location and outsourcing decisions no longer depend primarily on labor costs.
+Quality of talent, infrastructure, energy costs, and speed to market are assuming greater weight in such decisions.
+In the near future, 3D printing could further reduce the need to ship goods across long distances.
+<P>
+If trade in global goods has indeed peaked relative to global GDP, it will be harder for poor countries in Africa, Latin America, and Asia to develop by becoming the world’s next workshops.
+But globalization itself is not in retreat.
+While global goods trade has stalled and cross-border financial flows have fallen sharply since 2007, flows of digital information have surged: Cross-border bandwidth use has grown 45-fold over the past decade, circulating ideas, intellectual content, and innovation around the world.
+<P>
+<P>
+New research from the McKinsey Global Institute (MGI) finds that cross-border flows of goods, services, finance, people, and data during this period increased world GDP by roughly 10% – roughly an additional $7.8 trillion in 2014 alone.
+Data flows accounted for an estimated $2.8 trillion of this gain, exerting a larger impact than global goods trade – a remarkable finding, given that the world’s trade networks developed over centuries while cross-border data flows were nascent just 15 years ago.
+<P>
+Digitization disrupts everything: the nature of goods changing hands; the universe of potential suppliers and customers; the method of delivery, and the capital and scale required to operate globally.
+It expands opportunities for more types of firms, individuals, and countries to participate in the global economy.
+It also gives countries and companies everywhere an opportunity to redefine their comparative and competitive advantage.
+For example, while the United States may have been at a disadvantage in a world where low labor costs were paramount in global manufacturing value chains, digital globalization plays directly to its strengths in technology and innovation.
+<P>
+On its face, this shift to digital globalization would seem to work against developing countries that have large pools of low-cost labor but inadequate infrastructure and education systems.
+Advanced economies dominate MGI’s latest Connectedness Index, which ranks countries on both inflows and outflows of goods, services, finance, people, and data relative to their size and share in each type of global flow.
+These flows are disproportionately concentrated among a small set of countries, including the US, the United Kingdom, Germany, and Singapore, with huge gaps between the leaders and laggards.
+China is the only emerging economy to have made it to the top ten on the index.
+<P>
+<P>
+Yet digital flows offer developing countries new ways of engaging with the global economy.
+The near-zero marginal costs of digital communications and transactions create new possibilities for conducting cross-border business on a massive scale.
+Alibaba, Amazon, eBay, Flipkart, and Rakuten are turning millions of small enterprises around the world into “micro-multinational” exporters.
+Companies based in developing countries can overcome local market constraints and connect with customers, suppliers, financing, and talent worldwide.
+Twelve percent of global goods trade is already conducted in ecommerce channels.
+<P>
+Moreover, a country need not develop its own Silicon Valley to benefit.
+Countries on the periphery of the network of global data flows can benefit more than countries in the center.
+Digital connections promote productivity growth; indeed, they can help developing economies move to the productivity frontier by exposing their business sectors to ideas, research, technologies, and best management and operational practices, and by building new channels to serve large global markets.
+<P>
+But the Internet cannot deliver such improvements in efficiency and transparency unless countries build the digital infrastructure needed to connect the world’s huge offline population.
+The number of Internet users worldwide now exceeds 3.2 billion, but at the end of 2015, 57% of the world’s population, or four billion people, remained offline, and many who are online use only basic cell phones.
+In many developing countries, connectivity is too slow, unreliable, or expensive to allow entrepreneurs and individuals to take full advantage of the new global business and educational opportunities.
+<P>
+Education systems will also need to keep up with demand for language fluency and digital skills.
+While 40% of the world’s population are connected to the Internet, 20% are still unable to read and write.
+According to another recent MGI study, there are also large gender gaps in access to digital technologies around the world, and this lack of access impedes women’s economic and social empowerment.
+Lagging countries that fail to promote gender equality, invest in education, and adopt broader governance and regulatory reforms risk falling even further behind in reaping the significant benefits of globalization.
+<P>
+Twenty-first-century globalization, driven by digitization and rapid changes in competitive advantage, can disrupt local industries, companies, and communities and cause job loss, even as it spurs greater productivity, boosts overall employment, and generates economy-wide gains.
+Governments must consider these trade-offs carefully, and develop ways to support those who are harmed by global flows, giving them paths to new roles and livelihoods.
+To date, few governments have done so.
+Ironically, the political backlash against globalization is gaining momentum in many places even as digitization increases the opportunities and economic benefits that globalization has to offer.

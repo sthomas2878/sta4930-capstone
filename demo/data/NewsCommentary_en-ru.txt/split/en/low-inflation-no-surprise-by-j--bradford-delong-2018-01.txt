@@ -1,0 +1,49 @@
+<HEADLINE>
+Why Low Inflation Is No Surprise
+<P>
+BERKELEY – The fact that inflation has remained stubbornly low across the global North has come as a surprise to many economic observers.
+In September, the always sharp and thoughtful Nouriel Roubini of New York University attributed this trend to positive shocks to aggregate supply – meaning the supply of certain goods has increased, driving down prices.
+<P>
+As a result, Roubini observed, “core inflation has fallen” even though the “recent growth acceleration in the advanced economies would be expected to bring with it a pickup in inflation.”
+Meanwhile, the US Federal Reserve “has justified its decision to start normalizing rates, despite below-target core inflation, by arguing that the inflation-weakening supply-side shocks are temporary.”
+Roubini concludes that, “even though central banks aren’t willing to give up on their formal 2% inflation target, they are willing to prolong the timeline for achieving it.”
+<P>
+In my view, interpreting today’s low inflation as a symptom of temporary supply-side shocks will most likely prove to be a mistake.
+This diagnosis seems to misread the historical evidence from the period between the early 1970s and the late 1990s, and is thus based on a fundamentally flawed assumption about the primary driver of inflation in the global North since World War II.
+<P>
+Since the 1970s, economists have maintained a near-consensus belief that the Phillips curve has a substantial slope, meaning that prices react strongly to changes in demand.
+According to this view, relatively small increases in aggregate demand above levels consistent with full employment will have a substantial impact not just on inflation, but also on expectations of inflation.
+A period of rapidly accelerating inflation in the recent past will lead people to believe that inflation will increase in the future, too.
+<P>
+More than 20 years ago, I wrote a paper called “America’s Only Peacetime Inflation: The 1970s,” in which I challenged this narrative.
+I showed that, when the now-standard view about inflation was developed in the 1970s, increases in aggregate demand above levels consistent with full employment were actually few, short-lived, and small, and that past inflation jumps had been incorporated into future expectations not rapidly, but slowly over time.
+<P>
+In fact, it took three large adverse supply shocks for expectations to adjust.
+In addition to the Yom Kippur War of 1973 and the Iranian Revolution of 1979, productivity growth began to slow at the same time that unions still had substantial pricing power, and previously negotiated wage increases were already locked into many workers’ contracts.
+<P>
+Despite these shocks, central bankers, chiefly then-Fed Chair Arthur F. Burns, were hesitant to commit to achieving price stability.
+Instead, Burns, understandably worried that fighting inflation would bring a deep recession, decided to kick the can down the road.
+And as we now know, that set the stage for 1979, when Paul Volcker succeeded Burns as Fed Chair, hiked up the federal funds rate (a move now known as the “Volcker disinflation”), and brought on the Near-Great Recession of 1979-1982.
+<P>
+Strangely, this history of what actually happened was for some reason swallowed up by an alternative narrative that many still cling to today.
+According to this pseudo-historical retelling, Keynesian economists in the 1960s did not understand the natural rate of unemployment, so they persuaded central bankers and governments to run overly expansionary policies that pushed aggregate demand above levels consistent with full employment.
+<P>
+This was of course an affront to the gods of the market, who responded by meting out divine retribution in the form of high and persistent inflation.
+The Volcker disinflation was thus an act of penance.
+To expunge the original sin, millions of workers’ jobs and incomes had to be sacrificed.
+<P>
+The clear lesson from this telling is that economists and central bankers must never again be allowed to run overly expansionary policies.
+But that is obviously bad policy advice.
+<P>
+After all, it has been more than 20 years since economists Douglas Staiger, James H. Stock, and Mark W. Watson showed that the natural rate of unemployment is not a stable parameter that can be estimated precisely.
+And economists Olivier Blanchard, Eugenio Cerutti, and Lawrence H. Summers have toppled the belief that the Phillips curve has a substantial slope.
+In fact, to say that it had a substantial slope even in the 1970s requires one to avert one’s eyes from the supply shocks of that decade, and attribute to demand outcomes that are more plausibly attributed to supply.
+<P>
+Those who have used the prevailing economic fable about the 1970s to predict upward outbreaks of inflation in the 1990s, the 2000s, and now the 2010s have all been proven wrong.
+Why, then, does the narrative still have such a hold on us today?
+<P>
+The best – albeit inadequate and highly tentative – explanation that I have heard is that it fits with our cognitive biases, because it tells us what we want to hear.
+It seems to be in our nature to look for stories about sin and retribution, crime and punishment, error and comeuppance.
+<P>
+Finding out why we have this cognitive bias will no doubt launch many careers in psychology in the future.
+In the meantime, we should free ourselves from a heuristic prison of our own making.

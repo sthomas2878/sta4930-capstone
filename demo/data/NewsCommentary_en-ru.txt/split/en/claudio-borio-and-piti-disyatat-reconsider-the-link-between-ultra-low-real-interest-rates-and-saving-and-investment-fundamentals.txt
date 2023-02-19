@@ -1,0 +1,61 @@
+<HEADLINE>
+The Interest-Rate Enigma
+<P>
+BASEL – Today, the United States government can borrow for ten years at a fixed rate of around 2.5%.
+Adjusted for expected inflation, this translates into a real borrowing cost of under 0.5%.
+A year ago, real rates were actually negative.
+And, with low interest rates dominating the developed world, many worry that an era of secular stagnation has begun.
+<P>
+How problematic low real rates are depends on the reason for their decline.
+The prevailing view is that the downward trend largely reflects a fall in equilibrium or “natural” interest rates, driven by changes in saving and investment fundamentals.
+In other words, a higher propensity to save in emerging economies, together with investors’ growing preference for safe assets, has increased the supply of saving worldwide, even as weak growth prospects and heightened uncertainty in advanced economies have depressed investment demand.
+<P>
+This perceived decline in “natural” interest rates is viewed as a key obstacle to economic recovery, because it impedes monetary policy’s capacity to provide sufficient stimulus by pushing real rates below the equilibrium level, owing to the zero lower bound on nominal rates.
+How to stem the decline in equilibrium rates has thus become the subject of lively debate.
+<P>
+Conspicuously absent from the debate, however, is the role of financial factors in explaining the trend decline in real rates.
+After all, interest rates are not determined by some invisible natural force; they are set by people.
+Central banks pin down the short end of the yield curve, while financial-market participants price longer-dated yields based on how they expect monetary policy to respond to future inflation and growth, taking into account associated risks.
+Observed real interest rates are measured by deducting expected inflation from these nominal rates.
+<P>
+Thus, at any given point in time, interest rates reflect the interplay between the central bank’s reaction function and private-sector beliefs.
+By identifying the evolution of real interest rates with saving and investment fundamentals, the implicit assumption is that the central bank and financial markets can roughly track the evolution of the equilibrium real rate over time.
+<P>
+But this is by no means straightforward.
+For central banks, measuring the equilibrium interest rate – an abstract concept that cannot be observed – is a formidable challenge.
+To steer rates in the right direction, central banks typically rely on estimates of unobserved variables, including the equilibrium real rate itself, potential output, and trend unemployment.
+These estimates are highly uncertain, strongly model-dependent, and subject to large revisions.
+<P>
+Moreover, central banks’ policy frameworks may be incomplete.
+By focusing largely on short-term inflation and output stabilization, monetary policy may not pay sufficient attention to financial developments.
+Given that the financial cycle is much more drawn out than the business cycle, typical policy horizons may not allow the authorities to account adequately for the impact of their decisions on future economic outcomes.
+The fact that financial booms and busts can occur amid relatively stable inflation does not help.
+<P>
+With financial-market participants as much in the dark as central banks, things can go badly wrong.
+And so they have.
+Over the last three decades, several credit-induced boom-bust episodes have caused major, sustained damage to the global economy.
+It is difficult to square this reality with the view that interest rates, which set the price of leverage, have been on an equilibrium path all along.
+<P>
+The focus on fundamental saving and investment determinants of interest rates is entirely logical from the perspective of mainstream macroeconomic models, which assume that money and finance are irrelevant (“neutral”) for the output path in the long run.
+But successive crises have shown that finance can have long-lasting effects.
+Financial factors, especially leverage, not only can amplify cyclical fluctuations; they can also propel the economy away from a sustainable growth path.
+Indeed, a growing body of evidence shows that output is permanently lower in the wake of a financial crisis.
+<P>
+All of this suggests that the trend decline in real interest rates does not just passively mirror changes in underlying macroeconomic fundamentals.
+On the contrary, it also helps drive them.
+Low interest rates can sow the seeds of financial booms and busts.
+<P>
+Policies that do not lean against the booms but ease aggressively and persistently during busts induce a downward bias in interest rates over time, and an upward bias in debt levels.
+This creates something akin to a debt trap, in which it is difficult to raise rates without damaging the economy.
+The accumulation of debt and the distortions in production and investment patterns induced by persistently low interest rates hinder the return of those rates to more normal levels.
+Low rates thus become self-reinforcing.
+<P>
+This alternative perspective highlights the trade-off inherent in ultra-accommodative monetary policy.
+Monetary policy cannot overcome structural impediments to growth.
+But the actions that central banks take today can affect real macroeconomic developments in the long term, primarily through their impact on the financial cycle.
+These medium- to long-term side effects need to be weighed carefully against the benefits of short-term stimulus.
+While low interest rates may be a natural response to perceptions of a chronic demand shortfall, such perceptions are not always correct – and can be very costly over time.
+<P>
+Laying the foundations of a sustained recovery requires measures to strengthen public- and private-sector balance sheets, together with structural reforms aimed at raising productivity and improving growth potential.
+More stimulus may boost output in the short run, but it can also exacerbate the problem, thus compelling even larger dosages over time.
+An unhealthy dependence on painkillers can be avoided, but only if we recognize the risk in time.

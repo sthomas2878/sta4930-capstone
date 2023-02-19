@@ -1,0 +1,51 @@
+<HEADLINE>
+Coco for Europe
+<P>
+BERKELEY – After a year and half of delay and denial, Greece is about to restructure its debts.
+<P>
+This, by itself, will not be enough to draw a line under the eurozone’s crisis.
+Greece will also have to downsize its public sector, reform tax administration, and take other steps to modernize its economy.
+Its European partners will have to build a firewall around Spain and Italy to prevent their debt markets and economies from being destabilized.
+Banks incurring balance-sheet damage will have to be recapitalized.
+The flaws in eurozone governance will have to be fixed.
+<P>
+The indispensible first step, however, is a deep write-down of Greek debt – to less than half its face value.
+The burden on the Greek taxpayer will be lightened, which is a prerequisite for reducing wages, pensions, and other costs, and thus is essential to the strategy of “internal devaluation” needed to restore Greek competitiveness.
+Forcing bondholders to accept a “haircut” on what they will be paid also promises to discourage reckless lending to eurozone sovereigns in the future.
+<P>
+Bringing us to the question of why it took policy makers a year and a half to get to this point. The answer is that there are strong incentives to delay.
+The Greek government, for which restructuring is an admission of failure, continues to hope that good news will magically turn up.
+Likewise, French banks holding Greek bonds cling to whatever thin reed of optimism they can and lobby furiously against restructuring.
+European policymakers, for their part, worry that a sovereign-debt restructuring will damage the financial system and be a black mark for their monetary union.
+<P>
+The incentives to delay are myriad.
+The question is what can be done about them.
+Rather than resorting time after time to bailouts and delay, isn’t there a way to more swiftly and decisively restructure the debts of insolvent sovereigns?
+<P>
+One answer would be to add to future bond covenants contractual provisions that would trigger the necessary restructuring automatically.
+The concept is taken from the debate over bank reform, where there is an analogous problem of bailouts and bail-ins.
+Because of the difficulty of putting banks through a bankruptcy-like procedure, there is an incentive, like that which arises in the context of sovereign debt, to postpone the painful process of imposing losses on bondholders and instead provide a bailout and hope for the best.
+<P>
+Contingent convertible bonds, or “cocos,” have been proposed as a solution to this problem.
+When a bank’s capital falls below a pre-specified limit, its cocos automatically convert from debt to equity at a fraction of their previous price.
+This bails in the bondholders and helps to recapitalize the financial institution in question.
+<P>
+Extending this idea to sovereign debt, government bond covenants could stipulate that if a sovereign’s debt/GDP ratio exceeds a specified threshold, principal and interest payments to bondholders would be automatically reduced.
+The idea is that if there is no adequate incentive to restructure once a crisis starts, it should be built in before the fact.
+<P>
+“Sovereign cocos” have the advantage that their activation would not constitute a credit event triggering the credit-default swaps written on the bonds.
+The existence of large quantities of CDS, together with uncertainty about who has written them, has fed the reluctance to proceed with restructuring.
+Sovereign cocos would assuage the fear of creating an AIG-like event, in which a too-big-to-fail underwriter is over-exposed.
+<P>
+Objections to the idea start with the question of whether there would be adequate demand for these novel sovereign-debt instruments.
+In fact, the success of banks in issuing cocos suggests that investors do have the appetite for them.
+<P>
+There is also a concern that the government might manipulate the debt and GDP statistics on which the conversion trigger is based.
+Outsourcing these figures’ calculation to an independent entity, such as the International Monetary Fund, could solve this problem.
+<P>
+There would be worries that adding cocos to sovereign bonds might raise governments’ borrowing costs.
+But the literature on related instruments known as collective-action clauses suggests that borrowing costs would rise only for governments approaching the limit of their creditworthiness – that is, close to the cocos’ trigger.
+And raising borrowing costs for governments with dangerously heavy debts – thereby discouraging them from further borrowing – is precisely what we should want to do.
+<P>
+Adding cocos to government bonds will require solving a host of technical problems.
+But not adding them is a recipe for more delay, more bailouts, and more chaos the next time the debts of a sovereign like Greece become unsustainable.

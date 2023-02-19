@@ -1,0 +1,65 @@
+<HEADLINE>
+Learning from the Lockdown
+<P>
+CAMBRIDGE – As with so much else, international development has been severely affected by the coronavirus pandemic.
+How might we use these lessons to reshape the sector, rather than returning to the status quo?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+For starters, the crisis has reminded us that nature still reigns supreme, and it should spur us to step up efforts to mitigate and adapt to other systemic threats, particularly climate change, which will continue to be the biggest threat to development.
+According to the Climate Impact Lab, global warming could lead to as many as 1.5 million excess deaths per year in India by 2100, rivaling the toll of all infectious diseases combined.
+In addition to applying our current scientific knowledge to existing problems – from improving environmental auditing to deploying flood-resistant varieties of rice – we need to accelerate innovations that reduce carbon dioxide emissions and pollution, help communities adapt to climate change, and provide access to clean energy.
+And, most important, we must pilot and evaluate new initiatives, and scale those with the biggest impact.
+<P>
+The pandemic has also taught us that public health is about more than physical illnesses.
+For many people – particularly in developing countries – staying home simply isn’t a safe option.
+Domestic violence, including both physical and emotional abuse, is expected to rise sharply as a result of lockdowns.
+Extended periods of isolation could exacerbate anxiety, depression, and other related mental health conditions.
+And those battling addictions are struggling to get the support they need.
+Rather than hoping these problems will simply disappear whenever the lockdowns are lifted (they won’t), we should acknowledge that mental health has long been a neglected issue in policy debates.
+<P>
+Yet another lesson from the crisis is that there can be no substitute for government.
+Over the past decade, many international funders and development organizations have tried to bypass governments, owing to concerns about corruption or red tape.
+But the pandemic has made clear that governments are the leading actors when it comes to containing infectious diseases, administering development policies, providing social protection to the unemployed, and alleviating poverty.
+That is why we at MIT’s Abdul Latif Jameel Poverty Action Lab (J-PAL) have focused on building long-term partnerships with governments and are now supporting them in scaling up evidence-based policies.
+<P>
+Governments also need to be able to transfer cash to vulnerable citizens quickly.
+While the United States and other advanced economies have managed to transfer emergency funds directly to their citizens, many other countries that have introduced household stimulus checks, cash transfers, or other social protections have failed to deliver them to those who need support the most.
+Clearly, these countries need to rethink how they identify the poorest individuals, so that they can provide them with digital forms of identity and other requisites of financial inclusion.
+In the future, these will be the key components of the social safety net for countries at all stages of development.
+<P>
+Another critical issue is education.
+Although learning is possible outside of physical schools, the pandemic is sure to set back education for many children.
+Helping them keep up is thus an urgent priority.
+With schools closed, the obvious response is to pursue Internet-based teaching.
+Research shows that software allowing students to move at their own pace can be effective.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But remote learning obviously isn’t an option for students who lack Internet access, have special needs, or share one computer or phone among many family members.
+These children’s educations have effectively been put on hold during the pandemic, as was already the case for many of the world’s refugees, over half of whom are children.
+It will be crucial to help these children catch up when the time comes.
+Here, research shows that intensive, repeated “learning camps” in which students are grouped at their current learning level, rather than by age or grade, can be immensely helpful.
+<P>
+From Brazil’s favelas and India’s migrant caravans to France’s banlieues and communities of color in the US, it is the poor who have borne the brunt of COVID-19’s health, economic, and psychological costs.
+But reaching those most in need of useful information is a major challenge, because conventional media channels can go only so far, and misinformation is rife on social media.
+Thus, researchers are testing whether recruiting well-connected individuals or “influencers” would ensure that messages are disseminated reliably through pre-existing social networks.
+<P>
+In the meantime, the pandemic has pushed policymakers everywhere to experiment with different strategies for encouraging social distancing, hand washing, and other infection-prevention measures.
+They could consider making some of the existing cash transfers conditional on healthy behavior, as research has found this to be an effective way to mitigate the spread of the virus and improve overall health.
+<P>
+This is another strategy that need not be limited to the current crisis.
+For example, in non-pandemic times, receiving cash disbursements could depend on whether one’s children have been vaccinated or had an annual check-up.
+Policies that encourage healthier lifestyles have become increasingly urgent, given the rising threat from largely preventable non-communicable diseases, which already kill more than 40 million people worldwide each year.
+<P>
+In the absence of in-person data collection during the lockdown, many social science researchers have shifted to using administrative data.
+The data that governments and non-governmental organizations already collect could be enormously useful in testing the efficacy of new programs.
+J-PAL’s Innovations in Data and Experiments for Action (IDEA) Initiative, for example, is building partnerships to help governments improve their use of administrative data.
+The crisis has also forced many research projects to collect data through phone surveys.
+Again, lessons learned from this work will inform research that uses phone surveys for data collection well into the future, enabling governments and NGOs to gather much more accurate information in real time from the communities they serve.
+<P>
+The COVID-19 pandemic is the largest synchronized shock the world has experienced in generations.
+But this crisis will not be the last of its kind.
+We urgently need to learn as much as we can from the current experience and adapt international development practices and research accordingly.
+We must not allow ourselves to be caught off-guard again.

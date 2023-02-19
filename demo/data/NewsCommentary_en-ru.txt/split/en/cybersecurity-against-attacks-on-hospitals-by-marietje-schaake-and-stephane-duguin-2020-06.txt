@@ -1,0 +1,59 @@
+<HEADLINE>
+Ensuring Cybersecurity for Critical Civilian Infrastructure
+<P>
+STANFORD – The COVID-19 pandemic has reminded us that nurses, doctors, and other health-care workers not only play an essential role in keeping us safe and healthy, but also sometimes must risk their own lives and health to do so.
+Throughout the crisis, they have rightly been applauded for their sacrifices.
+But to ensure that they are fully supported in doing their jobs, we also must recognize the importance of the technologies that underpin the modern health-care system.
+We don’t have to applaud software, but we do need to ensure that it is resilient against external threats.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Cybersecurity is crucial for protecting vulnerable communities, and health-care workers are no exception.
+In addition to the challenges they face working overtime to help COVID-19 patients, they also must confront ruthless cyberattacks, just when they have the least bandwidth to defend themselves.
+Using both large-scale ransomware campaigns and highly sophisticated targeting techniques, hackers are singling out hospitals, medical facilities, and vaccine laboratories.
+Over the past two months, such attacks have occurred every three days.
+<P>
+We must do more to protect vulnerable communities wherever they are under attack, understand attackers’ motives and methods, and push for better legal protections and more responsible behavior online.
+If criminals or hostile states were threatening health-care workers with physical weapons, the outcry would be immediate and deafening.
+So why have we not seen a similar reaction to these cyberattacks?
+<P>
+Part of the problem is that we are still playing catch-up.
+Earlier incidents such as the WannaCry and NotPetya ransomware attacks in 2017 did not prompt the serious collective response that they should have.
+In addition, the flood of disinformation – an “infodemic” – during the pandemic has compounded the threat.
+According to the World Health Organization, during a pandemic, an infodemic can be just as dangerous as the virus itself.
+<P>
+But, beyond sector-specific threats, cyberspace also suffers from broader, longstanding problems of accountability.
+There is a persistent lack of consistency in how international law is applied and enforced.
+Many countries have a deep digital divide in technical capacity, and have failed to put human rights at the center of cybersecurity discussions.
+<P>
+It is time to patch these holes, so that we can replace scattershot responses with a systematic and collective approach.
+The pandemic has underscored how much all of us – governments, businesses, and ordinary citizens – depend on cyberspace.
+As a public good, cyberspace should be safe and reliable; and because it is a shared resource, we have a shared responsibility to protect it.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+As digital citizens, we can all contribute to this broader effort.
+Individual behavior – such as exercising greater caution when opening attachments or forwarding emails (which may contain disinformation or malicious code) – can make a significant difference.
+At the same time, cybersecurity experts can have a major impact by pledging time and resources to help health-care professionals combat the latest wave of attacks.
+Civil-society groups, academics, and the news media can raise awareness about the victims of attacks and the methods used.
+And businesses can do more to take responsibility as global players, including by ensuring that their supply chains are secure.
+<P>
+Governments are in a unique position to protect health care and other critical sectors from cyberattacks.
+Through diplomatic, intelligence, and law-enforcement channels, governments have powerful and sophisticated tools to determine the sources and methods of attacks.
+Perhaps most importantly, under existing laws and norms, governments have obligations not only to refrain from carrying out or supporting such attacks, but also to ensure that critical sectors are adequately prepared and protected.
+<P>
+Last month, the CyberPeace Institute joined others around the world in calling on governments to embrace these commitments fully.
+Now more than ever, policymakers and state institutions must use their singular capabilities to protect vulnerable communities and sectors, and to hold those who perpetrate cyberattacks accountable.
+Governments must invest the time, energy, money, diplomacy, and other resources needed to protect the infrastructure and systems upon which modern economic, political, and civilian life depends.
+<P>
+To aid in the effort, the CyberPeace Institute and other organizations have launched Cyber 4 Healthcare, a targeted service to connect health workers and organizations with qualified and reputable companies offering volunteer cybersecurity assistance.
+<P>
+But that is only the beginning.
+In addition to protecting health workers, we need to find ways to assist other critical civilian infrastructure sectors.
+That means extending support to vulnerable groups when they need it, holding governments and other stakeholders accountable to their commitments, and sharing information widely in order to inform law-enforcement agencies and policymakers.
+<P>
+The COVID-19 pandemic is the latest global crisis to highlight the need for a more stable and secure cyberspace for all.
+It certainly won’t be the last.
+Fortunately, when it comes to cyberattacks, we already have a cure.
+It is time to start administering it.

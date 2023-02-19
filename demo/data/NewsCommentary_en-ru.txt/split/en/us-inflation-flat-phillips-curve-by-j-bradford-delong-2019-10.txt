@@ -1,0 +1,54 @@
+<HEADLINE>
+Stop Inflating the Inflation Threat
+<P>
+BERKELEY – In light of current macroeconomic conditions in the United States, I’ve found myself thinking back to September 2014.
+That month, the US unemployment rate dropped below 6%, and a broad range of commentators assured us that inflation would soon be on the rise, as predicted by the Phillips curve.
+The corollary of this argument, of course, was that the US Federal Reserve should begin rapidly normalizing monetary policy, shrinking the monetary base and raising interest rates back into a “normal” range.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Today, US unemployment is 2.5 percentage points lower than it was when we were all assured that the economy had reached the “natural” rate of unemployment.
+When I was an assistant professor back in the 1990s, the rule of thumb was that unemployment this low would lead to a 1.3 percentage point increase in inflation per year.
+If this year’s rate of inflation was 2%, next year’s would be 3.3%.
+And if unemployment remained at the same general level, the inflation rate the following year would be 4.6%, and 5.9% the year after.
+<P>
+But the old rule of thumb no longer applies.
+The inflation rate in the US will remain at about 2% per year for the next several years, and our monetary-policy choices should reflect that fact.
+<P>
+To be sure, the conventional wisdom among economists back in the 1990s was justified.
+Between 1957 and 1988, inflation responded predictably to fluctuations in the rate of unemployment.
+The slope of the simplest possible Phillips curve, when accounting for adaptive expectations, was -0.54: each percentage point decline in unemployment below the estimated natural rate translated into a 0.54 percentage point increase in inflation the following year.
+<P>
+The estimated negative slope of the Phillips curve – that -0.54 figure – between the late 1950s and the late 1980s was drawn largely from six important observations.
+In 1966, 1973, and 1974, inflation rose in a context of relatively low unemployment.
+Then, in 1975, 1981, and 1982, inflation fell amid conditions of relatively high unemployment.
+<P>
+Since 1988, however, the slope of the simplest possible Phillips curve has been effectively zero, with an estimated regression coefficient of just -0.03.
+Even with unemployment far below what economists have presumed was the natural rate, inflation has not accelerated.
+Likewise, even when unemployment far exceeded what economists presumed was the natural rate, between 2009 and 2014, inflation did not fall, nor did deflation set in.
+<P>
+Although the past 30 years have not offered any analogues to the data points furnished by the 1950s-1980s era, there are many who still believe that monetary policymakers should remain focused on the risk of rapidly accelerating inflation, implying that inflation poses a greater threat than the possibility of recession.
+For example, three very sharp economists – Peter Hooper, Frederic S. Mishkin, and Amir Sufi – recently published a paper suggesting that the Phillips curve in America is “just hibernating,” and that estimates showing a near-flat curve over the past generation are unreliable, owing to the “endogeneity of monetary policy and the lack of variation of the unemployment gap.”
+<P>
+I do not understand why they came to this conclusion.
+After all, the computer tells us that the 1988-2018 estimates are probably around three times more precise than the 1957-1987 estimates.
+And besides, the window captured in standard specifications of the Phillips curve is too short to allow for any substantial monetary-policy response.
+<P>
+Yes, an outbreak of inflation could be a threat.
+But the single-minded focus on that risk is the product of a different era.
+It comes from a time when successive US administrations (those of Lyndon Johnson and Richard Nixon) were desperate for a persistently high-pressure economy, and when the Fed chair (Arthur Burns) was eager to accommodate presidential demands.
+Back then, a cartel that controlled the global economy’s key input (oil) was capable of delivering massive negative supply shocks.
+<P>
+If all of these conditions still held, we might be justified in worrying about the return of 1970s-level inflation.
+But they don’t.
+<P>
+It is past time that we stopped denying what the data are telling us.
+Until the structure of the economy and the prevailing economic-policy mix changes, there is little risk that the US will face excessive inflation over the next five years.
+Monetary policymakers would do well to direct their attention to other problems in the meantime.

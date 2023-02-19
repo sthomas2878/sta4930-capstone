@@ -1,0 +1,48 @@
+<HEADLINE>
+Lessons from the Economic-Epidemiological Frontier
+<P>
+LONDON/TURIN/OSLO – COVID-19 has led economists to turn to the models used by epidemiologists as they struggle to understand the dynamics of the pandemic and its likely costs.
+The original epidemic model, commonly known as SIR, was introduced by William Ogilvy Kermack and Anderson Gray McKendrick almost a century ago.
+It divides the population into those susceptible to the disease (S), those infected with it (I), and those who have either recovered or died from it (R).
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In this standard model, an epidemic dies out when those exiting from the I cohort exceed the number of those entering it, owing to a declining stock of susceptible individuals.
+One key feature of the literature is “herd immunity,” which allows for the number of infected people to fall to zero before the number of susceptible people does (meaning that there are some individuals who will avoid the disease altogether).
+<P>
+Economists have studied unemployment dynamics using similar transitions from one state to another, though this work came much later and was developed independently of the epidemiologists’ models.
+A typical contribution is the Diamond-Mortensen-Pissarides matching model, wherein contacts between unemployed workers and firms lead to productive job matches, and thus to a transition from unemployment to employment.
+<P>
+There is a very important difference, however, between contacts that spread disease and those that lead to productive jobs.
+Whereas a single infected person in an epidemic can infect many more people, an employer with a job vacancy can extend an offer to only one worker.
+In economic terms, job vacancies are “exhaustible,” while an infectious disease is “non-exhaustible.”
+<P>
+Exhaustibility introduces a dynamic that has not been studied in the epidemiological literature.
+If news arrives that public places are now host to people with an infectious disease, others will avoid interpersonal interactions, causing an economic downturn and reducing the infection rate.
+The lower infection rate, in turn, will reduce the number of people being infected to below what it would have been with the parameters of the SIRmodel held constant.
+<P>
+Fewer infections implies that convergence toward herd immunity will be slower.
+But, by applying the techniques of labor economics to the epidemiological literature, we can conjecture that the eventual herd-immunity state reached by people avoiding contact with one another will be one that maximizes the number of people who escape infection altogether.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Even so, one might ask whether governments are justified in requiring some degree of social distancing, rather than allowing for voluntary changes in behavior on the part of the public.
+We believe they are, for at least two reasons.
+<P>
+First, although an individual might choose to restrict her social interactions, her exposure when she does enter public spaces (such as a grocery store) will depend on the extent to which everyone else also has chosen to restrict their interactions.
+Hence, the level of contact – and of contagious risk – might be much higher than what the individual actually chose.
+In labor economics, this dynamic is akin to the possibility of “increasing returns” from employment-matching technology – an outcome that has yet to be confirmed in labor markets, but that seems very likely when applied to an epidemic.
+<P>
+Second, during epidemics, governments might need to intervene to reduce the risk of medical services being overwhelmed.
+It is up to the state to “flatten the treatment curve,” because individuals generally will ignore the impact that seeking treatment might have on others.
+<P>
+The main message that emerges from combining economic and epidemiological insights is that the population is better off when herd immunity is delayed through enforced social distancing, even though people’s natural reaction to an epidemic also will tend to reduce the infection rate.
+Though government-mandated restrictions might lead to a longer recession and require more law enforcement, the eventual herd-immunity state will be one in which fewer people were infected, hospitalized, or killed by the disease.
+<P>
+To be sure, complete herd immunity under strict social-distancing measures may take several years to achieve.
+Late in this process, the government might decide that the population is close enough to the finish line to start relaxing its restrictions, such as by reopening schools or certain kind of businesses.
+But if people realize that they can still be infected, they might still choose to distance themselves from others, by working from home, keeping their children out of school, and so forth.
+<P>
+At that point, should governments reverse their social-distancing policies to the point of actually enforcing more activity than individuals might otherwise choose, such as by mandating school attendance?
+That is a difficult question; unfortunately, it will most likely be a long time before policymakers have to answer it.

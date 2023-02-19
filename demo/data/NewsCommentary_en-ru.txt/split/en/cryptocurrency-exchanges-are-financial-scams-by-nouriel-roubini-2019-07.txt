@@ -1,0 +1,62 @@
+<HEADLINE>
+The Great Crypto Heist
+<P>
+NEW YORK – There is a good reason why every civilized country in the world tightly regulates its financial system.
+The 2008 global financial crisis, after all, was largely the result of rolling back financial regulation.
+Crooks, criminals, and grifters are a fact of life, and no financial system can serve its proper purpose unless investors are protected from them.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Hence, there are regulations requiring that securities be registered, that money-servicing activities be licensed, that capital controls include “anti-money-laundering” (AML) and “know your customer” (KYC) provisions (to prevent tax evasion and other illicit financial flows), and that money managers serve their clients’ interests.
+Because these laws and regulations protect investors and society, the compliance costs associated with them are reasonable and appropriate.
+<P>
+But the current regulatory regime does not capture all financial activity.
+Cryptocurrencies are routinely launched and traded outside the domain of official financial oversight, where avoidance of compliance costs is advertised as a source of efficiency.
+The result is that crypto land has become an unregulated casino, where unchecked criminality runs riot.
+<P>
+This is not mere conjecture.
+Some of the biggest crypto players may be openly involved in systematic illegality.
+Consider BitMEX, an unregulated trillion-dollar exchange of crypto derivatives that is domiciled in the Seychelles but active globally.
+Its CEO, Arthur Hayes, boasted openly that the BitMEX business model involves peddling to “degenerate gamblers” (meaning clueless retail investors) crypto derivatives with 100-to-one leverage.
+<P>
+To be clear, with 100-to-one leverage, even a 1% change in the price of the underlying assets could trigger a margin call and wipe out all of one’s investment.
+Worse, BitMEX applies high fees whenever one buys or sells its toxic instruments, and then it takes another bite of the apple by siphoning customers’ savings into a “liquidation fund” that is likely to be many times larger than what is necessary to avoid counter-party risk.
+It is little wonder that, according to one independent researcher’s estimates, liquidations at times account for up to half of BitMEX’s revenue.
+<P>
+BitMEX insiders revealed to me that this exchange is also used daily for money laundering on a massive scale by terrorists and other criminals from Russia, Iran, and elsewhere; the exchange does nothing to stop this, as it profits from these transactions.
+<P>
+As if that were not enough, BitMEX also has an internal for-profit trading desk (supposedly for the purpose of market making) that has been accused of front running its own clients.
+Hayes has denied this, but because BitMEX is totally unregulated, there are no independent audits of its accounts, and thus no way of knowing what happens behind the scenes.
+<P>
+At any rate, we do know that BitMEX skirts AML/KYC regulations.
+Though it claims not to serve US and UK investors who are subject to such laws, its method of “verifying” their citizenship is to check their IP address, which can easily be masked with a standard VPN application.
+This lack of due diligence constitutes a brazen violation of securities laws and regulations.
+Hayes even openly challenged anyone to try to sue him in the unregulated Seychelles, knowing he operates in the shadow of laws and regulations.
+<P>
+Earlier this month, I debated Hayes in Taipei and called out his racket.
+But, unbeknownst to me, he had secured exclusive rights to the video of the event from the conference organizers, and refused for a week to release it in full.
+Instead, he published cherry-picked “highlights” to create the impression that he performed well.
+I suppose this is par for the course among crypto scammers, but it is ironic that someone who claims to represent the “resistance” against censorship has become the father of all censors now that his con has been exposed.
+Finally, shamed in public by his own supporters, he relented and released the video.
+<P>
+On the same day we debated, the United Kingdom’s Financial Conduct Authority proposed an outright ban on retail high-risk crypto investments.
+Yet, barring a concerted response by policymakers, retail investors who are lured into the crypto domain will continue to be suckered.
+Price manipulation is rampant across all the crypto exchanges, owing to pump-and-dump schemes, wash trading, spoofing, front running, and other forms of manipulation.
+According to one study, up to 95% of all transactions in Bitcoin are fake, indicating that fraud is not the exception but the rule.
+<P>
+Of course, it is no surprise that an unregulated market would become the playground of con artists, criminals, and snake-oil salesmen.
+Crypto trading has created a multi-billion-dollar industry, comprising not just the exchanges, but also propagandists posing as journalists, opportunists talking up their own financial books to peddle “shitcoin,” and lobbyists seeking regulatory exemptions.
+Behind it all is an emerging criminal racket that would put the Cosa Nostra to shame.
+<P>
+It is high time that US and other law-enforcement agencies stepped in.
+So far, regulators have been asleep at the wheel as the crypto cancer has metastasized.
+According to one study, 80% of “initial coin offerings” in 2017 were scams.
+At a minimum, Hayes and all the others overseeing similar rackets from offshore safe havens should be investigated, before millions more retail investors get scammed into financial ruin.
+Even US Secretary of the Treasury Steven Mnuchin – no fan of financial regulation – agrees that cryptocurrencies must not be allowed to “become the equivalent of secret numbered accounts,” which have long been the preserve of terrorists, gangsters, and other criminals.

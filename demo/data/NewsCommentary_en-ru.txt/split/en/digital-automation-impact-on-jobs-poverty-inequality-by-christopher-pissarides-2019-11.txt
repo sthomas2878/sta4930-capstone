@@ -1,0 +1,78 @@
+<HEADLINE>
+Why Worry About Automation?
+<P>
+HANGZHOU – From the Luddite movement in the early nineteenth century to the writings of prominent economists like John Maynard Keynes and Wassily Leontief generations later, the prospect of automation has always raised serious concerns about jobs.
+Keynes and Leontief doubted there would be enough jobs left for workers to do.
+Today, facing an onrushing wave of digital automation, many share their unease.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The impact of today’s digital technologies on the labor market raises three questions.
+Will there be enough jobs for workers to do?
+Where will these jobs be?
+And will the compensation be high enough to avoid an increase in poverty and inequality?
+<P>
+The answer to the first question is unequivocal.
+Historical evidence shows that labor-replacing technological innovation does not lead to long-term changes in employment and unemployment rates in industrial countries.
+Keynes talked about “technological unemployment,” and there is no doubt that in the 1920s and the subsequent Great Depression, one of the biggest causes of unemployment in Britain was the decline of coal and other industries in the face of competition from Germany and the United States.
+Workers’ skills and geographic location ruled out quickly redeploying them elsewhere in the economy.
+But that transitional episode eventually passed.
+<P>
+Fear of technological unemployment persists because it is rooted in uncertainty about new job creation.
+New machines’ capabilities enable us to identify the jobs at risk, but not the jobs yet to emerge.
+We have to guess by comparing the capabilities of workers and machines, which often tilts the balance in favor of estimates of net job loss.
+<P>
+But we have abundant evidence of human ingenuity in creating new jobs.
+When Keynes wrote, the service sector in Britain and the US employed about 40% of workers.
+Employment sectors like health and care and the broader travel and hospitality industries were tiny.
+Today each employs more people than manufacturing.
+As John F. Kennedy put it, “[I]f men have the talent to invent new machines that put men out of work, they have the talent to put those men back to work.”
+<P>
+The challenge that all new technologies pose is not that they create too few jobs, but rather that too few workers have the skills to fill them.
+Just as some jobs benefit from the new technologies, while others become obsolete, so, too, some skills become more valuable, while others are substitutable.
+The automobile boosted the value of engineering skills and decreased the value of horse-breeding skills.
+Horse breeders had to learn new skills to maintain their incomes.
+A good sectoral transition for them would have been to the vehicle production or maintenance sectors.
+The sectoral bias of new technologies is a challenge that workers take on and eventually master, but not without objections, at least initially.
+<P>
+The jobs threatened in the early stages of robotics and artificial intelligence were routine or relied on processing data.
+Moving big boxes in warehouses, or loading agricultural produce onto trucks, was easily mechanized.
+Data-processing jobs could be carried out by AI software; a search engine and a few key words could easily replace a paralegal who searches court records for relevant precedents.
+<P>
+These properties led to the polarization of employment, challenging workers to shift to jobs that were either complimentary to the new technologies, such as computer programming or robotics, or to jobs that could not be programmed, such as management consultancy or nursing care.
+These jobs were either more skilled and better paid than the routine jobs, or less skilled and lower-paid, leading to the hollowing of the middle of the income distribution.
+In more recent times, improvements in AI render non-routine jobs vulnerable as well.
+<P>
+The sectoral employment transition is easier where the educational system teaches a broad range of skills, rather than encouraging specialization from an early age, and where flexible labor markets have good retraining facilities.
+Access to finance also is essential in facilitating the transition, enabling start-ups in the new economy to hire some of the displaced workers.
+At the Luohan Academy, we investigated the availability of finance through the digital platforms Alibaba and Ant Financial, which use the information in their big data sets in place of collateral to evaluate loan applications.
+We found that platform economy makes credit accessible to many more people than the traditional banks can reach.
+<P>
+The third question, about inequality, is more difficult to address.
+Economics is good at providing unambiguous answers to questions about the efficiency of labor markets.
+The question of inequality, by contrast, is partly about political choices.
+The sectoral bias of new technologies means that inequality typically increases when they become available.
+Those who succeed in taking advantage of them receive rewards above the rest of the workforce.
+<P>
+The key question, however, should not be whether some people become very rich, but whether the wages of lower-skill people are sufficiently high to avoid poverty.
+This depends partly on company policy, as competition may not work to raise wages when companies grow very large in their local area.
+Companies in the digital era have a choice: They can use technology to substitute capital for labor and keep wages low, or use technology for the good of their workers with a view to longer-term profits.
+In the latter case, worker wellbeing benefits more from the new technology, not necessarily only through higher wages but also through better working and living conditions.
+<P>
+If the new technologies increase economic inequality, but do not increase poverty, some societies may decide not to do anything about it.
+Aversion to inequality is higher in European countries than in the United States, for example, and a variety of redistributive programs are in place to reduce it.
+With sufficient support, policies to offset rising inequality are not difficult to devise.
+The Scandinavian countries have long relied on high taxes to finance extensive social support programs.
+<P>
+Whatever society’s attitude to inequality, the outcome to be avoided is poverty (or near-poverty) wages.
+A mandatory minimum wage or tax inducement to employers to raise low wages may be necessary.
+The point of technological innovation, after all, is not to give people reason to resist it.
+<P>
+The author is a member of the Academic Advisory Board for the Luohan Academy, Hangzhou, where the research for this commentary was undertaken.

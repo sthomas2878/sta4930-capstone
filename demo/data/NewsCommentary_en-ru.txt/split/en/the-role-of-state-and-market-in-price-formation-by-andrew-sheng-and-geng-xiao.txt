@@ -1,0 +1,55 @@
+<HEADLINE>
+Getting Prices Right
+<P>
+HONG KONG – Building and maintaining the infrastructure of property rights – the rules, laws, registers, and administrative and judicial structures that define, protect, and enforce such rights and regulate economic transactions – has traditionally been the responsibility of national governments.
+But, as the world economy has become increasingly interconnected, a global property-rights infrastructure (PRI) has emerged – further raising the stakes of developing effective national PRIs and accurate price-discovery mechanisms.
+<P>
+The global PRI has arisen through countries’ widespread accession to the World Trade Organization, international accounting and regulatory criteria like the Basel Accords, standards established by the International Organization of Securities Commissions, and some aspects of international law.
+As national economies and multinational companies compete for market share, global standards of market behavior become increasingly important.
+<P>
+Consider the smart-phone industry, in which corporations like Apple, Samsung, Sony, Nokia, and Huawei compete fiercely to secure their global market shares.
+Given that companies cannot compete effectively in global markets without a sound domestic PRI, such firm-level competition has driven countries to improve the national PRI over the longer term.
+<P>
+Furthermore, establishing accurate asset-price levels is essential to a well-functioning market.
+The state affects asset prices indirectly through its influence on inflation, interest rates, and the strength of the currency.
+Governments can directly influence the prices of key resources like energy, money, and public goods and services through taxation, customs duties, production quotas, and natural-resource ownership.
+<P>
+Government intervention in benchmark prices can be justified in the name of macroeconomic management or regulatory action to improve the provision of public goods and services.
+After all, the state determines the supply of fiat money and is responsible for energy and natural-resource conservation.
+But there is a risk that the state can get important prices seriously wrong.
+<P>
+This is particularly true of money, which has two prices.
+The government (the visible hand) sets the benchmark price for risk-free financial assets through monetary policy and control over fiscal deficits, while the market (the invisible hand) sets the risk premia of risky assets above the benchmark rate.
+The distinction between the two prices is the foundation of modern finance theory.
+<P>
+But the system rests on the assumption that the government will set accurate benchmark interest rates for risk-free assets.
+As the recent crises in advanced countries demonstrated, this is not a safe assumption: Unsustainable public debt and fiscal deficits forced central banks to expand their balance sheets massively, causing benchmark rates to turn negative in real (inflation-adjusted) terms.
+<P>
+In fact, lowering the benchmark rates for risk-free assets changes the distribution of the risk premia on risky assets, making it too low when asset bubbles are forming and too high when they burst.
+This pattern was evident in the 1997-1998 Asian financial crisis, the 2008 global financial crisis, and the eurozone crisis that erupted in 2010.
+<P>
+The logic and the mechanism that the government uses to set benchmark prices are very different from those that the market uses to set risk premia.
+The former implements policy decisions, based on economic, social, and political considerations, while profit-maximizing behavior – anchored by the state-determined price and requiring a robust PRI – determines the latter.
+<P>
+Thus, the role of the market in price discovery is inextricable from that of the government.
+Indeed, there is a complex, non-linear feedback relationship between the two, so developing an accurate capital-pricing system depends on both actors.
+<P>
+Until recently, advanced-country markets predominated in setting risk premia, owing to their mature and well-functioning PRIs, which include clear rules and a high level of transparency in price formation.
+But, even in advanced countries, the influence of vested interests can lead to collective-action failures and, in turn, to incorrect benchmark rates.
+Last year’s LIBOR scandal, in which banks were found to be reporting inaccurate interest rates in order to manipulate the prices of financial instruments, epitomized this risk.
+<P>
+Meanwhile, given that many emerging economies have incomplete or immature PRIs, their influence over market-price discovery is relatively weak.
+In state-dominated systems like China’s, developing an effective PRI – delineating market participants’ rights and responsibilities, ensuring the exchange platform’s transparency, and creating a fair and equitable process of dispute resolution – is particularly challenging, because the state acts as a regulator, asset owner, enterprise operator, and competitor in the market.
+<P>
+In such systems, the government directly controls the benchmark interest rates.
+But setting the correct rate for risk-free assets is difficult when capital flows easily across borders, enabling market participants to exploit discrepancies between countries’ rates.
+<P>
+Herein lies the dilemma (one that China currently faces) of market-oriented reforms.
+While cross-border capital flows and interest and exchange rates must be liberalized to maintain economic development, such reforms raise the risk of asset bubbles if implemented under distorted benchmark prices.
+<P>
+Emerging economies have watched the leveraged power of investors distort the price-formation process in crisis-stricken advanced economies.
+Preventing this from occurring in emerging economies requires that these countries’ leaders balance monetary, fiscal, and macro-prudential policies in a way that enables correct pricing of risk-free assets.
+<P>
+Striking this balance is made even more complicated by the influence of advanced-country policies on emerging economies.
+Exceptionally low interest rates and quantitative easing may be appropriate for advanced economies experiencing slow growth, but they can be problematic for emerging economies struggling to promote market-oriented price-discovery mechanisms.
+In this environment, it may be appropriate to strengthen the global PRI further.

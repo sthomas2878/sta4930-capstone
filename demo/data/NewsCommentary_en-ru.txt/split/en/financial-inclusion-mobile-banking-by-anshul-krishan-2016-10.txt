@@ -1,0 +1,57 @@
+<HEADLINE>
+Financial Inclusion and Beyond
+<P>
+CAMBRIDGE – Because traditional financial services are not designed for small depositors and borrowers, several non-traditional models have been able to scale up rapidly in this untapped market.
+But, without a strategic policy roadmap to guide further financial-technology (fintech) development, these new “connector” models will remain limited in terms of the services they can provide.
+<P>
+In Kenya, the success of M-Pesa, a mobile payments app, has been nothing short of transformational.
+It took PayPal two NASDAQ listings and almost two decades operating in the world’s largest economy to reach 188 million active customers and $282 billion in annual payments.
+Although M-Pesa has been operating for less than a decade in a much lower-income market, it had nearly 17 million active users conducting more than $50 billion in cashless transactions last year.
+<P>
+Similarly, bKash now dominates the payments system in Bangladesh to such a degree that “bKashing” has become common Bengali parlance, just as “Xeroxing,” “Hoovering,” and “Googling” are in English.
+<P>
+Other models, such as Microensure and Bima, have also gained ground, offering micro-insurance solutions in emerging countries.
+Jan Dhan Yojana, a high-priority Indian federal-government program that provides access to the banking sector for the poor, has enabled 250 million new bank accounts to be opened in less than two years.
+<P>
+New fintech products will have to clear several hurdles to move beyond just improving access to financial services.
+Services fostering financial-inclusion must deliver a high volume of low-value output, which means they often have to rely on partnerships to meet certain consumer demands.
+Problems arise when these partners have their own constraints or different priorities.
+<P>
+For example, Microensure and Bima have made insurance solutions available to millions of people; but their services ultimately depend on independent insurers to allocate capital and underwrite insurance policies.
+Likewise, while there are green shoots of insurance-industry growth in regions like Sub-Saharan Africa, global insurers must constantly adapt to regulatory changes in their primary or home markets, and it is unclear if they have the capacity to expand meaningfully into low-income countries.
+<P>
+Or consider M-Pesa itself.
+Four years ago, it formed a partnership with the Commercial Bank of Africa to add a lending tool, M-Shwari, to its suite of products.
+It has since opened more loan accounts than any Kenyan bank.
+But such accounts still number less than a quarter of active M-Pesa users, and M-Shwari still supports only small 30-day loans.
+M-Shwari is not a core part of either partner’s business.
+<P>
+Nor is it the only product of its kind on the market.
+The most recent competitor to challenge M-Pesa is mVisa, a partnership between Visa Inc. and two other Kenyan banks.
+With $400 million in 2016 revenues at stake, Safaricom – M-Pesa’s parent company – will likely focus on defending its core offering before it tries to introduce new products.
+In Safaricom’s current list of new product priorities to expand financial inclusion, saving-and-loan products are ranked almost last.
+<P>
+Unfettered innovation and entrepreneurship are necessary for connecting the poor to the formal financial system; but, from a policy and development perspective, we need to shift our efforts toward improving the larger ecosystem to realize new fintech products’ full potential.
+<P>
+For example, M-Pesa’s cashless transactions are underpinned by cash contributed by its customers, which is held in trust at any given time.
+Interest income from these funds is currently disbursed through the M-Pesa Foundation.
+With a carefully constructed system, this money could be put to even greater productive use.
+India’s Jan Dhan Yojana program has mobilized an estimated $6 billion from newly acquired customers, which could be used to provide additional tailored products.
+<P>
+Emerging fintech services can take a lesson from the Chinese e-commerce company Alibaba, which was quick in leveraging its payments platform, Alipay.
+After Alibaba launched its money market fund, Yu’e Bao, in June 2013, it began reinvesting its Alipay customers’ unproductive micro-deposits.
+<P>
+By the end of 2015, the Yu’e Bao fund manager was overseeing $165 billion in assets and had converted Alipay’s millions of small, financially unsophisticated savers into investors collecting respectable returns.
+To develop its platform, Alibaba relied on big data to manage the fund’s unique liquidity dynamics; and it benefited from China’s unsettled regulatory framework, though this could change in the future.
+<P>
+The Chinese context may be unique; and, indeed, there are growing concerns about risks inherent in the Yu’e Bao model.
+But regulators and fintech firms should take note of examples like Alipay to develop rational strategic possibilities for this emerging sector.
+Most important, they should remember that access to finance is not an end in itself, but a means to improve one’s lot.
+<P>
+A recent Indian Express investigation revealed what can happen when access to financial services is provided in a vacuum.
+The paper found several instances where officials at Indian public-sector banks were depositing one rupee into customer accounts without customers’ knowledge.
+These officials were apparently under pressure to reduce the number of zero-balance accounts, all of which, it turns out, were related to the Jan Dhan Yojana program.
+<P>
+Similar chicanery, we now know, was a routine practice at the US bank Wells Fargo.
+The difference is that customers at the bottom of the pyramid have few banking alternatives.
+Financial-services access is a much needed start, but it must lead somewhere.

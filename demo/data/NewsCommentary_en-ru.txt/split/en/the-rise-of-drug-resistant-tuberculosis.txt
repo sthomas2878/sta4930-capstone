@@ -1,0 +1,49 @@
+<HEADLINE>
+The Rise of Drug-Resistant Tuberculosis
+<P>
+BALTIMORE -- Tuberculosis, one of the most deadly infectious diseases, is back with a vengeance, especially in Africa.
+Extensively drug-resistant tuberculosis (XDR-TB) is a difficult to treat strain of TB which, attacks where health systems are historically weak, especially in areas of high HIV prevalence.
+Failure to contain local outbreaks, develop tools and strategies for identifying and treating XDR-TB, and invest in longer-term improvements in TB control could transform our pharmacological magic bullets for TB into blanks.
+<P>
+The development of TB chemotherapy from the 1940’s through the 1970’s transformed the once deadly “white plague” into a curable disease.
+But TB treatment has been shadowed by the specter of drug resistance since the dawn of the antibiotic era. Fifteen years ago, an epidemic of multidrug-resistant tuberculosis (MDR-TB) in New York City induced near panic, before a massive infusion of funds into the public health infrastructure turned the tide in the United States, and public interest waned.
+However, the problem of drug resistance has persisted, and efforts to contain it globally have not been sufficient.
+<P>
+Enter XDR-TB.
+The World Health Organization estimates that there were 425,000 new MDR-TB cases in 2004, with China, India, and Russia accounting for just over 60%.
+But it was an outbreak of XDR-TB in HIV-infected people in KwaZulu-Natal, South Africa, that turned the global spotlight on issues of extensively drug-resistant organisms.
+<P>
+In a study at the Church of Scotland Hospital in rural KwaZulu-Natal province of 535 patients who had confirmed tuberculosis, 221 had MDR-TB, a level 10 times greater than in the province as a whole.
+More alarmingly, 53 of the 221 had a strain that was also resistant to the two most clinically useful classes of second-line TB drugs.
+Fifty-two of the 53 died in a median of just 16 days from the time of sputum collection.
+Molecular typing of the isolates indicated that 85% were clonally related, implying epidemic transmission of XDR strains, most likely in HIV clinics and hospital wards.
+<P>
+How did this localized outbreak of XDR-TB emerge?
+Are similar localized outbreaks going unrecognized elsewhere?
+More importantly, can XDR-TB be controlled?
+Resistance to anti-TB drugs arises from selection of naturally occurring mutants with innate resistance to drugs.
+Poor adherence to the therapeutic regimen, improper prescribing by clinicians, and drug interactions or malabsorption can result in partial suppression of bacterial growth and the emergence of resistant organisms.
+Once this resistance develops, treatment is compromised, further resistance can evolve, and resistant organisms can be transmitted to other people, leading to primary drug resistance that may fail to respond to standard therapy.
+<P>
+Effective treatment and cure of MDR-TB requires prolonged use (typically two years) of a combination of drugs, including second-line drugs that for the most part are less potent than first-line agents, more toxic, or both.
+For the past six years, a global effort (called DOTS-Plus) to treat people with MDR-TB under strict conditions has been underway, reaching thousands with previously untreatable TB.
+An unfortunate consequence of treating MDR-TB with second-line drugs, however, is the inevitable emergence of further drug resistance.
+If the same factors that produce MDR-TB remain in play, then MDR-TB becomes XDR-TB.
+<P>
+There is no magic bullet for controlling XDR-TB.
+Addressing drug-resistant TB cannot be divorced from overall TB control efforts.
+Moreover, TB control strategies targeted at populations with high HIV burdens are critically important.
+Such strategies include widespread implementation of TB preventive therapy with isoniazid – which is vastly underused, despite its low cost and known efficacy – and improved detection in HIV-infected people, many of whom die of TB without a diagnosis. Attention must also be paid to infection control in hospitals and clinics: many of the XDR-TB cases in South Africa were acquired in HIV clinics or wards. Access to HIV care, including ART, is also urgently needed, and reducing HIV incidence would substantially reduce the TB burden over the longer term.
+Moreover, the capacity for prompt, accurate laboratory-based diagnosis of TB and drug resistance must be strengthened.
+This will require infrastructure development, as well as reliable systems for procuring supplies, maintaining equipment, and training and retaining personnel.
+<P>
+Enhanced surveillance also is needed.
+The Global Project on Anti-Tuberculosis Drug Resistance Surveillance has collected information on prevalence, patterns, and trends of drug resistance since 1994, focusing on resistance to first-line drugs and contributing much to our understanding of MDR-TB. But surveillance for XDR-TB has been more limited, as drug susceptibility testing for second-line drugs is not well-standardized and for some drugs is poorly reproducible, while few countries perform such testing within the context of their national TB programs.
+<P>
+Priorities for XDR-TB surveillance include facilitating access to reliable susceptibility testing to second-line drugs and incorporating this, together with information about HIV testing, into existing TB surveillance activities.
+<P>
+Last, but not least, the importance of effective advocacy for a more vigorous response to the global TB epidemic cannot be overstated.
+This includes promoting new drugs lines that can enhance the potency of first-line regimens, thereby shortening treatment duration and preventing the emergence of resistance in the first place. But new drugs are not enough.
+On the contrary, introducing them into settings where treatment compliance is not assured and where drug susceptibility testing is not available would likely contribute to even more resistant organisms.
+<P>
+Ultimately health systems must be strengthened to enable health care providers to find TB that is present in communities with more sensitive and specific diagnostic tests, treat TB according to the class of the organism with the latest and most potent drugs, and prevent TB among those who are at risk. These steps may very well ensure that XDR-TB does not engulf the advances made in the past century in the global fight against TB.

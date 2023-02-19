@@ -1,0 +1,50 @@
+<HEADLINE>
+The Negative Way to Growth?
+<P>
+NEW YORK – Monetary policy has become increasingly unconventional in the last six years, with central banks implementing zero-interest-rate policies, quantitative easing, credit easing, forward guidance, and unlimited exchange-rate intervention.
+But now we have come to the most unconventional policy tool of them all: negative nominal interest rates.
+<P>
+Such rates currently prevail in the eurozone, Switzerland, Denmark, and Sweden.
+And it is not just short-term policy rates that are now negative in nominal terms: about $3 trillion of assets in Europe and Japan, at maturities as long as ten years (in the case of Swiss government bonds), now have negative interest rates.
+<P>
+At first blush, this seems absurd: Why would anyone want to lend money for a negative nominal return when they could simply hold on to the cash and at least not lose in nominal terms?
+<P>
+In fact, investors have long accepted real (inflation-adjusted) negative returns.
+When you hold a checking or current account in your bank at a zero interest rate – as most people do in advanced economies – the real return is negative (the nominal zero return minus inflation): a year from now, your cash balances buy you less goods than they do today.
+And if you consider the fees that many banks impose on these accounts, the effective nominal return was already negative even before central banks went for negative nominal rates.
+<P>
+In other words, negative nominal rates merely make your return more negative than it already was.
+Investors accept negative returns for the convenience of holding cash balances, so, in a sense, there is nothing new about negative nominal interest rates.
+<P>
+Moreover, if deflation were to become entrenched in the eurozone and other parts of the world, a negative nominal return could be associated with a positive real return.
+That has been the story for the last 20 years in Japan, owing to persistent deflation and near-zero interest rates on many assets.
+<P>
+One still might think that it makes sense to hold cash directly, rather than holding an asset with a negative return.
+But holding cash can be risky, as Greek savers, worried about the safety of their bank deposits, learned after stuffing it into their mattresses and walls: the number of armed home robberies rose sharply, and some cash was devoured by rodents.
+So, if you include the costs of holding cash safely – and include the benefits of check writing – it makes sense to accept a negative return.
+<P>
+Beyond retail savers, banks that are holding cash in excess of required reserves have no choice but to accept the negative interest rates that central banks impose; indeed, they could not hold, manage, and transfer those excess reserves if they were held as cash, rather than in a negative-yielding account with the central bank.
+Of course, this is true only so long as the nominal interest rate is not too negative; otherwise, switching to cash – despite the storage and safety costs – starts to make more sense.
+<P>
+But why would investors accept a negative nominal return for three, five, or even ten years?
+In Switzerland and Denmark, investors want exposure to a currency that is expected to appreciate in nominal terms.
+If you were holding Swiss franc assets at a negative nominal return right before its central bank abandoned its euro peg in mid-January, you could have made a 20% return overnight; a negative nominal return is a small price to pay for a large capital gain.
+<P>
+And yet negative bonds yields are also occurring in countries and regions where the currency is depreciating and likely to depreciate further, including Germany, other parts of the eurozone core, and Japan.
+So, why are investors holding such assets?
+<P>
+Many long-term investors, like insurance companies and pension funds, have no alternative, as they are required to hold safer bonds.
+Of course, negative returns make their balance sheets shakier: a defined-benefit pension plan needs positive returns to break even, and when most of its assets yield a negative nominal return, such results become increasingly difficult to achieve.
+But, given such investors' long-term liabilities (claims and benefits), their mandate is to invest mostly in bonds, which are less risky than stocks or other volatile assets.
+Even if their nominal returns are negative, they must defer to safety.
+<P>
+Moreover, in a “risk-off" environment, when investors are risk-averse or when equities and other risky assets are subject to market and/or credit uncertainty, it may be better to hold negative-yielding bonds than riskier and more volatile assets.
+<P>
+Over time, of course, negative nominal and real returns may lead savers to save less and spend more.
+And that is precisely the goal of negative interest rates: In a world where supply outstrips demand and too much saving chases too few productive investments, the equilibrium interest rate is low, if not negative.
+Indeed, if the advanced economies were to suffer from secular stagnation, a world with negative interest rates on both short- and long-term bonds could become the new normal.
+<P>
+To avoid that, central banks and fiscal authorities need to pursue policies to jump-start growth and induce positive inflation.
+Paradoxically, that implies a period of negative interest rates to induce savers to save less and spend more.
+But it also requires fiscal stimulus, especially public investment in productive infrastructure projects, which yield higher returns than the bonds used to finance them.
+The longer such policies are postponed, the longer we may inhabit the inverted world of negative nominal interest rates.

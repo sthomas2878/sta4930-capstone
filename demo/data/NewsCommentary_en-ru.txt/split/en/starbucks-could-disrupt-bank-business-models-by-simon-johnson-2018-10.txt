@@ -1,0 +1,57 @@
+<HEADLINE>
+The First Bank of Starbucks
+<P>
+WASHINGTON, DC – On August 3, Starbucks made an announcement which, though little noticed at the time, amounts to a potentially massive shift in the organization of finance.
+How did an international chain of coffee shops position itself to play a major role in upending not just how payments are made but also the business model of established banks?
+<P>
+In a word: technology.
+The financial system is full of legacy costs and inefficiencies, and the incumbent major banks are generally happy to maintain existing arrangements.
+But technological advances now make it possible for big tech companies to compete for the profits of the financial sector – if they can find the right partners.
+<P>
+Starbucks matters because it has a strong consumer brand and, in particular, because around 15 million people use the Starbucks Rewards system – which stores value that is typically accessed through an app on people’s phones.
+Behind that system currently is a credit card, charging significant fees to people who transfer value to Rewards in the Starbucks app.
+Starbucks, like all merchants, pays those fees, which are not fully transparent to consumers – but which of course add to the cost of a cup of coffee.
+(Full disclosure: I have the Starbucks app and use it regularly.)
+<P>
+One key partner for Starbucks in this new venture is Intercontinental Exchange (commonly known as ICE; not to be confused with the controversial US Immigration and Customs Enforcement agency).
+Retail consumers do not usually think about an entity such as ICE.
+It runs marketplace infrastructure, including the New York Stock Exchange as well as a much broader set of derivative and over-the-counter markets.
+In the post-financial-crisis world, ICE has done well by running well-organized and properly regulated markets.
+Seen from this perspective, ICE is a tech company, albeit one with a focused area of expertise.
+<P>
+The Internet has no central authority, and no one needs anyone’s permission to connect a computer to the network, build a website, or offer a completely new kind of business model.
+The financial system, on the other hand, does have a central official authority.
+In the United States, it’s the Federal Reserve, and there a large number of rules – made by the Fed as well as other federal, state, and self-regulatory bodies – regarding how one may send money or extend credit.
+Many of these rules, such as those to protect consumers, make sense; but the overall result is to protect incumbents – banks and credit card companies – against competitive pressure.
+<P>
+There is, of course, another long-established way to organize finance outside of banks – through markets.
+In the US, the relevant regulators are the Commodity Futures Trading Commission (CFTC), whose primary role is to ensure fair market operation and the protection of investors against scams in commodity derivative markets, and the Securities and Exchange Commission (SEC), which oversees how securities are issued to the investing public across all financial markets.
+The CFTC and SEC are happy to encourage innovation that is consistent with their mandates.
+<P>
+Traditionally, the operation of commodity markets – corn, pork bellies, silver, and the like – has been quite distant from retail payments in stores like Starbucks.
+However, new technology is closing – or perhaps has already closed – this gap.
+<P>
+At the heart of this latest technological development is the much-maligned development of cryptocurrencies, including Bitcoin.
+<P>
+Bitcoin, Ethereum, and other cryptocurrencies have become associated in recent years with price volatility, rampant speculation, and – to be frank – a great deal of theft.
+The original idea behind these new forms of payment was that a decentralized peer-to-peer monetary system should be preferable to one run by governments, which could and would cheat individuals.
+<P>
+The flaw in this logic, of course, is that people rip off people just as much (and sometimes more) than governments do.
+This dawning realization has cast a pall over the cryptocurrency market.
+<P>
+But the idea that people may behave badly in market transactions is nothing new to commodity markets, to the CFTC, or to ICE.
+In fact, companies like ICE prosper when they provide adequate security, good customer service, and market integrity.
+For example, problems with the operations of some markets – reflected in the price-fixing scandal regarding Libor (London Interbank Offered Rate), a benchmark interest rate – became apparent in 2007 and 2008.
+Smart infrastructure operators have embraced the changes that were legislated under the 2010 Dodd-Frank financial reform legislation and implemented by the CFTC.
+<P>
+The Starbucks-ICE backed company is known as Bakkt.
+Microsoft will provide the cloud services, and a Who’s Who of tech investing is lined up to provide funding and advice.
+While more details of how Bakkt will operate are expected in November, the August announcement made it clear that Bitcoin one-day futures contracts will play a significant role.
+<P>
+The future of finance is not likely to be fully decentralized.
+There will be intermediaries of some kind.
+Banks and credit card companies can be expected to devise a competitive response, and it remains to be seen who will prevail.
+It is also unclear to what extent profits will simply be transferred from incumbents to new powerful entrants.
+<P>
+Still, the chances are high that consumers will gain from this latest innovation – and that there will be positive spillover effects in other areas of finance, as it becomes easier to bypass establishment payment mechanisms.
+In the meantime, expect a lot more “free” coffee.

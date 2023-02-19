@@ -1,0 +1,67 @@
+<HEADLINE>
+The Problem With Evidence-Based Policies
+<P>
+CAMBRIDGE – Many organizations, from government agencies to philanthropic institutions and aid organizations, now require that programs and policies be “evidence-based.”
+It makes sense to demand that policies be based on evidence and that such evidence be as good as possible, within reasonable time and budgetary limits.
+But the way this approach is being implemented may be doing a lot of harm, impairing our ability to learn and improve on what we do.
+<P>
+The current so-called “gold standard” of what constitutes good evidence is the randomized control trial, or RCT, an idea that started in medicine two centuries ago, moved to agriculture, and became the rage in economics during the past two decades.
+Its popularity is based on the fact that it addresses key problems in statistical inference.
+<P>
+For example, rich people wear fancy clothes.
+Would distributing fancy clothes to poor people make them rich?
+This is a case where correlation (between clothes and wealth) does not imply causation.
+<P>
+Harvard graduates get great jobs.
+Is Harvard good at teaching – or just at selecting smart people who would have done well in life anyway?
+This is the problem of selection bias.
+<P>
+RCTs address these problems by randomly assigning those participating in the trial to receive either a “treatment” or a “placebo” (thereby creating a “control” group).
+By observing how the two groups differ after the intervention, the effectiveness of the treatment can be assessed.
+RCTs have been conducted on drugs, micro-loans, training programs, educational tools, and myriad other interventions.
+<P>
+Suppose you are considering the introduction of tablets as a way to improve classroom learning.
+An RCT would require that you choose some 300 schools to participate, 150 of which would be randomly assigned to the control group that receives no tablets.
+Prior to distributing the tablets, you would perform a so-called baseline survey to assess how much children are learning in school.
+Then you give the tablets to the 150 “treatment” schools and wait.
+After a period of time, you would carry out another survey to find out whether there is now a difference in learning between the schools that received tablets and those that did not.
+<P>
+Suppose there are no significant differences, as has been the case with four RCTs that found that distributing books also had no effect.
+It would be wrong to assume that you learned that tablets (or books) do not improve learning.
+What you have shown is that that particular tablet, with that particular software, used in that particular pedagogical strategy, and teaching those particular concepts did not make a difference.
+<P>
+But the real question we wanted to answer was how tablets should be used to maximize learning.
+Here the design space is truly huge, and RCTs do not permit testing of more than two or three designs at a time – and test them at a snail’s pace.
+Can we do better?
+<P>
+Consider the following thought experiment: We include some mechanism in the tablet to inform the teacher in real time about how well his or her pupils are absorbing the material being taught.
+We free all teachers to experiment with different software, different strategies, and different ways of using the new tool.
+The rapid feedback loop will make teachers adjust their strategies to maximize performance.
+<P>
+Over time, we will observe some teachers who have stumbled onto highly effective strategies.
+We then share what they have done with other teachers.
+<P>
+Notice how radically different this method is.
+Instead of testing the validity of one design by having 150 out of 300 schools implement the identical program, this method is “crawling” the design space by having each teacher search for results.
+Instead of having a baseline survey and then a final survey, it is constantly providing feedback about performance.
+Instead of having an econometrician do the learning in a centralized manner and inform everybody about the results of the experiment, it is the teachers who are doing the learning in a decentralized manner and informing the center of what they found.
+<P>
+Clearly, teachers will be confusing correlation with causation when adjusting their strategies; but these errors will be revealed soon enough as their wrong assumptions do not yield better results.
+Likewise, selection bias may occur (some places may be doing better than others because they differ in other ways); but if different contexts require different strategies, the system will find them sooner or later.
+This strategy resembles more the social implementation of a machine-learning algorithm than a clinical trial.
+<P>
+In economics, RCTs have been all the rage, especially in the field of international development, despite critiques by the Nobel laureate Angus Deaton, Lant Pritchett, and Dani Rodrik, who have attacked the inflated claims of RCT’s proponents.
+One serious shortcoming is external validity.
+Lessons travel poorly: If an RCT finds out that giving micronutrients to children in Guatemala improves their learning, should you give micronutrients to Norwegian children?
+<P>
+My main problem with RCTs is that they make us think about interventions, policies, and organizations in the wrong way.
+As opposed to the two or three designs that get tested slowly by RCTs (like putting tablets or flipcharts in schools), most social interventions have millions of design possibilities and outcomes depend on complex combinations between them.
+This leads to what the complexity scientist Stuart Kauffman calls a “rugged fitness landscape.”
+<P>
+Getting the right combination of parameters is critical.
+This requires that organizations implement evolutionary strategies that are based on trying things out and learning quickly about performance through rapid feedback loops, as suggested by Matt Andrews, Lant Pritchett and Michael Woolcock at Harvard’s Center for International Development.
+<P>
+RCTs may be appropriate for clinical drug trials.
+But for a remarkably broad array of policy areas, the RCT movement has had an impact equivalent to putting auditors in charge of the R&D department.
+That is the wrong way to design things that work.
+Only by creating organizations that learn how to learn, as so-called lean manufacturing has done for industry, can we accelerate progress.

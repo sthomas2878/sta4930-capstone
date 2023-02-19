@@ -1,0 +1,77 @@
+<HEADLINE>
+The Measure of Financial Regulators’ Independence
+<P>
+LONDON – There is a vast academic literature on central bank independence, and central bank governors address the topic at every opportunity.
+Most of the academic papers, and all of the governors, argue that a high degree of independence is associated with low inflation and monetary stability.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Some of these academic studies question the direction of causation, asking whether countries with highly inflation-averse populations – Germany being the most obvious example – are inclined to favor robust independence.
+But there is wide support for the general proposition that taking politicians out of the process of setting interest rates is associated with lower and more stable inflation.
+There is much evidence that, previously, the electoral cycle influenced interest-rate decisions, with damaging consequences.
+<P>
+Much less attention has been paid to the independence of financial regulators and, especially, banking supervisors.
+Many of the latter are of course part of central banks, but by no means all of them are.
+<P>
+Around a third of countries with significant banking systems operate with supervisors outside the central bank.
+That is true of Sweden, Japan, and Australia, for example.
+And in some cases, different independence regimes apply to monetary policy and supervision, even where both are brigaded within the central bank.
+<P>
+The question of how independent bank supervisors are is of more than theoretical interest.
+Regulatory and supervisory independence is one of the Basel Committee on Banking Supervision’s core principles.
+Yet according to the International Monetary Fund, it is the one with the lowest level of compliance across the countries the Fund reviews.
+<P>
+Banking supervisors’ perceived lack of independence in some eurozone countries was one of the reasons for establishing the European Union’s banking union.
+There is evidence that banks with direct political involvement were subject to indulgent supervision and performed especially poorly in the 2008 global financial crisis.
+Their bad debts were higher than might have been expected.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+More recently, there have been questions about the closeness of German supervisors to the country’s finance ministry.
+After the accounting scandal that brought about the insolvency of the payment processing and financial services firm Wirecard, the European Securities and Markets Authority pointed to “a heightened risk of influence by the Ministry of Finance given the frequency and detail of reporting” in the Wirecard case.
+<P>
+Against this background, the Bank of England has produced timely new research on the link between regulatory independence and financial stability.
+The authors construct a novel index of independence that resembles the indices used in the monetary policy arena, but with differences in some areas.
+<P>
+The BOE paper incorporates the procedures for appointing the head of the regulator: Is there a degree of independence in the process?
+How long is the head’s term?
+How easy is it to dismiss him or her?
+<P>
+The authors also look at the supervisor’s ability to impose regulations without political approval, and at the budget process.
+Some can fund themselves through a power to levy fees on regulated firms; others need to go cap in hand to the government or legislature for money, creating the possibility of political lobbying by banks to starve the regulator of funds.
+<P>
+Having constructed the index, the authors then examine whether supervisory independence is positively correlated with financial stability.
+Compared to monetary stability, financial stability is a slippery concept.
+We tend to discover all too painfully when it is absent, but attempts to develop indices of its presence have proven to be difficult.
+Many explain the last crisis very well, but are somewhat less useful for predicting the next one.
+<P>
+As a proxy for financial stability, the BOE authors choose the level of non-performing loans in the banking system.
+It is not a perfect measure, perhaps, but it has the benefit of being available, on a broadly comparable basis, across a range of countries and for a meaningful number of years.
+<P>
+Mapping the two datasets against each other produces strong conclusions.
+There has been a steady increase in supervisory independence over the last 20 years.
+And, in the authors’ words, “reforms that bring greater regulatory and supervisory independence are associated with lower non-performing loans in banks’ balance sheets [and]…overall, our results show that increasing the independence of regulators and supervisors is beneficial for financial stability.”
+<P>
+Furthermore, they produce evidence that the tougher oversight associated with independent supervisors does not adversely affect the efficiency or profitability of the banking system.
+One might reasonably be concerned that tighter supervision might impose costly constraints, yet that does not seem to be the case.
+Bank efficiency, defined as the cost-to-income ratio, tends to improve when supervisors are made more independent.
+And there is no negative impact on banks’ bottom line.
+<P>
+So what’s not to like?
+Are we in “free lunch” territory?
+<P>
+Not quite.
+There is one drawback, which may give politicians pause.
+The relationship between independence and the quantum of bank lending is negative.
+In other words, if independent supervisors are more rigorous, banks tend to lend a little less.
+The scale of the effect is not dramatic, but it is negative and it is significant.
+<P>
+It is possible that this effect is transitional and would fade as more disciplined supervision is maintained.
+Moreover, the lending that has not taken place might have been to non-viable companies or over-extended consumers.
+It is not obvious that such lending is especially beneficial to growth and productivity.
+<P>
+In the public domain at least, regulatory and supervisory independence has not acquired the reputation of central bank independence.
+It doesn’t have its own well-used acronym, like CBI.
+When RSI is used, it typically refers to repetitive strain injury.
+The BOE research adds up to a strong case for changing that.

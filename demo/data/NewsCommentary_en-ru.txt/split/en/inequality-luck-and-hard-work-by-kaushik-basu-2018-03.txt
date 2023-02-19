@@ -1,0 +1,58 @@
+<HEADLINE>
+The Ethics of Reducing Inequality
+<P>
+NEW YORK – Around the world, the effects of alarmingly high economic inequality are spilling over into politics and society.
+Economic insecurity is a driving force behind violent conflicts in the Middle East and the rise of fascist elements in some European countries, not least Hungary and Poland.
+Even in older democracies such as the United States, economic marginalization has led to a strengthening of chauvinist and supremacist identities and other social problems such as the opioid epidemic.
+<P>
+These trends have been ongoing for some time.
+But, according to Branko Milanovic of the City University of New York, a big shift occurred between 1988 and 2008.
+During this period of “high globalization,” the two segments of the world making gains were the wealthiest 1% in rich and poor countries and the middle class in a few Asian countries – namely China, India, Indonesia, Thailand, and Vietnam.
+Meanwhile, the World Bank has shown that 766 million people – around 10% of the global population – were still living below the extreme-poverty threshold of $1.90 per day as of 2013.
+<P>
+Much has been written about the policies needed to rectify this dismal picture.
+And yet, powerful voices in both rich and developing countries – and, tragically, even among the misinformed poor – claim that current income disparities are fair because they are a result of free markets.
+Convincing them to support remedial interventions, then, will require a deeper look at the underlying logic and morality of inequality.
+<P>
+I was thinking about this as I read Chris Hughes’s marvelous book Fair Shot: Rethinking Inequality and How We Earn.
+Hughes co-founded Facebook with Mark Zuckerberg and is now staggeringly wealthy at the ripe age of 34.
+His book gives a moving account of growing up in small-town North Carolina, trying awkwardly to fit in with the “white, wealthy kids,” eventually coming out as gay, and doing well enough in school to gain admission to Harvard University.
+<P>
+Hughes ended up rooming with Zuckerberg, which was sheer luck.
+Indeed, a large part of his book deals with the role of luck in determining individual success.
+Though Hughes’s father taught him that realizing the “American dream” is a matter of pulling oneself up by one’s bootstraps, Hughes eventually reached the opposite conclusion.
+“My success at Facebook,” he writes, “taught me that seemingly small events like who you choose to room with in college can have an outsized impact on the rest of your life.”
+<P>
+Hughes’s solution to the problem of inequality is to tax the rich in order to provide a guaranteed minimum income to the lower and middle classes.
+It is heartening that at least some of America’s wealthiest individuals are honest enough to recognize the unfairness of the system, even though they have done well by it.
+<P>
+To understand the logic and morality of inequality, it is worth digging further into what Hughes says about luck.
+It is not just that one part of his wealth is due to luck; rather, all of it is.
+Luck determined that Hughes would be smart enough to get into Harvard and then meet Zuckerberg once there.
+Likewise, it was luck that Zuckerberg had learned Atari BASIC programming from his father when he was a child.
+<P>
+Some try to counter this by pointing out that hard work also matters.
+But that is beside the point.
+After all, whether or not one has a strong work ethic is itself due to luck, because it depends on one’s genetic make-up, environment, and upbringing.
+Thus, the primacy of luck as a determinant of wealth means that there is no moral justification for economic inequality.
+<P>
+At this point, many well-intentioned radicals will conclude that we must therefore have total equality.
+But the “therefore” is invalid.
+Ensuring fairness and equity are important, to be sure, but so is eradicating poverty and improving opportunities for the middle class.
+Under current conditions, pushing for absolute equality could erode the incentive to work, leading to widespread economic breakdown.
+We have already seen this happen with many well-meaning social experiments in the past.
+<P>
+We will have to strike a balance.
+Today’s unacceptably high inequality demands interventions to improve education and health, as well as redistributive taxation of the kind that Hughes recommends; but it also requires us to tolerate some income disparities to keep people and economies working.
+<P>
+Hughes’s proposal for a minimum guaranteed income is a step in the right direction, but it would be a mistake to view it as the panacea.
+For the sake of argument, assume that the poorest half of the population cannot afford some vaccine that would ensure them basic good health.
+One might think that giving everyone a minimum guaranteed income would correct this injustice.
+<P>
+But now assume that there is only enough of some critical resource to produce vaccines for half the population.
+In this scenario, it wouldn’t matter how much money you give to the poorest half of the population: the price of the drug would keep rising to the point where only the wealthiest half the population could afford it.
+Under conditions of scarcity, the only way to ensure a fair outcome would be to award the vaccines through a lottery.
+<P>
+The effectiveness of a guaranteed income, then, depends on the underlying general equilibrium of the economy.
+The vaccine scenario is just one example of the kind of complications that can arise.
+For Hughes’s scheme to work, we will have to identify many more possible contingencies, and then design a system to preempt them.

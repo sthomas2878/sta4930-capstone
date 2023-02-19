@@ -1,0 +1,58 @@
+<HEADLINE>
+Intellectual Property, Not Intellectual Monopoly
+<P>
+WASHINGTON, DC – “The copyright and patent laws we have today look more like intellectual monopoly than intellectual property,” wrote Brink Lindsey and Steven Teles in their recent book about the US economy.
+Concerns about overprotection of intellectual property acting as a barrier to innovation and its diffusion are not new.
+But they have gained greater salience now that knowledge has emerged as a dominant driver of economic activity and competitive advantage.
+<P>
+Digital technologies have enabled the emergence of an “intangible economy,” based on soft assets like algorithms and lines of code, rather than physical assets like buildings and machinery.
+In this environment, intellectual-property rules can now make or break business models and reshape societies, as they determine how economic gains are shared.
+<P>
+Yet the main features of today’s IP regime were established for a very different economy.
+Patent rules, for example, reflect the long-held assumption that strong protection provides an essential incentive for businesses to pursue innovation.
+In fact, recent studies by Petra Moser and Heidi Williams, among others, find little evidence that patents boost innovation.
+On the contrary, because they lock in incumbents’ advantages and drive up the costs of new technology, such protections are associated with less new or follow-on innovation, weaker diffusion, and increased market concentration.
+This has contributed to growing monopoly power, slowing productivity growth, and rising inequality in many economies over the past couple of decades.
+<P>
+Patents also invite considerable lobbying and rent-seeking.
+A majority of patents are used not to produce commercial value, but to create defensive legal thickets that can keep potential competitors at bay.
+As the system expands, patent trolling and litigation soar.
+Lawsuits by patent trolls comprise more than three-fifths of all lawsuits for IP infringement in the US, and cost the economy an estimated $500 billion in 1990-2010.
+<P>
+Some argue that the patent system should simply be dismantled.
+But that would be too radical an approach.
+What is really needed is a top-to-bottom reexamination of the system, with an eye to changing excessively broad or stringent protections, aligning the rules with current realities, and enabling competition to drive innovation and technological diffusion.
+<P>
+One set of reforms to consider would focus on improving institutional processes, such as by ensuring that the litigation system does not favor patent holders excessively.
+Other reforms concern the patents themselves, and include shortening patent terms, introducing use-it-or lose-it provisions, and instituting stricter criteria that limit patents to truly meaningful inventions.
+<P>
+The key to success may lie in replacing the “one-size-fits-all” approach of the current patent regime with a differentiated approach that may be better suited to today’s economy.
+Patents typically carry terms of 20 years (copyright protections run for 70-plus years).
+But while a relatively long patent term may be appropriate for pharmaceutical innovations, which involve protracted and expensive testing, the case is less clear-cut for most other industries.
+In digital technologies and software, for example, new advances have much shorter gestation periods and typically build on previous innovations in an incremental fashion, meaning that much shorter patent terms may be appropriate.
+<P>
+Of course, if regulators do decide to tailor patents to different types of innovations, they must take care not to complicate patent regimes excessively.
+Finding the right combination of reforms would inevitably require some experimentation, as well as the careful monitoring of outcomes, so that necessary adjustments could be made.
+<P>
+But designing the right reforms is only part of the challenge: powerful vested interests will make reform politically difficult.
+Fortunately, the case for reform of the decades-old patent system could not be stronger.
+If the system’s defenders truly seek to promote innovation, they should welcome it in their own backyard.
+<P>
+Patents, however, are not the only important element of the innovation ecosystem.
+Governments also promote innovation through direct funding of research and development and through fiscal incentives.
+And here, too, action is needed.
+<P>
+Government R&D spending focuses on supplying the public good of basic research, which often produces knowledge spillovers that benefit the economy at large.
+Yet in the US, government R&D spending has fallen from 1.2% of GDP in the early 1980s to half that level in recent years.
+This underscores the need to revitalize public research programs and ensure broad access to their discoveries.
+<P>
+Moreover, R&D incentives for the private sector – provided through tax relief, grants, or prizes – must be made accessible to firms in an equitable way.
+Patent reform could complement such reforms, say, by prohibiting patents from government-supported research, which should be available to all market participants.
+<P>
+Many breakthrough innovations developed commercially by private firms originate from government-supported research.
+Recent examples include Google’s basic search algorithm, key features of Apple smartphones, and even the Internet itself.
+Governments should consider how to give taxpayers a stake in such profitable outcomes from publicly supported research, not least to replenish public R&D budgets.
+Here, the tax system has an important role to play.
+<P>
+More broadly, in an increasingly knowledge-intensive economy, public policy should seek to democratize innovation, in order to boost the creation and dissemination of new ideas and promote healthy competition.
+And that means overhauling an intellectual-property system that is moving in the opposite direction.

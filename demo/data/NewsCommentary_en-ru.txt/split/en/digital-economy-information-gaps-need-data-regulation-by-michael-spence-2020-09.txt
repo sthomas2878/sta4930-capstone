@@ -1,0 +1,65 @@
+<HEADLINE>
+Minding the Digital Economy’s Narrowing Gaps
+<P>
+MILAN – Informational asymmetries between buyers and sellers have long been known to impair market performance.
+But thanks to digital technology and the large, accessible pools of data that it generates, these informational gaps are closing, and the asymmetries are declining.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Until recently, market formation has been circumscribed by physical and geographical boundaries.
+A prerequisite for a market to form is that buyers and sellers are able to find each other, and this process has traditionally been accomplished in physical spaces like bazaars, stock exchanges, stores, or dealerships (albeit with intermediaries using phones and fax machines to facilitate transactions).
+Things started to change with eBay, the original model for many online marketplaces.
+Suddenly, geographical boundaries no longer operated as insurmountable barriers between widely dispersed buyers and sellers.
+<P>
+Arguably, freeing markets from geographical constraints has had the greatest impact on market access for remote populations.
+In many places globally, and for subsets of potential consumers everywhere, online channels can be the only practical option for accessing a wide range of goods and services, including primary health care and education.
+This applies to both the demand and the supply side.
+And because consumers enjoy expanded access to goods and services, sellers and producers can scale up dramatically to meet the increased demand.
+In China, for example, the digital expansion of the potential market for small and medium-size enterprises was a major impetus for much of Alibaba’s development, demonstrating how digital technologies, together with the rapid growth of the mobile Internet globally, can drive more inclusive growth patterns.
+<P>
+As online marketplaces developed, however, it soon became clear that additional information issues would need to be addressed for these markets to function effectively.
+For example, because it is difficult for buyers to detect variations in quality among sellers and among goods and services offered online, more information was needed to capture the reliability or trustworthiness of market participants.
+The problem is essentially the same for both buyers and sellers, with the former worrying about receiving what she pays for and the latter worrying about being paid.
+<P>
+It is precisely this kind of bilateral information asymmetry that prevents market formation or limits market exchange in the first place.
+Hence, a number of digital-payment platforms initially were created to address online markets’ fundamental “trust” problem.
+Following the model of escrow systems that are familiar in real-estate transactions, e-commerce platforms created intermediaries that they hoped would be trusted to collect and hold payments from buyers until delivery of the goods or services had been confirmed.
+<P>
+In the case of Alipay in China and Mercado Pago in Latin America, these systems were initially designed to accelerate the uptake of e-commerce platforms, but over time evolved into mobile-payments systems used offline and throughout the entire economy.
+This process is very advanced in China, while cash continues to hold on in Latin America.
+Not only have these systems yielded a growing trove of tremendously valuable data, but they have also allowed market-making platforms to become more powerful with each transaction, as the data accumulates.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Ratings of sellers (and sometimes buyers) and products are now a common feature of online marketplaces, and studies indicate that they are highly influential in buyer decision-making.
+But for this function to serve its proper purpose, the platforms needed to develop additional systems and safeguards to prevent ratings manipulation, and to stop banned users from reappearing under a new handle.
+Thus, in addition to closing information gaps, ratings also create incentives for market participants to behave better.
+<P>
+As more and more “stuff” appeared in online marketplaces, users starting having difficulties finding what they were looking for, because they could not browse through options in the same way that one does when shopping in a physical store.
+To address this issue, online platforms developed search algorithms and recommendation engines based not only on individual users’ browsing and purchase history, but also on behavioral data from all other users.
+These algorithms have been further improved by advances in artificial intelligence and increases in the volume and quality of data.
+Search and recommendation engines are a partial solution to the “matching problem,” and thus a key source of online market performance.
+They add value for both buyers and sellers, and boost transaction volume substantially, especially for lesser-known sellers and brands.
+<P>
+Moreover, because it is widely available and inexpensive to access, online information has reduced information asymmetries beyond the realm of e-commerce.
+For example, markets in automobiles, health care, and insurance have also been transformed, even in the offline world, leaving consumers better informed and more empowered vis-à-vis sellers.
+<P>
+A final informational challenge relates to access, specifically giving consumers accessible online identities and tracking records that signal their attractiveness as counterparties in a variety of market settings.
+<P>
+Credit is a good example.
+In the offline world, people and businesses have track records and financial histories that hypothetically could be used to underpin credit or insurance markets.
+The problem is that these offline records tend to be scattered and inaccessible, whereas in the digital economy – especially following the high penetration of mobile payments and e-commerce – they become easily retrievable and far more useful.
+Like knowledge, data is non-rival: using it does not diminish its value for further use or for use by multiple parties.
+<P>
+AI algorithms can be deployed to assess and price credit for people and businesses with no collateral and little prior contact with the traditional non-digital economy and financial sectors.
+As in platform-based evaluation systems, informational gaps are reduced and incentives are improved, while market access is expanded for households and small businesses.
+<P>
+In short, data-driven digital markets have evolved from struggling with informational gaps to having higher informational density than their offline counterparts, leaving fewer information gaps and asymmetries.
+The accessibility of digital data allows for new screening mechanisms and signaling behavior that are frequently missing in the offline world.
+<P>
+Of course, highly accessible stores of data come with own real and much discussed risks, and these must be addressed in order to achieve the potential efficiencies and inclusivity benefits on offer.
+<P>
+After all, the institutions (including governments) that collect data and act as digital gatekeepers must be trusted, too.
+At a minimum, they must be subject to enforceable regulation that provides clear definitions of individuals’ rights with respect to transparency, data use, privacy, and security.
+Here, arguably, we are making progress, but we still have a long way to go.

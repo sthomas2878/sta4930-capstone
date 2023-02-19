@@ -1,0 +1,50 @@
+<HEADLINE>
+Pollution by the Numbers
+<P>
+MEXICO CITY – The Great Chinese Famine, which peaked in 1960, was the world’s largest on record.
+But the effects of that famine – including its toll of more than 30 million deaths – were not quantified until long after the fact.
+That was partly because government officials were afraid to bring whatever information they had to the attention of Mao Zedong, whose Great Leap Forward policy had played a role in causing the famine.
+But it was also because so few people actually understood the scale of the problem, owing to a lack of data.
+Is air pollution today’s great famine?
+<P>
+In recent decades, data collection has improved dramatically in many areas.
+The economy, for example, is tracked and monitored to an unprecedented extent, allowing policymakers and the public alike to recognize very quickly when economic growth is slowing down, job creation is below potential, or demand is flagging.
+Even if that information does not enable economists to predict future slowdowns with much accuracy, it does facilitate timely responses.
+This is one reason why there are fewer major economic crises nowadays, and why world GDP, despite a recent slowdown, is growing much faster than it did a century ago.
+<P>
+Yet, when it comes to pollution, and specifically air quality, not nearly enough attention has been paid to data collection and analysis, especially in emerging economies like India and China, where air-quality deterioration is obvious and severe.
+Though broad figures are being collected, there are not enough granular data to provide a clear picture of the specific factors affecting air quality.
+<P>
+At the international level, the Asian Development Bank hopes that its Inclusive Green Growth Index (IGGI) will help close this gap.
+The IGGI aims to assess countries’ performance not only according to economic and social parameters, but also on the basis of their environmental record.
+More detailed than similar efforts made in the past, the IGGI uses 28 indicators, including clean-water access and air-pollution levels.
+<P>
+The ADB’s data show that, in Asia, the highest performers on environmental sustainability include Singapore, Bhutan, Sri Lanka, and Laos.
+At the bottom of the list lie Turkmenistan, Uzbekistan, and Mongolia.
+While factors like natural resources and geography undoubtedly contribute to countries’ performance, such comparisons can be useful to spur purposeful action, with specific data points offering insights into where each country could stand to improve.
+<P>
+At the national level, China’s government has been doing impressive work to improve its pollution data in order to guide its environmental strategy, which includes, among other things, the world’s largest carbon-pricing system, covering seven provinces.
+For example, high-frequency data collected through Continuous Emissions Monitoring Systems provide crucial information regarding the sources of air pollutants, enabling the government to create effective incentives for firms to curb emissions.
+<P>
+Moreover, since the end of 2013, China’s government has required 14,410 coal companies to upload hourly data on emissions from their production units onto a publicly available online platform.
+Such data informed new rules and regulations focused on reducing emissions.
+According to a recent paper by Valerie Karplus, Shuang Zhang, and Douglas Almond, the new rules contributed to a 13.9% drop in sulfur-dioxide concentration from coal-fired power plants.
+It should be noted that this approach works only if, as is the case in China, companies face heavy penalties not just for polluting, but also for falsifying data.
+<P>
+This is not to say that data alone should determine policy.
+Economics is a social science, and aggregate outcomes often reflect the effects of idiosyncratic behavior, attitudes, and events.
+The same goes for environmental policymaking: interventions can fail for reasons that have little to do with design.
+<P>
+That is what happened in India, when new cooking stoves were introduced in order to cut indoor pollution, a major cause of health problems among the country’s poor.
+The project should have worked: laboratory tests confirmed that the stoves produced less pollution.
+But a carefully controlled randomized intervention designed by Rema Hanna, Esther Duflo, and Michael Greenstone showed otherwise.
+<P>
+Initially smoke inhalation did decline.
+But that effect quickly disappeared, because households failed to maintain the stoves and used them irregularly, inappropriately, and increasingly infrequently.
+Four years later, there was no overall change in health outcomes or greenhouse-gas emissions.
+<P>
+The lesson should be clear.
+The only way we can hope to overcome the momentous environmental challenges the world faces – emphasized, for example, in the Intergovernmental Panel on Climate Change’s latest report – is to use every tool we can.
+That means collecting data and using what we learn to design the right rules and incentives, without ignoring human behavior and psychology.
+It will not be easy.
+But, given what is at stake, that is all the more reason to try.

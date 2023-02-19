@@ -1,0 +1,50 @@
+<HEADLINE>
+Fairness and Climate Change
+<P>
+PRINCETON – A sense of fairness is universal among humans, but people often differ about exactly what fairness requires in a specific situation.
+Nowhere is this more apparent than in the debate over the need to reduce emissions of greenhouse gases (GHGs) in order to avoid dangerous climate change.
+<P>
+China and the United States are the two largest GHG emitters, and it seems unlikely that any global agreement to reduce emissions will be effective unless both participate.
+Yet, in international climate negotiations, their views of what each should do seem to be far apart.
+<P>
+As professors interested in the issue of climate change – one from a leading university in China, and one from a leading university in the US – we thought that it would be interesting to see if we could agree on a fair principle for regulating GHG emissions.
+<P>
+We decided to use the Gini coefficient, a common measure of income inequality, to measure inequality in carbon emissions.
+The lowest-possible Gini coefficient is 0, which indicates that everyone has exactly the same income; the highest-possible coefficient is 1, which indicates that a single person has all of the income and no one else has any.
+Naturally, all existing societies fall somewhere between these two extremes, with relatively egalitarian countries like Denmark at around 0.25, and less egalitarian countries like the US and Turkey closer to 0.4.
+<P>
+Different principles of fairness will generate different emission distributions for each population and different “carbon Gini coefficients.”
+By using the 1850-2050 timespan to calculate the carbon Gini coefficient, we can analyze the principle of historical accountability, advocated by countries like China, India, and Brazil, which takes into account past emissions that have had an impact on the atmosphere.
+<P>
+We have selected three widely discussed methods of allocating GHG emission quotas to different countries:
+<P>
+The equal per capita emission rights approach allocates emission rights to countries in proportion to their population, but only for the remaining portion of the global “carbon budget” – that is, for the amount that can still be emitted, between now and 2050, without causing dangerous, irreversible climate change.
+(This limit is usually stated as a 2oC rise in global temperature.)
+<P>
+The equal per capita cumulative emission approach seeks equality over time.
+Thus, it combines responsibility for past emissions and equal per capita rights.
+It allocates an equal share of the overall global carbon budget, taking into account the portion that has already been consumed.
+<P>
+The grandfathering approach bases emission rights on existing patterns.
+This scheme has become the de facto approach applied to developed countries in the Kyoto Protocol, which requires them to reduce emissions relative to their levels in 1990.
+Thus, countries that emitted more in 1990 are entitled to emit more in the future than countries that emitted less in 1990.
+<P>
+The second approach – equal per capita cumulative emissions – is, by definition, a way to produce perfect equality among all countries in the contribution that they will have made, over time, to climate change.
+It thus leads to a carbon Gini coefficient of 0.
+The first approach – equal per capita emission rights from now on – results in a carbon Gini coefficient of about 0.4.
+<P>
+The difference shows that the dispute between developed and developing countries over the principle of historical responsibility accounts for about 40% of the global GHG emissions that can occur from 1850 to 2050 without exceeding the carbon budget.
+The prevailing approach – the grandfathering principle – leads to the largest carbon Gini coefficient, roughly 0.7.
+<P>
+These widely different carbon Gini coefficients indicate that the world lacks a common understanding of what would be a fair approach to addressing global climate change.
+Success in international negotiations will hinge on how parties – and the citizens they represent – consider a few vital equity principles, especially historical responsibility and equal per capita rights.
+<P>
+In the negotiations so far, it is already clear that long-term equity concerns are not being adequately addressed.
+When the de facto grandfathering principle is included, our carbon Gini coefficient indicates that as much as 70% of the global carbon budget is still in dispute between rich and poor countries.
+<P>
+If it proves too difficult to reach agreement on a substantive equity principle, then an agreement that some carbon Gini coefficients are simply too extreme to be fair could form the basis of a minimum consensus.
+For example, we can compare the grandfathering principle’s carbon Gini coefficient of 0.7 with the Gini coefficient of the US, which most people regard as highly inegalitarian, and yet is much lower, at about 0.38.
+<P>
+On the other hand, equal per capita annual emissions is based on a principle that at least has a claim to be considered fair, and has a Gini coefficient of less than 0.4.
+We therefore propose that any fair solution should have a carbon Gini coefficient of 0.0-0.4.
+Although the choice of a precise number is somewhat arbitrary, this “fair range” should establish the boundaries for those committed to an equitable solution to the problem of climate change.

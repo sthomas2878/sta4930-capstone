@@ -1,0 +1,102 @@
+<HEADLINE>
+The Economic Message from Equity Markets
+<P>
+CAMBRIDGE – The recent stock-market correction – the first in the United States in two years – has invited substantial commentary about what investors should do, the role machines have played, and the implications for the real economy.
+But only some of what has been said is useful.
+<P>
+Many investment advisers have emphasized the need to think long term, rather than panicking when prices fall.
+They are right: the decline in early February is not a good reason to sell.
+What is a good reason to sell is that stocks are too high from a longer-term perspective.
+<P>
+The fact is that prices are still very elevated relative to fundamentals.
+As the Nobel laureate Robert Shiller pointed out two weeks before the correction, the US cyclically adjusted price-to-earnings ratio has been higher than it is now only twice in the last century: at the peaks that preceded the stock-market crashes of 1929 and 2000-2002.
+The implication is that the rate of return on stocks is likely to be substantially lower over the next 15 years than it was over the last 15 years.
+<P>
+Another popular response to the recent correction has been to complain that the market has been made more volatile, because trading is increasingly carried out by machines, rather than humans.
+True, if a computer is programmed to respond to declining prices by selling more stocks, it will exacerbate the decline.
+But the same is true of the commonly used stop-loss order, whereby investors instruct their stockbroker to sell if the price falls to a specified level.
+<P>
+While automated high-speed trading does not, in my view, serve a useful social purpose, it is destabilizing only if it is programmed to be.
+If programmed instantly to “buy on the dip,” a computer would generate demand for falling stocks and thus tend to stabilize prices, just like a human investor who buys when prices fall.
+Machine or human, what matters is the instruction.
+And, in fact, a person writing an algorithm – calmly, in advance – might make smarter choices than one who is watching prices plunge in real time.
+<P>
+Another key question raised by the recent correction is whether it matters for the real economy.
+The truth is that the stock market can crash while the economy is doing well, and vice versa.
+<P>
+The first reason for this is that stock-market busts can be triggered by interest-rate increases, which are often a response to economic expansion.
+The correction in February bears this out.
+It seems to have been triggered by a February 2 report that US wages had increased more than expected, as well as the fact that inflation has risen in the US and the United Kingdom.
+<P>
+For the US, such news all but ensures that the Federal Reserve will raise interest rates in March.
+And the Bank of England announced on February 7 that UK rates could “be tightened somewhat earlier and by a somewhat greater extent” than had previously been forecast.
+<P>
+A second reason why the stock market is disconnected from the real economy is that there is much randomness in markets.
+In a speculative bubble, for example, everyone buys because everyone else is buying, causing prices to become disconnected from economic fundamentals.
+At a certain point, the bubble bursts, and everyone sells.
+<P>
+Last year, a “risk on” mood prevailed in financial markets, rooted in unnaturally low perceptions of future volatility.
+When the VIX volatility index hit all-time lows, it was not because fundamentals demanded it.
+On the contrary, it was no secret that substantial risks – such as a pick-up in inflation and faster-than-expected interest-rate hikes – were lying in wait.
+<P>
+But, all too predictably, the VIX would not adjust until the shock materialized and prices plunged.
+It took the correction in February to wake up investors to the reality of risk.
+The VIX has now adjusted to more normal levels, but securities prices probably still have a substantial distance to fall.
+After all, the market is still not far below its peak.
+<P>
+A third reason why the stock market is disconnected from the real economy is that stock prices represent only the current and expected profits accruing to corporations.
+That is not the same as national income.
+In the past, this distinction was not as pronounced, because a relatively stable share of national income went to workers.
+But, over the last decade or so, that relationship has broken down.
+Owners of capital control a rapidly-growing share of GDP, probably owing to higher economic “rents,” which reflect decreased competition and increased monopoly power in many sectors.
+<P>
+It is possible that last year’s stock-market boom may have been fueled partly by the expectation that US President Donald Trump and congressional Republicans would cut corporate taxes.
+Now enacted, those cuts will almost certainly do more to expand capital’s slice of the income pie than they will to enlarge the pie itself.
+<P>
+Of course, while Wall Street is not Main Street, there are important connections between the two.
+A big decline in the market could work to depress consumption and investment spending, reducing income all around.
+<P>
+It is impossible to predict when such a plunge will occur, or whether it will coincide with the next recession.
+All we can say with confidence is that the abnormally low financial and economic volatility of last year is over.
+<P>
+Editors’ note: After reading this piece in Barron’s, John C. Bogle, founder of Vanguard Group, had a few comments for Jeffrey Frankel.
+Read their exchange below.
+<P>
+To the Editor: I’m not sure how a mere A.B. from Princeton (’51) found the temerity to challenge a Ph.D. from MIT (and professor at Harvard), but an error in the recent Other Voices essay “VIX Surge Is a Wake-Up Call for Investors” is so egregious and so pervasive that I just can’t help myself.
+<P>
+Jeffrey Frankel wrote, “In a speculative bubble…everyone buys because everyone else is buying…[then] the bubble bursts, and everyone sells.”
+Really?!
+The simple, self-evident fact is that when “everyone” is buying, someone else is selling, dollar for dollar.
+And when “everyone” is selling, someone else is buying.
+This is the eternal reality of the financial markets.
+<P>
+Yes, I realize that my simple statements are not precisely correct, but are surely 99%-plus correct.
+I’d also, again humbly, take issue with the conclusion that “we can say with confidence…that the abnormally low financial and economic volatility of last year is over.”
+I’ve been in this business for 67 years now, and I’ve been well served by my unwillingness to say anything about short-term market behavior with confidence.
+<P>
+But I did agree with the thrust of this well-reasoned essay.
+<P>
+John C. Bogle Founder, Vanguard Group
+<P>
+Jeffrey Frankel responds: First let me say, you are a hero of mine.
+That isn’t something I have said lightly…or ever.
+For 35 years, I have put my spare savings into Vanguard index funds, and done very well with it.
+As a professional economist, maybe twice a decade I form a view that some major market is out of line…my response is to write about it, but to shift only about 5% of my portfolio.
+It seems to me that I have usually been right, judged at a two- to three-year horizon.
+But in giving general advice to others, I am a true believer…diversify in Vanguard index funds and leave it alone.
+<P>
+Now to your questions.
+1) You are right, of course, that for every buyer there is a seller…it is the price that adjusts.
+The language you identified was knowingly loose, for journalistic purposes.
+I would never use those words in a more scholarly paper.
+<P>
+2) My language on the end of last year’s low volatility was also shorthand.
+Word limits, you know.
+<P>
+It stood for two propositions.
+First, I am willing to bet that volatility from here on will be higher than in 2017 (both realized and the VIX).
+Second, we already know for sure that the period of continuous low volatility ended four weeks ago!
+<P>
+Thanks for your comments.
+<P>
+Jeffrey Frankel Professor, Harvard University’s Kennedy School of Government

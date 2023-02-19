@@ -1,0 +1,73 @@
+<HEADLINE>
+Policing Truth in the Trump Era
+<P>
+LONDON – On October 6, US President Donald Trump posted a tweet claiming that the common flu sometimes kills “over 100,000” Americans in a year.
+“Are we going to close down our Country?” he asked.
+“No, we have learned to live with it, just like we are learning to live with Covid, in most populations far less lethal!!!”
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Trump’s first claim is true: the flu killed over 100,000 Americans in 1918 and 1957.
+“We have learned to live with it,” is a matter of opinion, while his claim that COVID-19 is “far less lethal” than flu in most populations is ambiguous (which populations, and where?).
+<P>
+There seemed nothing particularly unusual about the tweet: Trump’s fondness for the suggestio falsi is well known.
+But, soon after it was posted, Twitter hid the tweet behind a written warning, saying that it had violated the platform’s rules about “spreading misleading and potentially harmful information related to COVID-19.”
+Facebook went further, removing an identical post from its site entirely.
+<P>
+Such online controversies are becoming increasingly common.
+In 2018, the now defunct political consulting firm Cambridge Analytica was said to have willfully spread fake news on social media in order to persuade Americans to vote for Trump in the 2016 US presidential election.
+Since then, Facebook and Twitter have removed millions of fake accounts and “bots” that were propagating false stories.
+This weeding-out operation required the platforms themselves to use artificial-intelligence algorithms to find suspicious accounts.
+<P>
+Our reliance on firms that profit by allowing “disinformation” to take the lead in policing the truth reflects the bind in which digital technology has landed us.
+Facebook and Twitter have no incentive to ensure that only “true” information appears on their sites.
+On the contrary, these companies make their money by harvesting users’ data and using it to sell advertisements that can be individually targeted.
+The more time a user spends on Facebook and Twitter, and the more they “like,” click, and post, the more these platforms profit – regardless of the rising tide of misinformation and clickbait.
+<P>
+This rising tide is partly fueled by psychology.
+Researchers from the Massachusetts Institute of Technology found that from 2006 to 2017, false news stories on Twitter were 70% more likely to be retweeted than true ones.
+The most plausible explanation is that false news has greater novelty value compared to the truth, and provokes stronger reactions – especially surprise and disgust.
+So, how can companies that gain users and revenue from false news be reliable guardians of true news?
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In addition, opportunities to spread disinformation have increased.
+Social media have vastly amplified the audience for stories of all kinds, thus continuing a process that started with Johannes Gutenberg’s invention of the movable-type printing press in the fifteenth century.
+Just as Gutenberg’s innovation helped to wrest control of knowledge production from the Roman Catholic Church, social media have decentralized the way we receive and interpret information.
+The Internet’s great democratizing promise was that it would enable communication without top-down hierarchical strictures.
+But the result has been to equalize the credibility of information, regardless of its source.
+<P>
+But the problem is more fundamental: “What is truth?” as the jesting Pontius Pilate said to Jesus.
+At one time, truth was God’s word.
+Later, it was the findings of science.
+Nowadays, even science has become suspect.
+We have put our faith in evidence as the royal road to truth.
+But facts can easily be manipulated.
+This has led postmodernists to claim that all truth is relative; worse, it is constructed by the powerful to maintain their power.
+<P>
+So, truth, like beauty, is in the eye of the beholder.
+This leaves plenty of latitude for each side to tell its own story, and not bother too much its factual accuracy.
+More generally, these three factors – human psychology, technology-enabled amplification of the message, and postmodernist culture – are bound to expand the realm of credulity and conspiracy theory.
+<P>
+This is a serious problem, because it removes a common ground on which democratic debate and deliberation can take place.
+But I see no obvious answer.
+I have no faith in social-media companies’ willingness or ability to police their platforms.
+They know that “fake” information can have bad political consequences.
+But they also know that disseminating compelling stories, regardless of their truth or consequences, is highly profitable.
+<P>
+These companies’ only incentive to tackle the problem of fake news is to minimize the bad press it has generated for them.
+But unless and until telling the truth serves the bottom line, it is futile to expect them to change course.
+The best one can hope for is that they make visible efforts, however superficial, to remove misleading information or inferences from their sites.
+But performative acts of censorship like the removal of Trump’s tweet are window dressing that sends no larger signal.
+It serves only to irritate Trump’s supporters and soothe the troubled consciences of his liberal opponents.
+<P>
+The alternative – to leave the policing of opinion to state authorities – is equally unpalatable, because it would revive the untenable claim that there is a single source of truth, divine or secular, and that it should rule the Internet.
+<P>
+I have no solution to this dilemma.
+Perhaps the best approach would simply be to apply to social-media platforms the public-order principle that it is an offense to stir up racial hatred.
+Twitter, Facebook, and others would then be legally obliged to remove hate material.
+Any decision on their part would need to be testable in court.
+<P>
+I don’t know how effective such a move would be.
+But it would surely be better than continuing the sterile and interminable debate about what constitutes “fake” news.

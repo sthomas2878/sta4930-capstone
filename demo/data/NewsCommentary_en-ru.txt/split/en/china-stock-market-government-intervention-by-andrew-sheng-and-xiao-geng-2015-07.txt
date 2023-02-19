@@ -1,0 +1,59 @@
+<HEADLINE>
+China’s Live Stress Test
+<P>
+HONG KONG – The plunge in China’s stock markets, which has sent shockwaves reverberating around the world, has amounted to a real-time stress test for the country.
+The bears, who have been predicting the Chinese economy’s downfall, are now consumed with schadenfreude.
+The bulls hold that, no matter how violent the stock-market gyrations may be, China’s economic success story remains intact.
+But, at this point, no outcome is certain.
+<P>
+It should be noted, first and foremost, that the current volatility, though not necessarily desirable, represents a natural market correction.
+Before dropping 30% from its June 12 peak of 5,166, the Shanghai Composite Index had climbed 150% over 12 months.
+An unprecedented intervention by the authorities – including allowing about 1,300 firms to suspend trading – stopped the slide, and the index closed on July 14 at 4,159.
+<P>
+Though the blame game is ongoing, the historian Charles Kindleberger’s 1978 book Manias, Panics, and Crashes offers the perfect explanation for what China is experiencing.
+The economy has undergone a standard cycle of displacement, overtrading, monetary expansion, discredit, and revulsion, all in a matter of less than 12 months.
+<P>
+The Chinese displacement factor was the emergence of the country’s own Internet economy.
+With the spectacular success of companies like Alibaba, millions of Chinese investors became convinced that tech stocks would make them rich overnight.
+<P>
+The second and third phases – overtrading and monetary expansion – are intertwined.
+Both licensed securities brokers and unlicensed lenders were offering increasing amounts of margin financing, which fueled mutually reinforcing surges in prices and turnover.
+(The government began to crack down on such lending in April.)
+<P>
+Moreover, in order to adjust to slower GDP growth, the central bank cut interest rates, effectively engaging in monetary expansion.
+Unable to gain much return from deposits, and faced with high property prices, Chinese savers viewed the protracted growth in domestic share prices as an opportunity to boost yield.
+<P>
+Discredit emerged when some discerning investors noticed the discrepancy between prices and fundamentals, and began to sell their shares.
+On June 12, this gave way to revulsion, with the decline in prices triggering stop-losses and spurring a large share of investors to liquidate margin positions – all of which resulted in severe losses for both borrowers and lenders, especially in illiquid stocks.
+<P>
+This episode proved, once again, that highly leveraged markets are unstable and unsustainable.
+Financial crises have repeatedly been spawned by inadequately regulated financial innovation, with the combination of market greed and regulatory silos and blind spots enabling booms and busts.
+<P>
+In China’s case, the government interventionist approach is exacerbating the problem.
+Though market intervention may limit the scope of losses in the short term, it undermines markets’ ability to self-correct, not to mention the credibility of the Chinese authorities as neutral regulators.
+<P>
+On a static level, secondary stock markets are fundamentally a zero-sum game: those who sell during the boom are winners, and those who buy too late (and with borrowed money) are the losers.
+In China, the winners were companies’ majority owners (including the state) who sold while the Shanghai index was rising toward 5,000, and the losers were the retail investors who bought above 4,000.
+<P>
+On a dynamic level, however, the creative destruction that occurs in a bust does not eliminate the capital that was created during the boom.
+Chinese stock markets may have lost nearly $3 trillion since their June peak, but they also created more than $4.6 trillion in value over the last year – over half of which accrued to the state.
+<P>
+The fact is that markets progress only through experimentation and, inevitably, mistakes.
+Indeed, it was statistically unlikely that the Chinese economy and stock markets could have developed so rapidly, without some spectacular stumbles along the way.
+<P>
+Allowing the stock market to develop was not the wrong move.
+At the end of 2013, when the Shanghai index was 2,116, the Chinese debt market amounted to 256% of GDP, and stock-market capitalization was 36% of GDP, implying an unsustainable crude leverage ratio of 7.2:1.
+When the stock market rose to its peak of 100% of GDP, the leverage ratio fell to 2.6:1, closer to the ratio of 2.2:1 in the United States, where stock-market capitalization was 132% of GDP.
+<P>
+Similarly, retail investors’ desire to invest in companies like Alibaba was not wrong.
+On the contrary, it made a lot of sense to engage in markets.
+<P>
+The problem was that retail investors were not equipped to judge the valuation of listed companies like Alibaba, yet they could use margin loans to engage in speculation.
+This was a dangerous combination – one that would have led to socially unacceptable losses to the retail sectors had the government not intervened.
+<P>
+China’s economy has succeeded through trial and error, and the lessons of its current stress test should be viewed as part of that process, to be used to drive the next phase of economic reform.
+One key lesson is that Chinese stock markets remain structurally biased toward state ownership and guidance, even as the country builds a more entrepreneurial economy.
+This is fundamentally problematic, because it is the market (not the state) that will identify and support the unicorns.
+<P>
+Nonetheless, China has already begun to build a more innovative manufacturing sector and an Internet-driven retail sector, and the state can still play a role in fostering innovation.
+But, as the government determines how to offload its massive holdings of shares in an orderly manner, it must ensure that such efforts are funded by equity, not leverage, thereby enhancing market balance and resilience.

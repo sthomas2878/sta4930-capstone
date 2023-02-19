@@ -1,0 +1,72 @@
+<HEADLINE>
+Preventing Digital Feudalism
+<P>
+LONDON – The use and abuse of data by Facebook and other tech companies are finally garnering the official attention they deserve.
+With personal data becoming the world’s most valuable commodity, will users be the platform economy’s masters or its slaves?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Prospects for democratizing the platform economy remain dim.
+Algorithms are developing in ways that allow companies to profit from our past, present, and future behavior – or what Shoshana Zuboff of Harvard Business School describes as our “behavioral surplus.”
+In many cases, digital platforms already know our preferences better than we do, and can nudge us to behave in ways that produce still more value.
+Do we really want to live in a society where our innermost desires and manifestations of personal agency are up for sale?
+<P>
+Capitalism has always excelled at creating new desires and cravings.
+But with big data and algorithms, tech companies have both accelerated and inverted this process.
+Rather than just creating new goods and services in anticipation of what people might want, they already know what we will want, and are selling our future selves.
+Worse, the algorithmic processes being used often perpetuate gender and racial biases, and can be manipulated for profit or political gain.
+While we all benefit immensely from digital services such as Google search, we didn’t sign up to have our behavior cataloged, shaped, and sold.
+<P>
+To change this will require focusing directly on the prevailing business model, and specifically on the source of economic rents.
+Just as landowners in the seventeenth century extracted rents from land-price inflation, and just as robber barons profited from the scarcity of oil, today’s platform firms are extracting value through the monopolization of search and e-commerce services.
+<P>
+To be sure, it is predictable that sectors with high network externalities – where the benefits to individual users increase as a function of the total number of users – will produce large companies.
+That is why telephone companies grew so massive in the past.
+The problem is not size, but how network-based companies wield their market power.
+<P>
+Today’s tech companies originally used their broad networks to bring in diverse suppliers, much to the benefit of consumers.
+Amazon allowed small publishers to sell titles (including my first book) that otherwise would not have made it to the display shelf at your local bookstore.
+Google’s search engine used to return a diverse array of providers, goods, and services.
+<P>
+But now, both companies use their dominant positions to stifle competition, by controlling which products users see and favoring their own brands (many of which have seemingly independent names).
+Meanwhile, companies that do not advertise on these platforms find themselves at a severe disadvantage.
+As Tim O’Reilly has argued, over time, such rent seeking weakens the ecosystem of suppliers that the platforms were originally created to serve.
+<P>
+Rather than simply assuming that economic rents are all the same, economic policymakers should be trying to understand how platform algorithms allocate value among consumers, suppliers, and the platform itself.
+While some allocations may reflect real competition, others are being driven by value extraction rather than value creation.
+<P>
+Thus, we need to develop a new governance structure, which starts with creating a new vocabulary.
+For example, calling platform companies “tech giants” implies they have invested in the technologies from which they are profiting, when it was really taxpayers who funded the key underlying technologies – from the Internet to GPS.
+<P>
+Moreover, the widespread use of tax arbitrage and contract workers (to avoid the costs of providing health insurance and other benefits) is eroding the markets and institutions upon which the platform economy relies.
+Rather than talking about regulation, then, we need to go further, embracing concepts such as co-creation.
+Governments can and should be shaping markets to ensure that collectively created value serves collective ends.
+<P>
+Likewise, competition policy should not be focused solely on the question of size.
+Breaking up large companies would not solve the problems of value extraction or abuses of individual rights.
+There is no reason to assume that many smaller Googles or Facebooks would operate differently or develop new, less exploitative algorithms.
+<P>
+Creating an environment that rewards genuine value creation and punishes value extraction is the fundamental economic challenge of our time.
+Fortunately, governments, too, are now creating platforms to identify citizens, collect taxes, and provide public services.
+Owing to concerns in the early days of the Internet about official misuse of data, much of the current data architecture was built by private companies.
+But government platforms now have enormous potential to improve the efficiency of the public sector and to democratize the platform economy.
+<P>
+To realize that potential, we will need to rethink the governance of data, develop new institutions, and, given the dynamics of the platform economy, experiment with alternative forms of ownership.
+To take just one of many examples, the data that one generates when using Google Maps or Citymapper – or any other platform that relies on taxpayer-funded technologies – should be used to improve public transportation and other services, rather than simply becoming private profits.
+<P>
+Of course, some will argue that regulating the platform economy will impede market-driven value creation.
+But they should go back and read their Adam Smith, whose ideal of a “free market” was one free from rents, not from the state.
+<P>
+Algorithms and big data could be used to improve public services, working conditions, and the wellbeing of all people.
+But these technologies are currently being used to undermine public services, promote zero-hour contracts, violate individual privacy, and destabilize the world’s democracies – all in the interest of personal gain.
+<P>
+Innovation does not just have a rate of progression; it also has a direction.
+The threat posed by artificial intelligence and other technologies lies not in the pace of their development, but in how they are being designed and deployed.
+Our challenge is to set a new course.

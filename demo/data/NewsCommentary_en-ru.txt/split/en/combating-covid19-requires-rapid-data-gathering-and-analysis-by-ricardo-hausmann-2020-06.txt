@@ -1,0 +1,70 @@
+<HEADLINE>
+The Road to COVID-19 Enlightenment
+<P>
+CAMBRIDGE – Certainty is like a rainbow: wonderful but relatively rare.
+More often than not, we know that we don’t know.
+We may seek to remedy this by talking to people who may know what we want to know.
+But how do we know that they know?
+If we cannot ascertain whether they actually do know, we must trust them.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Historically, we have bestowed our trust on the basis of science, experience, or divine inspiration.
+But what if the knowledge we seek does not yet exist, and even science knows that it does not know what is being asked of it?
+<P>
+That is the situation we currently find ourselves in with COVID-19 and the SARS-CoV-2 virus that causes it.
+Our knowledge of the new coronavirus is rapidly increasing, but utterly inadequate.
+We have not yet learned much about how to treat the infected, much less figured out how to make an effective vaccine.
+We do not even know how to control the pandemic reliably through social-distancing measures.
+<P>
+True, some countries have been remarkably successful in reducing COVID-19 cases and deaths from terrible peaks.
+The four countries that have so far recorded the highest number of deaths per million inhabitants in a single week are Belgium, Spain, France, and Ireland.
+New cases in these countries have now declined by over 95.5% from their respective peaks (and by 99.1% in Ireland’s case), suggesting that their lockdowns actually worked.
+<P>
+And yet, while other countries that introduced legally stricter lockdowns (as measured by the University of Oxford’s Blavatnik School) and reduced mobility more (as measured by Google) avoided early deadly peaks, cases have continued to grow exponentially.
+Countries in this category include India, Chile, Peru, Colombia, El Salvador, Kuwait, South Africa, and Saudi Arabia.
+And another group, including Israel and Albania, have experienced a resumption of exponential growth after they lifted successful lockdowns.
+<P>
+It doesn’t take long to devise many hypotheses – from the mundane to the speculative – to account for these differences.
+And, obviously, identifying the best explanations for countries’ varying success in controlling the pandemic is enormously valuable when designing public-health strategies with potentially huge consequences.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+For example, large households may facilitate intra-family transmission of the virus, while a lack of refrigerators in some countries may force people to go to the market often.
+The unavailability of running water may prevent frequent hand washing.
+The public’s willingness to wear masks may vary.
+The size of a country’s informal economy, households’ financial capacity to abide by lockdown measures, and the generosity of social transfers may be contributing factors.
+The seriousness with which lockdown measures are enforced, the level of trust in government, and even features of a country’s national character seem relevant as well.
+<P>
+But knowledge does not advance just by formulating plausible hypotheses.
+We must find out which ones hold water.
+And we can shorten the list by applying the nineteenth-century British scientist Thomas Huxley’s dictum that “many a beautiful theory has been killed by an ugly fact.”
+<P>
+To do this, we just need to collect more data and make it available for analysis.
+In the United States, for example, about 40% of COVID-19 deaths to date apparently are tied to nursing homes.
+Likewise, a recent study of more than 30 European countries by researchers from Tel Aviv University found a relationship between installed nursing-home capacity and COVID-19 deaths.
+<P>
+These analyses are not rocket science.
+In fact, if anything, they are extremely crude, because they use national rather than postal-code-level data.
+Moreover, these studies appeared only after tens of thousands of people had already died from COVID-19.
+<P>
+Rather than being a scientific triumph, therefore, such findings illustrate how unscientific public-health policies to combat the virus have been.
+If we had assumed from the outset of the pandemic that we know that we do not know, we would have created rapid feedback loops to learn as quickly as possible from experience.
+<P>
+Specifically, we would have focused on gathering simple data about each COVID-19 case –the date when the infection was confirmed, the patient’s age, gender, home and work addresses, means of transportation, and contacts – and supplemented this with additional data on hospitalization and outcomes as the disease progressed.
+These data may already exist in many cases, but are hidden from society and often from officials by overzealous or turf-minded health ministers, and are not being made available to the many trained analysts who could contribute to policymaking.
+And as the OECD has suggested, governments could also adopt approaches that use individual cellphone data, Internet searches, and rapid telephone surveys, with due regard for privacy concerns.
+<P>
+Many governments believe that this kind of data-driven strategy for tackling the pandemic is beyond their capacity, and decide to piggyback on what other countries have learned by adopting best practices.
+This is the wrong approach.
+The pandemic’s effect on countries differs in ways that we currently do not understand and need to discover.
+Are people living in Peru in households without refrigerators actually more likely to be infected, for example?
+<P>
+Moreover, each lockdown and social-distancing regime is different, reflecting the many degrees of freedom in their design.
+Finding out what works and what doesn’t on a daily basis is now critical, especially as we try to find ways to open up economies while holding down infection rates.
+<P>
+The fight against COVID-19 is still in its early stages, and it is not too late to start this effort.
+After all, Socrates said that knowing you know nothing is a contradiction in terms.
+Let us therefore make our knowledge of our ignorance about the virus, and of our ability to overcome it, a source of strength.
+Let’s set ourselves up to learn.

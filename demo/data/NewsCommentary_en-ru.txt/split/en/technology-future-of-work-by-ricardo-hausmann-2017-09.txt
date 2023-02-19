@@ -1,0 +1,75 @@
+<HEADLINE>
+Making the Future Work for Us
+<P>
+CAMBRIDGE – What does the future of work hold in store, and how should we prepare for it?
+The debate so far has focused on developed countries, but it is a question that will affect the entire world.
+<P>
+To pessimists, the introduction of these so-called general-purpose technologies – including 3-D printing, artificial intelligence, and the Internet of Things – threatens the demand for labor; without new forms of social solidarity, such as a universal basic income, the future will be one of widespread destitution.
+To optimists, the latest technological developments, like others that have propelled humanity forward, promise to deliver unprecedented levels of prosperity.
+<P>
+It is probably impossible at this stage to say which side is right.
+As the physicist Niels Bohr said: “It is very hard to predict, especially the future.”
+For a complex system such as the world economy, understanding the past – for example, the massive decline in manufacturing employment in almost all countries over the past two decades – is already hard enough.
+What is more easily ascertained are the causal links that might determine the outcome.
+<P>
+Rapid displacement of massive amounts of human labor is not a new occurrence.
+The early-nineteenth-century Luddites revolted against the mechanical looms that were supplanting artisanal textile production.
+Almost 60 years later, agricultural employment in the US peaked at 53% of total employment.
+Today, it is less than 3%.
+<P>
+In fact, since as recently as 1980, most countries have experienced large declines in agricultural employment.
+In some, like Portugal, Malaysia, Turkey, and Indonesia, the share of agricultural employment declined by more than 20%.
+In others, like Greece, Italy, Bulgaria, Hungary, Estonia, Poland, Philippines, and Sri Lanka, the decline exceeded 10%.
+<P>
+And it’s not just agriculture.
+According to the World Bank’s World Development Indicators, the share of manufacturing in GDP fell in 100 of the 124 countries reporting data since 1990.
+<P>
+But if large shifts in the composition of employment have been the norm, what makes today’s technology-driven shifts so scary?
+<P>
+Fundamentally, technology is a way to transform “the world as I found it” into “the world as I want it to be” – from pastures to milk, from soybeans to chicken tenders, from silicon to smartphones.
+And it depends on three forms of knowledge: embedded knowledge in tools; codified knowledge in recipes, manuals, and protocols; and tacit knowledge, or knowhow, in brains.
+<P>
+Most of the time, these three forms of knowledge complement one another: like coffee and sugar, the more of one you have, the more of the others you want.
+But technological progress occasionally substitutes one for another, as with coffee and tea.
+Once upon a time, people stuck their hands in the ground to plant the next crop.
+Now seed drills and planters do that much more quickly and effortlessly.
+Not long ago, airline check-in clerks wrote out boarding passes.
+Now they are delivered to our smartphones.
+It is these substitutions – the embodied knowledge of the machine for the knowhow of traditional handiwork – that make us fearful.
+<P>
+But while each new technology displaces one form of knowhow, it creates others.
+The first industrial revolution so reduced the cost of textiles that it led to a boom in demand, production, and employment.
+Likewise, as David Autor of MIT has pointed out, the automatic teller machine (ATM) displaced human bank tellers, but so reduced the cost of branches that their number rose, fueling an increase in employees focused on customer relationship management (for which ATMs are less than ideal).
+Today, websites have displaced printed materials, giving rise to an industry of web designers.
+<P>
+But while it is clear which jobs new technologies displace, it is harder to anticipate how the new possibilities will be exploited.
+Back in 2001, many thought the Internet’s fiber-optic backbone had been overbuilt, given low demand for bandwidth.
+But then along came iTunes, YouTube, Facebook, Twitter, Skype, and Netflix.
+Similarly, today we are trying to predict the nature of future work before the jobs of the future have been invented.
+<P>
+The most important uncertain aspect of the new technologies is their diffusion capacity.
+If they do not diffuse worldwide, they will widen the income divide between countries and regions.
+Landline telephone service and electricity have diffused far less than guns and cellphones.
+<P>
+One determinant of a technology’s “diffusability” is its knowhow intensity.
+Tools and codes are easy to ship; moving the knowhow needed to use them is a different matter.
+Guns require just a little training to operate, whereas an electrical utility requires a large team of people with varied expertise to run the generators, install and service the transmission lines and sub-stations, limit theft, and compel customers to pay their bills on time.
+Technologies that require more diverse knowhow, reflected in the size and heterogeneity of the team needed to implement them, diffuse much more slowly or not at all.
+<P>
+A new technology’s diffusion is also affected by its dependence on the previous diffusion of other technologies.
+Uber depends on the previous diffusion of cell phones, cars, and credit cards.
+If implementing a technology requires less knowhow and fewer other technologies, it is likely to diffuse even faster than the technologies it replaces.
+<P>
+This is what people call technological leapfrogging.
+As was the case with computer-aided design and manufacturing, it is easier to run a 3-D printer than to master all the steps needed to make the same part the traditional way.
+<P>
+Artificial intelligence may make technology less reliant on knowhow and consequently easier to diffuse.
+By contrast, the Internet of Things will probably require prior diffusion of many other technologies.
+In 66 countries, electricity penetration is less than 60%; in 26 countries, it is less than 30%.
+<P>
+Finally, diffusion depends on whether countries can afford to purchase the new technology.
+And that, in turn, depends on whether it facilitates or complicates their search for goods and services that they can sell internationally.
+The globalization of value chains has made it easier for more countries and regions to participate in international trade, because each country needs to assemble less complex teams; but it has been bad for places like Detroit, where fully integrated industries used to cluster.
+<P>
+In the end, predicting the future is beside the point.
+Most countries’ future is more likely to be bright if they focus on ensuring that they can master every new technology and exploit every new opportunity that comes their way.

@@ -1,0 +1,56 @@
+<HEADLINE>
+Privacy for Refugees
+<P>
+LONDON – With people living so much of their lives online nowadays, it is easier than ever for governments and companies to collect large amounts of personal information.
+Not surprisingly, data privacy is a hot topic.
+But there are plenty of people being left out of the debates.
+And, unfortunately, those are the people who need the most attention.
+<P>
+As much as Internet companies like Facebook or Google want to collect data about their users, there are limits to their power to do so.
+Most of the time, there is a way to opt out of providing personal data, even if it is sometimes buried deep in a complex set of privacy settings.
+If those opt-outs are not convincing enough, there are privacy-focused search engines or email providers.
+<P>
+But some vulnerable populations – such as the nearly five million Syrians who have been forced from their home country – cannot opt out, unless they want to be sent right back to a warzone.
+If they hope to be granted refugee status – not to mention food, clothing, shelter, and other basic necessities – they have to give whatever information the NGOs, IGOs, aid agencies, and humanitarian workers request.
+In other words, for refugees, whether to provide personal information, from religious beliefs to biometric data, can be a matter of life and death.
+<P>
+But what if those data fell into the wrong hands?
+With the organizations responsible for data security operating in low-resource, high-pressure circumstances, it is not an unreasonable question.
+The exposed refugees might be in serious danger.
+<P>
+Sensitive information is being circulated among an increasingly wide array of actors, such as third-party financial institutions, technology developers, cloud computing service providers, and other humanitarian agencies.
+Every time that information is shared – whether it is entered into a new database or a new actor gains access to a single aggregated database – the risk of privacy breaches grows.
+<P>
+There is no shortage of groups that would love to get their hands on the data.
+Over the last few years, the Syrian Electronic Army, which supports the brutal regime of President Bashar al-Assad, has successfully hacked into a number of secure databases.
+<P>
+Of course, this is not to say that collecting data on refugees is fundamentally wrong.
+The reality is that many governments could not justify accepting refugees without a thorough vetting process – and that demands data.
+Moreover, using biometric data like iris scans, rather than bankcards, offers some advantages for aid-delivery – namely, ensuring that assistance is delivered to its intended recipient.
+<P>
+But there is a need to assess whether all of the kinds of data that are currently collected are really needed.
+Does collecting them genuinely advance the objectives of providing support to refugees?
+Are the benefits of using biometric data significant enough that refugees should have no alternative?
+(According to a 2013 report, many refugees are indeed concerned about providing biometric data.)
+<P>
+For the data that are deemed useful and necessary, there is a need to review collection, storage, and sharing processes, in order to ensure that sensitive information is never compromised.
+Exchanges of personal data among companies, humanitarian groups, and government agencies should be allowed only when they are truly necessary, and should be conducted as securely as possible.
+<P>
+Privacy is not a privilege – a comfort that desperate people should have to give up.
+It is a fundamental human right, enshrined in the United Nations Universal Declaration of Human Rights.
+International law obliges data controllers and processors to protect data sets containing personal data, particularly in the context of large-scale monitoring of individuals.
+<P>
+Though some IGOs are exempt from these requirements, such organizations must strive to implement best practices with regard to privacy, ethics, and data protection.
+After all, it makes little sense to collect data for the sake of protecting vulnerable populations, only to leave those data vulnerable to breaches by dangerous actors.
+<P>
+The first step is to carry out a privacy impact assessment (PIA).
+A PIA is a tool used to identify, analyze, and mitigate privacy risks arising from technological systems or processes.
+While there is no single established approach to undertaking a PIA, experience has produced some best practices, comprising a set of privacy principles and criteria, according to which systems for collecting, storing, and share refugees’ data should be assessed.
+<P>
+For a PIA to work, it must weigh privacy against other imperatives, such as efficient aid provision.
+Given the lack of experience with this type of assessment, the framework and those applying it should be flexible.
+In settings that are continually changing, in response to the needs and capabilities of a range of actors, an iterative approach with qualitative elements is imperative.
+<P>
+There is no perfect methodology, and practice will always differ from theory.
+But a high-quality PIA can help an organization assess and mitigate the privacy risks associated with the use of information and communications technology, biometric technologies, geo-location tracking devices, and so on.
+It is not a solution to the privacy challenge faced by refugees and their advocates, but it is an important step in the right direction.

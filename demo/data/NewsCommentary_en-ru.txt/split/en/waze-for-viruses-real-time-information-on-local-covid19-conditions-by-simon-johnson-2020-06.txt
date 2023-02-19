@@ -1,0 +1,61 @@
+<HEADLINE>
+Waze for Viruses
+<P>
+WASHINGTON, DC – COVID-19 infection rates are rising in much of the United States.
+Even if the US can prevent outbreaks in the South and Southwest from worsening during the summer, experience with other coronaviruses counsels preparation for a potentially major onslaught during the fall.
+We know what to expect across the Northern Hemisphere: many people can become infected, but it is older people and those in poor health who are most at risk of death.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+To make all vulnerable people significantly safer requires sustainable testing strategies, increased willingness to wear masks when necessary and adhere to social-distancing rules, and rapid scaling-up of relevant technology.
+That includes a system analogous to Waze (the popular information-sharing app for road traffic), which would provide everyone with real-time actionable intelligence regarding where the virus lies in wait.
+<P>
+The malign power of this virus is that people can be infective without showing symptoms.
+As a result, even parts of the world where prevalence is currently low must remain continually on guard.
+<P>
+One proposal is to test everyone for live virus at a very high frequency – some employers may do this twice a week.
+If this is done with anterior nares swabs (rather like a Q-tip, used to swab the front part of your nose), high frequency testing with self-sampling becomes feasible.
+(Swab your own nose and an efficient lab can run the tests.)
+<P>
+But this is still costly.
+A national market for testing has yet to emerge, but prices in New England range from $25 to over $100 per test.
+Pooled testing is one way to increase efficiency and lower the cost, but the efficiency depends on having a low probability of infection.
+Fortunately, frequent testing keeps infection rates low and therefore boosts the efficiency of group testing.
+<P>
+For example, Ned Augenblick, Jonathan Kolstad, Ziad Obermeyer, and Ao Wang (all UC Berkeley) have shown that frequent group testing can discount testing prices by 95% or more.
+When pooling will be offered at scale by commercial labs remains to be seen, but support for the idea from Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases and a leading member of the White House Coronavirus Task Force, certainly should help.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Still, given the speed with which this coronavirus moves across the population, testing for live virus is very hit or miss.
+Eventually, of course, enough people display symptoms and need hospitalization that a large-scale outbreak becomes unmistakable.
+This is the current situation in Arizona and Texas.
+But what about in Florida, where the number of reported infections is rising sharply but the governor says this is largely due to increased availability of testing?
+<P>
+As Michael Mina, at the Harvard T.H. Chan School of Public Health, has emphasized, widespread use of serology (antibody testing) can provide low-cost outbreak detection.
+Antibodies stay in our blood even after a pathogen has been defeated, so they are relatively easy to detect.
+<P>
+For example, antibody testing could help inform everyone about what is really going on in Florida.
+Unfortunately, questions have been raised about the tests being used in Florida and how the data are reported there.
+<P>
+Gigi Gronvall and her colleagues at Johns Hopkins University have proposed a National Strategy for Serology, which would be a valuable tool.
+Widespread availability of inexpensive and accurate dried blood spot serology would complement this approach.
+(I am working on this with Mina, Galit Alter of the Ragon Institute, and Tess Cameron of RA Capital as part of our Immunological Observatory project.)
+<P>
+But how should we use these data?
+We know, for example, that masks reduce transmission of the virus by about 90%.
+But we also know that many Americans will not wear masks, even when this would definitely protect their own health and lower the risk to others (for example, inside stores).
+<P>
+One use of better data would be to tell people where the virus is now – and when it is heading their way.
+Even Americans who are deeply skeptical of government generally pay attention when the authorities issue a tornado or hurricane warning.
+<P>
+Alerting people to be more careful – for example, when it is essential to protect their children with masks – can help keep schools open, as part of a broader policy package along the lines proposed by Johns Hopkins’ Joshua Sharfstein and Christopher Morphew.
+<P>
+This is where a Waze for viruses comes in.
+Like drivers reporting road accidents or broken traffic lights, in such a system, companies, universities, and other organizations would share data – based on their test results – but with “differential privacy,” so that individual identities are effectively disguised.
+Just as in the traffic app, by sharing information, you gain access to a better picture of what is going on around you at the moment.
+If this data system includes results from highly reliable antibody tests on the same set of people over time, the effect could be transformative.
+<P>
+Such a system is not about the government telling you what to do.
+It is about sharing information with those around you – to help you, to protect your family, and to enable normal life to resume when and where it can.

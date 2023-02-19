@@ -1,0 +1,63 @@
+<HEADLINE>
+Orderly Email
+<P>
+PHOENIX – You may have heard of the “quantified self” movement – the idea that you monitor your own vital signs such as weight or blood sugar, and then (ideally) adjust your behavior in order to stay healthy.
+Sometimes I half-joke that the primary metric that I monitor is my email inbox count: When it’s high, I’m too busy and stretched thin; when it’s low, I’m on top of things and able to concentrate on more important matters.
+<P>
+So imagine my delight upon meeting Dave Troy of the company 410labs in Moscow last month; he was on the “Geeks on a Plane” tour of the former Eastern bloc.
+<P>
+Actually based in Washington, DC, rather than Silicon Valley, Troy is a throwback to the old days when the Internet had just emerged from a US government project.
+His latest product, the cleverly named Mailstrom, seems almost retro in this age of social messaging: it helps you manage your email.
+But, unlike some new tools that guess – usually inaccurately – whose mail is important to me, Mailstrom does an excellent job not only of categorizing my mail, but also of helping me to get rid of it by applying my own intelligence – and willpower.
+<P>
+It helps me do things that I cannot do for myself when I’m trying to sift through my mail.
+It finds all the messages from a certain person, and then lets me handle them in a batch – delete, move, or even answer.
+Or it finds all the Mediapost newsletters about mobile marketing, so I can scan their headlines, and decide which to delete and which to save for later.
+And it rewards me if I delete them all by crossing that sender off the list (yes, I’m so easy to manipulate!).
+Or it can show me all the messages from, say, September 27.
+And so on.
+<P>
+Mailstrom does this in a sleek way, replete with numbers – selecting, counting, and sorting messages by date, subject, sender, social network, size, and so forth, and showing charts of the statistics.
+Mailstrom shows you how many messages of each particular type you have; it ranks the frequency of subject lines; and it lets you see how many messages you have received and how many you have handled each day.
+<P>
+Mailstrom does not actually do anything to the mail, but it does let you see the hidden patterns in your mail so that you can concentrate your cleanup efforts more effectively.
+It is amazing how important contextual information is to accomplishing tasks – especially the boring ones!
+<P>
+At the moment, after a few days in the WiFi-free countryside, I have 17 messages from Dave Farber, 15 from the Business Insider group (it catches some related senders), and 11 from The New York Times.
+I just got rid of all the Times headlines in one fell swoop, leaving me with only 1,356 to go!
+<P>
+The other result of using Mailstrom is that it makes me more conscious of the emails that I send.
+How can I avoid having my messages end up in the jumble of emails that gets handled en masse by someone else – abandoned, sent to an archive, or, even worse, deleted?
+<P>
+The first rule is to have a clear, unique subject line – “follow-up re BioWorks, deadline Nov. 3” or “Oct. 12, dinner with Juan and Alice” versus “introduction” or “Hi!” or “investment.”
+That leaves little chance of my messages getting lumped with someone else’s.
+<P>
+Even worse are subject lines showing that the person actually thought a little – but not enough: “From Tiger Haynes” – yes, it says that in the “from” field as well.
+Or, “For Esther Dyson.”
+Or, in February, “Re: Re: lunch November 15” [of last year].
+<P>
+Although I cannot change the subject lines of messages that I receive (something I could do with Eudora and which I still miss), I can and do change the subject lines of my replies – though sometimes I forget.
+Whenever something concerns a specific date, I change the subject line to, say, “13 December” and file the message under “December 2012” for easy sorting and retrieval.
+<P>
+Another lesson is to make sure that the primary point of your message lies in the first paragraph or two of the text.
+(Don’t rely on attached files that the recipient may not open, or on graphics that will not load if the recipient is not online.
+Busy people travel a lot and often check their email in trains, planes, and the WiFi-free countryside, where online access is limited.)
+So, to the extent possible, include details such as dates, deadlines, locations, and requests.
+<P>
+I (and many others) have the annoying habit of replying to vague messages with a clarifying question, kicking the can down the road.
+Many of my email threads consist of a long initial message, a short question from me, another long reply from the original sender, and an unsatisfactory experience for everyone.
+<P>
+Of course, if you follow the news, you know that kids nowadays are not using email; they communicate via social networks and text messages.
+The social networks, meanwhile, are starting to create their own email services, which, of course, assume that your circle of friends lives within that particular social network (Facebook, Google+, etc.).
+<P>
+For many people, the value of social networks is that you don't have to answer everything; it is a group environment.
+But it is also a closed environment.
+As social-first users start to engage in business, whether at work or for their own finances, purchases, and the like, they will have to keep track of their communications.
+<P>
+The typical email system is unstructured, but at least you can see it all – and some of the metadata (dates, size, sender).
+By contrast, most social-network email is not just unstructured, but almost actively obscure.
+Most messages have no subject line, and at best you can see a single message thread.
+<P>
+Perhaps those message services will change, or perhaps Google, Facebook, or Yahoo! (for example) will buy Mailstrom.
+Regardless, the visibility that Mailstrom affords is likely to be widespread by the time the current generation of kids develops complex, transaction-based lives.
+Or so I hope!

@@ -1,0 +1,59 @@
+<HEADLINE>
+The World’s Priciest Stock Market
+<P>
+NEW HAVEN – The level of stock markets differs widely across countries.
+And right now, the United States is leading the world.
+What everyone wants to know is why – and whether its stock market’s current level is justified.
+<P>
+We can get a simple intuitive measure of the differences between countries by looking at price-earnings ratios.
+I have long advocated the cyclically adjusted price-earnings (CAPE) ratio that John Campbell (now at Harvard University) and I developed 30 years ago.
+<P>
+The CAPE ratio is the real (inflation-adjusted) price of a share divided by a ten-year average of real earnings per share.
+Barclays Bank in London compiles the CAPE ratios for 26 countries (I consult for Barclays on its products related to the CAPE ratio).
+As of December 29, the CAPE ratio is highest for the US.
+<P>
+Let’s consider what these ratios mean.
+Ownership of stock represents a long-term claim on a company’s earnings, which the company can pay to the owners of shares as dividends or reinvest to provide the shareholders more dividends in the future.
+A share in a company is not just a claim on next year’s earnings, or on earnings the year after that.
+Successful companies last for decades, even centuries.
+<P>
+So, to arrive at a valuation for a country’s stock market, we need to forecast the growth rate of earnings and dividends for an interval considerably longer than a year.
+We really want to know what the earnings will do over the next ten or 20 years.
+But how can one be confident of long-term forecasts of earnings growth across countries?
+<P>
+In pricing stock markets, people don’t seem to be relying on any good forecast of the next ten years’ earnings.
+They just seem to look at the past ten years, which are already done and gone, but also known and tangible.
+<P>
+But when Campbell and I studied earnings growth in the US with long historical data, we found that it has not been very amenable to extrapolation.
+Since 1881, the correlation of the past decade’s real earnings growth with the price-earnings ratio is a positive 0.32.
+But there is zero correlation between the CAPE ratio and the next ten years’ real earnings growth.
+And real earnings growth per share for the S&P Composite Stock Price Index over the previous ten years was negatively correlated (-17% since 1881) with real earnings growth over the subsequent ten years.
+That’s the opposite of momentum.
+It means that good news about earnings growth in the past decade is (slightly) bad news about earnings growth in the future.
+<P>
+Essentially the same sort of thing happens with US inflation and the bond market.
+One might think that long-term interest rates tend to be high when there is evidence that there will be higher inflation over the life of the bond, to compensate investors for the expected decline in the dollar’s purchasing power.
+Using data since 1913, when the consumer price index computed by the US Bureau of Labor Statistics starts, we find that the there is almost no correlation between long-term interest rates and ten-year inflation rates over succeeding decades.
+While positive, the correlation between one decade’s total inflation and the next decade’s total inflation is only 2%.
+<P>
+But bond markets act as if they think inflation can be extrapolated.
+Long-term interest rates tend to be high when the last decade’s inflation was high.
+US long-term bond yields, such as the ten-year Treasury yield, are highly positively correlated (70% since 1913) with the previous ten years’ inflation.
+But the correlation between the Treasury yield and the inflation rate over the next ten years is only 28%.
+<P>
+How can we square investors’ behavior with the famous assertion that it is hard to beat the market?
+Why haven’t growing reliance on data analytics and aggressive trading meant that, as markets become more efficient over time, all remaining opportunities to secure abnormal profits are competed away?
+<P>
+Economic theory, as exemplified by the work of Andrei Shleifer at Harvard and Robert Vishny of the University of Chicago, offers ample reason to expect that long-term investment opportunities will never be eliminated from markets, even when there are a lot of very smart people trading.
+<P>
+This brings us back to the mystery of what’s driving the US stock market higher than all others.
+It’s not the “Trump effect,” or the effect of the recent cut in the US corporate tax rate.
+After all, the US has pretty much had the world’s highest CAPE ratio ever since President Barack Obama’s second term began in 2013.
+Nor is extrapolation of rapid earnings growth a significant factor, given that the latest real earnings per share for the S&P index are only 6% above their peak about ten years earlier, before the 2008 financial crisis erupted.
+<P>
+Part of the reason for America’s world-beating CAPE ratio may be its higher rate of share repurchases, though share repurchases have become a global phenomenon.
+Higher CAPE ratios in the US may also reflect a stronger psychology of fear about the replacement of jobs by machines.
+The flip side of that fear, as I argued in the third edition of my book Irrational Exuberance, is a stronger desire to own capital in a free-market country with an association with computers.
+<P>
+The truth is that it is impossible to pin down the full cause of the high price of the US stock market.
+The lack of any clear justification for its high CAPE ratio should remind all investors of the importance of diversification, and that the overall US stock market should not be given too much weight in a portfolio.

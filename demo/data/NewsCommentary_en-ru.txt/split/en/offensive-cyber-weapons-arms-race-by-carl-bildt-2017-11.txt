@@ -1,0 +1,71 @@
+<HEADLINE>
+The Pandora’s Box of the Digital Age
+<P>
+STOCKHOLM – Is the world sliding dangerously toward cyber Armageddon?
+Let us hope not; but let us also apprehend the threat, and focus on what to do about it.
+<P>
+One country after another has begun exploring options for bolstering their offensive capabilities in cyberspace, and many other countries have already done so.
+This is a dangerous escalation.
+In fact, few other trends pose a bigger threat to global stability.
+<P>
+Almost all societies have become heavily dependent on the Internet, the world’s most important piece of infrastructure – and also the infrastructure upon which all other infrastructure relies.
+The so-called Internet of Things is a misnomer; soon enough, it will be the “Internet of Everything.”
+And our current era is not a Fourth Industrial Revolution; it is the beginning of the digital age, and the end of the industrial age altogether.
+<P>
+The digital age has introduced new vulnerabilities that hackers, cyber criminals, and other malign actors are already routinely exploiting.
+But even more alarming is the eagerness of national governments to conduct cyber-warfare operations against one other.
+<P>
+We have already reached the stage at which every conflict has a cyber dimension.
+The United States and Israel crossed the Rubicon in 2010 by launching the Stuxnet attack on Iran’s nuclear facilities.
+Now, there is no telling where ongoing but hidden cyber conflicts begin and end.
+<P>
+Things were different in the old world of nuclear weapons, which are complicated and expensive devices based on technology that only a few highly educated specialists have mastered.
+Cyber weapons, by contrast, are generally inexpensive to develop or acquire, and deceptively easy to use.
+As a result, even weak and fragile states can become significant cyber powers.
+<P>
+Worse still, cyber-war technologies have been proliferating at an alarming pace.
+While there are extensive safeguards in place to control access to sensitive nuclear technologies and materials, there is almost nothing preventing the dissemination of malicious software code.
+<P>
+To understand the scale of the threat we face, look no further than the “WannaCry” virus that, among other things, almost shut down the British National Health Service this past May.
+The virus exploited a vulnerability in the Microsoft Windows operating system that the US National Security Agency had already discovered, but did not report to Microsoft.
+After this information was leaked or stolen from the NSA, North Korea quickly put the ransomware to use, which should come as no surprise.
+In recent years, North Korea has launched numerous cyber attacks around the world, most notably against Sony Pictures, but also against many financial institutions.
+<P>
+And, of course, North Korea is hardly an exception.
+Russia, China, and Israel have also developed cyber weapons, which they are busy trying to implant in systems around the world.
+This growing threat is precisely why other countries have started talking about acquiring offensive cyber capabilities of their own: they want to have a deterrent to ward off attacks from other cyber powers.
+Cyber security is regarded as complicated and costly; but cyber offense is seen as inexpensive and sexy.
+<P>
+The problem is that, while deterrence works in the nuclear world, it isn’t particularly effective in the cyber world.
+Rogue actors – and North Korea is hardly the only example – are far less vulnerable than developed countries to cyber counterstrikes.
+They can attack again and again without risking serious consequences.
+<P>
+Cyber attacks’ often-ambiguous origins make it even harder to apply a rational theory of deterrence to the cyber world.
+Identifying the responsible party, if possible at all, takes time; and the risk of misattribution is always there.
+I doubt we will ever see unambiguous proof that Israel is conducting offensive cyber operations; but that certainly doesn’t mean that it isn’t.
+<P>
+In the darkness of cyberspace, sophisticated actors can hide behind oblivious third parties, who are then exposed to counterstrikes by the party under attack.
+And in the ongoing conflict among Gulf countries, at least one government may have contracted hackers based in other countries to conduct operations against an adversary.
+This method of avoiding detection will almost certainly become the norm.
+<P>
+In a world riven by geopolitical rivalries large and small, such ambiguity and saber-rattling in the cyber realm could have catastrophic results.
+Nuclear weapons are generally subject to clear, strict, and elaborate systems of command and control.
+But who can control the legions of cyber warriors on the dark web?
+<P>
+Given that we are still in the early stages of the digital age, it is anyone’s guess what will come next.
+Governments may start developing autonomous counterstrike systems that, even if they fall short of Dr. Strangelove’s Doomsday Machine, will usher in a world vulnerable to myriad unintended consequences.
+<P>
+Most obviously, cyber weapons will become a staple in outright wars.
+The United Nations Charter affirms all member states’ right to self-defense – a right that is, admittedly, increasingly open to interpretation in a kinetic, digitized world.
+The Charter also touches on questions of international law, particularly with respect to non-combatants and civilian infrastructure in conflict zones.
+<P>
+But what about the countless conflicts that do not reach the threshold of all-out war?
+So far, efforts to establish universal rules and norms governing state behavior in cyberspace have failed.
+It is clear that some countries want to preserve their complete freedom of action in this domain.
+<P>
+But that poses an obvious danger.
+As the NSA leaks have shown, there is no way to restrict access to destructive cyber weapons, and there is no reason to hope that the rules of restraint that governed the nuclear age will work in the cyber age.
+<P>
+Unfortunately, a binding international agreement to restrict the development and use of offensive cyber weapons in non-war situations is probably a long way off.
+In the meantime, we need to call greater attention to the dangers of cyber-weapon proliferation, and urge governments to develop defensive rather than offensive capabilities.
+An arms race in cyberspace has no winners.

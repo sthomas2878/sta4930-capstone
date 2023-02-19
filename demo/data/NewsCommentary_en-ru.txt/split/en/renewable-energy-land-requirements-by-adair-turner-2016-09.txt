@@ -1,0 +1,51 @@
+<HEADLINE>
+Who Has Space for Renewables?
+<P>
+LONDON – This summer, an electrical power auction in Chile attracted successful bids by wind generators willing to provide electricity at $0.04 per kilowatt hour and solar generators at $0.03 per kwh, easily beating fossil-fuel competitors.
+That success reflects dramatic cost reductions over the last six years, with the cost of solar power falling about 70% and wind-power costs down more than 30%.
+Further reductions are inevitable.
+<P>
+Of course, the sun doesn’t always shine, and the wind doesn’t always blow, but intermittency problems are increasingly solvable as the cost of battery and other energy storage falls, and as smart meters and control systems make it possible to shift the timing of some electricity demand.
+It is now certain that, within 20 years, many countries could get most of their electricity from renewable sources at an easily affordable price.
+<P>
+To be sure, solar and wind farms require large land areas.
+But at the global level, there is plenty of space.
+<P>
+Solar energy reaching Earth totals more than 5,000 times today’s human consumption.
+Demand will likely double if the world population grows (as United Nations forecasts suggest) from 7.2 billion today to 11 billion by 2100, and if all 11 billion people attain standards of living now enjoyed only in developed economies.
+And today’s solar panels can turn only about 20% of solar energy into electricity (though that ratio will increase over time).
+But even allowing for these factors, estimated space requirements for solar energy sufficient to power the entire world are reassuringly trivial, at 0.5-1% of global land area.
+<P>
+For individual countries however, the challenges vary greatly, reflecting dramatic differences in population density.
+Chile has 24 people per square kilometer, the United States 35, and India 441 – a figure likely to rise to around 570 by 2050 – while Bangladesh’s is already above 1,200.
+Uganda’s population density today is 195 per square kilometer, but could grow to around 1,000 by 2100.
+China’s level will remain stable, at a moderate 145 people per square kilometer, with its densely populated coastal regions offset by large expanses of desert and mountains to the west.
+<P>
+Land allocated to wind power is not lost to agricultural production, because crops can be grown and animals grazed between the turbines.
+But higher population density makes it more difficult and expensive to rely on renewables alone.
+If South Korea, with a population density of 517, tried to meet all its energy needs with wind power, it would have to cover its entire land area with wind farms.
+<P>
+And in countries rich enough to care about landscape beauty, higher population density makes clean energy more expensive.
+In the UK, where the overall population density is 267 per square kilometer, but 413 in England, the current government opposes new onshore wind farms because of their adverse aesthetic impact.
+As a result, Britain will have to rely also on offshore wind and nuclear electricity to build a low-carbon economy, adding some 2-3 cents per kilowatt hour to the cost of electricity.
+<P>
+But the far bigger challenges are those some emerging economies already face, and that several African countries will confront in the future.
+With population densities eight and 22 times the global average, respectively, India would have to devote 4% of its land to solar parks to meet all of its energy needs, and Bangladesh more than 10%.
+<P>
+Moreover, in India, unlike in Chile or the US, competition between alternative land uses is already intense in some areas.
+For example, India’s ambition to develop a large manufacturing sector has sometimes been hampered by contentious and even violent disputes over land allocation.
+In some parts of the country, such as the Rajasthan desert, it will be possible to develop large solar facilities; elsewhere, land availability might limit feasible renewables development.
+And while solar panels can and must be deployed on roof tops and in other urban locations, the costs will be higher than in countries where land is easily available.
+<P>
+That means that while renewables must play a major role in decarbonization everywhere, in some countries other technologies such as nuclear power or carbon capture and storage may have to carry more of the burden.
+And improvements in energy productivity – via better urban design, for example – that enable income growth while limiting required energy input become more important in more densely populated countries where decarbonization will be more difficult.
+<P>
+Indeed, some of the world’s most densely populated countries face a double disadvantage; they are often the most exposed to the adverse effects of climate change, and building low carbon economies may be more difficult.
+Conversely, already-rich and lightly populated countries – such as the US, Australia, and Chile – are blessed with enough space to build low-carbon energy systems at very low cost and with trivial consequences for agricultural land availability or landscape aesthetics.
+<P>
+This may have important implications for global trade.
+The shale-gas revolution has already increased the prospect that energy-intensive manufacture may return to the US; and, as automation makes differences in labor costs less important, low-cost renewable energy may drive still more “onshoring.”
+But that would further complicate emerging economies’ ability to generate sufficient employment for rapidly growing populations.
+<P>
+Dramatic progress in renewable electricity is a hugely positive development; but the benefits are most easily grasped in developed, relatively sparsely populated countries.
+Many other technologies and well-designed policies – both domestic and international – will be needed to enable less-endowed countries to build successful low-carbon economies.

@@ -1,0 +1,53 @@
+<HEADLINE>
+Keep the Internet Tax-Free
+<P>
+WASHINGTON, DC – When you spark one of the largest protests in Eastern Europe since the fall of communism, you know that you have stirred up the electorate.
+That is exactly what the Hungarian government did when it recently proposed an “Internet tax” of 50 euro cents ($0.62) per gigabyte.
+More than 100,000 protesters gathered in Budapest, furious at the political symbolism of the tax and its very real economic impact.
+Prime Minister Viktor Orbán’s government quickly backed down.
+<P>
+Hungary’s proposed tax was absurd – akin to assessing fees on reading books or charging people to have conversations with friends.
+But the proposal, even if discarded (though Orbán has hinted that he may bring it back in another form), remains worrisome, because it is part of a disturbing trend.
+A large number of countries have introduced taxes and tariffs that hamper the adoption and use of information and communications technology (ICT).
+All together, 31 countries – including Turkey, Brazil, and Greece – add 5% or more to the cost of ICT, on top of standard value-added taxes.
+<P>
+In Hungary, the proposed tax would have been particularly onerous, because it would raise the cost of mobile data by 5-15% and have an even bigger impact on fixed broadband subscriptions.
+For the young and the poor, it would be a significant burden.
+A cap of €2.30 per person, hastily proposed after the initial public outcry, and before the proposal was withdrawn, would have done little to ease that burden on low-income Internet users, while drastically reducing the program’s overall revenue.
+<P>
+As the protesters in Budapest pointed out, the proposed tax is wrong for Hungary.
+It is wrong for other countries, too.
+Cash-strapped governments adopt these taxes because ICT goods and services are an easy target for revenue authorities.
+In addition, they are sometimes mischaracterized as luxury products – as if the Internet has not become central to peoples’ lives.
+<P>
+These policies are ultimately self-defeating.
+The resulting price hikes impede the adoption and use of ICT, lowering tax revenues from purchases of goods and services.
+And the evidence shows an even larger indirect effect: restricting ICT adoption dampens growth.
+Ultimately, this has a negative impact on total tax revenues, offsetting any gains from fees on Internet use.
+One study found that for every dollar equivalent of tariffs India imposed on imported ICT products it suffered an economic loss of $1.30 from lower productivity.
+<P>
+Taxes on ICT are the modern-day equivalent of eating the grain you were saving to plant next year.
+The adoption of ICT drives fundamental technological change, potentially transforming a broad range of industries, as well as people’s daily lives.
+For businesses, ICT can improve efficiency and facilitate coordination.
+For individuals, it can boost incomes and make everyday life more convenient.
+<P>
+The benefits of ICT goods and services grow significantly as more businesses and consumers start to use them.
+Smart government policies, such as subsidies or tax breaks for ICT purchases, boost adoption by helping users who would not otherwise be able to afford them.
+Taxing the Internet, like other taxes and tariffs on ICT goods and services, has the opposite effect.
+<P>
+Hungary’s proposed tax was especially pernicious, owing to its poor design.
+Because the tax was a flat €0.50 per gigabyte, its share in total ICT spending would rise as the cost of a gigabyte fell – as it is almost guaranteed to do.
+The cap on such a tax would prevent the rate from spiraling upward, but rising bandwidths would cause most users to max out quickly, affecting not only the poorest consumers, but also new or small businesses.
+Keeping poor people and entrepreneurs off the Internet is no way to fund a government.
+<P>
+Countries would be better off with policies that promote ICT: elimination of taxes and tariffs on ICT products and services, removal of non-tariff barriers like requiring local data storage, and encouragement of digital innovation and transformation in economic sectors through regulatory and procurement reform.
+The resulting rise in productivity, competitiveness, and economic growth would establish a far more stable and successful foundation for increasing tax revenues.
+<P>
+The European Union as a whole has done a good job of keeping ICT taxes and tariffs low, despite substantial fiscal difficulties in many countries.
+Indeed, the overall non-discriminatory tax regime has been an important boon to ICT adoption, and the EU’s commissioner for the digital agenda spoke out strongly against Hungary’s proposed tax, calling it “a particularly bad idea.”
+The only EU country with significant taxes on ICT products and services (around 9%) is Greece, something of a special case in Europe.
+<P>
+The recent actions by Hungarian policymakers show that no country is immune to bad policy ideas.
+Governments need revenue, but how they raise it shapes their countries’ economies by encouraging some transactions and discouraging others.
+Policies that encourage ICT adoption are the right choice for long-term and inclusive economic growth.
+As the case of Hungary showed, ultimately it is up to citizens to hold governments accountable and ensure that tax and tariff policies work for the benefit of all.

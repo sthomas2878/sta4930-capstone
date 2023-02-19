@@ -1,0 +1,57 @@
+<HEADLINE>
+What to Do with Doing Business?
+<P>
+CAMBRIDGE – Under pressure from China and other governments, the World Bank is considering discontinuing its Doing Business report.
+It has asked Trevor Manuel, a long-time South African cabinet minister, to lead a commission to look into the matter.
+<P>
+Doing Business – the brainchild of, among others, my Harvard colleague Andrei Shleifer and Simeon Djankov, a World Bank staffer who later became Bulgaria’s finance minister – measures such indicators as the time and cost required to register a business, pay taxes, trade across borders, obtain a loan, get a construction license, or enforce a contract.
+The data are provided by law firms, which complete a questionnaire about the legal and administrative requirements of performing these tasks.
+<P>
+The project emerged from a research question that goes to the heart of the debate on the proper role and actual motivations of the state in regulating markets: Does regulation exist to achieve some laudable social goal or mainly to extract rents?
+This question has long divided economists along a right-left axis, at least since University of Chicago economists George Stigler and Milton Friedman argued that many, if not most, regulations were motivated by rent-seeking among bureaucrats and business incumbents.
+<P>
+The Doing Business project calculates dozens of separate indicators that are then averaged into a single number.
+As with all numerical indicators that try to express a very complex reality, there is always room for improvement.
+<P>
+I, for one, find the underlying indicators more informative than the average.
+Averaging the numbers assumes that all components are substitutes: if you cannot improve on one, you can compensate by improving on another.
+But I think of them as complements: if you cannot build your plant, you do not benefit from more accommodating trade rules.
+A single problem can be fatal, even if other indicators are strong.
+<P>
+Moreover, Doing Business measures the burden of compliance with regulations, not their effectiveness.
+The indicators do not penalize a country that cheaply and expeditiously authorizes shoddy construction projects, dangerous imports, or abusive labor practices.
+<P>
+Nevertheless, the burdens in some countries are so obvious that they could hardly be explained as the consequence of anything other than ineptitude or predation.
+By making visible some government inefficiencies, the report has galvanized pressure to streamline procedures, with many countries adopting policies to reduce the burden that their regulations place on their citizens.
+<P>
+The indices name and shame poor performers, so it is no surprise that these countries – like China, which is ranked 91st – object to Doing Business.
+This should be reason enough to continue the report; indeed, the fact that China has the world’s highest investment rate suggests that, despite the Doing Business indicators, it is possible to do business there.
+<P>
+The idea of creating and publishing an index with country rankings is a strategy adopted by many organizations and social movements to raise awareness about issues such as corruption, governance, freedom, gender equality, competitiveness, productive knowhow, and the investment climate, among others.
+The main problem with these indices is not so much how they are calculated as how they are used.
+<P>
+In general, such indices work best as a catalyst for debate about an issue.
+By contrast, they work very badly when viewed as a policy framework.
+It is common – but almost never wise – to think that the goal of policy should be to improve countries’ rankings.
+<P>
+For example, in a recent paper, Shleifer and his co-authors measured government effectiveness by mailing letters to non-existent business addresses in 159 countries and measuring how long it took for the letters to be returned – or whether they were returned at all.
+They found that this indicator correlated very well with many other governance indicators.
+<P>
+Typically, countries that are bad at running a post office are also bad at running other organizations.
+But it does not follow that if a country wants to improve government effectiveness it should focus on returning wrongly addressed letters promptly.
+<P>
+This point applies to the Doing Business report.
+For example, to measure the difficulty of dealing with licenses, Doing Business’s indicators examine the burden of obtaining a permit to build a warehouse.
+But firms must deal with licenses in many areas – such as medical devices and drugs, radio stations, mines, bars, banks, insurance companies, airlines, and taxis – that are not included in the report’s indicators, even though they may be major obstacles to doing business.
+Countries that regard raising their ranking as a policy goal have no incentive to improve licensing procedures in any of these other areas.
+<P>
+Moreover, in the Atlas of Economic Complexity, my co-authors and I show that these indicators are weakly related, if at all, to economic growth.
+Improving on them does not foretell more economic dynamism.
+<P>
+Many countries – including Colombia, Liberia, Mexico, and Saudi Arabia – have at some point made improvement in the Doing Business ranking, or that of the World Economic Forum’s Global Competitiveness Report, a policy goal.
+This distracted them from focusing on what is important rather than on what was included in the index.
+<P>
+Countries should, instead, focus on the ultimate goal: generating a rapid increase in the number of productive jobs.
+The challenge consists in finding ways to get there, and is best addressed through rich and deep interactions between government and society.
+International benchmarks may be useful for getting an idea of achievable performance in a particular area; the more, the better.
+But the key is to improve on the areas that matter, regardless of whether existing global indicators cover them.

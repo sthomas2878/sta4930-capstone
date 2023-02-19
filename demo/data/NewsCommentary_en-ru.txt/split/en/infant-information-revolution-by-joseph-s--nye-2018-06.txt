@@ -1,0 +1,65 @@
+<HEADLINE>
+Our Infant Information Revolution
+<P>
+CAMBRIDGE – It is frequently said that we are experiencing an information revolution.
+But what does that mean, and where is the revolution taking us?
+<P>
+Information revolutions are not new.
+In 1439, Johannes Gutenberg’s printing press launched the era of mass communication.
+Our current revolution, which began in Silicon Valley in the 1960s, is bound up with Moore’s Law: the number of transistors on a computer chip doubles every couple of years.
+<P>
+By the beginning of the twenty-first century, computing power cost one-thousandth of what it did in the early 1970s.
+Now the Internet connects almost everything.
+In mid-1993, there were about 130 websites in the world; by 2000, that number had surpassed 15 million.
+Today, more than 3.5 billion people are online; experts project that, by 2020, the “Internet of Things” will connect 20 billion devices.
+Our information revolution is still in its infancy.
+<P>
+The key characteristic of the current revolution is not the speed of communications; instantaneous communication by telegraph dates back to the mid-nineteenth century.
+The crucial change is the enormous reduction in the cost of transmitting and storing information.
+If the price of an automobile had declined as rapidly as the price of computing power, one could buy a car today for the same price as a cheap lunch.
+When a technology’s price declines so rapidly, it becomes widely accessible, and barriers to entry fall.
+For all practical purposes, the amount of information that can be transmitted worldwide is virtually infinite.
+<P>
+The cost of information storage has also declined dramatically, enabling our current era of big data.
+Information that once would fill a warehouse now fits in your shirt pocket.
+<P>
+In the middle of the twentieth century, people feared that the computers and communications of the current information revolution would lead to the type of centralized control depicted in George Orwell’s dystopian novel 1984.
+Big Brother would monitor us from a central computer, making individual autonomy meaningless.
+<P>
+Instead, as the cost of computing power has decreased and computers have shrunk to the size of smart phones, watches, and other portable devices, their decentralizing effects have complemented their centralizing effects, enabling peer-to-peer communication and mobilization of new groups.
+Yet, ironically, this technological trend has also decentralized surveillance: billions of people nowadays voluntarily carry a tracking device that continually violates their privacy as it searches for cell towers.
+We have put Big Brother in our pockets.
+<P>
+Likewise, ubiquitous social media generate new transnational groups, but also create opportunities for manipulation by governments and others.
+Facebook connects more than two billion people, and, as Russian meddling in the 2016 US presidential election showed, these connections and groups can be exploited for political ends.
+Europe has tried to establish rules for privacy protection with its new General Data Protection Regulation, but its success is still uncertain.
+In the meantime, China is combining surveillance with the development of social credit rankings that will restrict personal freedoms such as travel.
+<P>
+Information provides power, and more people have access to more information than ever before, for good and for ill.
+That power can be used not only by governments, but also by non-state actors ranging from large corporations and non-profit organizations to criminals, terrorists, and informal ad hoc groups.
+<P>
+This does not mean the end of the nation-state.
+Governments remain the most powerful actors on the global stage; but the stage has become more crowded, and many of the new players can compete effectively in the realm of soft power.
+A powerful navy is important in controlling sea-lanes; but it does not provide much help on the Internet.
+In nineteenth-century Europe, the mark of a great power was its ability to prevail in war, but, as the American analyst John Arquilla has pointed out, in today’s global information age, victory often depends not on whose army wins, but on whose story wins.
+<P>
+Public diplomacy and the power to attract and persuade become increasingly important, but public diplomacy is changing.
+Long gone are the days when foreign service officers carted film projectors to the hinterlands to show movies to isolated audiences, or people behind the Iron Curtain huddled over short-wave radios to listen to the BBC.
+Technological advances have led to an explosion of information, and that has produced a “paradox of plenty”: an abundance of information leads to scarcity of attention.
+<P>
+When people are overwhelmed by the volume of information confronting them, it is hard to know what to focus on.
+Attention, not information, becomes the scarce resource.
+The soft power of attraction becomes an even more vital power resource than in the past, but so does the hard, sharp power of information warfare.
+And as reputation becomes more vital, political struggles over the creation and destruction of credibility multiply.
+Information that appears to be propaganda may not only be scorned, but may also prove counterproductive if it undermines a country’s reputation for credibility.
+<P>
+During the Iraq War, for example, the treatment of prisoners at Abu Ghraib and Guantanamo Bay in a manner inconsistent with America’s declared values led to perceptions of hypocrisy that could not be reversed by broadcasting images of Muslims living well in America.
+Similarly, President Donald Trump’s tweets that prove to be demonstrably false undercut American credibility and reduce its soft power.
+<P>
+The effectiveness of public diplomacy is judged by the number of minds changed (as measured by interviews or polls), not dollars spent.
+It is interesting to note that polls and the Portland index of the Soft Power 30 show a decline in American soft power since the beginning of the Trump administration.
+Tweets can help to set the global agenda, but they do not produce soft power if they are not credible.
+<P>
+Now the rapidly advancing technology of artificial intelligence or machine learning is accelerating all of these processes.
+Robotic messages are often difficult to detect.
+But it remains to be seen whether credibility and a compelling narrative can be fully automated.

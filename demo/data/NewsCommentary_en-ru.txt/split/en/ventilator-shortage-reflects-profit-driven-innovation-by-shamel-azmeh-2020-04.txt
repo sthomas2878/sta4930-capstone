@@ -1,0 +1,55 @@
+<HEADLINE>
+The Perverse Economics of Ventilators
+<P>
+MANCHESTER – As the coronavirus has spread around the world, the need for ventilators has soared.
+In the United Kingdom, the National Health Service estimates that it will need at least 30,000 more of these critical devices.
+In New York, Governor Andrew Cuomo also has called for 30,000 more, warning that New York City will soon run out.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Ramping up production to meet this demand is a huge challenge.
+In Italy, the only ventilator manufacturer, Siare Engineering, has been asked to increase its production from 125 per month to at least 500 per month.
+Likewise, Ventilator Challenge UK, a consortium of firms that includes some of the biggest names in British manufacturing, is desperately trying to scale up production.
+And in the United States, President Donald Trump has finally invoked the 1950 Defense Production Act and ordered General Motors to make ventilators.
+<P>
+Not surprisingly, the situation is far worse in poorer countries, where the supply of available ventilators is minimal and money to acquire more is scarce.
+In the Central African Republic, for example, there are just three ventilators for the entire country; in Liberia, there is reportedly only one.
+Bangladesh has fewer than 2000 ventilators for a population of more than 160 million.
+<P>
+Under these conditions, it is easy to criticize governments for not being prepared to supply hospitals with critical equipment in the event of an emergency.
+But even if countries maintained a “strategic reserve” of ventilators, they probably would not have enough to meet current needs.
+Nor can existing firms be expected to multiply their output overnight, given their reliance on just-in-time supply chains, lack of staff, and other factors.
+<P>
+The fact is that it is very difficult for any economic system to meet such an increase in demand in such a short period of time.
+Nonetheless, today’s critical shortage of ventilators (and of diagnostics and therapeutics) is also a symptom of structural flaws in the prevailing economic model.
+At issue is not just where resources are allocated, but also how technological development is envisioned and determined in the first place, and the extent to which such choices consider public health.
+The COVID-19 crisis requires that we reflect on fundamental questions concerning what we produce, how we produce it, and for whom.
+<P>
+Since assisted-breathing devices were invented in the 1920s, they have undergone significant technological development, acquiring sensors, monitors, and other features to determine and display a patient’s breathing curve.
+Yet the same economic model that provided the investments needed for these innovations also put ventilator technology on a path that made units more expensive and difficult to produce and operate, owing to their growing complexity.
+As Bernard Olayo of the Center for Public Health and Development in Kenya points out, even if poor countries could afford the necessary supply of ventilators, many still would lack enough people qualified to operate them.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Ventilator technology did not have to evolve in a way that has left it beyond the reach of most of the world’s people.
+The fact that innovation is driven by market demand meant that firms had an incentive to develop more expensive and complex machines, to protect their technologies through intellectual-property regimes, and to sell these machines to those who could afford them – largely the rich economies.
+Even access to repair information is usually restricted by the manufacturer.
+<P>
+This was not the only path available.
+Alongside the more sophisticated ventilators, we could have developed simpler, more affordable, and more user-friendly models.
+In fact, in 2006, following the 2003 SARS outbreak, the Biomedical Advanced Research and Development Authority (BARDA), a newly created division within the US Department of Health and Human Services, set out to do precisely that.
+The agency produced a design for a ventilator that would be affordable, mobile, and simple enough to be stockpiled and quickly deployed.
+In project documents submitted to Congress, BARDA staff warned that current ventilator technology was too bulky, expensive, and technically difficult to operate.
+<P>
+Soon thereafter, a private company was awarded a multi-million-dollar government contract to develop a more affordable and usable ventilator, and by 2011, it had presented a prototype to US government officials.
+In 2012, however, the company was acquired by a large medical-device manufacturer that produced “traditional” ventilators, as part of a wider process of industry concentration that has raised questions related to competition and antitrust law.
+The prototype project was eventually terminated, raising suspicions among government officials and other device manufacturers that the takeover bid had been motivated by precisely that goal.
+<P>
+Owing to our reliance on market forces to allocate resources for innovation, we now only produce ventilators that are expensive, immobile, proprietary, highly technical, and difficult to use, when what we really need are affordable, mobile, simple, user-friendly machines.
+In attempting to develop such a device, the US government relied on market mechanisms and profit-driven private firms whose incentives turned out to run counter to the interests of public health.
+<P>
+The disastrous shortage of ventilators in the face of COVID-19 should make clear that, particularly in essential domains like public health, we need to rethink what we mean by innovation and how we direct and pursue it.
+We also need new international mechanisms to promote innovations that make technology more affordable, easier to produce and maintain, and simpler to use, rather than merely more profitable and more complex.
+A technology that was invented a century ago should not still be beyond the reach of most countries in the world.
+We are now learning that lesson the hard way.

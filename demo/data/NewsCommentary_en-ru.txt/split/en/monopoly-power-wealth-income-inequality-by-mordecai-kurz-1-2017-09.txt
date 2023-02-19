@@ -1,0 +1,74 @@
+<HEADLINE>
+The New Monopolists
+<P>
+STANFORD – For more than 30 years in advanced economies, particularly the United States, wealth and income inequality have increased, real (inflation-adjusted) wages have risen slowly, and retirees have faced declining interest rates on savings.
+This has occurred while corporate profits and stock prices have risen sharply.
+Now, research I have conducted shows that these changes were primarily caused by the rise in modern information technology (IT).
+<P>
+IT has impacted the economy in myriad ways; the computer, the Internet, and mobile technology have transformed media, online retailing, the pharmaceutical industry, and countless other consumer-related services.
+IT has improved life enormously.
+<P>
+But, by enabling the rise of monopoly power, and by facilitating barriers to entry, the growth of IT has also had major negative economic, social, and political side effects, including the proliferation of “fake news.”
+<P>
+For starters, the very structure of the IT sector allows for the formation of monopoly power.
+IT has improved the processing, storage, and transmission of data, and IT innovators are the sole owners of major information channels that they actively work to prevent competitors from using.
+<P>
+IT firms could defend their monopoly power through patents or by copyrighting intellectual property.
+But these routes require making trade secrets public.
+So, for strategic reasons, many firms forego legal protections, and consolidate a dominant market position by issuing ongoing software updates that, by default, serve as barriers that are difficult for competitors to breach.
+When potential new technologies emerge, bigger firms often acquire their challengers, either to develop the competing technologies on their own, or to suppress them.
+<P>
+Once an innovative firm establishes platform dominance, size becomes an advantage.
+Because the cost of processing and storing information has declined in recent years, a firm with a size advantage has smaller operating costs, and profits rise rapidly as the number of users multiplies (Google and Facebook are good examples).
+These cost and economies-of-scale advantages are almost impossible for competitors to overcome.
+<P>
+In addition, because these firms derive their power from information, their positions are enhanced by their ability to use their customers’ private information as a strategic asset.
+Indeed, many IT platforms are not producers in the traditional sense; they are public utilities that enable coordination and information-sharing among users in diverse fields.
+In short, IT enables the creation of barriers to market entry, and then encourages leading firms to become further entrenched.
+With the pace of IT innovation increasing, monopoly power is also rising.
+<P>
+In a recent paper measuring the economic effects of monopoly power, I approximated normal levels above which profits or stock values are not purely chance events, but rather reflective of monopoly power.
+With these levels, I measured the monopoly component of total stock values – what I call “monopoly wealth” – and of monopoly profits or rent.
+I then sought to determine how monopoly wealth and rent have evolved.
+<P>
+The figure below shows monopoly wealth as a percentage of total stock-market value between 1985 and 2015.
+As the data show, there was no monopoly wealth in the 1980s.
+But as the IT industry developed, monopoly wealth rose dramatically; it reached 82% of total stock-market value – equivalent to some $23.8 trillion – in December 2015.
+This is the extra wealth gained by rising monopoly power, and it is continuing to grow.
+<P>
+To put in perspective the percentage of monopoly wealth, consider the related sharp rise in corporate leverage.
+In 1960, the percentage of all real corporate assets financed by debt was less than 20%.
+By 2015, that share had risen to about 80%, meaning that most capital held by public corporations today is owned and traded by bondholders.
+In other words, investors have agreed to finance corporate debt by using monopoly wealth as collateral, and most trading in the stock market can therefore be thought of as traded ownership of monopoly wealth.
+<P>
+As the table below shows, nine of the ten firms with the largest monopoly wealth in December 2015 are IT-related, focusing on mobile communications, social media, online retailing, and drugs.
+Similarly, most monopoly wealth among the top 100 firms, is being created by companies transformed by IT.
+<P>
+Income created by firms with monopoly power is divided into three types: labor income, normal interest income paid to capital, and monopoly profits.
+The data show that in the 1970s and early 1980s, monopoly profits were negligible.
+But since 1984, the share of monopoly profits has risen steadily; it reached 23% of total income produced by American corporations in 2015.
+This means that during the three decades before 2015, monopoly power caused the combined shares of wages and normal interest on capital to decline by 23%.
+<P>
+Rising productivity and capital accumulation increases wages and capital income, but monopoly power reduces these income shares.
+This partly explains why, during the 1985-2015 period, wages exhibited sluggish growth and retirees faced declining interest rates on their savings.
+<P>
+Why, then, has rising monopoly power in the IT sector caused income and wealth to concentrate in fewer hands, leading to an increase in personal income and wealth inequality?
+<P>
+One part of the answer is that rising monopoly power increased corporate profits and sharply boosted stock prices, which produced gains that were enjoyed by a small population of stockholders and corporate management.
+But, given that many IT entrepreneurs were young at the start of their careers, with limited ownership of stocks, a more refined explanation is needed.
+<P>
+Since the 1980s, IT innovations have largely been software-based, giving young innovators an advantage.
+Additionally, “proof of concept” studies are typically inexpensive for software innovations (except in pharmaceuticals); with modest capital, IT innovators can test ideas without surrendering a major share of their stock.
+As a result, successful IT innovations have concentrated wealth in fewer – and often younger – hands.
+<P>
+This was not true in the twentieth century, when major innovations in leading sectors such as automobiles required large investments of risk capital.
+With more investors needed, the wealth created was distributed more broadly.
+<P>
+The negative side effects of IT are not well understood, and public discussion of how to regulate the sector is urgently needed.
+Three considerations are critical.
+First, because most technology-based monopoly power does not violate existing antitrust laws, regulating IT will require new measures to weaken monopolies.
+New concepts of the public interest are also needed for regulating new public information channels such as social networks.
+Second, standard views of business income and wealth taxation will need to be adapted to account for IT firms’ monopoly power.
+And, third, laws intended to protect private information should be reevaluated to ensure that IT companies are unable to profit from exploiting and manipulating it.
+<P>
+Above all, the public must develop a deeper understanding of the economic effects of IT, particularly how technologies that have improved the lives of so many are enriching the lives of so few.

@@ -1,0 +1,51 @@
+<HEADLINE>
+COVID-19 by the Numbers
+<P>
+LONDON – One death is a tragedy; a million deaths is a statistic.
+Whether or not Stalin actually said this, it is a cruelly accurate description of economic reality.
+The global panic about the new coronavirus, COVID-19, is understandable, because every premature death is a human tragedy.
+But, callous as it may sound, the economic and political impact of this pandemic will ultimately be determined by the numbers.
+Fortunately, in this case, the relevant ones are developing in a much less alarming way than panicked media headlines might suggest.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Those headlines may become even more hysterical in the coming weeks, because the US has only just started widespread coronavirus testing.
+It is all but certain that the number of Americans identified as suffering and dying from COVID-19 will escalate rapidly, with financial and economic sentiment responding accordingly, before public opinion in the US and around the world starts to calm by late April or May.
+But, whatever the precise timing, the statistical evidence in the two months since the outbreak began suggests that COVID-19 will end up having a negligible effect on health and mortality globally, except in China’s Hubei province, where the epidemic started.
+<P>
+The charts below speak for themselves to anyone who understands exponential compounding in any contagion process.
+The four charts below show how the media, politicians, and investors view the coronavirus threat.
+In every country where major outbreaks have started, infection levels are escalating almost vertically and apparently following the early pattern in Hubei, with the number of victims doubling every 3-4 days.
+But note the enormous disparity between the scales of these seemingly similar epidemics (shown on the left and right of the charts).
+In Hubei, 40,000 people had been infected in the first three weeks of the epidemic.
+The comparable figures in the first three weeks of the epidemics in South Korea and Italy, the worst-affected countries outside China, were 5,000 and 2,500, respectively.
+<P>
+<P>
+The next chart suggests a different, and more meaningful, way of looking at the global spread of coronavirus.
+It also shows a striking similarity between the epidemics in Hubei and other regions, but with a very different message.
+In every affected region, the spread of the virus, shown here on a logarithmic scale (as is appropriate for any exponential contagion process), is slowing almost to a standstill, roughly in line with the experience of Hubei.
+The media predictably prefer the sensational-looking linear story that extrapolates the Hubei experience into a global apocalypse with millions or billions of victims.
+More surprising is that many politicians and healthcare professionals are also promoting this misleading view.
+<P>
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+If we recognize that contagion is an exponential process that is proportional to the population, then the evidence thus far is far from apocalyptic.
+China’s success in stabilizing the rate of contagion in 4-6 weeks seems to be mirrored in three of the four other Asian countries with a sufficient number of cases and epidemic duration to start drawing meaningful conclusions: Singapore, Japan, and Hong Kong.
+While the recent surge in Korean cases looks much more alarming, as does the epidemic in Northern Italy, the exponential trend lines in both countries have also turned down from convex to concave, roughly paralleling the experiences a month or so earlier in Hong Kong, Singapore, Japan, and China outside Hubei province.
+<P>
+Leaving aside Hubei, where the virus was allowed to proliferate unchecked for a month or more, the asymptotic infection level to which all the lines appear to be converging is between 10-100 cases per million of population – or between one-tenth and one-hundredth of the confirmed infection rate of 1,100 per million in Hubei.
+The evidence from all the infected regions, even including Hubei province, is that the spread of the virus drops to a negligible level once the contagion curve flattens, perhaps because the badly infected patients have been thoroughly isolated and treated, while the contagion from non-symptomatic carriers is actually much weaker than initially feared.
+<P>
+So, rather than preparing for a disaster-movie scenario, in which authoritarian governments around the world round up billions of people and incarcerate them in Hubei-style lockdowns, it seems more reasonable to expect something like the following scenario.
+For every million people in the global population, 10-100 seem likely to catch the virus in an observable form.
+With a global population of 7.5 billion, the number of people with coronavirus worldwide, beyond the more than 67,000 patients already diagnosed in Hubei Province, would thus rise from nearly 40,000 today tobetween 75,000 and 750,000.
+<P>
+That may seem a very wide range of uncertainty, but the important point is that even the top of this range is vastly lower than the worst-case scenarios currently dominating the media.
+Moreover, to judge by the clinical experience in Asian countries with decent health-care and administrative systems, only 2-3% of these patients are likely to die.
+In Singapore, the country with the highest initial per capita infection rate after China, not a single coronavirus patient has died so far.
+<P>
+Admittedly, the death toll in poor countries with less efficient health care will probably be much higher.
+But even if the global death toll were four or five times higher than the experience in advanced Asian countries, say 10% mortality instead of 2-3%, that would mean between 7,500 and 75,000 deaths globally, on top of the 2,800 patients who have already died in Hubei.
+This would be a human tragedy; but as a statistic with economic or political impact, it would be just an imperceptible blip compared to the 55 million people globally who die under normal health and mortality conditions every year.

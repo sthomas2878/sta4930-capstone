@@ -1,0 +1,70 @@
+<HEADLINE>
+The Unspoken Reason for Lockdowns
+<P>
+LONDON – The COVID-19 pandemic is the first major global crisis in human history to be treated as a mathematical problem, with governments regarding policy as the solution to a set of differential equations.
+Excluding a few outliers – including, of course, US President Donald Trump – most political leaders have slavishly deferred to “the science” in tackling the virus.
+The clearest example of this was the UK government’s sudden shift on March 23 to an aggressive lockdown policy, following a nightmarish forecast by Imperial College London researchers of up to 550,000 deaths if nothing was done to combat the pandemic.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Such modeling is the correct scientific approach when the question debars experiment.
+You can test a new drug by subjecting two groups of lab rats to identical conditions, except for the drug they are given, or by administering it to randomly selected humans in clinical trials.
+<P>
+But you can’t deliberately insert a virus into a human population to test its effects, although some Nazi concentration-camp doctors did just that.
+Instead, scientists use their knowledge of the infectious pathogen to model a disease’s pattern of contagion, and then work out which policy interventions will modify it.
+<P>
+Predictive modeling was first developed for malaria over a century ago by an almost-forgotten English doctor, Ronald Ross.
+In a fascinating 2020 book, the mathematician and epidemiologist Adam Kucharski showed how Ross first identified the mosquito as the infectious agent through experiments on birds.
+From this fact, he developed a predictive model of malaria transmission, which was later generalized as the SIR (Susceptible, Infected, and Recovered) model of contagious-disease epidemics.
+<P>
+The question that interested epidemiologists was not what triggers an epidemic, but what causes it to end.
+They concluded that epidemics end naturally when enough people have had the disease so that further transmission rates decline.
+Basically, the virus runs out of hosts in which it can reproduce itself.
+In today’s jargon, the population develops “herd immunity.”
+<P>
+The science developed from Ross’s original model is almost universally accepted, and has been fruitfully applied in other contexts, like financial contagion.
+But no policymaker is prepared to allow a killer epidemic to run its natural course, because the potential death toll would be unacceptable.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+After all, the 1918-19 Spanish flu killed some 50-100 million people out of a global population of two billion: a death rate between 2.5% and 5%.
+No one knew for sure what the COVID-19 death rate would have been had the spread of the coronavirus been uncontrolled.
+<P>
+Because there is currently no COVID-19 vaccine, governments have had to find other ways to prevent “excess deaths.”
+Most have opted for lockdowns, which remove entire populations from the path of the virus and thus deprive it of hosts.
+<P>
+Two months into the European lockdown, however, the evidence suggests that these measures on their own have not had much medical effect.
+For example, Sweden, with its exceptionally light lockdown, has had fewer COVID-19 deaths relative to its population than tightly locked-down Italy and Spain.
+And while the United Kingdom and Germany have both been aggressively locked down, Germany has so far reported 96 deaths per million inhabitants, compared to 520 per million in the UK.
+<P>
+The crucial difference between Germany and the UK seems to lie in their respective medical responses.
+Germany started mass testing, contact-tracing, and isolating the infected and exposed within a few days of confirming its first COVID-19 cases, thus giving itself a head start in slowing the virus’s spread.
+<P>
+The UK, by contrast, is hobbled by incoherence at the center of government and by what former foreign secretary David Owen (himself a medical doctor) has called the “structural vandalism” inflicted on the National Health Service by years of cuts, fragmentation, and centralization.
+As a result, the country lacked the medical tools for a German-style response.
+<P>
+Science cannot determine what the correct COVID-19 response should have been for each country.
+A model may be considered validated if its predictions correspond to outcomes in real life.
+But in epidemiology, we can have confidence that this will happen only if a virus with known properties is allowed to run its natural course in a given population, or if there is a single intervention like a vaccine, the results of which can be accurately predicted.
+<P>
+Too many variables – including, say, medical capacity or cultural characteristics – scrambles the model, and it starts spewing out scenarios and predictions like a demented robot.
+Today, epidemiologists cannot tell us what the effects of the current COVID-19 policy mix will be.
+“We will know only in a year or so,” they say.
+<P>
+The outcome will therefore depend on politics.
+And the politics of COVID-19 are clear enough: governments could not risk the natural spread of infection, and thought it too complicated or politically fraught to try to isolate only those most at risk of severe illness or death, namely the 15-20% of the population aged over 65.
+<P>
+The default policy response has been to slow the spread of natural immunity until a vaccine can be developed.
+What “flattening the curve” really means is spacing out the number of expected deaths over a period long enough for medical facilities to cope and a vaccine to kick in.
+<P>
+But this strategy has a terrible weakness: governments cannot keep their populations locked down until a vaccine arrives.
+Apart from anything else, the economic cost would be unthinkable.
+So, they have to ease the lockdown gradually.
+<P>
+Doing this, however, lifts the cap on non-exposure gained from the lockdown.
+That is why no government has an explicit exit strategy: what political leaders call the “controlled easing” of lockdowns actually means controlled progress toward herd immunity.
+<P>
+Governments cannot openly avow this, because that would amount to admitting that herd immunity is the objective.
+And it is not yet even known whether and for how long infection confers immunity.
+Much better, then, to pursue this goal silently, under a cloud of obfuscation, and hope that a vaccine arrives before most of the population is infected.

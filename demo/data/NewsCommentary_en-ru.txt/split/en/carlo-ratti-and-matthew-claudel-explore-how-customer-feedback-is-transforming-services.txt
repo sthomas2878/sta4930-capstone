@@ -1,0 +1,51 @@
+<HEADLINE>
+The Ratings Revolution
+<P>
+CAMBRIDGE – “Bonjour Monsieur, comment pourrais-je vous aider?” asks the obsequious concierge at my Paris hotel.
+I immediately wonder what happened to the city’s infamous haughtiness – especially toward American tourists.
+If the French capital is no longer Europe’s rudest city, we can perhaps thank the growth of online rating tools, such as TripAdvisor.
+<P>
+Travel Web sites have been around since the 1990s, when Expedia, Travelocity, and other holiday booking sites were launched, allowing travelers to compare flight and hotel prices with the click of a mouse.
+With information no longer controlled by travel agents or hidden in business networks, the travel industry was revolutionized, as greater transparency helped slash prices.
+<P>
+Today, the industry is in the throes of a new revolution – this time transforming service quality.
+Online rating platforms – specializing in hotels (TripAdvisor), restaurants (Zagat), apartments (Airbnb), and taxis (Uber) – allow travelers to exchange reviews and experiences for all to see.
+<P>
+Hospitality businesses are now ranked, analyzed, and compared not by industry professionals, but by the very people for whom the service is intended – the customer.
+This has forged a new relationship between buyer and seller.
+Customers have always voted with their feet; they can now explain their decision to anyone who is interested.
+As a result, businesses are much more accountable, often in very specific ways, which creates powerful incentives to improve service.
+<P>
+Although some readers might not care for gossipy reports of brusque bellboys in Berlin or malfunctioning hotel hairdryers in Houston, the true power of online reviews lies not just in the individual stories, but in the Web sites’ capacity to aggregate a large volume of ratings.
+<P>
+The impact cannot be overstated.
+Businesses that attract top ratings can enjoy exponential growth, as new customers are attracted by good overall reviews and subsequently provide yet more (positive) feedback.
+So great is the influence of online ratings that many companies now hire digital reputation managers to ensure a favorable online identity.
+<P>
+The system is not always virtuous.
+Nefarious operators are known to pay fake review services to bolster ratings.
+Customers, too, can be disingenuous or worse, engage in blackmail, which occurs, as TripAdvisor explains, “when a guest threatens to write a negative review unless a demand for a refund, upgrade, or other request is met.”
+<P>
+Fortunately, technology is countering this misuse of ratings.
+Algorithms can already detect fake reviews by identifying consistently positive (or negative) opinions from the same reviewer.
+Geolocation tracking can ensure that only customers who have actually used a service can express an opinion (as is the case with Airbnb).
+<P>
+Indeed, obstreperous critics are being challenged as a result of another, rather surprising development: while customers may express an opinion about a service, the service provider can also rate its customers, as Uber has demonstrated.
+Indeed, it is not inconceivable that popular hotels might one day choose their guests.
+<P>
+Traditional relationships between consumers and producers are breaking down in other ways, too.
+The rise of the “sharing economy,” in which assets – such as a car, a parking space, or a spare bedroom – are shared within communities, not only generates reciprocal goodwill, but also blurs the distinction between buyer and seller.
+<P>
+Not every service, however, has been touched by online ratings.
+The impact of ratings depends on whether the typical consumer actually reads online reviews before making a decision.
+While it is increasingly common to do so when, say, booking a hotel room, it is much less so when deciding among, say, bars on a busy street (the enduring rudeness of Parisian waiters attests to that).
+<P>
+Yet even service establishments that rely on “curb appeal” to attract customers may soon find their days numbered.
+The proliferation of “augmented reality” – an overlay of digital information (as developed by Google Glass, among others) – promises to transform everyday activities into a digital/physical hybrid experience in which customer feedback is instantly and seamlessly available to shoppers.
+<P>
+The final holdout against the raters will be services for which customers have no choice, typically monopolies or government agencies, such as airports.
+Singapore’s Changi Airport is a rare exception: it solicits user ratings at every turn, via feedback screens with cheery, touch-enabled smiley-face emoticons that request travelers’ opinions on everything from the efficiency of immigration service to the cleanliness of toilets.
+<P>
+Needless to say, many developed economies lag behind, at least for now.
+But the writing is, literally, on the wall – or at least on the screen.
+Indeed, if you are reading this online and disagree with me, you can explain why in the comments section accompanying this commentary.

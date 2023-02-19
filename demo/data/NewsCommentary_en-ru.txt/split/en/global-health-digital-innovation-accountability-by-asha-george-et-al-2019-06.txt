@@ -1,0 +1,62 @@
+<HEADLINE>
+Taming the Wild West of Digital Health Innovation
+<P>
+CAPE TOWN – Digital technology is revolutionizing our daily lives.
+Mobile devices monitor our movements, marketing algorithms guide our consumption, and social media shape our worldviews and politics.
+While such innovations have their advantages, they also carry significant risks, including potentially widening existing inequalities within our societies.
+This prospect is particularly worrying when it comes to global health.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Sustaining and scaling digital health innovations is hardly an easy process.
+Of the more than 600 pilot mobile-health initiatives that emerged in the last decade, very few reached delivery at scale, and even fewer were sustained.
+Nonetheless, some high-profile digital health initiatives – such as MomConnect in South Africa and Mobile Academy, TeCHO+, and ANMOL in India – shifted, at least partly, from donor to government funding.
+This change is part of an ongoing wave of enthusiasm for new technologies’ potential to improve health systems and in turn, health.
+It reflects key opportunities to shape the digital health sector in ways that benefit all of society.
+<P>
+To be sure, steps are already being taken to position health-related digital technologies as a disruptive force for good.
+The World Health Organization (WHO) recently announced the creation of a Department of Digital Health, along with guidelines on digital health interventions.
+<P>
+Moreover, some initiatives that have already been rolled out globally hold significant promise.
+For example, the governments of Ghana, South Africa, and Tanzania, among others, are taking advantage of near-ubiquitous mobile-phone access to supplement limited interactions with health-care providers by delivering important health information to beneficiaries.
+<P>
+Initiatives focused on equipping health-care providers with digital tools – in India, for example – are enabling them to eliminate cumbersome paper-based records and improve the clinical content of service delivery (with decision-support algorithms, videos, and other content that may enhance patient-provider interactions).
+Efforts are also underway to use blockchain technology to track funding flows and facilitate the timely payment of frontline health workers.
+<P>
+But there is no guarantee that digital innovations in health will bring shared benefits.
+That is why, before moving forward with any new digital tool, it is vital to consider who it will reach, the motivations of the various actors involved in its development and deployment, and the implications and opportunity costs for users and health systems alike.
+<P>
+Start with reach.
+If a product requires a high level of digital literacy, it might be inaccessible to people who already lack access to education or health care; as a result, adopting it would exacerbate and entrench inequalities.
+To optimize the design, reach, and effectiveness of digital-health programs, user capabilities and technology requirements must be aligned.
+Welcoming innovation includes humility about the limits of technology and the pressing need to strengthen health systems to ensure that they serve all members of society.
+<P>
+Then there is the question of who is designing and delivering health innovations – and who is accountable for them.
+In the past, innovation entailed collaborations between governments, donors, NGOs, and research organizations.
+In the digital age, new actors – such as mobile network operators and technology companies – have joined this process, each with its own language, agenda, and incentives.
+Without mediation, this can lead to distorted power dynamics, with some initiatives becoming “too big to fail” and governments struggling to exercise oversight.
+<P>
+The broader potential effects on users must also be considered.
+Consider the data-privacy question.
+Digital health programs may involve the collection of huge amounts of personal data.
+As that information is collected, it passes through an array of channels, making it increasingly difficult to de-identify.
+This can create major privacy risks, which are compounded by the temptation to commodify and sell patient data.
+While this might seem like a simple way to generate more revenue to sustain and expand health programs, the sale of private data runs counter to building trust in health systems.
+<P>
+Fortunately, some governments recognize this, and efforts are underway to mitigate data-privacy risks.
+The European Union has led the way on this front, with its recently adopted General Data Protection Regulation.
+A number of low- and middle-income countries are now following its example with their own data-privacy standards.
+<P>
+But regulating existing activities is only the first step.
+Given the impossibility of anticipating all the ways in which data might be used in the future, robust governance structures that promote transparency and accountability must be established.
+Otherwise, digital innovation could quickly turn into a sort of “Wild West,” a lawless environment in which people are at the mercy of whatever powerful new innovator comes to town.
+<P>
+Next year’s Sixth Global Symposium on Health Systems Research will focus on the nexus between government stewardship, innovation, and accountability.
+Only with a clear-eyed assessment of a new technology – including who is responsible for it and who could be left behind if it is deployed – can we ensure that the digital revolution delivers on its promise to improve global health.

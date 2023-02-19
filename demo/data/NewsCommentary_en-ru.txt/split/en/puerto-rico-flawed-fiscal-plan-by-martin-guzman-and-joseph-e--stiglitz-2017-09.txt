@@ -1,0 +1,61 @@
+<HEADLINE>
+PROMESA’s Dangerous Premises
+<P>
+NEW YORK – Puerto Rico’s economy is in deep trouble.
+More than a decade of recession has made the public debt unsustainable and is fueling migration outflows to the United States mainland, affecting the lives of thousands of families and imposing a higher burden on those who stay.
+Reversing this destabilizing dynamic will require a debt restructuring that provides the relief needed to implement pro-growth policies.
+Unfortunately, what is being offered isn’t nearly enough.
+<P>
+Puerto Rico’s debt is to be restructured under a framework established by the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA).
+That federal law, enacted in June 2016, also established an Oversight Board with fiscal decision-making authority for the US commonwealth.
+<P>
+The restructuring process started on May 3, when the Board filed a petition in federal court.
+But many crucial decisions have yet to be taken, such as how much overall debt relief will be provided, and how the “haircut” will be distributed among holders of different types of bonds.
+These decisions will determine which policies are feasible to boost Puerto Rico’s economic prospects – and thus how much it can pay its creditors.
+<P>
+At the center of any effort to resolve the debt crisis must be the understanding that just as today’s debt restructuring affects Puerto Rico’s future growth, Puerto Rico’s future growth affects how much debt restructuring is needed.
+Yet the ten-year fiscal plan approved by the Board for the 2017-2026 period – which inevitably will form the basis of debt-restructuring discussions – seems to ignore this circularity.
+<P>
+The plan itself recognizes that its adoption implies another “lost decade” of economic activity and will weaken the island’s debt sustainability, thus perpetuating a crisis that all parties would like to end .
+Unfortunately, the Board’s already-deep projected fall in real GNP is highly optimistic, because it relies on a number of implausible and/or controversial assumptions.
+<P>
+Five flaws in the Board’s fiscal plan stand out.
+First, the projected fiscal multipliers – the amount by which GNP will fall as a result of each dollar of fiscal contraction – used for the GNP forecast assume that a contraction of one dollar in the primary fiscal deficit will be associated with a $1.34 contraction of GNP.
+That value lies on the lower end of the range of estimated fiscal multipliers for countries or regions experiencing recessions.
+<P>
+The value of fiscal multipliers depends on how the economy is performing.
+Point estimates of multipliers associated with non-defense spending for regions or countries in recessions range from 1.09 to 3.5.
+And, because Puerto Rico is not in any ordinary recession, it is not enough (or even appropriate) to analyze what to expect in the best-case scenario.
+A proper assessment of the consequences of the fiscal policies demanded by the plan should focus not on a single value, but on a range of values based on plausible scenarios from an optimistic to a pessimistic bound.
+For example, simply using a multiplier of 2.0 and maintaining all of the plan’s other (unrealistic) assumptions causes a 9.4% projected cumulative fall in real GNP during fiscal years 2018 and 2019, compared to the fiscal plan’s estimate of 7.2%.
+<P>
+A second flaw is that the plan’s GNP projections ignore the endogenous feedback effects that declining economic activity will have on fiscal revenues.
+A reduction in public spending that depresses economic activity also reduces the tax base.
+Thus, the government would need to do more than what the plan foresees to achieve the revenue targets.
+<P>
+Third, whereas the plan’s contractionary policies push the economy below the Board’s baseline GNP estimates, a number of structural reforms, mostly meant to affect aggregate supply, allegedly push it above.
+Indeed, these reforms seem to be the only force driving the (nominal) recovery that the plan projects after 2022.
+<P>
+But this simply is not credible.
+Puerto Rico’s economy is in a demand-constrained regime, and there is no reason to expect this to change in the foreseeable future.
+Thus, economic recovery in the short term requires aggressive government stimulus, particularly given that any structural reform that reduces spending (such as a decrease in pensions) will be more likely to have a contractionary effect in an economy that is demand-constrained.
+Other measures, such as cutting funding for public education, are likely to reduce demand now and lower aggregate supply over the long run.
+<P>
+Fourth, the plan’s assumption about outward migration is controversial at best.
+Puerto Rico’s population has declined from approximately 3.8 million in 2000 to a little more than 3.4 million in 2016.
+Between 2010 and 2016, the annual rate of population contraction exceeded 1%, and reached 1.8% in 2016.
+A deeper recession – as anticipated by the Board’s plan – will further decrease opportunities in the island, fueling more migration to the mainland.
+And yet the plan assumes that the migration flows will taper off, with the population declining by only 0.2% per year over the 2017-2026 period.
+Given the destabilizing dynamics that the fiscal plan will trigger, out-migration will be higher than the plan assumes, the size of the economy will shrink, and the per capita debt burden on those remaining will increase.
+<P>
+Finally, instead of specifying a comprehensive debt-restructuring proposal, the plan simply specifies the amount that will be repaid to creditors during the next decade.
+But future macroeconomic dynamics cannot be assessed without an estimate of the debt relief that will be provided.
+Indeed, the lack of a restructuring plan heightens uncertainty and thus impedes the investment needed to restore economic growth.
+<P>
+Filing for what is essentially bankruptcy was a sensible move.
+Otherwise, Puerto Rico would have been exposed to massive litigation that would have undermined restructuring efforts and lengthened the road to economic recovery.
+But what the plan should have done is to define the policies Puerto Rico needs to recover, and simultaneously present a restructuring proposal that grants enough relief to make those policies feasible.
+<P>
+Instead, by approving the 2017-2026 fiscal plan, the PROMESA Oversight Board put itself in a difficult position.
+Using that plan as the basis for calculating Puerto Rico’s relief needs risks leading to the flawed conclusion that Puerto Rico can manage a recovery with a much smaller haircut than it needs.
+Unless the plan is urgently redefined on the basis of credible assumptions, Puerto Rico will not recover, debt sustainability will not be restored, and the Board will have failed in its mission.

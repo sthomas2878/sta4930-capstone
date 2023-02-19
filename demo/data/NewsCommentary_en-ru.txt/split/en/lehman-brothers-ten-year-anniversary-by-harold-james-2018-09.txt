@@ -1,0 +1,69 @@
+<HEADLINE>
+What Lehman Brothers’ Failure Means Today
+<P>
+PRINCETON – So far this year, the world has marked the 50th anniversary of the Prague Spring (and its suppression), the centennial of the end of World War I, and the bicentennial of Karl Marx’s birth.
+Against that backdrop, should one really care about the tenth anniversary of the collapse of Lehman Brothers?
+<P>
+Yes, we should.
+Lehman may not have been a particularly large bank, and it probably was not even insolvent when it failed.
+Nonetheless, it nearly took down the global financial system and triggered the Great Recession.
+Lehman was transformative because it fundamentally altered people’s understanding of the world around them.
+<P>
+After September 15, 2008, the fear of “another Lehman” and a deeper financial catastrophe put the United States on the path toward wide-ranging reform.
+And Lehman was constantly invoked during the European financial crisis that erupted after 2010, highlighting fears of a “death spiral” stemming from state bankruptcies and defaults.
+Since then, the scare story seems to have lost its effectiveness.
+In the US, banking reforms are now being undone; and in the European Union, government debt-to-GDP ratios are well above where they were in 2008.
+<P>
+Still, for policymakers and opinion-shapers, the 2008 financial crisis produced three new grand narratives.
+First, after Lehman, the American economist Charles Kindleberger’s 1978 masterful book Manias, Panics, and Crashes met with a newfound popularity.
+Kindleberger had drawn explicitly from the American economist Hyman Minsky’s work on financial cycles, and his arguments were read as a warning against “market fundamentalism.”
+<P>
+The second narrative was that Lehman’s failure had made the Wall Street crash of 1929 and the Great Depression newly relevant.
+Policymakers drew lessons from the interwar years, and successfully avoided a full repeat of that period.
+During the Great Depression, especially in Germany and the US, the prevailing attitude was that of then-US Secretary of the Treasury Andrew Mellon: “Liquidate labor, liquidate stocks, liquidate the farmers, liquidate real estate.”
+By contrast, the response during the Great Recession was to use public debt to replace insecure private debt – an intervention that would prove sustainable only as long as interest rates remained low.
+<P>
+The third narrative held that Lehman’s collapse augured the end of American capitalism.
+This butterfly-effect story was popular in every country that was tired of being bossed around by the US.
+As Germany’s then-finance minister, Peer Steinbrück, explained in September 2008: “The US will lose its status as the superpower of the global financial system, not abruptly but it will erode.”
+<P>
+At first, the 2008 crisis was widely regarded as a quintessentially American disaster, owing to the country’s mix of testosterone-driven finance and penchant for promoting home ownership even for those who cannot afford it.
+Only gradually was it recognized as a truly transatlantic affair.
+As the economists Hyun Song Shin and Tamim Bayoumi subsequently show, badly regulated, oversized European banks played a key role in the build-up of risk throughout the financial system.
+<P>
+Neither of the first two popular narratives is really correct.
+The crisis was not a market failure, but rather the product of opaque, dysfunctional non-market institutions that had become perversely intertwined.
+It exposed the problem of complexity – not of markets as such.
+<P>
+Specifically, the reason that Lehman was such a problem was that it was not really a single corporation.
+It comprised some 7,000 separate entities in over 40 countries, all of which would need to go through a complex and costly valuation and bankruptcy process.
+This opacity, which was hardly unique to the US, created the sense that the world was close to another Great Depression when it really wasn’t.
+<P>
+The crisis was the product of escalating short-termism in financial markets.
+While banks wanted to offload securitized products before they became toxic, other market participants were looking to win on short-term bets, paying little mind to the longer-term viability of the investment.
+In this sense, volatility was desirable, as it created new opportunities for gain.
+<P>
+After Lehman collapsed, the twin narratives about “market failure” and “another Great Depression” had a massive effect on public perceptions, and fueled the third narrative, which actually happens to be true.
+America’s financial and political preeminence has in fact waned.
+<P>
+The global primacy of the US was based on economic and political power, but it also depended on something more fundamental: trust in America’s capacity to deliver on its promises over the long term.
+The crisis undermined that trust, even though US economic and political power remained only slightly diminished.
+The deeper contagion was intellectual, not financial.
+<P>
+Financial behavior does not occur in a vacuum.
+The same kind of short-term, hyperactive mindset that felled Lehman was also taking root in the rest of society at the time.
+Tellingly, the iPhone was introduced in June 2007, just as early signs of the impending crisis were coming into view.
+<P>
+With the smartphone came all kinds of new possibilities.
+It added dynamism to inchoate social-media platforms like Facebook and Twitter.
+And it provided the basis for Tinder and other apps which have transformed the social life of millions, pushing dating further in the direction of short-termism and away from longer-term commitment.
+<P>
+The new digital devices and platforms encouraged hyper-individualism.
+But they also affected political outlooks and behavior, by making it easier than ever to reinforce one’s own views while avoiding alternative opinions.
+One result, little wonder, is the online culture of demonization, abuse, harassment, and manipulation we see today.
+<P>
+Much of today’s political volatility is a consequence of these new ways of thinking and communicating.
+Technology and finance adopted the same ethos: destroy continuity and glorify disruption.
+<P>
+Lehman Brothers’ collapse revealed a flaw not just in finance, but in twenty-first-century politics and society.
+The irony is that, rather than forestalling an era of technologically driven short-termism, the subsequent crisis seems to have accelerated it.

@@ -1,0 +1,59 @@
+<HEADLINE>
+Patenting Immaculate Conception?
+<P>
+HAARLEM – In 1899, the German-American scientist Jacques Loeb engineered the asexual reproduction of sea urchins through artificial parthenogenesis (the manipulation of egg cells to enable embryonic development without fertilization).
+His speculation about complete parthenogenesis in mammals – not to mention his use of the term “immaculate conception” to describe the process – prompted public concern about whether scientists should be “playing God.”
+<P>
+With the International Stem Cell Corporation (ISCC) seeking patents in Europe for a technology that produces stem cell lines from the parthenogenetic activation of an unfertilized ovum, the time has come to answer that question.
+The question is how.
+<P>
+Problems with the patenting of parthenogenetically activated cells are nothing new.
+Such cells resemble human embryos, which, under European Union patent law, cannot be patented.
+Following a ruling by the European Court of Justice (ECJ) in 2011 that those cells constitute human embryos, patent applications for parthenogenetic cells in the United Kingdom and other countries have been delayed and even rejected.
+(The ISCC does hold patents for its stem cells in the United States.)
+<P>
+But on December 18, 2014, the ECJ reversed its 2011 ruling, determining that an unfertilized human ovum stimulated by parthenogenesis “does not constitute a human embryo, if it does not in itself have the inherent capacity of developing into a human being.”
+The ECJ based its ruling on written (unpublished) observations submitted by EU member states.
+The UK High Court then remitted the application to the UK Intellectual Property Office, which granted the patent in October.
+<P>
+The ECJ did not rule explicitly that parthenogenesis of human ova is patentable.
+It did not examine whether parthenogenesis constituted “a process for the cloning of a human being,” which would not be patentable under EU law.
+And it did not consider whether the activated egg cell – a “parthenote” – counts as a germ cell, which also cannot be patented in the EU (though it did pose the question to the applicants at the hearing).
+The national court and the patent office did not, as far as we can establish from their websites, examine these exclusions from patentability either.
+Nor did they consider that parthenotes develop until the blastocyst embryonic stage, harboring the capacity for full attachment.
+<P>
+But even if the ISCC’s patent applications are not excluded on these grounds, there is another potential roadblock for applicants: Under European law, an invention can be patented only if its commercial exploitation is deemed not to controvert “ordre public” or morality.
+As Loeb pointed out more than 100 years ago, when it comes to inventions involving bodily materials and biological processes, moral questions are difficult to answer.
+They should not, it now seems clear, be left to the patent office or even the courts.
+<P>
+In fact, the European Patent Office (EPO) is not particularly committed to assessing the moral implications of the patents it grants; in its view, “ordre public” would be violated only in the extreme case of a truly outrageous invention.
+As a result, while the application procedure allows for third parties to submit to the patent office their observations on the claimed invention’s patentability, it is unlikely to spur a genuine assessment of an application’s moral implications.
+An opposing third party would have to shoulder the entire burden of proof, while the patent office avoided taking any real action, in order to avoid “presumptuous” interference in the public debate.
+As for the courts, the recent case highlighted the absence of a procedural mechanism to ensure consideration of a patent’s morality.
+<P>
+So who should answer questions about an invention’s implications for “ordre public”?
+The answer is straightforward: the public itself.
+<P>
+Inclusive, transparent, and effective public debate about these potentially consequential issues demands, first and foremost, that citizens are well informed.
+After all, when it comes to technological advances relating to biological materials and processes, this is only the beginning.
+<P>
+On December 24, 2014, just six days after the ECJ’s ruling, scientists published the results of their efforts to make rudimentary egg and sperm cells starting from a person’s skin cells.
+There are also pending patent applications for a novel form of genetic manipulation – CRISPR/Cas9-mediated gene editing – which a team of Chinese researchers has already attempted to use to edit the genome of a human embryo.
+Notably, under the ECJ’s “inherent capacity” definition, the embryos used in that experiment would not constitute a human embryo, and thus would not be excluded from patentability.
+<P>
+As the International Summit on Human Gene Editing recently stated, it would be irresponsible to proceed with a clinical use of germline editing without broad societal agreement.
+The same should go for patenting it.
+If, based on an understanding of the processes and their implications, a majority of a country’s citizens find them to controvert morality, democratic principles would demand a government response.
+<P>
+In line with the EU’s 1998 biotech directive, debates should occur on a country-by-country basis.
+Already, European states have made conflicting decisions on these topics.
+<P>
+In Switzerland, a substantial majority of voters decided in 2004 to ratify the Stem Cell Research Act, which regulates how human embryonic stem cells are produced and used in research.
+Swiss stem-cell law is now more restrictive than that of, say, the UK, but less restrictive than that of Germany.
+<P>
+Specifically, Swiss law prohibits the development of parthenotes, the derivation of stem cells from parthenotes, and the use of such stem cells.
+It also excludes from patentability processes for parthenogenesis using human germ cells, as well as parthenotes created by such processes.
+These prohibitions are based not just on the need to protect human embryos, but also on concerns relating to the availability of donated egg cells, on which parthenogenesis depends – an issue that neither the courts nor the patent office have considered.
+<P>
+A country-by-country, public-driven approach to assessing the morality of inventions involving biological materials and processes would reinforce both EU law and democratic principles.
+As recent rulings have made clear, the current system is far from adequate when it comes to upholding ordre public.

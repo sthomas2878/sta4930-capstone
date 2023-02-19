@@ -1,0 +1,69 @@
+<HEADLINE>
+Is Our Economic Future Behind Us?
+<P>
+CHICAGO – With the global economy yet to recover from the 2008 economic crisis, concern about the future – especially of the advanced economies – is intensifying.
+My Northwestern University colleague Robert J. Gordon captures the sentiment of many economists, arguing in his recent book The Rise and Fall of American Growth that the enormous productivity-enhancing innovations of the last century and a half cannot be equaled.
+If true, advanced economies should expect slow growth and stagnation in the coming years.
+But will the future really be so bleak?
+<P>
+Probably not.
+In fact, pessimism has reigned over economists’ outlooks for centuries.
+In 1830, the British Whig historian Thomas Macaulay observed that, “[i]n every age, everybody knows that up to his own time, progressive improvement has been taking place; nobody seems to reckon on any improvement in the next generation.”
+Why, he asked, do people expect “nothing but deterioration”?
+<P>
+Soon, Macaulay’s perspective was vindicated by the dawn of the railway age.
+Transformative advances in steel, chemicals, electricity, and engineering soon followed.
+<P>
+When it comes to our technological future, I would expect a similar outcome.
+Indeed, I would go so far as to say, “We ain’t seen nothin’ yet.”
+Technological advances will create a tailwind of hurricane-like proportions to the world’s most advanced economies.
+<P>
+My optimism is based not on some generalized faith in the future, but on the way science (or “propositional knowledge”) and technology (“prescriptive knowledge”) support each other.
+Just as scientific breakthroughs can facilitate technological innovation, technological advances enable scientific discovery, which drives more technological change.
+In other words, there is a positive feedback loop between scientific and technological progress.
+<P>
+The history of technology is full of examples of this feedback loop.
+The seventeenth-century scientific revolution was made possible partly by new, technologically advanced tools, such as telescopes, barometers, and vacuum pumps.
+One cannot discuss the emergence of germ theory in the 1870s without mentioning prior improvements in the microscope.
+The techniques of x-ray crystallography used by Rosalind Franklin were critical to the discovery of the structure of DNA, as well as to discoveries that led to over 20 Nobel prizes.
+<P>
+The instruments available to science today include modern versions of old tools that would have been unimaginable even a quarter-century ago.
+Telescopes have been shot into space and connected to high-powered adaptive-optics computers, to reveal a universe quite different from the one humans once imagined.
+In 2014, the builders of the Betzig-Hell microscope were awarded a Nobel Prize for overcoming an obstacle that had previously been considered insurmountable, bringing optical microscopy into the nanodimension.
+<P>
+If that is not enough to quash technological pessimism, consider the revolutionary instruments and tools that have emerged in recent years – devices that would never even have been dreamed of a few decades earlier.
+Start with the computer.
+Economists have made valiant efforts to assess computers’ impact on the production of goods and services, and to measure their contribution to productivity.
+But none of these measures can adequately account for the untold benefits and opportunities computers have created for scientific research.
+<P>
+There is no lab in the world that does not rely on them.
+The term in silico has taken its place next to in vivo and in vitro in experimental work.
+And entire new fields such as “computational physics” and “computational biology” have sprung up ex nihilo.
+In line with Moore’s Law, advances in scientific computation will continue to accelerate for many years to come, not least owing to the advent of quantum computing.
+<P>
+Another new tool is the laser.
+When the first lasers appeared, they were almost an invention in search of an application.
+Nowadays, they are almost as ubiquitous as computers, used for seemingly mundane daily uses ranging from document scanning to ophthalmology.
+<P>
+The range of research areas that now rely on lasers is no less broad, running the gamut of biology, chemistry, genetics, and astronomy.
+LIBS (laser-induced breakdown spectroscopy) is essential to the protein analysis on which so much research in molecular biochemistry depends.
+Recently, lasers enabled the confirmation of the existence of gravitational waves – one of the holy grails of physics.
+<P>
+Yet another technological innovation that is transforming science is the gene-editing tool CRISPR Cas9.
+Already, sequencing genomes is a fast and relatively cheap process, its cost having dropped from $10 million per genome in 2007 to under $1,000 today.
+<P>
+CRISPR Cas9 takes this technology to a new, truly revolutionary level, as it enables scientists to edit and manipulate the human genome.
+While that idea may give some people pause, the technology’s potential beneficial applications – such as enabling essential crops to withstand climate change and water salination – cannot be overestimated.
+<P>
+Furthermore, digitization has lowered access costs for researchers substantially.
+All research relies on access to existing knowledge; we all stand on the shoulders of the giants (and even average-size figures) who came before us.
+We recombine their discoveries, ideas, and innovations in novel – sometimes revolutionary – ways.
+But, until recently, learning what one needed to know to come up with scientific and technological innovations took a lot more work, with countless hours spent scouring libraries and encyclopedia volumes.
+<P>
+Nowadays, researchers can find nanoscopic needles in information haystacks the size of Montana.
+They can access mega-databases, where they can find patterns and empirical regularities.
+The eighteenth-century taxonomist Carl Linnaeus would be envious.
+<P>
+Our scientific knowledge is surging forward, leading to innumerable new applications.
+There can be no doubt that technology will forge ahead as well, in scores of expected and unexpected areas.
+It will bring economic growth, albeit perhaps not the kind that will register fully if we continue to rely on our outdated standards for national income accounting.

@@ -1,0 +1,53 @@
+<HEADLINE>
+Which Corporate Taxation for America?
+<P>
+BERKELEY – Corporate tax reform is one of the few issues that garner bipartisan support in a deeply divided US Congress.
+The current system, all agree, is deeply flawed: the corporate tax rate is too high by global standards, and the corporate tax base is too narrow, owing to numerous credits, deductions, and special provisions that distort economic decisions.
+<P>
+But there is significant debate about how to fix the system.
+One major area of disagreement is how to tax the foreign earnings of US multinational companies (MNCs), a disagreement highlighted by the recent proposals issued by Senator Max Baucus, the chair of the Senate Finance Committee.
+<P>
+The current US system is based on a worldwide principle: the foreign earnings of US companies are subject to US corporate tax, with the amount owed offset by a tax credit for taxes paid in foreign jurisdictions.
+Most other developed countries, by contrast, have adopted “territorial” systems that largely exempt their MNCs’ foreign earnings from home-country taxation.
+<P>
+MNCs headquartered in countries that employ a worldwide tax system are at a disadvantage when they compete in third-country markets with MNCs headquartered in territorial systems.
+Whereas US MNCs must pay the high US corporate tax rate on profits earned by their affiliates in low-tax foreign locations, MNCs headquartered in territorial systems pay only the local tax rate on such profits.
+<P>
+For example, when a US firm and a firm headquartered in a territorial system compete in a country where the local tax rate is 17%, the foreign firm owes 17% of its profits in taxes to the local country, while the US firm owes 35% of its profits in taxes – 17% to the local country plus 18% to the US.
+That difference translates into a sizeable cost advantage that allows the foreign firm to charge lower prices and capture market share from its US counterpart.
+<P>
+Current US law attempts to offset this competitive disadvantage through deferral: US MNCs are allowed to defer – potentially indefinitely – payment of US corporate tax on their foreign earnings until the earnings are repatriated to their US parent firms.
+Not surprisingly, most US MNCs take advantage of the deferral option for at least some of their foreign earnings.
+<P>
+As a means of bringing back this estimated $1.7 trillion in foreign earnings, the Senate Finance Committee’s draft proposals suggest the elimination of deferral.
+However, faced with the threat to their competitiveness that this would pose, many US MNCs would shift their headquarters to countries with lower corporate tax rates and territorial systems.
+<P>
+The global competitiveness of US MNCs and where they are based matter to the health of the US economy.
+Despite the rapid growth of foreign markets, US MNCs still locate significant shares of their real economic activities – about 65% of their sales, 68% of their employment, 70% of their capital investment, and 84% of their R&D – at home.
+Much of their domestic activity – particularly R&D, which has significant local spillover benefits – is related to their headquarter functions.
+And foreign direct investment by US MNCs is not zero-sum: it encourages rather than reduces employment, investment, and R&D in the US.
+<P>
+Deferral is essential to maintaining US MNCs’ competitiveness as long as the US relies on a worldwide corporate-taxation system.
+But deferral is not without significant costs for US MNCs and the US economy alike.
+Deferred earnings held abroad are “locked out” of the US economy, in the sense that they are not directly available for domestic use by US MNCs and their shareholders.
+<P>
+Moreover, deferral distorts corporate balance sheets and capital-allocation decisions.
+For example, firms may use earnings held abroad as collateral to take on more debt and incur higher borrowing costs at home.
+Or they may use these earnings to make investments abroad that yield a lower return than investments at home.
+Overall, such efficiency costs are estimated to be 1-5% of deferred earnings, rising as deferrals accumulate.
+<P>
+As the Senate Finance Committee’s draft proposals suggest, the US should jettison its worldwide approach to corporate taxation and adopt a territorial system for taxing US MNCs’ foreign earnings.
+Such a system would provide a level playing field that supports US MNCs’ global competitiveness.
+It would also eliminate the efficiency costs of deferral and boost US MNCs’ repatriation of foreign earnings, with significant benefits for output and employment.
+<P>
+Based on recent research that incorporates conservative assumptions, we estimate that under a territorial system US MNCs would repatriate an additional $100 billion a year from future foreign earnings, adding about 150,000 US jobs a year on a sustained basis.
+We also estimate that under a transition plan for taxing the existing stock of foreign earnings held abroad, similar to one proposed by US Representative Dave Camp, US MNCs would repatriate about $1 trillion of these earnings, adding more than $200 billion to US GDP and about 1.5 million US jobs over the next few years.
+These are significant gains for an economy that is still operating far below potential, remaining about 1.5 million jobs short of its pre-recession employment level.
+<P>
+A territorial tax system does have one potential disadvantage: it could strengthen US MNCs’ existing incentives to shift their profits to lower-tax jurisdictions.
+Competitive cuts in corporate tax rates, the spread of tax havens, and the rising importance of easily movable intangible capital have already made these incentives more powerful.
+Recent studies find growing segregation between where MNCs locate their real economic activities and where their profits are reported for tax purposes.
+<P>
+Income shifting and the resulting erosion of domestic tax bases pose serious challenges, and countries with territorial systems have adopted tough countermeasures to combat them.
+If the US moves to a territorial system, it should follow suit.
+A modern territorial system with adequate safeguards against income-shifting and base erosion is the right approach to taxing the foreign earnings of US MNCs.

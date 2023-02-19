@@ -1,0 +1,41 @@
+<HEADLINE>
+Fukushima, from Fear to Fact
+<P>
+BANGKOK – Masao Yoshida had been the chief manager of Japan’s Fukushima Daiichi nuclear power plant for just nine months when, on March 11, 2011, a massive earthquake and tsunami triggered a triple nuclear reactor meltdown.
+The plant spewed radioactive material into the air and water, terrifying the Japanese public and much of the world.
+Yoshida’s death last week from cancer under the pall of that nuclear disaster brings to mind how vulnerable facts can be to distortion.
+<P>
+In the accident’s wake, a lack of trustworthy information – and an abundance of misinformation – fueled fear among the public, both in Japan and abroad.
+As we learned from the Three Mile Island and Chernobyl accidents, stress can be at least as harmful as the radiation exposure itself.
+Thus, a veracity rating in the same spirit as The Washington Post’s Fact Checker, which rates the reliability of politicians’ statements in “Pinocchio” units, may help to save lives in future public-health crises.
+<P>
+A fearful public quickly lost confidence in official communications channels after repeated failures, and people looked instead to the news media for information.
+But, as it turned out, the media could not be relied on fully, either, with even the most respected outlets unnecessarily feeding public anxiety.
+<P>
+Accurate information was understandably difficult to obtain in the weeks immediately following the accident, but misinformation persisted even when scientific data on radiation levels and reactor stability had become more readily available.
+Even The New York Times, which provided some truly excellent on-the-ground reporting, contributed at times to public alarm during the recovery, owing to misleading – and sometimes incorrect – statements.
+Three examples of reporting that was clearly flawed at the time, not just in hindsight, demonstrate the point.
+<P>
+In October 2011, the Times compared radiation levels in “hot spots” in Tokyo to “some contaminated areas around Chernobyl.”
+The information was technically accurate, but the menacing impression of pockets of radioactive apocalypse was not.
+The article uses the reference point of “37,000 becquerels per square meter, the level at which zones were considered contaminated at Chernobyl,” but fails to mention that this boundary is for the most peripheral of the Chernobyl-contaminated zones and considered habitable.
+The associated potential “dosage of more than one millisievert per year” could more comprehensibly (and much less frighteningly) be likened to the approximate difference in additional annual radiation exposure that the average resident of the United States experiences compared to the average resident of Japan due to natural background radiation.
+And even this tame non-Chernobyl comparison overstates the real dose, because it is analogous to a large contamination zone rather than a localized “hot spot.”
+<P>
+Likewise, the following January, the Times reported that Japan’s government would soon impose stricter food-safety radiation regulations, “bringing Japan in line with most developed countries.”
+This statement, made in passing, wrongly implied that Japan’s regulations at the time were notably lax, heightening the paranoia about what were already some of the world’s most strictly radionuclide-regulated food supplies (even before restrictions were further tightened).
+<P>
+Two months later, in an ominously titled article, “Japan Nuclear Plant May Be Worse Off Than Thought,” the Times called into question the stability of one of the reactors.
+After citing test results showing that water levels in fuel-containment vessels were lower than expected, the article described worst-case scenarios, such as overheating and leakage of contaminated water into the ground or ocean.
+But the Times neglected to mention that tests of the water’s temperature conducted simultaneously actually suggested that the situation was stabilizing.
+<P>
+Fearful communities are deeply affected by this type of reporting.
+While enormous amounts of time and resources have been dedicated to learning the technical lessons of the Fukushima accident (and rightly so), not enough have been spent on trying to understand and address the damage to public health caused by misinformation.
+<P>
+Ideally, trusted experts would regularly be on hand to inform a more scientifically literate public and press.
+What could be done now to improve post-crisis reporting would be to introduce a sort of scientific ombudsman – someone with strong credentials, access to the world’s leading experts, and a talent for communicating technical concepts to the general public effectively.
+International news sources could employ such a person expressly to assess statements issued by governments, journalists, and commentators on large-scale public-health crises such as nuclear accidents, epidemics, and oil spills.
+<P>
+In the wake of the Fukushima meltdown, a trusted expert handing out veracity scores, or “Pinocchios,” in a respected newspaper would have given the public a greater sense of certainty in an atmosphere of fear and mistrust.
+That would certainly have been extremely popular among a public desperate for reliable information.
+One hopes that, during the next major public-health crisis, when people are foundering in a sea of unverified, often-alarming information, such a system will be in place to help keep everyone afloat.

@@ -1,0 +1,39 @@
+<HEADLINE>
+Fukushima’s Future
+<P>
+TOKYO – Two years have passed since the Fukushima nuclear accident, and international interest in its impact is beginning to wane.
+But that impact continues to reverberate – and not only in global public debate about the future of nuclear energy.
+More than a hundred thousand people remain displaced by the accident, some having lost family, homes, possessions, and even the desire to live.
+<P>
+Japan’s nuclear industry, regulators, and government have a responsibility to explain clearly why science and technology could not minimize the risk and consequences of such an accident in a geologically vulnerable country like Japan; why unreasonably costly cleanup is being carried out in areas of low contamination, where negligible impact on public health is anticipated; and why no well-defined and operational waste-management system has been established.
+The lessons learned may help not only to reduce the risk of future accidents, but also to facilitate recovery in areas around the world that have been contaminated by radioactive or other toxic substances.
+<P>
+Japan has a strong international reputation when it comes to managing natural disasters.
+But the “perfect storm” of the largest earthquake and tsunami since industrialization, and the resulting meltdown of three reactor cores at the Fukushima Daiichi plant, went beyond any scenario previously envisaged.
+Japan’s national government and local communities had no emergency plan for the situation that they faced in the contaminated areas, resulting in ad hoc responses marked by inefficiency and poor communication, particularly with regard to radiological risk.
+<P>
+Despite such problems, effective measures were implemented to evacuate those at risk and limit the potential hazard from consumption of contaminated foodstuffs.
+Local communities initiated immediate decontamination of sensitive areas outside evacuated zones (for example, kindergartens and schools), in parallel with efforts by the Japan Atomic Energy Agency (JAEA) to develop the technology for remediation within these zones.
+The resulting demonstration projects established a base of knowledge to support more effective planning and implementation of stepwise regional remediation in terms of site characterization, cleanup technology, and temporary waste management.
+<P>
+Adequate planning is particularly important because remediation on so large a scale – and in a densely populated area with such complex topography and land use – has never been attempted before.
+With a view to building local understanding and providing information to the international community, the output of this work is being summarized in a user-friendly, Web-based communication platform that is now being developed.
+<P>
+Decontamination work leads to a huge amount of waste, which needs to be managed – collected, transported, sorted, stored, reduced in volume, prepared for disposal, and, eventually, placed in permanent disposal facilities – at the local, regional, and national levels.
+Due to pressure to allow the rapid return of displaced residents, however, the JAEA demonstration projects proceeded only as far as establishing temporary storage facilities, intended as stopgaps until centralized waste conditioning, interim storage, and disposal facilities are available.
+<P>
+The waste volumes are so large – estimated to be 30 million cubic meters (enough to fill the 55,000-seat Tokyo Dome more than 20 times) – and the material so complex that the final steps of management need to be carefully optimized, even if the main contaminant is relatively short-lived radiocesium.
+With mountains of waste sitting in bags in simple stores that will inevitably degrade, planning and developing centralized disposal facilities has become a critical issue.
+<P>
+A serious problem is that no debate about how clean is clean enough occurred before the regional cleanup was initiated.
+The JAEA demonstration projects can be used to develop estimates of cost and other resource requirements – and resulting waste volumes – for defined levels of contaminant reduction, but they cannot be used to specify or justify the numerical goals of the regional cleanup.
+While we have the tools and knowledge base to develop a more holistic approach to recovery of the evacuated zone, political constraints and public acceptance are as important as technical issues in formulating policy.
+<P>
+Closely associated with the challenge of optimizing remediation is that of understanding how contaminants will behave as a result of natural processes.
+Will these processes decontaminate affected areas, or re-contaminate cleaned areas?
+<P>
+The JAEA has initiated a project to model the future distribution of radioactivity on a regional scale, beginning with field investigations to acquire the data that are needed to develop conceptual and mathematical migration models of radiocesium’s environmental behavior.
+The project includes interdisciplinary Japanese teams, as well as international expertise, which is important for ensuring that the project builds on models that have been used in other contaminated environments, and that it benefits from long-term databases from older incidents that can be used to test models’ predictive power.
+<P>
+Two years after the Fukushima disaster, Japan still faces many challenges in terms of regional remediation.
+Not the least of these challenges is to extrapolate future radiocesium distributions reliably, which is essential to the development of effective monitoring procedures and the formulation of optimal cleanup plans.

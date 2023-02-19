@@ -1,0 +1,76 @@
+<HEADLINE>
+On US Interest Rates
+<P>
+The first US interest rate increase since June 2006 is a pivotal moment for the global economy, launching what Mohamed El-Erian, Chief Economic Adviser at Allianz, calls the “great policy divergence,” with repercussions in every region and financial market.
+The impact will be particularly powerful in emerging countries, where currencies are vulnerable to a rising dollar and tightening liquidity conditions in the US.
+Project Syndicate’s commentators – some of the world’s preeminent economists and policymakers – have examined the issue from four broad angles.
+<P>
+What is the immediate and longer-term outlook for US monetary policy?
+<P>
+The Fed’s leaders have repeatedly said that they plan to raise interest rates much more slowly than in previous periods of monetary tightening.
+Such assurances from central bankers cannot always be trusted, but Fed Chair Janet Yellen’s promises to move more gradually than in the past are credible, because the Fed is genuinely determined to push inflation higher and to ensure that it never again falls much below 2%.
+<P>
+Nobel laureate Joseph Stiglitz provides further grounds for discounting the likelihood of faster tightening.
+Instead of trying to control inflation, according to Stiglitz, the Fed’s main concern now is to reduce unemployment and counteract inequality.
+To do this, the Fed must continue to stimulate the US economy with easy money.
+Even the quarter-point rate hike that the Fed’s just announced is, in Stiglitz’s view, dangerous and premature.
+<P>
+Moreover, while the Fed’s official responsibility is to manage the US economy, its leadership fully understands the international impact of Fed decisions.
+Thus, Harvard’s Carmen Reinhart, an authority on global debt crises, believes the Fed will “favor gradualism” to avoid wreaking havoc in emerging economies that are overloaded with dollar debts.
+In a related argument, Barry Eichengreen, the Berkeley economic historian, suggests that US monetary policy is now effectively “Made in China,” because China’s efforts to stabilize the renminbi have already tightened US monetary conditions by the equivalent of the quarter-point rate hike expected on December 16.
+<P>
+Is gradualism the right approach?
+<P>
+Like Stiglitz, UNCTAD’s Richard Kozul-Wright argues that a rate hike is premature.
+Indeed, Kozul-Wright opposes any tightening at all: If the Fed “follows through on raising interest rates,” this could cause serious trouble for the global economy, and especially emerging markets, because of “the enormous tsunami of debt bearing down on households, businesses, banks, and governments.”
+<P>
+But many economists who focus on risks to financial stability believe that the Fed should have tightened rates earlier and now needs to move faster than planned.
+Gita Gopinath of Harvard University objects to what she calls the Fed’s “dollar distraction,” whereby US policymakers have deviated from their inflation-fighting mandate because of unnecessary concern about the dollar’s strength.
+In a similar vein, Stephen S. Roach, former chief economist of Morgan Stanley, argues that the Fed has already made a “fatal mistake” by keeping interest rates so low for so long, thereby transforming monetary policy “from an agent of price stability into an engine of financial instability.”
+<P>
+Howard Davies, former Deputy Governor of the Bank of England, points out that it is “justifiable to increase interest rates in response to a credit boom, even though the inflation rate might still be below target.”
+And Nobel laureate Robert Shiller agrees, warning that excessively low interest rates have created “overheated asset markets – real estate, equities, and long-term bonds – [which] could lead to a major correction and another economic crisis.”
+<P>
+On balance, considering that the Fed is under fire from both directions, perhaps a modest tightening of monetary policy is about right, says former IMF chief economist Kenneth Rogoff.
+He points out that US interest rates will remain low even after several quarter-point increases.
+The real risk of monetary tightening, he suggests, is political: “If the Fed starts hiking, it will be blamed for absolutely every bad thing that happens in the economy for the next six months to a year, which will happen to coincide with the heart of a US presidential election campaign.”
+<P>
+I agree with Rogoff.
+The Fed’s rate move was so universally expected that it will have little financial or economic impact.
+The sense that monetary policy is starting to normalize will help to reassure investors and businesses, thereby dispelling lingering memories of the 2008 financial crisis.
+<P>
+Winners and losers
+<P>
+Economists are almost unanimous that the main effects of the Fed rate hike will be felt outside the US.
+Harvard’s Jeffrey Frankel fears a “possible repeat of previous episodes, notably in 1982 and 1994, when the Fed’s policy tightening helped precipitate financial crises in developing countries.”
+<P>
+The key problem, says Jose Antonio Ocampo, former UN Under-Secretary for Economic Affairs, is the dollar’s dominant reserve-currency status, which means that monetary policy in emerging economies is overly influenced by the US.
+In the future, however, this vulnerability will be lessened by the Chinese renminbi’s inclusion in the basket of reserve currencies that the International Monetary Fund uses to set the value of its Special Drawing Right (SDR), says Yu Yongding, Director of Global Economics at the Chinese Academy of Social Science.
+<P>
+Even in the short term, admission to the SDR could help by convincing markets that China’s currency adjustment in August was not the start of a big devaluation.
+That would relieve downward pressure on other emerging-market currencies, especially in Asia, according to Lee Jong-Wha, director of Korea University’s Institute of Asia Research.
+Nouriel Roubini, who famously forecast the 2008 financial crisis, agrees that “a correction has already occurred in emerging markets, limiting the need for further adjustment when the Fed moves.”
+<P>
+Turning to the US and Europe, most Project Syndicate commentators, with the notable exception of Stiglitz, believe that the first US rate hike will have limited impact on economic activity directly.
+Although Shiller and Roach express serious concerns about the buildup of debt and high asset prices in developed countries, both Roubini and Berkeley’s Brad DeLong downplay concerns about financial instability, because interest rates will remain low by historic standards for many years, even as Fed tightening begins.
+<P>
+The lessons of zero interest rates
+<P>
+Stiglitzcriticizes the Fed for neglecting its legal mandate to promote “maximum employment” in favor of a narrow focus on inflation that is no longer relevant.
+By contrast, I believe that the Fed has effectively abandoned inflation targeting and thereby “buried monetarism,” implying a welcome return to the Keynesian emphasis on minimizing unemployment, even if that means higher inflation.
+<P>
+DeLong, however, contends that five years of zero interest rates have failed to end stagnation and believes that the only thing the Fed has effectively abandoned is hope of accelerating economic growth.
+Instead of giving serious consideration to unfounded theories speculating that excessively low interest rates could, under certain conditions, discourage growth and investment, the Fed should have committed itself even more decisively to zero or even negative rates.
+<P>
+Adair Turner, Chairman of the Institute for New Economic Thinking, agrees that more radical policies are needed.
+To overcome stagnation government should run bigger deficits, financed directly by printing money.
+To avert financial crises, credit creation by banks needs to be controlled directly or even eliminated altogether, in favor of direct lending to businesses by savers through capital markets.
+<P>
+Almost all of these commentators agree that monetary policy should focus on economic growth, not financial stability (tougher regulation is needed to achieve that).
+Davies disagrees, as do Shiller and Roach, but they fail to explain how growth can be accelerated if monetary policy is tightened to avoid credit bubbles.
+<P>
+Meanwhile, economists who believe that further monetary loosening is required to pull the world out of stagnation must look elsewhere.
+They can pin their hopes on China, where monetary policy will become more expansionary, according to Fudan University’s Zhang Jun, or on Europe, where the European Central Bank is providing increasingly powerful stimulus as monetary union evolves into a “deeper political union,” according to ECB President Mario Draghi.
+<P>
+The final bastion of radical monetary-policy experimentation is Japan.
+Koichi Hamada, chief economic adviser to Prime Minister Shinzo Abe, provides a reminder that seems all the more relevant as the US experiment comes to a close: “The belief that monetary policy does not matter is the most dangerous idea in economic history.”

@@ -1,0 +1,52 @@
+<HEADLINE>
+Counting What Counts in Development
+<P>
+NEW YORK – To most people, “development” is best measured by the quantity of change – like gains in average income, life expectancy, or years spent in school.
+The Human Development Index (HDI), a composite measure of national progress that my office at the United Nations Development Programme oversees, combines all three statistics to rank countries relative to one another.
+<P>
+What many do not realize, however, is that such metrics, while useful, do not tell the entire story of development.
+In fact, to understand how developed a country is, we must also grasp how people’s lives are affected by progress.
+And to understand that, we must consider the quality of the change that is being reported.
+<P>
+When statisticians compare countries, they require commensurate data.
+To compare school attendance, for example, researchers would count the number of registered students in each country, relative to all school-age children (although even this can be a challenge in many developing countries, where record keeping is not always standardized).
+<P>
+But to gauge the relative quality of a country’s education system, researchers would want to determine whether students are actually learning.
+For those numbers, statisticians would need to test students across a range of subjects, a project that is far more ambitious than simply taking attendance.
+<P>
+Statisticians have always recognized that comparing quantities is far easier than comparing quality.
+But, because existing measures are all we have, the weaknesses are often overlooked when ranking relative gains or making policies, even though “progress” according to a given indicator is not necessarily genuine.
+If the world is ever to reach parity in development, we must change how we gauge and catalogue the quality of policy initiatives.
+<P>
+Consider the statistics measured by the HDI – life expectancy, education, and per capita income.
+Life expectancy statistics suggest that the world is getting healthier, and data show that people are living longer than ever before; since 1990, average life expectancy has increased by around six years.
+But the increase in quality of life has not been as dramatic.
+Those extra years are often accompanied by illness and disability – such as dementia, which the World Health Organization now estimates affects 47.5 million people worldwide.
+<P>
+While life expectancy can be calculated based on birth and death records, indices that measure quality of life, like the WHO’s disability-adjusted life year estimates, require considerable amounts of information on a wide range of illnesses and disabilities in every country.
+And, unfortunately, the difficulty of gathering such data means that many life-quality datasets are incomplete or infrequently compiled.
+<P>
+It’s a similarly mixed picture for education.
+The world is no doubt making progress in extending access to schools, with more children are enrolled and attending than ever before.
+But how do we measure the gaps in educational quality?
+Some 250 million children worldwide do not learn basic skills, even though half of them have spent at least four years in school.
+It will come as no surprise that in most countries, schools in wealthier neighborhoods typically have better facilities, more qualified teachers, and smaller class sizes.
+Addressing inequality requires measuring educational outcomes, rather than school enrollment rates.
+<P>
+The OECD’s Program for International Student Assessment (PISA), which relies on tests not directly linked to curricula, is one approach to making cross-country comparisons.
+The results for 2015 paint a much richer picture of educational performance across participating countries, while highlighting stark disparities.
+For example, PISA found that “socio-economically disadvantaged students across OECD countries are almost three times more likely than advantaged students not to attain the baseline level of proficiency in science.”
+<P>
+Data on employment – critical for policymakers, as they prepare for the future – tell a similar story.
+The 2015 Human Development Report recognized that as the world moves toward a knowledge economy, low-skill or marginal workers are at greater risk of losing their jobs, and opportunities for exploitation of informal or unpaid workers increase.
+<P>
+To put this in perspective, consider employment projections for the European Union, which foresee the addition of 16 million new jobs between 2010 and 2020.
+But over the same period, the number of jobs available for people with the least formal education is anticipated to decline, by around 12 million.
+<P>
+“Not everything that can be counted counts.
+Not everything that counts can be counted,” the sociologist William Bruce Cameron wrote in 1963.
+His dictum remains true today, though when it comes to measuring human development, I would suggest a slight revision: “Not everything that is counted counts for everything.”
+<P>
+Equitable human development requires that policymakers pay more attention to the quality of outcomes, rather than focusing primarily on quantitative measures of change.
+Only when we know how people are being affected by development can we design policies that bring about the most valuable improvements in their lives.
+“The intention to live as long as possible isn’t one of the mind’s best intentions,” the author Deepak Chopra once observed, “because quantity isn’t the same as quality.”

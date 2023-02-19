@@ -1,0 +1,62 @@
+<HEADLINE>
+Investing in African Logistics
+<P>
+WASHINGTON, DC – As the COVID-19 crisis has escalated, stay-at-home orders have led to a surge in online purchases – of everything from groceries to medicines to household essentials – by consumers in the advanced economies.
+Africans facing similar movement restrictions will not enjoy the same convenience – or the safety it affords.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Over the last decade, a growing middle class and rapid progress in mobile and Internet penetration have supported the view that African countries are ripe for e-commerce success.
+Consumer spending across the continent is projected to reach $2.1 trillion by 2025, by which time mobile-phone penetration in Sub-Saharan Africa is likely to stand at 50%.
+<P>
+Yet, so far, companies have largely failed to tap Sub-Saharan Africa’s e-commerce potential, owing to logistical challenges and inefficiencies.
+Nigeria, the continent’s largest market, ranks 110th out of 160 countries when it comes to logistical efficiency, according to the World Bank.
+It can take three times as long to import an auto part through Lagos, Nigeria, than through Durban, South Africa.
+And it can cost up to five times more to transport goods in Sub-Saharan Africa than in the United States, based on 2015 estimates.
+Across the continent, a lack of integration means that companies face smaller markets and considerable red tape when crossing borders.
+<P>
+When Alibaba was building and scaling its e-commerce ecosystem in China in 2003, it took advantage of relatively advanced urban infrastructure – the result of significant government investments in the 1990s.
+Thanks to that physical infrastructure, as well as existing financial infrastructure, the company was able to reach profitability with its business-to-business marketplace in 2002 – two years before the establishment of Alipay enabled it to overcome the lack of credit-card penetration and start expanding its customer-to-customer marketplace, Taobao.
+<P>
+American and European companies had even greater advantages, including strong national postal systems and last-mile overnight delivery services like FedEx and UPS, as well as reliable and widely used credit-card networks.
+African e-commerce companies, by contrast, cannot always count on roads or street signs.
+Moreover, few Africans own bank cards (in Nigeria, the share is about 3%), and in many countries, only about 10% of adults have mobile money accounts.
+Many Africans do not trust online shopping.
+<P>
+Whereas a company like Alibaba could wait until it was already growing to improve online payments and logistics, African companies must implement their own solutions from the start, while trying to meet investors’ expectations.
+Given these challenges, it should perhaps not be surprising that Africa’s first e-commerce unicorn, Jumia, suspended operations at the end of last year in three of the 14 countries in which it previously worked, citing high fulfillment and shipping costs.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Supporting robust e-commerce growth in Africa will require infrastructure investment.
+According to the African Development Bank, the continent needs $130-170 billion per year in infrastructure investment – such as roads and railways – to meet baseline targets by 2025, implying a financing gap of $68-108 billion.
+China, with its competitive advantage in construction, can play a leading role in helping to close that gap.
+<P>
+The expansion of both asset-heavy and asset-light local logistics companies is also essential.
+Before the pandemic, demand for logistics companies in Africa was already rising, and a growing amount of venture capital was being channeled toward local logistics startups.
+Even as the COVID-19 crisis results in trade disruptions, trucking remains critical for supplying food, medicine, and other essentials to individuals and health-care facilities.
+<P>
+One promising asset-light firm – the Nigerian startup Kobo360 – connects truckers and companies to delivery services.
+Since launching in Lagos in 2017, it has expanded its operations to four countries.
+Kobo360 already has more than 10,000 drivers and trucks on its app, and provides services to major companies like DHL, Honeywell, and Unilever.
+<P>
+Thanks to large investments – including a $20 million Series A round led by Goldman Sachs, and $10 million in working-capital financing from Nigerian commercial banks – Kobo360 now plans to expand to ten more countries.
+The Kenyan logistics company Sendy, with a similar asset-light model, raised $20 million in a series B round, with Toyota’s trade and investment arm among the investors.
+<P>
+But a mature logistics market will also require investment in asset-heavy tech-enabled trucking operations.
+When DHL – the world’s biggest logistics company by revenue – expands to a new country, it often follows the asset-light model of leasing vehicles.
+But a lack of control over the quality of the hired trucks often meant that goods arrive damaged or late.
+This was a particularly serious problem in India, where logistics spending was at least 4-5% higher than in Europe.
+So, in 2018, DHL launched a transportation subsidiary in the country, and aims to invest in a fleet of 10,000 trucks over the next decade.
+<P>
+African markets will require similar mixed investments.
+While companies like Kobo360 will continue to connect companies to delivery vehicles, ensuring that there are a sufficient number of reliable vehicles available will require additional targeted investment.
+Here, development finance institutions should take the lead, investing directly in asset-heavy logistics companies, while venture funds continue to focus on asset-light companies.
+<P>
+Development finance institutions are uniquely suited to serve as catalysts for sectors that can boost economic growth or advance other development goals – or, during a pandemic, contribute to meeting public-health imperatives.
+Africa’s logistics sector undoubtedly fits that description.
+<P>
+If economic and commercial opportunities were not enough motivation for investors to tackle the short-term constraints on e-commerce in Africa, the COVID-19 pandemic should be.
+Without more advanced logistics and infrastructure, the continent will struggle to deliver essential supplies safely to residents during the outbreak, making the social-distancing measures that are so critical to slowing the spread of infection far more difficult to implement.
+If the needed investments are made, however, African countries will be in a better position not only to protect public health today, but also to secure a more robust economic recovery, fueled by middle-class growth.

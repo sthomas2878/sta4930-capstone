@@ -1,0 +1,58 @@
+<HEADLINE>
+Did Capitalism Fail?
+<P>
+NEW YORK – Until six days before Lehman Brothers collapsed five years ago, the ratings agency Standard & Poor’s maintained the firm’s investment-grade rating of “A.”
+Moody’s waited even longer, downgrading Lehman one business day before it collapsed.
+How could reputable ratings agencies – and investment banks – misjudge things so badly?
+<P>
+Regulators, bankers, and ratings agencies bear much of the blame for the crisis.
+But the near-meltdown was not so much a failure of capitalism as it was a failure of contemporary economic models’ understanding of the role and functioning of financial markets – and, more broadly, instability – in capitalist economies.
+<P>
+These models provided the supposedly scientific underpinning for policy decisions and financial innovations that made the worst crisis since the Great Depression much more likely, if not inevitable.
+After Lehman’s collapse, former Federal Reserve Chairman Alan Greenspan testified before the US Congress that he had “found a flaw” in the ideology that self-interest would protect society from the financial system’s excesses.
+But the damage had already been done.
+<P>
+That belief can be traced to prevailing economic theory concerning the causes of asset-price instability – a theory that accounts for risk and asset-price fluctuations as if the future followed mechanically from the past.
+Contemporary economists’ mechanical models imply that self-interested market participants would not bid housing and other asset prices to clearly excessive levels in the run-up to the crisis.
+Consequently, such excessive fluctuations have been viewed as a symptom of market participants’ irrationality.
+<P>
+This flawed assumption – that self-interested decisions can be adequately portrayed with mechanical rules – underpinned the creation of synthetic financial instruments and legitimized, on supposedly scientific grounds, their marketing to pension funds and other financial institutions around the world.
+Remarkably, emerging economies with relatively less developed financial markets escaped many of the more egregious consequences of such innovations.
+<P>
+Contemporary economists’ reliance on mechanical rules to understand – and influence – economic outcomes extends to macroeconomic policy as well, and often draws on an authority, John Maynard Keynes, who would have rejected their approach.
+Keynes understood early on the fallacy of applying such mechanical rules.
+“We have involved ourselves in a colossal muddle,” he warned, “having blundered in the control of a delicate machine, the working of which we do not understand.”
+<P>
+In The General Theory of Employment, Interest, and Money, Keynes sought to provide the missing rationale for relying on expansionary fiscal policy to steer advanced capitalist economies out of the Great Depression.
+But, following World War II, his successors developed a much more ambitious agenda.
+Instead of pursuing measures to counter excessive fluctuations in economic activity, such as the deep contraction of the 1930’s, so-called stabilization policies focused on measures that aimed to maintain full employment.
+The “New Keynesian” models underpinning these policies assumed that an economy’s “true” potential – and thus the so-called output gap that expansionary policy is supposed to fill to attain full employment – can be precisely measured.
+<P>
+But, to put it bluntly, the belief that an economist can fully specify in advance how aggregate outcomes – and thus the potential level of economic activity – unfold over time is bogus.
+The projections implied by the Fed’s macro-econometric model concerning the timing and effects of the 2008 economic stimulus on unemployment, which have been notoriously wide of the mark, are a case in point.
+<P>
+Yet the mainstream of the economics profession insists that such mechanistic models retain validity.
+Nobel laureate economist Paul Krugman, for example, claims that “a back-of-the-envelope calculation” on the basis of “textbook macroeconomics” indicates that the $800 billion US fiscal stimulus in 2009 should have been three times bigger.
+<P>
+Clearly, we need a new textbook.
+The question is not whether fiscal stimulus helped, or whether a larger stimulus would have helped more, but whether policymakers should rely on any model that assumes that the future follows mechanically from the past.
+For example, the housing-market collapse that left millions of US homeowners underwater is not part of textbook models, but it made precise calculations of fiscal stimulus based on them impossible.
+The public should be highly suspicious of claims that such models provide any scientific basis for economic policy.
+<P>
+But to renounce what Friedrich von Hayek called economists’ “pretense of exact knowledge” is not to abandon the possibility that economic theory can inform policymaking.
+Indeed, recognizing ever-imperfect knowledge on the part of economists, policymakers, and market participants has important implications for our understanding of financial instability and the state’s role in mitigating it.
+<P>
+Asset-price swings arise not because market participants are irrational, but because they are attempting to cope with their ever-imperfect knowledge of the future stream of profits from alternative investment projects.
+Market instability is thus integral to how capitalist economies allocate their savings.
+Given this, policymakers should intervene not because they have superior knowledge about asset values (in fact, no one does), but because profit-seeking market participants do not internalize the huge social costs associated with excessive upswings and downswings in prices.
+<P>
+It is such excessive fluctuations, not deviations from some fanciful “true” value – whether of assets or of the unemployment rate – that Keynes believed policymakers should seek to mitigate.
+Unlike their successors, Keynes and Hayek understood that imperfect knowledge and non-routine change mean that policy rules, together with the variables underlying them, gain and lose relevance at times that no one can anticipate.
+<P>
+That view appears to have returned to policymaking in Keynes’s homeland.
+As Mervyn King, the former governor of the Bank of England, put it, “Our understanding of the economy is incomplete and constantly evolving….To describe monetary policy in terms of a constant rule derived from a known model of the economy is to ignore this process of learning.”
+His successor, Mark Carney, has come to embody this view, eschewing fixed policy rules in favor of the constrained discretion implied by guidance ranges for key indicators.
+<P>
+Rather than trying to hit precise numerical targets, whether for inflation or unemployment, policymaking in this mode attempts to dampen excessive fluctuations.
+It thus responds to actual problems, not to theories and rules (which these problems may have rendered obsolete).
+If we are honest about the causes of the 2008 crisis – and serious about avoiding its recurrence – we must accept what economic analysis cannot deliver in order to benefit from what it can.

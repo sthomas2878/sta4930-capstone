@@ -1,0 +1,61 @@
+<HEADLINE>
+Resurrecting Glass-Steagall
+<P>
+WASHINGTON, DC – A major shift in American politics has taken place.
+All three of the remaining mainstream Democratic presidential candidates now agree that the existing state of the financial sector is not satisfactory and that more change is needed.
+President Barack Obama has long regarded the 2010 Dodd-Frank financial-reform legislation as bringing about sufficient change.
+Former Secretary of State Hillary Clinton, Senator Bernie Sanders, and former Governor Martin O’Malley want to do even more.
+<P>
+The three leading Democratic candidates disagree, however, on whether there should be legislation to re-erect a wall between the rather dull business of ordinary commercial banking and other kinds of finance (such as issuing and trading securities, commonly known as investment banking).
+<P>
+This issue is sometimes referred to as “reinstating Glass-Steagall,” a reference to the Depression-era legislation – the Banking Act of 1933 – that separated commercial and investment banking.
+This is a slight misnomer: the most credible bipartisan proposal on the table takes a much-modernized approach to distinguishing and making more transparent different kinds of finance activities.
+Sanders and O’Malley are in favor of this general idea; Clinton is not (yet).
+<P>
+There are three main arguments against a modern version of Glass-Steagall.
+None is convincing.
+<P>
+First, some prominent former officials argue that not all of the financial firms that got into trouble in 2008 were integrated commercial-investment banking operations.
+For example, Lehman Brothers was a standalone investment bank, and AIG was an insurance company.
+<P>
+This argument is, at best, irrelevant.
+What happened “last time” is rarely a good guide to fighting wars or anticipating future financial crises.
+The world moves on, in terms of technology and risks.
+We must adjust our thinking accordingly.
+<P>
+At worst, the argument is just plain wrong.
+Some of the greatest threats in 2008 were posed by banks – such as Citigroup – built on the premise that integrating commercial and investment banking would bring stability and better service.
+Sandy Weill, the primary architect of the modern Citigroup, regrets that construction – and regrets lobbying for the repeal of Glass-Steagall.
+(As James Kwak and I argued in our book 13 Bankers, what really mattered was the decades-long bipartisan process of deregulation, for which the end of Glass-Steagall was a prominent symbol.)
+<P>
+Second, leading representatives of big banks argue that much has changed since 2008 – and that big banks have become significantly safer.
+Unfortunately, this is a great exaggeration.
+<P>
+Ensuring a financial system’s stability is a multifaceted endeavor – complex enough to keep many diligent people fully employed.
+But it also comes down to this: how much loss-absorbing shareholder equity is on the balance sheets of the largest financial firms?
+<P>
+In the run-up to the 2008 crisis, the largest US banks had around 4% equity relative to their assets.
+This was not enough to withstand the storm.
+(Here I’m using tangible equity relative to tangible assets, as recommended by Tom Hoenig, Vice Chairman of the Federal Deposit Insurance Corporation, and a beacon of clarity on these issues.)
+<P>
+Now, under the most generous possible calculation, the surviving megabanks have on average about 5% equity relative to total assets – that is, they are 95% financed with debt.
+Is this the major and profound change that will prove sufficient as we head through the credit cycle?
+No, it is not.
+<P>
+Finally, some observers – although relatively few at this point – argue that the biggest banks have greatly improved their control and compliance systems, and that the mismanagement of risk on a systemically significant scale is no longer possible.
+<P>
+This view is simply implausible.
+Consider all the instances of money laundering and sanctions busting (with evidence against Credit Agricole last week, Deutsche Bank this week, and almost every major international bank in the past few years).
+<P>
+This is the equivalent of near misses in aviation.
+If the US had the equivalent of the National Transportation Safety Board for finance, we would receive detailed public reports on what exactly is – still, after all these years – going wrong.
+Sadly, what we actually get is plea bargains in which all relevant details are kept secret.
+The regulators and law-enforcement officials are letting us down – and jeopardizing the safety of the financial system – on a regular basis.
+<P>
+The best argument for a modern Glass-Steagall act is the simplest.
+We should want a lot more loss-absorbing shareholder equity.
+And, to reinforce this, we should want to make the largest banks simpler and more transparent, with “strong structural firewalls” as Dennis Kelleher, of Better Markets, puts it.
+Of course, in that context, we should ensure that various activities by “shadow banks” (structures that operate with bank-like features, as Lehman Brothers did) are properly regulated.
+<P>
+Building support for legislation to simplify the biggest banks would greatly strengthen the hand of those regulators who want to require more shareholder equity and better regulation for the shadows.
+These policies are complements, not substitutes.

@@ -1,0 +1,54 @@
+<HEADLINE>
+Measuring the Value of Free
+<P>
+LONDON – Reliable economic statistics are a vital public good.
+They are essential to effective policymaking, business planning, and the electorate’s ability to hold decision-makers to account.
+<P>
+And yet the methods we use to measure our economies are becoming increasingly out of date.
+The statistical conventions on which we base our estimates were adopted a half-century ago, at a time when the economy was producing relatively similar physical goods.
+Today’s economy is radically different and changing rapidly – the result of technological innovation, the rising value of intangible, knowledge-based assets, and the internationalization of economic activity.
+<P>
+In light of these challenges, UK Chancellor of the Exchequer George Osborne asked me ten months ago to assess the United Kingdom’s current and future statistical needs.
+While my research focused on the UK, the challenges of producing relevant, high-quality economic statistics are the same in many countries.
+<P>
+Recent technological advances have radically altered the way people conduct their lives, both at work and at play.
+The advances in computing power underpinning the digital revolution have led not only to rapid quality improvements and product innovation, but also to new, connectivity-driven ways of exchanging and providing services.
+<P>
+One particular challenge for economic measurement stems from the fact that an increasing share of consumption comprises digital products delivered at a zero price or funded through alternative means, such as advertising.
+While free virtual goods clearly have value to consumers, they are entirely excluded from GDP, in accordance with internationally accepted statistical standards.
+As a result, our measurements may not be capturing a growing share of economic activity.
+<P>
+Consider the music industry.
+Downloads and streaming services have now largely replaced CDs, the dominant medium in the 1990s.
+And yet the money has not followed; the industry’s revenues and margins have both plummeted.
+As a result, its contribution to GDP (as we currently measure it) may be falling, even as the quantity and quality of services are increasing.
+<P>
+Two methods can give us a rough estimate how much digital economic activity we are failing to capture in our measurements.
+We can use average wages to estimate the value of the time people spend online using free digital products, or we can adjust telecommunication services output to account for the rapid growth in Internet traffic.
+Both approaches suggest that accounting for these types of activities could add between one-third and two-thirds of a percentage point to the average annual growth rate of the UK economy over the past decade.
+<P>
+The digital revolution is also disrupting traditional business models.
+The reduced search and matching costs offered by a range of online platforms are unlocking the market for skills (known as the “gig economy”) and the market for underutilized assets (known as the “sharing economy”).
+This, too, causes conceptual and practical measurement challenges for established GDP calculus.
+The traditional statistical distinction between productive firms and consuming households leaves little room to account for households as value creators.
+<P>
+Measuring GDP, it turns out, is like trying to hit a moving target.
+The digital revolution is likely to be followed by yet another wave of disruptive technology, including advances in materials science, artificial intelligence, and genetic engineering.
+As the economy evolves, so must the frame of reference for the statistics we use to measure it.
+<P>
+Consequently, internationally agreed statistical standards will almost always be somewhat out of date or incomplete, as they are bound to lag behind changes in the economy.
+National statistical offices should explore measurement issues that go beyond the prevailing standards, rather than use compliance as an excuse for their failure to innovate.
+<P>
+One solution would be to establish a continuing program of research into the measurement implications of emerging economic trends, conducting one-off studies at first to gauge their potential quantitative importance.
+This could then guide the development of experimental statistics capturing the new phenomena.
+<P>
+New techniques of collecting and analyzing big data, such as web scraping, text-mining, and machine learning, provide an opportunity for statisticians.
+Governments already hold some administrative data, but their use for statistical purposes often requires legislative changes.
+Unlocking this trove of information would extend statistical samples to near-census size, increase their timeliness and accuracy, and reduce the respondent costs to businesses and households.
+<P>
+Ensuring that data accurately reflect a changing economy is one of the hardest tasks faced by national statistical institutes worldwide.
+Success requires not only understanding the limitations of traditional measurements, but also developing a curious and self-critical workforce that can collaborate with partners in academia, industry, the public sector, and other national statistical institutes to develop more appropriate methods.
+<P>
+The UK is by no means alone in facing these challenges.
+But we need to act quickly.
+Otherwise, the speed of economic change will render our statistics irrelevant to modern life.

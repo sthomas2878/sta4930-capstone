@@ -1,0 +1,57 @@
+<HEADLINE>
+Creative Disruption in Health Care and Education
+<P>
+WASHINGTON, DC – Governments are often more eager to invest in physical infrastructure – such as roads, bridges, and airports – than in human capital, through channels like health care, education, and skills training.
+This can be good politics, because it enables leaders to deliver concrete, visible results over the course of a few years.
+But the best way to ensure that economies grow and prosper in the long term is to ensure that citizens are healthy and educated.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+With technology’s continuing advance, this is becoming easier for governments to achieve.
+As the Fourth Industrial Revolution transforms some sectors (notably, manufacturing) and creates new fields (such as robotics, 3D printing, and autonomous vehicles), it is also enabling new approaches to health care and education.
+<P>
+Already, technology has proved effective for lowering costs, expanding access, and improving quality in both the education and health care fields.
+The Internet and mobile-phone technology have enabled scarce medical specialists to serve patients in remote places using telemedicine, and facilitated the rise of distance-learning university campuses, giving students everywhere access to professors who previously were available only to those in major cities or on university campuses.
+<P>
+Many individuals in developed countries have taken to wearing watches and bracelets that measure their activity, heart rate, and sleep quality.
+By fostering a greater awareness of their physical condition, such devices spur people to adopt healthier habits, potentially reducing their risk of chronic disease, a major contributor to health-care costs worldwide.
+<P>
+But these devices have even greater potential to improve health, and today’s innovators are using cutting-edge technology to build on these successes.
+Unlike traditional patient records, stored in individual doctors’ offices, the data collected by such “wearables” are aggregated and analyzed.
+This can improve diagnostics, while helping to compensate for skills shortages in medical labor markets.
+<P>
+The Singapore-based company Tricog, for example, has developed algorithms to read electrocardiograms, flagging problem cases for doctors.
+This efficiency-boosting technology – which enables doctors to initiate treatment within minutes instead of hours – is already proving useful in India, where hospitals often suffer from a lack of trained cardiologists.
+<P>
+Big Data analytics and machine learning also enable greater personalization of health services.
+Among other things, these technologies can help in treating noncommunicable diseases like diabetes and cancer, which are fast becoming the biggest health-care challenge facing emerging economies.
+<P>
+Similarly, innovators in online learning – a $165 billion sector that is growing by 5% per year – are using disruptive technologies like artificial intelligence to develop advanced tutoring tools and improve personalization.
+For example, BYJU’S, a learning app —and a client of the International Finance Corporation (IFC)—has taken advantage of new technologies to make high-quality math and science tutoring available to K-12 students who would otherwise be excluded because they live in remote areas or have limited mobility.
+<P>
+In higher education, Massive Open Online Course (MOOC) platforms offer the flexibility workers need to pursue the lifelong learning required by the twenty-first-century labor market.
+One such platform is Coursera (also an IFC client), which works with universities and other organizations to offer online courses.
+<P>
+After its launch in 2012, Coursera worked hard to expand into the developing world.
+By 2015, almost half of the platform’s subscribers were located in emerging markets.
+Like other MOOC platforms, Coursera’s business model continues to evolve; most recently, it added upskilling services for enterprises, and it has been forging partnerships with traditional campus-based institutions to develop online degrees.
+<P>
+Six years ago, when IFC, seeking to mobilize early financial support for startups offering products relevant to emerging markets, first dipped its toes in EdTech waters, the path to commercial sustainability was far from clear.
+Now, however, EdTech companies have successfully developed profitable, scalable business models that can be applied elsewhere.
+<P>
+Since its founding in 2011, for example, BYJU’S has become a major global player with more than two million subscribers, 30 million app downloads, and a valuation of over $5 billion.
+As we work with the private sector to close gaps in access to quality health care and education in emerging economies, such success stories provide useful models.
+<P>
+Of course, using technology to transform education and health care carries some risks.
+Safeguarding the privacy of patient records and student test scores must be a top priority.
+And no one should think that AI-enabled diagnostic tools will displace doctors, or that online learning platforms should supplant teachers – especially when it comes to developing the socio-emotional skills that tomorrow’s job market will demand.
+<P>
+But the potential benefits of disruptive technologies for economic growth, sustainability, and human wellbeing are simply too great to pass up.
+Considering the payoff from today’s investments in these areas – particularly in the emerging economies – the risks are undoubtedly worth taking.

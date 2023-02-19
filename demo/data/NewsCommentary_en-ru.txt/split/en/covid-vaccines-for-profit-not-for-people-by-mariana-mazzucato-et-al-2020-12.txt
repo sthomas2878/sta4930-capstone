@@ -1,0 +1,65 @@
+<HEADLINE>
+Designing Vaccines for People, Not Profits
+<P>
+LONDON – Recent announcements of demonstrated efficacy in COVID-19 vaccine trials have brought hope that a return to normality is in sight.
+The preliminary data for Pfizer/BioNTech and Moderna’s novel mRNA vaccines are highly encouraging, suggesting that their approval for emergency use is forthcoming.
+And more recent news of effectiveness (albeit at a slightly lower rate) in a vaccine from AstraZeneca and the University of Oxford has fueled optimism that even more breakthroughs are on their way.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In theory, the arrival of a safe and effective vaccine would represent the beginning of the end of the COVID-19 pandemic.
+In reality, we are not even at the end of the beginning of delivering what is needed: a “people’s vaccine” that is equitably distributed and made freely available to all who need it.
+<P>
+To be sure, the work to create vaccines in a matter of months deserves praise.
+Humanity has made a monumental technological leap forward.
+But the springboard was decades of massive public investment in research and development.
+<P>
+Most of the leading vaccine candidates prime the immune system’s defenses against the viral “spike protein,” an approach made possible through years of research at the US National Institutes of Health.
+More immediately, BioNTech has received $445 million from the German government, and Moderna has received $1 million from the Coalition for Epidemic Preparedness Innovations and more than $1 billion from the US Biomedical Advanced Research and Development Authority and the US Defense Advanced Research Projects Agency.
+The AstraZeneca-Oxford vaccine has received more than £1 billion ($1.3 billion) of public funding.
+<P>
+But for technological advances to translate into Health for All, innovations that are created collectively should be governed in the public interest, not for private profit.
+This is especially true when it comes to developing, manufacturing, and distributing a vaccine in the context of a pandemic.
+<P>
+No country acting alone can resolve this crisis.
+That is why we need vaccines that are universally and freely available.
+And yet, the current innovation system prioritizes the interests of high-income countries over those of everyone else, and profits over public health.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The first step toward a people’s vaccine is to ensure full transparency of the clinical-trial results, which would enable independent and timely assessments of safety and efficacy.
+The publication of scanty, preliminary data through corporate press releases is meant for financial markets, not the public-health community.
+This practice sets a bad precedent.
+While pharmaceutical share prices surge, health professionals and the public are left second-guessing the reported results.
+As more details about the flaws in clinical trial design and implementation for the AstraZeneca-Oxford vaccine emerge, so do the calls for open science and immediate sharing of protocols and results.
+<P>
+In addition, critical questions about the leading vaccine candidates remain unanswered.
+Responding to political and economic pressure in high-income countries, pharmaceutical companies are rushing their vaccine candidates across the finish line.
+Accordingly, they have designed their phase-three clinical trials to deliver the quickest possible positive read-out, rather than addressing more relevant questions such as whether the vaccine prevents infection or just protects against the disease.
+It also is unclear how long the protection will last; whether a given vaccine works equally well in young and old people, or in people with co-morbidities; and how the top candidates compare to one another (critical for designing effective vaccination strategies).
+<P>
+Moreover, national interests – especially those of developed countries – remain the dominant factor in vaccine rollout.
+While the international purchase and distribution platform COVAX represents a momentous step forward, its impact is being offset by massive bilateral advance-purchase agreements by rich countries that can afford to bet on multiple vaccines.
+For example, high-income countries have already bought close to 80% of the Pfizer/BioNTech and Moderna vaccine doses that will be available within the first year.
+<P>
+All told, rich countries have laid claim to 3.8 billion doses from different vaccine makers, compared to 3.2 billion (which includes around 700 million doses for COVAX) for the rest of the world combined.
+In other words, high-income countries have pre-ordered enough doses to cover their populations several times over, leaving the rest of the world with potentially too few to cover even their most at-risk communities.
+<P>
+At the same time, because the vaccine race is focused primarily on Western markets, some candidates are scarcely viable outside of a developed-country context.
+The Pfizer/BioNTech vaccine must be kept at -70ºC, which is colder than an Antarctic winter.
+Distributing this vaccine will create costly and complex logistical challenges, especially for low- and middle-income countries.
+Although other candidates – such as the AstraZeneca-Oxford vaccine – are stable at higher temperatures, it is notable that such glaring features of market discrimination are built into the first product to reach the approval stage.
+<P>
+Beyond national interest lurks the problem of even narrower private interests, which stem from an over-financialized biopharmaceutical innovation model.
+The business model for future vaccine development is already being sized up now that the pandemic has revealed the potential windfall for investors.
+But while they benefit from sky-rocketing stock prices, soaring capital gains, and dumping a company’s shares the same day it announces promising preliminary results in a clinical trial, delivering a people’s vaccine has become an afterthought.
+<P>
+The COVID-19 crisis is a perfect test of whether a more public-health-oriented approach to innovation and production will prevail in the years ahead.
+While Pfizer is sticking with the model of maximizing shareholder value, AstraZeneca has at least pledged not to profit from its vaccine “during the pandemic.”
+Yet, despite all the public investment that underwrote these innovations, the process will remain opaque, leaving one to wonder if AstraZeneca is actually ready to prioritize public health over profit and offer its vaccine at cost.
+<P>
+While the recent vaccine news has brought hope, it also has exposed the pharmaceutical industry’s broken business model, casting doubt on the prospects of delivering a people’s vaccine and achieving Health for All.
+Business as usual may allow us to scrape by in this crisis.
+But there is a better way to do things.
+Before the next pandemic arrives, we must recognize vaccines as global health commons, and start to reorient the innovation system toward symbiotic public-private partnerships governed in the public interest.

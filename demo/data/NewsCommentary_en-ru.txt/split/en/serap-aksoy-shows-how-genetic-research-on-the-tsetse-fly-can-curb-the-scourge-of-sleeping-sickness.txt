@@ -1,0 +1,57 @@
+<HEADLINE>
+Sequencing a Vampire
+<P>
+NEW HAVEN – Human African trypanosomiasis (HAT) – also known as sleeping sickness – has long plagued rural sub-Saharan African populations.
+A parasitic infection, it is often fatal when left untreated.
+And treatment is complex, requiring the kind of highly skilled medical staff that is difficult to find in the affected areas.
+The parasites that carry the infection – Trypanosoma brucei gambiense in central and western Africa and T. b. rhodesiense in eastern Africa – are transmitted through the bite of an infected tsetse fly (Glossina morsitans morsitan).
+<P>
+In the early twentieth century, HAT epidemics decimated populations in many parts of Africa.
+Though the systematic screening and treatment of millions of people dramatically reduced disease transmission in the 1930’s, the relaxation of such efforts allowed HAT to reemerge in the 1950’s and 1960’s, reaching epidemic levels by early 1990’s.
+A World Health Organization campaign finally got the disease under control by 2008, with only about 10,000 people contracting it each year.
+But millions remain at risk.
+<P>
+Clearly, tsetse flies pose a serious danger in the areas that can least afford or access treatment.
+And the threat is not limited to humans.
+African animal trypanosomiasis, or nagana, is caused by the parasites Trypanosoma congolense, T. vivax, and T. brucei – all of which are transmitted by the tsetse fly.
+<P>
+Nagana, too, is fatal if left untreated, leading to considerable livestock losses.
+In cattle production alone, economic losses amount to an estimated $1-1.2 billion annually, with total agricultural losses reaching roughly $4.75 billion.
+Moreover, nagana limits cattle rearing in ten million square kilometers of Africa.
+<P>
+Given the lack of effective vaccines and inexpensive, easily deliverable drugs, reducing tsetse numbers is the most effective approach to controlling such diseases.
+This can be achieved through traps and targets (insecticide-soaked screens), which attract the flies to a device that collects and/or kills them.
+<P>
+But much can be done to enhance the effectiveness of these methods, whether by improving the devices themselves or by implementing control programs in various ecological settings.
+In both cases, a better understanding of tsetse biology is invaluable.
+<P>
+The recently completed genome sequence of Glossina morsitans morsitans provides several clues that could transform tsetse research and disease-control practices.
+First, the researchers looked for clues about how the tsetse, which feeds exclusively on the blood of vertebrates, identifies its host.
+<P>
+To this end, researchers analyzed genes for more than 12,300 proteins to understand critical processes like olfaction (smell), gustation (taste), and vision.
+They found that tsetse have fewer genes for olfactory and gustation receptors, and more genes for detecting carbon dioxide – key to helping them find a host.
+<P>
+Researchers also pursued a deeper understanding of the genes involved in sensing colors, in order to help determine which shade of blue – the color that has long been known to attract tsetse flies – would work best for traps.
+Future research on the molecular aspects of olfaction and vision can guide the development of more effective mechanisms for luring flies to the traps or repellants that could be applied to animals to protect against tsetse bites.
+<P>
+Similarly, knowledge of symbiosis and tsetse reproduction can be harnessed to develop new methods to control tsetse populations.
+Though tsetse flies cannot synthesize essential vitamins, for example, they host a variety of symbiotic bacteria that do it for them.
+<P>
+Particularly interesting is the tsetse’s unusual mode of reproduction: it bears its offspring live.
+The female supports the development of a single embryo that becomes a larva, which grows in its mother’s uterus, nourished by milk secreted by specialized glands.
+The female gives birth to a fully mature larva, which pupates and remains dormant underground until it hatches as an adult.
+<P>
+The genome study revealed the molecular basis of this trait – novel proteins produced in the milk gland.
+Gene-expression studies have shown that when the female is pregnant, a 40% increase in gene activity in her milk gland accounts for almost half of all gene activity during pregnancy.
+In other words, lactation is critical to the tsetse’s survival.
+<P>
+Researchers have also found that a single transcription factor, the Ladybird late, regulates the synthesis of all milk proteins; without it, flies lose their fecundity.
+It has been suggested that chemical inhibitors for this factor could make it impossible for the fly to give birth, thereby reducing tsetse populations.
+<P>
+But this is not the tsetse’s only rare trait.
+Unlike many other animals, female tsetse flies can remain fertile throughout their lifetime.
+Researchers have found a strong antioxidant response produced between pregnancy cycles, which helps the females to avoid damage from oxidative stress.
+Finding a way to prevent this antioxidant response could thus help to compromise females’ reproductive systems.
+<P>
+Having the tsetse fly’s genetic blueprint is a critical first step toward developing mechanisms to reduce tsetse numbers.
+For the people of rural Africa, such advances cannot come soon enough.

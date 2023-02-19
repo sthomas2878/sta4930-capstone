@@ -1,0 +1,62 @@
+<HEADLINE>
+Is Technology Hurting Productivity?
+<P>
+CAMBRIDGE – In recent years, productivity growth in developed economies has been stagnating.
+The most prominent explanations of this trend involve technology.
+Technological progress is supposed to increase economies’ productivity and potential growth.
+So what’s going on?
+<P>
+Harvard’s Martin Feldstein has argued persuasively that productivity growth is actually higher than we realize, because government statistics “grossly understate the value of improvements in the quality of existing goods and services” and “don’t even try to measure the full contribution,” of new goods and services.
+Over time, he asserts, these measurement errors are probably becoming more important.
+<P>
+Northwestern University’s Robert Gordon is less optimistic.
+He has argued – also persuasively – that today’s innovations in areas like information and communications technology (ICT) cannot be expected to have as big an economic payoff as those of the past, such as electricity and the automobile.
+<P>
+But it’s possible that ICT and other new technologies are not just doing less to boost productivity than past innovations; they may actually have some negative side effects that undermine productivity and GDP growth.
+One need not be a modern-day Luddite to acknowledge the potential productivity pitfalls of technological innovation.
+<P>
+The first might seem obvious: technological disruption is, well, disruptive.
+It demands that people learn new skills, adapt to new systems, and change their behavior.
+While a new iteration of computer software or hardware may offer more capacity, efficiency, or performance, those advantages are at least partly offset by the time users have to spend learning to use it.
+And glitches often bedevil the transition.
+<P>
+The fast-changing nature of today’s digital technologies also raises security challenges.
+Spam, viruses, cyberattacks, and other kinds of security breaches can impose major costs on businesses and households.
+<P>
+Then there is the impact that connectivity has on our daily lives, including our ability to work and learn.
+Non-work emails, social media, Internet videos, and videogames can easily distract employees, offsetting at least some of the productivity-raising potential of that same connectivity.
+Such disadvantages may become even more pronounced when workers telecommute.
+<P>
+Similarly, the smart phone has shaped the minds of young people, who barely remember what it was like before addictive activities – from video games to social media – were constantly at their fingertips.
+According to one recent study, recreational computer activities partly explain a decline in labor supply among men ages 21 to 30.
+Moreover, research shows that laptops in the classroom slow student learning, even when used to take notes, rather than surf the web.
+<P>
+Moreover, smart phones undermine physical safety in some contexts.
+In the United States, the National Highway Traffic Safety Administration reports that 3,477 people were killed and 391,000 were injured in motor vehicle crashes involving distracted drivers in 2015, with texting being the biggest culprit, particularly among young people.
+<P>
+Digital currencies like Bitcoin have also so far failed to live up to the hype surrounding them.
+Far from being more efficient as a means of payment or store of value than conventional money, cryptocurrencies seem to encourage the diversion of resources away from productive uses.
+They also harm the environment, owing to the energy-intensive “mining” process, while the total anonymity they offer undermines law enforcement.
+<P>
+Beyond new technologies’ direct and indirect negative effects on productivity, there is a risk that they are undermining people’s quality of life.
+Few people have positive feelings about, say, the automatic phone calls that have come to plague many of our lives.
+<P>
+Then there is the ever-present “fake news” problem.
+The advent of digital “new media” was once heralded as a democratizing trend that would give ordinary people a measure of control over the “air waves,” at the expense of big companies or established institutions.
+But it has lately become apparent that “democratizing” information may not actually be good for democracy.
+For example, fake news has been found to spread faster on Twitter than true news.
+This has not only made citizens less informed in many cases; it has also enabled public figures – most notably, US President Donald Trump – to dismiss the truth as “fake.”
+<P>
+And these are just the downsides of information technology.
+Other technological innovations with major obvious drawbacks include opiate painkillers and increasingly advanced weaponry.
+<P>
+To be clear, I am not suggesting that the net effects of recent technological advances are negative.
+On the contrary, many have delivered huge benefits, and that will probably continue to be the case.
+<P>
+Technologies may have productivity-raising potential that is yet to be tapped.
+Historians like Paul David and technology experts like Erik Brynjolfsson, Daniel Rock, and Chad Syverson argue that it has always taken time for major breakthroughs (like the steam engine, electricity, or the automobile) to yield net economic gains, because businesses, buildings, and infrastructure need to be re-configured.
+Presumably the same will happen with recent technologies.
+<P>
+But this is not a reason to ignore the negative consequences of new innovations.
+As a group of Silicon Valley technologists has warned, “Technology is hijacking our minds and society.”
+We must take back control, ensuring that we do not just make our world “smarter,” but also make sure we are smart about how we use it.

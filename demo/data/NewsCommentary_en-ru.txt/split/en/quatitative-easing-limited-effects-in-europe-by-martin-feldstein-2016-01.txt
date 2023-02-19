@@ -1,0 +1,50 @@
+<HEADLINE>
+The Shortcomings of Quantitative Easing in Europe
+<P>
+CAMBRIDGE – Why has the US Federal Reserve’s policy of quantitative easing been so much more successful than the version of QE implemented by the European Central Bank?
+That intellectual question leads directly to a practical one: Will the ECB ever be able to translate quantitative easing into stronger economic growth and higher inflation?
+<P>
+The Fed introduced quantitative easing – buying large quantities of long-term bonds and promising to keep short-term interest rates low for a prolonged period – after it concluded that the US economy was not responding adequately to traditional monetary policy and to the fiscal stimulus package enacted in 2009.
+The Fed’s chairman at the time, Ben Bernanke, reasoned that unconventional monetary policy would drive down long-term rates, inducing investors to shift from high-quality bonds to equities and other risky securities.
+This would drive up the value of those assets, increasing household wealth and therefore consumer spending.
+<P>
+The strategy worked well.
+Share prices rose 30% in 2013 alone, and house prices increased 13% in the same twelve months.
+As a result, the net worth of households increased by $10 trillion that year.
+The rise in wealth induced consumers to increase spending, which restarted the usual expansionary multiplier process, with GDP up by 2.5% in 2013 and the unemployment rate falling from 8% to 6.7%.
+The expansion continued in subsequent years, bringing the current unemployment rate down to 5% – and the unemployment rate among college graduates to just 2.5%.
+<P>
+The ECB has been following a similar strategy of large-scale asset purchases and extremely low (indeed negative) short-term interest rates.
+But, although the policy is the same as the Fed’s, its purpose is very different.
+<P>
+Because Europe lacks the widespread share ownership that exists in the United States, quantitative easing cannot be used to stimulate consumer spending by raising household wealth.
+Instead, a major if unspoken purpose of the ECB’s low-interest-rate policy has been to stimulate net exports by depressing the value of the euro.
+The ECB succeeded in this, with the euro’s value falling by some 25% – from $1.40 in the summer of 2014 to $1.06 by the fall of 2015.
+<P>
+I have been an advocate of reducing the value of the euro for several years, so I think this strategy was a good one.
+But, although the fall in the value of the euro has stimulated the eurozone’s net exports, the impact on its members’ exports and GDP has been quite limited.
+<P>
+One reason for this is that much of the eurozone countries’ trade is with other eurozone countries that use the same currency.
+Moreover, exports to the US don’t benefit much from the decline of the euro-dollar exchange rate.
+European exporters generally invoice their exports in dollars and adjust their dollar prices very slowly, a point made clear in an important paper that Gita Gopinath of Harvard presented at the Federal Reserve’s Jackson Hole conference in August 2015.
+<P>
+As a result, total net exports from the eurozone rose less than €3 billion ($3.2 billion) between September 2014 and September 2015 – a negligible amount in an €11 trillion economy.
+<P>
+A further motive of the ECB’s bond purchases has been to increase the cash that eurozone banks have available to lend to businesses and households.
+But, as of now, there has been very little increase in such lending.
+<P>
+Finally, the ECB is eager to raise the eurozone inflation rate to its target of just under 2%.
+In the US, the QE strategy has increased the “core” inflation rate – which excludes the direct effect of declining prices of energy and food – to 2.1% over the past 12 months.
+This has been a by-product of the increase in real demand, achieved by reducing unemployment to a level at which rising wages contribute to faster price growth.
+<P>
+This strategy is unlikely to work in the eurozone, because the unemployment rate is still nearly 12%, about five percentage points higher than it was before the recession began.
+The ECB’s quantitative easing policy can probably achieve higher inflation only through the increase in import prices resulting from a decline in the value of the euro.
+This very limited process still leaves core inflation in the eurozone below 1%.
+<P>
+ECB President Mario Draghi recently responded to the new evidence of eurozone weakness and super-low inflation by indicating that the Bank is likely to ease monetary conditions further at its next policy-setting meeting in March.
+This could mean further reducing already-negative short-term interest rates and expanding and/or extending its bond-purchase program.
+<P>
+Eurozone financial markets reacted in the expected way.
+Long-term interest rates fell, equity prices rose, and the euro declined relative to the dollar.
+But past experience and the reasons spelled out here suggest that these policies will do very little to increase real activity and price inflation in the eurozone.
+To make real progress toward reviving their economies, the individual countries need to depend less on quantitative easing by the ECB and focus squarely on structural reforms and fiscal stimulus.

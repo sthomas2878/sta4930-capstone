@@ -1,0 +1,47 @@
+<HEADLINE>
+Manna from Helicopters
+<P>
+LONDON – In recent years, the global economy has been plagued by inadequate demand and the rising risk of deflation.
+Central banks have responded with a range of unconventional measures, including quantitative easing (QE) and negative interest rates.
+Today, however, there is a growing consensus that the efficacy of monetary stimulus has reached its limits.
+Further efforts to support economic recovery will likely require fiscal interventions, such as so-called helicopter money – the injection of funds into the economy by the central bank.
+<P>
+Calls for using this tool have mostly fallen on deaf ears.
+Policymakers worry that they lack fiscal space for such a maneuver or that introducing helicopter money would compromise the independence of central banks.
+<P>
+These concerns, while understandable, are misplaced.
+In periods characterized by deflation, helicopter money is as close to a free lunch as economics has to offer.
+The reason this is not widely understood is because of the traditional method used to calculate seigniorage – the profits governments make from the printing of money.
+<P>
+At present, our methods of calculation treat all increases in the money supply as temporary.
+This is true of, say, QE; with helicopter money, however, the change is permanent.
+The two interventions thus require different methods for calculating the revenue that governments receive from seigniorage.
+<P>
+Under QE, the central bank buys government bonds, expanding the monetary base.
+As time passes, the central bank receives interest income on its bonds, and, if it does not pay interest on excess reserves, this income increases its net worth.
+This additional net worth is transferred to the government every year as seigniorage revenue, which is accounted for as it is received, over a number of years.
+<P>
+The increase in the monetary base, however, is only temporary; when the bonds are redeemed, it reverts to its original level.
+This eventual need to reduce the monetary base is an implicit claim on a central bank’s assets; thus, the increase is rightly considered a liability on its balance sheet.
+<P>
+Under a fiscal stimulus financed by helicopter money, however, the central bank never has to reverse the increase in the monetary base.
+Because the holders of the distributed funds have no claim on the central bank, the increase in the monetary base should not be viewed as a liability, but as an increase in the central bank’s net worth.
+<P>
+In other words, helicopter money is not an interest-free loan to the government; it is a gift.
+And the seigniorage should be recognized when the gift is received.
+Recognizing this difference is important, because under the current convention for calculating seigniorage, a fiscal stimulus financed with helicopter money widens the fiscal deficit and increases public-sector debt.
+As a result, governments with limited fiscal room might be reluctant to consider it as an option.
+<P>
+If, however, a permanent increase in the monetary base is transferred to the government as seigniorage revenue, it can use the windfall to fund tax cuts or increase spending without affecting its balance sheets.
+<P>
+Nor does helicopter money necessarily have an impact on central bank independence; it can simply be another weapon in its arsenal.
+When an economy is at risk of falling into deflation, a central bank can change interest rates, temporarily increase the monetary base, or increase it permanently.
+The choice of which tool to use can remain entirely the responsibility of the central bank.
+<P>
+The truth about helicopter money is that central banks have no reason to rule it out in advance.
+If monetary policymakers conclude that a permanent increase in the monetary base is needed to achieve their inflation target, they could use permanently increase the monetary base and transfer the seigniorage revenues to government.
+The government could then use the additional resources to pay down debt or stimulate the economy.
+(Even the former should boost demand, but the latter is likely to be more effective.)
+<P>
+In the current economic climate, if a liquidity trap looms, helicopter money could be one of the cheapest and most effective tools for stimulating the economy.
+It would be a pity if policymakers failed to take advantage of it simply because we do not think about seigniorage revenues correctly.

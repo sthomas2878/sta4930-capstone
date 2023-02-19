@@ -1,0 +1,60 @@
+<HEADLINE>
+The Future of Fish Farming
+<P>
+NEW HAVEN – Demand for seafood is skyrocketing, and will continue to rise throughout this century.
+The only way to meet it will be through aquaculture.
+Yet, while next-generation aquaculture will be far more ecologically responsible than its predecessors, it will also use far more energy.
+If that additional energy is not clean and cheap, new aquaculture technologies cannot serve our broader environmental and climate goals.
+<P>
+The rise in demand for seafood is a good thing, to a point.
+Fish are more efficient than pork and beef, because they require fewer inputs to yield the same amount of protein.
+So, as global meat consumption continues torise, it makes sense for a sizeable share of it to come from the sea.
+<P>
+On the other hand, rising demand for seafood poses significant ecological risks.
+According to the United Nations Food and Agriculture Organization, nearly one-third of global fish stocks are already harvested at an unsustainable level, meaning wild populations cannot regenerate quickly enough to make up for the rate at which they’re fished.
+And, because wild populations lack the carrying capacity to meet the increase in demand, more fish have to be farmed.
+<P>
+For that reason, aquaculture is already the leading mode of fish production for human consumption.
+But, like fishing, it also poses ecological risks.
+Because aquaculture systems often operate on coastlines or near inland rivers or ponds, they tend to disrupt natural habitats, contribute to nitrogen pollution, and add undue pressure on feeder fish stocks.
+For example, fish farming is one of the main drivers of mangrove deforestation in Southeast Asia.
+<P>
+But even with these conservation challenges in mind, aquaculture remains the only option for meeting future demand.
+The path that the industry takes today will thus have far-reaching environmental implications for years to come.
+<P>
+In the near term, fish farms can in fact be made cleaner.
+A few responsible producers have introduced new techniques and technologies to combat pollution, from monitoring feed uptake with video cameras to integrating filter feeders like shellfish and seaweed into their systems.
+Others are attempting to reduce their reliance on forage fish by replacing fish meal with plant proteins, or by adopting new biotechnologies to produce fish feed more sustainably.
+But so long as these aquaculture systems are embedded in coastal or freshwater environments, they will continue to contribute to habitat loss and ecological disruption.
+<P>
+For the long term, then, experts generally offer two ways forward: land-based recirculating systems and offshore aquaculture.
+Both could potentially mitigate the negative externalities of aquaculture and make fish production sustainable well into the future.
+<P>
+In the first approach, fish farms would be moved from the ocean to recirculating aquaculture systems (RAS), in which fish are housed in indoor tanks that are regulated by pumps, heaters, aerators, and filters.
+One of the biggest advantages of this approach is its adaptability: an RAS can be located almost anywhere, from urban lots to retired hog barns.
+<P>
+Better yet, these systems are designed to recycle nearly all of the water they use, which eliminates the problem of coastal pollution.
+Accordingly, the advocacy organization Seafood Watch currently gives all RAS-farmed fish a “Best Choice” tag.
+<P>
+The other option is to move aquaculture in the opposite direction: out to sea.
+Offshore systems harness the forces of the ocean, by using deeper waters and stronger currents to funnel excess nutrients and waste away from sensitive coastal ecosystems.
+As a result, they have no need for mechanical pumps or filters (although motorized pens may eventually take to the seas).
+<P>
+In the United States, the aquaculture industry has started to move toward RAS production.
+For example, a Norwegian firm has just announced plans to build a huge new land-based salmon farm in Maine.
+And examples of offshore projects can be found off the coasts of Norway, California, and Hawaii.
+But both systems are still a niche, rather than the norm.
+<P>
+One of the primary problems with cleaner approaches to aquaculture is that they are energy-intensive.
+With land-based systems, natural processes such as filtration and water exchange and dispersal must be carried out mechanically, which requires a lot of electricity.
+That isn’t necessarily a problem in places with low-carbon electricity grids, like France, but it would be in a place like Nova Scotia, which relies heavily on coal.
+<P>
+Likewise, offshore operations require diesel fuel for transport and maintenance, and that will remain the case until electric boats or low-carbon liquid fuels become more viable.
+Although open-ocean aquaculture should still require less diesel fuel than commercial fishing – and could run on renewable energy sources like solar, wind, or waves – offshore aquaculture is more energy-intensive than conventional fish farms.
+And even if newer aquaculture systems can overcome their current operational and regulatory challenges, their biggest hurdle will be the unavailability of cheap, low-carbon energy.
+As long as fossil fuels account for most global energy use, the environmental promise of next-generation aquaculture will go unrealized.
+<P>
+This is true for a wide range of industries.
+Without cleaner and cheaper energy across the board, we will not be able to meet our broader environmental and climate goals.
+Our current energy technologies – nuclear and renewables included – still have a way to go to meet energy demand.
+In the meantime, the aquaculture industry will need to make further investments and develop new innovations to put itself on a path to sustainability – be it on land or in the sea.

@@ -1,0 +1,38 @@
+<HEADLINE>
+Your Genes or Mine, How Different Are We?
+<P>
+For some time, scientists have believed that individual human beings were 99.9% genetically identical.
+The 0.1% of the genome that was different (approximately 3,000,000 bases of DNA) was comprised of “single nucleotide polymorphisms” (SNPs are alterations of the individual bases of DNA) scattered throughout the genome.
+It was thought that some of these DNA alterations may in part explain some of the physical differences that exist between two different, but otherwise normal individuals.
+<P>
+In the summer of 2004, two groups of scientists working independently (one led by researchers at Harvard Medical School and Brigham and Women’s Hospital in Boston and the other led by researchers at Cold Spring Harbor Laboratories) called this scientific dogma into question.
+Their research identified hundreds of regions of the human genome where the number of copies of a particular DNA segment varied from individual to individual.
+With only a few exceptions, all DNA segments were thought to exist in two copies (one copy inherited from your mother and one copy inherited from your father).
+<P>
+Both studies showed that there are hundreds of regions of the genome that could have more or less than the expected two copies.
+This alerted scientists to the existence of a larger source of genetic variation than was previously understood, and forced us to speculate on the implications of this discovery.
+<P>
+This discovery was made recently because until now, the technology was not available to comprehensively assess genomic imbalances in a genome-wide fashion.
+That has changed over the last five or six years, with the development of a technique known as “array-based comparative genomic hybridization” (array-CGH), revolutionizing genetic research and diagnostics.
+About three years ago at Brigham and Women’s Hospital, when we were seeking a potential tool for high-resolution diagnostics, array-CGH offered the hope of providing a reliable and efficient genome-wide test that could detect gains or losses in an unbiased and non-subjective fashion.
+<P>
+When validation experiments were performed that compared the DNA from one “normal, healthy” individual with the DNA from another “normal, healthy” individual, we were astonished to find an average of 12 DNA fragments that showed copy number differences between the two individuals being compared.
+These became known as copy number variants, or CNVs.
+<P>
+Combining the data from our study and the study from Cold Spring Harbor Laboratories, over 300 regions of the genome were found to exhibit CNVs among normal individuals.
+Since these two initial studies, many other groups, including ours, have confirmed and documented many more CNVs in other individuals studied.
+<P>
+This is the goal of the Structural Genomic Variation Consortium’s Copy Number Variation Project, which aims at providing researchers the most comprehensive list and characterization of CNVs in humans.
+The Consortium recently assessed 270 individuals from four populations with ancestry in Africa, Asia or Europe (known as the HapMap collection) to construct a new map of the human genome.
+Using two complementary genome-wide technologies, with subsequent validation studies, a total of 1,447 CNVs were identified.
+<P>
+The data clearly demonstrate that individuals are not as genetically similar as once thought.
+Many of the regions in which the CNVs were identified overlapped known disease genes.
+Since they are being identified in normal individuals, CNVs may not necessarily be a direct cause of human disease, but many may confer susceptibility to certain diseases, serve as disease markers, and/or indicate potential regions of genomic instability.
+<P>
+Some CNVs are also associated with genes involved in immune response and detoxification-related metabolism (some of the human body’s reactions to the environment that we live in).
+Indeed, some CNVs may turn out to explain why some people react differently to specific medications.
+Hopefully, a more comprehensive understanding of human genetic variation (i.e. single base pair changes and structural genomic variation, such as CNVs) will ultimately help physicians to prescribe medication in a more individualized manner, that would result in maximum therapeutic effects to each patient, with minimal side effects.
+<P>
+Overall, we anticipate that many of these CNVs will provide explanations to how we adapt and interact with our ever-changing environment.
+Indeed, as studies continue to identify and characterize CNVs, we anticipate achieving a better understanding of the relationship between these genetic variations, complex diseases, and human adaptability.

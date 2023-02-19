@@ -1,0 +1,67 @@
+<HEADLINE>
+The Shape of US Tax Reform
+<P>
+CAMBRIDGE – Major tax reform is high on the agenda for the United States in 2017.
+The Republican-controlled House of Representatives has been preparing for this for years, creating detailed plans for overhauling how corporate and personal income are taxed.
+Now, with a Republican majority in the Senate and a Republican president in the White House, those plans can provide the basis for legislative action.
+<P>
+The proposed corporate tax reform is especially significant.
+I believe it will have a highly favorable impact on business investment, raising productivity and overall economic growth.
+The new tax rules will also have significant effects on foreign economies.
+<P>
+Although none of the proposed changes is guaranteed, the likely shape of the proposed tax package is becoming clear.
+It includes four major components.
+<P>
+A lower tax rate on corporate profits.
+The current 35% rate is the highest rate among all industrial countries.
+The House Republicans and the Trump administration have both proposed halving that rate, which would cause capital to shift to corporate investment from real estate, unincorporated businesses, and foreign holdings.
+<P>
+With corporate-tax revenue currently equal to 2% of GDP, the proposed rate cut would reduce revenue by about 1% of GDP, or $190 billion a year in today’s economy.
+The resulting increase in investment would boost growth and lower the revenue loss; but congressional Republicans, who favor a revenue-neutral tax reform, would still face a challenge.
+<P>
+A territorial system for taxing US firms’ foreign subsidiaries.
+The US is unique among industrial countries in subjecting repatriated profits earned by its companies’ foreign subsidiaries to the full domestic tax rate (with a credit for tax paid to the foreign government).
+Thus, a US firm that earns a profit in Ireland pays a 12% tax to the Irish government and would now pay an additional 23% on any repatriated profits.
+Not surprisingly, US firms choose to keep their profits abroad.
+<P>
+Adopting a territorial system would increase investment in the US, stimulating productivity and growth.
+The proposal would allow all future foreign profits of US corporations to be repatriated without any extra tax.
+The $2.1 trillion of previously accumulated overseas profits would be subject to a one-time tax of about 10%, to be paid over several years.
+<P>
+A cash-flow corporate tax.
+This means two things: allowing companies to deduct all investments in equipment and structures immediately, instead of spreading the cost over time; and eliminating the deduction for interest costs on newly incurred debts.
+This would reduce the risk caused by high-debt ratios and put debt and equity on an equal footing.
+<P>
+I doubt that Congress will actually enact this reform when it digs into the operational details.
+When is a loan a new loan, and when is it just a continuation of an existing line of credit?
+What happens when companies shift from borrowing to finance an equipment purchase to leasing that equipment?
+<P>
+Border tax adjustment.
+Unlike most other countries, the US does not have a value-added tax.
+The border tax adjustment would give the US the international advantage of a value-added tax without levying that tax on domestic transactions.
+<P>
+Here’s how it would work: Companies that import goods would not be allowed to deduct those imports’ cost in calculating their taxable profits.
+With a 20% corporate tax rate, that would be equivalent to a 20% import tax.
+Companies that export goods would be able to exclude the export earnings from taxable income, equivalent to a 20% export subsidy.
+<P>
+Although it looks like this would reduce imports and increase exports, that will not happen.
+As every economics student learns, the trade balance depends on the difference between domestic saving and domestic investment.
+Because the border tax adjustment does not change saving and investment, it wouldn’t change imports and exports.
+Instead, the changes in taxes on imports and exports would lead to a rise in the value of the dollar that offsets the direct impact of the border tax changes.
+<P>
+More specifically, if the border tax adjustment is adopted, the dollar will increase by 25% relative to other currencies.
+A 25% rise in the dollar lowers the cost of imports by 20% (just enough to offset the increase in import prices caused by the 20% tax), while raising the cost of US exports to foreign buyers (just enough to offset the implied 20% subsidy).
+<P>
+But if the border tax adjustment would not improve the US trade balance, why are congressional Republicans eager to enact it?
+The real reason that it would boost tax revenue substantially, without increasing the burden on US consumers or producers.
+Currently, US imports and exports are 15% and 12% of GDP, respectively.
+Given the difference of 3% of GDP, the 20% import tax and 20% export subsidy raises a net 0.6% of GDP, now equal to $120 billion a year.
+<P>
+The border tax adjustment therefore pays for about two-thirds of the $190 billion cost of the corporate tax cut, and an even larger share when the lower corporate rate’s favorable effect on growth is taken into account.
+And, because there is no change in prices paid by American consumers or received by American exporters, that tax is borne by foreign producers, who, owing to the dollar’s appreciation, receive less in their own currencies for their exports to the US.
+<P>
+There is substantial opposition to the border tax adjustment among US importers who are not convinced that the dollar will strengthen enough to balance the higher implicit import tax.
+But the prospect of raising more than $100 billion a year without hurting US consumers or producers will drive Congress to move forward with this feature of the overall plan.
+<P>
+This year’s legislation will be the first major reform of the US tax system in three decades.
+Enacting it will produce a more favorable and competitive tax framework for American companies.

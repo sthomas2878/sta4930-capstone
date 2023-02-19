@@ -1,0 +1,49 @@
+<HEADLINE>
+Rating the Raters
+<P>
+CAMBRIDGE – In the new financial order being put in place by regulators around the world, reform of credit rating agencies should be a key element.
+Credit rating agencies, which play an important role in modern capital markets, completely failed in the years preceding the financial crisis.
+What is needed is an effective mechanism for rating the raters.
+<P>
+There is widespread recognition that rating agencies have let down investors.
+Many financial products related to real estate lending that Standard & Poor, Moody’s, and Fitch rated as safe in the boom years turned out to be lethally dangerous.
+And the problem isn’t limited to such financial products: with issuers of other debt securities choosing and compensating the firms that rate them, the agencies still have strong incentives to reciprocate with good ratings.
+<P>
+What should be done?
+One proposed approach would reduce the significance of the raters’ opinions.
+In many cases, the importance of ratings comes partly from legal requirements that oblige or encourage institutional investors and investment vehicles to maintain portfolios of assets that have received sufficiently high grades from the recognized agencies.
+<P>
+Disappointment about the raters’ performance, and skepticism about the effectiveness of regulation, has led to calls to eliminate any regulatory reliance on ratings.
+If ratings are not backed by the force of law, so the argument goes, regulators need not worry about rating quality and can leave the monitoring of raters to the market.
+<P>
+Even if ratings were no longer required or encouraged by law, however, demand for ratings – and the need to improve their reliability – would remain.
+Many investors are unable to examine the extent to which a bond fund’s high yield is due to risk-taking, and would thus benefit from a rating of the fund’s holdings.
+Given past experience, we cannot rely on market reputation to ensure that such ratings will be reliable.
+<P>
+Another approach would be to unleash the liability system.
+On this view, if investors were able to take raters to court, raters’ incentives would improve.
+But, while such judicial scrutiny may be effective in eliminating some egregious cases, it cannot ensure that raters do the right thing when courts are not expected to be able to tell after the fact what the right thing was.
+<P>
+There is thus no substitute for providing raters with incentives to provide as accurate a rating as they can.
+This can be done by making raters’ profits depend not on satisfying the issuers that select them, but on performing well for investors.
+If raters’ profits depend on such performance – on the accuracy of their ratings – the profit motive would turn from a source of perverse incentives to a provider of beneficial incentives.
+<P>
+The US Senate voted this month to incorporate such a mechanism into the financial reform bill that will now have to be reconciled by the bill passed by the US House of Representatives.
+Under the Senate’s approach, regulators would create rules under which an independent regulatory board would choose raters.
+The board would be allowed to base its choices on raters’ past performance.
+<P>
+For such a mechanism to work well, it must link the number of assignments won by raters, and thus their compensation, to appropriate measures of their performance.
+Such measures should focus on what makes ratings valuable for the investors who use them – their accuracy in forecasting financial health.
+<P>
+Once developed, such a mechanism should not be limited (as, unfortunately, it is in the Senate’s bill) to ratings of structured financial products.
+It should apply to all products that rating agencies evaluate.
+All ratings of financial products raise the same incentive problems and could benefit from reform.
+<P>
+Predictably, the Senate’s bill encountered stiff resistance from the dominant rating agencies.
+Standard & Poor argued that such a mechanism would provide credit rating agencies with “less incentive to compete with one another, pursue innovation, and improve their models, criteria, and methodologies.”
+<P>
+Well, such a mechanism would indeed reduce raters’ negative incentives to compete with one another to please issuers of securities, and to pursue innovations and improvements that enable raters to serve issuers better.
+But it would strengthen raters’ positive incentives to compete with one another to produce accurate ratings, and to pursue innovations and improvements that enable raters to achieve that far more socially beneficial goal.
+<P>
+Rating agencies have been and should remain an important aspect of modern capital markets.
+But to make ratings work, the raters need to be rated.

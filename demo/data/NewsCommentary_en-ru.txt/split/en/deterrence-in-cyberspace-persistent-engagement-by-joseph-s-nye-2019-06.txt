@@ -1,0 +1,71 @@
+<HEADLINE>
+Deterrence in Cyberspace
+<P>
+PARIS – Earlier this year, American officials acknowledged that US offensive cyber operations had stopped Russian disruption of the 2018 congressional election.
+Such operations are rarely discussed, but this time there was commentary about a new offensive doctrine of “persistent engagement” with potential adversaries.
+Will it work?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Proponents of “persistent engagement” have sought to strengthen their case by arguing that deterrence does not work in cyberspace.
+But that sets up a false dichotomy.
+Properly used, a new offensive doctrine can reinforce deterrence, not replace it.
+<P>
+Deterrence means dissuading someone from doing something by making them believe that the costs to them will exceed their expected benefit.
+Understanding deterrence in cyberspace is often difficult, because our minds remain captured by an image of deterrence shaped by the Cold War: a threat of massive retaliation to a nuclear attack by nuclear means.
+But the analogy to nuclear deterrence is misleading, because, where nuclear weapons are concerned, the aim is total prevention.
+Deterrence in cyberspace is more like crime: governments can only imperfectly prevent it.
+<P>
+There are four major mechanisms to reduce and prevent adverse behavior in cyberspace: threat of punishment, denial by defense, entanglement, and normative taboos.
+None of the four is perfect, but together they illustrate the range of means by which it is possible to minimize the likelihood of harmful acts.
+These approaches can complement one another in affecting actors’ perceptions of the costs and benefits of particular actions, despite the problem of attribution.
+In fact, while attribution is crucial for punishment, it is not important for deterrence by denial or entanglement.
+<P>
+Because deterrence rests on perceptions, its effectiveness depends on answers not just to the question of “how” but also to the questions of “who” and “what.”
+A threat of punishment – or defense, entanglement, or norms – may deter some actors but not others.
+Ironically, deterring major states from acts like destroying the electric grid may be easier than deterring actions that do not rise to that level.
+<P>
+Indeed, the threat of a “cyber Pearl Harbor” has been exaggerated.
+Major state actors are more likely to be entangled in interdependent relationships than are many non-state actors.
+And American policymakers have made clear that deterrence is not limited to the cyber realm (though that is possible).
+The United States will respond to cyberattacks across domains or sectors, with any weapons of its choice, proportional to the damage that has been done.
+That can range from naming and shaming to economic sanctions to kinetic weapons.
+<P>
+The US and other countries have asserted that the laws of armed conflict apply in cyberspace.
+Whether or not a cyber operation is treated as an armed attack depends on its consequences, not on the instruments used.
+And this is why it is more difficult to deter attacks that do not reach the equivalence of armed attack.
+Russia’s hybrid warfare in Ukraine, and, as the report by US Special Counsel Robert Mueller has shown, its disruption of the US presidential campaign fell into such a gray area.
+<P>
+Although ambiguities of attribution for cyberattacks, and the diversity of adversaries in cyberspace, do not make deterrence and dissuasion impossible, they do mean that punishment must play a more limited role than in the case of nuclear weapons.
+Punishment is possible against both states and criminals, but its deterrent effect is slowed and blunted when an attacker cannot be readily identified.
+<P>
+Denial (through hygiene, defense, and resilience) plays a larger role in deterring non-state actors than major states, whose intelligence services can formulate an advanced persistent threat.
+With time and effort, a major military or intelligence agency is likely to penetrate most defenses, but the combination of threat of punishment and effective defense can influence their calculations of costs and benefits.
+This is where the new doctrine of “persistent engagement” comes in.
+Its goal is not only to disrupt attacks, but also to reinforce deterrence by raising the costs for adversaries.
+<P>
+But policy analysts cannot limit themselves to the classic instruments of nuclear deterrence – punishment and denial – as they assess the possibility of deterrence and dissuasion in cyberspace.
+They should also pay attention to the mechanisms of entanglement and norms.
+Entanglement can alter the cost-benefit calculation of a major state such as China, but it probably has little effect on a state such as North Korea, which is weakly linked to the world economy.
+<P>
+“Persistent engagement” can, however, aid deterrence in such difficult cases.
+Of course, entering any adversary’s network and disrupting attacks poses a danger of escalation.
+Rather than relying just on tacit bargaining, as proponents of “persistent engagement” often emphasize, more explicit communication may help.
+<P>
+Stability in cyberspace is difficult to predict, because technological innovation there is faster than in the nuclear realm.
+Over time, better attribution forensics may enhance the role of punishment; and better defenses through encryption or machine learning may increase the role of denial and defense.
+<P>
+Cyber learning is also important.
+As states and organizations come to understand better the limitations and uncertainties of cyberattacks and the growing importance of the Internet to their economic wellbeing, cost-benefit calculations of the utility of cyberwarfare may change.
+Not all cyberattacks are of equal importance; not all can be deterred; and not all rise to the level of significant threats to national security.
+<P>
+The lesson for policymakers is to focus on the most important attacks, recognize the full range of mechanisms at their disposal, and understand the contexts in which attacks can be prevented.
+The key to deterrence in the cyber era is to acknowledge that one size does not fit all.
+“Persistent engagement,” when viewed from this perspective, is a useful addition to the arsenal.

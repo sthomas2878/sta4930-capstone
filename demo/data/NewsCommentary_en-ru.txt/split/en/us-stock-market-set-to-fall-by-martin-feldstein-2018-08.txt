@@ -1,0 +1,51 @@
+<HEADLINE>
+What Next for the US Stock Market?
+<P>
+CAMBRIDGE – The US stock market achieved its longest rise in its history on August 22, with the Standard and Poor’s 500 index up by 230% since 2009.
+Although this wasn’t the biggest increase in a bull market, it marked the longest period of increasing share prices.
+<P>
+Several forces contributed to this impressive nine-year run.
+The primary driver has been the extremely low interest rates maintained by the Federal Reserve.
+The Fed cut its short-term federal funds rate to near-zero in 2008 and did not begin to increase it above 1% until 2017.
+Even now, the federal funds rate is lower than the annual inflation rate.
+The Fed also promised to keep the short rate low for a long period of time, causing long-term rates to remain low as well.
+With interest rates so low for so long, investors seeking higher returns bought shares, driving up their prices.
+<P>
+A rational model of share prices sets them equal to the present value of future profits.
+Low interest rates raised the present value of future profits, and the corporate tax reform enacted at the end of 2017, together with deregulation in several industries, has raised both current profits and expected future profits, contributing to the present value of future profits.
+<P>
+But even with rising profits, low interest rates have caused share prices to increase faster than profits.
+As a result, the S&P price-earnings ratio is now more than 50% higher than its historic average.
+<P>
+With real (inflation-adjusted) GDP rising at more than 3% this year, the strength of the US economy has induced foreign investors to shift their holdings to US equities.
+And in recent months, US households that had not owned stocks in the past, fearful of missing out on the bull market, have joined the equity bandwagon.
+<P>
+But what of the future?
+Stock-market booms don’t die of old age; they are generally killed by higher interest rates.
+That often happens when the Fed raises the short-term interest rate to stop or reverse rising inflation.
+Although the Fed’s preferred rate of inflation – the price of consumer expenditures – has just reached its target of 2%, other measures of price growth are rising more rapidly.
+The overall Consumer Price Index (CPI) is now 2.9% higher than it was a year ago.
+Even “core” consumer inflation, which strips out more volatile food and energy prices, has increased by 2.4% over the past year.
+<P>
+The Fed’s short-term interest rate is now just 1.75%, implying that the real rate is still negative.
+The Fed’s Open Market Committee has now projected that it will raise the federal funds rate to 2.4% by the end of 2018, to 3.1% by the end of 2019, and to 3.4% by the end of 2020.
+<P>
+My judgment is that the greatest risk to the stock market is the future increase in long-term interest rates.
+The interest rate on ten-year Treasury bonds is now about 2.9%, implying a zero real rate when compared to the current level of the CPI.
+Historically, the real ten-year Treasury rate has been about 2%, implying that the ten-year rate might rise to 5%.
+<P>
+Three factors will contribute to the rise in the long-term rate.
+The Fed’s projected increase in the federal funds rate will put upward pressure on the ten-year interest rate.
+With the unemployment rate at 3.9% and likely to decline further in the year ahead, the rate of inflation should continue to increase.
+And even if that does not cause the Fed to raise the federal funds rate at a faster pace, higher inflation by itself will cause investors to demand higher long-term rates to compensate for the loss of their funds’ real value.
+<P>
+But the major cause of the rise in the ten-year rate is likely to be the massive fiscal deficit.
+The federal government is scheduled to borrow more than $1 trillion in 2019 and subsequent years.
+The Congressional Budget Office projects that the federal debt held by the public will grow from 78% of GDP now to nearly 100% over the next decade.
+Although foreigners now own about 50% of US government debt, recent reports indicate that foreign buyers are remaining on the sidelines and domestic investors are currently buying all of the new government debt.
+As the total amount of debt increases, investors will demand higher long-term interest rates to purchase it.
+<P>
+The long-term interest rate will therefore be driven higher by rising short-term rates as the Fed normalizes monetary policy, higher inflation in response to tighter labor and product markets, and the explosion of the federal debt that needs to be absorbed by investors.
+The rise in long-term rates will reduce the present value of future corporate profits and provide investors with an alternative to equities.
+The result will be a decline in share prices.
+I don’t know when that will happen, but I am confident that it will.

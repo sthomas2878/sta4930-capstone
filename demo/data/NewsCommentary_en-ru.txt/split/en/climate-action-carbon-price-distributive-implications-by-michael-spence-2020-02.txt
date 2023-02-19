@@ -1,0 +1,68 @@
+<HEADLINE>
+The Challenging Arithmetic of Climate Action
+<P>
+MILAN – Climate change was at the forefront of last month’s World Economic Forum meeting in Davos, Switzerland.
+Younger participants, in particular, underscored the challenge ahead, with the teenage activist Greta Thunberg delivering a powerful speech on the subject.
+But they were not in the minority: for the first time ever, climate-related issues dominated the top five positions in the WEF’s Global Risks Perception Survey.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The newfound sense of urgency on climate change comes at a time when the corporate community is increasingly pledging to shift toward a multi-stakeholder model of governance – a transition that would create space for more climate-conscious ways of doing business.
+But the challenge of creating a sustainable global economy remains monumental.
+<P>
+Each year, the world emits over 36 billion metric tons – or 36 gigatons (Gt) – of carbon dioxide.
+That is roughly 2.5 times what climate scientists consider a “safe” level of emissions: to keep average global temperatures from rising more than 1.5° Celsius above pre-industrial levels – the threshold beyond which climate change’s impacts would intensify significantly – we should be emitting just 14 Gt annually over the next two decades.
+That translates to two metric tons per person each year – far less than the current rate, especially in the developed world.
+<P>
+Progress is being made.
+Australia, Canada, and the United States have all reduced their per capita emissions since the early 2000’s.
+But they started at levels in the high teens in metric tons per person, and in the US, the rate still stands at around 15-16 metric tons.
+Europe, which was in the ten-metric-ton range a decade ago, has done better, with many countries nearing five metric tons per capita – a major achievement, but still more than double the target level.
+<P>
+Moreover, even as the advanced economies have reduced their emissions, total global emissions have continued to rise – by about 6-7 Gt in the past 15 years.
+This highlights another crucial dimension of the challenge: as emerging and developing economies – which represent some 85% of the world’s population – grow, their per capita emissions increase.
+<P>
+If the global economy grows at 3% or more over the next few years – as the IMF predicts, at least for the near term – getting annual CO2 emissions down to 2.5 metric tons per person within the next 20 years would require carbon intensity to decline by 7.8% per year.
+With zero growth, a 4.8% annual decline would be needed.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Although that goal seems unachievable, it is useful on an aspirational level.
+Because the payoff function is continuous, notwithstanding tipping points and semi-irreversible changes in dynamics, progress toward the goal will be highly beneficial, even if we don’t quite achieve it.
+<P>
+The world’s CO2 output is the product of two ratios: energy intensity (the amount of primary energy consumed per unit of GDP) and the carbon intensity of the energy mix (the amount of CO2 per unit of energy consumed).
+That means that reducing the global economy’s energy intensity depends on two levers: improving energy efficiency and expanding the use of clean energy.
+There are reasons to believe that substantial gains can be made on both fronts.
+<P>
+For starters, the costs of clean renewable energy have declined dramatically.
+A decade ago, the dirtiest source of electric power – coal – was also the cheapest.
+Renewables are now comparable in cost, and by many estimates, cheaper – even without accounting for the environmental and health effects.
+Developing countries thus no longer need to choose between cost-effectiveness and environmental wellbeing when investing in the enormous new energy infrastructure that their growing economies demand.
+<P>
+Ensuring that developing countries – which, facing rapid urbanization, must invest substantially in such infrastructure – adhere to high efficiency standards will require broad access to the relevant technologies and best practices, as well as to the right incentives and financing.
+International financial institutions have a crucial role to play in creating incentives that attract private capital.
+<P>
+Similarly, important gains can be made in transportation, which currently accounts for about 15% of global energy-related CO2 emissions.
+(In the US, that figure stands at a whopping 29% – slightly higher than electricity.)
+Advances in electric vehicles – together with well-designed, energy-efficient public-transportation systems – can go a long way toward reducing the transport sector’s total emissions.
+<P>
+Many economists argue that weaving the full marginal costs of CO2 emissions into the fabric of our economies is essential to accelerate progress, as it would level the playing field for green technologies, strategies, and products.
+That usually involves putting a price on carbon, either by taxing it or by establishing a system of tradable carbon credits.
+<P>
+But there are serious implementation challenges.
+As the late environmental economist Martin Weitzman showed, because we know more about the quantity targets that need to be met than about the marginal costs of achieving them, we should focus on the former.
+<P>
+By this logic, our best bet may be a global carbon-trading system in which “carbon credits” decline over time, until they reach an agreed long-term target.
+This would yield a uniform global carbon price that would move as the targets were tightened, leading to effective and efficient international mitigation.
+<P>
+But implementing such a system would require allocating credits or licenses to countries.
+Probably the fairest way to do that would be on the basis of per capita emissions, which would imply potentially large transfers of income from countries with high per capita emissions to their lower-emitting counterparts, or from richer to poorer countries.
+This, however, may well prove to be an insurmountable barrier, especially at a time when even many rich countries are experiencing rising inequality in income, wealth, opportunity, and economic security.
+<P>
+This is just one example of a broader point.
+All strategies to mitigate climate change have distributive implications that cannot be overlooked.
+If left unaddressed, such implications will fuel persistent headwinds to progress on the climate change and sustainability agenda.
+<P>
+The bottom line is that while there is energy, broad engagement, an increased sense of urgency, and several promising trends, the combined effects are not yet powerful enough to counter global economic growth or to produce (or even forecast) a downward trend in CO2 emissions.
+The latter needs to happen fairly soon.

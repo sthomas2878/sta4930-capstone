@@ -1,0 +1,43 @@
+<HEADLINE>
+Gambler’s Ruin
+<P>
+San Francisco – From Adam Smith (1776) until 1950 or so, capital was considered by economists to be absolutely essential for economic growth.
+You also needed a few good basic institutions.
+“Security of property and tolerable administration of justice,” as Smith put it.
+<P>
+If these fundamental institutions were right, then landlords, merchants, and manufacturers would invest and improve.
+In investing and improving, they would add to the capital stock: “In all countries where there is a tolerable security [of property], every man of common understanding will endeavor to employ whatever [capital] stock he can command, in procuring either present enjoyment or future profit...
+A man must be perfectly crazy, who, where there is a tolerable security, does not employ all the stock which he commands, whether it be his own, or borrowed of other people...”
+<P>
+A larger capital stock would mean thicker markets, a finer division of labor, and a more productive economy.
+A highly productive society based on a sophisticated division of labor was how you secured “the wealth of nations.”
+<P>
+Reverse the process, however, and you get the poverty of nations, which Smith believed he saw in the Asia of his time.
+For Smith and his successors over the first 175 years, any episode of sustained economic growth overwhelmingly required investment capital.
+We economists were by and large capital boosters, and our magic formula for economic development was saving, investment, thrift, and wealth accumulation.
+The last and fullest expression of this line of thought comes at the end of the 1950’s with W.W. Rostow’s book The Stages of Economic Growth .
+<P>
+Then Robert Solow and Moses Abramovitz challenged this near-consensus.
+They calculated that 75% to 80% of economic growth did not come from increasing the capital-output ratio – at least not if the private marginal product of capital was taken as an indicator of the social marginal product.
+Instead, the keys to growth and development appeared to lie beyond an increase in capital intensity as measured by capital-output ratios: skills, education, technology broadly understood, and improvements in organizational management.
+<P>
+Yet capital continued to be seen as necessary, if not sufficient.
+In the framework developed by the development economist Dani Rodrik, a shortage of capital can be a binding “growth constraint”: the place where “the biggest bang for the [policy] reform buck can be obtained.”
+And even when other factors constrain growth more, they cannot be changed without changing the shape and form of the economy’s capital stock.
+Indeed, high investment serves as a sign that other binding constraints to growth are absent, implying prosperity and that things are going right.
+<P>
+The problem is that for poor economies, raising the capital needed to relax binding growth constraints is difficult.
+That’s why the world took the neo-liberal bet in the 1990’s: international capital mobility would come to the rescue by relaxing capital constraints where they were binding, and by reducing the scope for corruption and rent-seeking, which was often a more significant binding growth constraint.
+<P>
+The hope was that, like the pre-1913 era of British overseas investment, which financed a huge amount of industrialization in the resource-rich, temperate periphery of the world economy, net capital outflows from the industrial core would finance much late twentieth and twenty-first century industrialization.
+<P>
+But we all know the outcome: while international capital flows soared, the large net flow of capital from rich to poor countries simply never materialized.
+In fact, the principal outcome was an enormous flow of capital from the periphery to the rich core.
+For most of the past generation, and looking into the future, the message of the market is that the benefits of international capital mobility do not include a relaxation of the capital constraint, and thus an acceleration of growth in the global periphery.
+<P>
+The reason is not that the periphery offers an attractive labor force from which capital profits, but rather that the core – especially the United States – offers a form of protection for capital against unanticipated political disturbances.
+<P>
+But even though net international capital flows are going the wrong way, there are still substantial gross capital flows outward from the world economy’s core to its periphery.
+And we can hope that these capital flows will carry with them the institutions and managerial expertise that have made the core so wealthy.
+<P>
+Nevertheless, a dispassionate observer might point out that for someone with limited resources and opportunities for policy reform to keep betting double-or-nothing on neo-liberalism is a strategy that has a well-deserved name: “Gambler’s Ruin.”

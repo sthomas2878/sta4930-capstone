@@ -1,0 +1,58 @@
+<HEADLINE>
+Restructuring the Debt-Restructuring Process
+<P>
+LONDON – Sovereign default is common.
+Ecuador and Venezuela each defaulted ten times between 1800 and 2010, and Greece defaulted five times between its war of independence (1821-1830) and 1932.
+Russia, Ukraine, Ecuador, Uruguay, and Argentina have all defaulted since 1998.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+There once was a time when gunboats were used to resolve such matters.
+After Venezuela defaulted in 1902, for example, European powers blockaded and shelled its ports.
+But such methods have been replaced by messy, often-delayed sovereign-debt restructurings that inflict economic pain on both debtors and creditors alike.
+Few observers doubt that the current method could be vastly improved.
+<P>
+In the more recent past, poorly designed contracts created an opening for so-called vulture firms to take advantage of debtors through the restructuring process.
+These firms would snatch up a country’s distressed debt at a bargain-bin price, hold out on rescheduling, and go to court to demand repayment in full, reaping fantastic returns if they won.
+<P>
+In one notable instance, Peru issued debt in 1983 that was restructured as dollar-denominated “Brady bonds” in 1996.
+Having bought some of the prior 1983 debt, the US hedge fund Elliott Management held out on the restructuring, and convinced courts in New York and Brussels that an apparently boilerplate pari passu (“equal footing”) clause in its debt contract meant that Peru must repay the earlier debt on the same terms as the Brady bonds.
+To avoid a fresh default, Peru was forced to pay Elliott the full value of its defaulted bonds plus interest.
+<P>
+In another episode, Argentina issued debt in 1998 that came due in 2005, whereupon it defaulted and rescheduled.
+Hoping to retain access to international capital markets, the country made its scheduled payments on its new debt.
+But NML Capital – an Elliott subsidiary – held out on the rescheduling and persuaded a judge to rule that unless Argentina repaid NML in full, it could not repay anyone else.
+Unable to do so, Argentina defaulted again in 2014.
+<P>
+Now consider the plight of a hypothetical country that borrowed in the 1990s, fell on hard times, and could not repay its maturing debt.
+Official creditors were willing to lend to it, but made it clear that their loans were not to be used to bail out earlier lenders.
+The country had to restructure its debt, but unanimous creditor agreement was impossible; there were holdouts, some of which might be inadvertent, but one of which might be Elliott.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+What was this country to do?
+If the other creditors suspected that the holdouts might be paid off, no deal would be reached; but if the holdouts were not paid, the country might suffer the same fate as Peru or Argentina.
+Surely, all of this could be avoided if sovereign-debt contracts had stronger collective action clauses (CACs) to facilitate restructuring negotiations by binding all creditors to a qualified-majority vote, thus preventing holdouts from taking the debtor to court.
+<P>
+In 2014, following the episodes described above, the International Capital Market Association – representing an array of interests – published model contracts with CACs that allow for restructuring on the basis of a single vote, and that clarify the pari passu clause to avoid the problems faced by Peru and Argentina.
+The ICMA’s intent was to overcome the problem of holdouts, and its best option was the single-limb approach, which allows for multiple debt issuances to be resolved with a single supermajority vote.
+In the event, debtor governments, the International Monetary Fund, and creditors all embraced this innovation, making it the standard for new sovereign issuances (and for all EU sovereign issuances after 2022).
+<P>
+But vulture funds are not the only ones who can read contracts carefully.
+In debt-restructuring negotiations this year, Argentina used the new fine print to debut a “Pac-Man strategy” (so named for the classic arcade game where the eponymous hero must pick off dots one by one).
+As a debtor with multiple issuances that could not get a supermajority for a favorable outcome on all its debt at once, Argentina first settled with the creditors who were offering favorable terms.
+Only after that did it offer a vote for all creditors, improving the terms for the settled creditors slightly, thus boosting its chances of securing a supermajority over the totality of its issuances.
+<P>
+Alternatively, after the first vote, the debtor redesignates enough of the issuances as not being part of the first vote to achieve a supermajority with the rest.
+It settles with the holders of these issuances, offers them slightly better terms, and holds a new vote with all of the issuances.
+<P>
+How can we avert such shenanigans in the future?
+Even if we strengthen the contractual framework, debt contracts will always remain incomplete, with loopholes for wily debtors and creditors to find and exploit.
+Hence, resolving sovereign debt calls for official intervention in the form of a Sovereign Debt Restructuring Mechanism (SDRM), an independent body that would suspend payments during proceedings, protect debtors from creditor sanctions, and allow debtor governments to obtain new financing.
+It would also have to protect creditor interests, by ruling out methods like the Pac-Man and redesignation strategies.
+Finally, there would still need to be some mechanism to bind all creditors once a qualified majority of creditors has accepted a deal, as the ICMA has attempted to do with its model CACs.
+<P>
+Ultimately, there is no simple choice between rules and discretion.
+We need both strong rules and final recourse to the discretion of an SDRM, which could be managed by the IMF, the Bank for International Settlements, or some new entity created specifically for that purpose.
+It is time to get past the gunboats once and for all.

@@ -1,0 +1,57 @@
+<HEADLINE>
+Will Programmers Rule?
+<P>
+NEW DELHI – Marc Andreessen made his first fortune writing the code that became Netscape Navigator, the Internet browser.
+He is now a venture capitalist who evangelizes about the growing importance of software in business today.
+Indeed, he proclaims that software is taking over the world – that it will be the primary source of added value – and offers the following prediction: the global economy will one day be divided between people who tell computers what to do and people who are told by computers what to do.
+<P>
+Andreessen’s aim is to shock his listeners – not just for effect, but to get them to do something about it.
+To stop the world from being divided between a few alpha programmers and many drones, he wants the potential drones to stop taking easy liberal arts courses in college.
+Instead, he wants them to focus on courses in science, technology, engineering, and math (STEM), where the good jobs will be.
+But will this solve the problem that he poses?
+<P>
+Perhaps not.
+Two attributes of software creation allow a few talented programmers to corner the market and take all the associated profits.
+First, software with a slight edge tends to get a significantly greater share of the available market; and, second, the available market is global, because it costs so little to make an extra copy and send it anywhere in the world.
+As a result, those who are creative and competent enough to write that slightly better search engine will capture the global market.
+<P>
+In this winner-take-all environment, only a small number of those who have taken programming courses will reap a majority of the rents.
+Completing the right preparatory courses is no guarantee of receiving a share of the software jackpot.
+Differences in luck and talent among those equally prepared will ensure that the quality of software firms’ products lies on a bell curve, with only a few Googles and Facebooks and many more bored, moderately paid computer technicians helping the average confused person deal with malware.
+<P>
+Put differently, in a winner-take-all world, raising the average level of skills or education does nothing to alter the skewed distribution of income.
+So, will anything prevent inequality from widening?
+<P>
+The obvious answer is yes.
+But how society responds will mean the difference between a prosperous world and a world torn apart by slow growth and resentment.
+<P>
+Property rights are ultimately sanctioned by society, and, to the extent that they seem to be unfair, society has an incentive to change them.
+But will society see the software billionaire as having acquired her wealth unfairly, or will it see that wealth as a fair reward for cleverness?
+<P>
+The more that everyone has access to the same educational opportunities, the more society will tend to accept some receiving disproportionate rewards.
+After all, they themselves have a chance to be winners.
+Interestingly, software may itself reduce the cost of expanding educational access – witness the massive open online courses (MOOCs) offered by companies like Coursera.
+<P>
+But equal access is probably an unlikely ideal.
+The other extreme is very unequal access, made more unequal because the wealthy have the time to help their kids with homework and the money to arrange for tuitions, while the poor leave their children watching TV while they work a second job.
+Will the resentful workers who must follow a computer’s instructions – say, in assembling an order in Amazon’s fulfillment centers – vote to tax the programmers who put them there until the software creators lose the incentive to innovate, leaving society poorer?
+Or will the rich programmers all migrate to Monaco or Switzerland, taking the brains and rents with them, as society falls apart into barricaded and mutually resentful enclaves and ghettoes?
+<P>
+In reality, many intermediate possibilities exist.
+One is that cultural norms may develop that encourage billionaires to share their wealth, even if they are spared taxation.
+For example, the Giving Pledge is a commitment by some of the world’s richest people, Warren Buffett and Bill Gates among them, to devote the majority of their wealth to philanthropy.
+<P>
+Economic competition may also play a role – if billions are to be made by innovators, more of the most talented get into innovation, so that, even in a winner-take-all world, the winner captures the market for a fleeting moment before someone else takes it away from him.
+The billions to be made today may only be millions tomorrow.
+<P>
+And values also adjust.
+While a quartz watch keeps time more accurately than the most finely crafted handmade mechanical Swiss watch, the value of a quartz watch has plummeted, while Swiss watches’ value has climbed into the stratosphere.
+Even though they are virtually indistinguishable in appearance, people seem to cherish the knowledge that someone has lovingly crafted their watch.
+<P>
+So it may well be that the demand for discussing, say, medieval French church music in small classes at a university will grow even as the demand for MOOCs grows.
+Not everyone should heed Andreessen’s exhortation to quit liberal arts programs!
+<P>
+That is not to say that his basic concerns are unwarranted.
+Better access for all to fundamental needs like quality education is necessary to make the winner-take-all character of markets more tolerable.
+But societies may also have to change.
+If we are lucky, the changes will take place spontaneously.

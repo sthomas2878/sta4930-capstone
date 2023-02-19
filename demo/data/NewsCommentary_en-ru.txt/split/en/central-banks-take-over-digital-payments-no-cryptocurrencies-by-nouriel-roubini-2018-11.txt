@@ -1,0 +1,62 @@
+<HEADLINE>
+Why Central Bank Digital Currencies Will Destroy Cryptocurrencies
+<P>
+NEW YORK – The world’s central bankers have begun to discuss the idea of central bank digital currencies (CBDCs), and now even the International Monetary Fund and its managing director, Christine Lagarde, are talking openly about the pros and cons of the idea.
+<P>
+This conversation is past due.
+Cash is being used less and less, and has nearly disappeared in countries such as Sweden and China.
+At the same time, digital payment systems – PayPal, Venmo, and others in the West; Alipay and WeChat in China; M-Pesa in Kenya; Paytm in India – offer attractive alternatives to services once provided by traditional commercial banks.
+<P>
+Most of these fintech innovations are still connected to traditional banks, and none of them rely on cryptocurrencies or blockchain.
+Likewise, if CBDCs are ever issued, they will have nothing to do with these over-hyped blockchain technologies.
+<P>
+Nonetheless, starry-eyed crypto-fanatics have seized on policymakers’ consideration of CBDCs as proof that even central banks need blockchain or crypto to enter the digital-currency game.
+This is nonsense.
+If anything, CBDCs would likely replace all private digital payment systems, regardless of whether they are connected to traditional bank accounts or cryptocurrencies.
+<P>
+As matters currently stand, only commercial banks have access to central banks’ balance sheets; and central banks’ reserves are already held as digital currencies.
+That is why central banks are so efficient and cost-effective at mediating interbank payments and lending transactions.
+Because individuals, corporations, and non-bank financial institutions do not enjoy the same access, they must rely on licensed commercial banks to process their transactions.
+Bank deposits, then, are a form of private money that is used for transactions among non-bank private agents.
+As a result, not even fully digital systems such as Alipay or Venmo can operate apart from the banking system.
+<P>
+By allowing any individual to make transactions through the central bank, CBDCs would upend this arrangement, alleviating the need for cash, traditional bank accounts, and even digital payment services.
+Better yet, CBDCs would not have to rely on public “permission-less,” “trustless” distributed ledgers like those underpinning cryptocurrencies.
+After all, central banks already have a centralized permissioned private non-distributed ledger that allows for payments and transactions to be facilitated safely and seamlessly.
+No central banker in his or her right mind would ever swap out that sound system for one based on blockchain.
+<P>
+If a CBDC were to be issued, it would immediately displace cryptocurrencies, which are not scalable, cheap, secure, or actually decentralized.
+Enthusiasts will argue that cryptocurrencies would remain attractive to those who wish to remain anonymous.
+But, like private bank deposits today, CBDC transactions could also be made anonymous, with access to account-holder information available, when necessary, only to law-enforcement authorities or regulators, as already happens with private banks.
+Besides, cryptocurrencies like Bitcoin are not actually anonymous, given that individuals and organizations using crypto-wallets still leave a digital footprint.
+And authorities that legitimately want to track criminals and terrorists will soon crack down on attempts to create crypto-currencies with complete privacy.
+<P>
+Insofar as CBDCs would crowd out worthless cryptocurrencies, they should be welcomed.
+Moreover, by transferring payments from private to central banks, a CBDC-based system would be a boon for financial inclusion.
+Millions of unbanked people would have access to a near-free, efficient payment system through their cell phones.
+<P>
+The main problem with CBDCs is that they would disrupt the current fractional-reserve system through which commercial banks create money by lending out more than they hold in liquid deposits.
+Banks need deposits in order to make loans and investment decisions.
+If all private bank deposits were to be moved into CBDCs, then traditional banks would need to become “loanable funds intermediaries,” borrowing long-term funds to finance long-term loans such as mortgages.
+<P>
+In other words, the fractional-reserve banking system would be replaced by a narrow-banking system administered mostly by the central bank.
+That would amount to a financial revolution – and one that would yield many benefits.
+Central banks would be in a much better position to control credit bubbles, stop bank runs, prevent maturity mismatches, and regulate risky credit/lending decisions by private banks.
+<P>
+So far, no country has decided to go this route, perhaps because it would entail a radical disintermediation of the private banking sector.
+One alternative would be for central banks to lend back to private banks the deposits that moved into CBDCs.
+But if the government was effectively banks’ only depositor and provider of funds, the risk of state interference in their lending decisions would be obvious.
+<P>
+Lagarde, for her part, has advocated a third solution: private-public partnerships between central banks and private banks.
+“Individuals could hold regular deposits with financial firms, but transactions would ultimately get settled in digital currency between firms,” she explained recently at the Singapore Fintech Festival.
+“Similar to what happens today, but in a split second.”
+The advantage of this arrangement is that payments “would be immediate, safe, cheap, and potentially semi-anonymous.”
+Moreover, “central banks would retain a sure footing in payments.”
+<P>
+This is a clever compromise, but some purists will argue that it would not solve the problems of the current fractional-reserve banking system.
+There would still be a risk of bank runs, maturity mismatches, and credit bubbles fueled by private-bank-created money.
+And there would still be a need for deposit insurance and lender-of-last-resort support, which itself creates a moral hazard.
+Such issues would need to be managed through regulation and bank supervision, and that wouldn’t necessarily be enough to prevent future banking crises.
+<P>
+In due time, CBDC-based narrow banking and loanable-funds intermediaries could ensure a better and more stable financial system.
+If the alternatives are a crisis-prone fractional-reserve system and a crypto-dystopia, then we should remain open to the idea.

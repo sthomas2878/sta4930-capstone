@@ -1,0 +1,53 @@
+<HEADLINE>
+Reinventing Photosynthesis
+<P>
+PASADENA – For decades, the development of renewable energy – and the policy debates that surround it – has focused largely on electricity generation.
+But more than 60% of the world’s energy is provided directly by chemical (mainly fossil) fuels, with no intermediate conversion to electricity.
+No realistic effort to combat global warming by cutting carbon emissions can ignore this fundamental constraint.
+<P>
+Indeed, in the United States and other industrialized countries, many applications that rely on fossil fuels (such as air transport or aluminum production) cannot be reconfigured to use electrical power.
+Moreover, fossil fuels are required to produce electricity as well, both to meet demand and to compensate for the intermittency of renewable energy systems such as wind or solar power.
+Is there really a scalable, low-carbon alternative?
+<P>
+One promising approach is artificial photosynthesis, which uses non-biological materials to produce fuels directly from sunlight.
+The sun is a nearly inexhaustible energy source, while energy stored in the form of chemical bonds – like those found in fossil fuels – is accessible, efficient, and convenient.
+Artificial photosynthesis combines these features in a viable technology that promises energy security, environmental sustainability, and economic stability.
+<P>
+While natural photosynthesis provides a complex, elegant blueprint for the production of chemical fuels from sunlight, it has significant performance limitations.
+Only about one-tenth of the sun’s peak energy is used; annualized net energy-conversion efficiencies are less than 1%; significant amounts of energy are expended internally to regenerate and maintain the exquisite molecular machinery of photosynthesis; and the energy is stored in chemical fuels that are incompatible with existing energy systems.
+<P>
+However, artificial photosynthesis, inspired by its natural variant, has demonstrated a potential for far superior performance, and provides energy in a form that can be used in our current energy infrastructure.
+Moreover, a fully artificial system would not require arable land or potable water, nor would it force a choice between food and fuel production in land use.
+<P>
+Existing energy technologies already can be combined to generate chemical fuels efficiently, though indirectly, from sunlight, but not yet in a configuration that is simultaneously practical, scalable, and economically feasible.
+Likewise, the overall efficiency of a fully integrated sunlight-to-fuel energy-conversion system can be more than ten times greater than the most energy-efficient biological systems, but the capital costs are too high for commercial deployment.
+Researchers’ top priority must therefore be to develop a solar-fuel generator that combines cost-effective scalability with robustness and efficiency.
+<P>
+The key to creating such a system lies in using earth-abundant materials that can perform the essential functions of absorbing light and facilitating fuel-forming chemical reactions.
+Just as chlorophyll serves to absorb light in natural photosynthesis, suitable materials are needed to capture and convert sunlight in artificial systems.
+Although silicon’s light-absorbing properties are suitable for photovoltaic devices, the near-0.5 volts that it generates is too weak to split water in a solar-fuel generator.
+<P>
+An artificial system also requires catalysts to facilitate the efficient production of chemical fuels.
+These catalysts must be highly active, stable, and, for global scalability, composed of earth-abundant elements, such as iron, nickel, or cobalt, not the scarce metals now used, such as ruthenium or iridium.
+<P>
+In addition, the system components must be integrated in a manner that ensures that they all function optimally under a common set of operating conditions.
+A deployable system must also incorporate cost-effective architectures, manufacturing processes, and installation methods.
+<P>
+Most important, such systems must work safely.
+In most implementations of artificial photosynthesis, energy-rich fuels are co-produced with oxygen, resulting in dangerous explosive mixtures.
+Membranes, or other physical and chemical barriers, must be developed in order to isolate the products from one another in a reliable fashion.
+Such partitions would also eliminate the need for complex peripheral processing equipment that would be necessary to separate the products prior to use in most applications.
+<P>
+So, what would an artificial photosynthetic system look like?
+The template is not a solar panel connected to an electrolysis unit, but rather a thin roll of sandwiched plastic-like layers, much like the high-performance fabrics found in rain jackets, that can be unfurled as needed.
+The top material would absorb the water and carbon dioxide from the air, and the next, light-absorbing layer would harness the sun’s energy to produce the fuel.
+Separated by the membrane, the fuel would not be vented to the air but instead would wick out through the bottom of the material into a collector tank for use on demand in our existing energy-supply infrastructure.
+<P>
+Ideally, solar-fuel generation should offer flexibility in the types of chemical fuels that can be produced from sunlight.
+In its simplest incarnation, water is split into hydrogen and oxygen gases.
+The hydrogen could be converted into a liquid fuel by upgrading biofuels, for example, or it could be reacted with carbon dioxide from flue gas or otherwise processed to produce liquid fuels for use in transportation applications.
+Alternatively, catalysts, as in natural photosynthetic systems, could directly reduce carbon dioxide, in this case to methanol or methane.
+The most effective systems would be able to offer either gaseous or liquid fuels.
+<P>
+Recent advances in nanoscience, materials science, chemistry, and physics have provided the tools needed to make rapid progress in this field.
+The ultimate prize is a clean-energy technology that is within reach and that could provide the basis for a safe, secure, and sustainable energy future.

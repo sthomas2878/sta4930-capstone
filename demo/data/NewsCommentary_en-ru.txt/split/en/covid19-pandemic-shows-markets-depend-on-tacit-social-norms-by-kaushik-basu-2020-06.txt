@@ -1,0 +1,61 @@
+<HEADLINE>
+How the Pandemic Should Shake up Economics
+<P>
+ITHACA – The COVID-19 pandemic has caused massive disruptions to markets, supply chains, and world trade.
+This has forced a reckoning with many traditional policies and should be treated as an opportunity to rethink some of the ideas that economists have long taken for granted – including the basic notion of what makes an economy function efficiently.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+That notion goes back to 1776, a landmark year during which Adam Smith published The Wealth of Nations, America’s 13 states declared independence, and the same day, July 4, the philosopher David Hume held a dinner party for his friends, including Smith, to mark the twilight of his life.
+<P>
+Smith’s path-breaking work, along with later highly influential contributions by Léon Walras, Stanley Jevons, and Alfred Marshall, transformed economics.
+We learned that markets can function smoothly without a central authority, because the actions of ordinary people trying to earn more and purchase the goods they want create tugs and pulls of demand and supply, causing prices to rise and fall.
+<P>
+As this idea became formalized, the social norms and customs on which markets also depend became part of the woodwork – tacit assumptions that we ignored, because they are so unchanging in normal times, and then forgot were there.
+<P>
+But a disruption such as the one caused by COVID-19 reminds us how much we take for granted.
+I realized this during the nearly three months I spent in Mumbai during the lockdown, when family and friends told me of conflicts, showdowns, and frayed nerves in the city.
+<P>
+Whereas some residents were castigated for not wearing face masks or for violating social-distancing norms, others were criticized for overdoing the lockdown.
+Some residents’ associations photographed anyone who stepped out of their home, even if they were alone and far away from anyone else, arguing that such behavior was irresponsible.
+Because the behavioral requirements brought about by the pandemic are novel and have yet to stabilize, we are more aware of them than we are of longer-established social norms.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Markets also rely on such norms, most of which, having evolved over time and become routine, lie beyond economists’ explicit assumptions.
+As Karl Polanyi, Mark Granovetter, and others have argued, the economy cannot be understood as though it stands apart from society.
+Certain social and institutional preconditions must be present for an economy to function effectively.
+But the economics profession widely overlooked these important reminders, or, at best, put them aside with a nod.
+<P>
+In my book Beyond the Invisible Hand, I argued that trade and exchange depend not only on technical assumptions of which all economists are aware, such as the law of diminishing marginal utility, but also on other conditions that we take for granted.
+These include being able to trust one another and our ability to communicate, which allows us to negotiate and conclude deals.
+But no economist writes down “can talk” as an assumption.
+It is regarded as a given.
+<P>
+Unfortunately, this approach has led to big gaps in our understanding of how the invisible hand works.
+Many conservative economists stress that as long as governments do not intervene and curb individual freedoms, economies will function efficiently.
+The invisible hand will do it all.
+But they forget that efficiency also requires many curbs on how we behave, such as not punching other traders in the face and running away with their goods.
+<P>
+This oversight has in turn led to major policymaking mistakes, such as the “Washington Consensus,” which advocated curbing government intervention in the economy and tightly controlling fiscal deficits.
+As Joseph Stiglitz has pointed out, this so-called Washington consensus was in fact confined to the area between Washington’s 15th and 19th Streets, where the US Department of the Treasury, the International Monetary Fund, and the World Bank are housed.
+Nonetheless, this new orthodoxy was then thrust upon all developing economies, regardless of whether they met the social and institutional conditions these policies require.
+Not surprisingly, the measures often backfired.
+<P>
+Fortunately, there is now a growing recognition that price adjustments are not the sole or even the necessary factors that help markets to clear.
+In a recent paper, Michael Richter and Ariel Rubinstein show that markets can clear in different ways, some of which rely entirely on social norms.
+In most households, even large ones, the refrigerator is left open and its contents do not have prices marked.
+But the refrigerator does not get drained within moments of being stocked.
+Many kinds of behavior are socially forbidden, and in some societies these prohibitions have become so deeply embedded psychologically that no outside authority is needed to enforce them.
+<P>
+This opens up a potentially large research agenda regarding the norms we should encourage to make economies more equitable and productive.
+The COVID-19 pandemic, by making the tacit overt, has raised awareness of this challenge – and interesting findings are beginning to appear.
+In a recent paper, for example, Wooyoung Lim and Pengfei Zhang use laboratory experiments to show how pro-vaccination behavioral norms can arise voluntarily, potentially helping populations to achieve herd immunity.
+<P>
+But not all good norms arise voluntarily; nor do societies have to wait for the slow process of evolution to unfold before converging on them.
+Instead, contemporary research should enable us to isolate desirable norms that we can then consciously try to nurture.
+<P>
+For example, we have now learned that during pandemics, we should stay six feet (two meters) from others and wear face masks.
+This did not happen voluntarily, or because those who did not follow these norms died, but because research by epidemiologists taught us these norms, and governments enforced or encouraged adherence to them.
+One hopes that the disruption caused by COVID-19 will likewise spur economists to identify norms that can help us build a more equitable, prosperous, and sustainable world.

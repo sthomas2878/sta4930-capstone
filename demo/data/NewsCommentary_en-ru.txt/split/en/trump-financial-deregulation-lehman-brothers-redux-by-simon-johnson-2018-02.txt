@@ -1,0 +1,47 @@
+<HEADLINE>
+The Making of Lehman Brothers II
+<P>
+WASHINGTON, DC – Last week, with some fanfare, the US Treasury Department released a report on what to do about the Orderly Liquidation Authority.
+The OLA, created under the Dodd-Frank financial reform legislation of 2010, was intended to prevent a recurrence of what happened in September 2008, when one failing firm, Lehman Brothers, was able to trigger a cascade effect that nearly destroyed the financial system.
+<P>
+The OLA allows the Federal Deposit Insurance Corporation (FDIC), subject to reasonable safeguards, to take over a failing financial firm and wind it down in an orderly manner – very much in line with what happens, with some regularity, when a small bank becomes insolvent.
+Although the Treasury report reads more like a political document rather than a well-reasoned technical assessment, it still comes to a sensible conclusion: keep the OLA in place.
+Unfortunately, the report also masks a broader legislative and regulatory agenda that will add unnecessary risk – and a lot of it – to the financial system.
+<P>
+The OLA has attracted a great deal of bipartisan support in recent years, including on the FDIC’s Systemic Resolution Advisory Committee (the SRAC, of which I am a member).
+But some highly influential Republicans on the House Financial Services Committee have attacked the OLA relentlessly, arguing that it represents a government bailout-in-waiting.
+They want to abolish it, and insist that failing financial firms simply go through a court-supervised bankruptcy process.
+<P>
+Lehman Brothers, of course, went bankrupt – and it was the spreading effects of that failure that caused so much damage in September 2008 and subsequently.
+House Republicans, drawing on work by scholars at the Hoover Institution, have argued that modifying the bankruptcy code – creating a so-called Chapter 14 – would allow such firms to fail without the risk of adverse systemic consequences.
+<P>
+The good news from the Treasury report is that the Trump administration is not prepared to support this position.
+Treasury recognizes, albeit implicitly, that no bankruptcy court can deal with the complex globally interconnected liabilities of JPMorgan Chase, Citigroup, Goldman Sachs, or other bank holding companies with over $500 billion on their balance sheets.
+(Lehman Brothers owed more than $600 billion when it failed.)
+<P>
+The Treasury report makes a big deal of demanding that bankruptcy must be the first and preferred option when a big bank is in trouble.
+But this is exactly what the Dodd-Frank legislation said – and it is what the FDIC and other regulators have worked hard to implement.
+(All SRAC meetings are public and broadcast online, and the details of implementing the OLA have been reviewed many times by Paul Volcker, Sheila Bair, and other experts.)
+<P>
+The Treasury report does sketch out a new Chapter 14, but this would achieve little.
+The main problem with the bankruptcy approach is the lack of Debtor-In-Possession financing for a complex global financial institution with an enormous balance sheet; without access to operational funding from the private sector, the entire process collapses – exactly the Lehman scenario.
+<P>
+The second problem with the bankruptcy approach is that international regulators would find themselves unable to cooperate – for their own legal and procedural reasons – with a US process that affects a major part of their own economies.
+Senior officials at the Bank of England, for example, have been commendably forthright about this – including at public SRAC meetings.
+<P>
+The Treasury report mentions these issues, but it fails to address them in any meaningful way.
+The Chapter 14 proposal is a hamburger with almost no beef.
+It is hard to see how the Senate Judiciary Committee (which has jurisdiction over the bankruptcy code) could be persuaded to waste time on this.
+<P>
+Much more worrying, however, is what lurks unmentioned behind the Treasury report: a serious legislative effort, supported by the Trump administration, to reduce the level of scrutiny applied to banks that are on the verge of becoming systemically important.
+The proposed bill, the Economic Growth, Regulatory Relief, and Consumer Protection Act, is a misnomer.
+Title IV of the law would raise the threshold for “applying enhanced prudential standards from $50 billion to $250 billion.”
+<P>
+The main lesson from the experience of 2008 and the subsequent deep recession is that it is much better to prevent big banks from failing than to deal with the consequences when they do.
+I testified to Congress that $50 billion, as defined under Dodd-Frank, is a sensible threshold at which the Federal Reserve should pay more attention to financial institutions.
+Art Wilmarth of George Washington University Law School has also written persuasively on this point: at $250 billion, a bank’s failure can have major ripple effects.
+<P>
+To be fair, even under the proposed legislation, the Fed would retain significant discretion regarding how to prevent big banks (and nonbanks with bank-type structures) from creating structures – organizational and financial – that could bring down other parts of the system, including across borders.
+<P>
+But fairness cuts both ways: there is no indication that Donald Trump’s appointees to the Board of Governors of the Fed will be careful or limit what big banks want to do.
+As in 2008, we risk learning the hard way why adequate regulation of systemically important financial institutions is essential.

@@ -1,0 +1,53 @@
+<HEADLINE>
+Strategies for Responsible Gene Editing
+<P>
+CAMBRIDGE – The discovery of a powerful new tool capable of addressing health and environmental problems as diverse as malaria, Lyme disease, and invasive species should be a cause for celebration.
+But, because the tool, called CRISPR, can alter entire populations of wild organisms (and thus shared ecosystems), ensuring that these interventions are developed responsibly poses an unprecedented challenge for science and society.
+<P>
+Humans have been altering animals and plants through selective breeding for millennia; but, because these changes typically reduce the capacity for survival and reproduction in the wild, they do not spread to wild populations.
+Alterations accomplished using CRISPR, which enables scientists to edit a cell’s DNA with unprecedented precision, are different in one crucial respect: The process can result in “gene drive,” a naturally occurring feature of some genes that enables them to spread through a population over generations, even if they do not help survival (and thus reproduction).
+<P>
+Simply put, we can now contemplate altering wild populations in very specific and consequential ways.
+Those changes can be highly positive.
+By altering certain features of mosquitos, we could reduce or even eradicate ancient scourges such as malaria and dengue that afflict hundreds of millions of people each year.
+(Malaria alone kills a child every 90 seconds, on average.)
+By permanently immunizing the relevant animal populations, we could prevent new cases of Lyme and other diseases that originate in wild organisms, or we could block newly emergent pathogens such as the Zika virus, which has been linked to an epidemic of stunted brain development in newborns in Latin America.
+<P>
+As for the environment, human activities have already impacted every ecosystem on Earth, with far-reaching consequences – for us and many other species – many of which are yet to unfold.
+Gene drive elements could potentially reverse much of this damage.
+For example, limiting invasive species – such as cane toads in Australia, mosquitoes in Hawaii, or rats and mice almost everywhere – could help to restore damaged biomes.
+And eliminating pests’ attraction to our crops, without diminishing their capacity to fulfill their other ecological roles, would remove the need for toxic pesticides.
+<P>
+As we attempt to realize these tremendous potential benefits, however, we must bear in mind that the effects of gene drive interventions will be shared by entire communities.
+Given the vast complexity of ecosystems, careful research will be needed to assess the consequences of each intervention before proceeding.
+<P>
+CRISPR gene drives also highlight a problem that goes beyond ecology: Existing systems for developing and evaluating new technologies are woefully inadequate for powerful new tools with broad impacts.
+It should be self-evident that technologies like gene drives, which don’t require widespread adoption to have a widespread effect, should never be released without informed community consent.
+Yet history shows the opposite pattern, with decision-making seldom factoring in environmental consequences or citizens’ opinions.
+<P>
+Nowadays, there are few opportunities for public input until after products are developed, when it is typically too late to make changes.
+By ignoring potentially helpful contributions from an increasingly knowledgeable public, closed-door technological development has precluded balanced assessments and created acrimony – a dangerously irresponsible and wasteful outcome for both science and society.
+<P>
+CRISPR gene drives offer an opportunity to chart a new course.
+For starters, public notification and broadly inclusive discussions should always precede and inform development of gene drive interventions in the lab.
+A clear description of the potential impact of an experiment – as my colleagues and I have provided for the technology as a whole – must be followed by transparency throughout the development process.
+This community-guided approach to research provides opportunities to identify and address potential problems and concerns during development.
+If a perceived problem cannot be adequately addressed, researchers should be prepared to terminate the project.
+<P>
+Transparency and collective scrutiny would also help to ensure that scientists fulfill their fundamental responsibility to protect against laboratory accidents.
+Experiments involving gene drive organisms are almost unique in terms of the potential harm that a mishap could cause beyond the lab.
+Though DNA-level changes spread by one gene drive can be overwritten by another gene drive – an important safeguard against unwanted side effects and misuse – the ecological impacts would not be so easy to reverse.
+<P>
+To be sure, most gene drive experiments will pose little, if any, environmental risk.
+Nonetheless, an accidental release would prove devastating to public confidence in researchers' ability to develop this powerful technology with wisdom and humility.
+That is why my colleagues and I have detailed, demonstrated, and publicized several easily implementable confinement strategies.
+<P>
+Another feature of a responsible approach would be a commitment by scientists to evaluate each proposed gene drive intervention – say, immunizing mice so that they cannot transmit Lyme disease to ticks – individually, rather than making a blanket decision on the technology as a whole.
+After all, the benefits and risks of each intervention would be entirely different.
+<P>
+A final safeguard against the irresponsible development of gene drive technology is to ensure that early interventions are developed exclusively by governments and nonprofit organizations.
+Given the potential of financial incentives to skew the design and results of safety tests, keeping the profit motive out of the development and decision-making processes will encourage balanced assessments.
+<P>
+The bottom line is that existing models for technological development are inadequate for technologies with broadly shared effects.
+Only with early discussion, transparent research, careful safeguards, and community guidance can we build a responsive model of scientific development well suited to ecological technologies.
+Given the life-saving (and environment-saving) potential of CRISPR gene drive interventions, let us determine how to develop them – and when to decline to do so – together.

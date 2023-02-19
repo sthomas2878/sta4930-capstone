@@ -1,0 +1,58 @@
+<HEADLINE>
+After the Vaccine
+<P>
+WASHINGTON, DC – There is a growing consensus that one or more COVID-19 vaccines will become available at some point in early 2021.
+Within a year, many people in the United States, and some other countries, will be vaccinated.
+For some childhood diseases, the development of a vaccine was by itself decisive.
+But this may not be true of COVID-19, because adoption could be slow or effectiveness wane over time – or both.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In that case, the need to test people both for individual safety and to prevent outbreaks will be ongoing.
+The long-term problem with testing is already evident: the cost per test is high.
+In health-care systems where scarce medical resources are allocated on a fee-for-service basis, such as in the US, this means that many people cannot afford to get tested.
+In addition to progress toward a vaccine, we need to make virus testing at scale much cheaper, so that it becomes available to everyone, whatever their income level.
+<P>
+Currently, the untested in the US include most children attending public primary and secondary schools, as well as the teachers and others who work in those schools.
+They also include millions of older people, including those living in low-income housing (known as Section 202 housing).
+This lack of access to testing is a major economic and moral issue that will not go away.
+<P>
+The economic problem is centered around schools.
+If families and teachers are worried about what happens when children go to school, it is hard to get the economy – including jobs and incomes – back on track.
+Education disparities, which are already stark, will continue to widen.
+Some children will never attain the reading and math skills they are missing now.
+This will likely lower their lifetime incomes.
+<P>
+There are roughly 57 million children in primary and secondary schools in the US, living in 34 million households (of which nearly 24 million have two parents and ten million have one).
+There are close to four million teachers and more than one million childcare workers.
+The continuing failure to provide virus testing in schools thus directly affects about one-third of the population.
+<P>
+If an effective vaccine becomes widely available, schools are likely to require children to be vaccinated.
+But there may be exemptions for religious or health reasons, as there is now for other vaccines.
+Health information is confidential, so you do not know who around you has had which vaccines.
+Tests for live virus are now non-intrusive (saliva or nasal swab) and can provide considerable reassurance – as well as the ability to detect and stop outbreaks.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Owing to a legacy of official neglect and inaction, 40% of the COVID-related deaths in the US so far have occurred in long-term care facilities, where many residents are seriously ill and most are over the age of 60.
+Now, these facilities have more infection-control resources, testing is available, and the discussion is shifting toward preventing anything like this from happening again.
+<P>
+But we must not forget other vulnerable people, including in minority communities and those living in “congregate” facilities such as apartment buildings.
+Many elderly people have been in some form of self-imposed isolation since March, avoiding others as much as possible.
+By all accounts, the resulting isolation and loneliness is taking an awful toll, including by accelerating aging and potentially pushing more people toward dementia.
+<P>
+New testing technology, including disposable at-home kits, could become part of the solution.
+There are still questions about how precise these tests will be – how many false negatives and false positives we should expect – when deployed at massive scale.
+But the main question is how long it will take to establish and run the supply chains necessary to support production and distribution of hundreds of millions of such tests per month.
+<P>
+The other promising development is pooled testing.
+COVID-19 lab tests typically cost between $25 and $125, depending on the regional market.
+But the numbers look very different if you build the costs from the bottom up: a couple of dollars for the tube (with or without a swab) to collect samples, a small amount for the logistics of specimen collection at scale (mostly shipping), and whatever it costs to operate the relevant information technology system (including bar codes for the tubes and reporting requirements).
+Pooling ten or 20 samples in one tube can lower the costs significantly, because it economizes on the expensive reagents needed to run the lab tests.
+<P>
+What do we need to get the cost per person tested down to $5 or even lower?
+In a single word: competition.
+As more labs figure out and offer pooled testing, prices will fall.
+For once, capitalism and market competition can help the people most in need of help.
+Ensuring that they receive it will enable all of us get past the scourge of COVID-19.

@@ -1,0 +1,63 @@
+<HEADLINE>
+Breaking America’s Patent Stalemate
+<P>
+STANFORD – Economic growth is increasingly reliant on technology-based industries.
+That has made reforming the US patent system a subject of renewed focus – and of a contentious and deadlocked debate.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Many patent owners are lobbying to remove limits on eligible inventions, but opposition from other stakeholders, including several software firms, has stalled proposed legislation.
+Reformers similarly disagree on whether “patent trolls” – firms whose only business is filing patent-infringement lawsuits – are a drag on truly innovative companies, or whether efforts to combat trolls have weakened the US patent system and innovation.
+The critical role of innovation in addressing the COVID-19 pandemic has only heightened such concerns.
+<P>
+In a recent policy proposal, we argue that there currently is little credible evidence to support strengthening or weakening patent protection, such as by modifying patent-eligibility standards.
+Nonetheless, the US patent system can still be improved through more modest changes that have stronger empirical support.
+<P>
+For example, while patents are intended to disclose information about new technologies and who owns the rights to them, they often fail on both counts.
+The good news is that the United States Patent and Trademark Office (USPTO) can address both shortcomings without waiting for congressional action.
+<P>
+One way in which patents fail to disclose accurate information stems from the practice of including hypothetical experiments and results, known as “prophetic examples,” in ways that are hard to distinguish from real data.
+Of course, fabricating results in a scientific paper would be considered fraudulent.
+But, as Fordham Law School’s Janet Freilich has documented, prophetic examples are common in granted US patents.
+<P>
+Freilich found that at least 17% of examples in recent US chemical and biological patents are prophetic, and at least 24% of patents with examples include some that are prophetic.
+Moreover, these hypothetical experiments confuse even qualified scientists.
+Ninety-nine percent of prophetic patents cited in scientific publications were cited with phrases such as, “has been carried out,” suggesting that the authors did not understand that the experimental work in question was hypothetical.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Patent insiders distinguish prophetic examples by verb tense: examples based on work that has actually been done are typically in the past tense, whereas prophetic examples must be in the present or future tense.
+Thus, when a patent describes a chemical reaction in which “230 milliliters of hydrogen is attained,” or treatment of a patient whose “pain is substantially alleviated,” or a diagnostic patch with micro-needles that “automatically draw small quantities of blood,” the present tense signals that the work needed to support these claims most likely had not been carried out at the time the application was filed.
+<P>
+But this tense rule can be misleading for non-specialist audiences, including scientists and investors in new technologies.
+The USPTO can and should require patent applicants to distinguish prophetic examples more clearly from completed work.
+<P>
+The USPTO can also address a second flaw of America’s patent system: its failure to provide clear notice about who owns patent rights.
+<P>
+The first page of a patent lists the owner at the time it was granted, but if that patent is sold to a new owner, the change does not need to be recorded at the USPTO.
+And, because there is no standardized method of referring to patent owners, different names, abbreviations, or spellings for a single company are not uncommon.
+Even more confusingly, some patent applicants use shell companies to conceal the real owner.
+<P>
+Lack of transparency regarding patent ownership can make it harder for other companies to search for relevant patents and determine whether their products are infringing them or with whom they should negotiate licenses.
+This needlessly increases business costs.
+<P>
+As with the problem of prophetic examples, the USPTO can improve ownership transparency without legislation.
+The agency proposed new regulations to address this problem in 2014, although the effort stalled owing to concerns about the cost of complying with efforts to root out hidden owners.
+<P>
+Based on this experience, we propose a more tailored set of reforms.
+For all patents, the USPTO should require owners to link ownership records to unique IDs and to record changes in ownership.
+This would reduce the patent system’s transaction costs while imposing relatively little burden on patent owners.
+The more stringent disclosure rules related to hidden owners could be limited to patents asserted in litigation, which would help limit litigation abuse.
+<P>
+To be sure, improving information disclosure concerning patented technologies and patent ownership is unlikely to satisfy reformers who are convinced that more sweeping changes are necessary.
+<P>
+Although we do not think there is credible evidence to support larger reforms that either strengthen or weaken patent protection, this uncertainty is not an excuse for inaction.
+To build an empirical case for larger reforms in the future, policymakers should test interventions in ways that can be rigorously evaluated.
+Academic teams are already conducting randomized field experiments to analyze proposals to improve the patent system, and would welcome the opportunity to collaborate with government institutions to evaluate more substantial policy changes.
+<P>
+For now, the lack of support for extensive US patent reforms should not preclude smaller evidence-based changes that would help the system serve its goals.
+In August, Senator Thom Tillis of North Carolina – a leading proponent of the stalled legislative reform of patent eligibility – wrote to USPTO Director Andrei Iancu urging the agency to adopt the two proposals outlined above.
+<P>
+Requiring clearer labeling of prophetic examples and greater transparency in patent ownership is easy to justify based on existing theory and evidence.
+The USPTO should take these steps now, while also working with academics and other interested parties to develop systematic empirical evidence on the costs and benefits of more substantive reforms.

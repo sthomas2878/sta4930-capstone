@@ -1,0 +1,58 @@
+<HEADLINE>
+Fed Policy and Inflation Risk
+<P>
+CAMBRIDGE – During the past four years, the United States Federal Reserve has added enormous liquidity to the US commercial banking system, and thus to the American economy.
+Many observers worry that this liquidity will lead in the future to a rapid increase in the volume of bank credit, causing a brisk rise in the money supply – and of the subsequent rate of inflation.
+<P>
+That risk is real, but it is not inevitable, because the relationship between the reserves held at the Fed and the subsequent stock of money and credit is no longer what it used to be.
+The explosion of reserves has not fueled inflation yet, and the large volume of reserves could in principle be reversed later.
+But reversing that liquidity may be politically difficult, as well as technically challenging.
+<P>
+Anyone concerned about inflation has to focus on the volume of reserves being created by the Fed.
+Traditionally, the volume of bank deposits that constitute the broad money supply has increased in proportion to the amount of reserves that the commercial banks had available.
+Increases in the stock of money have generally led, over multiyear periods, to increases in the price level.
+Therefore, faster growth of reserves led to faster growth of the money supply – and on to a higher rate of inflation.
+The Fed in effect controlled – or sometimes failed to control – inflation by limiting the rate of growth of reserves.
+<P>
+The Fed began an aggressive policy of quantitative easing in the summer of 2008 at the height of the economic and financial crisis.
+The total volume of reserves had remained virtually unchanged during the previous decade, varying between $40 billion and $50 billion.
+It then doubled between August and September of 2008, and exploded to more than $800 billion a year later.
+By June of 2011, the volume of reserves stood at $1.6 trillion, and has since remained at that level.
+<P>
+But this rise in reserves did not translate into rapid growth of deposits at commercial banks, because the Fed began in October 2008 to pay interest on those reserves.
+Commercial banks could place their excess funds in riskless deposits at the Fed, rather than lending them to private borrowers.
+As a result, the money supply has grown by only 25% since 2008, despite the 40-fold increase in reserves since that time.
+<P>
+During the past year, the Fed has further increased the liquidity of the banking system – and of the American economy – by a strategy called Operation Twist, buying $400 billion of long-term securities in exchange for short-term Treasury bills.
+The banks that hold these Treasury bills can sell them at any time, using the proceeds to fund commercial lending.
+<P>
+The massive substitution of reserves for longer-term securities during the period of “quantitative easing,” and of Treasury bills for long-term securities in Operation Twist, has succeeded in reducing long-term interest rates.
+The combination of low interest rates at every maturity and the substitution of short-term securities for longer-term assets has also succeeded in raising share prices.
+<P>
+But it is not clear that the lower interest rates and higher share prices have had any significant effect on real economic activity.
+Corporations have a great deal of liquidity, and do not depend on borrowing to invest more in plant and equipment.
+Housing construction has not revived, because house prices are falling.
+Consumers temporarily increased their spending in response to the increase in the stock market at the end of 2010, but that spending has recently been much more sluggish.
+<P>
+The risk is that the commercial banks could always decide to start using those excess reserves, forgoing the low rate of interest paid on deposits by the Fed (only 0.25%) and lending those funds to firms and households.
+Those loans would add to deposits and cause the money supply to grow.
+They would also increase spending by the borrowers, adding directly to inflationary pressures.
+<P>
+When the economy begins to recover and companies have the ability to raise prices, the commercial banks will want to increase their lending.
+This will be welcome, as long as it is not too much or too fast.
+The Fed will appropriately want to limit the expansion of bank lending.
+This is what the Fed used to talk about as its “exit strategy.”
+Essentially, it would mean raising interest rates on the deposits at the Fed and allowing interest rates more generally to rise.
+If this is done in a timely way and on an adequate scale, the Fed will succeed in preventing the current vast liquidity from generating higher inflation.
+<P>
+Here is what worries me: the structure of US unemployment is very different in the current downturn than it was in the past.
+Nearly half of the unemployed have been out of work for six months or longer.
+In the past, the corresponding unemployment duration was only 10 weeks.
+So there is a danger that the long-term unemployed will be re-employed much more slowly than in previous recoveries.
+<P>
+If the unemployment rate is still very high when product markets begin to tighten, the US Congress will want the Fed to allow more rapid growth in order to bring it down, despite the resulting risk to inflation.
+The Fed is technically accountable to Congress, which could apply pressure on the Fed by threatening to reduce its independence.
+<P>
+So inflation is a risk, even if it is not inevitable.
+The large volume of reserves, together with the liquidity created by quantitative easing and Operation Twist, makes that risk greater.
+It will take skill – as well as political courage – for the Fed to avoid the rise in inflation that the existing liquidity has created.

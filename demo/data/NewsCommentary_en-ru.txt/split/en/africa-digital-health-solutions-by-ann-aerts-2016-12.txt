@@ -1,0 +1,45 @@
+<HEADLINE>
+The Promise of Digital Health
+<P>
+BASEL – Africa has changed remarkably, and for the better, since I first worked as a young doctor in Angola some 20 years ago.
+But no change has been more obvious than the way the continent has adopted mobile technology.
+People in Africa – and, indeed, throughout low- and middle-income countries – are seizing the opportunities that technology provides, using mobile phones for everything from making payments to issuing birth certificates, to gaining access to health care.
+<P>
+The benefit of mobile technologies lies in access.
+Barriers like geographical distance and low resources, which have long prevented billions of people from getting the care they need, are much easier to overcome in the digital age.
+And, indeed, there are countless ways in which technology can be deployed to improve health-care access and delivery.
+<P>
+Of course, this is not new information, and a growing number of technology-based health initiatives have taken shape in recent years.
+But only a few have reached scale, and achieved long-term sustainability; the majority of projects have not made it past the pilot phase.
+The result is a highly fragmented landscape of digital solutions – one that, in some cases, can add extra strain to existing health systems.
+<P>
+The first step to addressing this problem is to identify which factors breed success – and which impede it.
+Here, perhaps the most important observation relates to how the solution is linked to the reality on the ground.
+After all, technology is an enabler for the innovation of health-care delivery, not an end in itself.
+<P>
+Solutions that focus on end-users, whether health practitioners or patients, have the best chance of succeeding.
+Fundamental to this approach is the recognition that what users need are not necessarily the most advanced technologies, but rather solutions that are easy to use and implement.
+In fact, seemingly outdated technologies like voice and text messages can be far more useful tools for the intended users than the latest apps or cutting-edge innovations in, say, nanotechnology.
+<P>
+Consider the Community-based Hypertension Improvement Project in Ghana, run by the Novartis Foundation, which I lead, and FHI 360.
+The project supports patients in self-managing their condition through regular mobile medication reminders, as well as advice on necessary lifestyle changes.
+This approach is successful because it is patient-centered and leverages information and communication technology (ICT) tools that are readily available and commonly used.
+In a country where mobile penetration exceeds 80% but only a few people have smartphones, such simple solutions can have the greatest impact.
+<P>
+For health practitioners, digital solutions must be perceived as boosting efficiency, rather than adding to their already-heavy workload.
+Co-creating solutions with people experienced in delivering health care in low-resource settings can help to ensure that the solutions are adopted at scale.
+<P>
+For example, the telemedicine network that the Novartis Foundation and its partners rolled out with the Ghana Health Service was a direct response to the need, expressed by health-care practitioners on the ground, to expand the reach of medical expertise.
+The network connects frontline health workers with a simple phone call to consultation centers in referral hospitals several hours away, where doctors and specialists are available around-the-clock.
+From the outset, the project was a response to an expressed need to expand the reach of medical expertise, and was fully operated on the ground by Ghana Health Service staff, which made this model sustainable at scale.
+<P>
+To realize the full potential of digital health, solutions need to be integrated into national health systems.
+Only then can digital technology accelerate progress toward universal health coverage and address countries’ priority health needs.
+<P>
+Collaboration across the health and ICT sectors, both public and private, is essential.
+Multidisciplinary partnerships driven by the sustained leadership of senior government officials must guide progress, beginning at the planning stage.
+Intra-governmental collaboration, dedicated financing for digital health solutions, and effective governance mechanisms will also be vital to successful strategies.
+<P>
+Digital technologies offer huge opportunities to improve the way health care is delivered.
+If we are to seize them, we must learn from past experience.
+By remaining focused on the reality of end-users and on priority health needs, rather than being dazzled by the latest technology, we can fulfil the promise of digital health.

@@ -1,0 +1,53 @@
+<HEADLINE>
+Harnessing the Power of Digital ID
+<P>
+WASHINGTON, DC – COVID-19 has tested the ability of governments to deliver financial and other forms of support to vulnerable people.
+Although 200 countries and territories have planned or implemented social-protection measures in response to the pandemic, many governments have struggled to identify informal workers who are not covered by existing welfare programs or social-security schemes for formal-sector employees.
+Social-distancing rules and quarantines have made it even more challenging to help those in need.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+But in some countries, digital ID systems have enabled the authorities to identify populations reliably and remotely, and to make emergency cash transfers to vulnerable groups – such as women and girls, the poor, informal and migrant workers, people living in remote areas, and refugees.
+<P>
+For example, a digital ID system allowed Chile rapidly to pre-enroll millions of new beneficiaries in social programs and enabled people to check and, if necessary, appeal their support status online.
+In Thailand, where more than 28 million people applied for a new benefit for informal workers affected by the pandemic, the government was able to filter out those who would receive assistance from other schemes.
+And the Indian authorities recently were able to make quick payments under a financial-inclusion program to more than 200 million women as a result of improved processes that included linking an individual’s account to their digital ID.
+<P>
+But digital ID systems alone are not a silver bullet for reaching vulnerable groups.
+Above all, such schemes require affordable access to digital infrastructure.
+Where this exists, a digital ID provides a foundation upon which other important applications and systems can be built.
+Because digital ID systems allow people to make remote transactions, they can also enable digital payments (through cashless transactions) and improved data governance (by enabling paperless transactions while preserving privacy).
+<P>
+Digital ID, digital payments, and data governance are each important individually.
+Together, they add up to a powerful public good.
+<P>
+This combination is as crucial to today’s economies as roads and railways were to those of the twentieth century.
+For example, countries such as Estonia and Singapore have advanced digital ecosystems that allow people to access government and business services entirely online, thus partly mitigating the economic disruption caused by COVID-19.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+As digitalization advances, attitudes toward data protection are undergoing a profound shift.
+High-profile data breaches and misuses are rightly making people more aware of threats to their privacy.
+New norms and regulations are giving citizens greater agency over their personal data, and new decentralized online models aim to shift power from third parties to users.
+Poorly planned digital ID systems can create or exacerbate risks to personal data, but with careful design, systems can promote responsible use and re-use of data by enabling people to exercise control.
+<P>
+Digital ID systems must also be designed with inclusion and trust in mind.
+Inclusion means not only ensuring that all can register, but also that everyone can use their digital IDs to receive assistance and empower themselves economically – including those with low literacy and limited access to technology.
+And it is crucial that people have confidence in the integrity of the system, including its ability to preserve privacy and individual rights.
+This requires effective transparency and accountability mechanisms.
+<P>
+Good digital ID systems not only enhance the capacity of governments and firms to operate, but also benefit and protect the public.
+A variety of models are emerging that reflect local contexts.
+While some countries need to start with a foundational ID system so all people can prove their official identity, others, including Australia, Canada, and France, are beginning to create digital ID “ecosystems” that give people a choice of public- and private-sector ID providers.
+<P>
+Whatever form they take, such systems are urgently needed.
+One billion people around the world still have no official ID, which prevents them from accessing financial systems and social services.
+Half of them are in Africa.
+Through the Identification for Development (ID4D) initiative, the World Bank is investing $1.2 billion across more than 30 developing countries to reduce the number of unregistered people, and to build better digital ID and civil registration systems that can contribute to inclusive economic growth.
+<P>
+The COVID-19 pandemic has highlighted the urgent need for digital ID systems that will allow governments to deliver social assistance and financial support faster and more accountably to households and businesses.
+To continue the search for innovative solutions, ID4D recently launched its second Mission Billion Challenge – a global call for new ways to enable the world’s most vulnerable people to register for and use digital IDs safely.
+<P>
+As countries focus on “building back better” after the pandemic, they have a crucial opportunity to leapfrog to a more digital economy – and to do so responsibly.
+Whichever model they choose, governments can transform the lives of people everywhere by building digital ID systems designed to maximize privacy, inclusion, and trust.

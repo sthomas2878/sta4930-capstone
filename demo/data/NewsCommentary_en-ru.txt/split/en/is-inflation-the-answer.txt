@@ -1,0 +1,61 @@
+<HEADLINE>
+Is Inflation the Answer?
+<P>
+CHICAGO – Recently, a number of commentators have proposed a sharp, contained bout of inflation as a way to reduce debt and reenergize growth in the United States and the rest of the industrial world.
+Are they right?
+<P>
+To understand this prescription, we have to comprehend the diagnosis.
+As Carmen Reinhart and Kenneth Rogoff argue, recoveries from crises that result from over-leveraged balance sheets are slow and typically resistant to traditional macroeconomic stimulus.
+Over-levered households cannot spend, over-levered banks cannot lend, and over-levered governments cannot stimulate.
+<P>
+So, the prescription goes, why not generate higher inflation for a while?
+This will surprise fixed-income investors who agreed in the past to lend long term at low rates, bring down the real value of debt, and eliminate debt “overhang,” thereby re-starting growth.
+<P>
+It is an attractive solution at first glance, but a closer look suggests cause for serious concern.
+Start with the question of whether central banks that have spent decades establishing and maintaining anti-inflation credibility can generate faster price growth in an environment of low interest rates.
+Japan tried – and failed: banks were too willing to hold the reserves that the central bank released as it bought back bonds.
+<P>
+Perhaps if a central bank announced a higher inflation target, and implemented a financial-asset purchase program (financed with unremunerated reserves) until the target were achieved, it could have some effect.
+But it is more likely that the concept of a target would lose credibility once it became changeable.
+Market participants might conjecture that the program would be abandoned once it reached an alarming size – and well before the target was achieved.
+<P>
+Moreover, the central bank needs rapid, sizeable inflation to bring down real debt values quickly – a slow increase in inflation (especially if well signaled by the central bank) would have limited effect, because maturing debt would demand not only higher nominal rates, but also an inflation-risk premium to roll over claims.
+Significant inflation might be hard to contain, however, especially if the central bank loses credibility: Would the public really believe that the central bank is willing to push interest rates sky high and kill growth in order to contain inflation, after it abandoned its earlier inflation target in order to foster growth?
+<P>
+Consider, next, whether the inflationary cure would work as advertised.
+Inflation would do little for entities with floating-rate liabilities (including the many households that borrowed towards the peak of the boom and are most underwater) or relatively short-term liabilities (banks).
+Even the US government, with debt duration of about four years, would be unlikely to benefit much from an inflation surprise, unless it were huge.
+Meanwhile, the bulk of its obligations are social security and health care, which cannot be inflated away.
+<P>
+Even for distressed households that have borrowed long term, the effects of higher inflation are uncertain.
+What would help is if their nominal disposable income rose relative to their (fixed) debt service.
+Yet, with high levels of unemployment likely to keep nominal wage growth relatively subdued, typical troubled households could be worse off – with higher food and fuel prices cutting into disposable income.
+<P>
+Of course, any windfall to borrowers has to come from someone else’s wealth.
+Inflation would clearly make creditors worse off.
+Who are they?
+Some are rich people, but they also include pensioners who moved into bonds as the stock market scared them away; banks that would have to be recapitalized; state pension funds that are already in the red; and insurance companies that would have to default on their claims.
+<P>
+In the best of all worlds, it would be foreigners with ample reserves who suffer the losses, but those investors might be needed to finance future deficits.
+So central banks would have to regain anti-inflation credibility very soon after subjecting investors to a punishing inflation.
+In such a world, investors would have to be far more trusting than they are in this one.
+<P>
+This does not mean that nothing can be done about the debt problem.
+The US experienced debt crises periodically during the nineteenth century, and again during the Great Depression.
+Its response was to offer targeted and expedited debt relief – often by bringing in new temporary bankruptcy legislation that forced limited debt write-downs.
+<P>
+In this vein, a recent proposal by Eric Posner and Luigi Zingales to facilitate mortgage-debt renegotiation would give a deeply underwater homeowner the right to file a pre-packaged Chapter 13 bankruptcy petition.
+This would allow her to write down the value of her mortgage by the average house-price depreciation in her postal zone since the borrowing date, in exchange for giving the lender a share of the future house-price appreciation.
+A bankruptcy judge would approve the petition, provided the court was satisfied that the homeowner could make the reduced payments.
+<P>
+Such automatic borrower-initiated filings, if made legal by Congress, could reduce the household-debt overhang without the need for government subsidies.
+To the extent that the alternative is costly foreclosure proceedings that make borrowers and lenders worse off, this proposal should attract the support of both sides.
+<P>
+No solution is without weaknesses, though.
+One reason that banks oppose debt write-downs is that many underwater homeowners continue to repay debt rather than default, even while cutting back on other spending.
+If these diligent payers are eventually expected to default, writing down their debt today makes sense.
+If they are expected to muddle through, a blanket debt write-down would weaken banks and might slow economic growth.
+Policymakers espousing debt write-downs to spur growth should ask whether they have the political support to recapitalize banks if needed.
+<P>
+Prescriptions like these – as with those for a jolt of inflation – have gained ground because the obvious solutions to economic stagnation have been tried and failed.
+But, as the proposals become more innovative and exotic, we must examine them carefully to ensure that they wouldn’t end up making matters worse.

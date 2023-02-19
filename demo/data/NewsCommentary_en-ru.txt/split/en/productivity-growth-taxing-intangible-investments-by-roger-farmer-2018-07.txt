@@ -1,0 +1,49 @@
+<HEADLINE>
+Taxing the Intangible Economy
+<P>
+LONDON – Some very clever people, including the president of the European Central Bank, Mario Draghi, and Andy Haldane, chief economist at the Bank of England, are expressing concerns over the slowdown in productivity growth.
+And, given that productivity (measured as GDP per hour worked) is the ultimate driver of increases in living standards, they are right to be worried.
+<P>
+For most people in the West, wages and living standards have stagnated for decades.
+If you were a factory worker in the north of England in 1970, for example, odds are good that your children will earn less in real terms than you did 50 years ago.
+The same is true for workers elsewhere in Europe and in the United States, an economic reality that is partly responsible for the rise of populist politics.
+<P>
+The trajectory has been trending down for years.
+As Figure 1 shows, average annual productivity growth in five OECD countries – France, Germany, Japan, the US, and the United Kingdom – was 2.4% in the 1970s.
+During the decade after 2005, it was 0.6% in those countries.
+And, although the “Great Recession” that started in 2007 contributed to the decline, the average had been falling well before the financial crisis began.
+<P>
+<P>
+Lower productivity growth has meant reduced living standards for many, but not all.
+For a financial analyst on Wall Street or in the City of London, life isn’t so bad.
+And for the independently wealthy – especially those with a majority of income derived from a stock portfolio – standards of living have actually increased in recent decades.
+<P>
+But it’s worth asking how much of this increased prosperity was paid in the form of taxes, because the answer – not as much as if income had been in wages and salaries – is one reason why so many economists are so worried.
+<P>
+Consider that capital gains for top earners in the UK are taxed at 28%, and the ceiling in the US is 20%.
+By comparison, the top rates for income tax are 45% and 39%, respectively.
+In other words, when high-tech companies pay their workers with stock options, as many are increasingly doing, the gap in taxable revenue is significant – 17% in the UK, and 19% in the US, to be precise.
+With an ever-greater proportion of national wealth being channeled into stock appreciation, the lost revenue will need to be found in other places.
+<P>
+The disparity is even more striking in other parts of Europe.
+Figure 2 illustrates the difference between the top marginal income-tax rate and the tax rate on capital gains in nine Western economies (including the US and the UK).
+In Italy and Belgium, residents pay no capital gains tax; a rich Belgian who receives all of his or her income in the form of stock options can avoid paying income tax entirely.
+Among Europe’s biggest economies, Germany is the only exception; there, capital gains are treated as ordinary income, so there is no loss to the government when income is received as stock appreciation as opposed to dividends.
+<P>
+<P>
+Digital music, mobile apps, Google, and Twitter – these and other “intangible” technological miracles have changed our lives.
+But the many benefits of modern innovation have not been reflected in standard measures of GDP.
+As Jonathan Haskel and Stian Westlake point out in their new book, Capitalism without Capital, one explanation is that the measurements themselves are inadequate.
+<P>
+For example, in the past, making an investment meant purchasing a new factory or a new machine; it was the acquisition of a physical asset that appeared immediately in GDP statistics.
+Today, though, investments often refer to something impossible to touch – like computer software, branding, or an archive of data.
+These “intangible investments” are booked in GDP accounts as intermediate goods, not as output.
+<P>
+But intangible investments influence company profitability.
+If technology companies’ profits are continually reinvested as intangibles, earnings may never appear as output in GDP statistics, but they will affect the company’s market value.
+For government leaders concerned with providing goods and services during a period of slow growth, getting a handle on this unmeasured GDP is essential.
+<P>
+Fortunately, there is a solution.
+As I have argued on my blog, we must rethink how tax revenue is raised.
+If all income were taxed at the same rate, intangible investments made by companies would still generate revenue in the form of taxes paid by the companies’ wealthy owners.
+The alternative – to maintain the status quo – will only ensure that as growth in the intangible economy intensifies, current revenue gaps will eventually become gaping holes.

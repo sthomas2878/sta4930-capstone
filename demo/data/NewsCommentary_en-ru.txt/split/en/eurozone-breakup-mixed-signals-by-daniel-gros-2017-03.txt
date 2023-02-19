@@ -1,0 +1,50 @@
+<HEADLINE>
+Mixed Signals from the Eurozone
+<P>
+BRUSSELS – What does the eurozone’s future hold?
+It depends where you look.
+Some economic indicators suggest that things are looking up for the common currency’s survival; for example, employment has returned to its pre-crisis peak, and per capita GDP growth exceeded that of the United States last year.
+At the same time, political risks seem to be increasing, despite the improvements in Europe’s economy.
+<P>
+The evidence of an increasing risk of a eurozone breakup comes from three different indicators.
+But closer examination of those indicators suggests that, while the longer-term risks remain substantial, the short-term risks are rather low.
+<P>
+One widely used indicator is based on Sentix surveys of market participants, which show a strong increase in the proportion who believe that the eurozone will break up soon (over the next 12 months).
+And this time it is not Greece that is driving the result, but France and Italy.
+<P>
+Of course, Greece is in difficulty again.
+But, according to the Sentix indicator, the perceived likelihood of “Grexit” remains, despite a recent surge, well below its previous peaks.
+By contrast, the perceived likelihood of “Frexit” and “Italexit” are at 8% and 14%, both much higher than even at the peak of the eurozone crisis earlier in the decade.
+<P>
+The balances among national central banks within the eurozone constitute another widely used indicator of the probability of a breakup.
+These so-called TARGET2 balances are often taken as a sign of capital flight: investors in countries at risk of abandoning the euro might be tempted to transfer their funds to Germany.
+That way, these investors would benefit if their country left the currency union, because balances with a German bank presumably would remain in euro, or in rock-solid “neue Deutsche Mark” should the eurozone break up.
+<P>
+But this line of reasoning does not seem to explain recent developments, because the TARGET2 balances are not correlated with the euro breakup probabilities as measured by the Sentix surveys.
+For example, the TARGET2 balance of the Bank of Greece has actually improved slightly in recent months, and that of the Bank of France has remained close to zero (with a small recovery just as the probability of a victory by the anti-European presidential candidate Marine Le Pen has increased).
+<P>
+True, the balances of Spain and Italy are now again nearing €400 billion ($423 billion) in net liabilities, a level last reached at the peak of the euro crisis, before ECB President Mario Draghi promised in July 2012 that the European Central Bank would do “whatever it takes” to save the euro.
+But the increase in the negative balance for Spain is difficult to reconcile with the country’s robust economic data and the absence of any significant anti-euro political force.
+<P>
+The only country for which the Sentix indicator is correlated with TARGET2 balances is Italy.
+The ECB’s explanation of the increase in TARGET2 imbalances – that it is mainly an indirect consequence of the ECB’s own vast bond-purchase program – thus seems much more reasonable than attributing it to capital flight.
+And, in fact, these imbalances began growing again with the onset of the bond buying, long before the recent bout of political instability.
+<P>
+The third indicator of renewed eurozone tensions is probably the most reliable, because it is based on where people put their money.
+This is the so-called “spread”: the difference between the yield of, say, French, Italian, or Spanish bonds relative to those issued by Germany.
+And the spread has increased sharply in recent months.
+But this indicator is also not consistent with the focus on France’s presidential election this spring, or on Italy’s general election (which must be held by early next year) as somehow determining the fate of the euro.
+<P>
+After all, the widely quoted spread refers to the difference in yields on ten-year bonds.
+A spread of 180 basis points for Italy, for example, means that the Italian government is paying 1.8% more than the German government, but only for ten-year bonds.
+If one were to take the forthcoming elections as the proper time horizon, one should look at 1-2-year maturities.
+But for these shorter-term investment horizons, the spreads are much lower: close to zero for France and a few dozen basis points for Italy and Spain.
+<P>
+Thus, there seems to be little reason to fear for the euro’s survival in the near term.
+Small short-term spreads belie the focus on the forthcoming elections in France (and those in Italy), which supposedly imply a concrete short-run danger of a breakup.
+Likewise, while the accumulated TARGET2 imbalances would indeed create a problem in case of a euro breakup, they do not constitute an independent indicator of capital flight.
+<P>
+But all is not well, either.
+Persistent longer-term yield differentials suggest that market participants have some doubts about the euro’s long-term survival.
+Speculation about election outcomes in the immediate future is more fascinating than discussions about eurozone reforms.
+After the votes are counted, however, policymakers will no longer have any excuse not to address the fundamental longer-term issues of how to run a common currency with such diverse members.

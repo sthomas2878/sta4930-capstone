@@ -1,0 +1,57 @@
+<HEADLINE>
+Unconventional Monetary Policy on Stilts
+<P>
+NEW YORK – With most advanced economies experiencing anemic recoveries from the 2008 financial crisis, their central banks have been forced to move from conventional monetary policy – reducing policy rates via open-market purchases of short-term government bonds – to a range of unconventional policies.
+Although the zero nominal bound on interest rates – previously only a theoretical possibility – had been reached and zero-interest-rate policy (ZIRP) had been implemented, growth remained anemic.
+So central banks embraced measures that didn’t even exist in their policy toolkit a decade ago.
+And now they are poised to do so again.
+<P>
+The list of unconventional measures has been extensive.
+There was quantitative easing (QE), or purchases of long-term government bonds, once short-term rates were already zero.
+This was accompanied by credit easing (CE), which took the form of central-bank purchases of private or semi-private assets – such as mortgage- and other asset-backed securities, covered bonds, corporate bonds, real-estate trust funds, and even equities via exchange-traded funds.
+The aim was to reduce private credit spreads (the difference between yields on private assets and those on government bonds of similar maturity) and to boost, directly and indirectly, the price of other risky assets such as equities and real estate.
+<P>
+Then there was “forward guidance” (FG), the commitment to keep policy rates at zero for longer than economic fundamentals justified, thereby further reducing shorter-term interest rates.
+For example, committing to maintain zero policy rates for, say, three years implies that interest rates on securities with up to a three-year maturity should also fall to zero, given that medium-term interest rates are based on expectations concerning short-term rates over the next three years.
+Capping things off, there was unsterilized currency-market intervention to boost exports via a weaker currency.
+<P>
+These policies did indeed reduce long- and medium-term interest rates on government securities and mortgage bonds.
+They also narrowed credit spreads on private assets, boosted the stock market, weakened the currency, and reduced real interest rates by increasing inflation expectations.
+So they were partly effective.
+<P>
+Still, in most advanced economies, growth (and inflation) remained stubbornly low.
+There was no shortage of reasons for this.
+Given deleveraging from high private and public debts, unconventional monetary policies could prevent severe recessions and outright deflation; but they could not bring about robust growth and 2% inflation.
+<P>
+Moreover, the policy mix was suboptimal.
+While monetary policy can play an important role in boosting growth and inflation, structural policies are needed to increase potential growth and keep firms, households, banks, and government from turning into zombies, chronically unable to spend because of too much debt.
+And fiscal policies were also necessary to support aggregate demand.
+<P>
+Unfortunately, the political economy of most structural reforms – with their front-loaded costs and back-loaded benefits – implies that they occur only slowly.
+At the same time, fiscal policy has been constrained in some countries by high deficits and debts (which jeopardize market access), and in others (the eurozone, the United Kingdom, and the United States, for example) by a political backlash against further fiscal stimulus, leading to austerity measures that undermine short-term growth.
+So, like it or not, central banks became and still are the only game in town when it comes to supporting aggregate demand, lifting employment, and preventing deflation.
+<P>
+As a result, unconventional monetary policies – entrenched now for almost a decade – have themselves become conventional.
+And, in view of persistent lackluster growth and deflation risk in most advanced economies, monetary policymakers will have to continue their lonely fight with a new set of “unconventional unconventional” monetary policies.
+<P>
+Some have already been implemented.
+For example, negative interest policy rates (NIRPs) are now standard in Switzerland, Sweden, Denmark, the eurozone, and Japan, where the excess reserves that banks hold with central banks as a result of QE are taxed with a negative rate.
+Policymakers have shifted from working on the quantity of money (QE, CE, and foreign-exchange intervention) to working on the price of money (first ZIRP, then FG, and now NIRP).
+Nominal interest rates are now negative not only for overnight debt, but also for ten-year government bonds.
+Indeed, about $6 trillion worth of government bonds around the world today have negative nominal yields.
+<P>
+The next stage of unconventional unconventional monetary policy – if the risks of recession, deflation and financial crisis sharply increase – could have three components.
+First, central banks could tax cash to prevent banks from attempting to avoid the negative-rate tax on excess reserves.
+With banks unable to switch into cash (thereby earning zero rates), central banks could go even more negative with policy rates.
+<P>
+Second, QE could evolve into a “helicopter drop” of money or direct monetary financing by central banks of larger fiscal deficits.
+Indeed, the recent market buzz has been about the benefits of permanent monetization of public deficits and debt.
+Moreover, while QE has benefited holders of financial assets by boosting the prices of stocks, bonds, and real estate, it has also fueled rising inequality.
+A helicopter drop (through tax cuts or transfers financed by newly printed money) would put money directly into the hands of households, boosting consumption.
+<P>
+Third, credit easing by central banks, or purchases of private assets, could broaden significantly.
+Think of direct purchases of stocks, high-risk corporate bonds, and banks’ bad loans.
+<P>
+If unconventional unconventional monetary policies sound a little crazy, it’s worth remembering that the same was said about “conventional unconventional” policies just a few years ago.
+And if current conditions in the advanced economies remain entrenched a decade from now, helicopter drops, debt monetization, and taxation of cash may turn out to be the new QE, CE, FG, ZIRP, and NIRP.
+Desperate times call for desperate measures.

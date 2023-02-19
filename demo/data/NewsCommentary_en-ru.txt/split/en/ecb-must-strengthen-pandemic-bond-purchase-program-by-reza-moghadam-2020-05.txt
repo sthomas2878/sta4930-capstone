@@ -1,0 +1,54 @@
+<HEADLINE>
+Putting the Pep in PEPP
+<P>
+LONDON – The European Central Bank’s €750 billion ($818 billion) Pandemic Emergency Purchase Program (PEPP) was hailed at its inception in March as the “big bazooka,” bringing welcome relief to bond markets in so-called peripheral eurozone countries such as Italy, Spain, Portugal, and Greece.
+But the ECB must strengthen the program to make it truly effective.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The ECB’s PEPP purchases are unlike its regular, across-the-board asset purchases, which seek to provide general monetary stimulus.
+Whereas those operations are based on each country’s share of the ECB’s capital (or “capital key”), PEPP’s purpose is to fix a market malfunction by targeting purchases at countries under the greatest pressure.
+<P>
+The new program, which investors expect the ECB to enlarge, has succeeded in capping interest-rate spreads between core and peripheral eurozone member states.
+But spreads remain elevated and investors are jittery, especially given the likelihood that the COVID-19 crisis will increase Italy’s public debt to 150-160% of GDP for the foreseeable future.
+There is no good way to finesse that shock.
+<P>
+To be sure, PEPP’s ability to target asset purchases, and without imposing policy conditions on the beneficiaries, makes it a more potent weapon than the outright monetary transactions scheme introduced by then-ECB President Mario Draghi at the height of the 2012 euro crisis.
+<P>
+But, by itself, PEPP does not allay the debt-sustainability concerns created by COVID-19, because of two program restrictions.
+First, there is a presumption that the bonds bought under the scheme will be held only temporarily – an impression reinforced by the German Federal Constitutional Court’s recent ruling against the ECB in connection with the separate Public Sector Purchase Program (PSPP).
+And, second, the capital key is to remain a “guiding principle” of PEPP over time.
+<P>
+To see how these strictures weaken PEPP’s effectiveness, consider what happens when a sovereign bond is bought under the program.
+At the instruction of the ECB’s Governing Council, national central banks undertake 80% of the purchases, and quickly return any interest they receive to governments as a profit transfer.
+The bonds then become effectively costless, and thus not a concern in terms of debt sustainability.
+But this is so only for as long as the ECB holds on to the debt.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+If periphery bond spreads are to fall on a lasting basis, then these countries’ additional debt resulting from the COVID-19 crisis – estimated at some €500 billion in 2020-21 – must be rendered effectively costless.
+The ECB could ensure this by committing to hold this debt for a sufficiently long time, say, 20 years or more.
+In addition, PEPP’s reference to the capital key should be dropped in order to remove any suggestion that the ECB would sell peripheral members’ bonds first if it decided to reduce its portfolio.
+<P>
+The economic benefit of reducing core-periphery bond spreads, and thus holding the eurozone together, outweighs three potential concerns regarding PEPP.
+For starters, it is feared that large ECB bond purchases could lead to high inflation.
+This concern seems overdone at a time when deflation is the greater risk.
+<P>
+Second, there is a fear of “fiscal dominance,” whereby the ECB becomes timid about raising interest rates in the future, lest balance-sheet losses require it to be recapitalized by governments, thus compromising its independence.
+But it seems a stretch to imagine that a few countries on the eurozone’s periphery could challenge the ECB’s independence, which is enshrined in the Treaty on the Functioning of the European Union.
+<P>
+Finally, there is the perennial fear of moral hazard – that bailouts encourage fiscal irresponsibility.
+This is surely misplaced: Italy’s current problems reflect its higher starting level of debt, which its eurozone partners have long accepted, and its larger fiscal response to the current crisis, which all agree is appropriate.
+<P>
+A long-lasting deviation from the capital key is also legally defensible.
+PEPP is not a monetary measure, but rather aims to overcome an obstacle to the transmission of monetary policy to all eurozone member states – namely, the high spreads induced by the pandemic’s varying effect on their public-debt levels.
+If COVID-19’s impact on eurozone bond markets is asymmetric and long-lasting, then the response must be as well.
+Any wider and unintended monetary effects from PEPP can be sterilized, or undone, through higher interest rates or sales of non-periphery bonds.
+<P>
+To be sure, none of this obviates the need for a common European fiscal response.
+Although the nascent European recovery fund is an important step forward in that regard, it remains to be seen whether it could provide a sufficiently large stimulus for the hardest-hit countries.
+Moreover, such a fund would do little to reduce the additional debt resulting from the crisis, and, in any case, is intended for the later recovery phase.
+<P>
+For now, PEPP is the only game in town for ensuring that the eurozone survives the COVID-19 crisis intact.
+Far from being cowed by the recent German constitutional court decision, the ECB should strengthen its bazooka to prevent the pandemic from causing even more damage.

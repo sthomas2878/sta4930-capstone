@@ -1,0 +1,53 @@
+<HEADLINE>
+The Great Firewall of China
+<P>
+Writing from 1930’s Shanghai, China’s great essayist Lu Xun once observed: “Today there are all kinds of weeklies.
+Although their distribution is not very wide, they are shining in the darkness like daggers, letting their comrades know who is attacking the old, strong castles.”
+Muckraking broadsheets in the first half of the last century played cat-and-mouse games with Chinese government censors, ultimately helping to expose the corruption and moral bankruptcy of the Nationalist (KMT) government and contributing to the Communist victory in 1949.
+<P>
+If that sounds familiar, its is because the Chinese Communist Party never forgets its history – and is determined to prevent history from repeating itself.
+Thus, China’s rulers acted in character last December, when they cracked down on news organizations that were getting a bit too assertive.
+The editor and deputy editors of Beijing News, a relatively new tabloid with a national reputation for exposing corruption and official abuse, were fired.
+In protest, more than 100 members of the newspaper’s staff walked out.
+<P>
+Most Chinese might not have known about the walkout if it hadn’t been for Chinese bloggers.
+An editorial assistant at the New York Times, Zhao Jing, writing under the pen name Michael Anti, broke the news on his widely read Chinese-language blog.
+He exposed details of behind-the-scenes politics and called for a public boycott of the newspaper, evoking strong public sympathy for the journalists, expressed online in chatrooms and blogs.
+<P>
+Zhao’s blog wasn’t under the direct control of the Party’s Propaganda Department.
+It was published through a Chinese-language blog-hosting service run by Microsoft’s MSN Spaces.
+On December 30, Zhao’s blog disappeared.
+Since then, Microsoft has confirmed that its staff removed the blog from an MSN Internet server, citing the need to respect Chinese law when doing business in China.
+<P>
+Microsoft’s contribution to Chinese political repression follows Yahoo’s role in the sentencing of a dissident reporter and Google’s decision not to display search results that are blocked by what has become known as the “Great Chinese Firewall.”
+Indeed, China has developed the world’s most sophisticated system of Internet blocking and censorship, thereby hiding information unfavorable to China’s rulers from all but the most technologically savvy.
+The system is bolstered by human surveillance and censorship carried out not only by government employees, but also by private service providers.
+<P>
+Some liken Microsoft’s behavior to IBM’s infamous collaboration with the Nazis in Germany.
+Human rights activists in the United States are calling for legislation that would prevent American companies from engaging in business practices that help repressive regimes stifle democratic movements.
+<P>
+But the companies argue that there is absolutely no other way to compete – they must either comply with censorship or discontinue business.
+If MSN Spaces did not censor its Chinese blogs, Microsoft argues, the Great Chinese Firewall would simply be programmed to block Chinese Internet users from accessing its service.
+<P>
+In fact, most international blog-hosting services are blocked in China, which provides a competitive boon to several hundred domestic blog-hosting services.
+These services, with names like Bokee.com, Blogbus.com and Blogcn.com, all comply with Chinese government censorship requirements.
+Software prevents users from posting politically sensitive words, and provocative content that gets past the automated controls is frequently removed.
+These businesses would not be allowed to exist otherwise.
+<P>
+Despite the censorship, the Chinese blogosphere is blossoming, with probably somewhere between 5-10 million active blogs.
+The Chinese public has grown expert over the years at finding plenty of things to do and talk about while avoiding politically dangerous issues.
+Chinese bloggers are no different.
+New pop cultural celebrities are emerging online, and people are creating their own radio and even TV shows.
+<P>
+Naturally, the Chinese companies that provide most of the tools used to create and host this content have censorship built into their software, management structure, and business models.
+But most Chinese bloggers accept this as part of the reality of life in China.
+They are not willing to fight for greater freedom of speech and are even willing to censor each other in order to preserve what they have.
+<P>
+Which brings us back to China’s greatest modern writer, Lu Xun.
+In 1921, he wrote a biting piece of social criticism, “The True Story of Ah Q,” about a hapless character who adjusts his values to whatever the circumstances and people around him seem to demand.
+<P>
+Unfortunately, faced with a choice between protecting the long-term interests and human rights of their customers and complying with laws implemented by unelected power-holders, technology firms like Microsoft, Yahoo, and Google seem to have embraced the Ah Q spirit.
+They have made it clear that when it comes to free expression, their priorities lie on the side of surrender.
+<P>
+In the long run, this does not bode well for their global reputations, which depend on users’ trust in the openness and independence of their products and services.
+One day, perhaps, censorship will no longer make good business sense anywhere.

@@ -1,0 +1,63 @@
+<HEADLINE>
+The Global Promise of Digital Health
+<P>
+BASEL – In his recent best-selling book Factfulness, the late international health expert Hans Rosling shows that horrors such as natural disasters, oil spills, and battlefield deaths are trending steeply downward, and that harvest yields, literacy rates, and other development indicators are on the rise.
+Taking a fact- and evidence-based approach, Rosling makes the case for optimism in what seems like an increasingly chaotic world.
+<P>
+There is also cause for optimism in the realm of global health, and for a simple reason.
+Just as the Industrial Revolution produced far-reaching advances in medicine, the ongoing digital revolution will allow us to improve health care in ways that were hard to imagine just a few years ago.
+<P>
+Almost every country in the world has committed to the United Nations Sustainable Development Goals (SDGs), an international agenda for improving the wellbeing of humanity and the planet that sustains it.
+In terms of global health, the SDGs aim to eliminate preventable child deaths and major epidemics, and to achieve universal health coverage.
+<P>
+Though highly ambitious, the SDGs are eminently achievable.
+We need only seize the opportunities offered by the Internet, mobile devices, and other digital technologies, which are already expanding health-care access and improving quality of care in hard-to-reach communities.
+<P>
+Consider India.
+Earlier this year, Prime Minister Narendra Modi’s government introduced “Modicare,” the world’s largest government-funded health insurance program, which will cover up to 40% of India’s 1.3 billion citizens.
+The government aims to halt the rise of noncommunicable diseases (NCDs) such as diabetes and cancer, while preventing poverty-inducing health-care expenditures at the household level.
+In a country the size of India, the program relies heavily on technology to link people with health-care services, to store and analyze patient data, and to prevent catastrophes that could arise from mixing up patients’ health records.
+<P>
+Digital technology can also ensure that patients in remote areas receive care from highly skilled providers.
+In the Novartis Foundation’s telemedicine program in Ghana, 70% of provider-patient consultations are handled by phone, thus sparing patients from arduous journeys to primary-care centers.
+<P>
+Digital technologies are also revolutionizing health education.
+In isolated regions, health workers often travel on foot for hours to receive training, and many inevitably end up without the training they need.
+But now health-care providers can receive training from anywhere by way of smartphones and tablets.
+One of our partners, Last Mile Health, has created an entire digital platform specifically tailored for community health education.
+These and other efforts are decentralizing health-care provision and training, and empowering local practitioners – all of which is essential for achieving universal health coverage.
+<P>
+Needless to say, digital technologies will also be driving the next wave of life-changing therapies.
+Social-networking technologies have already made recruitment for clinical trials more efficient, and artificial intelligence and predictive analytics have allowed for trials to be conducted much faster.
+<P>
+Across the digital landscape, however, it is broadband that will deliver some of the most significant improvements of all.
+In low-income countries, high-speed Internet can be a game-changer at every level of the health system.
+<P>
+Building broadband infrastructure in resource-poor countries is a complex challenge, though.
+Too often, digital-health services are fragmented among government agencies, businesses, and nongovernmental organizations.
+Many efforts are duplicated as a result, and chances for collaboration are squandered.
+Uganda is a cautionary tale: In 2012, so many conflicting digital health projects were in play that the government was forced to declare a temporary moratorium on all of them.
+<P>
+The Broadband Commission Working Group on Digital Health, which is co-chaired by the Novartis Foundation, is focusing on how technology can improve care for NCDs.
+During the United Nations General Assembly in September, the Commission published The Promise of Digital Health: Addressing Non-communicable Diseases to Accelerate Universal Health Coverage in LMICs.
+The goal is to offer pragmatic advice to policymakers and other stakeholders to help them reimagine the way digital health can address NCDs.
+<P>
+Clearly, governments must do more to integrate digital-health efforts across ministries, and to coordinate with private- and nonprofit-sector stakeholders when possible.
+Such collaboration is already happening in places like the Philippines, where a National eHealth Steering Committee oversees a suite of digital-health initiatives, thus creating an ideal environment for digital innovation.
+<P>
+Still, digital technology is not a panacea, so we must choose our priorities wisely.
+The first priority should be on outcomes.
+In many countries, health providers are rewarded for tasks they perform, rather than for end results.
+Outcome-oriented digital technologies can ensure that this changes.
+<P>
+A second priority is to improve data literacy.
+Digital technologies allow us to capture and mine data for insights at every level – from individual biology to global patterns of disease.
+Training curricula for health-care providers and administrators should thus include instruction in statistics, data management, and analytics so that providers can keep up with digital advances.
+<P>
+A final priority is to bear in mind that digital technology is valuable only if it is being used to improve how systems function.
+Physicians should not be spending more time entering data than they do caring for patients.
+Fortunately, when applied properly, digital technology can help automate the process so that providers are freed up to do what they do best.
+<P>
+It has been three years since the world ratified the SDGs, including near-term objectives to achieve universal health coverage and universal, affordable Internet access.
+Recent progress shows that we should be optimistic about achieving these targets.
+But success will depend on whether we can harness the digital revolution for the benefit of all.
