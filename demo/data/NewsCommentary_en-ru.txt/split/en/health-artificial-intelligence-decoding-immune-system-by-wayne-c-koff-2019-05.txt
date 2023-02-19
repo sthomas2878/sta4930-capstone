@@ -1,0 +1,61 @@
+<HEADLINE>
+How Artificial Intelligence Can Help Us Decode Human Immunity
+<P>
+NEW YORK – At a recent awards dinner I attended at the New York Academy of Sciences, James P. Allison told a captivated audience that his breakthrough cancer immunotherapy discoveries resulted not from focusing on cancer, but rather from his decades-long basic research to understand how the immune system works.
+Weeks later, Allison and fellow immunologist Tasuku Honjo would be selected to receive the 2018 Nobel Prize in Medicine.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+For years, Allison and his colleagues studied a protein that serves as a brake on the immune system.
+They recognized that releasing this brake could unleash the immune system to attack and destroy tumors.
+Independently, Honjo and colleagues identified another protein that performed a similar function.
+These fundamental studies have now led to the development of new and powerful immunotherapies that are effective against cancer.
+<P>
+But we still have much to learn.
+For some patients with some cancers, immunotherapy has been revolutionary, enabling people who had been on the verge of death to live healthy lives with no detectable traces of the disease.
+Yet the immunotherapy revolution is still in its infancy.
+For reasons that are still unclear, many cancers and patients simply do not respond.
+Part of the problem, scientists increasingly agree, is the current lack of understanding of how the human immune system fights disease.
+I have seen this firsthand, through decades of work trying to develop a vaccine for HIV/AIDS, a goal that has so far proved elusive.
+<P>
+That’s why I believe the next breakthrough in foundational research will be decoding how the human immune system prevents and controls disease.
+Artificial intelligence (AI) and machine learning will be the keys to this achievement, transforming the future of human health just as they are now changing other aspects of our lives.
+<P>
+The immune system – an intricate network of cells, tissues, and organs – is the human body’s primary mechanism for staying healthy.
+Decoding it should be central to our efforts to understand and fight illness, whether non-communicable diseases such as cancer, diabetes, and Alzheimer’s, or infectious ones such as tuberculosis, malaria, and Ebola.
+<P>
+Over the past century, we have learned to engineer some aspects of our own immunity through vaccines.
+But we have reached a critical impasse.
+The threats we now face are much more insidious and complex, and each year millions of people – especially the very young, the elderly, and those living in low- and middle-income countries – die and suffer from diseases that should be conquered.
+<P>
+It does not have to be this way.
+By fully leveraging the power of our immune systems, we could find new ways to fight disease everywhere.
+We need new and creative ways of approaching the challenge across multiple disciplines – a coordinated effort on the moonshot scale of the Human Genome Project.
+The good news is that such an undertaking is now possible.
+Recent technological advances in biomedicine, engineering, and, most importantly, AI and machine learning have given us the tools we need to embark on this ambitious endeavor.
+<P>
+Such tools are necessary because of the vast size and complexity of the human immune system.
+It is billions of times larger than the human genome, and processing such a huge amount of information requires significant data-science capabilities and frontier supercomputing.
+It also requires a major shift in how we approach clinical research studies.
+<P>
+Traditionally, clinical studies have focused on running tests across as many individuals as possible, collecting a limited amount of data on each subject.
+With the remarkable new genomics and molecular biology tools now available, researchers can collect millions of data points on a single individual.
+This is leading us to a new model: fewer people, much more data.
+<P>
+By merging AI and machine learning to analyze these individual data sets, we can better understand the molecular-level dynamics of the human immune system and start mapping its governing rules.
+In early work being conducted through the Human Vaccines Project, scientists at the J. Craig Venter Institute, the San Diego Supercomputer Center, and the University of British Columbia are using this approach to identify baseline biomarkers in individuals that predict immune responses to vaccines.
+Such work could pave the way for accelerating the development of novel vaccines and therapeutics for immune-mediated diseases.
+<P>
+Studies like these are starting to yield an unprecedented amount of data that ultimately will enable the creation of the first-ever atlas of the human immune system.
+Advances in frontier supercomputing can then be applied to that database to create the first AI-based models of the immune system.
+These models will fill in the current gaps in our knowledge to create more effective cancer immunotherapy, as well as diagnostics, vaccines, and therapies for a host of other diseases.
+<P>
+I envision a world where scientists can rapidly develop new ways to fight disease; where vaccines provide lifetime protection for everyone, with a single immunization; where immunotherapy works for all cancers; and where Alzheimer’s is preventable.
+To make this future a reality, we must merge creativity with continued advances in AI to crack the code of the human immune system.

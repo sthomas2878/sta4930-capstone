@@ -1,0 +1,52 @@
+<HEADLINE>
+The End of the Free-Market Paradigm
+<P>
+CAMBRIDGE – The 2020s will be the decade when the idea that economic problems can be “left to the market” to solve is finally put to rest – after some 40 years during which that belief has caused untold damage to society and the environment.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+We can foretell this with such confidence because of the nature of the digital economy.
+The long-standing economic theory, according to which firms or people deliver the best outcomes for society by acting individually to maximize profits or “utility,” has never been valid.
+If it were, businesses would see no advantage in becoming much larger, and advertisers would never use social pressure to manipulate consumers.
+But in the digital world, it is simply impossible to ignore our interdependence.
+<P>
+Consider today’s pervasive digital platforms.
+One reason why there are just a few globally dominant players is the existence of network effects: whether a platform matches diners with restaurants or enables users to connect with each other, the more users it has, the better it is for all users.
+As a platform becomes larger, the benefits for everyone increase, often at an accelerating pace.
+<P>
+Or consider the evident importance of data, the rapidly increasing volume of which is fueling artificial intelligence and other innovative services (as well as, less positively, the digital advertising market).
+Data have the technical economic characteristics of a classic public good (like air) in the sense that they are “non-rival” – more than one person can use data at the same time without depleting the overall stock.
+And basic economics shows that markets cannot be expected to generate and allocate such goods efficiently.
+<P>
+Moreover, raw data are processed into knowledge containing valuable information, which, even when provided by an individual, generally relates to other people or other data.
+In other words, the value of data-driven knowledge comes from its social context.
+<P>
+Digitalization has created extended global supply chains, linking together the fates of millions of businesses.
+Social media are making societal influences on consumer demand more important than ever.
+And economic progress is more than ever driven by ideas, which come attached to people and multiply with exchange.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The observation of fundamental flaws with the methodological individualism that underpins conventional economic prescriptions is far from new.
+In a 1952 book based on his PhD dissertation, the late American economist William J. Baumol noted that people influence one another’s preferences, and that companies affect one another’s costs of production, depending on the scale of their operations.
+The assumption that interdependence could be ignored made economic analysis simpler, of course.
+But, Baumol wrote, “Such an assumption is not neutral; it leads inexorably to the acceptance of laissez-faire.”
+<P>
+Furthermore, if the assumption is false, then the conclusion is wrong – as we have seen with certain damaging economic policies since the 1980s.
+The deregulation of financial markets resulted in the 2008 global financial crisis, while the “market for corporate control” led to merger booms and the increased concentration of many sectors of the economy.
+In addition, Milton Friedman’s view that a company’s sole social responsibility is to increase its profits encouraged overpaid executives to ignore the environmental and social damage caused by their businesses.
+The “free” market of laissez-faire is a chimera, and if individuals do not recognize the consequences of their actions for others, the result will be markets shaped by greed and power.
+<P>
+This is not to argue that alternative policy approaches are easy.
+As I have explained in detail elsewhere, both government and market failures tend to occur in the same contexts and for the same reasons – including information asymmetries, uncertainty, incomplete contracts, and principal-agent problems.
+Standard government action is no more likely than laissez-faire to succeed.
+The nature of the digital economy makes these classic challenges even more acute, and we are just in the early stages of thinking about how best to regulate it.
+When hundreds of millions of people live in densely populated areas, interact in myriad ways, and depend on the actions of others who are thousands of miles away, there is no reason to expect easy solutions.
+<P>
+As the recent global surge of reports on competition policy and digital regulation suggests, the search for possible answers is underway.
+Unfortunately, academic economics is behind the curve.
+As Thomas Philippon remarks in his excellent recent book The Great Reversal, in studying the growing dysfunction of the American economy, “I was surprised by the gap between economic research and policy.”
+<P>
+Policymakers know they need sharper analytical tools to direct the economy so that it once again starts to deliver broad-based progress.
+To help them, economic researchers must ditch their unscientific attachment to the assumption of isolated individuals transacting in free markets, and instead focus on the economy of the 2020s.

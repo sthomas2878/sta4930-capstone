@@ -1,0 +1,62 @@
+<HEADLINE>
+Closing the Education-Technology Gap
+<P>
+LONDON – In 2007, Harvard University economists Claudia Goldin and Lawrence F. Katz published The Race Between Education and Technology.
+America’s once-great education system, Goldin and Katz argued, was failing to keep pace with technological change and the economic disparity that comes with it.
+Even more concerning, they would likely make the same argument today.
+As we enter the third decade of this century, students in the United States and around the world are struggling to get an education that prepares them for a rapidly changing workplace.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Technology is clearly winning the race between man and machine.
+The current wave of technological change is affecting every industry, requiring skills that are far more advanced and diverse than what was expected of workers just a generation ago.
+With demand for high-skilled labor outpacing supply, a global elite of highly educated, highly paid professionals has emerged, leading increasingly insulated lives.
+Worse, access to basic education is still being denied to the bulk of school-age children in developing countries, and a university-level education lies far beyond the reach of millions around the world.
+We estimate that even in 2040, only 25% of the world’s adult population will have secondary education qualifications or degrees and that a higher percentage, 27%, will either have had no schooling at all or at best an incomplete primary education.
+<P>
+This divide between an education-rich elite with university degrees and the education-poor is thus likely to deepen, exacerbating within-country inequalities.
+Globally, higher education can increase one’s wage earnings by 16% on average, and by as much as 27% in low-income countries.
+But with advances in artificial intelligence (AI) and automation, this gap will widen even further, by boosting the capabilities (or “augmented intelligence”) of the privileged few who already have the skills to use the new technologies.
+<P>
+But this doesn’t have to be the case.
+By leveraging technology in the service of education, we can end today’s winner-takes-all race.
+Since 2012, the burgeoning MOOC (massive open online course) movement has demonstrated that high-quality education can be provided affordably and at scale to students around the world.
+Online education platforms have already helped millions of people achieve college readiness or upgrade their skills at prices far below those of more traditional approaches.
+For example, edX, a project backed by Harvard University, MIT, and other top institutions, has enrolled 25 million people, from every country in the world, and has so far awarded 1.6 million certificates of completion.
+<P>
+Digital technologies can also help us reach new audiences and reimagine the delivery of education.
+By making major investments to improve access to digital technology and fund tuitions, we can significantly expand the opportunities for more young people to pursue higher education, regardless of where they are.
+<P>
+Looking ahead, digital technology will play a critical role in supporting free or low-cost general education, by providing an on-ramp to college for traditional and non-traditional students in developed and developing countries alike.
+Institutions such as Arizona State University in the US are developing a new model for online courses.
+Together with edX, ASU has created the first MOOC program to offer first-year college-level courses for academic credit.
+The Global Freshman Academy is geared toward older adults who are returning to earn their Bachelor’s degree, as well as to high school-age students who want to prepare for college or reduce the cost of their undergraduate education.
+<P>
+Innovation is also underway at the post-graduate level, where one can find competitively priced online Master’s programs in cutting-edge fields like data science, computer science, AI, and business administration.
+Top-ranked universities such as Georgia Tech, the University of Texas at Austin, the University of Queensland, and Boston University offer many of these courses, at a cost of just 20-25% of an on-campus course.
+Given this progress, the next natural step is to introduce online degrees at the undergraduate level, with curricula sub-divided into stackable, modular programs and credentials, enabling students to learn on-demand and affordably throughout their lifetimes.
+<P>
+Of course, such educational opportunities that should involve person-to-person coaching and mentoring – what some call high-tech high-touch courses – should also be accompanied by more opportunities for fulfilling work at decent wages.
+But in addition to nurturing new work opportunities, we also need to ensure that the education we deliver is a proper fit for future jobs, and that the accompanying credentials serve as effective labor-market signals.
+Just one-fifth of respondents to a recent edX survey believe that all of the knowledge from their college major is translatable to their current field.
+To stay ahead of the labor-displacing effects of AI and automation, digital-learning opportunities must be developed with employability in mind.
+<P>
+The rising popularity of coding boot camps and part-time, post-college online micro-credential programs shows that more workers are taking “upskilling” into their own hands.
+Job-relevant credentials from online programs like edX are also on the rise, with more than three million people having enrolled in various MicroMasters programs since this certification was launched by MIT on edX in 2015.
+This grassroots momentum can be maintained through support from employers, who should recognize the obvious advantages of lifelong educational opportunities for their employees.
+<P>
+But it is also time for governments and public policymakers to wake up.
+The inequality caused by lack of access to education is simply unsustainable.
+Now is the time to leverage digital technologies to improve college readiness and expand opportunities for students and workers at all points in their careers, and particularly for those who can least afford traditional educational channels.
+<P>
+Policymakers should see the growing skills gap as an urgent threat to social and political stability, as well as to economic growth.
+In addition to the divide between the educational haves and have-nots is a misalignment between what people are learning and what employers need.
+Closing these gaps will yield benefits for everyone and bring us closer to achieving the global Sustainable Development Goal for education.
+With the power of technology, we can reduce current economic disparities and become the first generation in history to have made universal, lifelong education a reality.

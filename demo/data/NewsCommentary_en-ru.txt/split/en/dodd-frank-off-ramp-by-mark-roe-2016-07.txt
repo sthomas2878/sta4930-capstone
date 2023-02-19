@@ -1,0 +1,52 @@
+<HEADLINE>
+Could Hensarling’s Dodd-Frank “Off-Ramp” Work?
+<P>
+CAMBRIDGE – Jeb Hensarling, the Republican chair of the Financial Services Committee in the US House of Representatives, delivered a wide-ranging speech last month at the Economic Club of New York, proposing to overhaul US financial regulation.
+Hensarling blamed regulators and excused Wall Street for the financial crisis; condemned government-funded bank bailouts; characterized the 2010 Dodd-Frank financial-reform legislation as a power grab; and called for increased congressional oversight of the Federal Reserve.
+<P>
+Most of Hensarling’s proposals – even backed, as they now are, by a partisan-sounding document from the House Banking committee and a favorable Wall Street Journal review – are political nonstarters.
+(They would have to get 60 Senate votes and a presidential signature to pass.)
+They have already been sharply criticized by Democrats as being too risky and pro-bank – which they largely are.
+That said, one of Hensarling’s ideas is well worth exploring: an “off-ramp,” as he put it, from Dodd-Frank regulation for banks that willingly increase their available capital.
+<P>
+Let’s go back to basics for a moment.
+The government guarantees bank deposits because a banking failure could hurt the entire economy.
+This creates moral hazard, as banks, looking for big shareholder gains, become lax in managing what effectively becomes the public’s money.
+They feel comfortable taking big risks, because if they lose, they just turn the bank over to the government to pay off depositors and other creditors.
+And if they win, they and their shareholders keep the bonanza.
+<P>
+Regulators use two key measures to mitigate such risk-taking: they require banks to hold more capital and to keep investments, loans, and operations safer (and potentially less profitable) than the banks want them to be.
+Because these two central regulatory methods achieve the same end, they can theoretically be substituted for one another – regulators can set banks’ capital requirement very high, or they can set the riskiness of banks’ activities very low.
+In practice, because regulators cannot do either perfectly, they do some of each.
+<P>
+Hensarling’s off-ramp proposal builds on that tradeoff, giving banks more leeway to decide whether they want less risk or more capital.
+Baseline regulation would be the typical mixture of the two, but individual banks could opt for substantially higher capital requirements in exchange for permission to engage in riskier investments and operations.
+In other words, they could reduce the constraints of one regulatory measure in exchange for tightening those of the other.
+<P>
+This is conceptually sound.
+But there are problems with Hensarling’s proposal as he has articulated it.
+And they are not small.
+<P>
+First, the ratio of capital that Hensarling would require of banks that take an off-ramp is far too low, at 10% of total assets.
+That is higher than current levels, but not high enough to ensure bank safety.
+<P>
+The Financial Stability Board and the International Monetary Fund each found that many banks threatened during the financial crisis of 2007 and 2008 would have needed double today’s levels of capital to survive intact.
+Were the Hensarling proposal to be implemented, those levels would have to be even higher, owing to the reduction in risk regulation.
+Only if capital were increased substantially – to “shock and awe” levels – would the banks and their executives conclude, without regulatory instruction, that it is not in their or their stockholders’ interest to take on much risk.
+<P>
+A second problem with Hensarling’s proposal is that banks are likely to reject it as long as corporate tax policy remains unchanged.
+As I have argued in previous commentaries, and in a recent academic paper written with Michael Troege, requiring banks to have more capital raises their tax bill, because it reduces the level of tax-deductible debt and increases that of taxable equity.
+If the tax code is not reformed, few banks will find the tradeoff attractive, because a higher tax bill will cancel out returns from taking Hensarling’s offer.
+<P>
+The third problem is one of logistics: Hensarling’s plan would hardwire into legislation the parameters for banks to take a regulatory off-ramp, thus tying regulators’ hands.
+Once a bank had the 10% capital, it could neither be stopped from key mergers nor be determined to be systemically important and risky.
+Because financial circumstances change quickly, regulators, who can adapt to new conditions faster than Congress can, should have discretion to set capital-requirement and loan-risk tradeoff benchmarks.
+Under Hensarling’s plan, they would not.
+<P>
+More insidious, by repealing much of the Dodd-Frank risk regulation, the Hensarling proposal would virtually eliminate banks’ incentive to choose the off-ramp.
+There wouldn’t be enough regulation for them to feel the need to escape.
+Banks could thus have their cake and eat it.
+<P>
+Despite all of this, regulators should thank Hensarling for pushing forward the concept of a flexible tradeoff framework.
+While the details of his particular proposal are problematic, to say the least, the concept has real potential.
+The result could be a more dynamic financial system – and also a safer one.

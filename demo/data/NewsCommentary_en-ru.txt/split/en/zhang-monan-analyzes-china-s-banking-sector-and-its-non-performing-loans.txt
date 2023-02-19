@@ -1,0 +1,57 @@
+<HEADLINE>
+The Trouble with China’s Troubled-Asset Relief
+<P>
+BEIJING – Back in 2009, in the midst of the global recession, China’s government launched a massive economic-stimulus package that bolstered GDP growth by fueling a surge in bank lending.
+But now it is becoming increasingly apparent to policymakers and investors that easy credit and lopsided policies have generated significant risk for China’s banking system.
+Indeed, amid rising concern about banks’ troubled assets, defusing financial risk has become the authorities’ central goal.
+<P>
+According to the China Banking Regulatory Commission, commercial banks’ non-performing loans (NPLs) at the end of June totaled ¥539.5 billion ($88.1 billion) – nearly 1% of outstanding loans.
+The loan loss reserve-fund balance was ¥1.5 trillion (up 19% from the previous quarter), the provision-coverage ratio was 292.5%, and the loan ratio was 2.8%.
+<P>
+Government-backed loans amounted to ¥9.7 trillion, representing a 6.2% increase since last quarter – nine percentage points lower than the average growth rate for all categories of banking loans.
+And the balance of wealth-management products stood at ¥9.1 trillion, of which non-standard credit assets accounted for ¥2.8 trillion.
+<P>
+According to the official numbers, NPLs do not actually account for a very high share of total assets, and the NPL ratio (0.96%) is manageable.
+The problem is that most of China’s NPLs are off-balance-sheet loans, so the NPL ratio may be much higher – and China’s financial sector much riskier – than anyone realizes.
+<P>
+In fact, many banks’ off-balance-sheet loans – often extended to higher-risk borrowers, like highly leveraged real-estate developers and local-government financing vehicles – now exceed newly issued balance-sheet loans.
+If borrowers default on their off-balance-sheet loans, banks might choose to protect their reputations by covering the difference using internal funds, thereby transferring the risk onto their balance sheets and increasing the NPL ratio.
+<P>
+Banks’ exposure to local-government debt and the real-estate market has already undermined the quality of their assets, increasing debt pressure and weakening profitability.
+Moreover, off-balance-sheet lending has helped to fuel over-investment in some sectors (especially infrastructure, iron and steel, energy, manufacturing, and real estate), leading to overcapacity and priming the economy for the emergence of bad-debt “disaster zones,” which would increase NPL ratios further.
+Moves to liberalize interest rates will put even more pressure on asset quality and bank profitability.
+<P>
+Against his background, troubled assets will continue to be converted into liabilities.
+According to China’s Academy of Social Sciences, the volume of banks’ troubled assets fell from nearly ¥2.2 trillion in 2000 to ¥433.6 billion in 2010, while liabilities formed from these dissolved assets grew from ¥1.4 trillion to ¥4.2 trillion.
+<P>
+Eliminating banking-sector risk will require decisive government action, including comprehensive financial reform and effective risk-management strategies for financial operations in core sectors.
+But perhaps the biggest challenge will be determining which mechanisms will most efficiently address China’s troubled-asset problem.
+China has historically approached broad-scale relief of troubled assets through three channels – capital injections, asset-management companies (AMCs), and the People’s Bank of China (PBOC) – all of which have serious downsides.
+<P>
+During the late-1990’s Asian financial crisis, China’s four major state-owned banks, which accounted for more than half of the country’s banking sector, had a capital-adequacy ratio of only 3.7% (compared to the international standard of 8%) and an NPL ratio of roughly 25%.
+In order to recapitalize these banks, China’s government issued ¥270 billion of special treasury bonds in 1998, injecting all of the proceeds into the banks as equity – and, in the process, creating significant financial liabilities.
+<P>
+In 1999, the government decided that four newly established AMCs would purchase nearly ¥1.4 trillion in troubled assets from these banks, using a combination of PBOC loans and AMC bonds issued to the banks.
+In order to mitigate the risk associated with these debt-funded loan purchases, the PBOC guaranteed the AMC bonds.
+<P>
+This approach generated substantial risk for the PBOC.
+And, although it strengthened the banks’ balance sheets considerably, the AMCs had an average troubled-asset-recovery rate of slightly less than 25% in 2006, with actual losses close to ¥1 trillion.
+<P>
+China is, of course, not the only country that has struggled with troubled-asset relief.
+Since the 2008 financial crisis, American financial institutions’ asset write-downs have amounted to 13% of GDP.
+The Bush administration’s Troubled Asset Relief Program and the Obama administration’s financial rescue plan cost nearly $2.2 trillion, with the Federal Reserve purchasing a massive amount of banks’ assets.
+In supporting financial-sector deleveraging, the Fed itself became highly leveraged, and troubled assets still plague its balance sheet.
+<P>
+Given the significant flaws in existing troubled-asset-relief channels, another option – securitization – is being discussed in China.
+The PBOC already has called for banks to securitize their high-quality assets and sell the securities to interbank-market investors; that could be a prelude to troubled-asset securitization.
+By selling troubled assets in the secondary market, commercial banks could strengthen their balance sheets while avoiding liability increases and enhancing asset liquidity.
+<P>
+But securitization creates its own challenges, such as how to price the assets.
+Moreover, once a loan is securitized, the bank that issued it no longer has any incentive to ensure repayment by the borrower, which raises the risk of default and drives up interest rates.
+Competitive securitization was a leading cause of the US subprime mortgage crisis; owing to defaults, mortgage loans remain America’s number one troubled asset.
+<P>
+In order to mollify investors in the face of increased default risk, China’s government might force commercial banks to strengthen their balance sheets through collateralization or to swap defaulted loans for new bonds, backed by China’s foreign reserves held in US Treasuries.
+But such requirements would lead to even more risk.
+<P>
+A better solution would be to develop the credit-rating market, establish a more comprehensive regulatory framework for the financial system, and create an effective mechanism for ring-fencing risk.
+Such measures could offer the security and credibility needed to enable the successful securitization of troubled assets, paving the way for China’s leaders to deepen financial reform.

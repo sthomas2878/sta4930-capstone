@@ -1,0 +1,58 @@
+<HEADLINE>
+Measuring Growth Democratically
+<P>
+WASHINGTON, DC – Abhijit Banerjee and Esther Duflo, two of this year’s recipients of the Nobel Memorial Prize in Economic Sciences, are the latest among leading economists to remind us that gross domestic product is an imperfect measure of human welfare.
+The Human Development Index, published by the United Nations Development Programme, aggregates indicators of life expectancy, education, and per capita income and has long been available as an alternative to per capita income alone.
+In 2008, Joseph E. Stiglitz, Amartya Sen, and Jean-Paul Fitoussi outlined the many failures of GDP for the French government-sponsored Commission on the Measurement of Economic Performance and Social Progress.
+Subsequent OECD-sponsored work elaborated on their findings, and related research by the Brookings Institution’s Carol Graham (on subjective wellbeing) and Duke University’s Matthew Adler (on the measurement of social welfare) has received well-deserved acclaim.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Nonetheless, GDP continues to reign supreme in the halls of power.
+Policymakers around the world are constantly awaiting the latest quarterly data on GDP growth, and variations of one-tenth of a percentage point are regarded as significant indicators of macroeconomic performance.
+The International Monetary Fund’s World Economic Outlook may include in-depth analysis across a wide range of topics, but it always starts with GDP.
+<P>
+To see why treating GDP growth as a proxy for progress even in terms of income alone is highly problematic, consider the case of a country with ten citizens and a GDP of $190, where nine citizens start with $10 each and the tenth citizen starts with $100.
+(Moreover, assume that GDP is equal to national income, so that net factor income from abroad is zero.)
+<P>
+Now, imagine that the first nine citizens experience no income growth in a given year, while the tenth enjoys a 10% increase.
+GDP will have increased from $190 to $200, implying an annual growth rate of approximately 5.26%.
+This is reflected in the usual way national income is computed.
+Individuals are weighed by their share of total income, and that 5.26% rate represents a weighted average in which the income growth of the tenth citizen counts nine times more than that of each of the other nine citizens.
+<P>
+Contrast this example with one in which the same country uses a “democratically” measured growth rate, weighing each individual equally as a share of the population rather than as a share of total income.
+Here, the growth rate would reflect the weighted sum of nine 0% growth rates and one 10% growth rate, each weighed at one-tenth, with a resulting total growth rate of 1%.
+<P>
+The weighing of individuals by their share of income is not generally perceived by the public.
+But this implicit practice is important to point out, because it enshrines the principle of one dollar, one vote, rather than one person, one vote.
+It is essential for assessing the total size of a market or the economic “power” of a country, but it does not capture an economy’s performance for its citizens.
+<P>
+This is hardly the only reason why GDP is an inadequate measure of human wellbeing.
+It also ignores people’s need for respect, dignity, liberty, health, rule of law, community, and a clean environment.
+But even if all of these other democratic “goods” were satisfied, GDP still would fail as a metric of progress, purely in terms of income alone.
+<P>
+Building on work by the economists Thomas Piketty, Emmanuel Saez, and Gabriel Zucman, the Center for Equitable Growth has proposed “GDP 2.0,” a metric that would complement existing aggregate GDP reports by disaggregating the income growth of different cross sections of the population (such as income quintiles).
+Providing this kind of distributional picture regularly would require increased coordination among government departments, as well as some conventions on, for example, how to use tax data to complement the usual national accounts.
+But conventions are also needed for existing national income accounting.
+<P>
+Provided that distributional data are routinely available, one could compute a growth rate based on the weighted average across each decile of the income distribution, with equal weighting for population, as in the example above.
+Individuals would still be weighed by their incomes within each group (which is why it would be preferable to use deciles rather than quintiles), but the final product would be much closer than current methods to the “democratic” ideal.
+<P>
+One of the main advantages of GDP growth is that it is expressed with a single number, whereas other performance indicators either are presented within dashboards comprising multiple metrics or aggregated in essentially arbitrary ways.
+The implicit use of income shares as aggregation weights is perfectly appropriate for macroeconomic analysis and is not arbitrary.
+The problem arises when GDP becomes a proxy for progress.
+What we can measure easily and communicate elegantly inevitably determines what we will focus on as a matter of policy.
+As the Stiglitz-Sen-Fitoussi report put it, “What we measure affects what we do.”
+<P>
+Publishing a democratic metric like the growth rate of GDP 2.0 is no pipedream.
+A GDP growth rate using equal weights for each decile of the population would also produce a single number to complement the usual growth rate.
+True, it still would not capture the substantial differences within the top decile in many countries where the top 1% have been gaining disproportionately compared to everyone else.
+And we still would need other metrics to measure performance in dimensions other than income.
+But as a single figure published alongside GDP growth, it could go a long way toward changing the dominant conversation about economic performance.

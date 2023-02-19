@@ -1,0 +1,72 @@
+<HEADLINE>
+Exceptions Become the Rule
+<P>
+NEW YORK – Long ago, I worked as an analyst on Wall Street.
+The first company that I analyzed was Federal Express, which at the time had not yet shipped its first package.
+<P>
+The idea behind FedEx was simple and compelling: The cost of complexity was higher than the cost of air transport, so the company would ship all its packages overnight to Memphis, Tennessee.
+By radically simplifying the myriad combinations of start and end points – the only routes were to and from Memphis – all of the packages could be delivered the next day reliably.
+<P>
+All of that has changed, thanks to developments in information technology.
+With today’s powerful computers, we can look at massive amounts of information and simulate complex situations, making pretty good predictions about many things: What will traffic flows look like on Tuesday at 5:00 in the afternoon if we put a detour at this highway intersection?
+What percentage of people on this drug will get better – and, more interestingly, which particular individuals will respond positively, and which ones are likely to be harmed?
+<P>
+Indeed, with the ability to make reliable predictions, we can put people and things into categories, whether market segments, disease risks, likely loan defaulters, potential purchasers, and so on.
+That’s big data.
+<P>
+But now we can also do “small data.”
+We can treat many things, even packages, like individuals.
+The exceptions – whether individual genotypes, individual privacy preferences, or digital rights to use content in specific contexts – have become the rule.
+We don’t need to guess at everyone’s privacy preferences or settle for one-size-fits-all policies.
+<P>
+Over time, we will be able to figure out which people, based on their genotype, will be helped or harmed by a particular drug, or how children can learn best with personalized feedback, or how to produce furniture and clothing in a world of 3D printers and real-time modeling.
+And so on.
+Would you like your customized car seat in leather or cloth, sir?
+<P>
+The market will rise to the challenge.
+People who care about something will be able to specify their preferences to an extremely precise degree and get exactly what they want.
+For others, actually setting those preferences or defining what they want may take more attention than they care to devote to the task.
+So the design challenge of the future will be to create good defaults with easy editing/customization tools for those who care.
+<P>
+But this change will raise challenging social and political questions as well, particularly concerning privacy preferences and health care – both already controversial issues.
+<P>
+Of course, no one can define or guarantee privacy.
+But individuals could get the opportunity to control the use of their data – and entities that want to use it could negotiate with them.
+Currently, Web advertisers and publishers say that their businesses depend on their ability to track people and collect and resell the data that they gather.
+They argue, further, that it is too complicated to respect individuals’ preferences, too difficult to tell them how their data is being used, and pointless to treat them as individuals.
+<P>
+Yet, somehow, the data collectors can manage to record individuals’ purchase histories, their airline seat preferences, and so on.
+There is no reason why they could not also record how and by whom each piece of such information can be used.
+<P>
+Indeed, millions of people now do set specific privacy preferences within Facebook, opt out of being tracked, and the like.
+At the same time, they gladly share data with vendors and even track their own data – whether airline mileage or steps walked, check-ins at their favorite venues (especially if they can earn discounts or special offers), or their movie, music, or book purchases.
+<P>
+Now suppose that you could tell people to whom you had sold their data.
+Most people would not care, but those who did would appreciate the transparency and perhaps want a little share.
+Suppose you started a business that managed data on behalf of the users.
+<P>
+That is not such a crazy idea – the airlines, among other companies, are already doing it to some extent.
+United, American, and British Airways all know my travel patterns on their airlines, and help me manage both my past trips (and related rewards) and my future reservations.
+Mint does the same for my financial data; WellnessFX for my blood biomarkers.
+A new start-up called Moven plans to track small payments so that you can see in real time how you are sticking to or deviating from a budget.
+<P>
+All of this works well in markets for goods and services, where people who want choice can pay for it.
+Businesses can treat customers as individuals, and give them the amount of special consideration that they are willing to pay for.
+Companies can also decide not to serve certain customers, focusing on the most profitable segments.
+<P>
+But this approach does not work for things that the government (that is, other people’s taxes) pays for.
+In the public sector, the one-size-fits-all approach still prevails.
+In democracies, each citizen gets one vote.
+So shouldn’t everyone get the same benefits?
+<P>
+Yes, we tax rich people more and give poor people some more benefits, and that is contentious enough.
+But consider all of the qualitative services and conditions for which individuals have different preferences, needs, and outcomes that are now more predictable.
+If we can predict individual outcomes, what is an individual’s responsibility, and what remains a collective task?
+<P>
+These questions will become especially acute in areas such as education and health care.
+For example, we treat children differently in school according to their potential – as we understand it.
+But, if we help some children “to realize their potential,” are we thereby limiting the potential of others?
+<P>
+Likewise, how do we allocate health-care resources?
+What responsibility do individuals have to modify their behavior in response to their individual vulnerabilities and predispositions?
+And, most important, who – if anyone – should impose that responsibility?

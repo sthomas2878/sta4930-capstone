@@ -1,0 +1,62 @@
+<HEADLINE>
+The Digital Revolution’s Silent Majority
+<P>
+MILAN – Statistics can hold brutal truths.
+We are constantly told that innovation is occurring faster than ever, yet the data coming out of the so-called Fourth Industrial Revolution suggest that it is anything but revolutionary.
+Among advanced economies, productivity growth is the slowest it’s been in 50 years.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+This “productivity paradox” is often attributed to measurement problems or lags following the adoption of disruptive technologies.
+But another possible explanation is that public debates about technological trends tend to be dominated by the companies and entrepreneurs that are shaping them.
+The voices of the vast majority of companies that are struggling to keep up with technological change (or actively resisting it) are going unheard.
+<P>
+Acknowledging this underrepresented perspective is essential to understanding why the digital revolution isn’t showing up in the data, and why it may yet stall.
+Simply put, buzzy talk tends to rely on biased generalizations.
+For all of their purchase on the public imagination, artificial intelligence (AI), machine learning, Big Data, and humanoid robots fall within the remit of only a handful of firms.
+The attention these technologies receive is wildly disproportionate to the scale of their development and adoption.
+As Dan Ariely of Duke University joked back in 2013, “Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it.”
+<P>
+The dynamic is easy to discern.
+Journalists chase juicy stories.
+Investors seek attractive returns.
+Consumers try to anticipate the next technological fad.
+Social networks, global media, and international conferences amplify the voices of disruptors who have an interest in inflating their own prospects.
+And as the information cascades, the ranks of believers grow.
+The rumor becomes the rule.
+<P>
+Consider the World Economic Forum’s (WEF) latest annual report on emerging labor-market trends, which is based on a survey of large, multinational corporations.
+It contends that by 2022, a substantial increase in investments in machine learning, data analytics, new materials, and quantum computing will boost demand for data scientists, AI specialists, and robotics engineers, to the detriment of existing professions.
+<P>
+The problem is that the WEF’s population sample is hardly representative of the real economy.
+Across OECD countries, firms employing more than 250 workers account for just 7% of all active firms and employ less than 40% of the workforce.
+And while the authors of the report acknowledge this bias, their conclusions still amount to dangerous generalizations.
+Their jobs of the future have nothing to do with the immediate employment needs of the vast majority of small- and medium-size enterprises that are still operating within the framework of the Third Industrial Revolution.
+<P>
+Similarly, an OECD study finds that the labor productivity gap between firms at the technological frontier and all other firms has been widening sharply over the last decade.
+Many of the advanced technologies one hears so much about in the media remain unexploited by a non-trivial share of companies, which suggests that we have a long wait before even the most revolutionary innovations start driving GDP.
+<P>
+It has been said that general-purpose technologies like electricity and the personal computer tend to boost productivity not immediately, but around 25 years after their inception.
+Yet it has now been 32 years since the Nobel laureate economist Robert Solow observed that, “You can see the computer age everywhere but in productivity statistics,” and we still do not see the computer age in the productivity statistics.
+Why should AI be any different from the PC in this respect?
+<P>
+Ignoring the perspective of technological laggards can have far-reaching policy implications, especially if techno-boosterism (or alarmism) diverts attention from pressing problems facing education systems and labor markets in the here and now.
+If governments start allocating more resources to train the high-skilled professional elite of tomorrow, they could foster even deeper inequality today.
+<P>
+Of course, cynics might dismiss the “losers” as having little to add to debates about technology: at best, they will fill the roles created for them by the digital vanguard; at worst, they will be forced out of the labor market altogether.
+But it is worth remembering that smaller firms, even if they face economic headwinds, still have the political power to push for tougher regulation of new technologies that threaten their existence.
+<P>
+A global giant like Uber knows this all too well.
+Over the years, it has encountered strong resistance from small groups of well-organized taxi drivers who were never invited to gatherings of the global elite to contemplate the virtues of the platform economy.
+By the same token, the “left-behinds” across the world’s advanced economies are now taking their revenge by bringing anti-trade, populist parties and politicians to power.
+<P>
+To avoid an even worse backlash, and to develop a better appreciation of what the Fourth Industrial Revolution actually entails, one must understand where all firms – not just those at the top – stand with respect to today’s disruptions.
+A sustainable technological transformation requires widely shared benefits, which means that helping the laggards adapt is just as important as enabling the innovators to thrive.
+The voices of the disrupted must be heard.

@@ -1,0 +1,61 @@
+<HEADLINE>
+Another Look at Tax Reform and Economic Growth
+<P>
+STANFORD – In late November, a group of economists, including me, published an open letter to US Secretary of the Treasury Steven Mnuchin in the Wall Street Journal, in which we offered an evaluation of the positive growth effects of the Republican tax package that is now coming to a vote.
+Former Treasury Secretary Larry Summers and former Chair of the Council of Economic Advisers Jason Furman, raised several technical questions about our conclusions.
+We responded.
+Another signatory, Harvard University’s Robert Barro, then published a deeper elaboration of the tax plan’s growth effects here at Project Syndicate, to which Summers and Furman offered a response.
+<P>
+Summers and Furman originally suggested that we should leave estimations of the tax plan’s growth effects to the career government revenue scorers.
+“Instead of being used to justify this tax bill,” they later wrote, “Barro’s insights could have helped to shape a much better tax bill.”
+Rather than revisit the technical issues to which we already responded, I want to offer a few additional thoughts that might contribute to a broader perspective.
+<P>
+First, on the question of whether or not to pass this tax bill, Summers and Furman, like those of us they are criticizing, have enough experience in policymaking to know that the end product usually diverges from what economists would consider ideal.
+Needless to say, plenty of policies enacted during President Barack Obama’s administration, in which they admirably served, fit that description, as do others from prior administrations.
+<P>
+I agree that the current tax bill could, in principle, have been better.
+For example, I would welcome making the equipment-expensing provision permanent, broadening the personal-income-tax base, or fully integrating corporate and personal taxes at lower income-tax rates.
+But such a bill would not pass Congress.
+The question, then, is whether a viable final bill will be better than the status quo, not whether the final bill could have been better.
+<P>
+Second, Barro and I have clearly come to a different conclusion than Summers and Furman have about the bill, based on our own judgments about the links between corporate-tax reform and economic growth.
+While I certainly respect Summers and Furman’s right to their views, I am not about to cede my professional judgment to others, in or out of government.
+<P>
+Third, there are legitimate differences of opinion on how much and how quickly the tax plan will affect investment decisions (particularly equipment investments), and thus long-run economic growth.
+Summers’s own research results dramatically drive home that point.
+Using data from a variety of countries and time periods, some as short as five years, he and Brad DeLong of the University of California, Berkeley, (who also opposes the current tax bill) have made the strongest case I know that equipment investment can have a large impact on GDP growth.
+Moreover, the effect they estimate is much larger than in the conventional models used in most studies, including those relied on by government revenue scorers.
+<P>
+“The analysis suggests a strong and causal relationship between equipment investment and economic growth,” according to Summers and DeLong.
+They concluded that, “an increase of three or four percentage points in the share of GDP devoted to equipment investment is associated with an increase in GDP per worker of one percent per year.”
+So, to achieve the 0.3% increase in annual GDP growth that is now being debated, equipment investment would need to rise by 1% of GDP per year, sizeable to be sure, but well within the range of historical experience.
+<P>
+Summers and DeLong also calculate that the social returns from equipment investment are far larger than private returns.
+Thus, they concluded that “a strong case seems to exist for making sure economic policy does not penalize, and in fact, rewards, investors in equipment”; and that “measures that reduce the tax burden on new equipment investment are likely to be especially potent in maximizing the equipment investment engendered per dollar of government revenue forgone.”
+Finally, they noted that, “policies with an anti-equipment bias include tax rules that subsidize assets that can easily be levered … [and] pieces of equipment are frequently more difficult to use as collateral for debt than are investments in structures.”
+<P>
+Summers and DeLong attribute the large growth effects of equipment investment primarily to learning-by-doing effects, citing historical examples developed by, among others, my late Stanford University colleague Nathan Rosenberg.
+The potential outsize beneficial economic effects were developed in a classic paper by another late Stanford University colleague (and Summers’s uncle), Nobel laureate Kenneth Arrow.
+If increased investment leads to new technologies or improvements via learning that generate further technological advances, it will have a disproportionally larger growth effect.
+<P>
+I personally think there is something to be said for learning by doing.
+Consider hydraulic fracturing, the marginal cost of which has been halved in just the past decade, owing to experiments with new technologies and techniques.
+And my own research (with Stanford University’s Lawrence J. Lau) on growth in G7 countries suggests that the realized rate of technical progress rises with more capital.
+<P>
+A fourth point is that while Summers and DeLong’s academic work suggests that equipment investment should be subsidized, and structures taxed more heavily, Summers and Furman want expensing to be extended to structures – which are more likely to be debt-financed – as well as a smaller reduction in the corporate-tax rate.
+It is Summers’ prerogative to offer proposals that depart from his earlier work.
+I, too, revise my positions in accordance with changes in the economy and subsequent research – and much has changed since Summers and DeLong presented their research.
+<P>
+Global competition for investment, including lower corporate-tax rates among US competitors, seems to have strengthened the case for lowering the US statutory rate, which, at 39% (including state taxes), is the highest in the OECD, more than 50% above the average.
+The effective rate, which accounts for credits and deductions, is also high, but less anomalous.
+<P>
+In an analysis of recent academic research, Oxford University’s Michael Devereux finds that while marginal effective tax rates affect the level of business investment, the average effective rate has a much larger effect on where, internationally, investments are made.
+If he is right, then expensing and a higher tax rate – implying a low marginal and high average rate – would not be the best way to increase investment in the United States.
+<P>
+My own role aside, I believe that the current reform may well have deviated further from the ideal had we not offered our analysis and advice.
+The same was true when I and others were advising President Ronald Reagan and congressional leaders on the major tax reforms of 1981 and 1986.
+Many factors other than economists’ textbook policy proposals affect the final product.
+<P>
+Finally, I would emphasize the related point that the actual tax provisions people and businesses will be required to use have yet to be written, and will be determined partly by technical interpretations and regulations in the coming months.
+In the case of the 1986 reform, I was still getting calls from Committee staff weeks after it had passed, asking me what exactly I thought was meant by this or that provision.
+No one should expect this time to be different.

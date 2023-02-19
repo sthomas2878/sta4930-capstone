@@ -1,0 +1,46 @@
+<HEADLINE>
+The Driverless City
+<P>
+CAMBRIDGE – At the Consumer Electronics Show (CES) in Las Vegas last week, the roulette wheel of innovation landed on something rather old-fashioned and unexpected: the automobile.
+In recent decades, cars have been undergoing a gradual transformation from the kinds of mechanical systems Henry Ford might have imagined into computers on wheels.
+And that transformation is bringing with it a new wave of digital advances – above all, autonomous driving.
+<P>
+The first autonomous (or self-driving) cars date back to the late twentieth century.
+But recent increases in sophistication and reductions in cost – reflected, for example, in cheap LIDAR systems, which can “see” a street in 3D in a way similar to that of the human eye – are now bringing driverless cars closer to the market.
+<P>
+As we saw last week, several manufacturers are working toward integrating such systems into their fleets, and expect to start selling premium cars with different degrees of autonomy as early as 2016.
+According to a just-released IHS report, “sometime after 2050” virtually all vehicles on the road might be self-driving.
+<P>
+But what is the drive behind self-driving cars?
+Are there meaningful benefits beyond the convenience of keeping your hands off the steering wheel and thus being able to read a book, take a nap, or guiltlessly text?
+<P>
+At the CES, journalists were busy snapping pictures of driverless vehicles zooming through the streets of Vegas.
+But, had they turned their cameras around, they might have captured something far more interesting: the stage upon which the drama of self-driving will take place – the street itself.
+<P>
+Self-driving vehicles promise to have a dramatic impact on urban life, because they will blur the distinction between private and public modes of transportation.
+“Your” car could give you a lift to work in the morning and then, rather than sitting idle in a parking lot, give a lift to someone else in your family – or, for that matter, to anyone else in your neighborhood, social-media community, or city.
+<P>
+A recent paper by the Massachusetts Institute of Technology’s SMART Future Mobility team shows that the mobility demand of a city like Singapore – potentially host to the world’s first publicly-accessible fleet of self-driving cars – could be met with 30% of its existing vehicles.
+Furthermore, other researchers in the same group suggest that this number could be cut by another 40% if passengers traveling similar routes at the same time were willing to share a vehicle – an estimate supported by an analysis of New York City Taxis shareability networks.
+This implies a city in which everyone can travel on demand with just one-fifth of the number of cars in use today.
+<P>
+Such reductions in car numbers would dramatically lower the cost of our mobility infrastructure and the embodied energy associated with building and maintaining it.
+Fewer cars may also mean shorter travel times, less congestion, and a smaller environmental impact.
+<P>
+The deployment of more intelligent transportation systems promises to deliver similar benefits.
+Real-time data planning and smart routing are already a reality.
+Tomorrow’s autonomous vehicles will prompt another wave of innovation, from optimization of road capacity to intersection management.
+Imagine a world without traffic lights, where vehicular flows “magically” pass through one another and avoid collision.
+<P>
+But, while the world’s mobility challenges will increasingly be met with silicon rather than asphalt, encouraging widespread adoption requires guaranteeing that our streets are as safe – or safer – than they are today.
+That means that various redundancies must be introduced to ensure that if one component fails, another seamlessly takes over.
+<P>
+Traffic accidents, though rarer, would still be a possibility; in fact, they might be one of the main impediments to implementation of autonomous systems, demanding a restructuring of insurance and liability that could sustain armies of lawyers for years to come.
+<P>
+Finally, there is the fresh issue of digital security.
+We are all familiar with viruses crashing our computers.
+But what if the same virus crashes our cars?
+<P>
+All of these issues are urgent, but none of them is insurmountable.
+They will be resolved in the coming years as autonomy redefines mobility and sparks the next generation of innovations in the field.
+At that point, the smart money might favor something even more old-fashioned than cars: the city itself.

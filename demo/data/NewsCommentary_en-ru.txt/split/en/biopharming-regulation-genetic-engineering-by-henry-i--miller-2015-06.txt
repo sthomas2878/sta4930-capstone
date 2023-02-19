@@ -1,0 +1,42 @@
+<HEADLINE>
+Revolution and Reaction in Biopharming
+<P>
+STANFORD – Obtaining medicines from plants is not new.
+Aspirin was first isolated from the bark of the willow tree in the eighteenth century.
+And many other common pharmaceuticals, including morphine, codeine, and the fiber supplement Metamucil, are purified from the world’s flora.
+<P>
+More recently, scientists have developed techniques that take this process a step further, using genetic engineering to induce agricultural crops to synthesize high-value pharmaceuticals.
+Known as “biopharming,” the great promise of this technology emerged about 15 years ago, with clinical trials of vaccines and drugs produced in bananas, tomatoes, and tobacco.
+Unfortunately, progress has since stalled, owing to the vehement risk-aversion of regulators.
+<P>
+One early example of biopharming was the production by the biotech company Ventria Bioscience of rice that contained two human proteins, lactoferrin and lysozyme.
+Once grown and harvested, the rice kernel is processed to extract and purify the proteins for use in oral rehydration solution for treating diarrhea, which is surpassed only by respiratory diseases as the leading infectious killer of children under the age of five in developing countries.
+<P>
+The proteins have the same structure and functional properties as those found in natural breast milk, and the process for extracting them is analogous to that used routinely for the production of therapeutic proteins from organisms like bacteria and yeast.
+Research in Peru showed that fortifying an oral-rehydration solution with the proteins extracted from Ventria’s rice substantially lessens the duration of diarrhea and reduces the rate of recurrence – a near-miraculous advance for people in the developing world.
+<P>
+But regulators can undo miracles, and they regularly do.
+When Ventria approached the US Food and Drug Administration in 2010 for recognition that these proteins are “generally recognized as safe” (a regulatory term of art), it received no response.
+Without an endorsement by the FDA, the company was unwilling to market the product, and so it remains unavailable, tragically depriving children in developing countries of a life-saving therapy.
+<P>
+Even field testing biopharmed plants has proved problematic.
+In 2003, the US Department of Agriculture announced onerous new rules for testing crops engineered to produce pharmaceuticals.
+The ostensible objective of the regulation is to avoid contaminating food supplies with drugs, especially when edible crops are used to produce them.
+But the food industry’s worries that biopharmed plants could contaminate their products are overblown.
+And in any case, the risk can be mitigated in several ways, most obviously by using non-food plants like tobacco.
+<P>
+In fact, even if biopharmed plants were to contaminate food crops, the likelihood that consumers would end up with harmful amounts of prescription drugs in their corn flakes, pasta, or tofu is very small.
+Gene flow is an age-old process that is well understood by farmers, who grow hundreds of crops, virtually all of which have been genetically improved in some way with a variety of techniques.
+As a result, they have developed meticulous strategies for preventing pollen cross-contamination in the field – when and if it is necessary for commercial reasons.
+<P>
+Even if some crops were to become contaminated, the chances that active drug substances would be present in the final food product at sufficient levels to have an adverse effect on human health would remain very small.
+The biopharmed plant would be pooled into a large harvest, where its pharmaceuticals would be heavily diluted.
+The active agent would then need to survive milling and other processing, and then cooking, and it would need to be orally active, which protein drugs most often are not, because they are digested in the stomach.
+<P>
+The chance of all of this occurring is not zero, of course.
+But, with a combination of factors – including natural selection, farmers’ pursuit of their commercial self-interest, and liability concerns – militating against such a possibility, the odds are very long, and the impact would almost certainly be very low.
+When you weigh this against the possibility of the development of the drug industry’s Next Big Thing or, at the very least, a new method to produce high-value compounds at low cost, regulators’ preoccupation with such unlikely events appears to be misplaced.
+<P>
+Biopharming has much to offer us.
+If we are to reap what we can sow, however, we will need reasonable, science-based policies from regulators worldwide.
+Sadly, to borrow a phrase from the late Nobel laureate economist Milton Friedman, that is like wishing that our cats could bark.

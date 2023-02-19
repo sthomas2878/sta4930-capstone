@@ -1,0 +1,63 @@
+<HEADLINE>
+How Germany Lost its Einsteins
+<P>
+MUNICH – Why has Germany, the land of history-making innovators like Johannes Gutenberg and Albert Einstein, not produced high-tech giants like Google, Amazon, or Facebook?
+Some blame the stigma associated with failure in Germany for discouraging innovative entrepreneurship.
+Others point to high bureaucratic hurdles to starting a business.
+But there is another, more worrying reason why Germany has lost its innovative momentum: its potential pioneers from disadvantaged households are not getting the chance to thrive.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+According to the OECD, inter-generational earnings elasticity in Germany stands at about 50%, meaning that if person A’s parent earned double what person B’s parent earned, person A will earn, on average, 50% more than person B. With such persistent earnings differentials across generations, Germany has one of the lowest rates of inter-generational mobility in the OECD – where the average elasticity is 38% – and it seems to be declining.
+<P>
+Low rates of intergenerational mobility in the advanced economies often correspond to high rates of income inequality.
+What Princeton University economist Alan Krueger has called the “Great Gatsby curve” illustrates the connection between concentration of income in one generation and the ability of those in the next generation to move up the economic ladder.
+<P>
+In the United States, as high levels of income inequality – and the concomitant inequality of opportunity – impede inter-generational economic mobility, the country’s pool of potential innovators is shrinking.
+In groundbreaking recent research – The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility – Harvard economist Raj Chetty and his coauthors use Big Data to demonstrate this phenomenon – and the massive costs it implies.
+<P>
+Based on data about 1.2 million inventors and their parents – covering education, test scores, and earnings – the study showed that 8.3 children per thousand from the top 1% of households (in terms of income) become inventors.
+For below-median-income households, that figure drops to just 0.84 children per thousand.
+<P>
+This is not because children from high-income families are more gifted.
+According to The Opportunity Atlas, for every 1,000 third graders from higher-income households (the top 20% of earners) who score in the 90th percentile in mathematics, seven become inventors.
+Among children from lower-income households (the bottom 80%), that rate drops to just three in 1,000.
+<P>
+Of course, income is not the only determining factor.
+Only about two high-scoring girls per 1,000 become inventors, compared to six boys per 1,000.
+Race also has an effect, with black and Latino children, for example, being less likely than their white peers to become inventors.
+<P>
+What lies at the root of these differences?
+The Opportunity Atlas shows that communities with higher patent rates produce many more inventors per 1,000 children.
+But this is not because children of inventors somehow inherit a natural aptitude for innovation.
+<P>
+Instead, the answer may lie in exposure to innovation during childhood.
+Chetty and his colleagues found that the experience of seeing innovation happen is enough to spur children to innovate themselves.
+Their research also indicates that, if girls were exposed to stories of female inventors to the same extent that boys are exposed to those of male inventors, the gender gap in innovation would fall by half.
+<P>
+The economic implications of these findings are profound.
+The Opportunity Atlas estimates that, if women, minorities, and children from low-income families invented at the same rate as high-income white men, the innovation rate in the US would quadruple.
+<P>
+In Germany, income inequality is lower than in the US, and Germany offers free education for all, including at the tertiary level – a powerful social equalizer.
+But Germany’s rate of social mobility remains lower than that of the US – and the country is paying the price.
+In one recent survey, German entrepreneurs cited a lack of relevant talent as a major hindrance to start-up activity.
+<P>
+Clearly, Germany must do a better job of fostering innovative talent in its young people of all socioeconomic backgrounds, races, and genders.
+Judging by the findings of The Opportunity Atlas, this can be achieved through, say, tailored mentoring and internship programs that increase children’s exposure to innovation.
+<P>
+As it stands, Germany’s efforts to boost innovation focus on new tax incentives for research and development.
+But shaving a few percentage points from the taxes paid by leading inventors – who earn more than $1 million per year, on average – is unlikely to have an appreciable impact on their behavior.
+If the talent pool remains limited, tax incentives to promote innovation are more likely simply to increase the earnings of those who are already innovating, rather than increase the overall number of innovations.
+<P>
+Compounding this effect is the fact that it becomes more challenging to reach new frontiers as the total amount of knowledge grows.
+According to one estimate, producing the same amount of new knowledge today as 80 years ago requires some 20 times the number of researchers.
+<P>
+This implies that if Germany – or any country – is to reach its innovative potential, it will need a people-focused strategy.
+And that strategy must emphasize equality of opportunity and exposure to innovation, especially among the highest-scoring children.

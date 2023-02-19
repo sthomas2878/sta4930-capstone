@@ -1,0 +1,55 @@
+<HEADLINE>
+Mario Monti on Trial
+<P>
+Mario Monti, the European Union's Commissioner for Competition Policy, is often in the spotlight, usually to popular acclaim.
+Over the years, he has won important victories limiting state aid to business, one of Europe's most pernicious economic maladies.
+Today, however, the benefits derived from his achievements are at risk because of a series of stunning courtroom defeats.
+With a competition case against software giant Microsoft seemingly in the offing, Commissioner Monti will need to rediscover his footing fast.
+<P>
+Within a period of just a few weeks, the European Court of Justice (to which private parties can appeal decisions made by the Commission) voided three of Monti's decisions rejecting proposed corporate mergers.
+While the two issues, state aid and private mergers, are in principle separate, losing repeatedly on one battlefield undermines Monti's position elsewhere, particularly the battle against state aid.
+<P>
+The Court's rulings against Monti's decisions are devastating.
+In the Schneider/Legrand steel merger case, it cites "several obvious errors, omissions and contradictions in the Commission's economic reasoning" as well as a "procedural irregularity which constitutes an infringement of defense rights."
+The Tetra Laval case saw the Court denounce Monti's "economic analysis of the immediate anti-competitive effects," which it said was "based on insufficient evidence and some errors of assessment."
+<P>
+Finally, in the Airtours merger case, the Court rebuked the competition authorities for "decisions that are vitiated by errors" concerning issues that are "fundamental to any determination of the question of the creation of a collective dominant position."
+Worsening the injustice, in at least one case the Court's decision came too late for the companies involved to go ahead with their plans.
+<P>
+These cases raise important questions about both the substance and procedures of the European Commission's handling of competition policy.
+Start with the substance.
+The Court's verdicts leave the impression that competition policy in Europe is overly zealous.
+That condemnation matters, because passing judgment on the trade-off between the efficiency gains to be had from any merger versus the threat to competition is a subtle matter, not an ideological one.
+<P>
+In the Airtours/First Choice case, the Court ruled that the Commission failed to prove that the three leading tour operators, if merged, "would have an incentive to cease competing with each other."
+The Court rejected the Commission's conclusion that the merger would enable them "to interpret each other's business strategies more easily and to adopt those strategies themselves."
+Moreover, the Commission "failed to identify or demonstrate clearly" how the merged operators would enforce any "common policy."
+Finally, the Commission "underestimated" competitors' ability to react to "any attempted restriction of capacity," either by increasing supply or by entering "the relevant market quickly."
+<P>
+The Tetra Laval-Sidel case is particularly interesting because it shows the extent to Monti's team tends to second-guess private companies.
+The Competition Commission started from the premise that the current overlaps in the packaging markets will grow in the medium to long term.
+It then concluded that Tetra Laval, from its strong dominant position in the carton container market, will probably pressure its current customers wishing to switch over to PET packaging to use equipment produced by Sidel when they make that switch.
+<P>
+The Court agreed, in principle, that the merger could allow such leveraging to occur, but it found that the Commission did not prove that the merged entity would have an incentive to use this possibility.
+<P>
+We are confident that Monti's office could answer the Court's criticisms and that reasonable people can disagree on the subtleties of whether these mergers threaten competition enough to be rejected.
+But our point is different.
+Rather than putting proposed mergers by private companies under the microscope, Commissioner Monti should focus on his other mandate: safeguarding against state intervention and state aid to companies.
+In other words, Monti should think hard about redirecting his limited resources to the right battlefield.
+<P>
+To be sure, we are not arguing that Commissioner Monti should forget about the fight to make European product markets more competitive.
+In most European cities, taxi drivers are protected by limits on the number of licenses; the number of notary publics in many countries is similarly restricted, and the price of their services-which are typically of little economic value, but inescapable under existing administrative procedures -- correspondingly high.
+<P>
+These are important battles, and they are very close to citizens' hearts.
+But, like the fight against subsidies to businesses, these are battles that are directed against state intervention, not private companies.
+<P>
+The question of procedures concerns constitutional design.
+In the area of competition policy the Commission is, at least in the first instance, both prosecutor and judge.
+The Commission is authorized to open a case against a proposed merger and to decide on it.
+The parties involved can appeal to the European Court of Justice, but this takes time and a reversal of the Commission's decision typically produces no more than a moral victory to one of the parties.
+The time of the merger may have come and gone, as was the case in the Airtours/First Choice decision.
+<P>
+A division of responsibility between prosecutor and judge is a critical constitutional guarantee for private litigation.
+Competition policy in the United States is based upon this principle.
+It is one that Europe would do well to put into practice.
+Former President Giscard d'Estaing and the European Convention, please take note.

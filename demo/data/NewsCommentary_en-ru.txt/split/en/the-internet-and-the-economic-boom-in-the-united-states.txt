@@ -1,0 +1,33 @@
+<HEADLINE>
+The Internet and the Economic Boom in the United States
+<P>
+CAMBRIDGE: The Internet now pervades every area of business life; the jump in business activity over the Internet astounds.
+An important new report by the U.S. Commerce Department, "The Emerging Digital Economy", suggests that the Internet is reshaping not only American business, but the world economy.
+<P>
+In 1994, three million people, mostly Americans, used the Internet.
+In 1998, 100 million people over the world are connected.
+As recently as January 1995, there were around 27,000 business addresses on the Internet.
+By mid-1997, the number jumped to 764,000!
+A 1997 study suggests that around 10 million users in Canada and the U.S. used the Internet to make a retail purchase, up from 7.4 million six months earlier.
+As a share of total U.S. economic activity, "Information Technology" grew from 6.1% in 1990 to 8.2% in 1998, employing 7.4 million workers (or 6.2% of total employment).
+Investments in information technology (computers, software, and communications equipment) now account for 45% of total US investment.
+<P>
+The internet is now used for not only for retail sales, financial transactions (from banking to insurance to stock market purchases), inventory management, airline ticketing, online newspaper and magazine delivery, and management of transport logistics.
+<P>
+A few years ago, for example, chip-maker National Semiconductor managed a complicated delivery system linking its three factories and three subcontractors in Asia to its global network of customers.
+It decided to out-source this operation to Federal Express, which uses a sophisticated on-line system for managing global deliveries and sales.
+As a result, National Semiconductor saw its delivery cycle to customers cut from four weeks to one week, and distribution costs cut from 2.9% of sales to 1.2% of sales.
+<P>
+Several steps are needed to support a massive increase in the use of the Internet in these other locations:
+<P>
+* Liberalization of telecommunications, including entry of new private service providers, is crucial to reducing costs and spreading benefits.
+Countries that maintain state monopolies in telecommunications services are likely to fall further behind.
+Intense competition by telephone companies, satellite companies, cable tv companies, and others improve technology and cut costs.
+<P>
+* Governments must avoid self-destructive taxes, as many now lazily live off of the profits of their telecoms sector.
+<P>
+* Reliable standards for data encryption and protection of intellectual property rights, so that both customers and suppliers will have the confidence to do business electronically, must also come from governments.
+Without proper protections, suppliers will not send technical specifications of products over the Internet, and customers will be unable to complete Internet deals.
+<P>
+* Finally, the international community will need a new agreed legal standard for business contracts concluded over through electronic commerce.
+The UN Commission on International Trade Law is completing some such work, but needs the active support of leading governments to put such legislation into operation.

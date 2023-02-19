@@ -1,0 +1,61 @@
+<HEADLINE>
+Which Traffic Policies Work Best for Megacities?
+<P>
+CAMBRIDGE – Urbanization has many advantages.
+By bringing people together physically, cities inspire innovation and fuel opportunity.
+They bring workers closer to jobs and facilitate the diffusion of arts and culture.
+But the benefits of urban life are often accompanied by costs.
+<P>
+Perhaps none feels more burdensome – and downright infuriating – than traffic congestion.
+Packed roads and bumper-to-bumper traffic mean time wasted and workdays shortened.
+And stationary vehicles still emit huge quantities of exhaust fumes, damaging the environment and human health.
+<P>
+Many governments have tried to develop policies to reduce traffic congestion by making it more expensive to get behind the wheel.
+Since 2003, London has successfully implemented a congestion charge, while Singapore wants to use GPS technology to police its own congestion-pricing strategy.
+<P>
+But such policies are harder to implement in poorer countries, where technological capabilities and infrastructure are often lacking.
+That is why developing countries typically seek more basic policies to improve traffic flows.
+<P>
+For example, in India, Delhi’s suffocating air pollution has led the government to experiment with “even-odd” policies: individuals can drive only on certain days, based on the numbers on their license plates.
+But this approach has had minimal impact.
+Gabriel Kreindler of the Massachusetts Institute of Technology has shown that while the policy reduced congestion slightly, drivers circumvented the rule by switching to other vehicles.
+Vendors also started selling old plates so that drivers could change their tags as needed.
+<P>
+Sadly, India did not learn from other countries’ experience.
+Research by Lucas Davis of the University of California, Berkeley, had already shown that a similar policy, implemented in Mexico City in 1989, did not reduce air pollution – the intended goal – or significantly ease traffic congestion.
+As in Delhi, households in Mexico City found numerous ways to skirt the rules.
+<P>
+With these documented failures in mind, I worked with colleagues to study policies that might be more effective.
+With MIT’s Benjamin Olken and Kreindler, we examined the impact in Jakarta, Indonesia, of the widespread policy of high-occupancy vehicle (HOV) restrictions, which limit travel based on the number of passengers in a car.
+<P>
+Jakarta has some of the worst traffic gridlock in the world.
+Since the early 1990s, Jakarta’s government has sought to improve traffic flows with a rule that private cars driven during rush hours in the city’s central business district must contain three or more passengers.
+Just about everyone despised this “three-in-one” policy, and people often complained that it created further inconvenience, without reducing time spent on the road.
+Our research sought to quantify the policy’s true impact.
+<P>
+In defending the view that the policy was onerous and ineffective, drivers often pointed to an informal business of enlisting “professional” passengers.
+These “jockeys” would wait near the entry points of Jakarta’s three-in-one roads, and, for about 15,000 rupiah ($1.10), accompany drivers so their vehicle would be in compliance.
+Lone drivers in need of two additional passengers could hire a mother and baby.
+According to the policy’s opponents, what looked like carpooling was an evasion of it.
+<P>
+Eventually, the Jakarta government sided with the policy’s naysayers, announcing in March 2016 that the rules would be suspended indefinitely.
+<P>
+For researchers, this created a golden opportunity to measure the impact of a policy before its adoption and immediately after its repeal.
+To do that, we queried a Google Maps interface every ten minutes, 24 hours a day.
+With this real-time, crowd-sourced traffic data for each route previously under restriction, we were able to ascertain what happened to traffic flows after the policy was suspended.
+<P>
+The results were striking.
+Despite what drivers – and eventually the government – believed, the three-in-one policy was highly effective in reducing congestion.
+Our data showed that traffic congestion worsened significantly after the policy was rescinded.
+On Jakarta’s regulated roads, average speeds fell from 28 kilometers (17.4 miles) per hour to 19 kilometers per hour during the morning rush, and from 21 kilometers per hour to 11 kilometers per hour during the evening rush.
+<P>
+Moreover, we found increases in traffic at times of day that were not previously regulated, and more vehicles appearing on non-regulated roads in general.
+Thus, suspending the three-in-one policy produced more traffic and less carpooling.
+<P>
+These findings have implications for traffic-control measures in other cities.
+For example, our data imply that Jakarta’s HOV restrictions were more effective than London’s congestion pricing or Delhi’s even-odd policy.
+The findings also suggest that while Jakarta’s “jockeys” were a visible presence, they did not weaken the effect of the policy.
+<P>
+As megacities continue to emerge in many developing countries, strategies like Jakarta’s three-in-one approach can help reduce gridlock.
+But they can succeed in delivering benefits only if they are crafted wisely, enforced effectively, and studied well.
+People will always seek to circumvent regulations, but policymakers must consider all the evidence before they decide to take the off-ramp.

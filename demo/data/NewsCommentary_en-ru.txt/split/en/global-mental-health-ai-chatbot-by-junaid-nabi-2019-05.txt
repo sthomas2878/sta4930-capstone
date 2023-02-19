@@ -1,0 +1,73 @@
+<HEADLINE>
+An Intelligent Approach to Mental Health
+<P>
+BOSTON – A few years ago, toward the end of his life, my father battled severe depression.
+As a physician and professor, he did not lack access to mental-health care.
+But he had grown up in a society that stigmatized mental illness, and he was unwilling to seek professional help.
+As a son, it was devastating to watch my father suffer.
+As a public-health researcher, I gained a new awareness of the myriad systemic failures in the provision of care.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Scientists from around the world are now seeking to address the problems with “Countdown Global Mental Health 2030,” a “multi-stakeholder monitoring and accountability collaboration for mental health” launched in February.
+But, while this initiative is a positive step, it neglects a key element of an effective solution: advanced technology, especially artificial intelligence (AI).
+<P>
+Globally, the supply of psychiatrists and clinical psychologists is nowhere near sufficient.
+For example, in Zimbabwe, there are just 25 mental-health professionals for a population of over 16 million.
+While the country has produced some innovative and useful community-led initiatives, such as the “Friendship Bench,” their scalability is limited.
+<P>
+Lack of access to mental-health care is hardly a developing-country problem.
+In the United States, almost half of the population is unable to access comprehensive mental-health care, often owing to financial constraints.
+<P>
+Beyond access, there is the stigma issue, exemplified by my father’s experience.
+Clinical evidence indicates that stigma takes two forms.
+People who seek mental-health care may face public stigma in the form of discrimination and exclusion, owing to endemic misconceptions about mental illness.
+When those beliefs are internalized, sufferers may also struggle with self-stigma: low self-esteem, low self-efficacy, and unwillingness to pursue productive opportunities.
+<P>
+The consequences of failing to provide adequate care have been severely underestimated.
+According to one study, mental-health issues are responsible for 32.4% of years lived with disability and 13% of disability-adjusted life years (DALYs) – years of “healthy” life lost due to disease, disability, or untimely death.
+<P>
+The economic costs are enormous.
+According to a 2015 analysis, in the US alone, the total economic burden from mental health exceeds $210 billion annually.
+More than half of that is attributed to workplace absenteeism and productivity losses; another 5% is attributed to suicide-related costs.
+Companies’ efforts to circumvent the need for mental-health care by reminding workers to practice mindfulness are probably not as helpful as proponents claim.
+<P>
+What could help are AI-based solutions, such as chatbots.
+By mimicking natural language to sustain a conversation with a human user, these software systems could act as virtual therapists, providing guidance and support to those who have no alternatives.
+A randomized control trial reported by clinical psychologists from Stanford University showed that chatbots were significantly better at reducing the symptoms of depression than an information-only approach.
+<P>
+The sort of provisional mental-health care provided by chatbots would be particularly useful in communities with an inadequate supply of trained professionals.
+At a time of unprecedented access to smartphones in developing economies, Internet-based solutions would amount to a boon for mental-health accessibility.
+<P>
+Chatbots could also help overcome the stigma problem, because they can engage people who are otherwise reluctant to seek mental-health care.
+A recent study found that up to 70% of patients are interested in using mobile applications to self-monitor and self-manage their mental health.
+Once people initiate contact with a chatbot, another study indicates, they tend to express themselves more freely than they would with a human therapist, underscoring the priority people place on maintaining privacy and avoiding judgment when seeking to address a mental-health issue.
+<P>
+It is now up to clinicians, such as psychologists, to collaborate more extensively with AI developers.
+Several US universities have already launched programs that connect experts from clinical sciences with software engineers.
+These partnerships should be expanded to include universities, especially in countries with a large unmet need for mental-health care, in order to support the development of linguistically and culturally appropriate virtual therapists.
+<P>
+Involving more diverse actors in the development of algorithms would also help to address the issue of racial and gender discrimination that has cropped up in AI research.
+Researchers should use fully representative test groups, while taking care to adhere to stringent privacy and accountability protocols.
+<P>
+Of course, such initiatives cost money.
+Venture capital companies now spend $3.2 billion annually on global health research and development.
+They should expand the scope of their investments to include AI-enabled technologies for mental-health-care delivery.
+They could also fund competitions among socially conscious technology entrepreneurs, in order to spur further innovation in this area.
+<P>
+To be sure, AI-enabled mental-health interventions would not – and should not – replace human psychologists or psychiatrists.
+A chatbot cannot, after all, project real empathy.
+What it can do is screen for high-risk individuals, such as those with suicidal ideation, and potentially avert destructive behavior in the short term.
+<P>
+Demand and need often drive innovation.
+Unfortunately, that has not been true of mental-health care.
+It is time to invest in long-term, cost-effective, and scalable solutions that build mental-health care capacity.
+That effort must include expanded support for traditional services.
+But it should also take advantage of cutting-edge technologies like AI.

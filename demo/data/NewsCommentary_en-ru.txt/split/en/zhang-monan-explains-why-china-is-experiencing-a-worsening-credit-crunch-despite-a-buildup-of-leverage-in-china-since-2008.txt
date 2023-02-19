@@ -1,0 +1,58 @@
+<HEADLINE>
+China’s Liquidity Paradox
+<P>
+BEIJING – Consider this: Despite China’s swelling foreign-exchange reserves – the result of persistent current-account surpluses – market and interbank short-term interest rates are soaring.
+How did this happen, and what should policymakers do about it?
+<P>
+The problem is, at root, structural.
+China’s monetary stock is relatively abundant.
+As the world’s largest currency issuer, China’s broad money supply (M2) is 1.5 times larger than that of the United States, with an M2/GDP ratio of about 200%, compared to about 80% in the US.
+<P>
+China’s economy is also highly leveraged.
+In the years prior to the global financial crisis, China’s total debt hovered around 150% of GDP.
+But, since 2008, credit expansion has proceeded at a staggering pace, driving the debt/GDP ratio above 200%, with private credit alone (including to state-owned enterprises) amounting to 130% of GDP.
+<P>
+Moreover, China continues to attract huge amounts of cross-border capital, as advanced countries like the US pursue expansionary monetary policies.
+According to a recent renminbi credit report, the People’s Bank of China’s foreign-exchange reserves climbed to ¥27.5 trillion ($4.5 trillion) in September, up ¥126.3 billion from August – the largest monthly gain since April.
+At the same time, the PBOC’s new renminbi funds outstanding for foreign exchange – the amount of renminbi the central bank spends to purchase foreign-currency assets – totaled ¥268.2 billion, reflecting a monthly increase of almost ¥170 billion.
+<P>
+Instead of easing liquidity constraints, as expected, these gains have exacerbated them, reflected in a spike in the interbank interest rate in October, when the seven-day rate soared to 5% and the yield on ten-year government bonds reached a five-year high.
+It is here that the paradox plaguing Chinese economic policy lies.
+<P>
+Increasingly strained liquidity seems to be the consequence of all of the government’s recent actions.
+Earlier this year, the PBOC attempted to clean up its toxic assets and promote bank deleveraging.
+While these efforts contributed to a contraction in asset and debt growth, they also led to a severe liquidity squeeze that rocked financial markets and sent money-market rates soaring in June.
+<P>
+The PBOC has since resumed its reverse repo operations – purchasing securities from commercial banks with an agreement to resell them in the future – thereby injecting liquidity into the banking system.
+But, given a rising bidding rate, peaking capital costs, and restrictions on the downstream transfer of assets, these efforts seem unlikely to ease the strain.
+<P>
+Clearly, China’s problem is not insufficient assets or liquidity.
+Rather, capital-structure and maturity mismatches – a result of the rapid and uneven buildup of debt in the last five years – have distorted the allocation of resources, leading to non-performing, idle, and inefficient assets, thereby amplifying the financial system’s hidden flaws and increasing risk.
+<P>
+Furthermore, the financial system has become excessively dependent on credit, especially when it comes to risk assets.
+With financing channels extremely limited, banks have been forced to participate heavily, assuming substantial risk, which is aggravated by underdeveloped bond and stock markets.
+In such a concentrated risk environment, any shock could amount to a systemic blow to the financial sector.
+<P>
+Making matters worse, the financial sector is increasingly diverging from the real economy.
+As the money supply grows, capital efficiency declines.
+With a substantial share of financial resources being allocated to infrastructure and real-estate development, which have lower output efficiency, capital has tended to circle back into the financial system, instead of flowing toward activities in the real economy.
+<P>
+Finally, China’s balance-sheet recession has barely begun.
+Since 2008, liquidity-thirsty local governments have used a variety of measures, including off-balance-sheet loans and interbank debt financing, to channel capital into local-government financing vehicles and state-owned companies.
+This has driven up the debt ratios of governments, businesses, and banks, causing their balance sheets to deteriorate rapidly.
+Now, the pressure to deleverage is on – a process that will inevitably lead to liquidity tightening.
+<P>
+Debt repayment is critical to a functioning financial system.
+Indeed, according to the American economist Irving Fisher’s long established “debt-deflation” theory, when an over-indebted economy suffers a shock, the joint effects of debt and deflation can trigger a downturn.
+<P>
+Such an outcome would cause public- and private-sector balance sheets to deteriorate further, raising fears of default and increasing the cost of financing.
+Subsequent efforts to deleverage would cause balance sheets to contract and reduce the money multiplier, thereby diminishing confidence and hurting borrowing.
+<P>
+These changes in risk appetite are already contributing to a rising preference for cash.
+While cash hoarding pushes down nominal interest rates by reducing currency in circulation, the rapid decline in inflation will drive up the actual interest rate, thereby aggravating the debt burden.
+<P>
+In short, China’s liquidity troubles are rooted in the recent buildup of leverage, which has triggered debt deflation.
+With this in mind, macroeconomic policy should not only reduce borrowing and financing costs through cuts in interest rates and reserve requirements, but also work to strengthen balance sheets.
+<P>
+That means abandoning the investment-driven growth model, promoting deep monetary and financial reform, boosting investment efficiency and resource allocation, and improving the government’s functioning.
+This is a tall order – one that can be met only by a long-term commitment from policymakers.

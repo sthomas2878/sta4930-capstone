@@ -1,0 +1,69 @@
+<HEADLINE>
+The Case for Intelligent Industrial Policy
+<P>
+MUNICH – Earlier this year, German Economy Minister Peter Altmaier unveiled his “National Industrial Strategy 2030,” which aims to protect German firms against state-subsidized Chinese competitors.
+The strategy identifies key industrial sectors that will receive special government support, calls for establishing production of electric-car batteries in Europe, and advocates mergers to achieve economies of scale.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The planned measures are controversial.
+Lars Feld of the German Council of Economic Experts calls the strategy an aberration and has accused Altmaier of central planning.
+Yet this is not an ideological debate, as Feld suggests, but rather a question of whether such an industrial policy might work.
+And although not all aspects of Altmaier’s plan are convincing, there is a strong case for government support to sectors – including the automotive industry – that will increasingly rely on artificial intelligence (AI).
+<P>
+True, national industrial policies generally have a bad reputation among economists, mainly because governments have typically used such policies to support “losers,” thereby keeping uncompetitive firms in the market.
+The argument in favor of such policies, especially in developing countries, was that infant industries needed protection from foreign competition in order to grow and mature.
+But the World Bank concluded long ago that these policies had failed, turning its back on import-substitution programs in the 1960s and 1970s.
+<P>
+The emergence of strategic trade policy in the 1980s provided a theoretical foundation for an active industrial policy.
+In a perfectly competitive world market, the optimal export policy is not free trade, but a sufficiently small export tariff.
+But the situation changes if firms have market power and compete strategically with one another, as in the case of European aircraft manufacturer Airbus and its American rival Boeing.
+Here, subsidizing Airbus can result in that firm gaining market share from Boeing.
+<P>
+Altmaier and his French counterpart Bruno Le Maire recently used this rationale to push for a Franco-German rail-industry merger between Alstom and Siemens.
+They argued that the tie-up would produce a European champion capable of taking on the Chinese rail giant CRRC.
+<P>
+But their arguments were unconvincing.
+Whereas subsidizing Airbus created an additional competitor, the proposed Alstom-Siemens merger would have reduced the number of European rail companies.
+Moreover, as EU Competition Commissioner Margrethe Vestager pointed out when blocking the merger, Alstom and Siemens rarely compete with CRRC in third countries, because the Chinese company mainly focuses on its home market.
+So the merger probably would not have enabled Alstom-Siemens to capture market share from CRRC.
+<P>
+The case for government intervention is much stronger in sectors that have economies of scale, and where “learning by doing” creates knowledge that remains even after a state subsidy ends.
+This applies in particular to the many sectors that will soon be powered by AI.
+The more data a firm or a sector produces, the more it learns and the better the AI algorithm becomes.
+<P>
+Because of its large size, China has a comparative advantage in these sectors.
+The Chinese authorities have recognized this and have cleverly used state subsidies to promote AI and support domestic firms.
+To help counter this challenge, Germany and Europe should respond with their own subsidies to knowledge-based sectors.
+<P>
+Europe’s automotive industry is an obvious candidate for such support.
+This is why Altmaier’s plan to develop European battery production for electric cars make sense, and may even accelerate an industrial renaissance across the continent.
+<P>
+Producing electric-car batteries in Europe would attract more automotive companies and lead to lower car prices, because producers would need to import far fewer batteries from Asia.
+Such growth may in turn create a self-reinforcing agglomeration effect, as additional car companies move production to Europe in order to be near other auto firms and their suppliers.
+Paul Krugman and Anthony J. Venables outlined these backward and forward linkages in a well-known article more than two decades ago.
+<P>
+A sizeable electric-car industry in Europe would increase demand for labor and cause real per capita incomes to rise.
+And the more important battery cells are to the overall value of electric cars, the stronger the agglomeration effect will be.
+<P>
+This would be a momentous shift.
+China currently controls the entire value chain of electric cars, including the supply of cobalt, an essential raw material in battery manufacturing.
+As a result, China produces 69% of the world’s electric-car battery cells, the United States 15% (at Tesla’s “Gigafactory” in Nevada), and Europe just 4%.
+Nonetheless, Europe could still develop battery production by recycling old electronics, developing new cobalt-saving processes, and discovering alternative mineral deposits.
+<P>
+Some might argue that Europe should let its auto industry gradually migrate to China, which can make cars more cheaply.
+After all, consumers want to buy reasonable-quality cars at the lowest possible price.
+If the Chinese can produce them more efficiently, the argument goes, then let them do it.
+But, quite apart from the huge political and economic backlash such a decision would generate in Europe, this view is too simplistic.
+AI will be central to the future of the car industry, and advances in this field will have positive spillover effects in many other sectors.
+<P>
+If Europe gives up on its automotive industry, it will lose knowledge and future growth.
+The German government is therefore right to support the country’s carmakers.
+Far from being a relic of socialist central planning, industrial policy may sometimes be the intelligent choice.

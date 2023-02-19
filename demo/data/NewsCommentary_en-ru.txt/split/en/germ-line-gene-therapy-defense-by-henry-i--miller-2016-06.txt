@@ -1,0 +1,51 @@
+<HEADLINE>
+In Defense of Germ Line Gene Therapy
+<P>
+STANFORD – Human gene therapy has been one of the most ambitious goals of biotechnology since the advent of molecular techniques for genetic modification in the 1970s.
+But it has also been highly controversial.
+With the technology now reaching a milestone, discussions about its applications have reached fever pitch.
+<P>
+Until now, only one approach – somatic cell human gene therapy – has been viable.
+SHGT alters a patient’s genes by editing existing genes or inserting new ones, in order to correct conditions present at birth or acquired later in life.
+Somatic cells are any in the body except eggs or sperm; thus, modifications made to them are not heritable.
+During the last quarter-century, SHGT has achieved several successes, including the correction of rare genetic abnormalities that cause recurring pancreatitis or blindness from degeneration of the retina.
+<P>
+But another approach – “germ line gene therapy” (GLGT), which, by modifying sperm, eggs, or embryos, creates a heritable change that affects future generations – is now also approaching practicability.
+Last May, Chinese researchers published the results of a partly successful proof-of-principle attempt to edit genes with a system called CRISPR-Cas9, using nonviable embryos that were going to be discarded in any case.
+<P>
+The Chinese experiment precipitated a firestorm in the scientific community, with some researchers and bioethicists calling for an absolute ban on attempts to treat even imminently lethal diseases with gene-editing techniques that would affect germ cells.
+The move toward prohibition gained ground at a conference last December in Washington, DC, held under the auspices of the national academies of science of China, the United Kingdom, and the United States.
+The attendees called for what amounts to a moratorium on the gene editing of embryos leading to a pregnancy, concluding that it would be “irresponsible to proceed” until the risks were better understood and there was “broad societal consensus” about the research.
+<P>
+Several points about these recommendations warrant comment, beginning with the fact that the planning committee consisted almost entirely of people who do not actually treat patients and thus do not see firsthand the suffering of the afflicted and their families.
+Instead, the conference was heavily attended and influenced by bioethicists, whose discipline Harvard University’s Steven Pinker characterized (correctly, in my experience) as “fetishizing sweeping rubrics such as dignity, equity, social justice, sacredness, privacy, and consent at the expense of the health and lives of actual people.”
+<P>
+In fact, the conference was characterized by the kind of groupthink that embraces political correctness, is supremely confident of its moral rectitude, dismisses conflicting minority opinions, and produces poorly reasoned outcomes.
+Charis Thompson of the University of California, Berkeley and the London School of Economics quipped that outcomes should not be decided by the “charismatic megafauna” – that is, the eminences who may be deservedly renowned in their scientific specialties, but remain far from omniscient.
+<P>
+Of course, there are ethical limitations on gene editing technology; modifying normal embryos for implantation would be unethical.
+But nobody is proposing that.
+Diseases that are caused by an abnormal gene from either parent – such as Huntington’s Disease and the relatively common familial hypercholesterolemia, polycystic kidney disease, and neurofibromatosis type 1 – can easily be addressed without modifying embryos.
+Instead, one could perform pre-implantation genetic diagnosis to identify a normal embryo (the parents’ eggs and sperm would produce both affected and unaffected embryos), and then implant it in the uterus.
+<P>
+Not only does germ line gene therapy not require the manipulation of normal embryos; it may not even demand the manipulation of abnormal embryos.
+There are alternatives, including generating normal sperm from abnormal ones via tissue culture and gene editing, or culturing abnormal germ line stem cells outside the body and correcting them with gene editing.
+<P>
+But perhaps the most important point in the debate is the life-saving potential of GLGT.
+For example, it can correct debilitating and ultimately lethal sickle-cell anemia, in which the abnormal erythrocyte “sickle cells” obstruct small blood vessels, causing frequent infections, pain in the limbs, and damage to various organs, including the lungs, kidneys, spleen, and brain.
+The disease affects almost 300,000 newborns every year, mostly in sub-Saharan Africa, but also in other parts of the world; in 2013, it led to 176,000 deaths.
+<P>
+Sickle-cell anemia is what geneticists call an autosomal recessive disease, which means that an affected individual has inherited a defective hemoglobin gene from both parents, so that every one of his or her sets of chromosomes carries a defective gene.
+(The defect results in a single aberrant amino acid being inserted into the hemoglobin protein.)
+What is particularly significant is that every offspring of two patients with sickle-cell anemia will be afflicted with the disease.
+But with new, highly precise gene-editing techniques, such a molecular defect could be repaired; such procedures already have been performed successfully in monkeys.
+<P>
+Progress in this field moves extraordinarily fast.
+Two articles published in December show that an extremely high degree of precision and specificity of gene-editing is possible, and that anomalous cuts in DNA made by CRISPR-Cas9 can now be reduced to fewer than one per three trillion base pairs of DNA.
+(The human genome is three billion base pairs in length.)
+<P>
+Such high-level, fast-moving technologies are seldom successful right out of the gate; as they’re applied and refined, they improve, sometimes with astonishing speed.
+Of course, until they are perfected, they should be used sparingly and with appropriate scrutiny.
+But we must not be afraid to move forward.
+If we don’t take the first step, we will never reach our goal.
+When that goal is saving lives, standing in place is unjustifiable.

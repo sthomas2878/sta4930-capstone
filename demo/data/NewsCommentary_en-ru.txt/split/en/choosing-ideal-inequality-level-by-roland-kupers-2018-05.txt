@@ -1,0 +1,65 @@
+<HEADLINE>
+Getting the Inequality We Want
+<P>
+AMSTERDAM – Everyone, it seems, is talking about inequality.
+Media outlets publish article after article on the topic.
+Politicians include it in their speeches and platforms.
+Yet, even though economists like Thomas Piketty and Joseph E. Stiglitz have proved, through meticulous research, the causal link between inequality and policy choices, politicians have yet to establish what level of inequality they consider ideal.
+<P>
+Eliminating inequality, after all, is not the point.
+Too much inequality impedes social mobility, thereby potentially stoking political instability; as Stiglitz has often pointed out, it also tends to lead to weaker economic performance.
+Yet some amount of inequality is vital to create appropriate incentives, support competition, and provide reasonable rewards.
+That is why it is important to define what level of inequality is fair, and work actively to achieve it.
+<P>
+Whatever that level is, it seems clear it is lower than the actual level of inequality in much of the world today.
+Yet, far from establishing – or even debating – a specific target level to which to reduce inequality, politicians continue to allow it to rise.
+This will change only when policymakers treat inequality more like GDP growth, health care, or climate-change mitigation: as the subject of serious debate and concrete action.
+<P>
+They should start by considering the Gini coefficient, a simple and widely used measure of a country’s income or wealth distribution.
+Ranging from zero (fully equal) to one (fully unequal), the Gini coefficient is a straightforward mechanism for comparing inequality over time and across countries.
+While it is not perfect – reducing a country’s distribution of income or wealth to a single number inevitably requires some mathematical shortcuts – it is clear, functional, and broadly accepted.
+<P>
+But the Gini coefficient can be different, depending on what one is measuring: inequality of incomes or assets.
+These two kinds of inequality are obviously connected: income flows into assets, like a river flows into a lake.
+But there are key differences, exemplified by the fact that assets are much more unevenly distributed than income.The Year Ahead 2019h4 { text-align: center;}Featuring commentaries by Joseph Stiglitz, Sri Mulyani Indrawati, Angus Deaton, Célestin Monga, Jean-Claude Juncker, and other leading thinkers.
+Now available for pre-order.Learn moreGlobally, asset inequality ranges from 0.55 in Japan to 0.85 in Zimbabwe (notwithstanding questions about the quality of Zimbabwean data).
+In the developed world, asset inequality is particularly high – 0.80 – in Denmark, Switzerland, and the United States.
+It is particularly low – around 0.58 – in Ireland, Italy, and Spain.Income inequality ranges from 0.25 in Iceland to 0.64 in South Africa, though of course the figures differ depending on whether one is considering before- or after-tax income.
+All countries redistribute some income through taxation, but in vastly different proportions, with more unequal countries, such as the US and the United Kingdom, tending to redistribute more.
+Redistribution levels are the direct result of policy choices, which typically also reflect cultural and historical factors.The point is not to get lost in endless comparisons or arcane mathematics, but to underscore that it is possible – and, indeed, necessary – to have a meaningful discussion of inequality, based on concrete figures, with the goal of establishing clear targets.
+If the right targets are to be selected, the debate must be better informed.
+As it stands, surveys show that people tend to believe that inequality is lower than it actually is, but still higher than the level they would consider ideal.
+This is true in most countries – including in the US, where inequality is among the highest in the world – though there are a few countries, such as Norway, where people have a more realistic view.
+Correcting these misperceptions will change people’s opinions of redistributive policies.Moreover, the debate must account for all relevant perspectives.
+It should be noted, for example, that most economists argue that the ideal level desired by many would undermine economic performance, leaving everyone worse off.
+So, as with other complex issues, politicians need to balance voter aspirations with expert views.
+And because political factions will disagree (as they should) voters will be able to have their say as well.
+Inequality is not some inevitable, uncontrollable feature of any economy; like the level of redistribution, it is the direct result of policy choices.
+If it is too high, it is the responsibility of our leaders to choose different policies.
+<P>
+But the Gini coefficient can be different, depending on what one is measuring: inequality of incomes or assets.
+These two kinds of inequality are obviously connected: income flows into assets, like a river flows into a lake.
+But there are key differences, exemplified by the fact that assets are much more unevenly distributed than income.
+<P>
+Globally, asset inequality ranges from 0.55 in Japan to 0.85 in Zimbabwe (notwithstanding questions about the quality of Zimbabwean data).
+In the developed world, asset inequality is particularly high – 0.80 – in Denmark, Switzerland, and the United States.
+It is particularly low – around 0.58 – in Ireland, Italy, and Spain.
+<P>
+Income inequality ranges from 0.25 in Iceland to 0.64 in South Africa, though of course the figures differ depending on whether one is considering before- or after-tax income.
+All countries redistribute some income through taxation, but in vastly different proportions, with more unequal countries, such as the US and the United Kingdom, tending to redistribute more.
+Redistribution levels are the direct result of policy choices, which typically also reflect cultural and historical factors.
+<P>
+The point is not to get lost in endless comparisons or arcane mathematics, but to underscore that it is possible – and, indeed, necessary – to have a meaningful discussion of inequality, based on concrete figures, with the goal of establishing clear targets.
+If the right targets are to be selected, the debate must be better informed.
+<P>
+As it stands, surveys show that people tend to believe that inequality is lower than it actually is, but still higher than the level they would consider ideal.
+This is true in most countries – including in the US, where inequality is among the highest in the world – though there are a few countries, such as Norway, where people have a more realistic view.
+Correcting these misperceptions will change people’s opinions of redistributive policies.
+<P>
+Moreover, the debate must account for all relevant perspectives.
+It should be noted, for example, that most economists argue that the ideal level desired by many would undermine economic performance, leaving everyone worse off.
+So, as with other complex issues, politicians need to balance voter aspirations with expert views.
+And because political factions will disagree (as they should) voters will be able to have their say as well.
+<P>
+Inequality is not some inevitable, uncontrollable feature of any economy; like the level of redistribution, it is the direct result of policy choices.
+If it is too high, it is the responsibility of our leaders to choose different policies.

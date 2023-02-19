@@ -1,0 +1,60 @@
+<HEADLINE>
+Global Health Versus Online Trolls
+<P>
+BOSTON – The most frustrating part of my job as a public health scientist is the spread of false information – usually online – that overrides years of empirical research.
+It is difficult enough for doctors to counter medical falsehoods in face-to-face conversations with patients.
+It becomes even harder to do so when such fakery is transmitted via the Internet.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+I recently witnessed this pattern first hand in Kashmir, where I was raised.
+There, parents of young children trusted videos and messages on Facebook, YouTube, or WhatsApp that spread false rumors that modern medications and vaccines were harmful, or even that they were funded by foreigners with ulterior motives.
+Discussions with local colleagues in pediatrics revealed how a single video or instant message with false information was enough to dissuade parents from believing in medical therapies.
+<P>
+Physicians in other parts of India and Pakistan have reported numerous cases in which parents, many of them well educated, refuse polio vaccinations for their children.
+Reports that the CIA once organized a fake vaccination drive to spy on militants in Pakistan have added to mistrust in the region.
+Given the high stakes involved, states sometimes resort to extreme measures, such as arresting uncooperative parents, to ensure that vulnerable communities are vaccinated.
+<P>
+This is just one regional example of the global threat that online misinformation poses to public health.
+In the United States, a recent study in the American Journal of Public Health reported how Twitter bots and Russian trolls have skewed the public debate on vaccine effectiveness.
+Having examined 1.8 million tweets over a three-year period from 2014 to 2017, the study concluded that the purpose of these automated accounts was to create enough anti-vaccine content online to develop a false equivalence in the vaccination debate.
+<P>
+Such misinformation programs succeed for a reason.
+In March 2018, researchers from the Massachusetts Institute of Technology reported that false stories on Twitter spread significantly faster than true ones.
+Their analysis revealed how the human need for novelty, and the information’s ability to evoke an emotional response, are vital in spreading false stories.
+<P>
+The Internet amplifies the damage caused by these “alternative facts,” because it can disseminate them at massive scale and speed – a few fake or troll accounts are enough to spread misinformation to millions.
+And once it spreads, it is virtually impossible to retract.
+<P>
+The role of Twitter bots and trolls in the 2016 US elections and the United Kingdom’s Brexit vote is clear.
+Now they have affected global health as well.
+If we don’t take robust and coordinated steps to address this alarming trend, we may lose out on a century’s worth of successes in health communication and vaccination, both of which depend on public trust.
+<P>
+We can take several steps to start reversing the damage.
+For starters, health officials and experts in both developed and developing countries need to understand how this online misinformation is eroding public trust in health programs.
+They also need to engage actively with global social media giants such as Facebook, Twitter, and Google, as well as major regional players including WeChat and Viber.
+This means working in tandem to create guidelines and protocols for how information of public interest can be disseminated safely.
+<P>
+In addition, social media companies can work with scientists to identify patterns and behaviors of spam accounts that try to disseminate false information on important public-health issues.
+Twitter, for example, has already started using machine-learning technology to limit activity from spam accounts, bots, and trolls.
+<P>
+More rigorous verification of accounts, from the moment of signing up, will also be a powerful deterrent to the further expansion of automated accounts.
+Two-factor authentication, using an email address or phone number when signing up, is a prudent start.
+CAPTCHA technology requiring users to identify images of cars or street signs – something humans can do better than machines (for now, at least) – can also limit automated sign-ups and bot activity.
+<P>
+These precautions are unlikely to infringe upon any individual’s right to voice an opinion.
+Public health officials must err on the side of caution when weighing free-speech rights against outright falsehoods that endanger public welfare.
+Abusing the anonymity provided by the Internet, spam accounts, bots, and trolls serve to disrupt and pollute available information and confuse people.
+Taking prudent action to avert situations where lives are at stake is a moral imperative.
+<P>
+Global public health took huge strides forward during the twentieth century.
+Further progress in the twenty-first will come not only through ground-breaking research and community work, but also through online engagement.
+The next battle for global health may be fought on the Internet.
+And by acting quickly enough to defeat the trolls, we can prevent avoidable illnesses and deaths around the world.

@@ -1,0 +1,52 @@
+<HEADLINE>
+Measuring the Internet for Freedom
+<P>
+ROME – Last year, during a wave of deadly political protests in Ethiopia, the government blocked more than 15 media websites and the smartphone chat application WhatsApp.
+Sites promoting freedom of expression and LGBTQ+ rights, as well as those offering censorship-circumvention tools, such as Tor and Psiphon, were also suppressed.
+<P>
+All of this was uncovered through the use of software called ooniprobe, which is designed to measure networks and detect Internet censorship.
+Ooniprobe was developed more than five years ago by the Tor-supported Open Observatory of Network Interference (OONI), with which I work, in order to boost transparency, accountability, and oversight of Internet censorship.
+The software is free and open source, meaning that anyone can use it.
+And, indeed, tens of thousands of ooniprobe users from more than 190 countries have already done just that.
+<P>
+Those users have contributed to the collection of millions of network measurements, all of which are published on OONI Explorer, arguably the largest publicly available resource on Internet censorship.
+Thanks to their use of ooniprobe, we uncovered the extent of last year’s wave of censorship in Ethiopia, as well as details of many other cases of censorship elsewhere in the world.
+<P>
+In Uganda, local groups used ooniprobe during last year’s general election, when the government blocked social media.
+Ooniprobe’s network-measurement data not only confirmed the government’s action; it also uncovered which sites were blocked and the different methods used by Internet Service Providers (ISPs) to implement censorship.
+<P>
+Ooniprobe also came in handy in Malaysia in 2015.
+Facing accusations that he had transferred nearly $700 million from the state investment fund 1MDB to his personal bank accounts, Prime Minister Najib Razak attempted to block news outlets and blogs that reported on the scandal.
+It was ooniprobe’s network-measurement software that enabled Malaysian civil-society groups to collect data that serve as evidence of the blocking.
+<P>
+Of course, censorship is not always carried out to protect the politically powerful; it can also be used to reinforce social and cultural norms.
+In Indonesia, for example, low social tolerance for homosexuality may have played a role in the blocking of numerous LGBTQ+ websites, even though the country does not officially restrict LGBTQ+ rights.
+Similar factors may have influenced efforts to block sites perceived as overly critical of Islam.
+<P>
+In Thailand, ISPs have, in the last three years, blocked access to a number of sites that are perceived to be offensive toward the country’s royal family.
+But, here, there is a legal justification: Thailand’s strict prohibition against lèse-majesté protects the royal family’s most senior members from insult or threat.
+Other cases of legally justified Internet censorship include the blocking of sexually explicit websites in countries where pornography is prohibited.
+<P>
+Then there are cases where the motivation for censorship is unclear.
+Why, for example, has an online dating site been blocked in Malaysia?
+In some countries, ISPs appear to be censoring sites at their own discretion.
+According to ooniprobe data, multiple Thai ISPs simultaneously blocked access to different types of websites – from news outlets to Wikileaks to pornography – indicating that they likely received vague orders from authorities.
+<P>
+Before ooniprobe, such censorship was difficult to detect, leading to a lack of accountability, with governments and ISPs often denying any and all involvement.
+Even in cases where governments announce official lists of blocked sites, they may leave some targets off.
+Likewise, ISPs may not always comply with official orders to lift blocks.
+Vimeo and Reddit, for example, were recently found to be blocked in some networks in Indonesia, even though the official ban on those sites was lifted more than two years ago.
+<P>
+With ooniprobe, users are not only able to expose Internet censorship; they can also acquire substantial detail about how, when, where, and by whom the censorship is being implemented.
+OONI’s Web-Connectivity Test, for example, is designed to examine whether access to websites is blocked through DNS tampering, TCP/IP blocking, or a transparent HTTP proxy.
+<P>
+Other ooniprobe tests are designed to examine the accessibility of chat apps – namely, WhatsApp, Telegram, and Facebook Messenger – within networks, as well as that of censorship-circumvention tools, such as Tor, Psiphon, and Lantern.
+OONI also provides software tests that uncover the presence of systems (“middle boxes”) that could potentially be responsible for censorship or surveillance.
+<P>
+The depth of OONI data supports much-needed accountability and oversight.
+Lawyers can use OONI data to assess the legality of Internet censorship in their countries, and potentially introduce it as evidence in court cases.
+Journalists, researchers, and human-rights defenders can use the data to inform their work as well.
+And censorship-circumvention projects like Tor can use OONI findings on emergent censorship events to shape their tools and strategies.
+<P>
+OONI data can help enrich public discourse about the legality, necessity, and proportionality of Internet censorship.
+That makes it a critical tool for safeguarding human rights on the Internet and beyond.

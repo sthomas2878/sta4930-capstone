@@ -1,0 +1,64 @@
+<HEADLINE>
+Global Flows and Global Growth
+<P>
+BERKELEY – A growing share of the world’s economic activity involves cross-border flows.
+But just how interconnected is the global economy?
+How are cross-border flows among activities, sectors, and countries changing?
+How do national economies rank in terms of their cross-border flows or “interconnectedness”?
+And what are the implications for business and policymakers?
+<P>
+A new report from McKinsey Global Institute addresses these questions by analyzing the inflows and outflows of goods, services, finance, people, and data and communications for 195 countries over the past 20 years.
+<P>
+Both aggregate data and micro examples confirm that the world has become more tightly linked, with cross-border flows increasing in scope and complexity – and embracing a larger number of countries and participants within them.
+Despite a significant contraction from 2007 to 2009, resulting from the deep global recession, the combined value of financial flows and trade in goods and services was 36% of global GDP in 2012 – 1.5 times higher than in 1980.
+<P>
+The report also confirms that greater openness to global flows has been a significant source of economic growth for individual countries and worldwide.
+Overall, the research estimates that global flows have contributed 15-25% of global growth each year, with more interconnected countries receiving 40% more of the growth benefits than less interconnected ones.
+This is consistent with economic theory: interconnectedness fosters growth via productivity gains from specialization, scale, competition, and innovation.
+<P>
+Cross-border flows of goods, including commodities, remain the largest category, growing at 11% per year during the last decade and surpassing their pre-recession peak in 2012.
+Today, more than 35% of goods cross national borders.
+<P>
+Cross-border flows of services have also recovered to pre-recession levels and have been growing rapidly at 10% per year since 2002.
+Nonetheless, although services account for roughly two-thirds of world GDP, cross-border flows of services are less than one-quarter those of goods.
+<P>
+Cross-border flows of finance are still 70% off their pre-recession peak, yet even at today’s depressed levels they account for more than one-third of all global financing.
+By contrast, the cross-border flow of people, measured by the percentage of people living outside their country of birth, is small, hovering around 2.7% since 1980.
+But cross-border movements of people for short-term purposes – tourism, work-related travel, and education, for example – have been growing by 3.5-4.8% annually during the last decade.
+<P>
+And cross-border flows of data and communications have exploded, expanding by more than 50% per year since 2005.
+International telephone minutes have doubled, and cross-border Internet traffic has increased by 1,800%.
+Migration flows may not be gaining as a share of the world’s population, but as a result of digitization, people are more interconnected than ever before.
+<P>
+Digitization is also transforming cross-border trade flows in three ways: the creation of digital goods and services, such as entertainment and products manufactured by 3D printers; so-called “digital wrappers,” including tracking devices for physical flows; and digital sales platforms, such as eBay and Alibaba.
+<P>
+On eBay, for example, more than 90% of commercial sellers export products to other countries, compared to less than 25% of traditional small firms.
+Digital technologies are boosting global flows and competition, enabling even the smallest companies – and even individual entrepreneurs – to be “micro-multinationals.”
+<P>
+Knowledge-intensive flows requiring relatively high levels of human capital and research and development are now larger than labor-intensive, capital-intensive, and resource-intensive flows and are growing faster than all three.
+Flows of low-value, labor-intensive goods like apparel are declining as a share of global flows, while flows of R&D-intensive products, such as pharmaceuticals and business services, are gaining share.
+<P>
+By 2012, knowledge-intensive flows accounted for nearly half of the combined total value of flows of goods, services, and finance.
+This trend is an advantage for developed countries, which account for two-thirds of knowledge-intensive flows.
+China is the exception, claiming the second-largest share of flows (after the United States).
+<P>
+Traditional measures of an individual country’s global interconnectedness compare the size of its global flows to its GDP.
+According to these measures, smaller countries with smaller domestic markets appear to be more interconnected than larger ones.
+But this approach is misleading, because it does not consider a country’s share of global flows.
+The McKinsey report’s index of global connectedness remedies this shortcoming by considering both the size of a country’s global flows relative to GDP and its overall share of global flows.
+<P>
+<P>
+The MGI Connectedness Index shows Germany, Hong Kong, and the US ranking first, second, and third, respectively.
+But some major economies fall well behind.
+Despite strong exports, South Korea and Japan rank 20th and 21st out of 85 countries, because they lag on immigration and cross-border Internet traffic.
+China, which ranks 25th, has a strong export engine and large capital inflows but ranks low on people and data flows.
+<P>
+On average, emerging market economies rank lower than advanced economies, but several emerging market economies – including Morocco, India, Brazil, Saudi Arabia, and China – have improved their ranking significantly since the mid-1990’s.
+Today, emerging markets account for about 38% of global flows, triple their share in 1990.
+<P>
+Yet a “digital divide” between developed and emerging economies persists in both data and communication flows and knowledge-intensive flows – and that gap does not appear to be closing.
+Emerging economies produce 40% of global output, and are home to 80% of the world’s population, yet they account for only 24% of cross-border Internet traffic.
+<P>
+The economic gains of interconnectedness are significant, but so are the challenges.
+To capitalize on the opportunities of digitization and the shift to knowledge-intensive trade, countries must invest in talent and infrastructure; reduce barriers to cross-border flows of people and information, without jeopardizing their citizens’ privacy and security; and expose their producers to robust foreign competition while ameliorating the resulting costs of disruption for their communities and workers.
+If the gains from globalization are not widely shared, political support for greater openness to global flows will decline – as will the economic benefits that such flows create.

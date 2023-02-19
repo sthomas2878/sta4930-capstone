@@ -1,0 +1,57 @@
+<HEADLINE>
+Risky Retirement Business
+<P>
+CAMBRIDGE – The challenges posed by an aging population are manifold, and they are neither new nor unique.
+The populations of Italy and Japan have been declining for some time, and in the United States, numerous state governments’ large unfunded pension liabilities are a chronic problem.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+While low interest rates in most advanced economies have held down governments’ borrowing costs, they pose significant challenges for pension asset management.
+In real (inflation-adjusted) terms, returns on Japanese, German, and other European sovereign bonds have been negative for some time.
+Short-term interest rates on US Treasuries may have drifted higher as the Federal Reserve began to unwind its post-crisis stimulus policies (and may edge higher still after the Fed’s current pause), but longer-term US interest rates remain low by historical standards.
+<P>
+The two decades after World War II, as one of us has documented, were also characterized by low real returns on government bonds in both the US and elsewhere.
+Unlike now, however, that era boasted a much younger and faster-growing population.
+Furthermore, households had trivial debt levels by modern standards.
+The solvency of pension plans was not yet a concern.
+<P>
+Regardless of whether yields in advanced economies rise, fall, or stay the same, core demographic trends are unlikely to change in the coming years, implying that pension costs will continue to balloon.
+Since the creation of the US Social Security system in 1935, Americans’ life expectancy has risen by almost 17 years, while the retirement age has risen by less than two years.
+In 1946, the assets of pensions amounted to about 29% of US GDP; they have almost quadrupled since then.
+<P>
+<P>
+<P>
+<P>
+Understandably, the search for higher yields has become a higher priority, even for fully-funded pension plans.
+When unfunded liabilities (which represent the assets that pension funds will have to purchase in the future to meet their obligations) are included, the magnitudes soar even higher.
+<P>
+The search for higher returns has led US pension plans (excluding that of the federal government) to tilt toward equity markets in recent years.
+This trend has been evident among other investors as well, including some of the world’s largest sovereign wealth funds.
+But our recent work with Josefin Meyer suggests that another asset class can provide real long-term returns above those of “risk-free” US government securities.
+<P>
+In our study, we focus on external sovereign bonds and compile a new database of 220,000 monthly prices of foreign-currency government bonds, covering 91 countries, traded in London and New York between 1815 and 2016.
+Our main insight is that, as in equity markets, the returns on external sovereign bonds (largely bonds issued by emerging market countries and now-advanced economies) have been sufficiently high to compensate investors for risk.
+<P>
+Real ex post returns on external sovereign bonds averaged 7% annually across two centuries, including default episodes, major wars, and global crises.
+An investor entering this market in any given year received an average excess yearly return of around 4% above US or British government bonds, which is comparable to stocks and higher than corporate bonds.
+<P>
+The observed returns are difficult to reconcile with the degree of credit risk in this market, as measured by historical default and recovery rates.
+Based on our archive of more than 300 sovereign debt restructurings since 1815, we show that cases of full repudiation of sovereign debt are relatively rare and mostly connected with major revolutions (Russia in the early twentieth century, China’s Maoist regime, Cuba, and the European countries that fell under Soviet control following World War II).
+For the full asset class over two centuries, the typical haircut investors suffer in debt crises is below 50% – a smaller haircut than Moody’s estimates for US corporates over the past century.
+<P>
+The main driver of the higher ex post real returns is the comparatively high coupon these sovereign bonds offer.
+Beyond the return history itself, there is the fact that emerging and developing economies now account for about two-thirds of global GDP, compared to just one-third 50 years ago, when portfolio diversification was almost entirely a domestic affair.
+Adding to the attractiveness of a portfolio of emerging-market sovereign securities, its returns are not perfectly correlated with equity returns.
+Moreover, there is evidence that creditor rights and enforcement powers in external sovereign debt markets have increased in the wake of recent US court judgements.
+<P>
+These findings are not an invitation to embrace indiscriminate risk taking.
+Another wave of sovereign defaults may be ahead of us, and sovereign bonds can become highly illiquid in distress.
+Nonetheless, our results highlight the long-term gains from diversification into a growing but relatively under-studied asset class.
+And for pensions, the risks of relying on assets that offer negative or only very low long-term real returns are no less serious, especially as they compound over time.

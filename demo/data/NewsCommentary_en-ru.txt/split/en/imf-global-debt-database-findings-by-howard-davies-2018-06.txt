@@ -1,0 +1,61 @@
+<HEADLINE>
+The Anatomy of Global Debt
+<P>
+LONDON – At the end of May, the International Monetary Fund launched its new Global Debt Database.
+For the first time, IMF statisticians have compiled a comprehensive set of calculations of both public and private debt, country by country, constructing a time series stretching back to the end of World War II.
+It is an impressive piece of work.
+<P>
+The headline figure is striking.
+Global debt has hit a new high of 225% of world GDP, exceeding the previous record of 213% in 2009.
+So, as the IMF points out, there has been no deleveraging at all at the global level since the 2007-2008 financial crisis.
+In some countries, the composition of debt changed, as public debt replaced private debt in the post-crisis recession, but that shift has now mostly stopped.
+<P>
+Are these large figures alarming?
+In aggregate terms, perhaps not.
+At a time when economic growth is robust almost everywhere, financial markets are relaxed about debt sustainability.
+Long-term interest rates remain remarkably low.
+But the numbers do tend to support the hypothesis that the so-called debt intensity of growth has increased: we seem to need higher levels of debt to support a given rate of economic growth than we did before.
+<P>
+Perhaps that is partly because the growth in income and wealth inequality in developed countries has distributed spending power to those with a propensity to spend less than their income.
+That trend has leveled off recently, but the implications are still with us.
+It also seems that productivity growth has slowed, so a given quantum of investment generates less output than it used to do.
+<P>
+The IMF’s recommendation to governments is that they should fix the roof while the sun is shining: accumulate a fiscal surplus, or at least reduce deficits, in good times so that they are better prepared for the next downturn, which will surely come before too long.
+The current upturn is now quite mature.
+That puts the IMF on a collision course with the tax-cutting United States administration and now with Italy’s new government.
+If the Italians’ grandiose plans for a minimum income and more public investment are implemented, they might soon find themselves in difficult discussions with the Fund.
+The team that has been in Athens for the past few years might soon be booked on a flight to Rome.
+<P>
+But what are the implications if the growth in debt is principally in the private sector?
+That is a question for the financial stability authorities in each country.
+<P>
+Since the crisis, new, far tougher capital requirements have been introduced for banks, and a set of macroprudential tools has been developed for regulators.
+The idea is that regulators should be able to “lean into the wind” of excessive credit expansions, by increasing the amount of capital a bank must hold, with the aim of dampening the supply of credit before it reaches a dangerous level.
+The increase might be imposed across the board, or focused on mortgage lending, for example, if growth in house prices looks worryingly rapid.
+Other alternatives could be to impose maximum loan-to-value limits, or minimum down payments on home purchases.
+<P>
+New authorities were established to oversee the use of these new macroprudential tools.
+The European Systemic Risk Board, chaired by European Central Bank President Mario Draghi, does the job in the European Union, and the Financial Policy Committee (FPC) of the Bank of England has domestic jurisdiction in the United Kingdom, though the Governor of the Bank of England is also Deputy Chair of the ESRB.
+(What will happen to that position after Brexit is unclear.)
+In the US, the Financial Stability Oversight Council (FSOC) is the coordinating body.
+<P>
+But there are important differences between them.
+The FPC is in some ways the most powerful of the three.
+It can impose a countercyclical capital buffer on UK banks, and has at times threatened to do so.
+For a time, the Committee took the view that unsecured personal lending was growing too fast.
+<P>
+The ESRB cannot act discretely, but it monitors EU and EFTA member states closely and publishes regular reports.
+The most recent review, last month, showed that additional buffers are in force in Sweden, Norway, Iceland, the Czech Republic, and Slovakia, in response to the particular credit conditions in those countries.
+France has since joined the list.
+In the eurozone of course, the ECB is the supervisor, so Draghi can put on a different hat and act directly, if necessary, through his own staff.
+<P>
+The US position is less clear.
+The FSOC is a coordinator, not regulator with its own powers.
+It is a bowl in which the alphabet soup of US financial regulators is stirred from time to time.
+It has no authority over its members and cannot impose countercyclical buffers.
+Its attempts to categorize large US insurers as globally systemic firms have been thwarted by the courts.
+There are those at the US Federal Reserve who wish it were otherwise, recognizing that without the support of the FSOC, which is chaired by the Treasury Secretary, they will find it hard, if not impossible, to dig into the macroprudential toolkit.
+<P>
+We must hope, therefore, that the Basel-based capital requirements imposed by the various US banking regulators are adequate.
+So far, the ratios have not been cut, though other deregulatory initiatives, proposed by Trump appointees in the relevant agencies, are in the works.
+Macroprudential policy may be working as intended in Slovakia, but it is unlikely to come to the rescue where it needed the most: in the world’s biggest financial market.

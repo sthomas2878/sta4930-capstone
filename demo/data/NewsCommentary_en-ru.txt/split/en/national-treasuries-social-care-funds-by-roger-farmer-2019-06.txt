@@ -1,0 +1,77 @@
+<HEADLINE>
+Paying for the Welfare State Without Raising Taxes
+<P>
+LONDON – The current value of the US government’s unfunded pension and Medicare liabilities is $46.7 trillion, or roughly two and a half times US GDP.
+Other estimates put that figure much higher.
+In the United Kingdom, a similar calculation by the Adam Smith Institute yields a £1.85 trillion ($2.34 trillion) “hidden debt time bomb.”
+And the situation in Switzerland, France, Belgium, Germany, Austria, and Spain is little different.
+It seems that all advanced economies are facing public-finance trouble ahead.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Or maybe not.
+<P>
+What if there really is such a thing as a free lunch?
+What if there was a way to raise the money to pay for social-welfare programs, such as pensions and health care, without imposing extra taxes?
+In fact, there is: national treasuries should establish Social Care Funds that borrow money at low interest rates and invest the proceeds in the stock market.
+<P>
+According to one study of a century’s worth of data from 16 advanced economies, the return from investing in stocks was 6.96% higher, on average, than the return on government bonds.
+And there was remarkable consistency across countries.
+Denmark had the smallest equity premium, of 3.8%, while Japan’s was the largest at a whopping 9.89%.
+<P>
+There is some evidence that the equity premium has been a little lower in recent years, so let’s conservatively assume that it will be approximately 4% over the next 50 years.
+This implies that governments will be able to borrow from the public at a rate of 4% below the level of stock-market returns.
+How can that be, and why hasn’t some rich investor arbitraged this equity premium away?
+<P>
+Here, it helps to think of asset markets as existing to allow trades between different kinds of people, and specifically to allow the young to save for their old age.
+Taking that approach implies that market volatility has nothing to do with economic fundamentals.
+Rather, it reflects the animal spirits of investors, who engage in orgies of buying and selling stocks and shares, fueled by self-fulfilling waves of optimism and pessimism.
+According to this view of markets, volatility exists because almost all the people that you and I will trade with in the financial markets are not yet born.
+<P>
+In my book Prosperity for All, I call this the absence of a prenatal contract.
+Suppose, counterfactually, that such contracts did exist.
+In this make-believe world, the unborn would buy assets that pay off in bad states of nature, and they would pay a premium in good states.
+And perhaps surprisingly, the very existence of those trades would eliminate market volatility in the first place.
+In reality, however, asset markets are volatile because the unborn are not able to exploit arbitrage opportunities.
+Those opportunities are reflected in the equity premium.
+<P>
+But, although future generations are not yet around to trade in the asset markets, national treasuries can trade on their behalf.
+There is a massive free lunch staring us in the face.
+You and I can’t exploit it, and nor can Bill Gates or George Soros.
+Only the treasury of a sovereign country is rich enough to arbitrage away the equity premium, because only it can trade on behalf of the unborn.
+<P>
+To see how it would work in practice, consider the UK.
+Its GDP is approximately £2 trillion, and the value of all traded equities in the FTSE 100 index is roughly the same.
+The UK Treasury would first need to decide which assets it was willing to buy.
+I have previously suggested that it should purchase a broad value-weighted index fund consisting of every publicly traded share.
+The Treasury would then borrow money and invest in the index fund.
+<P>
+I would also propose that the UK Treasury start small – for example, by establishing a Social Care Fund of £100 billion.
+Assuming a 4% equity premium, investing this amount in shares would return £4 billion per year on average, or roughly what the UK currently raises in inheritance taxes each year.
+That’s not peanuts, but nor is it enough to fill the pension gap.
+<P>
+Still, if a trial of that size were successful, the scheme could be ramped up.
+If the Treasury were to borrow £1 trillion, equivalent to roughly 50% of UK GDP, and invest this sum in index funds, the expected revenue would be around £40 billion per year – not far short of what the UK currently raises through corporation tax.
+That is serious money, and has a present value of £1 trillion if capitalized at 4%.
+<P>
+What if the government lost its shirt?
+Wouldn’t a market crash of 10% or 20% devastate UK public finances?
+<P>
+No.
+In most advanced economies, governments take in the equivalent of at least 40% of GDP in tax revenues.
+The net present value of that revenue, capitalized at 4%, is ten times GDP.
+Governments therefore have very deep pockets with which to move markets if needed.
+Alternatively, a national treasury could choose to absorb its losses by riding out a major recession.
+After all, markets cannot remain irrational for longer than the treasury of a large advanced economy can remain solvent.
+<P>
+I am not a big fan of government intervention in markets.
+Anyone who suggests that there is a free lunch must first explain what governments can do that private individuals cannot.
+The explanation, in this case, is simple: governments can make trades on behalf of the unborn that leave all of us better off.
+Surely that’s a better way for national treasuries to pay for social welfare than trying to squeeze another £40 billion per year from an already overtaxed population.

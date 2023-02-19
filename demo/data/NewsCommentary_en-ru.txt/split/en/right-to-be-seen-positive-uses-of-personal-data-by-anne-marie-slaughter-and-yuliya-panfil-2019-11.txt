@@ -1,0 +1,64 @@
+<HEADLINE>
+The Right to Be Seen
+<P>
+WASHINGTON, DC – While much of the developed world is properly worried about myriad privacy outrages at the hands of Big Tech and demanding – and securing – for individuals a “right to be forgotten,” many around the world are posing a very different question: What about the right to be seen?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Just ask the billion people who are locked out of services we take for granted – things like a bank account, a deed to a house, or even a mobile phone account – because they lack identity documents and thus can’t prove who they are.
+They are effectively invisible as a result of poor data.
+<P>
+The ability to exercise many of our most basic rights and privileges – such as the right to vote, drive, own property, and travel internationally – is determined by large administrative agencies that rely on standardized information to determine who is eligible for what.
+For example, to obtain a passport it is typically necessary to present a birth certificate.
+But what if you do not have a birth certificate?
+To open a bank account requires proof of address.
+But what if your house doesn’t have an address?
+<P>
+The inability to provide such basic information is a barrier to stability, prosperity, and opportunity.
+Invisible people are locked out of the formal economy, unable to vote, travel, or access medical and education benefits.
+It’s not that they are undeserving or unqualified, it’s that they are data poor.
+<P>
+In this context, the rich digital record provided by our smartphones and other sensors could become a powerful tool for good, so long as the risks are acknowledged.
+These gadgets, which have become central to our social and economic lives, leave a data trail that for many of us is the raw material that fuels what Harvard’s Shoshana Zuboff calls “surveillance capitalism.”
+Our Google location history shows exactly where we live and work.
+Our email activity reveals our social networks.
+Even the way we hold our smartphone can give away early signs of Parkinson’s.
+<P>
+But what if citizens could harness the power of these data for themselves, to become visible to administrative gatekeepers and access the rights and privileges to which they are entitled?
+Their virtual trail could then be converted into proof of physical facts.
+<P>
+That is beginning to happen.
+In India, slum dwellers are using smartphone location data to put themselves on city maps for the first time and register for addresses that they can then use to receive mail and register for government IDs.
+In Tanzania, citizens are using their mobile payment histories to build their credit scores and access more traditional financial services.
+And in Europe and the United States, Uber drivers are fighting for their rideshare data to advocate for employment benefits.
+<P>
+But much more could be done.
+For example, after homes are destroyed by storms, victims are often unable to qualify for rebuilding assistance because they can’t prove they are the homeowner or occupant.
+Yet they could use their Google location history to show authorities that for the last five years they had slept in the very spot on which the home had stood.
+They could present their mobile payment records to show that they paid to put a new roof on the home or a fence around the yard.
+Or they could present a series of geotagged Facebook photographs of themselves and their family in the living room of their home.
+<P>
+None of these individual data points is dispositive, but together they weave a rich tapestry of evidence.
+In places where no alternative record exists, or where the record has been destroyed by conflict or disaster, this digital proof can be life-changing.
+<P>
+The crucial question, of course, is how to balance the risks of a surveillance state against the power of technology to deliver services and protect fundamental rights.
+Put more simply, it’s not as if those who would like to use their data for good want to sacrifice their privacy; they want the power to control that balance themselves, rather than being at the mercy of corporate giants and government agencies.
+<P>
+The answer lies, at least in part, in empowering people to use their own data to prove vital facts about themselves, advocate for their own interests, and advance their own goals.
+This bottom-up approach upends the traditional power structures in which governments and commercial actors collect large troves of data to advance their own goals.
+It’s a powerful leveler.
+<P>
+The Center for Data Innovation has observed that “to take advantage of [data-driven innovations], individuals must have access to high-quality data about themselves and their communities.”
+This is absolutely true, and it speaks to the problem of data poverty and the social and economic inequalities that result from a lack of collection or use of data about certain groups of people.
+But we must go a step further: individuals must be empowered to have good data about themselves and also to use that data to advance their own goals.
+<P>
+Privacy advocates are leading important efforts to allow citizens to control who uses their data, for what, and under which circumstances.
+These endeavors allow us to say “no” to surveillance and over-exposure.
+But let’s also empower communities to say “yes” to using their data as they choose, and reaping the benefits.

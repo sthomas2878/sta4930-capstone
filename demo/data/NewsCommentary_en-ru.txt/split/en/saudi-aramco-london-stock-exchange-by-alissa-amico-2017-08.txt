@@ -1,0 +1,61 @@
+<HEADLINE>
+A Regulatory Race to the Bottom?
+<P>
+DUBAI – Amid intense competition for the anticipated listing of Saudi Aramco – the world’s largest oil company, owned by the Saudi state – stock exchanges and financial-market regulators are under pressure to provide incentives for the company to dual-list its shares abroad.
+The United Kingdom’s Financial Conduct Authority (FCA) seems to be bowing to that pressure.
+<P>
+Last month, the FCA issued a proposal to relax listing conditions for state-owned issuers wishing to qualify for the London Stock Exchange (LSE) Premium Listing Segment – the exchange’s “gold standard” segment, governed by stringent regulations.
+The proposal is presented as a mere technicality, but it is significant for reasons that extend beyond Saudi Aramco.
+In fact, it implies that regulators now believe that state-owned enterprises (SOEs) deserve special regulatory treatment.
+<P>
+In its consultation paper, the FCA states that “sovereign owners tend to be different from private-sector individuals or entities both in their motivations and in their nature.”
+It is a valid assumption – and precisely the reason why SOEs should notbe given preferential regulatory treatment.
+<P>
+Yet the FCA’s proposal would exempt SOEs accepted to the Premium Listing Segment from rules on related party transactions, if more than 30% of ownership is sovereign.
+In practice, this would mean that transactions between a listed SOE and the state would not be subject to the approval of minority shareholders.
+A listed SOE could therefore continue to perform social obligations unrelated to its core business, with shareholders unable to interfere.
+<P>
+The debate over the FCA proposal reflects a broader struggle that has been going on in capital markets since 1993, when the Stockholm Stock Exchange was converted into a privately held firm.
+After that, developed-country stock exchanges increasingly functioned as profit-oriented utility companies, rather than as sources of national pride, like airlines or sport teams.
+<P>
+As this shift has taken place, some powers were removed from stock exchanges, in order to safeguard against potential conflicts of interests, including the temptation to dilute regulatory standards to secure profitable listings.
+These powers were transferred to financial regulators, who were assumed to be sufficiently independent and therefore insulated from political pressure.
+<P>
+The FCA proposal suggests that this assumption may no longer be credible, at least not in a United Kingdom hurtling toward Brexit, which has put the City of London’s reputation as a leading global financial center at risk.
+The question is whether this proposal is indicative of a new regulatory race to the bottom – and, if so, what consequences investors might face.
+<P>
+To put matters into context, emerging-market companies account for a majority of the capital raised globally – 63% in 2008-2011, according to OECD estimates.
+SOEs account for 23% of total emerging-market capitalization, compared to a global average of 13%.
+<P>
+International stock exchanges remain of interest to large emerging-market companies, including SOEs, which may be unable to attract sufficient foreign institutional investors at home.
+Already, a number of blue chip Middle Eastern corporates are listed on the LSE, though none complies with the Premium Listing Segment requirements.
+<P>
+Moreover, governments in a growing number of emerging-market economies in the Middle East and elsewhere are considering privatizing energy and industrial SOEs.
+For example, Abu Dhabi’s national oil company, ADNOC, has announced plans to list its own retail business.
+That is why the FCA is looking to introduce a structural exemption, instead of simply making an exception for Saudi Aramco.
+<P>
+Yet SOEs carry particular governance risks, exemplified in the corruption investigation into Brazil’s Petrobras, which is listed domestically and on the New York Stock Exchange.
+The retreat of government-linked companies from Russia and Central Asia from the LSE in recent years reflects similar risks.
+<P>
+The FCA proposal assumes that “investors and the market are sufficiently able to assess the additional risks arising from sovereign ownership.”
+But this is questionable.
+Leading international marketplaces are dominated by institutional investors, a growing share of which are passive index followers that lack incentives to invest in governance oversight.
+Last year alone, passive funds grew 4.5 times faster than actively managed funds, narrowing the gap between the $23.9 trillion in actively managed assets and $6.7 trillion in passively managed assets.
+<P>
+The rise of passive investors, such as Vanguard Asset Management, is facilitated by the same regulators who are encouraging the relaxation of listing standards for SOEs, as they seek to ensure lower management fees in the asset-management industry.
+With the expansion of passive investing set to continue, it is plausible that international institutional investors will have even less incentive to monitor governance in the long term.
+<P>
+But active institutional investors may also be unable to play a stewardship role.
+For example, Norwegian Government Pension Fund Global, the world’s largest sovereign-wealth fund, has complained about Snapchat’s inclusion in the FTSE, which prevents it from voting its shares, even as it is forced to invest, since it tracks the index.
+While the inclusion of SOEs in the LSE’s Premium Listing Segment does not guarantee their inclusion in the FTSE – the latter requires 50% free float for non-UK issuers – one derogation could pave the way for another.
+And, in fact, without inclusion in the FTSE, the motivation for listing SOEs in the LSE’s Premium Listing Segment is unclear.
+<P>
+In any case, if listed SOEs are included in global indexes, investors would be exposed to companies that can transact with their government owners, without consulting other shareholders.
+While it may seem excessive to require the Saudi government, which owns 95% of Aramco, to consult with the remaining shareholders, an LSE Premium Listing usually requires just 25% equity.
+<P>
+The FCA proposal to give preferential treatment to SOEs clearly puts institutional investors at risk.
+This is the case for developed-economy investors, who may follow indexes or lack the resources to engage in stewardship with politically powerful SOEs.
+And it may be the case for emerging-market investors, if local regulators or exchanges also exempt SOEs from corporate-governance requirements.
+<P>
+The political economy of capital markets today does not reward those who resist a regulatory race to the bottom.
+The ball is in the regulators’ court.

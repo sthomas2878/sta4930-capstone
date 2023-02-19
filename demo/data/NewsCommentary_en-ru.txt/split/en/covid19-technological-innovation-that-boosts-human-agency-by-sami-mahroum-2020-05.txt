@@ -1,0 +1,57 @@
+<HEADLINE>
+Automation and Human Agency
+<P>
+DUBAI – Nobel laureate Amartya Sen defined human agency as “what a person is free to do and achieve in pursuit of whatever goals or values he or she regards as important.”
+At a time of mounting fears over artificial intelligence and job-destroying robotics, the COVID-19 crisis is a powerful reminder that, when it comes to driving an economy, there is no substitute for human agency.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Many view the COVID-19 pandemic as a likely catalyst for further automation.
+By highlighting the vulnerability of human workers and amplifying calls for stronger worker protections and benefits like paid sick leave, the crisis could spur businesses in many industries to invest in robots.
+<P>
+But there is no reason to believe that more robots would have saved the economy from a lockdown-induced COVID-19 recession.
+Many supply chains were already highly automated, and yet suffered disruptions.
+Robot-run and human-staffed production plants alike have been shut down.
+The most robot-intensive industries in some of the countries with the highest robot densities (China, Germany, Japan, South Korea, and the United States) are laying off thousands of workers.
+<P>
+The real lesson of the COVID-19 crisis is not that robots are the key to economic dynamism, but that they mean little without human agency.
+After all, at the most fundamental level, that is what lockdowns and other social-distancing protocols have eliminated: people’s ability to “do and achieve” what they want.
+<P>
+No matter how fast, cheap, or efficient robots are, they cannot compensate for the human ambition, desire, need, and greed that ultimately drive supply and demand.
+That is why, when the crisis erupted, governments did not rush to finance automation, in order to reopen factories without human workers.
+Instead, they focused on getting money into people’s pockets and enabling them to continue exercising their agency.
+<P>
+It is time to take this approach further.
+The first step is to abandon the prevailing man-versus-machine narrative, with its narrow focus on supply-side efficiency, in favor of a machine-for-man framework, focused on leveraging technological progress to enhance human agency – and, thus, the demand that fuels an economy.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+For example, fully automating a factory may boost productivity or reduce labor costs, but it does nothing to strengthen human agency.
+On the contrary, by eliminating jobs for human workers – essential to enable them to invest and consume – it could have the opposite effect.
+<P>
+But there are ways to offset that impact – and not only oft-discussed supply-side interventions (such as training to enable displaced workers to fill better jobs), but also demand-focused measures.
+For example, advanced last-mile delivery solutions, using unmanned aerial or ground vehicles, would support humans’ agency as consumers.
+By improving mobility, technologies like self-driving cars would similarly enhance human agency.
+<P>
+The power of such a machine-for-man model has been evident during the COVID-19 lockdowns.
+Whereas not even the highest-performing machines have been able to keep factories open, agency-enhancing technologies have generated growth in many sectors toward which demand has been channeled.
+Video-conferencing apps, online learning and entertainment, and e-commerce platforms could be just the start of a broader machine-for-man economic transformation.
+<P>
+The same phenomenon can be seen on the supply side.
+Companies whose workers can do their jobs remotely have not suffered the same shock as companies that had to suspend operations.
+Moreover, workers are often more productive at home than in an office.
+In this sense, the more jobs can be performed remotely, the more dynamic – and less vulnerable to shocks – the economy becomes.
+Yet, as it stands, only 37% of US jobs can be performed remotely.
+In Switzerland, that figure is 45%.
+<P>
+The current crisis is far from the first demonstration of technology’s agency-enhancing power: development studies have highlighted technology’s ability to enable more people to participate in the economy.
+But the lockdowns – a third of the world’s population is sitting idle at home – show that agency gained can be suddenly and drastically reduced.
+Technology is vital to ensure that, even if freedoms must temporarily be curtailed, humans have opportunities to exercise agency.
+<P>
+As the COVID-19 crisis spurs increased public investment in related research and development, governments have a valuable opportunity to advance that imperative by funding agency-enhancing projects in a range of areas, such as augmented reality and haptic technologies, assisted living, the Internet of Things, and collaborative robots.
+Despite all the talk about supply chains, policymakers should look beyond relieving such constraints and consider what it will take to sustain demand amid serious shocks – from disease outbreaks to natural disasters – that impede economic and social activity.
+<P>
+But investment alone is not enough.
+To maximize innovation and minimize disruptions, governments should come together to enact the appropriate legal, regulatory, and institutional support systems to guide the development and implementation of new technologies.
+While breakthroughs often represent a stroke of genius, ensuring that they serve the public good – including by enhancing human agency – is a matter for us all.

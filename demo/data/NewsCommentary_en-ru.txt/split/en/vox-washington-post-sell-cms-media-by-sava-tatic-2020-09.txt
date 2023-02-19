@@ -1,0 +1,66 @@
+<HEADLINE>
+Don’t Buy Bezosware
+<P>
+PRAGUE – When it comes to news media’s declining health, technology has been viewed as both the cause and the cure.
+When the Internet upended traditional news organizations’ business model in the mid-1990s, later technologies – from social media to micropayments – formed the foundations of a new model.
+Today, however, innovation is again threatening journalism’s health – and this time, the damage is largely self-inflicted.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Modern newsrooms depend on content-management systems, which enable journalists to plan, write, edit, and publish news copy.
+Yet virtually every journalist has a horror story about their publication’s CMS.
+A few years ago, the online trade magazine Digiday compiled some of those accounts – and painted a devastating picture of lost content and lost time.
+In the words of one writer, performing tasks in their publisher’s CMS “was a shitshow.”
+<P>
+Major media companies – especially Vox Media and the Washington Post – see opportunity in the CMS chaos, and are now marketing their own systems to others.
+Why are these organizations suddenly so keen to sell their internal tools to other outlets?
+<P>
+The obvious answer is revenue.
+Vox is failing to meet revenue targets through advertising alone.
+Washington Post executives believe that licensing its CMS, Arc Publishing, could generate as much as $100 million annually.
+<P>
+And they are not alone: while CMS solutions, which are complicated to build and install, bring in the most money, publishers of all sizes are hawking other types of bespoke software, from newsletter technology and story templates to direct-to-consumer texting tools.
+In fact, as media watcher Max Willens has noted, publishers are “beginning to act more like digital product companies that sell services to clients rather than advertising to brands.”
+<P>
+Yet one-off sales of proprietary software may not be the final objective, especially for major players like the Washington Post.
+According to industry analyst Ken Doctor, the Post’s owner, Jeff Bezos, views Arc as a network of tools that could ultimately underpin all aspects of a publisher’s business, from content creation to advertising and subscriptions.
+This vision reflects the same blueprint Bezos used to turn Amazon Web Services (AWS) into one of the world’s most profitable cloud computing platforms: build a technology for internal use, then license it to the world.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But the formula that AWS used to drive innovation in cloud computing could stifle it in journalism, because the Post, like most software-selling publishers, is both the product’s chief developer and its biggest customer.
+If Arc sales grow – it currently has dozens of clients globally – customer priorities will complicate product-development strategies.
+“Over time,” Willens warns, “publishers may have to consider whether their product roadmaps should be driven by client needs or their own.”
+Given AWS’s market-dominating trajectory, it is not hard to predict how Arc will bend.
+<P>
+Similar concerns have arisen in other areas where Bezos operates.
+For instance, tech billionaires are funding solutions to the coronavirus crisis, stepping in where governments are failing – and solidifying their political and corporate power in the process.
+When those same billionaires start bailing out struggling news organizations, as they might, the white knights of journalism could also threaten its independence.
+<P>
+Another concern, especially for smaller publishers, is the price of a proprietary CMS.
+Fees for an annual license to Vox’s Chorus are in the six- and seven-figure range.
+More established solutions such as EidosMedia’s Méthode can cost millions.
+In 2014, for example, News Corp Australia spent an estimated A$60 million ($43 million) implementing Méthode.
+This raises the specter of a future in which only the biggest, most profitable news outlets can afford a state-of-the-art CMS.
+<P>
+To avoid being left behind, smaller publishers need an effective and affordable option.
+Fortunately, a solution already exists: open-source software.
+<P>
+By definition, open-source software – which is built on a freely accessible code base – is collaborative, flexible, and customizable.
+So, unlike expensive, rigid, and often outdated proprietary systems, an open-source CMS can easily be scaled up and adapted to changing industry conditions.
+<P>
+Most out-of-the-box open-source options, such as Drupal and WordPress, are poorly optimized for news organizations, which have complex workflows and specific design needs.
+Recognizing these limitations, WordPress is working with Google to develop Newspack, a CMS designed specifically for small- and medium-size publishers.
+<P>
+But Newspack is unlikely to be the media industry’s digital Holy Grail.
+For starters, annual fees for larger publications will approach $25,000 – a high price for an open-source solution.
+Perhaps more problematic, the top-down approach to developing the software means that, at least in the beginning, news organizations will have to adapt to whatever WordPress releases, rather than vice versa.
+<P>
+Over nearly two decades helping news organizations shift from legacy systems to open-source publishing solutions – including one that I helped to develop, called Superdesk – I have seen firsthand the critical importance of collaboration.
+Only by working with journalists can one hope to create effective software solutions for journalists that are innovative, affordable, adaptable, and easy to update to reflect changing circumstances and priorities.
+<P>
+News organizations are not tech companies.
+Their efforts to act as if they were are self-serving and could further devastate an already-beleaguered industry.
+Rather than sell their own digital products, rival media organizations should invest in a shared code base to address common challenges.
+Only then can they find the resources to compete where it counts: in the quality of their journalism.

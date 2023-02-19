@@ -1,0 +1,51 @@
+<HEADLINE>
+A Normative Approach to Preventing Cyberwarfare
+<P>
+CAMBRIDGE – A series of episodes in recent years – including Russia’s cyber interventions to skew the United States’ 2016 presidential election toward Donald Trump, the anonymous cyber-attacks that disrupted Ukraine’s electricity system in 2015, and the “Stuxnet” virus that destroyed a thousand Iranian centrifuges – has fueled growing concern about conflict in cyberspace.
+At last month’s Munich Security Conference, Dutch Foreign Minister Bert Koenders announced the formation of a new non-governmental Global Commission on the Stability of Cyberspace to supplement the UN Group of Governmental Experts (GGE).
+<P>
+The GGE’s reports in 2010, 2013, and 2015 helped to set the negotiating agenda for cybersecurity, and the most recent identified a set of norms that have been endorsed by the UN General Assembly.
+But, despite this initial success, the GGE has limitations.
+The participants are technically advisers to the UN Secretary-General rather than fully empowered national negotiators.
+Although the number of participants has increased from the original 15 to 25, most countries do not have a voice.
+<P>
+But there is a larger question lurking behind the GGE: Can norms really limit state behavior?
+<P>
+Most experts agree that a global cyberspace treaty currently would be politically impossible (though Russia and China have made such proposals at the UN).
+But, beyond formal treaties, normative constraints on states also include codes of conduct, conventional state practices, and widely shared expectations of proper behavior among a group (which create a common law).
+In scope, these constraints can vary from global, to plurilateral, to bilateral.
+So what can history tell us about the effectiveness of normative policy instruments?
+<P>
+In the decade after Hiroshima, tactical nuclear weapons were widely regarded as “normal” weapons, and the US military incorporated nuclear artillery, atomic land mines, and nuclear anti-aircraft weapons into its deployed forces.
+In 1954 and 1955, the Chairman of the Joint Chiefs of Staff told President Dwight Eisenhower that the defense of Dien Bien Phu in Vietnam and of offshore islands near Taiwan would require the use of nuclear weapons (Eisenhower rejected the advice).
+<P>
+Over time, the development of an informal norm of non-use of nuclear weapons changed this.
+The Nobel laureate economist Thomas Schelling argued that the development of the norm of non-use of nuclear weapons was one of the most important aspects of arms control over the past 70 years, and it has had an inhibiting effect on decision-makers.
+But for new nuclear states like North Korea, one cannot be sure that the costs of violating the taboo would be perceived as outweighing the benefits.
+<P>
+Similarly, a taboo against using poisonous gases in warfare developed after World War I, and the 1925 Geneva Protocol prohibited the use of chemical and biological weapons.
+Two treaties in the 1970s prohibited the production and stockpiling of such weapons, creating a cost not only for their use, but also for their very possession.
+<P>
+Verification provisions for the Biological Weapons Convention are weak (merely reporting to the UN Security Council), and such taboos did not prevent the Soviet Union from continuing to possess and develop biological weapons in the 1970s.
+Similarly, the Chemical Weapons Convention did not stop either Saddam Hussein or Bashar al-Assad from using chemical weapons against their own citizens.
+<P>
+Nonetheless, both treaties have shaped how others perceive such actions.
+Such perceptions contributed to the justification of the invasion of Iraq in 2003 and to the international dismantling of most Syrian weapons in 2014.
+With 173 countries having ratified the Biological Warfare Convention, states that wish to develop such weapons must do so secretly, and face widespread international condemnation if evidence of their activities becomes known.
+<P>
+Normative taboos may also become relevant in the cyber realm, though here the difference between a weapon and a non-weapon depends on intent, and it would be difficult to forbid – and impossible to prohibit reliably – the design, possession, or even implantation for espionage of particular computer programs.
+In that sense, efforts to prevent cyber conflict cannot be like the nuclear arms control that developed during the Cold War, which involved elaborate treaties and detailed verification protocols.
+<P>
+A more fruitful approach to normative controls on cyberwarfare may be to establish a taboo not against weapons but against targets.
+The US has promoted the view that the Law of Armed Conflict (LOAC), which prohibit deliberate attacks on civilians, applies in cyberspace.
+Accordingly, the US has proposed that, rather than pledging “no first use” of cyber weapons, countries should pledge not to use cyber weapons against civilian facilities in peacetime.
+<P>
+This approach to norms has been adopted by the GGE.
+The taboo would be reinforced by confidence-building measures such as promises of forensic assistance and non-interference with the workings of Computer Security Incident Response Teams (CSIRTs).
+<P>
+The GGE report of July 2015 focused on restraining attacks on certain civilian targets, rather than proscribing particular code.
+At the September 2015 summit between US President Barack Obama and Chinese President Xi Jinping, the two leaders agreed to establish an expert commission to study the GGE proposal.
+Subsequently, the GGE report was endorsed by the leaders of the G20 and referred to the UN General Assembly.
+<P>
+The attack on the Ukrainian power system occurred in December 2015, shortly after the submission of the GGE report, and in 2016, Russia did not treat the US election process as protected civilian infrastructure.
+The development of normative controls on cyber weapons remains a slow – and, at this point, incomplete – process.

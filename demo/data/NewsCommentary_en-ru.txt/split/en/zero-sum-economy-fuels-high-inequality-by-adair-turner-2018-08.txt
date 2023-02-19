@@ -1,0 +1,49 @@
+<HEADLINE>
+The Zero-Sum Economy
+<P>
+LONDON – Across the global economy, the potential for automation seems huge.
+Adidas’ “Speedfactory” in Bavaria will employ 160 workers to produce 500,000 pairs of shoes each year, a productivity rate over five times higher than in typical factories today.
+The British Retail Consortium estimates that retail jobs could fall from three million to 2.1 million within ten years, with only a small fraction replaced by new jobs in online retailing.
+Many financial-services companies see the potential to cut information-processing jobs to a small fraction of current levels.
+<P>
+And yet, despite all this, measured productivity growth across the developed economies has slowed.
+One possible explanation, recently considered by Andrew Haldane, chief economist of the Bank of England, is that while some companies rapidly grasp the new opportunities, others do so only slowly, producing a wide productivity dispersion even within the same sector.
+But dispersion alone cannot explain slowing productivity growth: that would require an increase in the degree of dispersion.
+<P>
+However, to focus on how technology is applied to existing jobs may be to look in the wrong place, for the clue to the productivity paradox may instead be found in the activities to which displaced workers move.
+David Graeber of the London School of Economics argues that as much as 30% of all work is performed in “bullshit jobs,” which are unnecessary to produce truly valuable goods and services but arise from competition for income and status.
+<P>
+Graeber usefully views the world from the perspective of an anthropologist, not an economist.
+But the phrase “bullshit jobs” and his focus on demotivated workers doing pointless work may divert attention from the essential development: individual workers may regard as stimulating and valuable many jobs which cannot in aggregate contribute to total welfare.
+<P>
+Suppose, for example, that you cared passionately about the objectives of a particular charity, had a flair for fundraising, and successfully increased that charity’s share of available donations.
+You would probably feel both motivated and good, even if all you had done was divert money from another charity about which another equally motivated fundraiser was equally passionate.
+<P>
+The crucial economic question, therefore, is not whether individual jobs are “bullshit,” but whether they increasingly perform a zero-sum distributive function, whereby the dedication of ever more skill, effort, and technology cannot increase human welfare, given the skill, effort, and technology applied on the other side of the competitive game.
+<P>
+Numerous jobs fall into that category: cyber criminals and the cyber experts employed by companies to repel their attacks; lawyers (both personal and corporate); much of financial trading and asset management; tax accountants and revenue officials; advertising and marketing to build brand X at the expense of brand Y; rival policy campaigners and think tanks; even teachers seeking to ensure that their students achieve the higher relative grades that underpin future success.
+<P>
+Measuring what share of all economic activity is zero sum is inherently difficult.
+Many jobs involve both truly creative and merely distributive activities.
+And zero-sum activities can be found in all sectors; manufacturing companies can employ tax accountants to minimize liabilities and top executives who focus on financial engineering.
+<P>
+But available figures suggest that zero-sum activities have grown significantly.
+As Gary Hamel and Michele Zanini point out in a recent Harvard Business Review article, some 17.6% of all US jobs, receiving 30% of all compensation, are in “management and administrative” functions likely to involve significant zero-sum activity.
+Meanwhile employment in financial and “business services” firms has grown from 15% to 18% of all US jobs in the last 20 years, and from 20% to 24% of measured output.
+<P>
+Hamel and Zanini argue that if we could only strip out unnecessary management jobs, productivity could soar.
+But the growth of zero-sum activities may be more inherent than they believe.
+As technological progress makes us ever richer in terms of many basic goods and services – whether cars or household appliances, restaurant meals or mobile phone calls – it may be inevitable that more human activity is devoted to zero-sum competition for available income and assets.
+<P>
+As our ability to produce higher-quality goods with fewer people increases, value may come to lie more and more in subjective brands, and rational firms will devote resources to activities like market analysis, financial engineering, and tax planning.
+Eventually, almost all human work might be devoted to zero-sum activities.
+<P>
+Whether or not robots will ever achieve human-level intelligence, it is illuminating to consider what an economy would look like if we could automate almost all the work required to produce the goods and services human welfare requires.
+There are two possibilities: one is a dramatic increase in leisure; the other is that ever more work would be devoted to zero-sum competition.
+Given what we know about human nature, the second development seems likely to play a significant role.
+<P>
+As I argued in a recent lecture, such an economy would probably be a very unequal one, with a small number of IT experts, fashion designers, brand creators, lawyers, and financial traders earning enormous incomes.
+Paradoxically, the most physical thing of all – locationally desirable land – would dominate asset values, and rules on inheritance would be a key determinant of relative wealth.
+<P>
+In John Maynard Keynes’s words, we would have solved “the economic problem” of how to produce as many goods and services as we want , but would face the more difficult and essentially political questions of how to achieve meaning in a world where work is no longer needed, and how to govern fairly the inherent human tendency toward status competition.
+Seeking to resolve these challenges through accelerated technological development and faster productivity growth would be like pursuing a mirage.

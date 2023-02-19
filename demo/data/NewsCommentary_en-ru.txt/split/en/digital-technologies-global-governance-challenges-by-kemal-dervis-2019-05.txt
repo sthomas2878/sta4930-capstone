@@ -1,0 +1,96 @@
+<HEADLINE>
+Closing the Global Governance Gap
+<P>
+WASHINGTON, DC – Technological waves have always driven social and political change and progress, along with economic growth.
+Gutenberg’s printing press democratized communications, which had long been monopolized by church scribes.
+The Ottoman Empire’s long ban on printing presses may have been a key reason for its eventual decline.
+Later on, the steam engine, and then railways, revolutionized production, transport, and trade, and electricity changed almost all aspects of our lives.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Contrary to the view of Northwestern University’s Robert Gordon that current advances in technology are small by historical standards, I believe that today’s technological wave will be at least as transformative as previous waves.
+Finding effective ways to govern this new technology and its social, political, and economic consequences will be the biggest challenge of the twenty-first century.
+<P>
+At the center of the new technological wave is artificial intelligence (AI) and the Internet, complemented by cyber applications, biotechnology, and big data.
+These technologies have helped to expand globalization by facilitating the establishment of global value chains, the rapid spread of information, and increased financial flows.
+They have also contributed to large economies of scale in many sectors, producing revenues corporations such as Amazon, Huawei, and Facebook that are an order of magnitude larger than most countries’ gross output.
+<P>
+Political institutions have not kept pace with technological change and the resulting growth in markets.
+When ordinary Egyptians, having organized themselves via social media, rallied in Cairo’s Tahrir Square and toppled former President Hosni Mubarak in 2011, it seemed that technology would necessarily boost democracy.
+But it soon became clear that these digital platforms could easily be co-opted by authoritarian governments or terrorists, and used to spread false news, influence electoral processes, and create deep divisions and confusion in societies.
+<P>
+In the business world, global corporations’ quasi-monopoly and monopsony power, and their ability to shift profits to low-tax jurisdictions, continues to allow them to largely escape the purview of national regulators and governments, despite G20-sponsored work to prevent corporate-base erosion and profit shifting.
+And biotechnology will pose huge challenges, as human cloning and genetic screening enable parents to “choose” embryos with desired characteristics.
+<P>
+Many of the technology-related challenges in politics, business, and science arise from the “weakest-link” nature of the public goods with which these technologies are associated: the non-compliance of just one or a few countries could undermine collective efforts to address problems that affect all.
+This is true, for example, of corporate tax avoidance, cybercrime, nuclear proliferation, terrorism and its financing, and infectious diseases.
+Should one country be allowed to go ahead with programs designed to “enhance” human beings while others ban such efforts?
+Global governance that can tackle the “weakest links” in these areas would be a valuable public good.
+<P>
+Or consider an “additive global good” such as climate safety: what matters is the sum of all countries’ efforts to reduce greenhouse-gas emissions.
+The provision of this sort of public good faces “prisoner’s dilemma”-type problems.
+Each country may hope to be a free rider, avoiding the short-term costs of cutting emissions, while benefiting from other countries’ emission reductions.
+Global governance can facilitate an outcome where all countries comply with agreed emission targets, and are better off.
+<P>
+There is no magic solution to these problems.
+But there is a framework that can help us: multilevel and multi-channel governance.
+<P>
+Multi-level governance refers to the various territorial levels of formal government: municipal, regional, national, and global.
+The European Union, for example, includes all but the global level of government.
+More than half of the bloc’s legislation is initiated at the Union level, while in many areas, such as water quality and education, national or subnational agencies implement their own policies, subject to supranational oversight.
+<P>
+Despite the recent rise of nationalist and Eurosceptic populism, this month’s European Parliament election showed that a Europe-wide political space is emerging.
+Turnout was above 50% for the first time in decades.
+And while nationalist parties did well in many countries, pro-EU parties together won more than two-thirds of the vote.
+<P>
+There is also strong demand for subsidiarity, however: policy decisions should be taken at the lowest level of government consistent with effective implementation.
+The pro-EU Greens, who performed very well in the election, embody this principle: climate protection, their first priority, should be addressed at the EU and global levels, while local governance should be strengthened.
+This double emphasis on the continental/global and the local narrows the purview of the nation-state.
+<P>
+On their own, small countries outside of a larger multinational structure will have a tough time navigating a world of global powers and mega-corporations.
+The EU example of supranational government should thus inspire other bodies, such as the African Union.
+<P>
+At the global level, countries cooperate to various degrees, but without sharing sovereignty.
+Delivering global public goods effectively requires both strengthening multilateral cooperation – through institutions such as the United Nations, the International Monetary Fund, and the World Trade Organization – and ceding some national sovereignty to appropriate international bodies, while strictly respecting the subsidiarity principle, as the EU has done at the continental level.
+These institutions will continue to be governed by their member states, which will nominate their leaders.
+But if every application of a globally agreed principle requires its own multilateral negotiation, global governance will be slow and cumbersome.
+Shared sovereignty would prevent this.
+<P>
+Existing multilateral institutions engender a supranational mindset quite different from that of national bureaucracies.
+Their staff are often criticized for being “remote” or “elitist,” but they provide the necessary human complement to the continental and global levels of territorial governance.
+They tend to propose solutions that overcome the “weakest link” and “prisoner’s dilemma” problems more instinctively than national bureaucrats.
+<P>
+This multilevel approach to formal governance – shared sovereignty at the continental and global levels, combined with the principle of subsidiarity – should be complemented by multi-channel governance, which is non-governmental and increasingly non-territorial.
+In fact, some argue that modern technology will allow for virtual as well as national democracies.
+Liav Orgad, who leads a research group on global citizenship governance at the European University Institute, advocates the establishment of “cloud communities,” including at the global level, in which each citizen would have a unique digital identity and vote electronically.
+Moreover, “blockchain technologies,” Orgad says, “can help in achieving the UN goal of granting an ID to everyone” largely independently of governments.
+<P>
+This global digital identity would complement national citizenship and enable global voting: “one person, one vote” would replace “one country, one vote.”
+Nation-states would not give up their sovereignty, because the electronic voting would be only indicative; but the outcome of votes would put significant pressure on governments.
+<P>
+Orgad’s proposal has some important weaknesses.
+If the cloud communities were not universal, they could self-select in a way that sharpened differences and antagonisms, without there being a nation-state to facilitate compromise.
+And while giving a lot of weight to population size is an inescapable requirement of democratcy, citizens of small and medium-size countries are unlikely anytime soon to accept a “one person, one vote” mechanism at the global level.
+<P>
+Nonetheless, Orgad cites a 2016 BBC World Service poll in which 51% of respondents said they regarded themselves more as global than national citizens.
+The result may partly reflect the questions’ wording and survey sample.
+But it also suggests that the rise of neo-nationalism in recent years may be a reflection more of authoritarian leaders’ political strategies than of grassroots sentiment.
+While it may also reflect a defensive reaction by older people seeking security, young people all over the world show a readiness to connect with each other and think globally.
+This will make it easier to build multi-level and multi-channel forms of governance in the future, as supranational problems become more acute.
+<P>
+“Embedding” technology and markets in a system of multilevel and multi-channel governance offers the best chance of managing the coming changes.
+This system should complement the nation-state and include an element of global governance that can respond to the issues posed by greater economies of scale and interdependence.
+It is also necessary to preserve the most valuable of all public goods: peace.
+<P>
+For that reason, I am skeptical of the “responsible nationalism” proposed by former US Treasury Secretary Larry Summers.
+To accommodate the rhetoric of neo-nationalists and authoritarian leaders is to give in to a false realism.
+While citizens will continue to love their country, nationalism should not be the starting point of our reflections on governance.
+One never wins by allowing opponents to frame the debate.
+Instead, we must overcome identity politics and its avatars’ attempts to divide humanity, and put “responsible internationalism” at the heart of our efforts to govern ourselves well.

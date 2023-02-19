@@ -1,0 +1,53 @@
+<HEADLINE>
+Predatory Competition Policy
+<P>
+The recent decision by the European Court of First Instance to uphold the fine and sanctions the European Commission imposed upon Microsoft in 2004 appears to have justified the Commission’s interventionist approach to competition policy.
+A five-year investigation of Intel may also end with severe penalties.
+But the EU should not rejoice at this seeming triumph over American “big business.”
+Instead, it should ponder if its policies actually make Europe hospitable for innovating enterprises.
+<P>
+Italy’s Minister for Trade and Europe, Emma Bonino, commenting upon the Microsoft ruling, observed that the very name Microsoft evokes “what the US is capable of doing.”
+To Bonino, if a company of comparable significance isn’t being born in Europe, it is because “we haven’t been able to set up a favorable climate for it to flourish.”
+<P>
+The European Commission’s approach to competition policy won’t move Europe toward that better climate.
+Indeed, high-tech companies like Microsoft and Intel are particularly unsuitable targets for antitrust policing, because regulators cannot possibly move at the speed of ‘Internet time.’
+<P>
+Consider computer operating systems, business accounting software, databases, Internet search engines, silicone chips, broadband services, cable, and cellular telephony.
+All are examples of fast-moving industries in which competition is fierce and great wealth is created.
+Industries and firms, like people, have their own life cycles, and the pace of change in high-tech industries is unprecedented.
+<P>
+Remember IBM?
+Only a few years ago, antitrust authorities in the US were convinced that IBM was locking up the computer industry for generations to come.
+Since then firms like Microsoft and Intel exploited software and hardware revolutions that IBM and others had missed, and left IBM in the dust.
+And just as competition authorities on both sides of the Atlantic have been losing sleep over the Windows monopoly, Microsoft’s desktop model is threatened today by handheld devices and Google’s dispersed online computing model.
+Intel is subject to parallel threats from a myriad of chip and hardware makers.
+<P>
+Regulators contribute no value to this high speed evolutionary process.
+Rather than preventing monopolization and restraint of trade, as the theory goes, antitrust regulation in the “new economy” is a new face of the old “industrial policy,” allowing bureaucrats to manipulate economic outcomes and favor companies dearer to them than the consumers’ choice.
+The only beneficiaries of government officials’ telling Microsoft how to make computer software are Microsoft’s competitors -- and not competition.
+<P>
+Yet regulators persist in trying to inject themselves into these fields, with antitrust authorities claiming that they are ripe with anti-competitive practices and exercises of “undue market power" by the most successful market participants.
+<P>
+European competition law in particular allows policymakers to intervene at will, increasing uncertainty, damaging wealth creation and consumer well-being.
+Efficient companies are punished for their success by being held to a special standard that expects them to cuddle their competitors, instead of continuing to out-price and outsell them, to the benefit of consumers.
+<P>
+What is presented as a defense of competition results in advancing politically connected special interests and imposing unnecessary costs on innovation.
+Even if Microsoft on occasion may have engaged in some sharp competitive practices, the EU’s competition authorities have not been content with slapping its wrists, but got involved in deeply intrusive remedies, including the unbundling of a media player from Microsoft’s operating system and mandating disclosure of industrial secrets embodied in Microsoft’s server software.
+Not surprisingly, Microsoft’s competitors cheered the Commission throughout the entire investigation and appeal.
+<P>
+The Commission is thus establishing itself as a friendly venue for businesses that cannot overcome competitors in the market, and seek a second chance in court.
+The new European Commission’s action against the chipmaker Intel is a good example.
+Intel is charged with “abusing” its dominant market position by so called “predatory pricing” (selling below cost) and offering substantial rebates to retain market share and undermine its arch-rival Advanced Micro Devices.
+<P>
+“Predatory pricing” is an old scarecrow of antitrust enforcement.
+The idea that it is rational for a company to incur enormous losses by selling below cost in order to achieve or maintain a monopoly position has been roundly criticized by economists who argue that situations in which such losses can be recouped by subsequent monopoly profits are extremely rare.
+Indeed, empirical research has shown that, throughout history, as far back as the Standard Oil case in the early 20th century, most instances of alleged “predatory pricing” have in fact been cases of superior efficiency.
+In the last couple of decades, US courts have made proving price predation next to impossible.
+Yet the EU’s competition authorities persist in accusing Intel of exactly this form of irrational behavior.
+<P>
+The problem with “predatory pricing” is that the courts are very unlikely to be able to distinguish “unfair” prices from effective competition that is a boon to consumers.
+It is the less efficient competitors, and not consumers, that are the most likely to benefit from punishing Intel for lowering its prices.
+<P>
+Reforms are needed if Europe really wants to become a competitive, knowledge-based economy, and not merely the most regulated one.
+Imposing billions of dollars of fines on the most conspicuous wealth creators is not the way to go.
+Europe needs to make the likes of Microsoft and Intel feel at home in Brussels, Paris, or Berlin, not to become a political market leader in supplying sympathetic verdicts to market losers.

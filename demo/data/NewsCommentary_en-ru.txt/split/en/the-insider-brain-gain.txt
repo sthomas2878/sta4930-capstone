@@ -1,0 +1,61 @@
+<HEADLINE>
+The Insider Brain Gain
+<P>
+NEW YORK – Unfortunately, many new technologies and business models make money for investors without creating jobs for workers.
+That causes unemployment and increases what the blogger Clay Shirky calls “cognitive surplus” – unused brainpower.
+<P>
+I won’t argue about net job creation here (though I think most innovation fosters it in the long run, so long as the education system prepares people for the new jobs that result).
+But it is exciting to see a company designed to extract some of the highest-value cognitive surplus around, and to make money both for the company and its – well, they are not exactly workers.
+Call them members – or even sellers of their own cognitive surplus through an exchange set up for that purpose.
+<P>
+The story starts with yet another recent phenomenon: an increase in corporate transparency, whether companies want it or not.
+In the old days, most companies sold products and had specified spokespeople; more recently, many have added call centers, creating about 3.5 million jobs in the United States alone, and many more outside it.
+<P>
+But now employees of all kinds, not just those in customer support or public relations, have an online presence.
+Some mention their employer; most do not.
+This makes most employers a little nervous.
+Companies seem to have become fishbowls, their contents visible to customers and strangers alike.
+You could say that they have a larger “surface area,” composed of employees who interact with outsiders.
+<P>
+Insidr.com is now trying to make this phenomenon into a business.
+(I should disclose that I plan to invest in this company – not necessarily because I think that it will be the next hot IPO, but because I think that it exploits some interesting and accelerating trends.
+Moreover, I will inevitably learn a lot by being involved, and its business model will likely undergo several transformations while disrupting some existing ones.
+Along the way, one of its models is likely to work superbly well.)
+<P>
+The problem Insidr addresses is familiar to almost everyone; there are about 45 billion customer-service calls per year in the US, according to Insidr founder Antony Brydon, and six billion of those concern what the customer considers a problem.
+There are now also one billion tweets of complaint a year.
+<P>
+Insidr.com’s answer is not special access or a Twitter feed that will work until the volume overwhelms it, but rather a market for connecting current customers with former insiders who can tell them how to work the system.
+In other words, it is an open market for information, operating more or less parallel to the closed, non-market systems run by most companies.
+<P>
+Do you want, for example, to pay a service representative to do his job better?
+That would be a bribe.
+But it’s common in customer-centric jobs to tip your waiter, your barista at Starbucks, or the concierge in your hotel.
+If you can reach that same person after he has left his job for advice, both you and the former rep can benefit from a fair exchange.
+<P>
+Specifically, Insidr brings together consumers who have practical questions about how to deal with a specific company and (mostly) former employees of that company.
+For example, you want to know whether you can still get the unlimited-data-roaming plan that your friend has, but the company refuses to give you a straight answer.
+Somewhere, a former employee (or perhaps a knowledgeable phone-store saleswoman) knows the answer.
+<P>
+Amazingly, says Brydon, two companies have embraced the idea.
+Dish Networks now seems to encourage its employees to join the system, while a manager at another company has asked for a “white-label” version that would serve only it and its customers.
+<P>
+But, inevitably, the whole idea will make many companies anxious.
+Insidr lets users select the companies by posting questions, and adds the most-mentioned companies first; so far, it has 10, including AT&T, Bank of America, Sprint, and United Air Lines.
+I can imagine some advertisement of the future that boasts, “We’re so helpful that Insidr.com ignores us!”
+<P>
+The users post questions, with or without a reward.
+(Insidr gets a 50% cut of rewards when they are offered).
+“We originally thought that it would be mostly about information,” says Brydon, “and that the free answers would erode the revenue opportunities.
+But it has turned out to be more about relationships and connecting a person who needs help with a person who can and wants to help.
+This basic desire to help seems as important as the rewards.
+Questions are answered more quickly when there is a reward, but many of the workers help even when there is no reward.”
+<P>
+In fact, the free answers are a way for the “workers” to establish a reputation, and they make more money actually performing services, whether helping someone book a complicated flight route or get a new loan officer.
+In one case, a current United Airlines employee asked for a telephone number for a person, not a machine, in the company’s human-relations department.
+<P>
+By making the market for insider knowledge and access transparent and open, Insidr raises a lot of questions about why companies operate as they do.
+People inside companies are paid to provide a certain level of customer service on the assumption that they will help to sell products, instruct users how to benefit from them, and improve customer satisfaction.
+<P>
+But customers are generally stuck with one-size-fits-all service.
+Can Insidr.com do a better job by unbundling the market and allowing a more direct relationship between consumers and workers, and give more power to both of them vis-à-vis companies?

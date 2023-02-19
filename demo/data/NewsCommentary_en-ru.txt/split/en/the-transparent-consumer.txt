@@ -1,0 +1,64 @@
+<HEADLINE>
+The Transparent Consumer
+<P>
+NEW YORK – There’s an old, true joke in the advertising business: half of it is wasted on customers who will never buy, but nobody knows which half.
+People avoid health-care jokes, but you could say the same thing about drugs.
+<P>
+In fact, in both advertising and pharmaceuticals, no one knows what the numbers are, because no one knows what “effectiveness” means, other than people buying things or recovering their health.
+But was it the advertisements or the drugs that led to one outcome or another?
+<P>
+It is becoming easier to find out (and for this article, let’s just assume the privacy issues are properly addressed).
+In both cases, the amount of information about the targets (the potential buyers or ill people who could get better) and the outcomes (who bought what or who got better) is increasing rapidly.
+Indeed, there is little difference between advertisements and drugs for an information specialist.
+<P>
+The change is happening earlier and faster in the advertising sector, where the Internet and mobile phones are making it easier both to find out about people and their behavior and to track the ads they see and the products they buy.
+<P>
+In the health sector, privacy issues are more significant and take time to handle, but more data are becoming available both from patient records and from self-reported health and behavior surveys.
+As health institutions become increasingly automated and their information moves online, and as at least some individuals start tracking their own health and health-related behavior, health researchers may have a chance to learn from and use the analytics developed in the advertising world.
+<P>
+From an information analyst’s perspective, the challenge is much the same: You start with a block of potential targets, either buyers or drug takers.
+Which of them will respond to an ad or to a drug?
+In both cases, you try to sift through a large population – first to define what makes someone a good target, and later to find more people matching those criteria who presumably will also be good targets.
+<P>
+Of course, there are differences.
+People who are sick want the drug to work, whereas people who watch ads assume that they are making up their own minds independently.
+In advertising, you may end up wasting a lot of money on people who won’t respond; in pharmaceuticals, your customers (or whoever pays for their drugs) may waste money, or even suffer harm from ineffective drugs or side-effects.
+<P>
+With an ad, you need a target market, such as women who might buy your deodorant, or travelers who might fly on your airline.
+You’ll often find these people reading women’s magazines or Web sites, or perhaps perusing online travel guides.
+With a drug, you need people who are sick, or susceptible to the condition your drug can prevent.
+They will come to you (often via targeted ads, as it happens, or through doctors).
+<P>
+Now you need to determine which people in this selection will actually be good targets. In advertising, it helps to know their past behavior: did they recently visit the Web site of a car dealer or read about travel to Paris?
+<P>
+In the old days, advertisers had no way of knowing, so they simply showed ads next to related content.
+Now, they can track people through online “cookies” and gain insight into their behavior – and their likely purchasing patterns.
+<P>
+Some correlations are obvious: People who search on a car site are more likely to buy a car.
+Others are less obvious: People who search for flights to Pittsburgh are likely to be going there, whereas some large percentage of people who look at flights to Las Vegas are dreamers, not fliers.
+Computers can unearth these patterns, some of which seem to defy explanation, thereby enabling marketers to target consumers much more effectively.
+<P>
+In the case of drugs, the initial target market is people with some condition.
+Then it’s often a question of trial and error; doctors prescribe a drug known to work some of the time in order to see whether it really does.
+Depression and cancer patients, for example, routinely try four or five therapies in order to find one that works, at least temporarily. Clinical trials are the equivalent of advertisers’ A-B tests (where you try different ads against subsets of the target market), but far more expensive, time-consuming, and important.
+<P>
+Now there are a number of diagnostic tests, akin to marketers’ rules of thumb, for certain conditions.
+For example, cancers that produce a large amount of a protein called HER-2 are likely to be susceptible to treatment with Herceptin.
+<P>
+Similarly, a particular gene seems to control sensitivity to warfarin, a blood thinner, so knowing about an individual’s variant of that gene can help a patient’s doctor to set the right dose.
+<P>
+Clearly, the more we know about patients, conditions, treatments, and outcomes, the better we will be able to predict outcomes on an individual basis.
+Patients will often benefit from statistical analysis that show which drugs work on which kind of people – often long before scientists figure out why.
+<P>
+In advertising, most of the data is about people, their demographics, and their purchasing behavior.
+In drugs, it’s mostly about their genetics and their physical conditions.
+But the science of discovering correlations and patterns is much the same.
+<P>
+This increased transparency carries both promise and peril for the companies involved.
+It’s disruptive in the short run: marketers want to reach people who will buy, while publishers love to sell ads aimed at those people, but are afraid of finding out that a large percentage of their audience may not be good customers.
+<P>
+Drug companies want to sell their drugs to everyone who could possibly benefit, and the idea of serving only a limited customer base for each drug disturbs them – even as regulators also may be slow to understand the benefits of individual drug-targeting and may not approve reimbursements for the relevant tests.
+By separating out the high-value targets, you implicitly discover the low-value targets as well.
+<P>
+But low-value targets for one ad or drug could be high-value targets for another.
+Indeed, the long-run aim is to find the right offers for the right targets – whether ads for goods and services or drugs for illnesses – more efficiently than ever before.

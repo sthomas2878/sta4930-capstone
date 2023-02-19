@@ -1,0 +1,61 @@
+<HEADLINE>
+The Platform Economy
+<P>
+WASHINGTON, DC – Hardly a day goes by without another article, conference, or research initiative devoted to the future of work.
+The robots are coming, or they’re not coming as fast as we think; when they do come, they’ll put everyone out of work, or they’ll create as many jobs as they destroy.
+Thus the conversation goes.
+But what if, instead of trying to predict the future, we look at realities that exist today for billions of people?
+<P>
+Some 80% of the global population lives in emerging economies – defined by informal markets and fluid employment structures.
+The SHIFT: Commission on Work, Workers, and Technology invited groups in five cities across the United States to imagine four scenarios along two axes of change – more or less work, and more jobs or more tasks.
+Participants were divided as to the amount of future work, but almost all foresaw the continuing disaggregation of jobs into tasks in both low- and high-end work, from driving to lawyering.
+That is the reality in emerging economies today.
+<P>
+Examining work patterns in these diverse countries yields three key lessons.
+First, people layer multiple work streams and derive income from more than one source.
+Second, platform economies are emerging rapidly and build on traditional networks.
+Finally, these work patterns often go hand in hand with dramatic income inequality.
+<P>
+Flexibility and uncertainty define informal markets in developing countries.
+Those lucky men and women who have formal jobs (less than 40%) often have “side hustles” through which they sell their time, expertise, network, or ideas to others in an effort to hedge against an uncertain labor market.
+A Nigerian saying – “you have a 9 to 5, a 5 to 9 and a weekend job” – aptly describes the environment of layered work.
+<P>
+The same pattern is starting to emerge in developed countries.
+A report by the JPMorgan-Chase Institute concludes that platform jobs are largely a secondary source of income, used to offset dips in regular income.
+<P>
+A key difference, however, is that in emerging economies flexible networks of individuals or small businesses take the place of formal employers.
+Kenya’s informal sector – called in Kiswahili the Jua Kali (“hot sun”) – is the country’s main job creator.
+The 2017 Economic Survey in Kenya showed that the Jua Kali generated 747,300 jobs the previous year, whereas the formal sector added only 85,600.
+<P>
+The Jua Kali comprises sector-based associations among workers and artisans that harken back to medieval guilds.
+The associations – of carpenters, mechanics, plumbers, and so on – enable pooled savings, provide opportunities to upgrade skills, and create a form of market regulation.
+<P>
+As technology has been added, many of the associations are going online to match supply and demand in the informal labor market more effectively.
+Go-Jek in Indonesia (named as a pun on ojek, a motorcycle taxi) is a $2.5 billion company that delivers everything from food to hairdressers by motorbike through an app.
+The company, with more than 200,000 drivers on the platform, boosts Indonesians’ productivity in the face of snarling traffic.
+<P>
+The market for low-cost legal services in Accra, Ghana, provides another interesting example.
+Journalist Joseph Warungu describes a “narrow alleyway at the back of the court buildings” teeming with notaries, commissioners for oaths, letter writers, and lawyers offering services from witness statements to contracts, all “processed efficiently and at a pocket-friendly rate.”
+That alleyway is a platform, bringing together multiple sellers of separate legal services together with buyers, in contrast to a traditional law firm, which requires clients to purchase multiple services from the same source.
+It simply needs to migrate online.
+<P>
+Developed economies are only beginning to catch up.
+Bliss Lawyers has “a bench” of more than 15,000 lawyers across the US who are paid over $200 an hour for “work on an engagement basis for in-house legal department and law firm clients.”
+More broadly, the Business Talent Group provides “in-demand business talent on-demand,” across a wide range of professional services.
+<P>
+Emerging markets also offer a cautionary tale concerning the downside of the on-demand economy.
+They have some of the highest levels of inequality in the world.
+The world’s 50 most unequal economies are in Sub-Saharan Africa and Latin America, with South Africa taking the prize for the highest income inequality.
+<P>
+Informal markets, lack of access to finance, and poor educational opportunities in these countries continue to trap most people in relative poverty.
+Gig economy platforms that provide small jobs without benefits or career progression can supplement income and buffer other employment, but they do not add up to the security and advancement opportunities of a formal job.
+Indeed, most emerging-market workers turn to the gig economy not out of a desire for flexibility or to follow their passions, but simply to make ends meet.
+<P>
+Nonetheless, informal markets in developing countries provide a vast field for experimentation to transform a patchwork of jobs into a steady upward path for workers.
+Tailoring education to allow workers to get the on-demand skills they need when they need them, and creating verifiable work histories through blockchain, are two ways to help gig economy workers find suitable opportunities more efficiently and capture more value from selling their labor.
+<P>
+While developed countries in Europe, North America, and Asia are rapidly aging, emerging economies are predominantly youthful.
+By 2040, one in four workers worldwide will be African.
+They are products of dynamic informal markets, and that should ease their absorption into a tech-enabled gig economy.
+Nigerian, Indonesian, and Vietnamese young people will shape global work trends at an increasingly rapid pace.
+We can learn from them today to prepare for tomorrow.

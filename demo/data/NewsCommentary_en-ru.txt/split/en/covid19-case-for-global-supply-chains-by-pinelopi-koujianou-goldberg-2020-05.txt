@@ -1,0 +1,62 @@
+<HEADLINE>
+The New Empty Argument Against Trade
+<P>
+NEW HAVEN – The COVID-19 crisis has emboldened advocates of protectionism and deglobalization.
+Familiar concerns about lost manufacturing jobs and rising inequality, or the desire in some circles to “punish” (scapegoat) China with higher tariffs, have now been augmented by an argument against global supply chains.
+According to this view, widely distributed production has made economies less self-sufficient, and therefore less resilient.
+The solution is to reshore existing business operations, offshore less in the future, and reduce reliance on trade more generally.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The argument for resilience is not new.
+Concerns about “food security” are regularly used to justify protectionist interventions in the agricultural sector.
+And, taken at face value, the claim – made frequently in recent months – that food supply chains are more secure because they are domestic seems valid.
+But, upon closer consideration, the situation is much more nuanced, especially if one adopts a reasonably broad view of “resilience.”
+<P>
+To be sure, trade skeptics would say that the COVID-19 crisis has revealed global supply chains’ vulnerabilities to export restrictions and external shocks.
+Many countries, including EU member states, initially imposed export restrictions on personal protective equipment (PPE) such as face masks, which may have meant that some importing countries could not obtain these items when they were most in need.
+<P>
+It is not surprising that governments would put their own citizens first in an emergency.
+Even the World Trade Organization, which normally outlaws export restrictions, allows exceptions for “essential products.”
+But the recent export restrictions were short-lived in most countries, and their negative effects were outweighed by the benefits of trade in PPE elsewhere.
+Having emerged from the crisis earlier than most other countries, China quickly resumed production and increased its exports of PPE to all countries in need, alleviating global shortages at a critical moment.
+According to the New York Times, China is now manufacturing 12 times more masks per day than it did before the crisis.
+<P>
+A second argument focuses on a particular feature of modern trade: the hyper-specialization of production and distribution chains that stretch across multiple countries.
+Specialization allows global supply chains to minimize costs and maximize efficiency, but it can present complications when production needs to be ramped up quickly.
+<P>
+Recent ventilator shortages brought this point home.
+The standard ventilator technology used to treat COVID-19 patients comprises 300 different parts whose production spans multiple countries.
+Manufacturing more ventilators thus calls for close coordination at a time when many countries’ first instinct is to compete for scarce parts.
+And even if all of the individual parts can be procured, production still requires a high level of technical know-how – a competence that many countries may have offshored.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Nonetheless, proponents of globalization view these challenges as evidence that global coordination and collaboration are more valuable than ever.
+They would argue that having multiple sources spread across countries improves resilience.
+Rather than being “only as strong as its weakest link,” a global supply chain is actually more robust, because it can fix broken links by replacing a source in one stricken country with an alternative source in another country.
+<P>
+Trade skeptics might argue the opposite, claiming that coordination problems could be avoided altogether if the supply chain for ventilators were brought home, as in the case of food.
+And yet COVID-19 has been running rampant in US meatpacking plants in recent weeks, disrupting one of the country’s critical food sources.
+The only thing keeping many plants going now is a threat from the federal government under the Defense Production Act.
+<P>
+In reality, domestic supply chains are more robust only in highly unlikely scenarios where all other countries are simultaneously hit by a negative shock.
+If you are the only one not afflicted by a global crisis, it obviously helps to have production located at home.
+<P>
+In the case of a pandemic, every country is affected, but outbreaks tend to peak at different times.
+When the United States is facing the worst of the crisis, other countries may have already flattened their epidemic curves, and can therefore serve as a source of trade – and of resilience.
+<P>
+Ultimately, how we manage risk and build resilience is not a question of “global” versus “domestic.”
+Diversification – geographic or otherwise – is a canonical principle of risk management.
+By operating multiple plants in multiple locations, businesses can minimize the risk of systemic disruption when any one location is knocked offline (such as by a natural disaster).
+Similarly, businesses can mitigate the risks associated with political upheavals by spreading operations across countries.
+Distributing production globally not only maximizes efficiency; it is also good risk management.
+<P>
+That said, on the more general question of how we should build resilience, critics are right to object to the obsession with short-term efficiency and profits.
+This way of doing business clearly has left firms and supply chains too lean to deal with a major crisis like COVID-19.
+A certain degree of redundancy (or short-term inefficiency) may literally prove lifesaving in the future.
+<P>
+Maintaining redundancy – such as by reserving a certain number of hospital beds or operating an extra mask factory – would have alleviated bottlenecks in the current crisis.
+In the future, we should look for ways to build in this kind of extra capacity, by thinking in terms of dynamic rather than static efficiency.
+The COVID-19 crisis offers important lessons; but it has not furnished any good arguments against trade or global supply chains.

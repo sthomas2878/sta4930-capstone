@@ -1,0 +1,62 @@
+<HEADLINE>
+Stop Doing Business
+<P>
+NEW DELHI – The World Bank’s Doing Business index has been both conceptually and operationally suspect since its inception in 2003, but mainstream economists have only recently started to criticize it.
+Although the Bank’s own recent acknowledgement of some of the problems is welcome, the index has already caused huge damage to developing countries, and it should be scrapped.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The Bank has already been forced to suspend publication of the index, owing to “irregularities” in its data.
+The latest brouhaha concerns straightforward number fudging.
+Apparently, data from four countries – Azerbaijan, China, Saudi Arabia, and the United Arab Emirates – were inappropriately altered, at least for 2017 and 2019 (thus affecting the 2018 and 2020 Doing Business reports).
+Other irregularities may have occurred, too.
+The Bank has begun a “systematic review” of the last five years of data, launched an independent audit of the process, and pledged to correct the most-affected countries’ data.
+<P>
+But this is a minor issue compared to all the other concerns with the index.
+Paul Romer, then the Bank’s chief economist, highlighted some of these in a stinging 2018 criticism of the tool.
+According to Romer, most of the changes in country rankings over the previous four years had resulted from repeated methodological changes that gave more weight to national governments’ political orientation.
+<P>
+Specifically, Romer said that data for Chile appeared to have been manipulated to show that the country’s business environment had deteriorated under a left-wing government.
+Chile’s overall ranking fluctuated between 25th and 57th between 2006 and 2017, when the country’s presidency alternated between the socialist Michelle Bachelet and the conservative Sebastián Piñera.
+<P>
+Under Bachelet, Chile’s ranking consistently worsened, while it consistently climbed under Piñera.
+Romer even offered “a personal apology to Chile, and to any other country where we conveyed the wrong impression.”
+He implied that the Bank had manipulated the country’s rankings for political reasons, but was later forced to retract that allegation, and resigned from his position two weeks later.
+<P>
+Justin Sandefur and Divyanshi Wadhwa of the Center for Global Development compared the official Doing Business rankings with their own re-created rankings from 2006 to 2018, based on a constant sample of countries and a consistent methodology.
+They found that the decline in Chile’s ranking during the Bachelet presidencies and its rise when Piñera was in office resulted entirely from methodological tinkering.
+Chile’s laws and policies barely changed.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+As with all cross-country comparisons, followers of Doing Business focus on a country’s rank rather than the value of the index, and the standings generate huge media coverage every year.
+Even academic researchers have (wrongly) used the rankings as indicators of government support for private investment.
+As a result, governments vie to improve their country’s ranking in the hope of attracting more foreign investment and boosting their domestic credibility.
+<P>
+Policymakers have sometimes resorted to desperate (and effective) measures to game the system.
+Most notoriously, the Indian government tweaked regulations in order to improve the country’s index score, enabling India to rise dramatically in the rankings, from 142nd in 2015 to 63rd in 2020.
+<P>
+But again, India’s rise stemmed largely from methodological adjustments, as well as ranking changes caused by small differences in scores across similar countries.
+Ironically, India’s ranking improved even as its investment rate (as a share of GDP) declined continuously, from 40% in 2010 to around 30% in 2019.
+<P>
+How could the Doing Business index be so off the mark in these two cases?
+True, strong conflicts of interest can potentially arise when the Bank calculates the index, whether because of its staff’s ideological inclinations or the need to placate big, financially important countries.
+But the index’s biggest problem is that its design is fundamentally flawed.
+<P>
+The index is supposed to measure a country’s overall business environment, but it really covers only government regulation (except for the tax indicator, which includes taxes as share of gross profit).
+It leaves out some regulations that affect businesses, such as financial, environmental, and intellectual-property rules.
+More important, the index does not measure all aspects of the business environment that matter to companies or investors, including macroeconomic conditions and policies, employment, crime, corruption, political stability, consumption, inequality and poverty.
+<P>
+Moreover, the index focuses entirely on the “ease” of doing business and the costs of regulation for companies.
+It gives no consideration to the benefits of these regulations and whether they create a better overall business environment.
+Likewise, Doing Business regards taxes only as a cost, and not as a source of revenue that can be used to deliver important economic benefits such as modern infrastructure and an educated workforce.
+<P>
+The overall thrust of Doing Business is thus anti-regulatory: the fewer regulations a country has, the better it performs on the index.
+The inclusion of the tax rate in the underlying indicators is so egregious that two independent evaluations commissioned by the World Bank suggested leaving it out.
+<P>
+As Isabel Ortiz and Leo Baunach have noted, the index effectively “undermines social progress and promotes inequality.”
+That is because it “has encouraged countries to take part in the ‘deregulation experience’ including reductions in employment protection, lower social security contributions (denominated as ‘labor tax’), and lesser corporate taxation.”
+<P>
+Ortiz and Baunach are correct to argue that it is time to stop publishing Doing Business.
+And the World Bank owes the developing world a debt of contrition for all the harm this misleading and problematic tool has already caused.

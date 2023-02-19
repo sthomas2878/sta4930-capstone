@@ -1,0 +1,60 @@
+<HEADLINE>
+How Will New Cybersecurity Norms Develop?
+<P>
+CAMBRIDGE – Last month, United Nations Secretary-General António Guterres called for global action to minimize the risk posed by electronic warfare to civilians.
+Guterres lamented that “there is no regulatory scheme for that type of warfare,” noting that “it is not clear how the Geneva Convention or international humanitarian law applies to it.”
+<P>
+A decade ago, cyber security received little attention as an international issue.
+But, since 2013, it has been described as the biggest threat facing the United States.
+Although the exact numbers can be debated, the Council on Foreign Relations’ “Cyber Operations Tracker” contains almost 200 state-sponsored attacks by 18 countries since 2005, including 20 in 2016.
+<P>
+The term cybersecurity refers to a wide range of problems that were not a major concern among the small community of researchers and programmers who developed the Internet in the 1970s and 1980s.
+In 1996, only 36 million people, or about 1% of the world’s population, used the Internet.
+By the beginning of 2017, 3.7 billion people, or nearly half the world’s population, were online.
+<P>
+As the number of users soared after the late 1990s, the Internet became a vital substrate for economic, social, and political interactions.
+Along with rising interdependence and economic opportunity, however, came vulnerability and insecurity.
+With big data, machine learning, and the “Internet of Things,” some experts anticipate that the number of Internet connections may grow to nearly a trillion by 2035.
+The number of potential targets for attack, by both private and state actors, will expand dramatically, and include everything from industrial control systems to heart pacemakers and self-driving cars.
+<P>
+Many observers have called for laws and norms to secure this new environment.
+But developing such standards in the cyber domain faces a number of difficult hurdles.
+Although Moore’s law about the doubling of computing power every two years means that cyber time moves quickly, human habits, norms, and state practices change more slowly.
+<P>
+For starters, given that the Internet is a transnational network of networks, most of which are privately owned, non-state actors play a major role.
+Cyber tools are dual use, fast, cheap, and often deniable, verification and attribution are difficult, and entry barriers are low.
+<P>
+Moreover, while the Internet is transnational, the infrastructure (and people) on which it relies fall within the differing jurisdictions of sovereign states.
+And major states differ in their objectives, with Russia and China stressing the importance of sovereign control, while many democracies press for a more open Internet.
+<P>
+Nonetheless, the description of “www” as the “wild west web” is a caricature.
+Some norms do exist in cyberspace.
+It took states about two decades to reach the first cooperative agreements to limit conflict in the nuclear era.
+If one dates the international cybersecurity problem not from the origins of the Internet in the early 1970s but from the takeoff period since the late 1990s, intergovernmental cooperation in limiting cyber conflict is now at about the two-decade mark.
+<P>
+In 1998, Russia first proposed a UN treaty to ban electronic and information weapons (including for propaganda purposes).
+With China and other members of the Shanghai Cooperation Organization, it has continued to push for a broad UN-based treaty.
+The US continues to view such a treaty as unverifiable.
+<P>
+Instead, the Secretary-General appointed a Group of Governmental Experts (UNGGE) which first met in 2004, and in July 2015 proposed a set of norms that was later endorsed by the G20.
+Groups of experts are not uncommon in the UN process, but only rarely does their work rise from the organization’s basement to recognition at a summit of the 20 most powerful states.
+The UNGGE’s success was extraordinary, but it failed to agree on its next report in 2017.
+<P>
+Where does the world go now?
+Norms can be suggested and developed by a variety of policy entrepreneurs.
+For example, the new non-governmental Global Commission on Stability in Cyberspace, chaired by former Estonian Foreign Minister Marina Kaljurand, has issued a call to protect the public core of the Internet (defined to include routing, the domain name system, certificates of trust, and critical infrastructure).
+<P>
+Meanwhile, the Chinese government, using its Wuzhen World Internet Conference series, has issued principles endorsed by the Shanghai Cooperation Organization calling for recognition of the right of sovereign states to control online content on their territory.
+But this need not contradict the call to protect the public core, which refers to connectivity rather than content.
+<P>
+Other norm entrepreneurs include Microsoft, which has issued a call for a new Geneva Convention on the Internet.
+Equally important is the development of norms regarding privacy and security regarding encryption, back doors, and the removal of child pornography, hate speech, disinformation, and terrorist threats.
+<P>
+As member states contemplate the next steps in the development of cyber norms, the answer may be to avoid putting too much of a burden on any one institution like the UNGGE.
+Progress may require the simultaneous use of multiple arenas.
+In some cases, development of principles and practices among like-minded states can lead to norms to which others may accede at a later point.
+For example, China and the US reached a bilateral agreement restricting cyber espionage for commercial purposes.
+In other cases, such as security norms for the Internet of Things, the private sector, insurance companies, and non-profit stakeholders might take the lead in developing codes of conduct.
+<P>
+What is certain is that the development of cybersecurity norms will be a long process.
+Progress in some areas need not wait for progress in others.

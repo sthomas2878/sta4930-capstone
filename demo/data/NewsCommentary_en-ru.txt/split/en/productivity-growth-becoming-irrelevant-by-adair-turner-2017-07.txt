@@ -1,0 +1,70 @@
+<HEADLINE>
+Is Productivity Growth Becoming Irrelevant?
+<P>
+LONDON – As the Nobel laureate economist Robert Solow noted in 1987, computers are “everywhere but in the productivity statistics.”
+Since then, the so-called productivity paradox has become ever more striking.
+Automation has eliminated many jobs.
+Robots and artificial intelligence now seem to promise (or threaten) yet more radical change.
+Yet productivity growth has slowed across the advanced economies; in Britain, labor is no more productive today than it was in 2007.
+<P>
+Some economists see low business investment, poor skills, outdated infrastructure, or excessive regulation holding back potential growth.
+Others note wide disparities in productivity between leaders and laggards among industrial manufacturers.
+Still others question whether information technology is really so distinctively powerful.
+<P>
+But the explanation may lie deeper still.
+As we get richer, measured productivity may inevitably slow, and measured GDP per capita may tell us ever less about trends in human welfare.
+<P>
+Our standard mental model of productivity growth reflects the transition from agriculture to industry.
+We start with 100 farmers producing 100 units of food: technological progress enables 50 to produce the same amount, and the other 50 to move to factories that produce washing machines or cars or whatever.
+Overall productivity doubles, and can double again, as both agriculture and manufacturing become still more productive, with some workers then shifting to restaurants or health-care services.
+We assume an endlessly repeatable process.
+<P>
+But two other developments are possible.
+Suppose the more productive farmers have no desire for washing machines or cars, but instead employ the 50 surplus workers either as low-paid domestic servants or higher-paid artists, providing face-to-face and difficult-to-automate services.
+Then, as the late William Baumol, a professor at Princeton University, argued in 1966, overall productivity growth will slowly decline to zero, even if productivity growth within agriculture never slows.
+<P>
+Or suppose that 25 of the surplus farmers become criminals, and the other 25 police.
+Then the benefit to human welfare is nil, even though measured productivity rises if public services are valued, as per standard convention, at input cost.
+<P>
+The growth of difficult-to-automate service activities may explain some of the productivity slowdown.
+Britain’s flat productivity reflects a combination of rapid automation in some sectors and rapid growth of low-productivity, low-wage jobs – such as Deliveroo drivers riding around on plain old-fashioned bicycles.
+In the United States, the Bureau of Labor Statistics reports that eight of the ten fastest-growing job categories are low-wage services such as personal care and home health aides.
+<P>
+The growth of “zero-sum” activities may, however, be even more important.
+Look around the economy, and it’s striking how much high-talent manpower is devoted to activities that cannot possibly increase human welfare, but entail competition for the available economic pie.
+Such activities have become ubiquitous: legal services, policing, and prisons; cybercrime and the army of experts defending organizations against it; financial regulators trying to stop mis-selling and the growing ranks of compliance officers employed in response; the huge resources devoted to US election campaigns; real-estate services that facilitate the exchange of already-existing assets; and much financial trading.
+<P>
+Much design, branding, and advertising activity is also essentially zero-sum.
+It is certainly good that new fashions can continually compete for our attention; choice and human creativity are valuable per se.
+But we have no reason to believe that 2050’s designs and brands will make us any happier than those of 2017.
+<P>
+Such zero-sum activities have always been significant.
+But they grow in importance as we approach satiation in many basic goods and services.
+In the US, “financial and business services” now account for 18% of employment, up from 13.2% in 1992.
+<P>
+The impact on measured GDP and productivity reflects national accounting conventions.
+If people devote more of their income to competing for scarce housing, driving up property prices and rents, GDP and “productivity” increase, because housing rent is included in GDP, even if the aggregate supply of housing services is unchanged.
+Since 1985, the share of rents in the UK economy has doubled, from 6% of GDP to 12%.
+<P>
+Likewise, more and better-paid divorce lawyers increase GDP, because end consumers pay them.
+But more and better-paid commercial lawyers don’t raise output, because companies’ legal expenditures are an intermediate cost.
+Measured productivity slows as intermediate zero-sum activities proliferate, while other zero-sum activities swell GDP but deliver no welfare benefit.
+<P>
+Potentially offsetting this effect, information technology may improve human welfare in ways not captured in measured output.
+Billions of hours of consumer time previously spent filling in forms, making telephone calls, and queuing are eliminated by Internet-based shopping and search services.
+Valuable information and entertainment services are provided for free.
+<P>
+Contrary to what some right-wing economists argue, such free services cannot make increasing income inequality irrelevant.
+If rents and commuting costs are driven up by intense competition for attractively located property, you can’t pay for them out of freely arising “consumer surplus.”
+But the essential insight is still important: much that delivers human welfare benefits is not reflected in GDP.
+<P>
+Indeed, measured GDP and gains in human welfare eventually may become entirely divorced.
+Imagine in 2100 a world in which solar-powered robots, manufactured by robots and controlled by artificial intelligence systems, deliver most of the goods and services that support human welfare.
+All that activity would account for a trivial proportion of measured GDP, simply because it would be so cheap.
+<P>
+Conversely, almost all measured GDP would reflect zero-sum and/or impossible-to-automate activities – housing rents, sports prizes, artistic performance fees, brand royalties, and administrative, legal, and political system costs.
+Measured productivity growth would be close to nil, but also irrelevant to improvement in human welfare.
+<P>
+We are far from there yet.
+But the trend in that direction may well help explain the recent productivity slowdown.
+The computers are not in the productivity statistics precisely because they are so powerful.

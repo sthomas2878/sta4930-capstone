@@ -1,0 +1,63 @@
+<HEADLINE>
+Should We Worry About Income Gaps Within or Between Countries?
+<P>
+CAMBRIDGE – At the beginning of classes every autumn, I tease my students with the following question: Is it better to be poor in a rich country or rich in a poor country?
+The question typically invites considerable and inconclusive debate.
+But we can devise a more structured and limited version of the question, for which there is a definitive answer.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Let’s narrow the focus to incomes and assume that people care only about their own consumption levels (disregarding inequality and other social conditions).
+“Rich” and “poor” are those in the top and bottom 5% of the income distribution, respectively.
+In a typical rich country, the poorest 5% of the population receive around 1% of national income.
+Data are a lot sparser for poor countries, but it would not be too much off the mark to assume that the richest 5% there receive 25% of national income.
+<P>
+Similarly, let’s assume that rich and poor countries are those in the top and bottom 5% of all countries, ranked by per capita income.
+In a typical poor country (such as Liberia or Niger), that is around $1,000, compared to $65,000 in a typical rich country (say, Switzerland or Norway).
+(These incomes are adjusted for cost-of-living, or purchasing-power, differentials so that they can be directly compared.)
+<P>
+Now, we can calculate that a rich person in a poor country has an income of $5,000 ($1,000 x 0.25 x 20) while a poor person in a rich country earns $13,000 ($65,000 x 0.01 x 20).
+Measured by material living standards, a poor person in a rich country is more than twice as well off as a rich person in a poor country.
+<P>
+This result surprises my students; most of them expect the reverse to be true.
+When they think of wealthy individuals in poor countries, they imagine tycoons living in mansions with a retinue of servants and a fleet of expensive cars.
+But while such individuals certainly exist, a representative of the top 5% in very poor countries is likely to be a mid-level government bureaucrat.
+<P>
+The larger point of this comparison is to underscore the importance of income differences across countries, relative to inequalities within countries.
+At the dawn of modern economic growth, before the Industrial Revolution, global inequality derived almost exclusively from inequality within countries.
+Income gaps between Europe and poorer parts of the world were small.
+But as the West developed in the nineteenth century, the world economy underwent a “great divergence” between the industrial core and the primary-goods-producing periphery.
+During much of the postwar period, income gaps between rich and poor countries accounted for the greater part of global inequality.
+<P>
+From the late 1980s on, two trends began to alter this picture.
+First, led by China, many parts of the lagging regions began to experience substantially faster economic growth than the world’s rich countries.
+For the first time in history, the typical developing-country resident was getting richer at a faster pace than his or her counterparts in Europe and North America.
+<P>
+Second, inequalities began to increase in many advanced economies, especially those with less-regulated labor markets and weak social protections.
+The rise in inequality in the United States has been so sharp that it is no longer clear that the standard of living of the American “poor” is higher than that of the “rich” in the poorest countries (with rich and poor defined as above).
+<P>
+These two trends went in offsetting directions in terms of overall global inequality – one decreased it while the other increased it.
+But they have both raised the share of within-country inequality in the total, reversing an uninterrupted trend observed since the nineteenth century.
+<P>
+Given patchy data, we cannot be certain about the respective shares of within- and between-country inequality in today’s world economy.
+But in an unpublished paper based on data from the World Inequality Database, Lucas Chancel of the Paris School of Economics estimates that as much as three-quarters of current global inequality may be due to within-country inequality.
+Historical estimates by two other French economists, François Bourguignon and Christian Morrison, suggest that within-country inequality has not loomed so large since the late nineteenth century.
+<P>
+These estimates, if correct, suggest that the world economy has crossed an important threshold, requiring us to revisit policy priorities.
+For a long time, economists like me have been telling the world that the most effective way to reduce global income disparities would be to accelerate economic growth in low-income countries.
+Cosmopolitans in rich countries – typically the wealthy and skilled professionals – could claim to hold the high moral ground when they downplayed the concerns of those complaining about domestic inequality.
+<P>
+But the rise of populist nationalism throughout the West has been fueled partly by the tension between the objectives of equity in rich countries and higher living standards in poor countries.
+Advanced economies’ increased trade with low-income countries has contributed to domestic wage inequality.
+And probably the single best way to raise incomes in the rest of the world would be to allow a massive influx of workers from poor countries into rich countries’ labor markets.
+That would not be good news for less educated, lower-paid rich-country workers.
+<P>
+Yet advanced-economy policies that emphasize domestic equity need not be harmful to the global poor, even in international trade.
+Economic policies that lift incomes at the bottom of the labor market and diminish economic insecurity are good both for domestic equity and for the maintenance of a healthy world economy that provides poor economies a chance to develop.

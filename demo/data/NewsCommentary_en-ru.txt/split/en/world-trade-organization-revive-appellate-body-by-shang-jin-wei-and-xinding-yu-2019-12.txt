@@ -1,0 +1,68 @@
+<HEADLINE>
+How to Revive the WTO
+<P>
+NEW YORK – December 11, 2019, is the 18th anniversary of China’s accession to the World Trade Organization.
+It also marks the start of an era in which the WTO no longer has a functioning appellate body to adjudicate trade disputes among member countries.
+Why is the WTO imploding, and can it be resuscitated before it’s too late?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Before China joined the WTO in 2001, many feared that its membership could doom the organization in one of three ways.
+First, Chinese rule breaking might be so common, skeptics claimed, that it would trigger an explosion of cases against the country that would overwhelm the appellate body of seven judges.
+Second, China might express its grievances by bringing countless potentially frivolous cases against other countries, which would also exceed the organization’s capacity constraint.
+And, finally, China might ignore any WTO ruling against it, undermining the system’s credibility and usefulness.
+<P>
+None of that happened.
+Of the 349 trade disputes brought to the WTO for adjudication since the end of 2001, China has been a defendant in 44, or 12.6% of the total – in line with the country’s 12.8% share of global exports in 2018.
+Interestingly, this number is fewer than the 99 brought against the United States and the 52 brought against the European Union during the same period.
+Part of the reason is that China has continued to reduce tariff and non-tariff trade barriers, and ease investment restrictions, in accordance with – and sometimes going beyond – the terms of its WTO accession agreement.
+In fact, few countries have reduced such barriers more than China has during this period.
+<P>
+Likewise, China has not turned out to be an overly aggressive complainant.
+Since December 2001, China has lodged 21 cases at the WTO, or 6% of the total – lower than its 10.8% share of global imports in 2018.
+Strikingly, this number also is substantially lower than the 55 cases lodged by the US, and the 46 filed by the EU.
+<P>
+Large countries tend not to have a perfect record of complying with WTO rulings.
+But of the 44 cases against China since 2001, other countries have had to return to the WTO to secure better compliance only twice, compared to 15 times in the 99 cases against the US over the same period.
+<P>
+The WTO allows individual member countries to have their own national systems for enforcing trade rules, particularly regarding subsidies and dumping (selling below cost).
+This may be interpreted broadly as part of the rules-based global trade framework.
+Using data for 2017, we find that the number of anti-dumping and countervailing (anti-subsidy) cases lodged by all WTO member countries against exporting countries (the log value of which is on the vertical axis of the graph below) tends to decline as the income level of the exporter increases (shown by the log value on the horizontal axis).
+<P>
+<P>
+Each blue dot on the graph represents a WTO member economy, and the solid black line shows the international average (drawn from all member economies excluding China).
+The data pattern is fairly clear: as a country becomes richer, there are fewer anti-subsidy or anti-dumping cases against it.
+This could be because richer countries observe rules better, are less likely to attract complaints as their labor costs rise, or some combination of the two.
+<P>
+Given this international pattern, we can check whether other countries have considered China to be a special problem.
+We do so by superimposing on the same graph the total number of anti-dumping and anti-subsidy cases lodged against Chinese exporters by all other WTO members from 1995 to 2017, relative to China’s export volume.
+Since China’s accession in 2001, the number of such cases relative to exports has declined as China’s income has increased, much as the average international experience would have predicted.
+In other words, cross-country comparative data suggest nothing especially problematic about China.
+(Of course, China’s size means that the absolute number of cases against China is large.)
+<P>
+Until recently, no one would have thought that the US, a key architect of the rules governing the WTO, would choose to kill the organization’s appellate body.
+But that is what appears to be happening now.
+Since 2017, as the body’s current judges have completed their four-year terms, the US has systematically rejected any proposed successor nominated by other countries, apparently with the aim of rendering the system inoperative until other countries agree to alter the rules to America’s liking.
+<P>
+Any WTO dispute-settlement panel is required to have at least three judges.
+So, with two of the appellate body’s three remaining judges having completed their terms on December 10, the organization’s “highest court” is now functionally dead.
+<P>
+Since the WTO was established in 1995, global GDP has grown by about 250% on a cumulative basis, while global trade has increased by about 270%.
+A professional disinterested process for adjudicating trade disputes between countries has been key to this success.
+Because larger countries always have greater bargaining power than smaller ones in bilateral or regional trade negotiations, this process has helped to level the playing field in favor of the WTO’s vast majority of small- and medium-size members.
+<P>
+Resuscitating the WTO will require changing its rules.
+Perhaps appellate body judges should be appointed by a majority or supermajority vote, so that no single country can block a nominee.
+In addition, the body could be expanded to 15 judges, in line with growth in trade volumes, and appointees’ terms could be lengthened.
+Or the terms of the last three judges could be extended temporarily.
+<P>
+But none of these measures will be enough.
+The US, China, and other countries also have an interest in modernizing WTO rules regarding state-owned firms, government procurement, anti-dumping cases, and digital trade.
+Whatever reforms these countries wish to see, killing the organization’s dispute-settlement system is not the solution.

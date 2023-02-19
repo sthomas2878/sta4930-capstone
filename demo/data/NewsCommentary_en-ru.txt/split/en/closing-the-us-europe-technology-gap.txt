@@ -1,0 +1,55 @@
+<HEADLINE>
+Closing the US-Europe Technology Gap
+<P>
+In the second half of the 1990's, Europe's average annual growth rate of productivity amounted to 0.7%, while the US hummed along at 1.4%.
+However, if we distinguish between the industries that produce information and communications technologies (ICT) and those that are simply users of such technologies, we can see that the productivity growth gap stems almost entirely from the weakness of Europe's ICT producing sector.
+Annual productivity growth in sectors that are users of ICT technologies averaged 0.63% in the US between 1995 and 2000, and a very similar 0.41% in Europe.
+<P>
+This confirms a well known fact: Europe is less efficient than the US at producing research that is conducive to innovation--either because Europe allocates fewer resources to research, or because the available resources are used less efficiently, or both.
+<P>
+To be sure, total spending on research and development is lower in Europe than in the US, but not by much.
+In the 1990's, the US devoted 2.8% of GDP annually on R&D, compared with 2.3% in Germany, 2% in the UK, and 1.9% in France.
+Still, European governments typically complain about the lack of fiscal resources to support R&D (a far fetched argument given the miniscule share of research spending in the oversized European budgets) and, whenever the European Commission allows them, they subsidize innovative firms, or those that they think are more likely to invest in R&D.
+<P>
+France and Italy, for example, demanded that the limits imposed the budget deficits of euro zone members by the Stability and Growth Pact exclude public spending for research.
+Similarly, the French government decided to bail out Alstom--a company that developed a number of high-tech products, including the TGV, the French fast train--before ending up bankrupt.
+<P>
+But both tactics are unlikely to boost the European high-tech sector.
+Why?
+Because weakness in research is not--at least not primarily--a funding issue.
+Subsidies will not produce efficient high-tech firms.
+<P>
+Let us consider research first.
+Europe trails the US in every dimension: the number of patents, the number of Nobel laureates, the number of researchers it is able to attract from the rest of the world.
+But funding is only part of the problem.
+A euro spent on research in Europe is less productive than a dollar spent in the US for two reasons: incentives and the demand for technology.
+<P>
+We fear that spending more money without changing archaic university rules would produce more waste, not more research output.
+It would only increase the power, prestige, and resources of entrenched lobbies of established university professors who often prevent entry and competition.
+<P>
+Demand for technology is also important.
+It helps focusing research, it provides deadlines, screens the output, and allows patents to be valued at market prices.
+Without the incentives provided by those on the receiving end of its output, research risks drifting along, often without clear direction.
+<P>
+Admittedly this is not true in all fields: the study of Ancient Greek fragments is valuable even it meets hardly any demand.
+But it is important in those fields, both theoretical and applied, that might be used as an input in the production of new technologies: physics, biology, chemistry, engineering, etc.
+<P>
+But it is defense spending that is the major factor in the demand for research.
+Most technological breakthroughs in the postwar period--from microchips to the Internet to the new batteries for cellular phones developed for the US Army in Iraq--had, at least initially, a military application.
+Cell phones, satellite tracking, and high-resolution cameras are not cheap to come by, but happily for the industries that use them, costs for their development have been partly picked up by the government.
+<P>
+One key reason for the superiority of the US in research is the size and the composition of defense expenditure.
+The Pentagon's budget is not simply big: it accounts for more than one half of all US government spending on research and development: in France, defense spending is only around a quarter of the total.
+In 1999, US spending on defense-related R&D was 0.45% of GDP; the UK and France were next, but with just half as much, 0.26% and 0.22%, respectively.
+<P>
+As the Alstom case suggests, the French have a different model in mind.
+Rather than supporting R&D with large defense budgets, they prefer to do it directly, subsidizing French high-tech firms.
+The official justification is that national defense budgets are too small to create the demand that would be needed to support R&D in high-tech sectors, while there is still no European defense budget.
+<P>
+This is no coincidence: if allocated competitively, such a supra-national budget would identify winners and losers.
+But many European countries still refuse to accept that some of their high-tech firms might not make it: better, they think, to keep them alive with generous subsidies, and in the meantime avoid the consolidation of EU defense budgets.
+<P>
+By integrating its defense expenditures and increasing their size, Europe would hit two birds with one stone.
+It would be more credible when it demands to be heard at international bargaining tables, particularly vis-à-vis the US, and it would stimulate scientific research.
+The way to achieve these goals is not to run larger deficits, which merely imply higher taxes tomorrow, but to cut spending in other parts of the budget.
+In short: short-run pain for long-run gain.

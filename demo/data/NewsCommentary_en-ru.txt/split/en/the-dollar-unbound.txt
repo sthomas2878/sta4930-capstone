@@ -1,0 +1,60 @@
+<HEADLINE>
+The Dollar Unbound
+<P>
+VIENNA: Whenever world currencies go haywire, pundits try to make sense out of chaos by focusing on factors specific to each crisis: the 1970s oil price shocks, the 1982 Latin American debt crisis, today’s Asian crisis.
+But the roots of these crises stem not from discrete, particular causes like war or the fall of the Shah of Iran, but rather from an oft-ignored quirk in the international financial system: the system lacks a true global currency.
+<P>
+Since World War II the role of global currency has been played by one national currency: the US dollar.
+Most international loans and almost all global commodity exports are priced in dollars.
+Before 1971, a system of fixed dollar exchange rates (the Bretton Woods regime) existed.
+Ever since its collapse, currencies have "floated."
+But the power of US monetary authorities to engineer swings in nominal interest rates is incompatible with a stable world currency supporting a sustainable expansion of world trade and income.
+<P>
+Why?
+Swings in US nominal interest rates cause swings in dollar exchange rates.
+Declining US nominal interest rates lead to dollar depreciation as the attractiveness of investing in dollar assets decreases.
+Shifts in dollar interest rates and dollar exchange rates also induce large income shifts between developing and industrialized countries.
+<P>
+Developing countries rely on the dollar revenues gained from exports of standard commodities (say, oil or other prime materials) priced in dollars in order to import goods and services priced in currencies other than the dollar from developed countries.
+When the dollar depreciates against other currencies it drives up the dollar price of imports, meaning that the export earnings of developing countries buy fewer of such items.
+<P>
+Their response to this erosion is to raise the dollar prices of their exports wherever they can.
+Between 1971 and mid-1973, the dollar depreciated by 25%, eroding the income position of developing countries.
+Non-oil developing countries responded by doubling the dollar price of their commodities.
+Oil-exporting countries were hard hit because 92.1% of their exports were priced in dollars while 80.3% of their imports were not.
+This swing in income position set the stage for OPEC’s quadrupling of oil prices in the autumn of 1973.
+<P>
+The cycle repeated itself between 1976-78 when the dollar depreciated by 25%, and between 1985-88, when the dollar depreciated by half.
+Both depreciations eroded the incomes of developing countries.
+So non-oil developing countries jacked up the dollar price of their commodities by 27.4% between 1978-79 and by 33.5% between 1985-88.
+And oil-exporting countries doubled the price of oil in 1979.
+By the mid-1980s OPEC's market power had collapsed, however, so the world was spared another oil-price shock.
+<P>
+The two major dollar-appreciations of the last two decades (50% between 1980-84 and more than 30% in 1995-98) correspond to periods of falling dollar prices in world trade (by 30% for non-oil commodities between 1980-1985; by 10% between 1995-1998).
+So, what to conclude about the dollar’s double-role?
+Global bouts of dollar-price inflation (including the two oil-price shocks) and dollar-price deflation are induced by the way the international financial system operates.
+They are not reactions to specific political events.
+<P>
+The dollar’s double role also influences international credit markets, which are where debt and financial crises arise.
+Because almost all debt held by developing countries is denominated in dollars, its burdens increase in tandem with dollar real interest rates.
+Because of the connection between dollar interest rates, dollar exchange rates and dollar inflation, the era of floating currencies has been marked by periods involving either a cheap dollar/world currency or an expensive dollar/world currency.
+A cheap-dollar cycle delivers low nominal interest rates, a depreciating dollar and strongly increasing dollar prices in world trade.
+An expensive-dollar regime is characterized by the converse.
+<P>
+Between 1971-1980 eurodollar nominal interest rates averaged 8.5% while export-price inflation for Latin America averaged 17.4%, resulting in a negative 8.9% real interest rate on foreign debt.
+No wonder Latin American debt ballooned in the 1970s.
+But when America’s Fed pursued tight money between 1980-85, dollar nominal interest rates averaged 11.7% and export-price inflation was a negative 7.0%, resulting in a 17.9% positive real interest rate.
+Latin America’s debt burden soared by 29.6% from the 1970s to early 1980s, precipitating the Latin-American debt crisis.
+<P>
+Asian countries fell into this trap in the 1990s.
+During the first half of this decade the dollar was cheap, and the real interest rate on dollar debt was zero and became negative in 1995.
+Asian countries increased their dollar debts markedly during this period, as they experienced a strong expansion of investment and production.
+Between mid-1995 and 1998, however, the cheap-dollar regime was followed by an expensive-dollar regime, as the value of the dollar increased by more than 30% compared to other reserve currencies.
+<P>
+This incited deflation in dollar-export prices of -5% in 1997 followed by a swing in real interest rates on dollar debts from -4% in 1995 to 10.5% in 1997, ie by 14.5%.
+Countries who borrowed heavily when the dollar was cheap were squeezed when the pendulum swung back to an expensive-dollar cycle.
+<P>
+The severity of the ongoing Asian crisis should prompt serious discussions about reforming the international financial system.
+Reform must take into account the need for a truly global currency, not one subject to manipulation for domestic concerns.
+But such a move would require a political will inconceivable today given America’s reluctance to relinquish any sovereign power to supra-national organizations.
+So the world economy is set for instability as far as the eye can see.

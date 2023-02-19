@@ -1,0 +1,61 @@
+<HEADLINE>
+Killing Killer Mosquitoes
+<P>
+SINGAPORE – Mosquitoes may be tiny, but they have a powerful bite.
+They spread a number of diseases – such as chikungunya, dengue, malaria, yellow fever, West Nile fever, and Zika virus – which together kill millions of people each year.
+Malaria alone is one of the world’s top infectious killers (behind only tuberculosis and AIDS), responsible for 429,000 deaths in 2015.
+Given the scale and scope of the problem, stronger action to eliminate mosquitos – and the diseases they carry – is a development imperative.
+<P>
+The World Health Organization ranks mosquitoes among the top threats to public health, especially in developing countries.
+As a graphic on Bill Gates’ blog last year highlighted, mosquitos are responsible for 830,000 human deaths annually – 250,000 more than are caused by our fellow humans.
+<P>
+Beyond the massive human costs, mosquito-borne diseases carry large economic costs.
+For an infected individual, those costs include treatment and hospital expenses, transportation to and from a health clinic or hospital, time spent out of work, and insect sprays or bed nets to protect against more disease-spreading mosquito bites.
+<P>
+For countries, mosquito-borne diseases cost millions – even billions – of dollars each year.
+Governments must fund mosquito-control and prevention programs, from the use of insecticides to the distribution of mosquito nets, as well as public-education campaigns and vaccination initiatives.
+(Although there is no widely available vaccine for malaria, three countries are set to take part in a pilot immunization program starting in 2018, and some mosquito-borne diseases – such as yellow fever, Japanese encephalitis, and dengue – are vaccine-preventable.)
+<P>
+Governments may also have to compensate communities affected by epidemics, fund research to treat illness or prevent future outbreaks, cover increased health-care costs, and sustain programs to help patients.
+Meanwhile, the economy suffers from reduced productivity.
+<P>
+Eradicating mosquito-transmitted diseases must therefore be a top priority, eliciting not just effective government stewardship, but also the involvement of civil society, private-sector engagement, and the participation of affected communities.
+Beyond effective collaboration, success will demand improved surveillance and greater innovation, particularly in diagnostics, drugs and vaccines, insecticides, and vector control.
+<P>
+The good news is that, on vector control – that is, mosquito eradication – promising innovations are already emerging.
+One such innovation uses a bacterium called Wolbachia, either to stop deadly viruses from growing or to reduce mosquito populations.
+<P>
+Wolbachia is present in about 60% of species of insects, including some mosquitoes.
+One species where Wolbachia is not present naturally is the Aedes aegypti mosquito, which is responsible for transmitting human viruses like dengue, chikungunya, yellow fever, and Zika.
+Studies show that when Wolbachia is introduced into the Aedes aegypti mosquito, it can prevent the growth of human viruses within the insect.
+Another approach would be to release a large number of male mosquitos with the Wolbachia bacteria; females with which they mate would be unable to reproduce.
+<P>
+Another innovation is a vaccine called AGS-v, developed by the London-based pharmaceutical company SEEK to provide broad protection against a range of mosquito-borne diseases.
+The vaccine is designed to trigger an immune response to mosquito saliva, thereby preventing infection from whatever virus the saliva contains.
+<P>
+As with Wolbachia, researchers believe that AGS-v could also curb mosquito populations.
+After a mosquito takes a blood meal from a vaccinated person, the antibodies may attack the mosquito’s salivary proteins, affecting its ability to feed and to lay eggs – and thereby leading to its premature death.
+Phase I clinical trials of the vaccine, sponsored and funded by the National Institute of Allergy and Infectious Diseases, began in February.
+<P>
+A third innovation is essentially a smart mosquito trap, capable of capturing only the mosquito species capable of spreading the Zika virus and other diseases.
+Part of Microsoft’s Project Premonition research initiative, the prototype trap uses an infrared light beam to identify specific mosquito species with more than 80% accuracy.
+When the trap captures a mosquito of interest, it saves related data, such as the time, temperature, humidity, and light levels, in order to enhance researchers’ understanding of mosquito behavior and, thus, their ability to address potential outbreaks.
+<P>
+Such innovations promise to accelerate substantially efforts to curb deadly mosquito-borne diseases.
+The question is the extent to which they will be applied.
+After all, far more basic measures that individuals can take to protect themselves and their families are not being implemented nearly enough.
+<P>
+For example, because mosquitos need water to breed, people should be removing puddles or other collections of standing water around their homes, puncturing unused tires, regularly cleaning birdbaths, and draining swimming pools.
+Liquid larvicides can be applied directly to water using backpack sprayers, and introducing fish into ponds, particularly in residential areas, can also help to eliminate larvae.
+<P>
+As for adult mosquitoes, keeping grass and shrubs short limits resting places, thereby helping to control populations.
+Window and door screens should be installed and maintained, and the outdoors should be avoided in the morning and evening, when mosquitos tend to be most active.
+Long-sleeve shirts, long pants, and insect repellants can help minimize bites when staying inside isn’t an option.
+<P>
+Such techniques aren’t foolproof, but they can go a long way toward protecting individuals.
+But people need to use them.
+And, for that, information must be shared widely, and the relevant tools made available to the public.
+<P>
+Last month marked the 120th anniversary of the discovery that female mosquitoes transmit malaria among humans.
+Since then, malaria and other mosquito-borne diseases have been controlled and even eliminated in the developed world.
+Yet, in developing countries, the fight is far from over.

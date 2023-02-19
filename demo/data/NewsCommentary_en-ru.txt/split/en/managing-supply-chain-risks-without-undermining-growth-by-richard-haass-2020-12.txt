@@ -1,0 +1,70 @@
+<HEADLINE>
+Supply Chains and Demand
+<P>
+NEW YORK – Two adages come to mind as I write this: “Don’t put all your eggs in one basket,” and “A chain is only as strong as its weakest link.”
+Taken together, the two maxims sum up current anxieties about supply chains.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Almost anything and everything that is produced in the world nowadays may be the result of a supply chain: a series of steps in which raw materials and components are produced, assembled, and then marketed around a single country or the world.
+Some products can require thousands of steps that include hundreds of businesses in dozens of states or countries.
+<P>
+Supply chains were largely constructed and maintained with little thought given to their resilience.
+Keeping costs down was paramount.
+This meant often depending on a single low-cost supplier or producer and limiting inventory size.
+“Just in time” was the concept that reflected the desire to minimize the gap between when an item was produced or purchased, and when it was sold.
+<P>
+But that was pre-COVID-19.
+Early in the crisis, there were acute shortages of personal protective equipment (PPE) and pharmaceutical ingredients.
+Now, supply chains are functioning, but often with long delays tied to shipping.
+The question of how best to increase supply-chain resilience is now front and center.
+<P>
+Future outbreaks of infectious diseases could prove far more disruptive.
+In addition, any of the increasingly frequent and severe effects of climate change – including wildfires, hurricanes, and floods – could shut down a production site for weeks or months.
+Likewise, wars between countries cannot be ruled out, and wars within them are relatively commonplace.
+Then there is the potential for work strikes, nuclear accidents, earthquakes, mechanical breakdowns, and terrorism.
+<P>
+A second reason for heightened concern over supply chains is how reliant the world has become on China, the world’s largest manufacturer, for critical goods.
+The pandemic revealed that many countries depend on China for the bulk of their PPE, and China’s decision to block exports of these goods led to widespread shortages.
+There is also the concern that an increasingly assertive China might seek to exploit the world’s dependence on it for political purposes.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+There are a number of ways to manage these risks.
+One is to reduce dependence on a single domestic or foreign supplier of a critical commodity or component.
+This could translate into contracting with, say, a half-dozen suppliers, so that if something were to happen to one or even several of them, dependent countries would not be crippled.
+<P>
+The problem is that ensuring adequate redundancy can be difficult.
+There may not be alternatives with the needed quality and capacity – and developing them can be expensive and take months or years.
+But it may be worth doing in certain areas, especially among close partners and allies.
+<P>
+A second approach is to require that some or all of a critical component, medicine, or technology be manufactured domestically.
+This is no guarantee against disruption, because a domestic plant can also be taken off-line for any number of reasons, but it creates jobs and reduces some of the uncertainty of depending on foreign sources far away and beyond one’s control.
+<P>
+But reshoring will take time and add costs to production, which would have to be passed on to consumers or offset by government subsidies.
+And a larger government role in the economy is often a recipe for waste and corruption.
+<P>
+International trade is underpinned by the concept of comparative advantage, which holds that a country should produce what it is relatively good at and import those items that are relatively more expensive for it to produce.
+Supply-chain resiliency, however, will necessarily mean making some economically inefficient decisions, as countries will want to strengthen their national security by producing items for which they do not enjoy a comparative advantage.
+<P>
+But there is another consideration.
+Who gets to decide when a government can deem that some or all of a particular item must be produced at home?
+Mandating domestic production resembles nothing so much as import substitution, a form of protectionism in which domestic producers are given priority over international rivals.
+<P>
+Think about it: if every country were to mandate domestic production of “strategic” items, global trade, a powerful engine of economic growth, would drastically shrink just when more growth is needed to lift the world out of the pandemic-induced recession.
+At a minimum, any move toward increasing domestic production of designated items would need to be implemented in a coordinated fashion at the World Trade Organization, something likely to be easier said than done.
+<P>
+There is one more path to consider: stockpiling.
+Governments could build and fill stockpiles of critical components needed for their economy and society to provide the necessary cushion against inevitable supply-chain disruptions.
+Some already do this for oil and select minerals and commodities.
+Stockpiles could be filled naturally, whether by imports or market-induced domestic production, to avoid the pitfalls of protectionism.
+Stockpile pooling or sharing arrangements could also be established with other countries to reduce vulnerabilities further.
+<P>
+Any increased resort to stockpiles involves higher costs, as they must be filled, and some of what is purchased may go unused or become unusable.
+And it is impossible always to know in advance what will be needed.
+Still, stockpiling makes good sense.
+<P>
+The COVID-19 crisis has revealed that interconnectedness brings benefits as well as risks to us all.
+In order to address some of these risks, supply chains will need to be rethought, with more emphasis put on supplier diversification, domestic production, and stockpiling.
+The challenge will be to strike a necessary balance ensuring that a targeted and limited industrial policy does not become a cover for expensive policies that threaten trade and economic growth.

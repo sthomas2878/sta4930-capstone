@@ -1,0 +1,56 @@
+<HEADLINE>
+White-Collar Crime, No Punishment
+<P>
+NEW YORK – Although the proper role of government in society is much debated, few would dispute that law enforcement falls within the state’s remit.
+But governments have increasingly turned a blind eye to enforcing the laws against the world’s most lucrative crimes: the fraud, embezzlement, tax evasion, bribery, and money laundering committed by the well-heeled.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In part, this failure can be ascribed to a lack of resources.
+Law enforcement authorities often are no match for white-collar criminals’ sophisticated techniques, which are carried out with the assistance of high-paid lawyers and accountants.
+But the bigger problem is that law enforcement efforts are increasingly directed not at criminals but at journalists who attempt to uncover their crimes.
+<P>
+Consider Wirecard, the German payments processor and financial-service provider.
+A recent darling of investors, the firm turned out to be one of the greatest frauds in Germany’s post-war history.
+In a classic Ponzi scheme, the company claimed to have parked abroad money that never existed.
+As with the Enron and Bernie Madoff scandals, the accountants, lawyers, and regulators who were supposed to safeguard the integrity of the financial system were complicit.
+In addition to failing utterly to do their jobs, they turned their weapons against the journalists who tried to expose the fraud.
+<P>
+For example, Germany’s financial regulator, BaFin, went so far as to file a criminal complaint in April 2019 against Dan McCrum and Stefania Palma, two Financial Times reporters who were investigating Wirecard’s accounting practices and misreporting.
+The Munich prosecutor’s office did not close its investigation against McCrum and Palma until September 3 this year, more than two months after Wirecard had already been forced into bankruptcy, and its CEO, Markus Braun, had been jailed pending a full criminal investigation.
+Apparently, the misleading information that the company and its hired agents presented to regulators was deemed more credible than the reporting of journalists working for one of the world’s most respected financial news outlets.
+<P>
+This is not an isolated case.
+While fraud, embezzlement, tax evasion, and money laundering are still labeled as crimes in most countries, their enforcement is declining rapidly, and nowhere more so than in the United States under President Donald Trump.
+As my Columbia Law School colleague John C. Coffee documents in his new book, Corporate Crime and Punishment: The Crisis of Underenforcement, law-enforcement actions against corporations are down by 76% compared to the Obama era, and by 26-30% for white-collar crime in general.
+At the current pace, it will not take long for financial crime to be whitewashed completely.
+<P>
+Some might argue that such enforcement is not worth the effort.
+In an article named after Fyodor Dostoyevsky’s famous novel, “Crime and Punishment: An Economic Approach,” the late Nobel laureate economist Gary Becker (one of the founders of the law and economics field) argued that the key question for law enforcement is not so much morality as costs and benefits.
+Because law enforcement itself costs something, Becker asked “how many resources and how much punishment should be used to enforce different kinds of legislation … how many offenses should be permitted and how many offenders should go unpunished?”
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Such normative questions, he argued, should be determined by the net “social loss,” meaning the difference between the harms to society and the gains to the criminals.
+By this reasoning, it followed that the higher the gains for the offenders, the more likely they would cancel out the social loss, especially in light of the high costs of policing white-collar crimes.
+<P>
+Law enforcement agencies in the US and elsewhere seem to have heeded Becker’s advice.
+Rather than fighting crime that is lucrative for offenders but costly to detect, they have directed their limited resources against those trying to uncover these very crimes and the state’s complicity in them.
+<P>
+Thus, when the US Financial Crimes Enforcement Network (FinCEN) learned that the International Consortium of Investigative Journalists (ICIJ) was about to report on thousands of unanswered Suspicious Activity Reports (SARs) that had been filed with the agency, it issued a statement warning that the unauthorized publication of documents that might compromise national security constitutes a crime.
+The US Department of Justice, the agency added, had already been put on notice.
+<P>
+Undeterred, the ICIJ released its exposé on the “FinCEN Files” on September 20, detailing how big global banks – including JPMorgan Chase, HSBC, Standard Chartered, and Deutsche Bank – filed SAR after SAR and yet continued to profit from the activities of suspect clients who were moving around billions, if not trillions, of dollars.
+<P>
+Under current law, filing a SAR does not require a bank to cease providing services to the client in question, but it should at least raise a red flag within that institution.
+It didn’t.
+Instead, the banks stayed the course and continued to drown FinCEN’s 267 underpaid and overworked agents in paperwork.
+In the meantime, third-party “market watchdogs” earned more from deflecting investigations of their clients than from monitoring their activities.
+Wirecard’s legal advisers and accountants apparently jointly pocketed £120 million ($150 million) per year prior to the company’s demise.
+<P>
+The FinCEN files do not have all of the dramatic details of the ICIJ’s 2016 “Panama Papers” bombshell, which revealed brazen tax evasion by prominent sports stars and politicians, committed with the help of the Panamanian law firm Mossack Fonseca.
+In fact, much of what the FinCEN files contain has already been known for some time, which may be why the news is being met with a shrug – Plus ça change, as the French say.
+<P>
+But even if scandalous behavior on the part of big banks is nothing new, we should all be deeply troubled by watchdogs and law enforcement authorities’ complicity in highly lucrative crimes.
+Not only have they turned a blind eye to brazen lawlessness; they have proved all too willing to muzzle the free press in the process.

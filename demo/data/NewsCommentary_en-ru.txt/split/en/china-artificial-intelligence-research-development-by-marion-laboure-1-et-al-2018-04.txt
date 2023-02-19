@@ -1,0 +1,50 @@
+<HEADLINE>
+The Rise of Silicon China
+<P>
+CAMBRIDGE – In the future, if not already, the Silicon Valleys of artificial intelligence (AI) will be in China.
+The tech firms Xiaomi, Baidu, Didi Chuxing, Meituan, and Toutiao are all headquartered in Beijing.
+Alibaba, China’s e-commerce giant, is based in Hangzhou.
+And Tencent, a multinational conglomerate that is investing heavily in AI, is in Shenzhen.
+Tencent already has a market capitalization higher than General Electric, and Baidu is larger than General Motors.
+<P>
+China has a chance to lead in AI because it has managed to adopt new technologies very quickly.
+Just as millions of consumers in India went directly from no phones to smartphones – skipping landlines and flip phones altogether – Chinese consumers are now doing the same, and across a wide range of new technologies.
+For example, Chinese shoppers have skipped credit cards and gone straight to using e-payment platforms.
+While Apple Pay is struggling to gain momentum in the United States, Tencent is already facilitating more than 600 million cashless transactions every day.
+<P>
+Tencent and other Chinese firms’ massive centralized platforms give them an edge in AI research and development, by allowing them to generate and collect huge stores of data with which to train their machine-learning algorithms.
+These platforms also enjoy near-monopolistic power, which will help them monetize AI applications in the future.
+<P>
+Moreover, Chinese firms are benefiting from Chinese cultural norms concerning privacy.
+In the West, privacy is regarded as a personal right to one’s own space and, by extension, to one’s data.
+This conception of privacy is good for individuals and, arguably, for society; but it is bad for AI developers, who face hurdles accessing the data they need to train their algorithms.
+<P>
+By contrast, in Chinese culture, privacy is viewed suspiciously, as a form of secrecy.
+It is assumed that an honest person should have nothing to hide from the public domain, so Chinese consumers are often happy to give up their data.
+Unlike in India, whose Supreme Court affirmed the right to privacy as a fundamental right, and the European Union, which has codified a “right to be forgotten,” there has not been any serious discussion about data privacy in China.
+<P>
+That suits Chinese technology firms just fine.
+The legal framework in China allows tech firms to collect a wide range of user data for a wide range of purposes, such as constructing social-scoring systems, like Alibaba’s Sesame Credit.
+<P>
+Still, limited financing and investment opportunities – both at home and abroad – could slow China’s momentum in AI and related fields.
+Chinese savers have little incentive to put their money in Chinese banks, because the rate of inflation is higher than the real rate of return on deposits.
+And given China’s high consumer-price volatility, many people are hesitant to lock up their savings for long.
+<P>
+Moreover, there is little reason to invest in the Shanghai Stock Exchange Composite Index so long as economic growth rates are systematically higher than stock-market performance.
+And investors are wary of a repeat of 2015, when market turbulence led to government intervention, sharply falling prices, and several trading halts.
+The government did manage to stabilize prices, but it did so by creating added incentives for brokers and banning short-sells and the sale of stocks above a certain threshold.
+<P>
+A third problem is that a steady increase in housing prices has made investment in all risk assets riskier.
+Zhou Xiaochuan, the governor of the People’s Bank of China, is now warning of a “Minsky moment,” whereby China’s growing mortgage-fueled household debt could lead to a sudden asset-price collapse.
+<P>
+A final problem is that Chinese firms face limitations in investing overseas.
+In addition to the Chinese government’s own capital controls, the US government has been considering tighter restrictions on Chinese investments in strategically important sectors, particularly those relating to AI and machine learning.
+In fact, US regulators recently blocked Alibaba’s attempt to acquire MoneyGram, citing national-security concerns.
+<P>
+The prospect of a China-led AI revolution poses both opportunities and challenges.
+From the perspective of the West, it could allow for more collaboration with one of the world’s most dynamic economies.
+And it could bring China more deeply into the fold of the rules-based international order.
+<P>
+Yet, at the same time, China’s lead in AI will likely occasion more clashes between Chinese firms and foreign regulators.
+China’s tech giants are expanding internationally, and their approach to data collection and privacy will present a dilemma for other countries.
+The challenge will be to contain the risks of doing business with an illiberal state, without losing out on Chinese investments and innovations.

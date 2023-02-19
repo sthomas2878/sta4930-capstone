@@ -1,0 +1,54 @@
+<HEADLINE>
+The Pillars of Darwinism
+<P>
+This month marks the 150th anniversary of the publication of Charles Darwin’s On the Origin of Species .
+The evolutionary theory he presented in that great book rests on two pillars: the idea of descent with modification, and the idea of natural selection. amp#160;
+<P>
+Darwin believed that present-day organisms are descendants of much simpler ancestors: they are the products of unbroken lines of heredity that stretch back to the origin of life.
+Today, we have a mass of evidence, ranging from studies of ancient fossils to the latest discoveries of molecular biology, that supports this theory.amp#160;
+<P>
+Darwin, however, did not invent the idea of descent with modification.
+Fifty years earlier, Jean-Baptiste Lamarck had suggested that living things are products of a long historical process of transformation.
+But the evolutionary mechanisms he proposed, which included the inheritance of characteristics induced by the environment, never found favor.amp#160;
+<P>
+It is Darwin’s second powerful idea – the idea that even the most complicated features of organisms are the outcome of natural selection – that has been the key to his theory’s long-term success.
+Natural selection has provided scientific explanations of traits as diverse as the mammalian eye, the bird’s wing, and the ability of plants to transform light into sugars.
+There are now many examples of the operation of natural selection in nature.
+<P>
+The two pillars of evolutionary theory are the consequences of interaction among three distinctive features of living organisms: reproduction (individuals produce offspring), heredity (like gives rise to like), and variation (sometimes offspring are different from their parents).
+Natural selection results whenever the differences between individuals affect the number of offspring they produce.
+If the variations that affect reproduction are heritable , the outcome is evolution by natural selection.
+Many generations of selection in a particular direction – say, for moving efficiently through the air – can give rise to complicated structures like wings and the coordinated processes of flying.
+<P>
+To flesh out Darwinism, we obviously have to understand the three processes that are at its core.
+We need to know how organisms develop and reproduce, what is inherited and how it is inherited, and how heritable variations are generated.
+<P>
+Until recently, biologists’ view of these processes has been very gene-centered, as exemplified by Richard Dawkins’ idea of the “selfish gene.”
+Inheritance and reproduction have been seen in terms of DNA and its replication, and variation in terms of random changes in DNA sequences.
+<P>
+Yet discoveries made during the latter part of the twentieth century have shown that there is much more to inheritance than DNA.
+We now know of several mechanisms that enable cells with identical DNA to have different characteristics, which are transmitted to daughter cells.
+This epigenetic inheritance is a crucial part of normal development in multi-cellular animals like us.
+<P>
+A person’s pancreas cells and skin cells are clearly different, yet they have the same genes with the same DNA sequences.
+Moreover, the cells’ features are inherited in their respective cell lineages, even though the stimuli that triggered the differences between them during embryonic development are long gone.
+<P>
+Epigenetic inheritance occurs not only within individuals during their development; it also occurs between generations : individual yeast cells or bacterial cells can transmit epigenetic variations from one generation to the next, and multi-cellular organisms can transmit them through their sperm and eggs.
+If the epigenetic state of its germ cells is altered during an organism’s development, this variation can be transmitted to its descendants.
+<P>
+The work of Michael Skinner and his colleagues provides a good example of this: they found that injecting pregnant rats with a chemical that suppresses androgens (male sex hormones) causes their descendants to have diseases that are inherited for several generations.
+There are many other examples of heritable epigenetic variations, some of which are environmentally induced.
+Gal Raz and one of us (EJ) recently went through the scientific literature and found 101 cases of epigenetic inheritance between generations of bacteria, fungi, protozoa, plants, and animals, and we are sure that this is just the tip of a very large iceberg.
+<P>
+In addition to cellular epigenetic inheritance, there are other non-genetic ways in which variations can be transmitted from generation to generation.
+As humans, we are well aware of these: the transmission of cultural variations, such as different religious beliefs, is a prime example.
+But there are many less familiar examples of information that is learned or acquired from parents by non-genetic means, ranging from the feeding techniques of monkeys and rats to the food preferences of rabbits and the song dialects of birds and whales.
+<P>
+Recognizing that there is more to heredity than DNA has implications for medicine and agriculture, as well as for evolutionary theory.
+For example, we know that some environmental insults and stresses, such as temporary starvation, can affect future generations.
+In evolutionary studies, because heritable non-genetic variations are often induced by the environment, we have to expand our notion of heredity and variation to include the inheritance of acquired variations, the once disparaged idea that was part of Lamarck’s theory.
+<P>
+In a sense, we have to go back to Darwin’s original, pluralistic convictions.
+Darwin, unlike many of his more dogmatic followers, saw a role for induced variation in evolution.
+Today, in the light of the newly discovered epigenetic mechanisms, Darwinian evolution should include descent with epigenetic as well as genetic modifications, and natural selection of induced as well as random variations.
+Certainly, it should not be reduced to “selfish genes.”

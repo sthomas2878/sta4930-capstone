@@ -1,0 +1,45 @@
+<HEADLINE>
+The Hidden Danger of Big Data
+<P>
+CAMBRIDGE – In game theory, the “price of anarchy” describes how individuals acting in their own self-interest within a larger system tend to reduce that larger system’s efficiency.
+It is a ubiquitous phenomenon, one that almost all of us confront, in some form, on a regular basis.
+<P>
+For example, if you are a city planner in charge of traffic management, there are two ways you can address traffic flows in your city.
+Generally, a centralized, top-down approach – one that comprehends the entire system, identifies choke points, and makes changes to eliminate them – will be more efficient than simply letting individual drivers make their own choices on the road, with the assumption that these choices, in aggregate, will lead to an acceptable outcome.
+The first approach reduces the cost of anarchy and makes better use of all available information.
+<P>
+The world today is awash in data.
+In 2015, mankind produced as much information as was created in all previous years of human civilization.
+Every time we send a message, make a call, or complete a transaction, we leave digital traces.
+We are quickly approaching what Italian writer Italo Calvino presciently called the “memory of the world”: a full digital copy of our physical universe.
+<P>
+As the Internet expands into new realms of physical space through the Internet of Things, the price of anarchy will become a crucial metric in our society, and the temptation to eliminate it with the power of big data analytics will grow stronger.
+<P>
+Examples of this abound.
+Consider the familiar act of buying a book online through Amazon.
+Amazon has a mountain of information about all of its users – from their profiles to their search histories to the sentences they highlight in e-books – which it uses to predict what they might want to buy next.
+As in all forms of centralized artificial intelligence, past patterns are used to forecast future ones.
+Amazon can look at the last ten books you purchased and, with increasing accuracy, suggest what you might want to read next.
+<P>
+But here we should consider what is lost when we reduce the level of anarchy.
+The most meaningful book you should read after those previous ten is not one that fits neatly into an established pattern, but rather one that surprises or challenges you to look at the world in a different way.
+<P>
+Contrary to the traffic-flow scenario described above, optimized suggestions – which often amount to a self-fulfilling prophecy of your next purchase – might not be the best paradigm for online book browsing.
+Big data can multiply our options while filtering out things we don’t want to see, but there is something to be said for discovering that 11th book through pure serendipity.
+<P>
+What is true of book buying is also true for many other systems that are being digitized, such as our cities and societies.
+Centralized municipal systems now use algorithms to monitor urban infrastructure, from traffic lights and subway use, to waste disposal and energy delivery.
+Many mayors worldwide are fascinated by the idea of a central control room, such as Rio de Janeiro’s IBM-designed operations center, where city managers can respond to new information in real time.
+<P>
+But with centralized algorithms coming to manage every facet of society, data-driven technocracy is threatening to overwhelm innovation and democracy.
+This outcome should be avoided at all costs.
+Decentralized decision-making is crucial for the enrichment of society.
+Data-driven optimization, conversely, derives solutions from a predetermined paradigm, which, in its current form, often excludes the transformational or counterintuitive ideas that propel humanity forward.
+<P>
+A certain amount of randomness in our lives allows for new ideas or modes of thinking that would otherwise be missed.
+And, on a macro scale, it is necessary for life itself.
+If nature had used predictive algorithms that prevented random mutation in the replication of DNA, our planet would probably still be at the stage of a very optimized single-cell organism.
+<P>
+Decentralized decision-making can create synergies between human and machine intelligence through processes of natural and artificial co-evolution.
+Distributed intelligence might sometimes reduce efficiency in the short term, but it will ultimately lead to a more creative, diverse, and resilient society.
+The price of anarchy is a price well worth paying if we want to preserve innovation through serendipity.

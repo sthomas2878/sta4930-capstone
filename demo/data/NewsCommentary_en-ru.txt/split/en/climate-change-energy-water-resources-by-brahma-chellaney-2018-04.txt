@@ -1,0 +1,59 @@
+<HEADLINE>
+Making Water-Smart Energy Choices
+<P>
+NEW DELHI – Climate change undoubtedly poses a potent – even existential – threat to the planet.
+But the current approach to mitigating it, which reflects a single-minded focus on cutting carbon dioxide emissions, may end up doing serious harm, as it fails to account for the energy sector’s depletion of water resources – another major contributor to climate change.
+<P>
+“Water is at the heart of both the causes and effects of climate change,” a National Research Council report declares.
+And, indeed, the water cycle – the processes of precipitation, evaporation, freezing, melting, and condensation that circulate water from clouds to land to the ocean and back – is inextricably linked to the energy exchanges among the land, ocean, and atmosphere that determine Earth’s climate.
+Just as the accumulation of carbon in the atmosphere contributes to climate change, so does the degradation and depletion of water resources.
+And these processes are mutually reinforcing, with each propelling and intensifying the other.
+<P>
+Energy extraction, processing (including refining), and production is highly water-intensive.
+The energy sector is the largest consumer of water in every developed country except Australia, where, like in most developing countries, agriculture comes out on top.
+In the European Union, electricity-generating plants alone account for 44% of all freshwater consumed each year; in the United States, that figure is 41%.
+<P>
+The more stressed water resources become, the more energy the water sector demands, as groundwater must be pumped from greater depths, and surface water must be transported across longer distances.
+In India, for example, energy now comprises about 90% of the cost of groundwater.
+<P>
+As these processes fuel climate variability, they reduce water availability and boost energy demand even further, producing a vicious cycle that will be hard to break.
+In fact, meeting higher electricity demand and achieving national targets for production of biofuels and other alternative fuels would require a more than twofold increase in global water use for energy production over the next quarter-century.
+<P>
+The only way to break this cycle – and thus to mitigate climate change effectively – is to manage the nexus between water and energy (as well as food, production of which depends on water and energy).
+In other words, countries must make energy choices that are not only less carbon-intensive, but also less water-intensive.
+<P>
+With global water supplies already strained, the shift to a water-smart approach to energy could not be more urgent.
+Two-thirds of the world’s people – especially in Central and South Asia, the Middle East, and North Africa – confront serious water shortages.
+Asia – the biggest driver of increased global energy demand – is also the world’s driest continent, measured by water availability per capita.
+<P>
+In these water-stressed regions, shortages have already begun to constrain the expansion of energy infrastructure.
+One important reason why China has failed to develop its shale hydrocarbon industry is inadequate water in the areas where its deposits are located.
+(To extract energy from shale, millions of gallons of water must be shot into it.)
+<P>
+Increasing water stress has also driven up costs for existing power-generation projects, possibly jeopardizing their viability.
+Australia’s Millennium drought, which lasted from the late 1990s until 2012, undermined energy production, causing prices to rise.
+<P>
+With energy shortages usually most severe in water-stressed areas, what are affected countries to do?
+For starters, they must recognize that energy that is “clean” in terms of carbon can be “dirty” from a water-resource perspective.
+For example, “clean” coal involving carbon capture and sequestration ranks, along with nuclear power, at the top of the water-intensity chart.
+<P>
+Some renewables, such as solar thermal power and geothermal energy, are also notoriously water-intensive.
+By contrast, solar photovoltaic and wind power – two renewable technologies gaining traction globally – require no water for their normal operations.
+Encouraging the development of such sources should thus be a high priority.
+<P>
+But the type of energy that is used is not the only issue.
+It is also important to select the right types of plants at the planning stage.
+Alternative cooling technologies for power generation, including dry or hybrid cooling, can reduce water consumption (though the use of such technologies currently is constrained by efficiency losses and higher costs).
+<P>
+Power plants should also be located in places where they will rely not on freshwater resources, but instead on saline, brackish, degraded, or reclaimed water.
+In Asia, which now leads the world in terms of adding nuclear power capacity, most new plants are located along coastlines, so that these thirsty facilities can draw more on seawater.
+<P>
+Yet here, too, there are serious risks.
+Rising sea levels, as a result of climate change, could pose a much more potent threat than natural disasters, such as the tsunami that caused the 2011 Fukushima catastrophe in Japan.
+Moreover, with coastal areas often densely populated and economically valuable, finding suitable seaside sites for new nuclear plants is no longer easy.
+Despite having more than 4,500 miles (7,200 kilometers) of coastline, India has struggled to implement its planned expansion of nuclear power through seaside plants, owing to strong grassroots opposition.
+<P>
+True energy security is possible only in the context of resource, climate, and environmental sustainability.
+The global focus solely on carbon reduction not only obscures these critical linkages, but also encourages measures that adversely impact resource stability.
+It is time to adopt a more comprehensive, integrated, and long-term approach to the management and planning of energy, water, and other resources, with a view toward broader environmental protection.
+Otherwise, we will fail to meet the sustainable-development challenges we face, with devastating consequences, beginning with the world’s most water-stressed regions.

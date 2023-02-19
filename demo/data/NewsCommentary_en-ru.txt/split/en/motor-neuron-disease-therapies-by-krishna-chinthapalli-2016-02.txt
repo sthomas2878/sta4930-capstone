@@ -1,0 +1,61 @@
+<HEADLINE>
+Commuting the Motor-Neuron Death Sentence
+<P>
+LONDON – The American baseball player Lou Gehrig was known not only for his offensive and defensive skill, but also for never missing a game due to injury or illness.
+But, after 15 years with the New York Yankees, the 35-year-old Gehrig noticed that his strength and speed were deteriorating rapidly.
+His walk became a shuffle, and he started to struggle with simple tasks like tying his shoelaces.
+In 1939, after playing in more than 2,000 consecutive games, Gehrig quit baseball.
+Within two years, he was dead.
+<P>
+Gehrig suffered from amyotrophic lateral sclerosis (ALS), the most common motor-neuron disease (MND) – a degenerative disorder characterized by the death of the nerve cells by which the brain activates muscles to perform any activity, from swallowing to walking.
+More than six decades later, MNDs like ALS remain incurable and fatal.
+<P>
+With MNDs affecting one in 400 people, usually in middle or old age, efforts to change that are vitally important.
+Intriguingly, some of the most important insights into the causes of MND – and thus how it can be treated – have been gained through observations of natives of the remote Pacific island of Guam and Italian soccer players.
+<P>
+In the 1950s, a type of MND was the leading cause of death in Guam natives, killing one in five adults.
+In attempting to explain this phenomenon, scientists observed that most of the island’s inhabitants ate cycad seeds, which contained beta-methylamino-L-alanine (BMAA), a toxin that interferes with the nervous system’s functioning.
+But the islanders carefully cleaned the seeds to remove the toxin before eating them, and they did not consume large enough quantities to cause damage.
+<P>
+They did, however, sometimes consume Guam flying foxes – a species of fruit bat that fed on cycad seeds and concentrated BMAA in their body fat.
+Since the flying fox became extinct in the 1960s, there has been a decline in new cases of MND in Guam, suggesting that BMAA consumption may have been a key contributor to the disease.
+<P>
+Another valuable clue about MND emerged in 1998, when a large-scale investigation into illicit drug use in Italian soccer inadvertently revealed a shockingly high incidence of ALS among professional and semi-professional players in Italy.
+It turns out that professional soccer players are ten times more likely to suffer from MND.
+Those who are most physically active – especially midfielders, who do the most running – and play professionally for a longer time (say, at least five years) face the highest risk.
+<P>
+Surveys of other kinds of athletes, such as boxers and American football players, as well as soldiers, suggest that they, too, may have a higher risk of MND.
+In all of these cohorts, physical exertion and injury are common.
+<P>
+The obvious question is: What do BMAA and physical activity have in common?
+The answer, discovered only about 20 years ago, is that both release a chemical called glutamate, which allows calcium to enter motor neurons and conduct electrical signals to muscles.
+The body releases glutamate during physical activity to enable motor neurons to fire more often.
+The problem is that when motor neurons absorb too much calcium, they can die.
+<P>
+Despite this revelation, treatments for MND are still severely lacking.
+The drug Riluzole, which blocks the release of glutamate, is the only available treatment for MND, and it extends a patient’s lifespan by only about three months.
+Over the last 50 years, more than 150 other drugs have been tried for MND, without success.
+But research involving two new techniques – stem-cell and gene therapies – appears promising.
+<P>
+Found in embryos and adult bone marrow, stem cells have the capacity to divide into other kinds of cells.
+But using stem cells to make motor neurons is tricky, not least because the new motor neurons would have to regrow the long extensions – which can be up to a meter (3.2 feet) – needed to connect the brain to the muscle.
+More important, the stem cells would be exposed to the same substances that damaged the patient’s motor neurons in the first place.
+<P>
+An alternative would be to create new support cells around motor neurons that can clean up toxins and encourage the neurons to grow.
+Such support cells can be grown from the stem cells contained in the patient’s own bone marrow, avoiding the ethical issues that arise when using embryonic stem cells.
+<P>
+Small-scale studies, involving about 20 patients, show that bone-marrow stem-cell transplants are relatively safe, with few side effects.
+Though those patients showed no improvement, such transplants appeared to extend lifespan and delay weakness in studies of mice with motor-neuron damage.
+<P>
+The other promising option, gene therapy, entails the delivery of genes that “instruct” existing support cells in the spinal cord and muscle to create molecules called growth factors to help motor neurons survive, despite the presence of toxins.
+Once the genes are delivered to the right cells, patients continue producing their own treatment.
+<P>
+The main challenge here consists in delivering the gene to its target, and ensuring that the cell uses it, instead of ignoring or even destroying it.
+But there are already organisms that do just that: viruses.
+<P>
+The solution, then, is for scientists to strip viruses of their own disease-causing genes, replacing them with new genes that tell cells to produce growth factors for motor neurons.
+Altering the coating of the virus can make it infect only certain types of cells, such as those that support motor neurons.
+<P>
+MND may be rare, but it remains a devastating disorder.
+Last year’s viral “ice bucket challenge,” in which people challenged one another to donate to ALS research or dump ice water on their heads, raised over $100 million, 20 times more than MND charities would usually raise in that time.
+If those funds are to support effective treatments, they should be channeled into further clinical trials, including of stem cells and gene therapies.

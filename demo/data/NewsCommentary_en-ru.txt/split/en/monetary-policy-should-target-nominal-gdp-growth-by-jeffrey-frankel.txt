@@ -1,0 +1,54 @@
+<HEADLINE>
+Time for Nominal Growth Targets
+<P>
+ZANZIBAR – It is time for the world’s major central banks to reconsider how they conduct monetary policy.
+The US Federal Reserve and the European Central Bank are grappling with sustained economic weakness, despite years of low interest rates.
+In Japan, Shinzō Abe, the opposition Liberal Democratic Party’s (LDP) candidate for prime minister, campaigned for a more expansionary monetary policy ahead of the general election on December 16.
+And central banks in both the United Kingdom and China are coming under new leadership, which might entail new thinking.
+<P>
+Monetary policymakers in some countries should contemplate a shift toward targeting nominal GDP – a switch that could be phased in gradually in such a way as to preserve credibility with respect to inflation.
+Indeed, for many advanced economies, in particular, a nominal-GDP target is clearly superior to the status quo.
+<P>
+Central banks announce rules or targets in terms of some economic variable in order to communicate their intentions to the public, ensure accountability, and anchor expectations.
+They have fixed the price of gold (under the gold standard); targeted the money supply (during monetarism’s early-1980’s heyday); and targeted the exchange rate (which helped emerging markets to overcome very high inflation in the 1980’s, and was used by European Union members in the 1990’s, during the move toward monetary union).
+Each of these plans eventually foundered, whether on a shortage of gold, shifts in demand for money, or a decade of speculative attacks that dislodged currencies.
+<P>
+The conventional wisdom for the past decade has been that inflation targeting – that is, announcing a growth target for consumer prices – provides the best framework for monetary policy.
+But the global financial crisis that began in 2008 revealed some drawbacks to inflation targeting, analogous to the shortcomings of exchange-rate targeting that were exposed by the currency crises of the 1990’s.
+<P>
+A nominal-GDP target’s advantage relative to an inflation target is its robustness, particularly with respect to supply shocks and terms-of-trade shocks.
+For example, with a nominal-GDP target, the ECB could have avoided its mistake in July 2008, when, just as the economy was going into recession, it responded to a spike in world oil prices by raising interest rates to fight consumer price inflation.
+Likewise, the Fed might have avoided the mistake of excessively easy monetary policy in 2004-06 (when annual nominal GDP growth exceeded 6%).
+<P>
+The idea of targeting nominal GDP has been around since the 1980’s, when many macroeconomists viewed it as a logical solution to the difficulties of targeting the money supply, particularly with respect to velocity shocks.
+Such proposals have been revived now partly in order to deliver monetary stimulus and higher growth in the US, Japan, and Europe while still maintaining a credible nominal anchor.
+In an economy teetering between recovery and recession, a 4-5% target for nominal GDP growth in the coming year would have an effect equivalent to that of a 4% inflation target.
+<P>
+Monetary policymakers in some advanced countries face the problem of the “zero lower bound”: short-term nominal interest rates cannot be pushed any lower than they already are.
+Some economists have recently proposed responding to high unemployment by increasing the target for annual inflation from the traditional 2% to, say, 4%, thereby reducing the real (inflation-adjusted) interest rate.
+They like to remind Fed Chairman Ben Bernanke that he made similar recommendationsto the Japanese authorities ten years ago.
+<P>
+But many central bankers are strongly averse to countenancing inflation rate targets of 4% – or even 3%.
+They have no desire to abandon a hard-won target that has succeeded in keeping inflation expectations well-anchored for so many years.
+Even if the increase were explicitly temporary, they worry, it might do permanent damage to the credibility of the long-term anchor.
+<P>
+This is also one reason why the same central bankers are wary of proposals for nominal-GDP targeting.
+They worry that to set a target for nominal GDP growth of 5% or more in the coming year would naturally be interpreted as setting an inflation target in excess of 2%, again damaging the credibility of the anchor permanently.
+<P>
+But the commitment to the 2% target need not be abandoned.
+The practical solution is to phase in a nominal GDP target gradually.
+Monetary authorities should start by omitting public projections for near-term real growth and inflation, while keeping longer-run projections and the inflation setting where it is.
+But they should add a longer-run projection for nominal GDP growth.
+This would be around 4-4.5% for the United States, implying a long-run real growth rate of 2-2.5%, the same as now.
+For Japan, lower targets would be needed – perhaps 3% nominal GDP growth, as the LDP recently proposed – owing largely to the absence of population growth.
+No one could call such moves inflationary.
+<P>
+Shortly thereafter, projections for nominal GDP growth in the coming three years should be added – higher than 4% for the US, UK, and eurozone (perhaps 5% in the first year, rising to 5.5% after that, but with the long-run projection unchanged at 4-4.5%).
+This would trigger much public speculation about how the 5.5% breaks down between real growth and inflation.
+The truth is that central banks have no control over that – monetary policy determines the total of real growth and inflation, but not the relative magnitude of each.
+<P>
+A nominal-GDP target would ensure either that real growth accelerates or, if not, that the real interest rate declines automatically, pushing up demand.
+The targets for nominal GDP growth could be chosen in a way that puts the level of nominal GDP on an accelerated path back to its pre-recession trend.
+In the long run, when nominal GDP growth is back on its annual path of 4-4.5%, real growth will return to its potential, say 2-2.5%, with inflation back at 1.5-2%.
+<P>
+Phasing in nominal-GDP targeting delivers the advantage of some stimulus now, when it is needed, while respecting central bankers’ reluctance to abandon their cherished inflation target.

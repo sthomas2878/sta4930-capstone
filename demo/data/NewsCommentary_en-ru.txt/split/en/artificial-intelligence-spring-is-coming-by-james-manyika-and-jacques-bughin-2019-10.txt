@@ -1,0 +1,63 @@
+<HEADLINE>
+The Coming AI Spring
+<P>
+LONDON – Artificial intelligence (AI) is all around us, generating excitement about how it could increase prosperity and transform our lives in multiple ways.
+Yet the technology is also likely to be disruptive.
+Policymakers and businesses must therefore try to capture the full value of what AI has to offer, while avoiding the downside risks.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The idea of AI has been around for more than a half-century, and we have lived through previous periods of excitement followed by long stretches of disappointment – “AI winters” – when the tech didn’t live up to the hype.
+But recent progress in AI algorithms and techniques, combined with a massive increase in computing power and an explosion in the amount of available data, has driven significant and tangible advances, promising to generate value for individuals, businesses, and society as a whole.
+<P>
+Companies are already applying AI techniques in sales and marketing to make personalized product recommendations to individual customers.
+And in manufacturing, AI is improving predictive maintenance by applying “deep learning” to high volumes of data from sensors.
+By deploying algorithms to detect anomalies, firms can reduce the downtime of machinery and equipment, from jet engines to assembly lines.
+Our research has highlighted hundreds of such business cases, which together have the potential to create between $3.5 trillion and $5.8 trillion in value per year.
+<P>
+AI also can contribute to economic growth by augmenting and substituting labor and capital inputs, spurring innovation, and boosting wealth creation and reinvestment.
+(AI will also create some negative externalities and transition costs, but these will be outweighed by its benefits.)
+<P>
+We estimate that AI and analytics could add as much as $13 trillion to total output by 2030, increasing the annual rate of global GDP growth by more than one percentage point.
+Furthermore, our research suggests that AI will have the greatest benefits if it focuses on innovation-led growth, and if its diffusion is accompanied by proactive management measures – in particular, retraining workers to give them the skills they will need to thrive in the new era.
+<P>
+As AI contributes to faster GDP growth, social welfare is also likely to increase.
+We estimate that AI and related technologies could improve welfare by 0.5-1% per year between now and 2030.
+That would be similar to the social impact of previous waves of technology adoption, including the information and communications technology revolution.
+<P>
+AI could help to improve many aspects of wellbeing, from job security and material living standards to education and environmental sustainability.
+Its biggest positive contribution to welfare may come in the areas of health and longevity: AI-driven drug discovery is several times faster than that based on conventional research.
+And AI-based traffic management can reduce the negative impact of air pollution on health by 3-15%.
+<P>
+One of the most exciting aspects of AI is its potential to help address a wide range of social challenges.
+Although the technology is not a panacea, it could potentially help the world to meet all 17 of the United Nations Sustainable Development Goals.
+AI applications that are currently being field-tested include efforts to assist with disaster-relief efforts, track smugglers (including human traffickers), and help blind people navigate their surroundings.
+And an AI disease-detection system can identify skin cancer as well as or even better than professional dermatologists can.
+<P>
+For all its potential, however, AI also poses substantial challenges that need to be addressed.
+The technologies themselves are still in the early stages of development, and more breakthroughs are needed to make them widely applicable.
+And there are considerable problems of data availability, which in turn affect the quality of AI models.
+<P>
+One critical area of concern is the impact of AI and automation on work.
+Overall, we expect that there will be enough work for everyone, and that more jobs will be gained than lost as a result of the new technologies.
+But policymakers will need to manage significant transitions and challenges arising from AI adoption at national, regional, and local levels.
+<P>
+In the fastest automation-adoption scenario, up to 375 million workers worldwide will need to switch occupational categories by 2030, while some 75 million will be affected in a midpoint scenario.
+The nature of almost all jobs will change, as people interact more closely with smart machines in the workplace.
+That will require new skills, presenting companies and policymakers with the major challenge of training and retraining the workforce at scale.
+And as demand for high-skill jobs grows, low-skill workers could be left behind, resulting in increased wage and income inequality.
+<P>
+The diffusion of AI will also raise difficult ethical questions.
+Some of these will relate to the use and potential misuse of the technology in areas ranging from surveillance and military applications to social media and politics.
+Algorithms and the data used to train them may introduce new biases, or perpetuate and institutionalize existing types.
+Other critical concerns include data privacy and the use of personal information, cybersecurity, and “deep fakes” that could be used to manipulate election results or perpetrate large-scale fraud.
+<P>
+Despite these challenges, AI can generate tremendous value for us all, if policymakers and businesses act swiftly and smartly to capture its full benefits and mitigate the inevitable risks.
+The long-awaited “AI spring” may finally be arriving, but we will need to be prepared to manage its onset with care.

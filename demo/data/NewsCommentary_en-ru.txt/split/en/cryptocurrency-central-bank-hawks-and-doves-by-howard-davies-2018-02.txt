@@ -1,0 +1,57 @@
+<HEADLINE>
+Crypto Hawks and Doves
+<P>
+LONDON – A few days ago, President Nicolás Maduro of Venezuela announced that his government had launched a new state-sponsored cryptocurrency called the petro.
+He claimed that $735 million worth of the new currency had already been sold, though observers are skeptical, unless state entities have been obliged to buy them.
+Even they will find it hard to do so, however, as the technology platform on which the petro will be traded has not yet been confirmed.
+<P>
+International demand for the petro will not be helped by recent pronouncements from Warren Buffett and Charlie Munger, the “sages of Omaha” who still control Berkshire Hathaway.
+Speaking of cryptocurrencies in general, Buffett was scathing.
+“I can say almost with certainty that they will come to a bad end,” he declared in January, while noting for good measure that he would be glad to buy put options on every one of them.
+Munger is, if anything, even more hostile, characterizing Bitcoin in particular as “totally asinine” and a “noxious poison.”
+Not much room for doubt there.
+<P>
+They are, of course, looking at Bitcoin as potential investments.
+The public authorities have slightly different concerns.
+Market regulators are interested in protecting investors, and have begun to issue warnings.
+Although these warnings have been sotto voce so far, I expect regulators will raise the volume soon, as the price gyrations continue.
+They should also be worried about the opportunities created for money launderers, and for trade in illicit drugs.
+<P>
+But central banks have a broader set of concerns.
+Will cryptocurrencies usurp their role as monopoly suppliers of money?
+Are there serious implications for financial stability if central banks lose control of the levers which influence purchasing power in the economy?
+<P>
+Interestingly, a number of different answers to these questions are emerging, and central banks are dividing into hawks and doves.
+<P>
+At the hawkish end of the spectrum sit the Chinese.
+Last year, the People’s Bank of China shut Bitcoin exchanges and clamped down on Initial Coin Offerings.
+Using a turn of phrase too vivid for Western central bankers, Pan Gongsheng, a PBOC Deputy Governor, said in December, “As Keynes has taught us, ‘the market can remain irrational longer than you can remain solvent.’
+There is only one thing left to do: sit on the river bank and see Bitcoin’s body pass by one day.”
+<P>
+Russia, unsurprisingly, takes a similar view.
+Elvira Nabiullina, the governor of Russia’s central bank, declared in December that “we don’t legalize pyramid schemes,” and “we are totally opposed to private money, no matter if it is in physical or virtual form.”
+<P>
+The doves are numerous, however.
+The Bank of Canada has noted that the distributed-ledger technology underpinning Bitcoin could make the financial system more efficient, and it is examining whether it should at some appropriate point issue its own digital currency for retail transactions.
+The Bank of England is similarly intrigued by the possibilities, dismissing concerns that digital currencies currently pose a risk to financial stability, and noting that the underlying technology “may have many other uses across the financial system, and may be a useful platform to power a central bank digital currency.”
+Both banks are actively researching the subject, and their views might best be described as Maoist, in the “let a hundred flowers bloom” sense.
+<P>
+So it was brave of Agustín Carstens, the new general manager of the Bank for International Settlements, the central banks’ central bank, to choose the topic of Bitcoin for one of his first major speeches.
+Could Carstens, the former long-time governor of the Bank of Mexico, find a happy medium between the hawks and the doves, between the controlling Chinese and the complaisant Canadians?
+<P>
+To frame his argument, Carstens returned to first principles, seeking to define money and then to understand the extent to which digital currencies qualify.
+The three criteria, he reminds us, are that a currency acts as a unit of account, a common means of payment, and a store of value.
+<P>
+Few, if any, goods are priced in Bitcoin, it is very rarely used in transactions, and the costs of doing so are prohibitive.
+As for being a store of value, cryptocurrencies’ price volatility makes them, so far, a highly risky investment.
+“While cryptocurrencies may pretend to be currencies,” Carstens concludes, “they fail the basic textbook definitions.”
+Moreover, without “institutional backup, which is best provided by a central bank,” new crypto assets endanger trust in the fundamental value and nature of money.
+So Carstens has positioned himself firmly in the hawk colony.
+<P>
+Carstens throws in an environmental objection, too, for good measure: the electricity used in the process of mining Bitcoin is equivalent to the daily consumption of Singapore.
+Unlike Singaporeans, who have the right to be air-conditioned in their humid climate, that level of energy consumption for Bitcoin mining is both “socially wasteful and environmentally bad.”
+<P>
+Is Carstens right to be so hostile, or will he, in a few years’ time, be seen as a kind of monetary King Canute, sitting in Basel on a well-upholstered central banker’s throne, ordering the digital tide to retreat?
+It is too early to say.
+I suspect the petro will fail, but I doubt if we have heard the last of digital currencies, or distributed ledgers, despite the fatwas issued by the likes of China, Russia, and the sages of Omaha.
+<P>

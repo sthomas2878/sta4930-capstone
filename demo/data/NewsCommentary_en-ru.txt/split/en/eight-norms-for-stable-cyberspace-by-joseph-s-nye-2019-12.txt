@@ -1,0 +1,66 @@
+<HEADLINE>
+Eight Norms for Stability in Cyberspace
+<P>
+CAMBRIDGE – In little more than a generation, the Internet has become a vital substrate for economic, social, and political interactions, and it has unlocked enormous gains.
+Along with greater interdependence, however, come vulnerability and conflict.
+Attacks by states and non-state actors have increased, threatening the stability of cyberspace.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+In November, at the Paris Peace Forum, the Global Commission on the Stability of Cyberspace issued its report on how to provide an overarching cyber stability framework.
+Originally convened by the Dutch government three years ago, the multi-stakeholder GCSC (of which I was a member) had co-chairs from Estonia, India, and the United States, and comprised former government officials, experts from civil society, and academics from 16 countries.
+<P>
+Over the years, there have been numerous calls for laws and norms to manage the new international insecurity created by information technology, starting with Russian proposals at the United Nations two decades ago calling for a binding treaty.
+Unfortunately, given the nature of cyber weapons and the volatility of the technology, such a treaty would not be verifiable and would quickly become obsolete.
+<P>
+Instead, the UN set up a Group of Governmental Experts (GGE), which produced a non-binding set of norms in 2013 and 2015.
+That group was unable to issue a report in 2017, but its work continues with an expanded membership, and an Open-Ended Working Group, in which some 80 states participated last September, has joined it at the UN.
+In addition, UN Secretary-General António Guterres established a High-Level Group, which issued a report looking forward to a broader UN discussion in 2020.
+<P>
+The GCSC defines cyber stability as a condition in which individuals and institutions can be reasonably confident in their ability to use cyber services safely and securely, change is managed in relative peace, and tensions are resolved without escalation.
+Stability is based on existing international law, which, as the GGE’s 2013 and 2015 reports affirmed, applies to cyberspace.
+<P>
+But a binding international legal treaty would be premature as the next step.
+Norms of expected behavior can provide a flexible middle ground between rigid treaties and taking no action at all.
+As Michael Chertoff, one of the GCSC co-chairs and previously US Secretary of Homeland Security, has explained, norms can exist in parallel with laws but are more dynamic in the face of rapidly changing technology.
+<P>
+The GCSC proposed eight norms to address gaps in previously declared principles and focused on technical issues that are fundamental to cyber stability.
+Such norms can be seen as common points of reference in the evolving political discussions.
+<P>
+The first norm is non-interference with the public core of the Internet.
+While authoritarian and democratic states might disagree about free speech or regulation of online content, they can agree not to interfere with core features such as the domain name system, without which there would be no predictable inter-connection among the network of networks that comprise the Internet.
+<P>
+Second, state and non-state actors must not support cyber operations intended to disrupt the technical infrastructure essential to elections, referenda, or plebiscites.
+While this norm does not prevent all interference such as what happened in the US elections in 2016, it sets some bright lines around technical features.
+<P>
+Third, state and non-state actors should not tamper with goods and services in development or production if doing so may substantially impair the stability of cyberspace.
+Insecure supply chains present an important threat to stability.
+<P>
+Fourth, state and non-state actors should not commandeer the general public’s resources for use as “botnets” (cyber robots based on others’ machines but commanded without their knowledge or consent).
+<P>
+Fifth, states should create procedurally transparent frameworks to assess whether and when to disclose to the public vulnerabilities or flaws in information systems or technology.
+Such flaws are often the basis of cyber weapons.
+Hoarding such vulnerabilities for possible use in the future poses a risk to all.
+The presumption should be in favor of disclosure and patching.
+<P>
+Sixth, developers and producers of goods and services on which the stability of cyberspace depends should emphasize security, take reasonable steps to ensure that their wares are free from significant vulnerabilities, mitigate flaws when they are discovered, and be transparent about the process.
+All actors have a duty to share information on vulnerabilities to help mitigate malicious cyber activity.
+<P>
+Seventh, states should enact appropriate measures, including laws and regulations, to ensure basic cyber hygiene.
+Just like vaccinations prevent communicable diseases such as measles, so basic cyber hygiene can go a long way toward removing the low-hanging fruit that attract cyber malefactors.
+<P>
+Lastly, non-state actors should not engage in offensive cyber operations, and state actors should prevent such activities or respond if they occur.
+Sometimes called “hack-back,” private vigilantism may escalate and pose a major threat to cyber stability.
+In the past, states once condoned and even supported privateers upon the high seas, but then discovered that the risks of escalation and unwanted conflict were too high.
+The same could be said for stability in cyberspace.
+<P>
+These eight norms alone will not ensure stability in cyberspace, but combined with norms, principles, and confidence-building measures suggested by others, they could provide a start.
+In the long term, states observe norms of behavior in order to improve coordination, manage uncertainty, preserve their reputations, or in response to internal pressures.
+The world is a long way from such a normative regime for cyberspace, but the GCSC has helped to nudge the process forward.

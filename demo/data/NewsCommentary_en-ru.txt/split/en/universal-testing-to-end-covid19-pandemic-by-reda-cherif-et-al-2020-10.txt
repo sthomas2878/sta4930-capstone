@@ -1,0 +1,58 @@
+<HEADLINE>
+How to End the Pandemic This Year
+<P>
+LONDON – Research to develop a safe, effective, and widely available COVID-19 vaccine is advancing rapidly.
+But when it will happen is not clear.
+Much depends on how we govern the production and distribution of new drugs.
+While the World Health Organization’s COVID-19 Technology Access Pool promises to foster accessibility, the actual availability of vaccines and treatments also will hinge on local manufacturing capacity, which in many countries has been eroded by deindustrialization.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Moreover, while universal testing remains a feasible, cost-effective, and immediately available method of managing the pandemic until a vaccine arrives, this approach also requires manufacturing capacity and sound governance in the public interest.
+Yet even in advanced economies, over-reliance on the private sector may prevent governments from maximizing test production and deployment.
+For example, the British government has proposed a “moon shot” testing program, yet its actual strategy needs clarification.
+<P>
+Such a mission-oriented approach requires a holistic, systems-level perspective, particularly when it comes to “wicked problems” like public-health crises and climate change, which involve a wide range of complex socioeconomic and technological issues.
+Implementing universal testing will require contributions from a sprawling network of actors and institutions.
+To be truly effective, any such program must be designed to generate systemic resilience and public value.
+<P>
+As has been demonstrated by the Nobel laureate economist Paul Romer, the epidemiologist Michael Mina, a recent IMF working paper, and many others, a properly designed universal testing program could bring the pandemic to an end within just a few months.
+The missing ingredients are industrial policies and other government measures to coordinate and steer production, in order to eliminate the bottlenecks that the private sector faces.
+<P>
+The necessary testing technology of rapid immunodiagnostic tests – such as saliva-based antigen tests that are similar to home pregnancy tests and cost less than $5 – already exists.
+Although these tests are sub-optimal in sensitivity compared with the standard polymerase chain reaction (PCR) tests, they are specific enough to detect infections at scale in settings disease prevalence is high; and, crucially, they do not require centralized laboratory facilities.
+<P>
+Therefore, with a purposeful program design that carefully considers the functionality and limitations of the technology deployed, rapid tests can enable decentralized universal testing programs at the community level.
+For example, tests could be made available free of charge at local pharmacies, with the expectation that everyone test themselves on a regular basis and self-isolate if positive.
+The same kits could be used as “infection-free” passports for admission to public spaces such as schools and workplaces.
+In this case, a new market would likely emerge as airlines, malls, restaurants, and cafés start purchasing cheap, rapid tests so that they can get back to business.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Rapid testing can help to expand and complement the universal testing strategy already being rolled out locally (such as the free mandatory testing at MIT and Georgetown University in the United States, weekly testing of employees at German workplaces, and the population-wide testing campaign in Wuhan).
+<P>
+Similar strategies need to be launched at the national level, especially in low- and middle-income countries where the affordability and scalability of molecular testing is low.
+Many countries have the capacity to produce a sufficient supply of tests at a cost that would pale in comparison to those inflicted by the pandemic.
+The number of tests needed globally over a year to supply a weekly testing regimen would be equivalent to less than half the number of cans of soda consumed annually.
+Moreover, scaling up production of antigen tests could be done relatively quickly, and would be a minor effort compared to the US mobilization for World War II.
+<P>
+While billions of dollars are being funneled toward vaccine development and production, additional funding also must be directed toward strengthening our testing infrastructure.
+At $5 per unit, the cost of testing the world’s population every week would come to around $2 trillion.
+That is far less than the pandemic-related loss of global income during this period (as measured by the difference between pre- and post-pandemic growth forecasts) and fiscal stimulus so far this year, an estimated total of $20 trillion.
+And these comparisons don’t account for the costs of lost lives or the potential benefits of achieving new economies of scale in test production – a spillover that could enable the eradication of the seasonal flu.
+<P>
+There are potentially steep challenges beyond production, of course.
+As practical as universal testing is, any such effort could still come under pressure if governments believe they must choose between different production needs for vaccines, anti-viral drugs, personal protective equipment, and expanded medical facilities.
+<P>
+But universal testing must not be viewed as a separate item on a larger list of priorities.
+The point of a mission-oriented approach is to create dynamic public-sector capabilities and strengthen the entire health system at once.
+New testing capacity should be integrated with national and local health systems as part of a broader program design, so that each leg of the strategy supports the others.
+<P>
+More broadly, COVID-19 has underscored the need for a more resilient and responsive industrial ecosystem that can increase production of essential items quickly.
+Even under current conditions, increasing the production of tests and implementing a universal testing strategy is feasible, and could end the pandemic by year’s end, while also creating the infrastructure needed to ward off future pandemics.
+<P>
+All countries need to adopt a longer-term vision and shore up their manufacturing capabilities.
+By leading on this issue, governments can strengthen local productive capacities and create a new kind of economic commons.
+The same mission-oriented approach could then be applied to science policy and industrial strategy, laying the groundwork for more cross-sectoral innovations and the type of resilient manufacturing that will be needed to tackle other highly complex global challenges.
+The days when we could pin all our hopes on technological fixes are over.

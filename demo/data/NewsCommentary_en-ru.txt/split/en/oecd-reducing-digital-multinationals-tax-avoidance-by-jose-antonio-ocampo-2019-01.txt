@@ -1,0 +1,51 @@
+<HEADLINE>
+Decision Time for the Future of Corporate Taxation
+<P>
+NEW YORK – At first glance, it appears to be a bureaucratic meeting like any other.
+But the discussions at the OECD in Paris at the end of this month are of the utmost importance, because the world’s richest countries will present new proposals for taxing digital multinational companies such as Google, Amazon, Facebook, Apple, Netflix, and Uber.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Back in 2012, when scandals related to tax-avoidance schemes by Apple, Amazon, and Google unleashed public anger and forced the G20 to act, the OECD was called on to reform the international corporate tax system.
+That led, three years later, to a package of reforms known as the “Base Erosion and Profit Shifting” Project, or BEPS.
+The reform process was led by OECD countries and opened up to developing countries only after this initial package was unveiled.
+Today, 125 countries are involved, forming a group called the “Inclusive Framework.”
+<P>
+BEPS was undoubtedly an important step toward tackling some of the most egregious tax-avoidance strategies used by multinationals.
+It initiated, for example, the sharing among tax authorities of country-by-country reports on these companies’ profits and tax payments.
+Unfortunately, however, this norm will apply only to very large multinationals, and the reports will not be publicly available, depriving civil society of an essential tool of transparency.
+<P>
+Furthermore, BEPS failed to reach the root of the problem: companies are still permitted to move their profits wherever they want and to take advantage of very-low-tax jurisdictions.
+Google, for example, moved €19.9 billion ($22.7 billion) through a Dutch shell company to Bermuda in 2017, and in the same year Facebook paid just £7.4 million ($9.6 million) in corporation tax in the United Kingdom, despite generating £1.3 billion in revenue there.
+<P>
+Multinationals can do this legally by using so-called transfer pricing: a parent company sets the prices of transactions among its subsidiaries to guarantee that profits are registered in low-tax countries, rather than where the economic activity that generated the profits actually occurred.
+For example, Vodafone, the first big multinational to publish country-by-country data voluntarily, revealed that nearly 40% of its profits for 2016-17 were allocated to tax havens, with €1.4 billion declared in Luxembourg, where the company is taxed at an effective rate of 0.3%.
+<P>
+Tax avoidance can be found in all economic sectors, but digital companies best demonstrate how outdated the current international tax system is.
+Because these companies’ marginal cost of production is zero, the revenue accruing to them is equal to a rent, and it is therefore important to tax this rent effectively.
+And, contrary to what these companies’ leaders claim, this taxation would not negatively affect the supply of digital services.
+<P>
+The Independent Commission for the Reform of International Corporate Taxation (ICRICT), which I chair, believes that the BEPS process has achieved what it could, given the political muscle of big corporations and the army of lawyers and accountants who have a vested interest in maintaining the status quo.
+In our latest report, we take stock of what has been achieved and highlight what should happen in the next phase of reform, “BEPS 2.0.”
+<P>
+The upcoming OECD meeting will be decisive in this respect.
+For the first time, the OECD will present to the Inclusive Framework, including developing countries, the outlines of the BEPS 2.0 plan and its vision of a deeper transformation of the tax system in response to the challenges posed by the digital economy.
+It is a unique opportunity for all 125 governments in the Inclusive Framework to urge the OECD to repudiate transfer pricing and move toward a fairer and more effective system.
+<P>
+The lack of consensus so far on how to tax digital multinationals has led numerous countries to implement (as India, Italy, Spain, and France have done) or promise to implement (in the case of the United Kingdom) turnover-based taxes as a stop-gap measure to raise revenue.
+But unilateral action is not enough.
+<P>
+The ICRICT supports all discussions that move toward unitary taxation of multinationals, which would eliminate multinationals’ use of transfer prices to shift profits, because their global income would be consolidated.
+Global profits and associated taxes could then be allocated geographically according to objective factors such as the company’s sales, employment, resources, and even digital users in each country.
+We also strongly support the introduction of a global minimum effective corporate-tax rate of between 20% and 25% on all profits earned by multinationals.
+<P>
+The overriding priority now is to establish an international corporate tax system fit for the digital economy.
+The OECD BEPS process was essentially conceived by developed countries for developed countries.
+In Paris this month, developing countries must understand what is at stake and make their voices heard, to ensure that any new proposal benefits all.

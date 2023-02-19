@@ -1,0 +1,59 @@
+<HEADLINE>
+Why the Bank of England Should Target Growth
+<P>
+OXFORD – The Bank of England raised interest rates to 0.75% this month, in the belief that inflation will exceed its mandated 2% target in about two years.
+But raising interest rates tends to dampen economic activity, and growth is hardly rampaging in the United Kingdom.
+Should the BoE consider a change to its mandate to include economic growth?
+<P>
+In the United States, the Federal Reserve has a dual mandate: price stability and maximum employment.
+Of course, the Fed has also raised interest rates this year; but the US economy is growing at over 4% and GDP is expected to be around 3% higher this year.
+<P>
+By contrast, the UK economy grew just 0.2% in the first quarter of this year.
+While the BoE expects growth to rebound and end up at around 1.5% for the year, it describes this rate as the “speed limit.”
+Faster growth would fuel inflationary pressures.
+<P>
+With UK unemployment at 4.2% – a level consistent with full employment in the BoE’s view – hiring workers will mean higher wages.
+And, because price increases are a function of wages plus a mark-up, inflation will rise.
+The BoE’s decision to raise interest rates despite slow economic growth reflected its concern for its 2% inflation target.
+<P>
+Given that the British economy grew at an average of 2.5% between 1980 and 2007, the BoE’s projection of 1.5% potential growth amounts to a significant downgrade.
+The culprit is poor productivity growth.
+From 1998 until the 2008 global financial crisis, annual productivity growth averaged 2.25%.
+The BoE now believes the rate to be closer to 1-1.25%.
+<P>
+This productivity slowdown has occurred across advanced economies, for reasons – adverse demographic trends, lower investment demand, or any of a slew of other possible explanations – that remain unclear.
+But Britain is the worst affected.
+And slower economic growth leads to an expectation of lower interest rates.
+<P>
+For the first time, the BoE has produced an estimate of what the “new normal” interest rate is likely to be, in line with its growth forecasts.
+Rather than the 5% average rate that prevailed in the decades before the banking crisis, the BoE now expects interest rates to be 2-3%, implying a real (inflation-adjusted) interest rate of below 1%.
+That is not out of line with estimates of where interest rates might be for other advanced economies experiencing a productivity slowdown.
+<P>
+But, because the BoE believes the economy is already growing at its full potential, it has raised interest rates now, even though GDP growth is slow and is estimated to only reach 1.7-1.8% between now and 2021, the end of its forecast period.
+This is why the BoE’s latest move looks curious.
+Won’t the effects of higher rates on borrowing, spending, and investment by households and firms lead to even slower growth?
+<P>
+Of course, monetary policy affects the business cycle, not the economy’s long-term prospects, which depend on, among other things, technological innovation and the skills of the workforce.
+So the BoE’s actions will not change the British economy’s potential growth rate.
+But would a growth mandate give the BoE greater pause before raising rates when growth is anemic?
+<P>
+Consider a scenario in which the BoE were given a mandate to maximize economic growth and meet a 2% inflation target.
+If policymakers expected inflation to reach 2%, but economic growth to be less than 2%, in two years, then they would need to balance how much economic dampening a rate rise would bring about.
+In other words, their inflation target may be met, but if growth is tepid, confronting a trade-off between the two targets might stay the BoE’s hand for a while longer – just as the Fed keeps an eye on employment, even though monetary policy doesn’t really affect long-run growth.
+<P>
+What makes this tricky is that it is hard to estimate an economy’s potential growth rate, which can change.
+If productivity growth picked up, then 2.5% GDP growth could again be the “speed limit.”
+So, a central bank with a growth mandate may tread a bit more carefully in case its actions dampened activity that could increase national output to its new potential rate.
+<P>
+Another reason for the BoE to consider a mandate that includes economic growth is the weakening relationship between inflation and the rest of the economy.
+In other words, unlike in the past, price growth is not that closely related to unemployment or output.
+<P>
+For example, inflation was high in the immediate aftermath of the 2008 crisis, suggesting that the UK economy was booming when it wasn’t; unemployment was fairly high then as well.
+Prices were rising because the pound was weak, boosting the cost of imports, and global oil prices were high.
+<P>
+During this period, the BoE often missed its inflation target, fueling criticism that the target was ineffectual.
+The reason not to raise rates, however, was evident: the economy was coping with the aftermath of the Great Recession.
+With economic growth as an explicit part of its mandate, the BoE could explain itself better in such circumstances – and better maintain the credibility of its commitment to price stability.
+<P>
+Targeting price stability alone may have worked when inflation was a more reliable proxy of the business cycle.
+Now that it isn’t, the BoE – and perhaps other central banks – should consider a change in mandate to target growth as well.

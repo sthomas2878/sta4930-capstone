@@ -1,0 +1,67 @@
+<HEADLINE>
+COVID-19 and the Bio-Revolution
+<P>
+HAMBURG – Rarely has the promise of biology commanded as much of the world’s attention as it has during the COVID-19 crisis.
+As the novel coronavirus infects millions worldwide and ravages the global economy, our best hope to overcome it is a new and rapidly evolving generation of biological tools and capabilities.
+But addressing COVID-19 only scratches the surface of what biological innovation can do.
+<P>
+Advances in biological sciences have been gathering pace since the human genome was mapped – a 13-year process completed in 2003.
+As new research from the McKinsey Global Institute shows, the resulting bio-revolution has been driven by rapid progress in computing, automation, and artificial intelligence (AI).
+<P>
+MGI’s research identified about 400 biotech applications already visible in the pipeline of innovation, which together could generate up to $4 trillion annually over the next 1-2 decades.
+More than half of that would fall outside the realm of human health, in domains such as agriculture and food, consumer products and services, and materials, chemicals, and energy production.
+<P>
+But the ultimate impact of the bio-revolution will be orders of magnitude larger.
+For example, as much as 60% of the global economy’s physical inputs could, in principle, be produced using biological means.
+This includes not only biological materials (one-third), but also goods produced using innovative biological processes, such as bioplastics (two-thirds).
+Such goods could offer superior performance and sustainability.
+<P>
+Moreover, biological innovation could reduce the global disease burden by 1-3% – roughly equivalent to the combined burden of lung, breast, and prostate cancer – in the next 10-20 years.
+If the full potential of these innovations is realized, the global disease burden could be reduced by 45%.
+<P>
+Reaching that point will require us to overcome many challenges, both from a scientific perspective and in terms of commercializing and scaling up innovations.
+But here, too, there are promising trends.
+For starters, the cost of mapping the human genome has plummeted – from roughly $3 billion in 2003 to less than $1,000 in 2016.
+That figure could drop to less than $100 within a decade.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The full genome of SARS-CoV-2 – the virus that causes COVID-19 – was sequenced and published within weeks of its identification.
+By contrast, it took several months to sequence and publish the genome of SARS-CoV-1, the virus that causes severe acute respiratory syndrome, after it emerged in 2002.
+Now, the SARS-CoV-2 genome is being regularly sequenced in different locations, in order to examine mutations and gain insight into transmission dynamics.
+<P>
+Another facet of the biological innovation being deployed against COVID-19 is the substantial improvement in the speed of diagnostics.
+Likewise, the continual miniaturization of reverse transcription polymerase chain reaction (RT-PCR) machines, state of the art for COVID-19 testing, has made the technology more accessible for use in the field.
+<P>
+Then there is machine learning and other AI technologies, which scientists are leveraging to gain insights from huge amounts of genomic (and microbiomic) data much faster than ever before.
+These capabilities – together with faster and more versatile nucleic-acid-based vaccine production – have accelerated the search for a COVID-19 vaccine considerably.
+<P>
+By mid-April – less than four months after COVID-19 was officially identified – there were more than 150 vaccine candidates in labs around the world.
+After the Zika epidemic began in 2015, it took more than a year to launch phase 1 clinical trials on a possible vaccine.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But the ability to analyze biological systems and processes is only part of the story.
+At the heart of today’s bio-revolution is our growing capacity to “engineer” biology using modern gene-editing tools, such as CRISPR-Cas9.
+With SARS-CoV-2, genetically engineered organisms have been used to develop potential therapies.
+For example, mice have been genetically engineered to produce monoclonal antibodies, and cows to produce polyclonal antibodies.
+<P>
+Furthermore, scientists are exploring COVID-19 treatments that use siRNA to interfere with specific molecules, or RNAi to suppress certain genes.
+Other treatments rely on T-cells (key players in the immune system) and stem cells (which can be used to make different types of cells).
+In total, over 200 potential COVID-19 therapies are currently being investigated.
+<P>
+Our increasingly sophisticated ability to mine insights from genomic (and microbiomic) data, and to engineer cells, tissues, and organs, has applications far beyond human health.
+Already, it is being applied in sectors as diverse as agriculture and the manufacture of textiles and fuels.
+And a new frontier is emerging: brain-machine interface.
+Applications powered directly by signals from the brain would not only drive a revolution in prosthetics; they could also make possible DNA data storage.
+<P>
+The risks of such ground-breaking innovations should not be underestimated.
+For one thing, unequal access to biological innovations could deepen socioeconomic disparities – within and across countries.
+Moreover, biological systems are fundamentally self-sustaining and self-replicating.
+Interfering with them could have profound, long-lasting, and often unpredictable effects on ecosystems.
+When Pandora’s box is opened, what happens next may be beyond our control.
+<P>
+The value of investment in biological innovation is never as apparent as during a pandemic.
+But such investment must be accompanied by rigorous risk-mitigation efforts, ideally pursued in a globally coordinated way.
+Unfortunately, as the largely national-level responses to COVID-19 demonstrate, this may pose its own challenge.

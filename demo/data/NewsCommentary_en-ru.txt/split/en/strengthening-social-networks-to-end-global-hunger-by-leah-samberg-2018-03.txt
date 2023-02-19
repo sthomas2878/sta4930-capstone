@@ -1,0 +1,72 @@
+<HEADLINE>
+Food Security’s Social Network
+<P>
+MINNEAPOLIS – In 2015, when the United Nations Sustainable Development Goals were officially adopted, the clock began ticking on an ambitious goal: ending global hunger by 2030.
+At the time, that target seemed achievable; during the previous 15 years, the number of undernourished people on the planet had been reduced by half, a staggering achievement attributed largely to international investment in agricultural and economic infrastructure.
+<P>
+And then the world got hungrier again; in 2016, the number of people without enough to eat increased to 815 million, up from 777 million the year before.
+What happened?
+<P>
+Part of the answer is as old as civilization itself: droughts, floods, conflict, and displacement have hurt harvests and weakened output.
+But a more intangible factor is no less important: many of the networks on which farmers have traditionally depended to cope with these disasters have been lost or degraded.
+<P>
+Ending global hunger is not just about breeding drought-resistant corn; it is also about having a plan for when that corn fails anyway.
+In other words, it is as much about reimagining social networks as it is about deciding what goes into the ground.
+<P>
+For the world’s poorest smallholder farmers and pastoralists, unpredictability is the only constant.
+To mitigate risk, people in rural areas have always relied on their personal networks for information to help them weather crises, improve productivity, and limit crop losses.
+In return, these relationships have facilitated the exchange of information and goods, diversified diets, strengthened farming techniques, and guarded against hunger.
+<P>
+Today, though, farmers’ personal networks are weakening.
+Farms are being hit more frequently by severe weather, and violent conflict is increasing in poverty-stricken regions; these and other variables are uprooting farmers everywhere.
+While people have always left their homes in search of safety or opportunity, a record number of people currently are on the move.
+<P>
+All of these changes are negatively affecting traditional social structures that communities depend on for survival, and insufficient attention is being paid to these structures’ role in ensuring food security.
+If global hunger is to be eradicated, the underpinnings of rural resilience must be supported, expanded, and diversified.
+<P>
+One of the best ways to do this is by investing in new technologies that enable farmers to connect with information and institutions that can decrease uncertainty and mitigate risk.
+According to a 2017 working paper by the CGIAR Research Program on Climate Change, Agriculture, and Food Security, some of the most promising innovations in rural agricultural are technology- and service-based.
+With access to data, markets, and financial services, farmers can plant, fertilize, harvest, and sell products more effectively.
+<P>
+At the moment, these types of innovations are not featured prominently in most hunger-alleviation strategies.
+But that is slowly changing, especially as more people in emerging economies connect to mobile networks, and apps designed to collect and share agricultural information become increasingly accessible.
+<P>
+For example, in Egypt, Sudan, and Ethiopia, local extension services are delivering real-time weather data to vegetable farmers via SMS.
+In West Africa, private companies such as Ignitia are expanding the accuracy and precision of SMS weather alerts to remote farmers.
+<P>
+In Mongolia, rural herders receive information about disease outbreaks to help them maintain the health of their livestock.
+And farmers throughout the Global South are turning to SMS-based services for technical support that allows them more easily to adopt new crops and growing techniques, with benefits for both natural resources and household income and nutrition.Connectivity also improves the functioning of markets by allowing farmers and herders to access accurate price information, coordinate transport and other logistics, and facilitate easier exchange of perishable but nutritious foods such as animal products and vegetables.
+Mobile money and price information also enable pastoralists to adjust herd sizes to changing environmental conditions, while enabling farmers to secure seeds and fertilizer for future harvests.
+Furthermore, by enabling the quick and secure transfer of funds, mobile-banking services allow producers to access markets more efficiently, reduce their transaction costs, and tap into higher-value market sectors.
+Mobile payment systems are also facilitating remittances from urban to rural areas, an increasingly important component of rural livelihoods.Of course, the mere existence of this technology will not end hunger.
+The challenge is to broaden access to all of these tools, and to ensure that they meet the needs of the farmers who use them.
+This demands that mobile technologies take into account differences in gender, education, and resource levels among farmers, and are responsive to changing circumstances.
+The impact and success of these tools and programs should be monitored and evaluated, with ineffective approaches being improved or replaced.I’ve conducted research in rural communities around the world, and one of the features they all have in common is the difficulty that farmers and pastoralists confront in accessing reliable information about markets, weather, and financing.
+With neighbors on the move, and climate change a growing concern, traditional information networks are no longer sufficient.
+Farmers everywhere, but especially in developing economies, need the support of digital communities.For hundreds of millions of people, information is the difference between food security and hunger.
+But, amid the triple threats of climate change, violent conflict, and mass migration, how that information is gathered and shared is changing.
+Farmers’ personal networks are now global and online.
+To feed a rapidly changing world, we must use new technology to re-imagine the oldest form of risk mitigation: community.
+<P>
+In Mongolia, rural herders receive information about disease outbreaks to help them maintain the health of their livestock.
+And farmers throughout the Global South are turning to SMS-based services for technical support that allows them more easily to adopt new crops and growing techniques, with benefits for both natural resources and household income and nutrition.
+<P>
+Connectivity also improves the functioning of markets by allowing farmers and herders to access accurate price information, coordinate transport and other logistics, and facilitate easier exchange of perishable but nutritious foods such as animal products and vegetables.
+Mobile money and price information also enable pastoralists to adjust herd sizes to changing environmental conditions, while enabling farmers to secure seeds and fertilizer for future harvests.
+<P>
+Furthermore, by enabling the quick and secure transfer of funds, mobile-banking services allow producers to access markets more efficiently, reduce their transaction costs, and tap into higher-value market sectors.
+Mobile payment systems are also facilitating remittances from urban to rural areas, an increasingly important component of rural livelihoods.
+<P>
+Of course, the mere existence of this technology will not end hunger.
+The challenge is to broaden access to all of these tools, and to ensure that they meet the needs of the farmers who use them.
+This demands that mobile technologies take into account differences in gender, education, and resource levels among farmers, and are responsive to changing circumstances.
+The impact and success of these tools and programs should be monitored and evaluated, with ineffective approaches being improved or replaced.
+<P>
+I’ve conducted research in rural communities around the world, and one of the features they all have in common is the difficulty that farmers and pastoralists confront in accessing reliable information about markets, weather, and financing.
+With neighbors on the move, and climate change a growing concern, traditional information networks are no longer sufficient.
+Farmers everywhere, but especially in developing economies, need the support of digital communities.
+<P>
+For hundreds of millions of people, information is the difference between food security and hunger.
+But, amid the triple threats of climate change, violent conflict, and mass migration, how that information is gathered and shared is changing.
+Farmers’ personal networks are now global and online.
+To feed a rapidly changing world, we must use new technology to re-imagine the oldest form of risk mitigation: community.

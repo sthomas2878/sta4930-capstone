@@ -1,0 +1,55 @@
+<HEADLINE>
+Don’t Squander the Techno-Revolution
+<P>
+LONDON – Public discussion of the effects of automation and artificial intelligence (AI) often focuses on the productivity benefits for companies and the economy, on the one hand, and on the potential downside for workers, on the other.
+Yet there is a critical third dimension that should not be overlooked: the impact of new technologies on wellbeing.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Historically, technological innovation has had positive effects on wellbeing extending far beyond what is captured by standard economic metrics such as GDP.
+Vaccinations, new pharmaceuticals, and medical innovations such as X-rays and MRIs have vastly improved human health and increased longevity.
+Today, even countries with the world’s lowest life expectancies have longer average lifespans than did the countries with the highest life expectancies in 1800.
+Moreover, around one-third of the productivity gains from new technologies over the past century has been converted into reduced working hours, in the form of longer annual paid leave and a near-halving of the workweek in some advanced economies.
+<P>
+Now that a new generation of technologies is being adopted, the question is whether similar benefits to wellbeing will follow, or whether fears of technological unemployment will create new sources of stress, undercutting consumer confidence and spending.
+<P>
+In seeking to answer such questions, one should focus on two decisive factors.
+The first is the potential of innovation to improve welfare.
+AI, in particular, could increase people’s quality of life substantially, by raising productivity, spawning new products and services, and opening up new markets.
+McKinsey & Company’s research on the current digital transformation finds that AI applications are already doing precisely that, and will continue to do so.
+<P>
+Moreover, the firms that deploy AI for the purpose of driving innovation, rather than for labor substitution and cost cutting, are likely to be the most successful; as they expand, they will hire new workers.
+In health care, for example, AI has empowered providers to offer better and earlier diagnoses of life-threatening diseases such as cancer, as well as personalized treatments.
+<P>
+The second decisive factor is the approach taken by companies and governments to managing the arrival of new technologies.
+AI raises important ethical questions, particularly in areas such as genomics and the use of personal data, and the need to gain the new skills needed to operate smart machines can cause stress and dissatisfaction.
+The migration of workers across sectors can be a source of significant friction, exacerbated by sectoral mismatches, mobility constraints, and the costs (temporal and financial) of retraining.
+<P>
+Critically, the labor-market frictions created by today’s frontier technologies may affect segments of the population that were immune to such risks in the past.
+To avoid major disruptions, policymakers should focus on providing large-scale retraining, to equip workers with “robot-proof” skills and ensure labor-market fluidity.
+<P>
+By directing the deployment of new technologies toward welfare-improving innovation, and by managing the labor-market effects of technological diffusion, we can boost not just productivity and incomes, but also lifespans, which itself may feed back into higher GDP.
+<P>
+Calculating the likely effects of welfare-enhancing innovation is a complex process.
+In our own assessment, we have built on methods of welfare quantification developed by economists Charles Jones and Peter Klenow of Stanford University, as well as others in the growing field of happiness research.
+Using a schematic constant risk-aversion model as a benchmark, we find that the United States and Europe could experience welfare gains from AI and other frontier technologies that exceed those delivered by computers and earlier forms of automation in recent decades.
+On the other hand, if the technological transition is not managed properly, the US and Europe could experience slower income growth, increased inequality and unemployment, and reductions in leisure, health, and longevity.
+<P>
+One revealing finding of our research is that the threat to incomes and employment is present in all likely scenarios, which means that it cannot be dismissed or ignored.
+If the foreseeable adverse effects of shifting to an automated knowledge economy are not addressed, many of the potential benefits could be squandered.
+Policymakers should be preparing for a retraining effort on the scale of the 1944 GI Bill in the US.
+<P>
+Among other things, governments today have a critical role to play in providing education and redesigning curricula to emphasize technical skills and digital literacy.
+They can also use public spending to reduce innovation costs for business, and to direct technological development toward productive ends through procurement and open markets.
+<P>
+But business leaders must also rise to the challenge.
+If companies adopt an approach of enlightened self-interest with respect to AI and automation – what we call “technological social responsibility” – they can deliver benefits both for society and their own bottom lines.
+More productive workers, after all, can be paid higher wages, thereby boosting demand for products and services.
+To capture the far-reaching benefits of digital technologies, AI, and automation, we will need to strike a careful balance, fostering both innovation and the skills to harness whatever it unleashes.

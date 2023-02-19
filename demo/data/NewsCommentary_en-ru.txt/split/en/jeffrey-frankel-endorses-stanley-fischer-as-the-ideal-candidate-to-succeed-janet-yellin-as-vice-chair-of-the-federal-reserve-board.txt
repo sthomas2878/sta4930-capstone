@@ -1,0 +1,61 @@
+<HEADLINE>
+Fischer, the Fed, and US Growth
+<P>
+CAMBRIDGE – Now that Janet Yellen has been confirmed as Chair of the US Federal Reserve Board, attention has turned to her successor as Vice Chair.
+US President Barack Obama's choice, Stanley Fischer, was the perfect candidate, given his unique combination of skills, qualities, and experience.
+<P>
+During his academic career, Fischer was one of the most accomplished scholars of monetary economics.
+He then served as Chief Economist of the World Bank, First Deputy Managing Director at the International Monetary Fund, and, most recently, as Governor of the Bank of Israel.
+He starred in each of these positions.
+Indeed, one has trouble thinking of another economist (at least since John Maynard Keynes) who has done as well as Fischer at combining analytical skill, sound policy judgment, clear expression, selfless dedication to improving the world, and the ability to get things done – with imperturbable good humor.
+<P>
+Moreover, Fischer gained extensive crisis-management experience during his tenure at the IMF in the 1990’s and as Israel’s central banker during the 2008-2009 global financial crisis.
+That makes him an ideal match for Yellen, who is also an unusually accomplished academic and policymaker, but who is at her best when she has had a chance to prepare meticulously.
+<P>
+Fischer’s qualities were acclaimed last month at the IMF’s Annual Research Conference by, among others, outgoing Fed Chairman Ben Bernanke, who in the 1970’s was one of Fischer’s many MIT doctoral students (as was I).
+<P>
+The same conference has been much discussed for another reason: Larry Summers, Paul Krugman, and Fed officials each advanced provocative theses concerning the slow pace of economic growth in the United States and other advanced economies in recent years.
+These theses will be important influences on the Fed in 2014 and beyond.
+<P>
+Summers’s controversial explanation for slow growth has received the most attention.
+The economic crisis, he argued, is not over until it is over, which it is not yet.
+He boldly suggested that the reason for sub-par growth over the last ten years is a fundamental structural change, identified as “secular stagnation”: the natural, or equilibrium, real (inflation-adjusted) interest rate may have fallen below zero – perhaps as low as negative 2-3% – “forever.”
+<P>
+There are, according to Summers, two possible reasons for this: a saving glut coming from Asia or a long-term IT-induced decline in the relative price of capital goods that has reduced needed investment relative to saving.
+(Krugman offers more possible explanations: declining rates of population or productivity growth.)
+<P>
+Whatever the cause, if Summers is right, we are in deep trouble.
+As it is, central banks can have difficulty attaining a sufficiently low real interest rate in recessions, because the nominal interest rate cannot go below zero.
+In Summers’s scenario, the negative equilibrium rate would mean chronically slow growth.
+<P>
+Fischer himself expressed greater optimism at the conference that monetary policy can work, even under current conditions.
+Quantitative easing and forward guidance can push down the long-term interest rate.
+And there are other channels besides the real interest rate: the exchange rate, equity prices, the real-estate market, and the credit channel.
+<P>
+Fed staff members are less prone than professors to go out on a paradigm-shaking limb.
+But David Wilcox, Director of Research and Statistics at the Fed, and his co-authors argue that the severity and duration of the downturn that began in December 2007 has been steadily eroding the capital stock and the size and skills of the labor force.
+Thus, slow US output and employment growth in the last few years is a result of the financial crisis, not of exogenous structural change.
+<P>
+Without customers, firms do not build new factories, even when the cost of capital is low, while workers who have been unemployed for a long time may drop out of the labor force altogether.
+The result, as Wilcox and his colleagues persuasively argue, is that productive capacity and the effective labor force have moved onto diminished growth paths.
+The cumulative supply shortfall – the authors estimate that potential output is now 7% below the pre-2007 trajectory – may be larger than the current output shortfall attributable to the ongoing lack of aggregate demand.
+<P>
+This unfortunate recent history makes the Fed’s job even harder than it has been, because it further limits policymakers’ ability to stimulate growth without causing inflation.
+At the same time, given the potential for long-lasting damage to growth, it has become even more important to maintain adequate demand stimulus so long as unemployment remains high.
+The Wilcox paper thus supports continued monetary ease in 2014.
+<P>
+Krugman’s presentation at the IMF conference was as surprising as the others: concerns about US fiscal deficits and debt are misplaced even in the longer term.
+Deficit hawks worry that at some point global investors will lose their enthusiasm for holding ever-greater amounts of US debt, resulting in a sharp depreciation of the dollar.
+Krugman’s controversial claim is that, even if this were to happen, interest rates would not rise, while the depreciation’s effect on the US economy would be expansionary (via an increase in net exports).
+The policy implication is that there is less reason to worry about the long-term debt problem and more reason to worry that fiscal contraction over the last three years has been depriving the economy of needed demand.
+<P>
+The policy failures have indeed been remarkable.
+Though prompt action halted the 2008 financial meltdown, and initial monetary and fiscal stimulus helped to end the recession itself in 2009, the recovery since then has been painfully slow, owing mainly to destructive fiscal policy: misguided drag in 2010-13; repeated self-inflicted crises in 2011-13; and no progress on the genuine longer-term fiscal problem.
+Together, these fiscal failures have probably subtracted more than a percentage point from US growth in each of the last three years.
+<P>
+But there are grounds for optimism in 2014.
+For the first time in four years, fiscal policy probably will not have a negative effect on growth.
+True, it would be better if fiscal policy could make a positive contribution.
+But ending the negative contributions is cause for celebration.
+<P>
+Meanwhile, monetary policy will be in good hands, especially now that Fischer has joined the team.

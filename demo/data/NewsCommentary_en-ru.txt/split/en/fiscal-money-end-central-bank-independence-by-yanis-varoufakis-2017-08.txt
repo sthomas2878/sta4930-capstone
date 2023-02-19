@@ -1,0 +1,59 @@
+<HEADLINE>
+The Promise of Fiscal Money
+<P>
+ATHENS – Western capitalism has few sacred cows left.
+It is time to question one of them: the independence of central banks from elected governments.
+<P>
+The rationale for entrusting monetary policy fully to central banks is well understood: politicians, overly tempted during the electoral cycle to create more money, pose a threat to economic stability.
+While progressives have always protested that central banks can never be truly independent, because their autonomy from elected officials increases their dependence on the financiers they are meant to keep in check, the argument in favor of removing monetary policy from democratic politics has prevailed since the 1970s.
+<P>
+Setting aside the political controversy, central bank independence is predicated on an economic axiom: that money and debt (or credit) are strictly separable.
+Debt – for example, a government or corporate bond that is bought and sold for a price that is a function of inflation and default risk – can be traded domestically.
+Money, on the other hand, cannot default and is a means, rather than an object, of exchange (the currency market notwithstanding).
+<P>
+But this axiom no longer holds.
+With the rise of financialization, commercial banks have become increasingly reliant on one another for short-term loans, mostly backed by government bonds, to finance their daily operations.
+This liquidity acquires familiar properties: used as a means of exchange and as a store of value, it becomes a form of money.
+<P>
+And there’s the rub: as banks issue more inter-bank money, the financial system requires more government bonds to back the increase.
+The growing inter-bank money supply fuels demand for government debt, in a never-ending cycle that generates tides of liquidity over which central banks have little control.
+<P>
+In this brave new financial world, central banks’ independence is becoming meaningless, because the money they create represents a shrinking share of the total money supply.
+With the rise of inter-bank money, backed mostly by government debt, fiscal policy has become an essential factor in determining the quantity of actual money lubricating modern capitalism.
+<P>
+Indeed, the more independent a central bank is, the greater the role of fiscal policy in determining the quantity of money in an economy.
+For example, in the eurozone, Germany’s tight fiscal policy is creating a shortage of bunds (German government bonds), which is limiting both the European Central Bank’s capacity to implement its quantitative easing policy and commercial banks’ ability to produce more inter-bank money.
+Money and government debt are now so intertwined that the analytical basis for central bank autonomy has disappeared.
+<P>
+Of course, any attempt to bring treasuries and central banks back under one roof would expose politicians to accusations of trying to get their grubby hands on the levers of monetary policy.
+But another response to the new reality is available: Leave central banks alone, but give governments a greater say in domestic money creation – and, indeed, greater independence from the central bank – by establishing a parallel payments system based on fiscal money or, more precisely, money backed by future taxes.
+<P>
+How would fiscal money work?
+For starters, it would “live” on the tax authority’s digital platform, using the existing tax file numbers of individuals and companies.
+Anyone with a tax file number (TFN) in some country receives a free account linked to their TFN.
+Individuals and firms will then be able to add credit to their TFN-linked account by transferring money from their normal bank account, in the same way that they do today to pay their taxes.
+And they will do so well in advance of tax payments because the state guarantees to extinguish in, say, a year €1,080 ($1,289) of the tax owed for every €1,000 transferred today – an effective annual interest rate of 8% payable to those willing to pay their taxes a year early.
+<P>
+In practice, once, say, €1,000 has been transferred to one’s TFN-linked account, a personal identification number (the familiar PIN) is issued, which can be used either to transfer the €1,000 credit to someone else’s TFN-linked account or to pay taxes in the future.
+These time-stamped future tax euros, or fiscal euros, can be held for a year until maturity or be used to make payments to other taxpayers.
+Smartphone apps and even government-issued cards (doubling as, say, social security ID) will make the transactions easy, fast, and virtually indistinguishable from other transactions involving central bank money.
+<P>
+In this closed payments system, as fiscal money approaches maturity, taxpayers not in possession of that vintage will fuel rising demand for it.
+To ensure the system’s viability, the Treasury would control the total supply of fiscal money, using the effective interest rate to guarantee that the nominal value of the total supply never exceeds a percentage of national income, or of aggregate taxes, agreed by the legislature.
+To ensure full transparency, and thus trust, a blockchain algorithm, designed and supervised by an independent national authority, could settle transactions in fiscal money.
+<P>
+The advantages of fiscal money are legion.
+It would provide a source of liquidity for governments, bypassing the bond markets.
+It would limit the extent to which government borrowing fuels inter-bank money creation, or at least force financiers to tie up some of their inter-bank money in the closed, domestic fiscal money system, thereby minimizing shocks from sudden capital flight.
+And, by competing with the banks’ payment system, it would reduce the cost of fees customers currently pay.
+<P>
+Indeed, owing to the blockchain technology, fiscal money constitutes a fully transparent, transaction-cost-free, public payment system monitored jointly by every citizen (and non-citizen) who participates in it.
+<P>
+Fiscal money is politically attractive as well.
+Governments could use any slack in money supply to top up the FTN-linked accounts of families in need, or to pay for public works, making it appealing to progressives.
+And conservatives should be encouraged by a system that promises significant tax relief for those who help the government create fiscal money, without impinging on the central bank’s role in setting interest rates.
+<P>
+The potential transnational advantages of fiscal money are also significant.
+For example, fiscal money would have helped Greece resist our creditors’ encroachments in 2015, and it was at the heart of my plan for dealing with a predatory bank holiday enforced by the ECB at the end of that June.
+Today, it would give Italy, France, and other eurozone members much needed fiscal space, and possibly provide a foundation for a revamped eurozone with interlocking domestic fiscal euros, rather than parallel currencies, playing a stabilizing macroeconomic role.
+And then, perhaps, it could become the basis for a New Bretton Woods, functioning like an overarching clearing union of many different fiscal money systems.

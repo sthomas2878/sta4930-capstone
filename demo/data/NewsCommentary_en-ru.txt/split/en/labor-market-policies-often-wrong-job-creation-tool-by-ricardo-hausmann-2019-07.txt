@@ -1,0 +1,79 @@
+<HEADLINE>
+How Not to Think About Job Creation
+<P>
+CAMBRIDGE – Just because a tire is flat at the bottom does not mean that the hole is there.
+The same can be said about labor markets.
+Concern about the scarcity of good jobs is fueling interest in labor-market interventions such as job centers that match workers with vacancies, training services to improve the skills of the unemployed, temporary wage subsidies, and more.
+Because getting more workers more quickly to good jobs is such an important policy goal, some countries create so-called delivery units in the president or prime minister’s office to focus on how to do it.
+But, as with a flat tire, a dearth of good jobs does not mean that the labor market is the problem.
+Here’s why.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Production requires many inputs: labor with different skill sets, raw materials, intermediate inputs, buildings, machines, energy, transportation, finance, rules and their enforcement, security, and so forth.
+Some of these inputs can be purchased from local suppliers.
+Others can be imported (assuming that the country has the foreign exchange to pay for them).
+Governments provide others, such as infrastructure and rules.
+<P>
+All of these inputs complement, rather than substitute for, one another.
+Coffee and sugar are complements; coffee and tea are substitutes.
+The more coffee you have, the more sugar you want – but the less tea you want.
+Likewise, machines work better if they have the needed raw materials, spare parts, electricity, and skilled workers.
+So, if there is no electricity in the area or if there is a dearth of foreign exchange with which to buy imported inputs, the problem cannot be solved by substituting the missing inputs for more machines or more workers.
+<P>
+Complementarity also means that some inputs tend to run out before others.
+When this happens, the willingness to pay for the input in shortest relative supply increases – call it the binding constraint – because it is holding everything else up, while the willingness to pay for the other inputs decreases, because they cannot be used effectively, given the binding constraint.
+If there is no sugar, your willingness to pay for coffee goes down.
+<P>
+This sounds eerily similar to the jobs problem that many countries complain about: there are more workers than vacancies, and wages are lousy.
+This is prima facie evidence that the binding constraint is not in the labor market.
+Bad jobs are a symptom, not the disease.
+Something else must be the culprit – namely, one or more missing complements that influence job creation by making human labor less productive.
+<P>
+In many countries, expensive and unreliable transportation, energy, and logistics, or a severe shortage of finance, may explain the dearth of good jobs.
+Foreign-exchange shortages are a frequently underestimated cause of problems.
+Companies cannot produce more because they cannot obtain the imported raw materials, intermediate inputs, spare parts, and equipment needed to expand production.
+This is a problem when firms have not figured out what can be produced competitively in the country and sold abroad.
+And export-oriented activities may be hampered by their own binding constraints.
+<P>
+When the foreign-exchange constraint is lifted – say, because of higher commodity prices or more available external finance, as happened in much of Africa and Latin America between 2004 and 2014 – countries achieve rapid growth and complain about skills shortages, not job shortages.
+But when the tide turns, the job problem reappears, because the required import cuts undermine demand for workers.
+In countries such as Sri Lanka, Ethiopia, Nigeria, and Venezuela, many more jobs would be created if more foreign exchange were available.
+<P>
+But sometimes the hole in the tire is close to the bottom.
+The problem may lie in labor-market rules, regulations and their enforcement, or a history of adversarial labor relations.
+An excessive minimum wage, as in Colombia and South Africa, generates a shortage of formal jobs and a rise in informal activity.
+Here, a more appropriate solution would be an earned-income tax credit that compensates workers for their low wage.
+Similarly, countries such as Argentina and South Africa extend collective bargaining agreements to all firms in an industry, which creates severe problems for laggard regions that cannot afford the terms agreed in the more developed parts of the country.
+Or inadequate social insurance may make formal employment too risky for workers, trapping them in less productive but safer traditional activities.
+<P>
+A different type of labor-market problem arises because of complementarities between workers with different skills, a phenomenon studied recently by Harvard’s Frank Neffke.
+If there are no surgeons around, an anesthesiologist is no more effective than a lousy lecturer: he can only put people to sleep.
+But without an anesthesiologist, no operation can be carried out.
+Modern production requires firms to combine many different skill sets.
+The resulting complementarities across occupations can cause a dearth of demand for one skill set because others are in short supply.
+A clear example of this is again South Africa, where the unemployment rate for those without a college education exceeds 30%, compared to the low single digits for those with a degree.
+<P>
+In these situations, policymakers often emphasize education or training.
+But a more expedient strategy is simply immigration.
+Most developing countries have very restrictive immigration policies, biased especially against high-skilled workers.
+For example, in Panama, only citizens may teach at a public university.
+South Africa has strict controls on high-skilled immigration, enforced through restrictive work permits and visas, while it is unable to stop low skilled informal immigration.
+<P>
+These and other countries would benefit from emulating Jordan.
+Until recent reforms, Jordan made citizenship a requirement to work as an engineer.
+By liberalizing immigration, however, Jordan was able to attract firms such as Expedia, which now has two foreign managers and over 100 local engineers.
+Without those foreigners, the enterprise would not exist.
+The lesson is obvious: importing the missing complementary skills may be an effective way to increase demand for the skills that you do have.
+<P>
+Governments are right to focus on creating more good jobs, because work is the source of most people’s livelihood in every society.
+But in the majority of cases, the solution lies in policy areas that are not amenable to tools wielded by ministers of labor or education.
+A recent World Bank conference promoted the idea of jobs diagnostics to figure out problems’ real causes.
+Wherever the hole in the tire is, the point is to fix it.

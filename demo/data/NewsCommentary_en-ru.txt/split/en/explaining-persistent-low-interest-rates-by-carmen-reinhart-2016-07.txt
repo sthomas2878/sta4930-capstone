@@ -1,0 +1,53 @@
+<HEADLINE>
+What’s New About Today’s Low Interest Rates?
+<P>
+CAMBRIDGE – A day seldom passes without articles appearing in the financial press pondering why interest rates have remained so low for so long.
+This is one of those articles.
+So let’s start by clarifying whose and which interest rates are low and what is and isn’t novel or unprecedented.
+<P>
+Interest rates in emerging and developing countries are importantly affected by what happens in the world’s largest economies, and the ongoing multi-year low-interest-rate cycle has its roots in the United States, Europe, and Japan.
+Low rates are predominantly the advanced economies’ “new normal.”
+<P>
+Interest rates (short and long maturities) had been trending lower in most of the advanced economies (to varying degrees) since the 1980s, as inflation also fell sharply.
+In the years prior to the 2008-2009 financial crisis, former US Federal Reserve Chairman Ben Bernanke repeatedly stressed the role of a global “saving glut” (notably in China) to explain lower rates.
+<P>
+More recently, former US Treasury Secretary Lawrence Summers argued that “secular stagnation,” manifested in sustained lower investment and growth in many advanced economies, has been a major force driving down rates.
+These hypotheses (which are not mutually exclusive) are especially helpful in understanding both why rates were drifting lower prior to the crisis and why the downturn has persisted.
+<P>
+The financial crisis ushered in a new source of downward pressure on interest rates, as monetary policy turned emphatically accommodative.
+The US Federal Reserve led the charge among central banks, acting fast and aggressively in response to the global turmoil, by relying on a near-zero policy rate and massive asset purchases (so-called quantitative easing).
+In the post-crisis era, the Bank of Japan and the European Central Bank – both under new leadership – followed suit.
+Negative nominal policy interest rates are a more recent phase of these policies.
+<P>
+Since 2010, I have been emphasizing the key role played by policy in keeping rates low in a post-crisis era characterized by large overhangs of public and private debt in the advanced economies and a tendency toward deflation.
+This combination potentially weakens financial, household, and government balance sheets.
+<P>
+In other words, interest rates have been low, and remain low, because policymakers have gone to great lengths to keep them there.
+The policy mix has combined a “whatever it takes” approach to keeping policy interest rates low (and sometimes negative) with a heavier dose of financial regulation.
+<P>
+If central banks were to act credibly to raise interest rates substantially (for whatever reason), they would not lack the tools or ability to do so.
+In this unlikely scenario, market expectations would adjust accordingly and rates would rise (saving glut and secular stagnation notwithstanding).
+<P>
+The behavior of real (inflation-adjusted) interest rates helps clarify the role of the post-crisis monetary-policy shift.
+As shown in the figure below, which plots the share of advanced economies with negative long-term interest rates (ten-year treasuries yielding less than the rate of inflation) from 1900 to 2016.
+In the run-up to the crisis, there are no recorded negative real returns on government bonds; since the crisis, the incidence of negative returns increases and has remained high.
+Of course, the share of countries with negative short-term treasuries (not shown here) is even higher since 2009.
+<P>
+<P>
+But the figure also shows that the 2010-2016 period is not the first episode of widespread negative real returns on bonds.
+The periods around World War I and World War II are routinely overlooked in discussions that focus on deregulation of capital markets since the 1980s.
+As in the past, during and after financial crises and wars, central banks increasingly resort to a form of “taxation” that helps liquidate the huge public- and private-debt overhang and eases the burden of servicing that debt.
+<P>
+Such policies, known as financial repression, usually involve a strong connection between the government, the central bank, and the financial sector.
+Today, this means consistent negative real interest rates – equivalent to an opaque tax on bondholders and on savers more generally.
+<P>
+So if a prolonged period of low and often negative real interest rates is not unprecedented, where is the novelty?
+More often than not, negative real rates were accompanied by higher inflation (as during the wars and the 1970s) than what we observe today in the advanced economies.
+Even when average inflation was modest (as in the 1950s and 1960s), it was still more volatile.
+<P>
+In the 1930s, in the midst of economic depression and sharp deflation, US Treasury bills sometimes traded at negative yields (and real returns were still positive).
+In today’s low-inflation or outright deflationary environment, central banks may need negative policy rates (this is the novelty part) to produce negative real rates.
+In the eurozone and Japan, taxing banks that hold reserves (negative-interest-rate policy) will also encourage more bank lending, and thus stimulate growth.
+<P>
+In an era when public debt write-offs (haircuts) are widely viewed as unacceptable (witness the European Union’s position on Greece) and governments are often reluctant to write off private debts (witness Italy’s reluctance to impose a haircut on holders of banks’ subordinated debt), sustained negative ex post returns are the slow-burn path to reducing debt.
+Absent a surprise inflation spurt, this will be a long process.

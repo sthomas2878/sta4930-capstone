@@ -1,0 +1,42 @@
+<HEADLINE>
+The New Health-Care Continuum
+<P>
+DAVOS – The health-care industry has changed dramatically over the past few decades.
+Research and development have given us astonishing new treatments, powerful diagnostics, and a rapidly growing wealth of knowledge.
+Medical specializations and providers have proliferated.
+Governments and insurers have become powerful players.
+And the patient has become a vocal and proactive consumer, ready to search for better options, even if that means going abroad.
+<P>
+But, even as health care has become more effective, it has also become more complex and costly.
+Growing and aging populations are putting increased pressure on health-care systems that are already buckling under the burden of chronic diseases like cancer and diabetes.
+The Institute of Medicine estimates that in the United States alone, some $750 billion a year – about 30% of total health-care spending – is “wasted on unnecessary services, excessive administrative costs, fraud, and other problems.”
+If we are to ensure that health care remains affordable and widely available for future generations, we need to rethink radically how we provide and manage it.
+<P>
+Crucially, health care needs to become connected.
+It should become effortless for medical professionals to share relevant data with colleagues around the world.
+Medical devices and systems in hospitals should be able to combine multiple sources of information.
+A new generation of consumer technology, such as wearable health sensors, could automatically alert doctors to potential medical problems before they become acute episodes.
+Though such innovations must confront challenges like system interoperability and the need to protect patients’ privacy, the Internet’s integration into the travel and banking industries shows what is possible.
+<P>
+Indeed, connected health care is already becoming a reality.
+Philips, for example, has developed a technology that allows doctors to share medical data from a prostate cancer biopsy with colleagues around the world.
+In the past, the biopsy could be shared only physically, which made diagnosing the exact type of prostate cancer difficult.
+As a result, surgeons and patients may have opted for invasive surgery just to be safe.
+Now, teams of doctors worldwide have an additional tool, enabling them to work together toward more accurate diagnoses and enhanced treatment plans for individual patients.
+<P>
+The entire patient experience will be transformed, with better prevention, quicker diagnoses, shorter hospital stays, and longer independent living becoming the norm.
+If patients return to the hospital, they will bring useful data, captured by wearable devices, about the evolution of their vital signs.
+They can continue to track themselves as their treatments progress, and their data can be integrated with medical records to provide a long-term view of their health, rather than an episodic snapshot of the day they visit a doctor.
+With access to professional coaching and support around the clock, patients will feel more empowered to manage their own physical wellbeing.
+<P>
+Connected health care can also provide access to life-saving treatment to more people, particularly in developing countries and rural areas.
+In Indonesia, which has one of the world’s highest infant mortality rates, midwives in the rural area of Medan collect medical data from pregnant women using a mobile app.
+The data are analyzed by obstetricians and gynecologists elsewhere, allowing women at high risk of illness to be identified and treated early.
+In Uganda, midwives in village health centers send compressed ultrasound scans to remote specialists, nearly doubling the number of newborns that can be delivered by a skilled health worker.
+<P>
+More broadly, connected health technology will cause professional health care and consumer markets to converge.
+This will create a continuum that starts with a focus on healthy living and prevention, empowers consumers to take control of their own health, and enables countries to improve their citizens’ overall wellbeing.
+The continuum will then move on to definitive diagnostics and minimally invasive treatments, optimized for quality and cost, and, finally, to recovery and home care, shifting medical care as soon as possible to more comfortable and cost-effective non-hospital settings.
+<P>
+Governments, insurers, medical professionals, patients, and caregivers need to work together to ensure that the transition to this health continuum is well managed, so that access can be expanded, outcomes can be improved, and productivity can be enhanced.
+Together, we have the opportunity to improve the lives of billions of people, create healthier societies, save costs, and boost economic growth.

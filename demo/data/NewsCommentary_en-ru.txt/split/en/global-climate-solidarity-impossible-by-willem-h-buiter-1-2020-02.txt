@@ -1,0 +1,67 @@
+<HEADLINE>
+Is Global Climate Solidarity Impossible?
+<P>
+NEW YORK – Despite the buzz around climate action at this year’s World Economic Forum meeting in Davos, Switzerland, the world’s current environmental prospects look grim.
+There are three obstacles: climate-change denial; the economics of reducing greenhouse-gas (GHGs) emissions; and the politics of mitigation policies, which tend to be highly regressive.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+According to the Intergovernmental Panel on Climate Change, global carbon-dioxide emissions must be cut by 45% from 2010 levels by 2030, and then eliminated entirely by 2050, to have even a reasonable chance of preventing global warming of 1.5°C above pre-industrial levels.
+“We need quick wins,” warns the United Nations Environment Program in its latest Emissions Gap Report, “or the 1.5°C goal of the Paris Agreement will slip out of reach.”
+<P>
+That is an understatement.
+Even if the current Nationally Determined Contributions (NDCs) under the 2015 Paris accord are met, emissions in 2030 will be 38% above where they need to be.
+Global average temperatures will be on track to rise by a disastrous 2.9-3.4°C by 2100, with continuing increases thereafter.
+The NDC targets would need to be roughly tripled just to limit warming to 2°C, and would have to increase fivefold to achieve the 1.5°C goal.
+<P>
+That is not going to happen.
+The only time in recent history when CO2 emissions have looked as though they might plateau was in 2014-2016, owing to weak global growth.
+According to the Global Carbon Project, emissions have since increased again, by 2.7% in 2018 and 0.6% in 2019.
+Making matters worse, the December 2019 UN Climate Change Conference (COP25) was a dismal failure, resulting in no new climate pledges or clear messages of intent for this year’s COP26 summit in Glasgow.
+<P>
+Why is humanity so reluctant to save itself?
+First, many people simply do not accept the predictions issued by climate scientists.
+But denialism is the least serious of the three main obstacles.
+There will always be a minority for whom facts and logic are unwelcome distractions.
+Yet even US President Donald Trump must realize by now that climate change will undermine the future viability and profitability of Mar-a-Lago.
+<P>
+As the real-world costs of climate-driven disasters mount over time, denialism will become less of an issue.
+Indeed, a November 2019 Yale University survey finds that 62% of registered voters in the United States already would support a president “declaring global warming a national emergency if Congress does not act.”
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The second major challenge is that GHG emissions are the quintessential global economic externality.
+Climate change doesn’t respect borders; GHGs emitted anywhere will affect everyone eventually.
+That means there is a massive free-rider problem.
+Under current circumstances, it will always be individually rational to let others cut back on their emissions rather than doing so yourself.
+The only way to correct this problem is through collective rationality or enlightened self-interest.
+But given the current state of multilateralism, expecting a truly global effort in pursuit of the common good is a tall order.
+<P>
+The third obstacle is that effective policies to reduce GHG emissions disproportionately hurt the poor (both globally and within countries).
+The International Monetary Fund recently calculated that the current effective global price of CO2 emissions is a mere $2 per ton.
+To limit global warming to less than 2°C, however, would require an average effective price of $75 per ton by 2030.
+<P>
+I agree with Harvard University economist Kenneth Rogoff that a uniform global carbon-emissions tax is likely to be the best solution to the climate challenge, at least from an environmental perspective.
+But with such a tax in place, average household electricity prices over the next decade would increase cumulatively by 45%, and gasoline prices by 15%.
+Hence, even within rich countries, the distributional consequences would be difficult to handle, as France’s government found out after it tried to introduce a modest fuel tax in 2018.
+Worse, since the 1980s, effective redistributive fiscal mechanisms in most advanced economies have been emasculated.
+<P>
+Moreover, the larger distributional burden of a global carbon tax would fall disproportionately on poor countries that are hoping to pursue rapid development in the coming decades.
+Around 570 million people in Sub-Saharan Africa alone lack access to basic electricity; globally, the number is closer to 1.2 billion.
+<P>
+Needless to say, long-overdue growth in developing and emerging economies will bring massive increases in energy consumption and GHG emissions.
+In India, China, and many other countries, coal-fired power plants will likely continue to be built for years to come.
+Clean and renewable energy from solar and wind will complement, but not displace, fossil fuels in these countries.
+Despite the strides made in battery storage technology, the intermittency problems associated with wind and solar imply a continuing role for fossil fuels and nuclear power.
+<P>
+Consider India, which accounts for 7% of annual global GHG emissions, making it the world’s fourth-largest emitter, after China (27%), the US (15%), and the European Union (10%).
+That is despite the fact that India’s per capita energy consumption is around one-tenth of America’s.
+And even if that figure doubles by 2030, it will still be only half of what China’s was in 2015.
+<P>
+Countries like India and those in Sub-Saharan Africa are not going to sacrifice their economic development for the sake of emissions reductions.
+The only way to square the circle is to extend financial aid to developing and emerging economies undergoing unavoidably energy-intensive development, so that they can afford to internalize the GHG externality through an appropriately steep tax on emissions.
+<P>
+Unfortunately, sustained large-scale international aid programs are deeply unpopular.
+And given that domestic fiscal solidarity is already wanting, cross-border fiscal solidarity seems like a non-starter.
+Unless and until that changes, an existential crisis of our own making will only worsen.

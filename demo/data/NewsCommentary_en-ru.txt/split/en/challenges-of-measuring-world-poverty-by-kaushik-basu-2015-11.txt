@@ -1,0 +1,58 @@
+<HEADLINE>
+The Poverty Line’s Battle Lines
+<P>
+WASHINGTON, DC – For a long time, as a college professor and then as the chief economic adviser to the Indian government, I was a happy user of the World Bank’s data on global poverty, tracking trends and analyzing cross-country patterns.
+I seldom paused to think about how those numbers were computed.
+Then, three years ago, I joined the World Bank as its Chief Economist.
+It was like a customer, happily ordering dinner in a favorite restaurant, suddenly being asked to go into the kitchen and prepare the meal.
+<P>
+Being in the business of measuring poverty is a challenge for the World Bank.
+If poverty declines, critics accuse us of trying to showcase our success.
+If it rises, they say we are ensuring that we stay in business.
+And if it stays the same, they accuse us of trying to avoid these two charges.
+<P>
+Fortunately, there is something liberating in knowing that you will be criticized for any outcome.
+Still, as our team set about defining the global poverty line this year (and thus the incidence of poverty), I was acutely aware of the note of caution from Angus Deaton, this year’s Nobel laureate in economics: “I am not sure it is wise for the World Bank to commit itself so much to this project.”
+<P>
+I could see his point: This year’s poverty calculation was particularly momentous.
+In 2011, new purchasing power parities (or PPPs, which essentially estimate how much $1 dollar buys in different countries) had been computed, and the data became available in 2014.
+This was one reason to take stock of how we would adjust the global poverty line, estimate new poverty numbers, and publish them in our Global Monitoring Report, which was released in October.
+<P>
+A second reason is that the UN has included the eradication of chronic poverty in its new Sustainable Development Goals.
+This means that our decision on where to draw the poverty line probably will influence not just the World Bank’s mission but also the development agenda of the UN and all countries around the world.
+Clearly, as we crunched the numbers, we had a special, and daunting, responsibility to fulfill.
+<P>
+Our first task was to see how the global poverty line had been determined earlier.
+In 2005, when the previous round of purchasing power parities was estimated, the method used was to take the national poverty lines of the 15 poorest countries, compute their average, and treat that as the global line.
+This led to a global poverty line of $1.25.
+The idea was that a poor person was anyone whose PPP-adjusted daily consumption fell short of $1.25.
+<P>
+The validity of this method has been questioned – and I have had my own reservations.
+But where the line is drawn in the initial year is in some sense not that important.
+Because there is no unique definition of poverty, what matters is to draw a line at some reasonable place and then hold the line constant in real (inflation-adjusted) terms so that we can track the performance of the world and individual countries over time.
+<P>
+Some critics argue that the 2005 poverty line of $1.25 was too low.
+But what should alarm them is that in 2011, some 14.5% of the world’s population – one in every seven people – lived below it.
+Given that we are already committed to the goal of ending extreme, chronic poverty by 2030, our first decision was to hold the yardstick for measuring poverty constant.
+<P>
+Since there had been inflation between the two rounds of the PPP computation, in 2005 and 2011, we would obviously have to raise the nominal poverty line to keep the real line constant.
+However, doing this for the world as a whole is far from easy.
+Which countries’ inflation should we use?
+<P>
+We ran two experiments: one was to inflate the poverty lines of the 15 countries used in 2005, using their respective inflation rates and then taking an average; the other was to do the same for 101 countries for which we had the necessary data.
+These two methods raised the line to $1.88 and $1.90, respectively.
+<P>
+However, a third approach was possible: to raise the poverty line with the new PPP indices so that the incidence of global poverty remained unchanged (because PPP arguably tells us about parity across countries and should not change the absolute level of global poverty).
+This exercise – and it was beginning to look like a strange alignment of the stars – resulted in a poverty line just above $1.90.
+In short, by keeping to one decimal place, all three methods led to $1.9.
+And that is the line we adopted.
+<P>
+We will not always have the good fortune to be able to use different methods and still arrive at virtually the same line.
+Furthermore, poverty can and should be measured by many metrics other than money: life expectancy, educational attainment, health, and various other measures of human “functionings and capabilities” (as Amartya Sen calls them) are all important.
+To tackle these problems in the future and broaden the World Bank’s poverty research, we have established the 24-member Commission on Global Poverty – chaired by Sir Tony Atkinson of the London School of Economics and Nuffield College, Oxford – which will submit its report next spring.
+<P>
+Measuring poverty attracts attention from both politicians and academic researchers – and we had an ample amount of both.
+We were attentive to the politics of poverty, but we resisted political lobbying.
+We took account of the suggestions of researchers, but we used our judgment.
+One researcher was adamant that the poverty line should be $1.9149.
+I decided that those last three digits were a bit excessive.

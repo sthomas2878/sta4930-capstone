@@ -1,0 +1,49 @@
+<HEADLINE>
+Shaky Cyber Trigger Fingers
+<P>
+VIENNA – A media storm centered on the “emerging cyber threat” has turbocharged the public debate on cyber security in the United States – and raised the stakes in bilateral relations with China.
+While wider public awareness of the cyber threat should be welcomed, the increasingly strident discourse may not help alleviate tensions in cyberspace.
+In the medium term, it might even increase the risk of serious cyber conflict.
+<P>
+A recent report by the US Department of Defense employs the strongest language yet to implicate China’s government and military in cyber espionage, including on computer systems owned by the US government.
+The report also warns that, for those targeted by such activities, distinguishing between espionage and preparations for serious cyber attacks is virtually impossible.
+What the report does not mention is that this ambiguity has another important implication: a serious cyber conflict could easily be triggered by accident.
+<P>
+This means that China’s alleged incursions are not the only threat; America’s increasingly forceful position on cyber espionage could inadvertently trigger a cyber war.
+After all, actions about cyberspace can be misunderstood just as easily as activities in cyberspace.
+<P>
+In this context, the US government should tread lightly.
+While invoking the specter of cyber attacks may help to mobilize domestic support for security legislation, it may also increase the likelihood of a major cyber conflict.
+As another recent report from the US Department of Defense suggests, a cyber war could be catastrophic: military aircraft could be grounded, or, in an extreme scenario, parts of America’s nuclear arsenal could be compromised.
+Civilians would suffer considerably in such a “permanently degraded cyber environment,” which could include the collapse of energy and utility services.
+The lights might not simply go out; they could remain off for a long time.
+<P>
+While such an apocalyptic scenario is unlikely to occur, it cannot be ruled out, especially given that a cyber conflict, unlike most conventional military conflicts, can be initiated unintentionally, taking even the party responsible by surprise.
+Such “inadvertent escalation” can stem from a pattern of imprudent operational behavior, for example, or from persistent strategic miscalculation.
+<P>
+Given that national cyber security usually involves at least 5-6 government departments or ministries, along with a vast array of state and non-state actors, most operational tasks are conducted with minimal oversight.
+In other words, senior government officials do not always know what is occurring at the operational level – or understand how provocative or misleading it may be.
+While accusations of insufficient oversight over hackers’ activities have been leveled specifically at China, the challenge of tracking potentially disruptive cyber activities extends to all current and future cyber powers.
+<P>
+At the same time, governments must contend with significant strategic challenges, which vary according to national conditions.
+For example, US law hampers the federal government’s ability to protect critical infrastructure and key resources from cyber attacks.
+While recent legislative proposals like the Cyber Information Security and Protection Act (CISPA) may help to improve the situation, their impact remains to be seen.
+<P>
+The US, increasingly confident in its ability to identify and strike back at any cyber assailant, has so far evaded legal obstacles by focusing on deterrence.
+But this approach is effective only if would-be attackers have at least a basic understanding of America’s capabilities.
+Fortunately for the US, the media are helping to fill this gap with a steady stream of revelations on the subject.
+<P>
+Deterrence, however, carries significant escalation risks.
+By instilling fear in its adversaries, deterrence can goad governments – even those that are not directly involved in current cyber standoffs – into reckless or unpredictable behavior.
+Although recent officials US statements have been directed primarily at China and Russia, they have motivated governments worldwide to build their own offensive cyber capabilities.
+<P>
+While there is a small possibility that stronger language from the US will lead China to curb its alleged cyber-espionage activities, the more likely outcome will be akin to a cyber arms race, with an increasing number of countries striving to become cyber powers in their own right.
+More than 40 countries now have some sort of military-intelligence cyber capability, and with the proliferation of offensive cyber capabilities, inadvertent escalation will become increasingly likely.
+<P>
+A global set of “norms of state cyber behavior,” developed through multilateral diplomacy, could help to mitigate this threat.
+But, so far, the US has preferred to pursue a bilateral approach to cyber affairs.
+This strategy is highly labor-intensive, given that it requires individual engagement with every new cyber power (potentially dozens of countries).
+Moreover, given the deftness with which China has negotiated bilateral trade treaties with many Asian and African countries that favor its interests, the US approach could fail to ensure that Western interests prevail.
+<P>
+American media and the private sector will continue to exert pressure on persistent cyber offenders like China to change their behavior by “naming and shaming” them.
+But it would be prudent for the US government to adopt a less assertive approach, and keep the threat of its sizable cyber capabilities as a last resort.

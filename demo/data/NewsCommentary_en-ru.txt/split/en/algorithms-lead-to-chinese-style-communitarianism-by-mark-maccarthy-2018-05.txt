@@ -1,0 +1,60 @@
+<HEADLINE>
+The Politics of Machine-Learning Algorithms
+<P>
+WASHINGTON, DC – Around 1200 BC, the Shang Dynasty in China developed a factory system to build thousands of huge bronze vessels for use in everyday life and ritual ceremonies.
+In this early example of mass production, the process of bronze casting required intricate planning and the coordination of large groups of workers, each performing a separate task in precisely the right order.
+<P>
+A similarly complex process went into fashioning the famous army of terracotta warriors that Qin Shi Huang, China’s first emperor, unveiled one thousand years later.
+According to the Asian Art Museum in San Francisco, the statues “were created using an assembly production system that paved the way for advances in mass production and commerce.”
+<P>
+Some scholars have speculated that these early forms of prescriptive-work technologies played a large role in shaping Chinese society.
+Among other things, they seem to have predisposed people to accept bureaucratic structures, a social philosophy emphasizing hierarchy, and a belief that there is a single right way of doing things.
+<P>
+When industrial factories were introduced in Europe in the nineteenth century, even staunch critics of capitalism such as Friedrich Engels acknowledged that mass production necessitated centralized authority, regardless of whether the economic system was capitalist or socialist.
+In the twentieth century, theorists such as Langdon Winner extended this line of thinking to other technologies.
+He thought that the atom bomb, for example, should be considered an “inherently political artifact,” because its “lethal properties demand that it be controlled by a centralized, rigidly hierarchical chain of command.”
+<P>
+Today, we can take that thinking even further.
+Consider machine-learning algorithms, the most important general-purpose technology in use today.
+Using real-world examples to mimic human cognitive capacities, these algorithms are already becoming ubiquitous in the workplace.
+But, to capitalize fully on these technologies, organizations must redefine human tasks as prediction tasks, which are more suited to these algorithms’ strengths.
+<P>
+A key feature of machine-learning algorithms is that their performance improves with more data.
+As a result, the use of these algorithms creates a technological momentum to treat information about people as recordable, accessible data.
+Like the system of mass production, they are “inherently political,” because their core functionality demands certain social practices and discourages others.
+In particular, machine-learning algorithms run directly counter to individuals’ desire for personal privacy.
+<P>
+A system based on the public availability of information about individual community members might seem amenable to communitarians such as the sociologist Amitai Etzioni, for whom limitations on privacy are a means to enforce social norms.
+But, unlike communitarians, algorithms are indifferent to social norms.
+Their only concern is to make better predictions, by transforming more and more areas of human life into data sets that can be mined.
+<P>
+Moreover, while the force of a technological imperative turns individualist Westerners into accidental communitarians, it also makes them more beholden to a culture of meritocracy based on algorithmic evaluations.
+Whether it is at work, in school, or even on dating apps, we have already become accustomed to having our eligibility assessed by impersonal tools, which then assign us positions in a hierarchy.
+<P>
+To be sure, algorithmic assessment is not new.
+A generation ago, scholars such as Oscar H. Gandy warned that we were turning into a scored-and-ranked society, and demanded more accountability and redress for technology-driven mistakes.
+But, unlike modern machine-learning algorithms, older assessment tools were reasonably well understood.
+They made decisions on the basis of relevant normative and empirical factors.
+For example, it was no secret that accumulating a lot of credit card debit could hurt one’s creditworthiness.
+<P>
+By contrast, new machine-learning technologies plumb the depths of large data sets to find correlations that are predictive but poorly understood.
+In the workplace, algorithms can track employees’ conversations, where they eat lunch, and how much time they spend on the computer, telephone, or in meetings.
+And with that data, the algorithm develops sophisticated models of productivity that far surpass our commonsense intuitions.
+In an algorithmic meritocracy, whatever the models demand becomes the new standard of excellence.
+<P>
+Still, technology is not destiny.
+We shape it before it shapes us.
+Business leaders and policymakers can develop and deploy the technologies they want, according to their institutional needs.
+It is within our power to cast privacy nets around sensitive areas of human life, to protect people from the harmful uses of data, and to require that algorithms balance predictive accuracy against other values such as fairness, accountability, and transparency.
+<P>
+But if we follow the natural flow of algorithmic logic, a more meritocratic and communitarian culture will be inevitable.
+And this steady transformation will have far-reaching implications for our democratic institutions and political structures.
+As the China scholars Daniel A. Bell and Zhang Weiwei have noted, the major political alternative to Western liberal-democratic traditions are the communitarian institutions that continue to evolve in China.
+<P>
+In China, collective decisions are not legitimated by citizens’ explicit consent, and people generally have fewer enforceable rights against the government, particularly when it comes to surveillance.
+An ordinary Chinese citizen’s role in political life is largely limited to participation in local elections.
+The country’s leaders, meanwhile, are selected through a meritocratic process, and consider themselves custodians of the people’s welfare.
+<P>
+Liberal democracies are not likely to shift entirely to such a political system.
+But if current trends in business and consumer culture continue, we might soon have more in common with Chinese meritocratic and communitarian traditions than with our own history of individualism and liberal democracy.
+If we want to change course, we will have to put our own political imperatives before those of our technologies.

@@ -1,0 +1,44 @@
+<HEADLINE>
+The Mosquito Menace
+<P>
+STANFORD – Mosquito-borne diseases kill millions of people annually, and cause suffering for many more.
+In 2012, there were an estimated 207 million cases of malaria, leading to some 627,000 deaths.
+Dengue fever is a leading cause of illness and death in the tropics and subtropics, with as many as 100 million people infected each year.
+And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.
+<P>
+It takes only one bite from a disease-carrying mosquito to transmit a debilitating or deadly infection – and mosquitoes breed and multiply with astonishing speed.
+Given that there are no vaccines or drug treatments for illnesses like dengue fever and West Nile virus, and that treatments for diseases like malaria are difficult to access in many at-risk areas, more effective mechanisms for controlling mosquito populations are desperately needed.
+<P>
+The good news is that a promising new technology is ready for field-testing.
+It is now up to government agencies to facilitate its development.
+<P>
+Today, the dominant method for reducing insect populations – the so-called “sterile insect technique” (SIT) – relies on radiation to sterilize males, which are then released into infested areas to mate.
+But this approach, which has been used since the middle of the last century, has not been effective with mosquitoes, owing to their fragility.
+<P>
+Advances in molecular biology offer analogous – but far more sophisticated – solutions.
+Using molecular genetic-engineering techniques, the British company Oxitec has created a new way to control the mosquito species that transmits dengue fever.
+<P>
+Male mosquitoes are bred in the laboratory with a specific genetic mutation.
+As a result, their offspring produce high levels of a protein that prevents their cells from functioning normally, causing them to die before reaching maturity.
+Male mosquitoes do not bite, so their release presents no health risk, and, because their progeny die, no genetically engineered mosquitoes persist in the environment.
+<P>
+If the males are released over a period of several months, this would, in theory, result in a marked reduction in the mosquito population.
+All that is needed now is to determine whether it works in practice.
+<P>
+Scientific research to develop products like irradiated sterile insects or the Oxitec mosquitoes proceeds progressively from more to less contained conditions – from the laboratory to confined trials to limited field trials.
+Now that Oxitec has conducted promising field trials in the Cayman Islands, Malaysia, and Brazil, it is preparing to conduct trials in other countries, including the United States.
+<P>
+Such trials are always appropriately controlled and monitored to ensure that they are safe and effective, with government regulation providing an extra safeguard.
+In order to determine the appropriate level of oversight, government bodies would presumably conduct a science-based risk analysis.
+<P>
+When it comes to genetic engineering, however, science seems to matter less than politics.
+The fact is that molecular genetic engineering is more precise and predictable than older, cruder techniques like irradiation.
+But, while SIT remains unregulated in most places, the regulatory reviews of genetically engineered living organisms have tended to be drawn out and excessive worldwide, with politics delaying – and sometimes even preventing – approvals.
+As a result, research and development in genetic engineering is more expensive, discouraging investment and hampering innovation.
+<P>
+This is all the more problematic in the case of mosquito control, given the urgency of the problem.
+The World Health Organization’s Special Program for Research and Training in Tropical Diseases has called upon regulatory agencies to emphasize “science-based, case-by-case targeted requirements with a degree of practical parsimony,” instead of relying on “a precautionary approach that can require data to address all theoretical risks.”
+In other words, regulators should consider these innovations’ public-health costs and benefits, and expedite their review.
+<P>
+Given the degree of suffering caused by mosquito-borne diseases, government leaders must not subject genetic-engineering solutions for controlling them to the same kinds of political and populist headwinds that have impeded the approval of genetically engineered agricultural products.
+Only with pragmatic, fact-based regulation can the world realize genetic engineering’s full disease-fighting potential.

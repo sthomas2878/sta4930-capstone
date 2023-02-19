@@ -1,0 +1,56 @@
+<HEADLINE>
+Physics Confidential
+<P>
+PRINCETON – Each February, I begin the introductory electricity and magnetism course at Princeton University by telling my students that the material we will cover during the semester provides the basis for modern civilization.
+<P>
+Who could quibble with such an innocent statement?
+Without the discoveries of nineteenth-century physicists and their successors, we could hardly imagine today’s world: no electrical power grid, no televisions, no satellites, no iPads.
+<P>
+Physicists are justly proud of the many ways that their achievements have benefited humankind.
+But building a light bulb or a telephone doesn’t mean that you understand its basic principles (Thomas Edison and Alexander Bell certainly didn’t).
+Unfortunately, many of my colleagues – particularly those who write textbooks – present physics as a towering, seamless basilica, ignoring the gaps in our hodge-podge of skewed models.
+In fact, what is presented as a shimmering cathedral often more closely resembles a hastily erected shantytown.
+<P>
+For example, one needs only first-semester equations to describe reasonably well the behavior of a gyroscope; engineers can then go off and build gyrocompasses that guide aircraft or missiles to their destinations.
+But if you merely ask, “At what, exactly, is the gyroscope pointed?” you are plunged headlong into one of physics’ deepest questions, one that led Einstein to develop his general theory of relativity – and that, even today, has no definitive answer.
+I know of no undergraduate textbook that acknowledges the question.
+<P>
+On a more blatant, if less exalted, level, the force of friction makes its appearance in the first days of any first-year course.
+We declare, as if there can be no doubt, that friction impedes the motion between two bodies, and we invoke sophisticated microscopic models that show how the soles of running shoes bind to a track.
+<P>
+Yet friction produces heat and thus an increase in entropy – which measures the amount of energy that cannot be used to perform work – and it therefore distinguishes past from future.
+The increase in entropy – the second law of thermodynamics – is the only law of nature that makes this fundamental distinction.
+<P>
+If Newtonian mechanics is at the bottom of everything, then one should be able to derive the second law of thermodynamics from Newtonian physics.
+But this has never been accomplished satisfactorily: the incompatibility of the second law with the other fundamental laws is perhaps the greatest paradox in all of physics.
+<P>
+Still, we brazenly drop this enigma into the first days of a first-year course without batting an eye.
+We write down equations that show how friction slows the motion of sliding objects or dampens the vibrations in springs, but, ultimately, the math merely reproduces our observations while disguising our ignorance of what underlies them.
+<P>
+After decades – indeed, centuries – of employing such tricks, physicists have forgotten that they are modeling phenomena, not necessarily uncovering Divine Truth.
+For instance, we can easily write down the equations for a ball on a swinging spring, but if we stretch the spring enough and swing the ball hard enough, we can’t solve those equations.
+The motion becomes chaotic, making an exact mathematical solution impossible.
+<P>
+Nowadays, with computers, we can approximate the trajectory as closely as we want.
+But that is the point: most physicists and students have lost sight of the distinction between the approximate and the exact.
+We can certainly learn something about chaotic systems without actually solving the equations, but if an old-fashioned mathematician demanded that a student predict where that ball was heading, the student would inevitably fail.
+<P>
+Even something as fundamental as Newton’s law of gravity is ultimately an approximation.
+Textbook authors dutifully write down the famous law without remarking that it results in infinite forces when the two attracting objects get infinitely close together.
+Never mind that infinite forces are a sure sign that your theory has gone up in smoke: in the current crop of textbooks sitting on my desk, not one mentions the obvious pathology.
+<P>
+Our Princeton text compounds the oversight by declaring that, “strictly speaking” Newton’s law of gravity is valid only for particles.
+Well, particles are exactly where Newton goes awry – and not just in first-semester physics.
+The basic equation of electricity is “Coulomb’s law,” which governs the electrical attraction or repulsion between charged particles and looks exactly like Newton’s law of gravity.
+Now, we always tell students to imagine electrons as point particles, in which case they really do need to worry about those infinite forces.
+<P>
+The problems that arise from modeling particles as vanishingly small points infect all advanced areas of physics.
+Central to any quantum mechanics course is the concept of electron “spin,” but what, exactly, is spinning is never made clear.
+Wolfgang Pauli, one of the concept’s originators, at first rejected the idea, because if the electron has a finite radius, then the surface would be spinning faster than the speed of light.
+On the other hand, if you view the electron as a point particle, how are you to imagine something without a radius spinning?
+<P>
+To cure the point-particle pathologies, physicists invented modern field theories, with impressive names such as quantum electrodynamics.
+But these theories turned out to be as riddled with infinities as their grandparents, and elaborate ad hoc schemes were invented to deal with the new problems encountered.
+<P>
+And so, despite headline-grabbing advances such as string theory, it goes to this very day.
+One can hardly challenge the predictive success of modern physics, but one should remember that one is describing nature, and not always understanding it.

@@ -1,0 +1,63 @@
+<HEADLINE>
+The Social Science of Medicine
+<P>
+DAVOS – When I was a medical student in the mid-1980s, I contracted malaria in Papua New Guinea.
+It was a miserable experience.
+My head ached.
+My temperature soared.
+I became anemic.
+But I took my medicine, and I got better.
+The experience wasn’t pleasant, but thanks to cheap, effective malaria drugs I was never in very much danger.
+<P>
+The pills that cured me, chloroquine tablets, do not work anymore.
+Even at the time I was taking them, the parasite that causes malaria had already become resistant to chloroquine in many parts of the world; Papua New Guinea was one of the last places where the pills continued to be effective, and even there they were losing their potency.
+Today, chloroquine has basically disappeared from our medical arsenal.
+<P>
+The growing capacity of pathogens to resist antibiotics and other antimicrobial drugs is turning into the greatest emerging crisis in contemporary health care – and it is a crisis that cannot be solved by science alone.
+<P>
+Other pharmaceuticals are following in chloroquine’s wake.
+Multi-drug-resistant strains of tuberculosis, E. coli, and salmonella are now commonplace.
+Most gonorrhea infections are untreatable.
+Superbugs, like methicillin-resistant Staphylococcus aureus (MRSA) and Clostridium difficile, are proliferating.
+In India, antibiotic-resistant infections killed more than 58,000 newborns in 2013.
+<P>
+Today, malaria is often treated with a combination of artemisinin – a drug derived from a Chinese herb – and other antimalarial drugs.
+But these revolutionary medicines are now in danger of following chloroquine into obsolescence; resistant strains of malaria have been documented in Southeast Asia.
+<P>
+This is more than a medical problem; it is a potential economic disaster.
+Research commissioned by the Review on Antimicrobial Resistance, headed by the economist Jim O’Neill, has calculated that if current trends continue, drug-resistant infections will kill ten million people a year by 2050 and cost the global economy some $100 trillion over the next 35 years.
+<P>
+Even that dramatic prediction may be a substantial underestimate, as it includes only the direct costs in terms of lives and wellbeing lost to infections.
+Many other aspects of modern medicine also rely on antibiotics.
+Cancer patients receiving chemotherapy take them to suppress bacteria that would otherwise overwhelm their weakened immune systems.
+Many surgical operations now considered routine, including joint replacements and Caesarean sections, can be performed safely only when antibiotics prevent opportunistic infections.
+<P>
+The origins of drug resistance are a well-understood matter of evolution.
+If pathogens are exposed to the selective pressure of toxic drugs, eventually they will adapt.
+The Wellcome Trust, which I lead, has invested hundreds of millions of dollars into researching these mechanisms, improving diagnoses, and creating new drugs.
+<P>
+In order to address the problem effectively, this effort must be extended beyond the realm of biological science to areas not traditionally associated with medicine.
+In rich and poor countries alike, we have become systematic abusers of antibiotics.
+The key to combating resistance is to delay the rate at which the pathogens can adapt.
+But, by overprescribing antibiotics and failing to complete the required courses of treatment, we are exposing germs to just enough medicine to encourage resistance.
+In effect, we are vaccinating germs against the drugs we want to use against them.
+<P>
+That is because we have come to regard antibiotics almost as consumer goods – ours to demand from doctors, and ours to take or stop taking as we see fit.
+Even the most informed patients misuse these wonder drugs.
+Research in the United Kingdom has found that even people who understand how resistance develops often contribute to the problem by taking antibiotics without a prescription or giving their drugs to members of their family.
+<P>
+Changing such destructive behavior will require that we better understand the social and cultural factors that drive it.
+Disciplines like history, psychology, sociology, anthropology, economics, market research, and social marketing can help.
+<P>
+This is true not only for antimicrobial resistance.
+It also applies to outbreaks like the Ebola epidemic.
+Combating the virus requires knowledge about its biology, the epidemiology of its transmission, and the drugs and vaccines that could potentially be deployed against it.
+But it also requires an understanding of the behaviors that have allowed infection to spread in Liberia, Sierra Leone, and Guinea.
+<P>
+Explaining what made these societies so vulnerable requires learning about the region’s recent history and understanding why people there are deeply distrustful of public authorities.
+Isolation of patients and safe burial of the dead are crucial to containing Ebola, but both need to be introduced with cultural sensitivity – not just explanations of the science behind them.
+<P>
+Today’s great public-health threats have profound economic consequences.
+Minimizing the risks they pose requires recognizing that they are intertwined with the social, behavioral, and cultural landscape.
+Science provides powerful tools.
+But we need more than science to use these tools effectively.

@@ -1,0 +1,57 @@
+<HEADLINE>
+India’s Big Leaky Data
+<P>
+NEW DELHI – India has no coltan or rare earths, little oil, and not enough water.
+What it does have is people – 1.3 billion and counting.
+That makes India potentially very rich in what has been called the “new oil”: data.
+But who will benefit from that wealth, and who might be put at risk?
+<P>
+Indian Prime Minister Narendra Modi undoubtedly likes collecting data.
+Since becoming prime minister in 2014, he has led an enthusiastic campaign to expand digital governance, hailing its efficiency and extolling its capacity to transform the country.
+<P>
+Biometric devices are now used to track the attendance of students and teachers in schools, and of government employees at work.
+Following his disastrous demonetization scheme in 2016, Modi has urged Indians to make digital, not cash, payments, even for small transactions.
+<P>
+More ambitiously, Modi’s government has expanded the reach and scope of India’s scheme to issue to all residents a “unique identification number,” or Aadhaar, linked to their biometrics.
+The primary goal of the program – initiated in 2009 by the previous Congress party-led government – was originally to manage government benefits and eliminate “ghost beneficiaries” of public subsidies, thereby preventing the pilfering of state funds.
+<P>
+When the Aadhaar scheme was introduced, Modi – then the chief minister of Gujarat – vociferously opposed it, pledging to scrap the project if his Bharatiya Janata Party came to power.
+As prime minister, however, Modi has embraced the program, ordering that the identification numbers be linked to virtually everything.
+Bank accounts, school enrollment, mobile-phone contracts, travel records, hospital admissions, and even cremation certificates now all require an Aadhaar, despite Modi’s assurances to the Supreme Court that participation in the program would not become mandatory.
+<P>
+Modi’s objectives extend far beyond efficiency.
+He has unabashedly declared that data is “real wealth,” and that “whoever acquires and controls” it can attain “hegemony.”
+And political hegemony is Modi’s goal.
+He has spent the last four years centralizing and consolidating power, and his BJP has gained control of 22 of 29 states, complementing its lower-house majority with a likely majority in the upper house (which is elected by state assemblies).
+<P>
+But Modi’s apparent vision of India as a country where Big Government meets Big Data has hit many snags.
+Machines meant to authenticate Aadhaar holders have often failed, particularly in rural parts of the country, owing to a lack of Internet connectivity or electricity.
+As a result, far from helping the poor, the Aadhaar scheme has prevented many poor people from claiming their Public Distribution System (ration) supplies – a violation of their rights.
+<P>
+Making matters worse, the Aadhaar program leaks like a sieve.
+An investigative journalist at The Tribune newspaper was able to purchase five million ID numbers for a mere 500 rupees ($8).
+On a government oil and gas company’s website, anyone with basic technical skills could uncover the names, bank details, and Aadhaar numbers of more than 500 million Indians.
+Nearly 16 million Aadhaar numbers were accidentally exposed by the Ministry of Rural Development.
+And the details of another 20 million people in the southern state of Andhra Pradesh were revealed on a database of unorganized workers.
+<P>
+Overall, the Aadhaar program leaves participants far more compromised than even, say, the 87 million Facebook users whose personal data were wrongly shared with the political consulting firm Cambridge Analytica.
+Yet, in response to such revelations, Modi’s government has offered only denial, complacency, and concealment.
+<P>
+This failure to protect data seems to be a pattern with Modi.
+In 2015, he invited his supporters “to receive messages and emails directly from the prime minister” by downloading and installing the “Narendra Modi mobile app” on their phones.
+“No intermediaries, no media, no officials, no red tape,” he promised.
+The Android version of that app was downloaded more than five million times.
+<P>
+But there was a catch: the data to which Modi’s followers gave the app access – including their photographs, contact lists, and GPS data, as well as their microphones and cameras – were shared with a US firm.
+The app’s users did not know that this would happen, let alone consent to it, as it wasn’t included even in the fine print.
+And while the app’s privacy policy has since been changed, that US firm retains the previously acquired data, which it could use for commercial purposes today and for who knows what else tomorrow.
+<P>
+The challenges associated with collecting and protecting data will only intensify in the years to come.
+It is estimated that 90% of the world’s data have been generated in the last two years alone.
+In India, that percentage may be even higher, as increasingly ubiquitous 4G services and increasingly cheap Internet-enabled smartphones have recently enabled millions to get online – and offer up significant amounts of personal information.
+<P>
+India will be the land of Big Data.
+The question is whether it will also be the land of the Big Leak.
+So far, the country lacks strong data privacy and protection laws.
+My own attempt to introduce one in a private member’s bill was repeatedly thwarted by parliament-stalling disruptions.
+To protect the people who are generating all of that data wealth that Modi so covets, he must follow through on his campaign promise to deliver “minimum government, maximum governance.”

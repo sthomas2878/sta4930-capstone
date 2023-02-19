@@ -1,0 +1,64 @@
+<HEADLINE>
+How COVID-19 Is Transforming Manufacturing
+<P>
+MUNICH – As the COVID-19 pandemic escalates, the risks inherent in global supply chains are more apparent than ever.
+Rather than await a return to business as usual, with manufacturing activities concentrated in countries where labor is cheap and plentiful, advanced-economy companies are shifting their focus to the lowest-wage workers of all: robots.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Firms began relocating production to low-wage countries in the early 1990s, aided by the fall of the Iron Curtain, China’s global integration and eventual accession to the World Trade Organization, and the rise of containerization.
+The period between 1990 and the 2008 global financial crisis has been called an era of hyper-globalization in which global value chains accounted for about 60% of global trade.
+<P>
+The 2008 global financial and economic crisis marked the beginning of the end of this era of hyper-globalization.
+In 2011, global value chains stopped expanding.
+They have not grown again since.
+<P>
+This reversal was driven by uncertainty.
+From 2008 to 2011, the World Uncertainty Index – constructed by Hites Ahir, Nicholas Bloom, and Davide Furceri – increased by 200%.
+To compare, during the 2002-03 outbreak of severe acute respiratory syndrome (SARS), the WUI rose by 70%.
+After the United Kingdom voted in 2016 to leave the European Union, it surged by 250%.
+<P>
+When uncertainty rises, global value chains suffer.
+Based on past data, one can predict that a 300% increase in uncertainty – as the COVID-19 pandemic seems likely to produce – would reduce global supply-chain activity by 35.4%.
+Firms no longer consider the cost savings of offshoring to be worth the risk.
+<P>
+At a time when adopting robots is cheaper than ever, the incentive to reshore production is even stronger.
+The arithmetic is simple.
+A company in, say, the United States would have to pay an American worker a lot more than, say, a Vietnamese or Bangladeshi one.
+But a US-based robot would not demand wages at all, let alone benefits like health insurance or sick leave.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Investment in robots is not new.
+Advanced-economy firms have been pursuing it since the mid-1990s, led by the automotive industry, which can account for 50-60% of a country’s robot stock.
+In Germany – a global leader in robot adoption – robots per 10,000 workers in manufacturing stood at 322 in 2017.
+Only South Korea (710 robots per 10,000 workers) and Singapore (658 per 10,000) have a higher ratio.
+The US has 200 robots per 10,000 workers.
+<P>
+In fact, when the 2008 crisis struck, some countries, such as Germany, already had enough robots to minimize the importance of labor costs in production.
+Many others, aided by the sharp post-2008 decline in interest rates relative to wages, boosted robot adoption and reshored a larger share of production.
+<P>
+The same is likely to happen today.
+Based on monetary policy so far, a 30% drop in interest rates can be expected, as central banks try to offset the damage of the COVID-19 pandemic.
+Past data indicate that this could bring a 75.7% acceleration in robot adoption.
+(It will not bring an unbridled boom in robot adoption, because rising uncertainty also deters investment.)
+<P>
+This trend will be concentrated in the sectors that are most exposed to global value chains.
+In Germany, that means autos and transport equipment, electronics, and textiles – industries that import around 12% of their inputs from low-wage countries.
+(Overall, the German economy imports 6.5% of the inputs it uses.)
+<P>
+Globally, the industries where the most reshoring activity is taking place are chemicals, metal products, and electrical products and electronics.
+The chemical industry stands out as the top reshorer in France, Germany, Italy, and the US.
+<P>
+This trend poses a major threat to many developing countries’ growth models, which depend on low-cost manufacturing and exports of intermediate inputs.
+In Central and Eastern Europe, some countries have responded to this challenge by investing in robots themselves.
+The Czech Republic, Slovakia, and Slovenia (which have large foreign-owned auto sectors) now have more robots per 10,000 workers than the US or France.
+And the strategy seems to be working: they remain an attractive offshoring destination for rich countries.
+<P>
+Low-cost manufacturing hubs in Asia may have a harder time, especially in the wake of the pandemic.
+China, which secured its economic rise by establishing itself at the center of many global value chains, will face particularly serious challenges, despite its plans to shift to higher-value-added activities and boost domestic consumption.
+<P>
+Between rising protectionism (especially in the US under President Donald Trump) and the COVID-19 pandemic, the advanced economies seem to be geared up for a manufacturing renaissance.
+But while this may reduce risks for large firms, it probably will not benefit very many advanced-economy workers, let alone the developing countries from which production is being shifted.
+For that, governments will need to implement policies suited to this new economic order.

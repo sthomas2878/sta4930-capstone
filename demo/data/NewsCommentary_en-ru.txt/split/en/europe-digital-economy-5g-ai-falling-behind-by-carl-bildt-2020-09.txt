@@ -1,0 +1,59 @@
+<HEADLINE>
+Europe’s Digital Emergency
+<P>
+STOCKHOLM – EU Commission President Ursula von der Leyen offered an upbeat assessment in her first annual policy report (“state of the union” address) to the European Parliament this month.
+Clearly, the agreement this summer on an unprecedented €750 billion ($879 billion) recovery fund and renewal package has given the European Union a new sense of strength.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+But now is not the time for complacency.
+While Europe can take pride in leading the world toward carbon neutrality and a “green recovery,” COVID-19 cases on the continent are spiking again, and the region remains at serious risk of falling behind in the global technology race.
+<P>
+In terms of the broader economy, there is now talk of a “K-shaped” recovery in which some sectors decline sharply while others boom, often by seizing on opportunities created by the crisis itself.
+The EU has every reason to worry that its economy comprises more sectors in the first category than in the second, which invariably centers on information and communication technology (ICT).
+<P>
+The pandemic has accelerated the digital transition.
+China, for its part, has stepped up its efforts to achieve technological dominance in artificial intelligence (AI) and other key sectors of the future.
+And companies like Zoom have gone from being non-entities to household names in the space of just months.
+ExxonMobil, once the most valuable company in the United States, now doesn’t even make it into the top 30, having been surpassed by companies like Netflix.
+Despite a recent correction, US tech giants’ combined market capitalization now exceeds that of all companies listed in Europe.
+<P>
+But even though hundreds of millions of people’s daily lives during the pandemic have been mediated by US tech companies’ products and services, the US cannot afford complacency, either.
+Chinese giants like Huawei and TikTok are enlarging their global market share by the day.
+According to Eric Schmidt, a former executive chairman of Google and Alphabet and chair of the US Department of Defense’s Defense Innovation Advisory Board, “China is on its way to surpass us in many, many ways ... we need to take them seriously.”
+Otherwise, he warns, China will “end up with a bigger economy, more R&D investments, better quality research, wider applications of technology, and a stronger computing infrastructure.”
+<P>
+There was a time when Europe could proudly claim to have helped launch the era of mobile communications.
+But now that the world is on the verge of upgrading from 4G to 5G, Europe’s technological contributions are notably absent.
+A new report from the European Round Table for Industry finds that the EU trails the US by three years, and China by nearly as much, just when it comes to implementing 4G, which is already yesterday’s technology.
+Needless to say, it is lagging even further behind in its rollout of 5G base stations, even though it is home to major ICT companies like Ericsson and Nokia.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Europe’s slow adoption of 5G will have far-reaching implications for its future competitiveness.
+Many of the industries that 5G could revolutionize are those in which Europe has traditionally demonstrated strength: manufacturing, design, and health care.
+Now, there is a high risk that China, through digitalization, will achieve dominance in these industries.
+<P>
+And 5G is just one technology.
+Even more important is AI, where the situation for Europe is particularly grim.
+According to a 2019 study by the Center for Data Innovation, the US leads the global AI race “in four of the six categories of metrics” examined (talent, research, development, and hardware), and China comes out on top in the remaining two (adoption and data).
+The EU commands primacy in none, though it is close behind the US in terms of talent.
+<P>
+This last observation is crucial.
+Europe’s problem is not a scarcity of talent but rather a lack of appropriate institutional arrangements and leadership in this critical domain.
+Fractured, old-fashioned governance frameworks are hampering the rollout of 5G infrastructure.
+Insufficient funding for basic research is hampering innovation.
+And the absence of deep capital markets is making it difficult for start-ups to get the financing they need to grow and scale up, leaving them to be snatched up by deep-pocketed US companies.
+<P>
+The results of these failures are clear to see in the rankings of the world’s unicorns (start-ups valued at $1 billion or more).
+According to one recent index, six of the ten largest are from the US, three are from China, and one is from Singapore.
+Other indices give China the biggest share of major unicorns; but none show European start-ups anywhere near the top.
+<P>
+Though many start-ups eventually will fail, at least some of today’s highly valued companies will go on to become the giants of tomorrow’s digital economy, dominating our lives as much as today’s Big Tech firms do.
+It’s no use complaining about Chinese state support or less-regulated US markets.
+The companies that succeed will be built on innovative business models that deliver what customers want.
+<P>
+Late last year, to lend new momentum to the transition to a carbon-neutral economy, the European Parliament declared a “climate emergency.”
+That is a perfectly understandable objective to prioritize.
+But Europe also needs to declare a domestic “digital emergency,” lest it continue falling behind in the industries that will be necessary for achieving all other development goals – including a green economy.

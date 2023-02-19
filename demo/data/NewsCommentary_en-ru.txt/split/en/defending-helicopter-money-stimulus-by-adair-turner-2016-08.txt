@@ -1,0 +1,59 @@
+<HEADLINE>
+Demystifying Monetary Finance
+<P>
+LONDON – Eight years after the 2008 crisis governments and central banks – despite a plethora of policies and approaches – have failed to stimulate enough demand to produce sustained and strong growth.
+In Japan, so-called Abenomics promised 2% inflation by 2015; instead, the Bank of Japan (BOJ) expects it to be close to zero in 2016, with GDP growth below 1%.
+Eurozone growth halved in the second quarter of 2016 and is dangerously dependent on external export demand.
+Even the US recovery seems tepid.
+<P>
+Discussions of “helicopter money” – the direct injection of cash into the hands of consumers, or the permanent monetization of government debt – have, as a result, become more widespread.
+In principle, the case for such monetary finance is clear.
+<P>
+If the government cuts taxes, increases public expenditure, or distributes money directly to households, and if the central bank creates permanent new money to finance this stimulus, citizens’ nominal wealth will increase; and, unlike with debt-financed deficits, they will not face increased future taxes to pay off the debt incurred on their behalf.
+Some increase in aggregate nominal demand will inevitably occur, with the degree of stimulus broadly proportional to the amount of new money created.
+<P>
+But the debate about monetary finance is burdened by deep fears and unnecessary confusions.
+Some worry that helicopter money is bound to produce hyperinflation; others argue that, in terms of increasing demand and inflation, it would be no more effective than current policies.
+Both cannot be right.
+<P>
+One argument that it might be ineffective stems from the specter of a future “inflation tax.”
+In an economy at full employment and full potential output, a money-financed stimulus could produce only faster price growth, because no increase in real output would be possible.
+Any increase in private-sector nominal net worth would be offset by future inflation.
+<P>
+All of that is obviously true – and irrelevant.
+As I argue at greater length in a recent paper, no “inflation tax” can arise without increased inflation, which will result only if there is increased nominal demand.
+The idea that a future “inflation tax” can stymie the ability of money finance to stimulate aggregate nominal demand is a logical absurdity.
+<P>
+Accounts of how helicopter money works often implicitly assume a simple world in which all money is created by the monetary authority.
+But in the real world commercial banks can create new private deposit money and hold only a small fraction of those deposits as reserves at the central bank.
+In this world, another form of future tax becomes relevant.
+<P>
+To see why, it’s important to note that monetary finance is fundamentally different from debt finance only if the money created by the central bank is permanently non-interest bearing.
+Effective monetary finance therefore requires central banks to impose mandatory non-interest-bearing reserve requirements.
+<P>
+Doing so is entirely compatible with raising policy interest rates when appropriate, because the central bank can pay zero interest on mandatory reserves, while paying the policy interest rate on additional reserves.
+But if commercial banks are forced to hold non-interest-bearing reserves even when market interest rates have risen from zero, this imposes a tax on bank credit intermediation – a tax that is mathematically equivalent to the future tax burden that would result from a debt-financed stimulus.
+A recent paper by Claudio Borio, Piti Disyatat, and Anna Zabai argues that, as a result, monetary financing cannot be more stimulative than debt financing.
+<P>
+But while the math is clear, the conclusion does not follow.
+The future tax can arise only if and when interest rates and inflation have risen, and when banks are creating new credit and deposit money, multiplying the stimulative effect of the initial money-financed tax cut or expenditure.
+There is undoubtedly a future tax, but one that central banks must impose to ensure that the stimulus is no greater than originally intended.
+<P>
+The arguments that monetary finance would be ineffective are thus unconvincing.
+If correct, they would logically imply that no amount of monetary finance, however large, would ever stimulate nominal demand.
+But common sense, logic, and history tell us that if governments and central banks create and spend money on a massive scale, hyperinflation inevitably results.
+The only risk with helicopter money, indeed, is not too little impact, but too much.
+<P>
+Two questions should determine whether monetary finance is a desirable policy option.
+The first is whether we need more nominal demand.
+The strong global consensus nowadays is that we do.
+It is possible to disagree, arguing that zero inflation would be better than 2%, and that growth is depressed not by inadequate nominal demand but by supply-side factors.
+But, if so, we should not seek to stimulate nominal demand by any means; we should reject not only monetary finance but also negative interest rates, quantitative easing, and debt-financed fiscal stimulus.
+If insufficient nominal demand is a problem – with increased inflation desirable and faster real growth possible – monetary finance should an option.
+<P>
+But it may not be a desirable option if – and this is the second question – the political risks of monetary finance are just too great.
+For the serious argument against monetary finance lies not in the technicalities of future implicit taxes, but in the danger that if we break the taboo and treat monetary finance as an acceptable option, politicians will be tempted to draw again and again from the well of monetary finance.
+<P>
+Fear of that outcome is so great that it seems to motivate some economists to search for technical reasons why monetary finance would be ineffective.
+But that unconvincing exercise simply diverts attention from the crucial question: can we design rules and institutional responsibilities that ensure that monetary finance is used prudently?
+If we cannot, we may be stuck with ineffective tools and disappointing economic performance for many years to come.

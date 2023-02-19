@@ -1,0 +1,70 @@
+<HEADLINE>
+Which Wealth Tax?
+<P>
+MILAN – Proposals for a broad tax on wealth are not new, but they are receiving renewed attention in the United States.
+Steadily increasing income and wealth inequality has raised social and ethical concerns, even among a subset of the wealthy.
+This trend, along with declining social mobility, is contributing to political polarization, which in turn leads to poor and erratic policy choices.
+And we know from history that rising inequality and intensifying social and political polarization can lead to more dramatic and even violent outcomes.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Fortunately, there is a growing body of first-rate research on the magnitude, dimensions, history, and trajectories of income and wealth inequality.
+If there is growing demand for some type of tax-policy response to the problem, we have ways to determine which measures would be most effective, depending on the specific objective.
+<P>
+Listening to the contenders for the Democratic Party’s presidential nomination, it would seem that different wealth-tax proponents have quite different objectives indeed.
+Bernie Sanders, who has said, “Billionaires should not exist,” seems to regard extreme inequality as offensive in and of itself.
+But others focus more on what inequality means for those in the bottom half or two-thirds of the income and wealth distribution.
+Elizabeth Warren, for example, wants to tax wealth to pay for an ambitious expansion of social security and other services.
+<P>
+A wealth tax is essentially a levy that reduces investment returns.
+A 3% tax on wealth would bring a 10% pre-tax return on investment down to 7%, amounting to a 30% tax on investment returns, to be paid when those returns are converted into income.
+However, the same tax on a 5% pre-tax return would be equivalent to a 60% tax, whereas on a 20% pre-tax return, it would be equivalent to a 15% tax.
+That is a very big difference.
+As these examples show, when a wealth tax is held constant, the magnitude of the tax on investment returns declines proportionately as the pre-tax return increases.
+<P>
+Moreover, wealthy individuals generally have access to a broad range of asset classes, many of them illiquid.
+Owing to various regulatory restrictions and the illiquidity premium, the pre-tax returns on these asset classes tend to be higher.
+In this case, a wealth tax of 2% on assets of $500 million and of 3% on assets of $1 billion (as under Warren’s proposal) would not be all that high.
+A benchmark of $500 million would not limit most peoples’ capacity to spend, and would leave them free to invest in higher-return liquid assets for which the implied incremental tax on investment returns would be relatively low.
+<P>
+There is another important point to consider: under the current system, the effective tax on investment income declines substantially as the deferral period increases.
+Wealthy individuals who have created valuable companies tend to hold on to the stock, and can defer realization of capital gains for long periods of time – or even indefinitely if they donate the assets.
+If, for example, the tax on realized investment income is 30%, the pre-tax return on assets is 15%, and the realization of gains is deferred for 25 years, the effective tax on investment returns comes to only 10.5%.
+The 25-year deferral reduces the tax rate to one-third of its value and allows for a near-doubling of after-tax assets.
+<P>
+Clearly, deferral has a very large effect on effective tax rates.
+It also happens to be the normal practice among the wealthy and the moderately well off (say, the top 5%).
+A wealth tax, however, is harder to defer, because holding on to a large collection of assets that have no realized market value is not easy.
+<P>
+In practice, then, a wealth tax would likely be levied on something approximating an asset’s actual current value, perhaps with a modest discount for more recent investments.
+And taxes on investment returns would continue to be levied on realized gains.
+<P>
+Given that a wealth tax is less deferrable, and that its impact depends (inversely) on pre-tax returns, it stands to reason that a modest wealth tax would lead to only a slightly higher implied effective tax rate on investment returns than under the current system.
+<P>
+Still, those who oppose a new wealth tax offer several arguments against it.
+One – the foot-in-the-door argument – holds that once a wealth tax is enacted, it will rise over time.
+But the downward trajectory of income-tax rates in the US in recent decades does not seem to support this argument.
+<P>
+A second claim is that productivity, growth, and jobs will suffer.
+But are we really supposed to believe that entrepreneurs who have created highly valuable companies (and deserve to be wealthy) would abandon their efforts if they knew that their after-tax wealth would be reduced from, say, $12 billion to $8 billion?
+The fact is that incremental wealth gains at the level being discussed (above $1 billion) have little to do with consumption and lifestyle.
+They are signals of success and status.
+A wealth tax would adjust the scales, but it would not change the overall rankings.
+<P>
+Finally, some contend that they should be able to keep all their wealth because they earned it on their own.
+But this argument ignores reality: anyone who succeeds in America is a beneficiary of a broader system that afforded them the means and the opportunity to do so.
+<P>
+As debates over inequality have gained steam, an influential group of wealthy individuals has emerged to advocate a moderate wealth tax, provided that it is deployed in such a way as to expand opportunities available to the bottom 50% of earners.
+There is legitimate disagreement about whether this is best done through a direct transfer of income to lower-income households, or through an expansion of publicly funded social services focused on educational and employment options.
+<P>
+That is an important debate to have, but it is a separate issue.
+In any case, the current proposals for a moderate wealth tax deserve serious attention.
+There may be better and worse ways to address the catastrophic distributional trajectory of the US economy.
+But the absolute worst option is to do nothing.

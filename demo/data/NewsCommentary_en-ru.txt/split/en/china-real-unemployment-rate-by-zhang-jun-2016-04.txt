@@ -1,0 +1,55 @@
+<HEADLINE>
+The Truth about Chinese Unemployment Rates
+<P>
+SHANGHAI – Since 2002, China’s economy has undergone significant changes, including a shift from acceleration to deceleration of GDP growth.
+Yet the official urban unemployment rate, jointly issued by the National Bureau of Statistics (NBS) and the Department of Labor and Social Security, has remained remarkably steady, at around 4-4.1%.
+Since 2010, it has stood at precisely 4.1%.
+This is surprising, to say the least – and has led some to ask whether the NBS could be fudging the numbers.
+<P>
+The NBS is not lying; it simply lacks data.
+The unemployment rate that the NBS provides reflects how many members of the registered urban population have reported to the government to receive unemployment benefits.
+But, unlike in developed countries, China’s piecemeal unemployment insurance and underdeveloped reemployment programs weaken the incentive for people to seek assistance.
+As a result, the NBS unemployment figures are far from accurate.
+<P>
+China’s government has moved to remedy this, by carrying out urban unemployment surveys.
+But, despite having been collected a decade ago, those statistics have yet to be released.
+<P>
+In lieu of convincing official figures, some economists have taken matters into their own hands, using data from the urban household survey (UHS) to estimate the real unemployment rate.
+Extrapolating from UHS data gathered in six provinces, Jun Han and Junsen Zhang, for example, concluded that, in 2005-2006, Chinese unemployment stood at around 10%.
+Using UHS data from almost all of China, Feng Shuaizhang, Hu Yingyao, and Robert Moffitt calculated an average urban unemployment rate of 10.9% from 2002 to 2009 – the highest estimate ever produced.
+<P>
+But these estimates are just that – estimates.
+Because UHS data are not freely available, different people obtain results for different years and provinces from the various sources they could access.
+This has caused considerable frustration for researchers, and has resulted in estimates with ranges so wide as to be statistically insignificant.
+<P>
+In our own research at Fudan University in Shanghai, my two PhD students, Liheng Xu and Huihui Zhang, and I managed to obtain a reasonably broad supply of official statistics: the 2005-2012 data for four provinces, the 2005-2009 data for three provinces, and monthly data for 2010-2012 for four of these seven provinces.
+While the sample is technically small, the provinces for which we acquired data represent the coastal, inland, and northeast regions.
+With the right adjustments and processing, we were able to infer the unemployment rates in different kinds of provinces and municipalities, thereby estimating the real nationwide unemployment rate.
+<P>
+We found that, although China’s urban unemployment rate was probably quite high in 2005, standing at 10.7%, it has most likely dropped over the last decade, reaching 7% in 2012.
+That puts the annual average for the 2005-2012 period at 8.5%.
+(These and our other findings correlate with a cross-sectional analysis of the official data, meaning that the data for registered unemployment, subjected to such an analysis, might serve as a proxy for the real unemployment rate.)
+<P>
+Moreover, while rapid GDP growth contributed to falling unemployment in, say, 2007, unemployment continued to decline even after the global financial crisis of 2008 began to weaken economic performance.
+Most economists would assume that declining unemployment amid falling GDP growth is related to a decline in labor-force participation.
+But our calculations, based on the UHS data, show that labor-force participation in China actually increased slightly after 2008, as the proportion of workers exiting the labor market decreased.
+In other words, China’s employment growth has accelerated in recent years, even as GDP growth has slowed.
+<P>
+This can be explained partly by an ongoing structural shift in the Chinese economy, from a manufacturing-driven growth model to a services-led model that empowers private innovators.
+And, indeed, as UHS data show, this shift led to continuous job creation in the services sector from 2005 to 2012.
+<P>
+What has not happened is significant destruction of jobs in the state sector and manufacturing industries, especially since 2009.
+As the UHS data suggest, the average time it takes an unemployed worker to find a new job in the services and non-state sectors is shorter than in the manufacturing and state sectors.
+If the manufacturing and state sectors do begin to lay off more employees, urban unemployment rates are bound to rise.
+<P>
+The reason that hasn’t already happened is that the government has, to some extent, been propping up these sectors since the global financial crisis, by implementing massive stimulus packages focused on investment in infrastructure and real-estate development.
+This has sustained the rapid growth of the secondary sector (especially manufacturing and construction), which has thus been absorbing large numbers of low-skill workers.
+In fact, upon closer examination of the UHS data, we found that the least-educated workers largely accounted for the decline in overall unemployment.
+<P>
+This stimulated infrastructure and real-estate construction boom has also led to the expansion of heavy industry, including state-owned steel, cement, chemicals, glass, and other enterprises, causing employment growth to accelerate from 2005 onward.
+The NBS data show that the employment growth rate in the state sector was negative before 2009, when it turned positive.
+<P>
+The fact that the unemployment rate is declining while GDP growth slows suggests that China’s labor productivity is actually worsening – a trend that is likely to lower China’s long-term potential growth rate.
+Since the effects of the stimulus obviously cannot last, the sectors that were being propped up will soon begin to shed more workers, causing the unemployment rate to rise.
+Only further government intervention could prevent this outcome; but that might mean delaying structural reforms that are needed to sustain productivity growth.
+China’s leaders are thus being confronted with a difficult choice: higher near-term unemployment or slower long-term growth.

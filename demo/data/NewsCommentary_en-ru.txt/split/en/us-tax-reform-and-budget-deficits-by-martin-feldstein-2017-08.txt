@@ -1,0 +1,47 @@
+<HEADLINE>
+Tax Reform and Budget Deficits in America
+<P>
+CAMBRIDGE – The Republican Party’s leaders in the United States House of Representatives have been hard at work for more than a year designing a major reform of personal and corporate taxes.
+With an election looming in 2018, the House Republicans are determined to deliver a reform package and send it to the Senate for enactment.
+<P>
+This reform will be very different from the last major tax overhaul enacted back in 1986.
+The Tax Reform Act of 1986 focused on the personal income tax, lowering the top rate from 50% to 28% and cutting rates for lower-income taxpayers.
+The revenue loss was offset by changes in tax deductions and other accounting rules, producing a reform that was revenue neutral at each income level, even without taking into account the effects of lower tax rates on increasing economic growth and taxable incomes.
+<P>
+In the 30 years since 1986, the tax rates for high-income taxpayers rose significantly, from 28% to 39.6%, with an extra 3.8% tax on these taxpayers’ investment income.
+A detailed study by the Congressional Budget Office (CBO) of taxes between 1979 and 2013 concluded that while the effective tax rate fell in every quintile of the income distribution, it rose well above that 35-year average for taxpayers in the top 1% of the income distribution.
+<P>
+The House Republican plan would cut the top tax rate back to 30% or lower, with comparable reductions for those now facing lower tax rates.
+The new tax law might also follow the Canadian example and eliminate the estate tax, while imposing a tax on capital gains accrued before the taxpayer’s death.
+To offset some of the resulting revenue loss, the new law might eliminate tax deductions for state and local taxes, and tax some of the fringe benefits that are currently excluded from taxable income.
+<P>
+The big difference between the House Republicans’ plan and the 1986 tax reform is that the current proposal would also address the tax treatment of corporate profits and other business income.
+The statutory tax rate on corporate profits is now 35%, the highest in the OECD.
+The new legislation would reduce that rate to 25% or less, spurring a shift in capital flows away from investments in housing and agriculture, and toward domestic corporate investment.
+<P>
+The new tax law is also likely to boost domestic corporate investment by changing the tax treatment of the profits of US corporations’ foreign subsidiaries.
+Under current law, a subsidiary pays tax on profits to the government of the country where those profits are earned.
+It can then invest the after-tax profits anywhere in the world outside the US.
+But if it brings those funds back to the US to invest or pay dividends to shareholders, it must pay the full US corporate tax rate, with a credit for the tax already paid to the foreign government.
+<P>
+This penalty on repatriating funds causes US firms to leave those after-tax profits abroad.
+The US Treasury estimates that American subsidiaries’ offshore investments stand at more than $2.5 trillion.
+<P>
+This method of taxing the profits of foreign subsidiaries is unique to the US.
+Every other industrial country uses what is known as the territorial method, in which profits of foreign subsidiaries can be brought home with little or no extra tax.
+By shifting the US toward such a system, the Republican proposal would stimulate repatriation of some of the funds that have been accumulated abroad, as well as increased inflows of future foreign profits.
+<P>
+What does all this mean for the budget deficit?
+The CBO estimates that the deficit will rise from 3.4% of GDP to more than 4% over the next ten years, even with no change in tax rules.
+The direct impact of lowering tax rates on personal income and corporate profits will be to reduce tax revenue and increase the budget deficit.
+But this will be offset by limits on personal tax deductions and exclusions, and the lower tax rates on personal income will boost taxable incomes as individuals increase earnings and compensation shifts from fringe benefits to taxable cash.
+Likewise, the move to a territorial tax system will raise taxable profits, especially in the short term, as companies repatriate some of the existing stock of overseas funds.
+<P>
+Although the net tax changes may widen the budget deficit in the short term, the incentive effects of lower tax rates and the increased accumulation of capital will mean faster economic growth and higher real incomes, both of which will cause rising taxable incomes and lower long-term deficits.
+<P>
+There is an important legislative reason why the projected budget will return to surplus in the future.
+The Republicans have only a very small majority in the Senate, where the filibuster rule requires a three-fifths majority to pass most legislation, giving the Democrats the ability to block the Republican tax agenda.
+But an exception allows tax and spending bills to be passed with a simple majority if the resulting budget returns to surplus after ten years.
+By designing the tax and spending rules accordingly and phasing in future revenue increases, the Republicans can achieve the needed long-term surpluses.
+<P>
+As a result, I am optimistic that a tax reform serving to increase capital formation and growth will be enacted, and that any resulting increase in the budget deficit will be only temporary.

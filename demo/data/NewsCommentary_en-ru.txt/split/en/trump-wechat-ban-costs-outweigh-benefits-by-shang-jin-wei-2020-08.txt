@@ -1,0 +1,60 @@
+<HEADLINE>
+A Better Alternative to Trump’s WeChat Ban
+<P>
+NEW YORK – Shortly after US President Donald Trump issued an executive order effectively banning the Chinese-owned social-media app TikTok, he issued a second order prohibiting “any transaction that is related to WeChat by any person … as identified by the Secretary of Commerce.”
+According to the White House, the WeChat ban – which will take effect on September 20 – is intended to protect Americans and visiting Chinese in the United States from violations of privacy by the Chinese government and to limit fake news from the Chinese government reaching Americans.
+But the ban is likely to be counterproductive, and there are better solutions to these problems.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+WeChat, owned by Tencent, a Chinese company listed on the Hong Kong Stock Exchange, is a widely used multipurpose app that combines messaging, social media, digital payments, and other functions.
+If Tencent’s founders, Pony (Huateng) Ma and four other partners, had built their company in the US, they would be celebrated in much the same way that Bill Gates, Jeff Bezos, and Elon Musk are.
+<P>
+Chinese entrepreneurs likely have had to overcome much greater difficulties to succeed than their American counterparts.
+After all, funding for those without family wealth or political connections is scanter in China due to a less developed capital market.
+Property rights protection is weaker, and Chinese Internet users’ purchasing power is much lower than that of Americans.
+In 1998, when Tencent was founded, China’s per capita income was a mere $850 – less than 5% of the US level and less than 20% of the Mexican level that year.
+<P>
+WeChat was introduced in 2011, and quickly grew to become China’s dominant social-media app.
+It is now a ubiquitous communications tool, used by young and old alike.
+Virtually every Chinese person with a smartphone has a WeChat account, which they use to stay in touch with friends, family, and work colleagues, and to pay restaurant, utility, and grocery bills.
+Even the US Embassy in China has an official WeChat profile, where it broadcasts US government information and provides services to US citizens living and working in China.
+<P>
+US residents with family members or friends in China are also likely to use WeChat when they communicate, and Chinese tourists in other countries rely on the app to stay connected while abroad.
+Similarly, many academics in the Chinese diaspora now use the service to collaborate with researchers in Singapore, Hong Kong, and mainland China (where it is used much more often than WhatsApp, Zoom, or Skype).
+<P>
+Banning WeChat outright will thus disrupt the lives of many US citizens and residents – probably on the order of one million people – who use the app regularly.
+Whether the move is worthwhile depends on if it serves some higher purpose effectively.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+According to Trump’s order, WeChat is guilty of two offenses.
+First, it collects mobility data and the content of communications from US citizens, permanent residents, and visitors to the US from China, and potentially makes this information available to the Chinese government.
+So, a ban protects people’s privacy.
+Second, the Trump administration claims that disguised Chinese government entities are spreading disinformation on WeChat, in which case a ban would curtail Beijing’s ability to transmit propaganda.
+<P>
+Both these apparent benefits are illusory.
+The idea that a ban strengthens privacy rests on the assumption that WeChat users in the US are stupid or uninformed, and thus cannot weigh the costs and benefits on their own.
+The implication is that Uncle Sam needs to strip away the right to download and use the app in order to protect users from themselves.
+The irony is that the ban comes from a president who declines to adopt a mandatory face-mask requirement in public places during a viral pandemic, which would have saved American lives.
+<P>
+As for the claim about disinformation, there are two points to consider.
+First, given the Chinese state’s control of all media (online and off) within the country, WeChat is a relatively unimportant channel for the government’s message outreach.
+<P>
+Second, US-based users often share information with friends and family in China, who then may pass it along to other WeChat groups.
+That makes WeChat a crack in China’s Great Firewall.
+Even if a post is taken down by a WeChat censor, it is often reposted in some other form, and users regularly deploy creative wording and formatting in their messages to bypass the censoring algorithm.
+By banning WeChat in the US, Trump is closing an important opening in the firewall.
+<P>
+An alternative three-pronged policy would be superior to a ban.
+First, the president could order all US government agencies and employees not to use WeChat, with the US embassy in China being the exception.
+Second, the US government could mandate that Apple, Google, and other US app vendors issue a pop-up warning to anyone downloading WeChat.
+It could state that, “The US government determines that this app may be used to track your movement and the content of your communication and that this data could be available to the Chinese government.
+Some advertisements on WeChat may come from the Chinese government.”
+<P>
+Third, the US could order Tencent to stop sending push notifications or advertisements to any users whose accounts are registered with a US phone number, or who are traveling in the US.
+This is easy to do technically, and Tencent would have an interest in complying with such a directive.
+<P>
+Because the US commerce secretary must still define the prohibited “transactions” mentioned in the order, there is hope that the scope of the policy will be narrow enough to avoid some of the counterproductive consequences.
+But the three-pronged alternative approach would be even better.

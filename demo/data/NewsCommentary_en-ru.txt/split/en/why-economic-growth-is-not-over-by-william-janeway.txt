@@ -1,0 +1,57 @@
+<HEADLINE>
+Growth Out of Time
+<P>
+CAMBRIDGE – Robert Gordon of Northwestern University is a distinguished economist whose work in macroeconomics and studies of long-term economic growth have properly earned him high regard.
+So his recent exercise in speculative future history, which asks whether economic growth in the United States has come to an end, has attracted much favorable attention.
+But a basic flaw in Gordon’s argument is immediately apparent – and becomes glaringly so on closer examination.
+<P>
+Gordon distinguishes three Industrial Revolutions that have driven economic growth and improved living standards since the eighteenth century: IR #1 (“steam, railroads”), whose defining inventions date from 1750 to 1830; IR #2 (“electricity, internal combustion engine, running water, indoor toilets, communications, entertainment, chemicals, petroleum”), whose defining inventions date from 1870 to 1900; and IR #3 (“computers, the web, mobile phones”), dating from 1960.
+The core of his article contrasts the transformational impact of IR #1 and, especially, IR #2 on per capita GDP and the quality of life with the relatively trivial consequences of IR #3.
+<P>
+The vulnerability of Gordon’s argument is his shortened time horizon for IR #3.
+Consider the following four sentences in his paper:
+<P>
+· “Both the first two revolutions required about 100 years for their full effects to percolate through the economy.”
+<P>
+· “At a minimum, it took 150 years for IR #1 to have its full range of effects.”
+<P>
+· “The inventions of IR #2 were so important…that they took a full 100 years to have their main effect.”
+<P>
+· “…[T]he productivity impact of IR #3 evaporated after only eight years, compared to the 81 years (1891-1972) required for the benefits of IR #2 to have their full impact…”
+<P>
+The last sentence is crucial: Gordon cuts off IR #3 circa 2005 – that is, 45 years from its onset, but less than half the time allowed for IR #1 and IR #2 to run their respective courses.
+To take a salient example from the prior industrial revolutions, this is as if the impact of the railroads on the US economy were to be measured as of 1873, 45 years after construction began on America’s first line, the Baltimore & Ohio.
+<P>
+In 1873, the retailer Montgomery Ward was just a year old, and the first Sears Roebuck catalogue was still 20 years away.
+Together, these companies invented mail order as the “killer app” of the railroad age, creating a continental market for consumer goods, with all of the economies of scale that followed.
+<P>
+Or, to take another example, what if we stopped measuring the economic impact of electrification only 45 years after the first generating plant, Thomas Edison’s Pearl Street Station, became operational in 1882?
+At that point, America’s manufacturing industries were just discovering the benefits of flexible (re)configuration, which enabled distribution of generated electric power, while America’s home-appliance industry was in its infancy.
+<P>
+Gordon asserts that “the era of computers replacing human labor was largely over” during the past decade.
+Innovation in information and communications technology (ICT) focused first on electronic commerce, “itself largely completed by 2005.”
+After that, “labor-saving innovation” took a back seat to “a succession of entertainment and communication devices that do the same things as we could do before, but now in smaller and more convenient packages.”
+<P>
+In thus truncating and trivializing the ongoing ICT revolution, Gordon misses two fundamental processes.
+First, and most evident, the rise of e-commerce is far from over.
+In the US, the most advanced country in this respect, e-commerce has just reached 10% of total retail spending, and is continuing to grow at double-digit rates through the slow recovery from the Great Recession.
+At the same time, something much more significant is happening beneath the economic surface.
+<P>
+From the early days of the computer revolution, researchers and popularizers envisioned “artificial intelligence” as the ultimate killer app (literally, in the case of the computer HAL in the film 2001: A Space Odyssey).
+Decades of frustration are now yielding to success: the application of sophisticated statistical techniques to the accelerating accumulation of unprecedented quantities of so-called Big Data that the Internet simultaneously generates and captures.
+For proof of artificial intelligent “life,” consider the “virtual assistants” populating smart phones, beginning – but just beginning – with Apple’s Siri.
+<P>
+The next wave of IR #3’s consequences can be discerned in systems that capture the intention behind a search request and couple it to a completed transaction, and in the application of predictive analytics to industrial supply chains and service provisioning.
+If these innovations’ prospective impact on productivity and GDP growth cannot be quantified, well, that is the way it is with future history.
+<P>
+Flawed as Gordon’s reading of IR #3 is, his concluding concern for the future of innovation in the US is well founded.
+Of the assorted “headwinds” that he cites, the enormous increase in inequality and the plateau reached in educational attainment represent threats that differentiate America’s position from that of other advanced countries.
+But Gordon ignores the greatest threat to continued US global leadership in innovation: the delegitimation over the past generation of the state’s role as an economic actor.
+<P>
+As I illustrate and analyze at length in my new book, Doing Capitalism in the Innovation Economy: Markets, Speculation and the State, the state has become central to the Innovation Economy’s dynamics.
+It funds the upstream research that generates discovery and invention; supports the creation of new networks, from canals to the Internet; and serves as a creative customer for innovative products, as it did during the computer revolution’s nascence.
+<P>
+The state must also preserve continuity in the market economy when the speculative bubble that has funded its transformation bursts.
+And here, too, Gordon disappoints.
+The only reference to government in his paper is not even to this stabilizing role.
+Rather, it is to the asserted headwind represented by the very debt incurred to prevent the global financial crisis of 2008 from triggering a second Great Depression.

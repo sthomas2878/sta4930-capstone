@@ -1,0 +1,55 @@
+<HEADLINE>
+Closing the Investment Gap
+<P>
+BERKELEY – The weakness of private investment in the United States and other advanced economies is a worrisome – and perplexing – feature of the recovery from the 2008 global financial crisis.
+Indeed, according to the International Monetary Fund, through 2014, private investment declined by an average of 25% compared to pre-crisis trends.
+<P>
+The shortfall in investment has been deep and broad-based, affecting not only residential investment but also investment in equipment and structures.
+Business investment remains significantly below pre-2008 expectations, and has been hit hard again in the US during the last year by the collapse of energy-sector investment in response to the steep drop in oil prices.
+<P>
+Interestingly, the investment shortfall in the US coincides with a strong rebound in returns to capital.
+By one measure, returns to private capital are now at a higher point than any time in recent decades.
+But extensive empirical research confirms that at the macro level, business investment depends primarily on expected future demand and output growth, not on current returns or retained earnings.
+According to the IMF, this “accelerator” theory of investment explains most of the weakness of business investment in the developed economies since the 2008 crisis.
+<P>
+In accordance with this explanation, investment growth in the US has been in line with its usual historical relationship with output growth.
+In short, private investment growth has been weak primarily because the pace of recovery has been anemic.
+Businesses have marked down their pre-crisis investment plans to reflect a post-crisis “new normal” of slower and more uncertain growth in demand for their output.
+<P>
+Under conditions of weak aggregate demand, stronger public investment encourages more private business investment.
+But public investment, too, has fallen below pre-crisis expectations, aggravating rather than ameliorating the slump in private investment.
+<P>
+The accelerator explanation of the shortfall in business investment in the US is consistent with evidence that, where projected demand growth has been relatively strong – for example, in cable, telecommunications, digital platforms, social networking, and, until recently, energy – investment growth has also been relatively strong.
+Indeed, telecom and cable companies accounted for the largest share of business capital expenditures during the last three years, with energy production and mining second on the list.
+<P>
+Differences in innovation opportunities across industries are also consistent with the changing composition of business investment.
+During the 2009-2015 period, while business investment in equipment slowed in the US, it accelerated in intellectual property products, including research and development, software, and so-called artistic originals (the output of artists, studios, and publishers).
+<P>
+R&D investment usually expands faster than GDP during cyclical expansions, and the current period is in line with historical trends.
+Indeed, as a share of the economy, R&D investment is now at its highest level on record, which bodes well for future productivity growth.
+<P>
+As the accelerator theory of investment would predict, much R&D investment is occurring in technology-intensive sectors where current and future expected demand has been strong.
+There is also evidence that the distribution of returns to capital is becoming increasingly skewed toward these sectors.
+According to a recent McKinsey Global Institute report, the most digitized sectors – ranked by 18 metrics on digital assets, digital usage, and digital workforce – enjoy significantly higher profit margins than traditional sectors.
+<P>
+In a recent letter to the chief executives of the S&P 500 companies and large European corporations, Larry Fink, the CEO of BlackRock, the world’s largest investment management company, expressed concern that many global firms may be sacrificing value-creating investments by distributing dividends and buying back their own shares.
+Among US nonfinancial corporations, the proportion of investable funds used for dividends and share buybacks has been trending upward, albeit with cyclical ups and downs, since the 1980s.
+After a sharp downturn during the 2008-2009 recession, this proportion has now recovered to nearly 50%, a high point relative to historical averages.
+<P>
+The macro evidence indicates that the primary cause of disappointing business investment in the US and other developed countries in the years following the global financial crisis has been anemic demand, not a lack of investable funds resulting from excessive distributions to shareholders.
+Over the longer term, however, the upward trend in dividends and share buybacks as a percentage of corporate investable funds is a symptom of mounting shareholder pressure on corporations to focus on short-term returns at the expense of long-term investments.
+<P>
+In a recent McKinsey survey of 1,000 top executives and corporate directors, 63% reported that shareholder pressure to realize short-term returns has increased over the last several years.
+Indeed, some 79% reported pressure to demonstrate strong financial returns in two years or less.
+<P>
+Shareholder pressure tends to be greater in older firms, and in the US over the last few decades, the proportion of older firms has been growing as the startup rate for new businesses has fallen.
+In addition, as Fink and others have warned, compensation practices that link top executives’ pay to measures of short-term success like quarterly earnings per share or annual equity performance also encourage “short-termism” in corporate investment decisions.
+<P>
+A sliding capital gains tax, with rates that decline as the holding period for investments increases, would reduce incentives for short-termism among investors.
+Among others, Larry Fink, the Center for American Progress, and Hillary Clinton propose this approach.
+In his recent CEO letter, Fink also calls on companies to issue annual “strategic frameworks” for long-term value creation, supported by quantifiable financial metrics and linking long-term executive compensation to performance on them.
+<P>
+These frameworks, Fink notes, should cover environmental, social, and governance (ESG) factors that are core determinants of long-term value.
+Companies can use the new evidence-based standards developed by the Sustainability Accounting Standards Board to disclose material information about their ESG performance to their investors.
+Strategic frameworks, along with ESG disclosure, should encourage both companies and their shareholders to focus more on long-term value and less on short-term financial performance.
+But at the macro level, expected growth in demand and associated innovation opportunities will remain the primary drivers of business investment.

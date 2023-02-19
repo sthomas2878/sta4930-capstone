@@ -1,0 +1,50 @@
+<HEADLINE>
+Learning from America’s Forgotten Default
+<P>
+LOS ANGELES – One of the most pervasive myths about the United States is that the federal government has never defaulted on its debts.
+Every time the debt ceiling is debated in Congress, politicians and journalists dust off a common trope: the US doesn’t stiff its creditors.
+<P>
+There’s just one problem: it’s not true.
+There was a time, decades ago, when the US behaved more like a “banana republic” than an advanced economy, restructuring debts unilaterally and retroactively.
+And, while few people remember this critical period in economic history, it holds valuable lessons for leaders today.
+<P>
+In April 1933, in an effort to help the US escape the Great Depression, President Franklin Roosevelt announced plans to take the US off the gold standard and devalue the dollar.
+But this would not be as easy as FDR calculated.
+Most debt contracts at the time included a “gold clause,” which stated that the debtor must pay in “gold coin” or “gold equivalent.”
+These clauses were introduced during the Civil War as a way to protect investors against a possible inflationary surge.
+<P>
+For FDR, however, the gold clause was an obstacle to devaluation.
+If the currency were devalued without addressing the contractual issue, the dollar value of debts would automatically increase to offset the weaker exchange rate, resulting in massive bankruptcies and huge increases in public debt.
+<P>
+To solve this problem, Congress passed a joint resolution on June 5, 1933, annulling all gold clauses in past and future contracts.
+The door was opened for devaluation – and for a political fight.
+Republicans were dismayed that the country’s reputation was being put at risk, while the Roosevelt administration argued that the resolution didn’t amount to “a repudiation of contracts.”
+<P>
+On January 30, 1934, the dollar was officially devalued.
+The price of gold went from $20.67 an ounce – a price in effect since 1834 – to $35 an ounce.
+Not surprisingly, those holding securities protected by the gold clause claimed that the abrogation was unconstitutional.
+Lawsuits were filed, and four of them eventually reached the Supreme Court; in January 1935, justices heard two cases that referred to private debts, and two concerning government obligations.
+<P>
+The underlying question in each case was essentially the same: did Congress have the authority to alter contracts retroactively?
+<P>
+On February 18, 1935, the Supreme Court announced its decisions.
+In each case, justices ruled 5-4 in favor of the government – and against investors seeking compensation.
+According to the majority opinion, the Roosevelt administration could invoke “necessity” as a justification for annulling contracts if it would help free the economy from the Great Depression.
+<P>
+Justice James Clark McReynolds, a southern lawyer who was US Attorney General during President Woodrow Wilson’s first term, wrote the dissenting opinion – one for all four cases.
+In a brief speech, he talked about the sanctity of contracts, government obligations, and repudiation under the guise of law.
+He ended his presentation with strong words: “Shame and humiliation are upon us now.
+Moral and financial chaos may be confidently expected.”
+<P>
+Most Americans have forgotten this episode, as collective amnesia has papered over an event that contradicts the image of a country where the rule of law prevails and contracts are sacred.
+<P>
+But good lawyers still remember it; today, the 1935 ruling is invoked when attorneys are defending countries in default (like Venezuela).
+And, as more governments face down new debt-related dangers – such as unfunded liabilities associated with pension and health-care obligations – we may see the argument surface even more frequently.
+<P>
+According to recent estimates, the US government’s unfunded liabilities are a staggering 260% of GDP – and that does not include conventional federal debt and unfunded state and local government liabilities.
+Nor is this a problem only for America; in many countries, pension and health-related liabilities are increasing, while the ability to cover them is diminishing.
+<P>
+A key question, then, is whether governments seeking to adjust contracts retroactively may once again invoke the legal argument of “necessity.”
+The 1933 abrogation of the gold clause provides abundant legal and economic reasons to consider this possibility.
+The US Supreme Court agreed with the “necessity” argument once before.
+It is not far-fetched to think that it may happen again.

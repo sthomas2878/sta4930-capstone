@@ -1,0 +1,48 @@
+<HEADLINE>
+The End of Big Banks
+<P>
+WASHINGTON, DC – After nearly a decade of crisis, bailout, and reform in the United States and the European Union, the financial system – both in those countries and globally – is remarkably similar to the one we had in 2006.
+Many financial reforms have been attempted since 2010, but the overall effects have been limited.
+Some big banks have struggled, but others have risen to take their place.
+Both before the 2008 global financial crisis and today, just over a dozen big banks dominate the world’s financial landscape.
+And yet the ground is shifting beneath the financial sector, and big banks could soon become a thing of the past.
+<P>
+Few officials privately express satisfaction with the progress of financial reform.
+In public, most of them are more polite, but the president of the Federal Reserve Bank of Minneapolis, Neel Kashkari, struck a chord recently when he called for a reevaluation of how much progress has been made on addressing the problem of financial institutions that are “too big to fail” (TBTF).
+<P>
+Kashkari worked for Henry M. Paulson in the US Treasury Department, beginning in 2006.
+He not only watched the financial crisis develop; in October 2008 he became the assistant secretary responsible for the Troubled Asset Relief Program (TARP), with the goal of stabilizing the financial system.
+He is a Republican who has worked at both Goldman Sachs (a big bank) and PIMCO (a large asset-management company).
+So people pay attention when he says, “I believe the biggest banks are still too big to fail and continue to pose a significant, ongoing risk to our economy.”
+<P>
+And Kashkari is correct in his assessment of the Dodd-Frank financial reforms of 2010.
+This legislation and the ensuing regulations have moved some issues in the right direction.
+“But given the enormous costs that would be associated with another financial crisis and the lack of certainty about whether these new tools would be effective in dealing with one,” he argues, “I believe we must seriously consider bolder, transformational options.”
+<P>
+Kashkari is now proposing exactly the right approach: to hold public conferences and extensive discussions to evaluate whether large banks should be broken up, whether they (and other financial institutions) should be forced to fund themselves with more equity and less debt, or whether there should be a debt tax to discourage excessive leverage.
+The first conference will be on April 4 (I will be one of the speakers).
+<P>
+Kashkari is just one of 12 presidents of regional Federal Reserve Banks.
+And he sits on the Federal Open Market Committee (FOMC), which sets monetary policy – but not on the Board of Governors of the Federal Reserve System, which oversees bank regulation.
+Still, his call for an evaluation of the TBTF problem will have a major impact for three reasons.
+<P>
+First, the views he expresses are entirely sensible and mainstream, based on deep experience (his and others) with this and other financial crises.
+Kashkari is presenting from a position of authority a message that many other reasonable people have been trying to convey for nearly a decade.
+<P>
+Second, Kashkari has articulated – in appropriate central-bank language – precisely the same view that the remaining Democratic presidential candidates are putting before the voting public.
+Hillary Clinton has a detailed and thoughtful plan for financial reform, with emphasis on taxing leverage and increasing capital requirements.
+Bernie Sanders would prefer to break up the banks.
+But the goal is the same; and, as Kashkari points out, any of these tools can potentially get us to a better place.
+<P>
+When reasonable Republicans and Democrats begin to converge on policy, we are more likely to get sensible change.
+<P>
+Third, Kashkari’s timing coincides with the arrival of new “blockchain” technology, which makes it possible to organize financial transactions in a more decentralized way.
+Various versions of this technology are either already available or currently under development – and there is a very real prospect that this will reduce transaction costs across much of the financial sector.
+<P>
+We do not yet know which version will prevail, and there is active discussion about how to ensure that the new standards and systems enhance stability, rather than (as with some previous financial innovations) producing unpleasant unintended consequences.
+<P>
+Most important, blockchain technology has the potential to reduce substantially, or even eliminate, the value of being a trusted intermediary such as a large bank.
+And yet the big banks themselves are pouring money into this technology – presumably hoping to save at least some part of their business by limiting the degree of ultimate decentralization.
+<P>
+Kashkari will lead the way to rethinking – and, one hopes, ending – the TBTF problem in traditional big banks.
+In a blockchain world, he and his colleagues are likely to work hard to prevent any variant of TBTF from reappearing.

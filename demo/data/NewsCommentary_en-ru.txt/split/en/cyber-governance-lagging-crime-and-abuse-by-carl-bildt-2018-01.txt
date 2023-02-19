@@ -1,0 +1,66 @@
+<HEADLINE>
+Securing the Digital Transition
+<P>
+NEW DELHI – Every year, the World Economic Forum publishes a Global Risks Report, which distills the views of experts and policymakers from around the world.
+This year, cybersecurity is high on the list of global concerns, as well it should be.
+In 2017, the world witnessed a continued escalation in cyber attacks and security breaches that affected all parts of society.
+There is no reason to believe 2018 will be different.
+<P>
+The implications are far-reaching.
+Most immediately, we must grapple with governance of the Internet as well as on the Internet.
+Otherwise, the opportunities afforded by digital technologies could be squandered in a regulatory and legal arms race, complete with new borders and new global tensions.
+<P>
+But there’s a broader issue: For all the speed with which we are racing into the digital age, efforts to ensure global stability are lagging far behind.
+In many respects, our world is still organized within a Westphalian framework.
+States with (mostly) recognized borders are the building blocks of the international system.
+Their interactions, and their willingness to share sovereignty, define the existing world order.
+<P>
+But globalization has gradually changed the realities on the ground.
+And while its force – waxing and waning since the decades preceding World War I – is nowadays being tempered by geopolitics, and by the impulse to slow the pace of technological change, the digital transformation will propel globalization forward, albeit in a different form.
+After all, the Internet’s key feature is its non-territorial architecture.
+By breaking down traditional borders, it poses a direct challenge to the very foundation of the Westphalian order.
+<P>
+This is a profoundly positive development, because it facilitates free expression and the cross-border exchange of goods and ideas.
+But, as with all human inventions, the Internet can be abused, as evidenced by the rise in cybercrime, online harassment, hate speech, incitement to violence, and online radicalization.
+<P>
+Minimizing such abuses in the years ahead will require close international cooperation to establish and enforce common rules.
+There can be no solution in isolation, because no single government can tackle the problem on its own.
+<P>
+Over time, an alphabet soup of organizations has emerged to bring together the technical community, businesses, governments, and civil society.
+And bodies such as ICANN (Internet Corporation for Assigned Names and Numbers), IETF (Internet Engineering Task Force), and W3C (World Wide Web Consortium) now provide de facto governance of the Internet’s architecture.
+But governance on the Internet is far more complex.
+Here, the institutional landscape is both crowded and unsettled.
+<P>
+It is crowded because numerous actors are competing to shape the normative framework of cyberspace.
+Many countries have multiple relevant ministries regulating online activity.
+Websites and online services have vastly different community guidelines and terms of service.
+Public- and private-sector developers determine the design of the Internet’s changing infrastructure.
+And numerous civil-society groups are proposing their own sets of cyber principles, while international organizations attempt to develop multilateral agreements.
+<P>
+The landscape remains unsettled because intergovernmental cooperation has largely stalled, owing to conflicting priorities among countries.
+Making matters worse, there are still too few dedicated spaces for different stakeholders to interact and devise operational solutions.
+<P>
+In the absence of mutually agreed frameworks, governments will tend to adopt short-term unilateral measures – mandatory data localization, excessive content restrictions, intrusive surveillance – to address immediate concerns, or as a response to domestic political pressure.
+But by doing so, they could fuel a dynamic that heightens, rather than minimizes, international tensions.
+<P>
+Digital governance touches on everything from cybersecurity to the economy to human rights, and uncertainty about which laws apply in different jurisdictions weakens enforcement in all of them, leaving everyone worse off.
+Moreover, measures to address one dimension can easily affect the others, which means that uncoordinated and rash policy decisions can have negative consequences across the board.
+<P>
+When I had the honor of chairing the Global Commission on Internet Governance, our 2016 report highlighted these risks, and called for “a new Social Compact” to ensure that the Internet of the future will be accessible, inclusive, secure, and trustworthy.
+<P>
+Progress since then has been limited.
+Because efforts at the United Nations to establish global cyber rules have reached an impasse, alternative initiatives will have to drive the process forward.
+<P>
+Fortunately, the Global Commission on the Stability of Cyberspace recently issued an important “Call to Protect the Public Core of the Internet.”
+And the upcoming Global Internet and Jurisdiction Conference in Ottawa will provide another valuable opportunity for policymakers to continue working toward solutions.
+<P>
+Such technical and legalistic proceedings are essential for shaping the global transition from the industrial to the digital era.
+To avoid a legal arms race, policymakers will need to develop a smart approach to a variety of tricky issues, from mutual assistance frameworks for investigations to the role of domain-name administrators and service providers in addressing abusive speech online.
+<P>
+Achieving policy coherence across jurisdictions should be a top priority.
+Doing so will require direct, sustained interactions among all stakeholders.
+Only then can we create a framework to preserve the cross-border nature of the Internet, protect human rights, fight abuse, and sustain a truly global digital economy.
+<P>
+As Kofi Annan said back in 2004, “In managing, promoting, and protecting [the Internet’s] presence in our lives, we need to be no less creative than those who invented it.”
+Westphalia is behind us.
+What comes next is up to us.

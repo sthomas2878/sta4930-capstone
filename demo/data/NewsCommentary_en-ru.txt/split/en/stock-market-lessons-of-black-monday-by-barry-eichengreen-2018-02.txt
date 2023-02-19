@@ -1,0 +1,55 @@
+<HEADLINE>
+The Lessons of Black Monday
+<P>
+BERKELEY – US President Donald Trump has regularly pointed to the stock market as a source of validation of his administration’s economic program.
+But, while the Dow Jones Industrial Average (DJIA) has risen by roughly 30% since Trump’s inauguration, the extent to which the market’s rise was due to the president’s policies is uncertain.
+What is certain, as we have recently been reminded, is that what goes up can come down.
+<P>
+When interpreting sharp drops in stock prices and their impact, many will think back to 2008 and the market turbulence surrounding Lehman Brothers’ bankruptcy filing.
+But a better historical precedent for current conditions is Black Monday: October 19, 1987.
+<P>
+Black Monday was a big deal: the 22.6% price collapse is still the largest one-day percentage drop in the DJIA on record.
+The equivalent today would be – wait for it – 6,000 points on the Dow.
+<P>
+In addition, the 1987 crash occurred against the backdrop of monetary-policy tightening by the US Federal Reserve.
+Between January and October 1987, the Fed pushed up the effective federal funds rate by nearly 100 basis points, making it more expensive to borrow and purchase shares.
+In the run-up to October 2008, by contrast, interest rates fell sharply, reflecting a deteriorating economy.
+That is hardly the case now, of course, which makes 1987 the better analogy.
+<P>
+The 1987 crash also occurred in a period of dollar weakness.
+Late in the preceding week, Treasury Secretary James Baker made some remarks that were interpreted as a threat to devalue the dollar.
+Like current Treasury Secretary Steven Mnuchin at Davos this year, Baker could complain that his comments were taken out of context.
+But it is revealing that the sell-off on Black Monday began overseas, in countries likely to be adversely affected by a weak dollar, before spreading to the US.
+<P>
+Finally, algorithmic trading played a role.
+The algorithms in question, developed at the University of California, Berkeley, were known as “portfolio insurance.”
+Using computer modeling to optimize stock-to-cash ratios, portfolio insurance told investors to reduce the weight on stocks in falling markets as a way of limiting downside risk.
+These models thus encouraged investors to sell into a weak market, amplifying price swings.
+<P>
+Although the role of portfolio insurance is disputed, it’s hard to see how the market could have fallen by such a large amount without its influence.
+Twenty-first-century algorithmic trading may be more complex, but it, too, has unintended consequences, and it, too, can amplify volatility.
+<P>
+Despite all the drama on Wall Street in 1987, the impact on economic activity was muted.
+Consumer spending dropped sharply in October, owing to negative wealth effects and heightened uncertainty, but it quickly stabilized and recovered, while investment spending remained essentially unchanged.
+<P>
+What accounted for the limited fallout?
+First, the Fed, under its brand-new chairman, Alan Greenspan, loosened monetary policy, reassuring investors that the crash would not create serious liquidity problems.
+Market volatility declined, as did the associated uncertainty, buttressing consumer confidence.
+<P>
+Second, the crash did not destabilize systemically important financial institutions.
+The big money-center banks had used the five years since the outbreak of the Latin American debt crisis to strengthen their balance sheets.
+Although the Savings & Loan crisis continued to simmer, S&Ls were too small, even as a group, for their troubles to impact the economy significantly.
+<P>
+What, then, would be the effects of an analogous crash today?
+Currently, the US banking system looks sufficiently robust to absorb the strain.
+But we know that banks that are healthy when the market is rising can quickly fall sick when it reverses.
+Congressional moves to weaken the Dodd-Frank Act, relieving many banks of the requirement to undergo regular stress testing, suggest that this robust health shouldn’t be taken for granted.
+<P>
+Moreover, there is less room to cut interest rates today than in 1987, when the fed funds rate exceeded 6% and the prime rate charged by big banks was above 9%.
+To be sure, if the market fell sharply, the Fed would activate the “Greenspan-Bernanke Put,” providing large amounts of liquidity to distressed intermediaries.
+But whether Jay Powell’s Fed would respond as creatively as Bernanke’s in 2008 – providing “back-to-back” loans to non-member banks in distress, for example – is an open question.
+<P>
+Much will hinge, finally, on the president’s reaction.
+Will Trump respond like FDR in 1933, reassuring the public that the only thing we have to fear is fear itself?
+Or will he look for someone to blame for the collapse in his favorite economic indicator and lash out at the Democrats, foreign governments, and the Fed?
+A president who plays the blame game would only further aggravate the problem.

@@ -1,0 +1,54 @@
+<HEADLINE>
+Anatomy of a Crash
+<P>
+Why did high_tech stock market values fall so far in the last year-and-a-half?
+What does the crash of the NASDAQ (and of smaller IT exchanges around the world) tell us about the future of the "new economy"?
+As we move away from those events, a clearer assessment is possible.
+<P>
+Conventional wisdom holds that the NASDAQ crash exposed the "new economy" as a conjuring trick of smoke and mirrors.
+It incarnated the irrational exuberance that often breaks out as a boom peaks and did not deliver deeper permanent changes in the economy.
+A more likely explanation, however, is that the NASDAQ crashed because it became clear that dominant market positions in high tech_based businesses were not sources of profits unless accompanied by substantial barriers to entry for new potential competitors--and that such barriers to entry were becoming remarkably hard to create.
+<P>
+Over a wide range of activities, the dominant effect of the "new economy" has been to make competition more effective, not to create new advantages based upon economies of scale.
+The high-tech crash was thus the result of a realization by investors that the "new economy" was, in most sectors and for most firms, unlikely to lead to large quasi_rent type profits from established market positions, but rather to heightened competition and reduced margins.
+<P>
+The exuberance that pushed the NASDAQ so high in 1999 and early 2000 rested on the belief that a technological leap forward in data processing and data communications technologies had created a host of "winner_take_all" markets in which increasing returns to scale were the dominant feature.
+An information good--a computer program, a piece of online entertainment, or a source of information--needs to be produced only once and can then be distributed to a potentially unlimited number of consumers at very little (if any) additional cost.
+The larger the market, the larger the cost advantage.
+<P>
+Moreover, information goods produced at larger scale are also more valuable to consumers.
+The version with the largest market share becomes the standard; it is the easiest to figure out how to use, the easiest to find support for, and the one that works best with other products (which are, of course, designed to work best with it).
+<P>
+In the section of the "new economy" dominated by producers' economies of scale and consumers' economies of scope, a firm that establishes a lead in market share gains a nearly overwhelming advantage.
+Unless its competitors take extraordinary and extraordinarily costly steps--like those taken by Microsoft against Netscape, its rival in the Internet browser market, by pouring a fortune into creating its Internet Explorer and then distributing it for free--the first firm to establish a dominant market position will reap high profits as long as its sector of the industry lasts.
+<P>
+But increasing returns to scale and winner_take_all markets are not the only, or even the primary, consequence of the IT revolution.
+It is at least as likely that innovations in computer and communications technologies are competition's friends because they eliminate the frictions that in the past gave nearly every producer a little bit of monopoly power.
+In the past you could comparison_shop only by trudging from store to store.
+Today you can use the World Wide Web to conduct instant searches that can reveal the prices and qualities of every single producer.
+Firms must adjust instantaneously or perish in the process.
+<P>
+Thus the "new economy" makes most markets more, not less, contestable.
+A competitive edge based on past reputation, brand loyalty, or advertising footprints will fade away.
+As they do, profit margins will fall: competition will become swifter, stronger, more pervasive, and more nearly perfect.
+<P>
+Consumers will gain and shareholders will lose.
+Those products that can be competitively supplied will be supplied at very low margins.
+The future of technology is bright; the future of the profit margins of businesses--save for those few that truly are able to use economies of scale to create mammoth cost advantages--is dim.
+<P>
+Is it really possible to acquire significant economies of scale by writing a single suite of software that will cover the heterogeneous purchasing requirements of millions of businesses seeking to streamline their operations by using the Internet?
+Is it really possible to obtain significant economies of scale by using the Internet to distribute information about groceries?
+The NASDAQ crash was the result of realization by marginal investors that the odds were heavily against this.
+<P>
+But the NASDAQ crash tells us next to nothing about the future of the underlying technologies, or about their true value.
+Perhaps the best analogy is an old puzzle posed by the classical economists three centuries ago: why is there such a difference between the price of water and the price of diamonds?
+<P>
+Water is absolutely essential to sustain life, and thus immensely valuable to every consumer.
+Yet water is cheap.
+Diamonds, by contrast, have been and remain expensive.
+The gap in price does not tell us that diamonds are useful and valuable and water is not, but that it has so far proved easier to maintain market power and high margins in the diamond business than in the water business.
+<P>
+The analogy to the Internet, the "new economy," and the crash of the NASDAQ is straightforward.
+Even Internet Explorer, which today has as dominant a position in the browser market as anyone could wish to have, is not (or is not yet) a source of profits, and will not be, barring the creation of some essential function that Internet Explorer can serve and competing browsers cannot.
+Our modern computer and communications technologies simply make it too cheap and too easy to distribute a competing product.
+So, what NASDAQ's crash tells us is that the new economy is more likely to be a source of downward pressure on profit margins than of large, durable quasi_rents.

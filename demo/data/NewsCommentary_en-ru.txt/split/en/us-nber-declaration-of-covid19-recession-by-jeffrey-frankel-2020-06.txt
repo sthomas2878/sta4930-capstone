@@ -1,0 +1,58 @@
+<HEADLINE>
+What’s in a Recession?
+<P>
+CAMBRIDGE – On June 8, the Business Cycle Dating Committee of the National Bureau of Economic Research declared that economic activity in the United States had peaked in February 2020, formally marking the start of a recession.
+But we already knew that we were in a recession that had likely begun around that date.
+So, why does the NBER’s formal declaration matter?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+It is no secret that measures of employment fell sharply from February to March.
+Real (inflation-adjusted) personal consumption expenditure (PCE) and real personal income before transfers both peaked in February as well.
+Official measures of GDP are released only quarterly, but the economic free-fall in late March was enough to pull first-quarter GDP growth down to an annualized rate of -4.8% (relative to the last quarter of 2019).
+<P>
+Though the NBER is a private non-profit research institution, its chronology holds official status, as affirmed by the US Department of Commerce’s Bureau of Economic Analysis (BEA).
+And every time its Business Cycle Dating Committee declares a turning point for the US economy, people wonder what took it so long.
+But the four-month lag between the event and the committee’s latest declaration was the shortest since its founding in 1978.
+For the US economy’s ten cyclical turning points since 1980, the average time lag had been 11.7 months.
+The committee’s relative speediness this time is a testament to the unprecedented suddenness of the pandemic-induced collapse.
+<P>
+Readers are often surprised to learn that the task of declaring a recession in the US falls to a panel of economists who consider a wide variety of indicators.
+Most other advanced economies, after all, define a recession as simply two consecutive quarters of negative GDP growth.
+But the US isn’t the only country to go beyond the two-quarters rule.
+The Japanese government also considers other indicators in its official business-cycle chronology.
+And private committees in other domains – including the eurozone, Canada, Spain, and Brazil – date business cycles by looking at a wider variety of economic indicators, though without garnering as much attention from the media or official government bodies.
+<P>
+In any case, the two criticisms – “why the lag?” and “why not the two-quarter rule?” – tend to be at odds with each other.
+GDP statistics are always gathered with a lag and subsequently revised (particularly each July, when the BEA updates its National Income and Product Accounts).
+Thus, to go only by the GDP numbers could require waiting even longer between the actual start of a recession and its official designation.
+<P>
+The NBER’s latest declaration is an example of how it helps to be free of the GDP rule.
+We can be confident that data from the second quarter of 2020 will show a plunge in US output that is even larger than that of the first quarter (perhaps 40% when annualized).
+But this second quarter of negative growth will not be verified until the BEA’s update on July 30.
+And even that number will be only an advanced estimate.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The lens through which one looks at the business cycle can make a big difference over time.
+Nobody questions the NBER’s ruling that there was a recession in 2001, even though the two quarters of negative GDP growth that year were not consecutive.
+By the same token, everyone accepts that, until recently, the longest US expansion on record was the ten-year period (120 months) from March 1991 to March 2001.
+Nobody tries to claim that because the two quarters of negative growth in 2001 were not consecutive, the expansion actually lasted until December 2007 (201 months).
+If that were the case, the just-completed 128-month expansion (from June 2009 to February 2020) would lose its claim to being the longest US expansion on record.
+<P>
+The NBER’s lens also mattered in its chronology of the so-called Great Recession.
+When the committee declared that a recession had begun with a peak in December 2007, the US government’s estimates still showed the official GDP measure to be higher in both the first and second quarters of 2008 than in the last quarter of 2007.
+The NBER’s announcement of the beginning of the recession was greeted as long overdue.
+Had it applied the two-quarters rule, however, it would have had to wait another year and a half for the BEA’s crucial update to the data.
+<P>
+Compared to the NBER’s less mechanical approach, the two-quarter rule has both pros and cons.
+One advantage is that a simple, transparent, and automatic procedure appears more objective than the rulings of a committee of unelected, unaccountable academic economists.
+A major disadvantage, however, is that insofar as GDP statistics are subject to subsequent revision, they may require a retroactive revision of the cyclical turning points.
+<P>
+For example, a 2011-12 “recession” in the United Kingdom was subsequently erased from the record when the official GDP numbers were updated in June 2013.
+Any claims that politicians, researchers, and others had made about a recession in 2012 were rendered false, even though they were issued in good faith at the time.
+<P>
+For this reason, before dating a trough or peak, the NBER waits until it can be reasonably sure that it will not have to revise the call in the future, after the dates have already entered the official chronology.
+There are already plenty of other observers trying to assess the odds of recessions like the current one in real time.
+The NBER committee’s priority is not to be the fastest, but to be definitive.

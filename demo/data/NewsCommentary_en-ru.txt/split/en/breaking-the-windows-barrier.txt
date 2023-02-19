@@ -1,0 +1,56 @@
+<HEADLINE>
+Breaking the Windows Barrier
+<P>
+Kyoto – As 2009 commences, Microsoft is previewing its next-generation operating system, Windows 7, which is remarkable only in that it is almost the same as every previous version.
+Stagnation in computer design is not surprising, considering that familiarity is so comfortable.
+<P>
+But it can also stifle development.
+Military intelligence depends on ever-improving communication, so it is one area in which system design is constantly changing.
+Some of those innovations will eventually trickle into the mainstream, so a glimpse at current experiments can reveal what the future of ordinary computer interaction could look like, and what would be gained.
+<P>
+For the lay user, technology is encountered mostly as an interactive interface.
+People rarely consider that the tangible features assumed to be intrinsic to the “computer” were imitations of other objects, with keyboards inherited from typewriters and screens from television.
+<P>
+Inside the computer screen is a virtual 1950’s office, with paper documents, filing cabinets, and a garbage can.
+This page-window format is known as Window-Icon-Mouse-Pointer, or WIMP, which, due to monopoly forces, has been the universal paradigm since the 1980’s – ancient history in computer years.
+<P>
+These formats are taken for granted, just as we accept telephone keypads and car dashboards, which are also user interfaces.
+It is easy to forget that, years ago, telephones had no buttons or dial – you had to pick up the handset and ask an operator to make the connection.
+The telephone dial didn’t appear until 1919, when the first group of self-designated “user interface scientists” at Western Electric considered what the most intuitive form should be.
+<P>
+When improving a computer interface, form is the key.
+We’ve seen hints of a new paradigm in Apple’s iPhone, which allows gestural finger motions, but in the intelligence community, concept visualization can be so radical that most ordinary users might barely recognize what it was.
+Designs are inspired by cognitive science, the arts, even science fiction.
+Ironically, a recent trend reaches far into the past, to a traditional Japanese concept known as katachi , which is emerging as an international movement.
+<P>
+“Katachi” literally means “form” in Japanese, but the concept has complex connotations that do not exist in other languages.
+The word is a composite of two terms, “kata” (pattern) and “chi” (magical power), so it includes nuances such as “complete assembly” and “shape that tells an attractive story.”
+<P>
+This richer notion stems from ancient Japanese culture, which perceived the overlap between geometry and meaning.
+The Chinese symbol for “form” carries some of the same reasoning, due to its use of ideograms.
+Four thousand years ago, China developed a writing system that conveyed concepts both as idea and picture.
+Notions such as “wooden structure” and “beauty” were indicated by symbols which, when combined, could create a new concept, such as “form.”
+<P>
+Governments in countries colonized by China were forced to adopt this pictographic writing system in order to receive political regulations, but the pronunciation of the characters was not controlled.
+The colonized were able to maintain aspects of their local culture through different aural versions of the same written “word” because the common meaning existed only in the shape.
+<P>
+Modern user interface scientists are interested in katachi because it can reveal how form facilitates human interaction.
+A traditional example is the tea ceremony, which was developed in Japan in the late sixteenth century.
+The format is simple – a host serves tea with some sweets, the guests drink it and then express thanks; that’s all.
+<P>
+Foreigners are often mystified as to why such a minimalist event can require years of training.
+But the motivation for this art is common to every culture: imagine a talented host from any country whose manner is so easy that guests are wrapped in a mood of quiet happiness.
+<P>
+In the tea ceremony, this ability has been refined into a skill that combines materials, meaning, and mood.
+Those with high ability know how the guests’ experience can be improved with careful preparations of tools, reflective conversations, and natural yet well-controlled body motions.
+Physical movements embody the intended meaning of the event, so the whole environment becomes a signifier.
+Small innovations are often introduced into the style of hospitality to suggest the personality of the host.
+<P>
+An operating system based on katachi’s insights would harness this overlap between shape, sense and environment.
+It might allow you to feel the “form” of a concept with your hands.
+Or it could indicate the reliability of data based on whether it was laid out neatly or had a scrambled appearance, so it could be assessed at a glance.
+Perhaps future interfaces will allow us to communicate across language barriers by immersing us in assemblies of pictures – a hybrid between movies, architecture and email.
+<P>
+Expressive icons represent thought, but can only communicate complex subtleties and situations if they allow multiple levels of understanding.
+Computer scientists might be in a unique position to enable richer communication, and perhaps a more stable future as a consequence.
+For this reason, let us hope that more developers explore this so-called “disruptive” side of technology during the coming year.

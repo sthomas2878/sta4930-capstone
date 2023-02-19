@@ -1,0 +1,51 @@
+<HEADLINE>
+When Will Tech Disrupt Higher Education?
+<P>
+CAMBRIDGE – In the early 1990s, at the dawn of the Internet era, an explosion in academic productivity seemed to be around the corner.
+But the corner never appeared.
+Instead, teaching techniques at colleges and universities, which pride themselves on spewing out creative ideas that disrupt the rest of society, have continued to evolve at a glacial pace.
+<P>
+Sure, PowerPoint presentations have displaced chalkboards, enrollments in “massive open online courses” often exceed 100,000 (though the number of engaged students tends to be much smaller), and “flipped classrooms” replace homework with watching taped lectures, while class time is spent discussing homework exercises.
+But, given education’s centrality to raising productivity, shouldn’t efforts to reinvigorate today’s sclerotic Western economies focus on how to reinvent higher education?
+<P>
+One can understand why change is slow to take root at the primary and secondary school level, where the social and political obstacles are massive.
+But colleges and universities have far more capacity to experiment; indeed, in many ways, that is their raison d’être.
+<P>
+For example, what sense does it make for each college in the United States to offer its own highly idiosyncratic lectures on core topics like freshman calculus, economics, and US history, often with classes of 500 students or more?
+Sometimes these giant classes are great, but anyone who has gone to college can tell you that is not the norm.
+<P>
+At least for large-scale introductory courses, why not let students everywhere watch highly produced recordings by the world’s best professors and lecturers, much as we do with music, sports, and entertainment?
+This does not mean a one-size-fits-all scenario: there could be a competitive market, as there already is for textbooks, with perhaps a dozen people dominating much of the market.
+<P>
+And videos could be used in modules, so a school could choose to use, say, one package to teach the first part of a course, and a completely different package to teach the second part.
+Professors could still mix in live lectures on their favorite topics, but as a treat, not as a boring routine.
+<P>
+A shift to recorded lectures is only one example.
+The potential for developing specialized software and apps to advance higher education is endless.
+There is already some experimentation with using software to help understand individual students’ challenges and deficiencies in ways that guide teachers on how to give the most constructive feedback.
+But so far, such initiatives are very limited.
+<P>
+Perhaps change in tertiary education is so glacial because the learning is deeply interpersonal, making human teachers essential.
+But wouldn’t it make more sense for the bulk of faculty teaching time to be devoted to helping students engage in active learning through discussion and exercises, rather than to sometimes hundredth-best lecture performances?
+<P>
+Yes, outside of traditional brick-and-mortar universities, there has been some remarkable innovation.
+The Khan Academy has produced a treasure trove of lectures on a variety of topics, and it is particularly strong in teaching basic mathematics.
+Although the main target audience is advanced high school students, there is a lot of material that college students (or anyone) would find useful.
+<P>
+Moreover, there are some great websites, including Crash Course and Ted-Ed, that contain short general education videos on a huge variety of subjects, from philosophy to biology to history.
+But while a small number of innovative professors are using such methods to reinvent their courses, the tremendous resistance they face from other faculty holds down the size of the market and makes it hard to justify the investments needed to produce more rapid change.
+<P>
+Let’s face it, college faculty are no keener to see technology cut into their jobs than any other group.
+And, unlike most factory workers, university faculty members have enormous power over the administration.
+Any university president that tries to run roughshod over them will usually lose her job long before any faculty member does.
+<P>
+Of course, change will eventually come, and when it does, the potential effect on economic growth and social welfare will be enormous.
+It is difficult to suggest an exact monetary figure, because, like many things in the modern tech world, money spent on education does not capture the full social impact.
+But even the most conservative estimates suggest the vast potential.
+In the US, tertiary education accounts for over 2.5% of GDP (roughly $500 billion), and yet much of this is spent quite inefficiently.
+The real cost, though, is not the squandered tax money, but the fact that today’s youth could be learning so much more than they do.
+<P>
+Universities and colleges are pivotal to the future of our societies.
+But, given impressive and ongoing advances in technology and artificial intelligence, it is hard to see how they can continue playing this role without reinventing themselves over the next two decades.
+Education innovation will disrupt academic employment, but the benefits to jobs everywhere else could be enormous.
+If there were more disruption within the ivory tower, economies just might become more resilient to disruption outside it.

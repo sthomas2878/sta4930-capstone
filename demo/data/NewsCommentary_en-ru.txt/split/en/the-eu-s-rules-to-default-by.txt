@@ -1,0 +1,58 @@
+<HEADLINE>
+The EU’s Rules to Default By
+<P>
+BRUSSELS – Greece’s ballooning public debt is again throwing Europe’s financial markets into turmoil.
+But why should a debt default by the government of a small, peripheral economy – one which accounts for less than 3% of eurozone GDP – be so significant?
+<P>
+The answer is simple: the financial system’s entire regulatory framework was built on the assumption that government debt is risk-free.
+Any sovereign default in Europe would shatter this cornerstone of financial regulation, and thus would have profound consequences.
+<P>
+This is particularly visible in the banking sector.
+Internationally agreed rules stipulate that banks must create capital reserves commensurate to the risks that they take when they invest depositors’ savings.
+But when banks lend to their own government, or hold its bonds, they are not required to create any additional reserves, because it is assumed that government debt is risk-free.
+After all, a government can always pay in its own currency.
+<P>
+This assumption makes sense, however, only when a government issues debt in its own currency; only then can it order its central bank to print enough money to pay its creditors.
+Before the introduction of the euro, this was the case in all advanced countries.
+<P>
+But the countries that adopted the euro can no longer rely on the printing press.
+They are, instead, effectively borrowing in a “foreign” currency (or, rather, a currency that they cannot individually control).
+It should thus have been clear that with the start of European Monetary Union (EMU), participating countries’ public debt should no longer have been considered risk-free.
+<P>
+But it was.
+Indeed, eurozone regulators not only maintained the assumption that the public debt of a bank’s own country was risk-free, but chose to extend it to all eurozone countries, implying that banks did not have to provide additional capital against their holdings of any eurozone public debt.
+This is the key reason why one-third of all public debt in the European Union is held by banks.
+And this concentration of public debt on banks’ balance sheets is what makes the entire European banking system so vulnerable to a sovereign default.
+<P>
+Moreover, given the prevailing assumption that public debt was risk-free, banks were not bound by the usual rules against “large exposures”: they could accumulate as much exposure to any one government as they wanted.
+That is why Greek banks could end up holding more government debt than they have capital.
+A government default would thus wipe out the entire Greek banking system.
+<P>
+It is now too late to turn back the clock and suddenly force banks to get rid of their excessive holdings of public debt.
+Unfortunately, regulators do not even appear to be learning from the current crisis in order to prevent the next one.
+<P>
+The EU’s rules on how much capital banks must hold are about to be revised.
+The rules, which are detailed in a 500-page legal proposal, called “CRDIV” and published recently by the European Commission, will increase the amount of capital banks must hold, but only for lending to the private sector.
+Lending to eurozone governments continues to have a zero risk weight.
+This will only increase the bias in bank lending towards government debt and against lending to enterprises, especially small and medium-size businesses.
+<P>
+This is a mistake.
+The European Commission should have introduced capital requirements on banks’ holdings of public debt.
+The justification would be simple: no one can seriously claim that the bonds of all eurozone governments are without risk.
+It should thus be obvious that banks should hold some capital against the risks they assume when lending to governments with particularly high debts or large budget deficits.
+<P>
+Moreover, the new rules will require banks to hold more liquid assets.
+It is easy to guess which assets the authorities consider liquid: public debt.
+In this way, too, banks will be induced to hold public debt rather than to finance private investment, despite the obvious fact that government bonds can become very illiquid (for example, those issued by Greece, Ireland, and Portugal).
+The definition of what banks should hold for liquidity purposes should have been broadened beyond public debt to include a wide range of private-sector assets based on market size.
+<P>
+Both key elements of the new banking rules thus go in the same direction: they increase the bias in bank financing against lending to the private sector.
+<P>
+It is easy to understand why the authorities persist in favoring public debt: the rules are set by finance ministers, who are naturally inclined to give themselves a good deal.
+Moreover, it is difficult for politicians to see that their budgets compete for a limited pool of savings.
+Lower financing costs for public debt appear to be a net gain to society, because the government then saves on debt service and can keep taxes lower.
+But any gains from lower taxes are more than offset by the losses to the private sector, which, facing higher financing costs, will invest less, in turn lowering economic growth – and thus reducing government revenues.
+<P>
+Many steps have been taken in recent years to reinforce regulation of the banking system.
+But what is proposed now will make lending for investment even less attractive and increase the incentive to concentrate sovereign risk in the banking sector.
+This can only worsen Europe’s sovereign-debt problem and weaken its already meager growth prospects.

@@ -1,0 +1,64 @@
+<HEADLINE>
+How Economics Survived the Economic Crisis
+<P>
+LONDON – The tenth anniversary of the start of the Great Recession was the occasion for an elegant essay by the Nobel laureate economist Paul Krugman, who noted how little the debate about the causes and consequences of the crisis have changed over the last decade.
+Whereas the Great Depression of the 1930s produced Keynesian economics, and the stagflation of the 1970s produced Milton Friedman’s monetarism, the Great Recession has produced no similar intellectual shift.
+<P>
+This is deeply depressing to young students of economics, who hoped for a suitably challenging response from the profession.
+Why has there been none?
+<P>
+Krugman’s answer is typically ingenious: the old macroeconomics was, as the saying goes, “good enough for government work.”
+It prevented another Great Depression.
+So students should lock up their dreams and learn their lessons.
+<P>
+A decade ago, two schools of macroeconomists contended for primacy: the New Classical – or the “freshwater” – School, descended from Milton Friedman and Robert Lucas and headquartered at the University of Chicago, and the New Keynesian, or “saltwater,” School, descended from John Maynard Keynes, and based at MIT and Harvard.
+<P>
+Freshwater-types believed that budgets deficits were always bad, whereas the saltwater camp believed that deficits were beneficial in a slump.
+Krugman is a New Keynesian, and his essay was intended to show that the Great Recession vindicated standard New Keynesian models.
+<P>
+But there are serious problems with Krugman’s narrative.
+For starters, there is his answer to Queen Elizabeth II’s now-famous question: “Why did no one see it coming?”
+Krugman’s cheerful response is that the New Keynesians were looking the other way.
+Theirs was a failure not of theory, but of “data collection.”
+They had “overlooked” crucial institutional changes in the financial system.
+While this was regrettable, it raised no “deep conceptual issue” – that is, it didn’t demand that they reconsider their theory.
+<P>
+Faced with the crisis itself, the New Keynesians had risen to the challenge.
+They dusted off their old sticky-price models from the 1950s and 1960s, which told them three things.
+First, very large budget deficits would not drive up near-zero interest rates.
+Second, even large increases in the monetary base would not lead to high inflation, or even to corresponding increases in broader monetary aggregates.
+And, third, there would be a positive national income multiplier, almost surely greater than one, from changes in government spending and taxation.
+<P>
+These propositions made the case for budget deficits in the aftermath of the collapse of 2008.
+Policies based on them were implemented and worked “remarkably well.”
+The success of New Keynesian policy had the ironic effect of allowing “the more inflexible members of our profession [the New Classicals from Chicago] to ignore events in a way they couldn’t in past episodes.”
+So neither school – sect might be the better word – was challenged to re-think first principles.
+<P>
+This clever history of pre- and post-crash economics leaves key questions unanswered.
+First, if New Keynesian economics was “good enough,” why didn’t New Keynesian economists urge precautions against the collapse of 2007-2008?
+After all, they did not rule out the possibility of such a collapse a priori.
+<P>
+Krugman admits to a gap in “evidence collection.”
+But the choice of evidence is theory-driven.
+In my view, New Keynesian economists turned a blind eye to instabilities building up in the banking system, because their models told them that financial institutions could accurately price risk.
+So there was a “deep conceptual issue” involved in New Keynesian analysis: its failure to explain how banks might come to “underprice risk worldwide,” as Alan Greenspan put it.
+<P>
+Second, Krugman fails to explain why the Keynesian policies vindicated in 2008-2009 were so rapidly reversed and replaced by fiscal austerity.
+Why didn’t policymakers stick to their stodgy fixed-price models until they had done their work?
+Why abandon them in 2009, when Western economies were still 4-5% below their pre-crash levels?
+<P>
+The answer I would give is that when Keynes was briefly exhumed for six months in 2008-2009, it was for political, not intellectual, reasons.
+Because the New Keynesian models did not offer a sufficient basis for maintaining Keynesian policies once the economic emergency had been overcome, they were quickly abandoned.
+<P>
+Krugman comes close to acknowledging this: New Keynesians, he writes, “start with rational behavior and market equilibrium as a baseline, and try to get economic dysfunction by tweaking that baseline at the edges.”
+Such tweaks enable New Keynesian models to generate temporary real effects from nominal shocks, and thus justify quite radical intervention in times of emergency.
+But no tweaks can create a strong enough case to justify sustained interventionist policy.
+<P>
+The problem for New Keynesian macroeconomists is that they fail to acknowledge radical uncertainty in their models, leaving them without any theory of what to do in good times in order to avoid the bad times.
+Their focus on nominal wage and price rigidities implies that if these factors were absent, equilibrium would readily be achieved.
+They regard the financial sector as neutral, not as fundamental (capitalism’s “ephor,” as Joseph Schumpeter put it).
+<P>
+Without acknowledgement of uncertainty, saltwater economics is bound to collapse into its freshwater counterpart.
+New Keynesian “tweaking” will create limited political space for intervention, but not nearly enough to do a proper job.
+So Krugman’s argument, while provocative, is certainly not conclusive.
+Macroeconomics still needs to come up with a big new idea.

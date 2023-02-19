@@ -1,0 +1,58 @@
+<HEADLINE>
+The Promise and Pitfalls of AI
+<P>
+BRUSSELS – Like any transformative trend, the rise of artificial intelligence (AI) poses both major opportunities and significant challenges.
+But the gravest risks may not be the ones most often discussed.
+<P>
+According to new research from the McKinsey Global Institute (MGI), AI has the potential to boost overall economic productivity significantly.
+Even accounting for transition costs and competition effects, it could add some $13 trillion to total output by 2030 and boost global GDP by about 1.2% per year.
+This is comparable to – or even larger than – the economic impact of past general-purpose technologies, such as steam power during the 1800s, industrial manufacturing in the 1900s, and information technology during the 2000s.
+<P>
+Perhaps the most discussed concern about AI is the prospect that intelligent machines will replace more jobs than they create.
+But MGI’s research found that the adoption of AI may not have a significant effect on net employment in the long term.
+Extra investment in the sector could contribute 5% to employment by 2030, and the additional wealth created could drive up labor demand, boosting employment by another 12%.
+<P>
+But while the overall picture is positive, the news is not all good.
+For one thing, it is possible that it will take time for AI’s benefits – particularly with regard to productivity – to be felt.
+Indeed, MGI’s research suggests that AI’s contribution to growth may be three or more times higher by 2030 than it is over the next five years.
+<P>
+This is in line with the so-called Solow computer paradox: productivity gains lag behind technological advances – a notable phenomenon during the digital revolution.
+This is partly because, initially, economies face high implementation and transition costs, which estimates of AI’s economic impact tend to ignore.
+MGI’s simulation suggests that these costs will amount to 80% of gross potential gains in five years, but will decline to one-third of those gains by 2030.
+<P>
+The more troubling potential feature of the AI revolution is that its benefits are not likely to be shared equitably.
+The resulting “AI divides” will reinforce the digital divides that are already fueling economic inequality and undermining competition.
+These divides could emerge in three areas.
+<P>
+The first divide would emerge at the company level.
+Innovative, leading-edge companies that fully adopt AI technologies could double their cash flow between now and 2030 – an outcome that would likely entail hiring many more workers.
+These companies would leave in the dust those that are unwilling or unable to implement AI technologies at the same rate.
+In fact, firms that do not adopt AI at all could experience a 20% decline in their cash flow as they lose market share, putting them under pressure to shed workers.
+<P>
+The second divide concerns skills.
+The proliferation of AI technologies will shift labor demand away from repetitive tasks that can more easily be automated or outsourced to platforms, toward socially or cognitively driven tasks.
+MGI’s models indicate that job profiles characterized by repetitive tasks and little digital knowhow could fall from some 40% of total employment to near 30% by 2030.
+Meanwhile, the share of jobs entailing non-repetitive activities or requiring high-level digital skills is likely to rise from some 40% to more than 50%.
+<P>
+This shift could contribute to an increase in wage differentials, with around 13% of the total wage bill potentially shifting to non-repetitive jobs requiring high-level digital skills, as incomes in those fields rise.
+Workers in the repetitive and low-digital-skills categories may experience wage stagnation or even reduction, contributing to a decline in their share of the total wage bill from 33% to 20%.
+<P>
+The third AI divide – among countries – is already apparent, and seems set to widen further.
+Those countries, mostly in the developed world, that establish themselves as AI leaders could capture an additional 20-25% in economic benefits compared with today, while emerging economies may accrue only an extra 5-15%.
+<P>
+The advanced economies have a clear advantage in adopting AI, because they are further along in the implementation of previous digital technologies.
+They also have powerful incentives to adopt AI: low productivity growth, aging populations, and relatively high labor costs.
+<P>
+By contrast, many developing economies have insufficient digital infrastructure, weak innovation and investment capacity, and thin skills base.
+Add to that the motivation-dampening effects of low wages and ample space for productivity catch-up, and it seems unlikely that these economies will keep pace with their advanced counterparts in AI adoption.
+<P>
+The emergence or expansion of these AI divides is not inevitable.
+In particular, developing economies can choose to take a forward-thinking approach that includes strengthening their digital foundations and actively encouraging AI adoption.
+And, to ensure that their changing workplace needs are met, firms can take a more active role in supporting educational upgrading and continuous learning for lower-skill people.
+<P>
+Moreover, these divides are not necessarily a negative development.
+The reallocation of resources toward higher-performing companies makes economies healthier, potentially providing them with new competitive advantages vis-à-vis other countries.
+<P>
+But the risks posed by these divides should not be underestimated.
+Vision and perseverance are essential to make the AI revolution work, because it will bring short-term pain before long-term gains.
+If that pain occurs against a backdrop of frustration with the unequal distribution of AI’s benefits, it may trigger a backlash against technologies that could otherwise produce a virtuous cycle of higher productivity, income growth, and employment-boosting demand.

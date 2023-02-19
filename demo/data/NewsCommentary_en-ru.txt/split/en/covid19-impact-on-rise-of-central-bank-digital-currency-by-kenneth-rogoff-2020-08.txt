@@ -1,0 +1,59 @@
+<HEADLINE>
+COVID Coin?
+<P>
+CAMBRIDGE – As the COVID-19 crisis accelerates the long-term shift away from cash (at least in tax-compliant, legal transactions), official discussions about digital currencies are heating up.
+Between the impending launch of Facebook’s Libra and China’s proposed central-bank digital currency, events today could reshape global finance for a generation.
+A recent report from the G30 argues that if central banks want to shape the outcome, they need to start moving fast.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Much is at stake, including global financial stability and control of information.
+Financial innovation, if not carefully managed, is often at the root of a crisis, and the dollar gives the United States significant monitoring and sanctions capabilities.
+Dollar dominance is not just about what currency is used, but also about the systems that clear transactions, and, from China to Europe, there is a growing desire to challenge this.
+This is where a lot of the innovation is taking place.
+<P>
+Central banks can take three distinct approaches.
+One is to make significant improvements to the existing system: reduce fees for credit and debit cards, ensure universal financial inclusion, and upgrade systems so that digital payments can clear in an instant, not a day.
+<P>
+The US lags badly in all these areas, mainly because the banking and financial lobby is so powerful.
+To be fair, policymakers also need to worry about keeping the payments system secure: the next virus to hit the global economy could well be digital.
+Rapid reform could create unexpected risks.
+<P>
+At the same time, any effort to maintain the status quo should provide room for new entrants, whether “stable coins” pegged to a major currency, like Facebook’s Libra, or redeemable platform tokens that large retail tech companies such as Amazon and Alibaba might issue, backed by the ability to spend on goods the platform sells.
+<P>
+The most radical approach would be a dominant retail central-bank currency which allows consumers to hold accounts directly at the central bank.
+This could have some great advantages, such as guaranteeing financial inclusion and snuffing out bank runs.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But radical change also carries many risks.
+One is that the central bank is poorly positioned to provide quality service on small retail accounts.
+Perhaps this could be addressed over time, by using artificial intelligence or by expanding financial services offered by post office branches.
+<P>
+In fact, when it comes to retail central-bank digital currencies, economists worry about an even bigger problem: Who will make loans to consumers and small businesses if banks lose most of their retail depositors, who comprise their best and cheapest source of borrowing?
+<P>
+In principle, the central bank could re-lend to the banking sector the funds it gets from digital currency deposits.
+This would, however, give the government an inordinate amount of power over the flow of credit, and ultimately the development of the economy.
+Some may see this as a benefit, but most central bankers probably have deep reservations about assuming this role.
+<P>
+Security is another issue.
+The current system, in which private banks play a central role in payments and lending, has been in place around the world for more than a century.
+Sure, there have been problems; but for all the challenges banking crises have created, systemic breakdowns in security have not been the major issue.
+<P>
+Technology experts warn that for all the promise of new cryptographic systems (on which many new ideas are based), a new system can take 5-10 years to “harden.”
+What country would want to be a financial guinea pig?
+<P>
+China’s new digital currency offers a third, intermediate vision.
+As the G30 report describes in greater detail than previously available, China’s approach involves eventually replacing most paper currency, but not replacing banks.
+In other words, consumers would still hold accounts at banks, which in turn would hold accounts with the central bank.
+<P>
+When consumers want cash, however, instead of getting paper currency (which is rapidly becoming passé in Chinese cities anyway), they would receive tokens in their digital wallet at the central bank.
+Like cash, the central-bank digital currency would pay zero interest, giving interest-bearing bank accounts a competitive edge.
+<P>
+Of course, the government can change its mind later and start offering interest; banks may also lose their edge if the general level of interest rates collapses.
+This framework does take away the anonymity of paper currency, but many monetary authorities, including the European Central Bank, have discussed ideas for introducing anonymous low-value payments.
+<P>
+Last, but not least, a shift to digital currencies would make it easier to implement deeply negative interest rates, which, as I have argued for many years, would go a long way toward restoring the potency of monetary policy in crises.
+One way or another, the post-pandemic world will move very fast in payments technologies.
+Central banks cannot afford to play catch-up.

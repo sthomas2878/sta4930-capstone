@@ -1,0 +1,74 @@
+<HEADLINE>
+Big Tech’s Harvest of Sorrow?
+<P>
+CAMBRIDGE – Digital technology has transformed how we communicate, commute, shop, learn, and entertain ourselves.
+Soon enough, technologies such as artificial intelligence (AI), Big Data, and the Internet of Things (IoT), could remake health care, energy, transportation, agriculture, the public sector, the natural environment, and even our minds and bodies.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Applying science to social problems has brought huge dividends in the past.
+Long before the invention of the silicon chip, medical and technological innovations had already made our lives far more comfortable – and longer.
+But history is also replete with disasters caused by the power of science and the zeal to improve the human condition.
+<P>
+For example, efforts to boost agricultural yields through scientific or technological augmentation in the context of collectivization in the Soviet Union or Tanzania backfired spectacularly.
+Sometimes, plans to remake cities through modern urban planning all but destroyed them.
+The political scientist James Scott has dubbed such efforts to transform others’ lives through science instances of “high modernism.”
+<P>
+An ideology as dangerous as it is dogmatically overconfident, high modernism refuses to recognize that many human practices and behaviors have an inherent logic that is adapted to the complex environment in which they have evolved.
+When high modernists dismiss such practices in order to institute a more scientific and rational approach, they almost always fail.
+<P>
+Historically, high-modernist schemes have been most damaging in the hands of an authoritarian state seeking to transform a prostrate, weak society.
+In the case of Soviet collectivization, state authoritarianism originated from the self-proclaimed “leading role” of the Communist Party, and pursued its schemes in the absence of any organizations that could effectively resist them or provide protection to peasants crushed by them.
+<P>
+Yet authoritarianism is not solely the preserve of states.
+It can also originate from any claim to unbridled superior knowledge or ability.
+Consider contemporary efforts by corporations, entrepreneurs, and others who want to improve our world through digital technologies.
+Recent innovations have vastly increased productivity in manufacturing, improved communication, and enriched the lives of billions of people.
+But they could easily devolve into a high-modernist fiasco.
+<P>
+Frontier technologies such as AI, Big Data, and IoT are often presented as panaceas for optimizing work, recreation, communication, and health care.
+The conceit is that we have little to learn from ordinary people and the adaptations they have developed within different social contexts.
+<P>
+The problem is that an unconditional belief that “AI can do everything better,” to take one example, creates a power imbalance between those developing AI technologies and those whose lives will be transformed by them.
+The latter essentially have no say in how these applications will be designed and deployed.
+<P>
+The current problems afflicting social media are a perfect example of what can happen when uniform rules are imposed with no regard for social context and evolved behaviors.
+The rich and variegated patterns of communication that exist off-line have been replaced by scripted, standardized, and limited modes of communication on platforms such as Facebook and Twitter.
+As a result, the nuances of face-to-face communication, and of news mediated by trusted outlets, have been obliterated.
+Efforts to “connect the world” with technology have created a morass of propaganda, disinformation, hate speech, and bullying.
+<P>
+But this characteristically high-modernist path is not preordained.
+Instead of ignoring social context, those developing new technologies could actually learn something from the experiences and concerns of real people.
+The technologies themselves could be adaptive rather than hubristic, designed to empower society rather than silence it.
+<P>
+Two forces are likely to push new technologies in this direction.
+The first is the market, which may act as a barrier against misguided top-down schemes.
+Once Soviet planners decided to collectivize agriculture, Ukrainian villagers could do little to stop them.
+Mass starvation ensued.
+Not so with today’s digital technologies, the success of which will depend on decisions made by billions of consumers and millions of businesses around the world (with the possible exception of those in China).
+<P>
+That said, the power of the market constraint should not be exaggerated.
+There is no guarantee that the market will select the right technologies for widespread adoption, nor will it internalize the negative effects of some new applications.
+The fact that Facebook exists and collects information about its 2.5 billion active users in a market environment does not mean we can trust how it will use that data.
+The market certainly doesn’t guarantee that there won’t be unforeseen consequences from Facebook’s business model and underlying technologies.
+<P>
+For the market constraint to work, it must be bolstered by a second, more powerful check: democratic politics.
+Every state has a proper role to play in regulating economic activity and the use and spread of new technologies.
+Democratic politics often drives the demand for such regulation.
+It is also the best defense against the capture of state policies by rent-seeking businesses attempting to raise their market shares or profits.
+<P>
+Democracy also provides the best mechanism for airing diverse viewpoints and organizing resistance to costly or dangerous high-modernist schemes.
+By speaking out, we can slow down or even prevent the most pernicious applications of surveillance, monitoring, and digital manipulation.
+A democratic voice is precisely what was denied to Ukrainian and Tanzanian villagers confronted with collectivization schemes.
+<P>
+But regular elections are not sufficient to prevent Big Tech from creating a high-modernist nightmare.
+Insofar as new technologies can thwart free speech and political compromise and deepen concentrations of power in government or the private sector, they can frustrate the workings of democratic politics itself, creating a vicious circle.
+If the tech world chooses the high-modernist path, it may ultimately damage our only reliable defense against its hubris: democratic oversight of how new technologies are developed and deployed.
+We as consumers, workers, and citizens should all be more cognizant of the threat, for we are the only ones who can stop it.

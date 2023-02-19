@@ -1,0 +1,68 @@
+<HEADLINE>
+Whither Central Banking?
+<P>
+CAMBRIDGE – The world’s central bankers and the scholars who follow them are having their annual moment of reflection in Jackson Hole, Wyoming.
+But the theme of this year’s meeting, “Challenges for Monetary Policy,” may encourage an insular – and dangerous – complacency.
+<P>
+Simply put, tweaking inflation targets, communications strategies, or even balance sheets is not an adequate response to the challenges now confronting the major economies.
+Rather, ten years of below-target inflation throughout the developed world, with 30 more expected by the market, and the utter failure of the Bank of Japan’s extensive efforts to raise inflation suggest that what was previously treated as axiomatic is in fact false: central banks cannot always set inflation rates through monetary policy.
+<P>
+Europe and Japan are currently caught in what might be called a monetary black hole – a liquidity trap in which there is minimal scope for expansionary monetary policy.
+The United States is one recession away from a similar fate, given that, as the figure below illustrates, there will not be nearly sufficient room to cut interest rates when the next downturn comes.
+And with ten-year rates in the range of 1.5% and forward real rates negative, the scope for quantitative easing and forward guidance to provide incremental stimulus is very limited – even assuming that these tools are effective (which we doubt).
+<P>
+These developments seem to lend further support to the concept of secular stagnation; indeed, the issue is much more profound than is generally appreciated.
+Relative to what was expected when one of us (Summers) sought to resurrect the concept in 2013, deficits and national debt levels are far higher, nominal and real interest rates are far lower, and yet nominal GDP growth has been far slower.
+This suggests some set of forces operating to reduce aggregate demand, whose effect has only been partly attenuated by fiscal policies.
+<P>
+Conventional policy discussions are rooted in the (by now old) New Keynesian tradition of viewing macroeconomic problems as a reflection of frictions that slow convergence to a classical market-clearing equilibrium.
+The idea is that the combination of low inflation, a declining neutral real interest rate, and an effective lower bound on nominal interest rates may preclude the restoration of full employment.
+According to this view, anything that can be done to reduce real interest rates is constructive, and with sufficient interest-rate flexibility, secular stagnation can be overcome.
+With the immediate problem being excessive real rates, looking first to central banks and monetary policies for a solution is natural.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+We are increasingly skeptical that matters are so straightforward.
+The near-universal tendency among central bankers has been to interpret the coincidence of very low real interest rates and nonaccelerating inflation as evidence that the neutral real interest rate has declined and to use conventional monetary policy frameworks with an altered neutral real rate.
+<P>
+But more ominous explanations are possible.
+There are strong reasons to believe that the capacity of lower interest rates to stimulate the economy has been attenuated – or even gone into reverse.
+<P>
+The share of interest-sensitive durable-goods sectors in GDP has decreased.
+The importance of target saving effects has grown as interest rates have fallen, while the negative effect of reductions in interest rates on disposable income has increased as government debts have risen.
+Declining interest rates in the current environment undermine financial intermediaries’ capital position and hence their lending capacity.
+As the economic cycle has globalized, the exchange-rate channel has become less important for monetary policy.
+With real interest rates negative, it is doubtful that the cost of capital is an important constraint on investment.
+<P>
+To take the most ominous case first, with interest-rate reductions having both positive and negative effects on demand, it may be that there is no real interest rate consistent with full resource utilization.
+Interest-rate reductions beyond a certain point may constrain rather than increase demand.
+In this case, not only will monetary policy be unable to achieve full employment, it will also be unable to increase inflation.
+If demand consistently falls short of capacity, the Phillips curve implies that inflation will tend to fall rather than rise.
+<P>
+Even if interest-rate cuts at all points proximately increase demand, there are substantial grounds for concern if this effect is weak.
+It may be that any short-run demand benefit is offset by the adverse effects of lower rates on subsequent performance.
+This could happen for macroeconomic or microeconomic reasons.
+<P>
+From a macro perspective, low interest rates promote leverage and asset bubbles by reducing borrowing costs and discount factors, and encouraging investors to reach for yield.
+Almost every account of the 2008 financial crisis assigns at least some role to the consequences of the very low interest rates that prevailed in the early 2000s.
+More broadly, students of bubbles, from the economic historian Charles Kindleberger onward, always emphasize the role of easy money and overly ample liquidity.
+<P>
+From a micro perspective, low rates undermine financial intermediaries’ health by reducing their profitability, impede the efficient allocation of capital by enabling even the weakest firms to meet debt-service obligations, and may also inhibit competition by favoring incumbent firms.
+There is something unhealthy about an economy in which corporations can profitably borrow and invest even if the project in question pays a zero return.
+<P>
+These considerations suggest that reducing interest rates may not be merely insufficient, but actually counterproductive, as a response to secular stagnation.
+<P>
+This formulation of the secular stagnation view is closely related to the economist Thomas Palley’s recent critique of “zero lower bound economics”: negative interest rates may not remedy Keynesian unemployment.
+More generally, in moving toward the secular stagnation view, we have come to agree with the point long stressed by writers in the post-Keynesian (or, perhaps more accurately, original Keynesian) tradition: the role of particular frictions and rigidities in underpinning economic fluctuations should be de-emphasized relative to a more fundamental lack of aggregate demand.
+<P>
+If reducing rates will be insufficient or counterproductive, central bankers’ ingenuity in loosening monetary policy in an environment of secular stagnation is exactly what is not needed.
+What is needed are admissions of impotence, in order to spur efforts by governments to promote demand through fiscal policies and other means.
+<P>
+Instead of more old New Keynesian economics, we hope, but do not expect, that this year’s gathering in Jackson Hole will bring forth a new Old Keynesian economics.

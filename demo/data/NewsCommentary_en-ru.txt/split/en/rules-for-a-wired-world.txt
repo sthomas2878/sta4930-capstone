@@ -1,0 +1,70 @@
+<HEADLINE>
+Rules for a Wired World
+<P>
+NEW YORK: We hear much about the "new economy", based on networking and globalization.
+Is this "new economy" really new, or just the same old thing with a few new wrinkles?
+<P>
+The world has fundamentally changed.
+The first thing that changed - and is still changing - is the velocity of change itself.
+<P>
+It took 40 years for radio to get 50 million listeners in America.
+It took 13 years for television to gain a like number.
+It took 4 years for the World Wide Web to get 50 million domestic users, and its use is growing 1000% a year.
+The rule that the speed and number of transistors double every 18 months is now more than matched by the expectation that total bandwidth of the world’s communication systems will triple every 12 months.
+As bandwidth grows the cost of information transmission will move toward zero.
+<P>
+Although this historically unprecedented velocity of change makes generalizations more hazardous than usual, it is safe to say that one basic way in which the world has changed is the manner in which wealth is created.
+When this happens the old ruling classes find it difficult to see themselves as obsolete.
+Just as the landed gentry ridiculed the new industrialists who sullied farmland with huge factories, so some industrialists ridicule today’s knowledge workers, calling them hamburger flippers.
+The more strident complain of "de-industrialization."
+<P>
+It used to be thought that scarcity created value, that the more produced of a given item, the less its value.
+In a network economy the reverse is true: one fax machine is worth nothing; two fax machines something; 1000 machines connected together create real value, and that value goes up as more machines join the network.
+The same is true of networked computers.
+Every day more examples appear.
+<P>
+In the industrial economy, if you suggested that the way to make your company rich was by pricing your product at zero and giving it away, you would earn very few promotions.
+In the new economy this tactic created millionaires.
+Netscape gave away the first 40 million copies of its software.
+Sun gave away its Java language.
+Both companies prospered by establishing a standard and then selling upgrades or enhancements.
+<P>
+One problem in sorting out the truth is finding words to describe it.
+As the Agricultural Age faded, a whole new vocabulary was invented, and the world became familiar with terms like steam pressure, revolutions per minute, and assembly lines.
+As the Industrial Age fades, new words like bits, bytes, CD ROM, and floppy disks describe the new economy’s workings.
+<P>
+Economics - which is supposed to understand changes in the way things are made - is lagging behind.
+Today, economic textbooks are full of formulas, but increasingly we learn that the old paradigm is giving way to a new science of complexity.
+<P>
+The global market today is the very model of what scientists call a complex adaptive system, which are nonlinear and tend to resemble biological rather than mechanical systems.
+While we now have the ability to rent a car at a distant airport equipped with a Global Posting System to guide us unerringly to a hotel we have never seen, we still cannot put anywhere near the same of measure of reliance on any of our common economic measures.
+<P>
+This shift to a complex, information-based global economy effects the way nations behave.
+When natural resources dominated production, conquest and control of territory seemed a way to enhance national power.
+As recently as WWII, armies fought for control of the Ruhr Basin.
+Nowadays such assets may constitute a liability.
+In the Industrial Age, plants became ever larger and less easy to move.
+As long as capital consisted largely of factories, heavy equipment and raw materials, there was little fear that assets could or would move, so governments held all the cards.
+<P>
+In the new economy, intellectual capital dominates production, and it is mobile.
+It can and does move when the hand of government becomes too heavy or grasping.
+Money always goes where it wants, fleeing restrictions and staying where it is well treated.
+This old rule applies to both old and new economies.
+Nothing, however, is more portable and easy to move than intellectual capital.
+Bill Gates created a company with one of the largest market capitalizations in the world yet can move with ease through customs with "nothing to declare."
+His wife, however, may be assessed duty on her ring.
+<P>
+Moreover, it is next to impossible to find a product that consists entirely of materials and parts produced in one country.
+This extraordinary manufacturing system of value added in many countries is made possible by the fact that information moves across, over, and through national borders as if they did not exist.
+Today software written in India rides the satellite to a building site in Chicago or an accounting firm in New York, or anywhere else in the world.
+The writer requires no green card, no entrance visa or physical journey to earn his or her money.
+<P>
+This phenomenon constitutes a new kind of economic organization and changes the dynamics of how and where people earn their money.
+It is possible to have full employment in some remote village even though no businesses are hiring in that neighborhood, or even in that nation.
+<P>
+Some old rules, of course, still apply.
+Markets go up and down; mass psychology plays its role.
+Adam Smith’s "invisible hand" still operates, albeit electronically at near the speed of light.
+Yet old rules survive because they are based, not only on economic dogma, but on human nature, which is unchanged.
+What Adam Smith described as "the natural effort of every individual to better his own condition" motivates the people who drive the new economy just as it did the old.
+But the manner in which one gets rich has changed dramatically.

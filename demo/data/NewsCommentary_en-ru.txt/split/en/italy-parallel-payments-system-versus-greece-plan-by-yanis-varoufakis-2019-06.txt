@@ -1,0 +1,70 @@
+<HEADLINE>
+Fiscal Money Can Make or Break the Euro
+<P>
+ATHENS – It’s a curious feeling to watch your plan being deployed to do the opposite of what you intended.
+And that’s the feeling I’ve had since learning that Italy’s government is planning a variant of the fiscal money that I proposed for Greece in 2015.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+My idea was to establish a tax-backed digital payment system to create fiscal space in eurozone countries that needed it, like Greece and Italy.
+The Italian plan, by contrast, would use a parallel payment system to break up the eurozone.
+<P>
+Under my proposal, each tax file number, belonging to individuals or firms, would be automatically provided with a Treasury Account (TA) and a PIN number with which to transfer funds from one TA to another, or back to the state.
+<P>
+One way TAs would be credited was by paying arrears into them.
+Taxpayers owed money by the state could opt for part or all of those arrears to be paid into their TA immediately, instead of waiting for months to be paid normally.
+That way, multiple arrears could be eliminated at once, thus liberating liquidity across the economy.
+<P>
+For example, suppose Company A is owed €1 million ($1.1 million) by the state, while owing €30,000 to an employee and another €500,000 to Company B. Suppose also that the employee and Company B owe, respectively, €10,000 and €200,000 in taxes to the state.
+If the €1 million is credited by the state to Company A’s TA, and Company A pays the employee and Company B via the system, the latter will be able to settle their tax arrears.
+At least €740,000 in arrears will have been eliminated in one fell swoop.
+<P>
+Individuals or firms could also acquire TA credits by purchasing them directly, via web-banking, from the state.
+The state would make it worth their while by offering buyers significant tax discounts (a €1 credit purchased today could extinguish taxes of, say, €1.10 a year from now).
+In essence, a new dis-intermediated (middlemen-free) public debt market would emerge, allowing the state to borrow small, medium, and large sums from the private sector in exchange for tax discounts.
+<P>
+When I first discussed the idea, staunch defenders of the status quo immediately challenged the legality of the proposed system, arguing that it violated the treaties establishing the euro as the sole legal tender.
+Expert advice that I had received, however, indicated that the system passed legal muster.
+A eurozone member state’s treasury has the authority to issue debt instruments at will, and to accept them in lieu of taxes.
+It is also perfectly legal for private entities to trade among themselves in any token they choose (say, frequent flier miles).
+The line of illegality would be crossed only if the government compelled vendors to accept the digital credits as payment – something I never intended.
+<P>
+An altogether different reaction to my proposal came from those who wanted to end the euro as a single currency, but not necessarily as a common currency.
+A former chief economist of a major European bank looked at my proposals and recognized in them his own scheme for a parallel currency that Italy, Greece, and other distressed eurozone members would use to pay salaries and pensions.
+I replied that a parallel currency was both undesirable and pointless, as it would lead to a sharp devaluation of the new national currency, in which most people would be paid, while private and public debts would remain euro-denominated.
+That would be a recipe for serial, accelerating insolvencies, inevitably leading to the eurozone’s demise.
+<P>
+Then there were those who argued that an announcement of any parallel payment system would trigger a bank run and capital flight, thus pushing the country surreptitiously out of the eurozone, regardless of its intentions.
+This conjecture contains an important truth: the payment system I proposed would reduce the costs of a euro exit by clearing a rocky but navigable path to a new national currency.
+<P>
+Indeed, if my parallel, euro-denominated system had been operational in June 2015, when the European Central Bank closed down Greece’s banks to blackmail its people and government into accepting the third bailout loan, two outcomes would have been possible.
+First, transactions would have shifted massively from the banking system to our TA-based public payment system, thus reducing substantially the ECB’s leverage.
+Second, it would be common knowledge that, at the push of a button, the government could convert the new euro-denominated payment system into a new currency.
+<P>
+Would such a system have triggered a redenomination from the euro to the drachma?
+Or would it have given pause to the troika of Greece’s lenders (the European Commission, the International Monetary Fund, and the ECB), causing them to think twice before they closed down Greece’s banks and issued their Grexit threats?
+<P>
+The answer depends on the politics of both sides.
+In this sense, the parallel payment system is neutral: it can be used to bolster the eurozone just as effectively as it can be deployed to break it up.
+<P>
+In our case, the idea was to keep Greece viably within the eurozone by using the additional bargaining power afforded by the parallel payment system to negotiate the deep debt restructuring needed to revive economic growth and ensure long-term fiscal sustainability.
+As long as our creditors saw that our redenomination costs were lowered, while our demands for debt restructuring were sensible, they would think twice before threatening us with Grexit.
+Joint action by the ECB and my ministry would allow the parallel system to be portrayed as a new pillar of the euro, thus quashing any financial panic.
+By ending the popular association of the euro with permanent stagnation, the parallel system would be the single currency’s friend.
+<P>
+This brings us to Italy.
+There are two technical differences between the system I designed and Italy’s planned mini-Treasury bills (or mini-BOTs).
+First, mini-BOTs will be printed on paper, something I opposed, to avoid a grey market.
+Our total supply of digital credits would have been managed by a distributed ledger, to ensure full transparency and prevent the inflationary overproduction of credits.
+Second, the mini-BOTs will be interest-free, perpetual bonds, without future tax discounts.
+<P>
+But the real difference between the Italian scheme and mine remains political.
+The parallel payment system I proposed was designed to use the reality of lower eurozone exit costs to create new fiscal space and help civilize the monetary union in the process.
+Italy’s system is the first step toward a parallel currency by which to bring about the eurozone’s end.

@@ -1,0 +1,52 @@
+<HEADLINE>
+Getting Carbon Border Taxes Right
+<P>
+WASHINGTON, DC – A time-honored but often problematic practice in basic welfare economics is to separate efficiency considerations from distributional concerns.
+In an economy with given endowments and a given distribution of them, the argument goes, there exists a set of prices that will guide competitive behavior toward an efficient allocation of resources.
+If the result is not desirable on equity grounds, then aseparate set of redistribution policies can be used to achieve a more desirable outcome.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+There are, of course, many qualifiers to this proposition, related to imperfect information, incomplete markets, economies of scale, pricing power, and the need for redistribution to be in lump-sum form in order to preserve efficiency.
+Moreover, redistribution is often politically and institutionally unfeasible.
+Nonetheless, the “separability” of efficiency from distributional priorities remains a bedrock of the market-economy narrative.
+<P>
+This narrative shapes much of the climate-change debate, particularly the discussion of carbon border taxes, which would equalize the cost of carbon use from domestic and foreign sources, thereby preventing “carbon leakage.”
+There is little point in having unilateral carbon taxes in a world in which carbon dioxide emissions can be offshored from carbon-pricing countries to non-carbon-pricing countries, leaving total emissions much the same.
+<P>
+To be sure, carbon border taxes would face many difficult measurement problems.
+As a result of global value chains, the carbon content of most products originates in many different countries with varying climate policies.
+But, in principle, border taxes that prevent carbon leakage could approximate what a global carbon tax would do.
+<P>
+As Kenneth Rogoff recently argued, “a worldwide carbon tax would achieve in one fell swoop what myriad command-and-control measures cannot easily replicate.”The theoretical argument for border taxes advocates moving toward a global cost of carbon and then dealing with the international distributional problem through some mechanism for transferring resources to lower-income countries.
+<P>
+In practice, international negotiations have not strictly separated efficiency from distributional concerns.
+It has always been accepted that developing countries should not be asked to bear the full short-term burden of the transition to a carbon-neutral global economy.
+There has been a recognition that poorer economies will take longer to reduce CO2 emissions, consistent with a lower price of carbon in these countries, and that they will also need financial help from richer countries during the transition.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Distributional concerns would thus be addressed through a combination of “inefficient” differences in the price of carbon across countries and resource transfers.
+Some global inefficiency would be necessary, given the great difficulty of mobilizing sufficient resources to compensate developing countries for the lower growth that would result from their having the same carbon price as advanced economies.
+<P>
+A comprehensive implementation of carbon border taxes without exceptions for developing countries, but with resource transfers to them, would depart from this mixed approach and be more consistent with the basic “separability” narrative.
+Such an approach would, of course, run the risk that resources are promised but not transferred.
+Any commitment would therefore have to be ex ante credible, or perhaps even paid for upfront – as Georgetown University’s Shanta Devarajan has suggested in a domestic policy context.
+<P>
+The future debate on carbon border taxes is likely to unfold amid a shift in emphasis from international distribution to within-country redistribution.
+Over the coming decade, clean technologies will become highly competitive, owing to a dramatic increase in know-how and a more ingrained ethic of climate responsibility around the world.
+Greater expertise will tend to lower the price of carbon needed for an optimal growth trajectory.
+Likewise, the increase in climate responsibility – reflected in a shift in investor and consumer preferences toward cleaner assets and products at any given set of prices – also will make carbon neutrality somewhat easier to achieve.
+<P>
+If these trends are confirmed, then a country investing during the 2020s that considers all past costs as sunk would embark on a low-carbon growth path even with a carbon price that is lower than previously estimated.
+But for countries with large stocks of existing infrastructure, the biggest problem will be the legacy of past investments in the form of stranded assets and concentrated local unemployment, rather than the cost of new clean investments.
+This implies that managing distributional issues within countries may become more of a hurdle than redistribution across them.
+<P>
+Moreover, many middle-income economies with more recent investments in carbon-intensive infrastructure will tend to face bigger internal distribution problems than either advanced economies with already more depreciated assets, or poor countries with little existing infrastructure.
+A graph showing the magnitude of the within-country distribution problem may therefore be an inverted U-curve.
+But mobilizing international support for easing the fiscal difficulties of middle-income and lower-middle income economies is harder than mobilizing aid, on per capita income grounds, for the poorest countries.
+And yet partly concessional forms of support are needed for countries such as India and some countries in Eastern Europe.
+<P>
+Carbon border taxes could help the world move more efficiently toward sustainability.
+But for such taxes to be part of a consensual multilateral approach rather than a new source of conflict, policymakers must tackle distributional issues upfront as part of a strategic design, not as an afterthought.

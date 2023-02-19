@@ -1,0 +1,58 @@
+<HEADLINE>
+Lies, Damn Lies, and European Growth Statistics
+<P>
+ATHENS – “Greece has at last returned to economic growth.”
+That was the official European Union storyline at the end of 2014.
+Alas, Greek voters, unimpressed by this rejoicing, ousted the incumbent government and, in January 2015, voted for a new administration in which I served as finance minister.
+<P>
+Last week, similarly celebratory reports emanated from Brussels heralding the “return to growth” in Cyprus, and contrasting this piece of “good” news to Greece’s “return to recession.”
+The message from the troika of European bailout lenders – the European Commission, the European Central Bank, and the International Monetary Fund – is loud and clear: “Do as we say, like Cyprus has done, and you will recover.
+Resist our policies, by electing people like Varoufakis, and you will suffer the consequences of further recession.”
+<P>
+This is a powerful story.
+Except that it is built on a disingenuous lie.
+Greece was not recovering in 2014, and Cyprus’s national income has not recovered yet.
+The EU’s claims to the contrary are based on an inappropriate focus on “real” national income, a metric bound to mislead during periods of falling prices.
+<P>
+If asked whether you are better off today compared to a year ago, you would answer in the affirmative if your money income (that is, its dollar, pound, euro, or yen value) rose during the previous 12 months.
+In the inflationary times of yore, you might have also accompanied your response with the (reasonable) complaint that increases in the cost of living eroded your increased money income.
+<P>
+To account for this gap between your money income and your capacity to buy things with it, economists focused on your purchasing power by adjusting your money income for average prices.
+<P>
+A country’s aggregate income is measured in a similar way.
+Economists begin by summing up everyone’s money incomes to derive nominal Gross Domestic Product – or, for the sake of simplicity, the country’s total money income (N).
+Then they adjust N for changes in average prices (P) by dividing N by P. This ratio is the country’s “real” income (R = N/P).
+<P>
+During inflationary times, the purpose of calculating the figure for real national income, R, was that it stopped us from becoming overexcited by reports that money income had increased substantially.
+For example, at a time when average prices were rising by, say, 8%, a 9% increase in money income translated into a mere 1% real growth rate in our capacity to buy stuff.
+<P>
+So, clearly, in inflationary times, the number for real national income, R, was the one to look at before rejoicing that the economy was growing.
+Only when R rose strongly did we have good cause to believe that economic activity was rising.
+<P>
+But in periods of deflation (when prices are falling), like those encountered in Greece and in Cyprus today, R can be deeply misleading.
+Consider the hypothetical depiction of a deflationary economy in the table below.
+<P>
+<P>
+From Year 1 to Year 2, the country’s money income (N) shrank by 2% (from 100 to 98), while the index of average prices fell by 1% (from 100 to 99).
+In the following year (Year 3), the recession deepened, with a further 2.04% drop in money income (from 98 to 96) and an even larger fall in prices as deflation hit 6.06%.
+<P>
+This is the picture of an economy sliding from recession toward something reminiscent of depression: falling incomes and even faster declines in prices.
+But look at the last row: “Real” national income seems to have rebounded dramatically in Year 3, having risen by a healthy 4.28%!
+<P>
+But it is a mirage – an illusion caused by falling prices.
+Put simply, in deflationary economies, where people and the state bear significant debts, only increases in money (as opposed to real) income are cause for celebration.
+<P>
+One may retort that an increase in real national income, R, is always good news, even if money incomes are falling.
+For if prices (P) are falling faster than money incomes (N), surely this means that we can afford to buy more for less.
+Is this not a good thing?
+<P>
+It certainly is – but only in the absence of the usual spanner in the works: debt.
+When people and governments are deep in debt, and as long as they pay positive interest on that debt, declining money income is a recipe for collective insolvency.
+<P>
+This is what was happening in Greece in 2014, when R had risen by 0.8% but P had fallen by 2.6%.
+It is also what was happening in Cyprus during the last quarter of 2015, with R at 0.4% in January 2016 but P at -0.75%.
+Indeed, much of the European periphery is caught in a deflationary mire, with money incomes falling, debts skyrocketing (as a share of money incomes), and banks drowning in non-performing loans that prevent them from lending even to profitable enterprises.
+<P>
+For several years now, Europe’s policy leaders have been paralyzed.
+They have invested too much political capital in their failed policies to attempt to reverse course.
+But no one should be fooled by statistical legerdemain: Focusing on real national income data during a period of deflation is merely an effort to repackage an economic depression as a great success story.

@@ -1,0 +1,57 @@
+<HEADLINE>
+Genetics for the People?
+<P>
+LONDON – “Your genetic information should be controlled by you,” declares an advertisement for the American direct-to-consumer (DTC) genetic-testing firm 23andMe.
+Amid the current furor over electronic eavesdropping, the notion that individuals should decide who can access their personal data is particularly appealing.
+But whether 23andMe is practicing what it preaches remains dubious, at best.
+<P>
+In fact, even some “techno-libertarians,” who believe that government should not regulate new developments in biotechnology, have supported the US Food and Drug Administration’s decision – outlined in a scathing letter to 23andMe CEO Anne Wojcicki last November – to prevent the firm from marketing its tests pending further scientific analysis.
+“I’d like to be able to argue that the [FDA] is wantonly standing in the way of entrepreneurism and innovation by cracking down on 23andMe,” wrote Matthew Herper in Forbes.
+“I wish that was the story I’m about to write, but it’s not.”
+<P>
+According to the FDA, 23andMe’s marketing of an unapproved Personal Genome Service (PGS) violated federal law, because, after six years, the firm still had not proved that the tests actually work.
+<P>
+23andMe is also coming under fire from its users.
+Just five days after the FDA sent its letter, a California woman, Lisa Casey, filed a $5 million class-action lawsuit against the firm, alleging false and misleading advertising.
+<P>
+Doubts about 23andMe’s PGS go back a long way.
+In 2008, the American Society of Clinical Oncology commissioned a report that declared that the partial type of genetic analysis offered by 23andMe had not been clinically proved to be effective in cancer care.
+Two years later, the US Government Accountability Office concluded after a lengthy investigation that DTC genetic tests provide “misleading” results – a situation that is complicated further by “deceptive marketing.”
+<P>
+What 23andMe offered was a $99 test for some 250 genetically linked conditions, based on a partial reading of single nucleotide polymorphisms (SNPs) – points where individuals’ genomes vary by a single DNA base pair.
+Given that DTC genetic tests target only a fraction of the human genome’s three billion markers, and various companies sample different SNPs, different tests may return disparate results for the same customer, who might then make serious medical decisions based on inaccurate information.
+In this context, it is unsurprising that even those who oppose regulation in general see the need for it in the case of DTC testing.
+<P>
+But the issue goes beyond inaccuracy.
+As the journalist Charles Seife has pointed out, the retail genetics test is “meant to be a front end for a massive information-gathering operation against an unwitting public.”
+Indeed, when 23andMe customers log in to their accounts, they are invited to fill out surveys about their lifestyle, family background, and health, adding epidemiological value to the genetic data, which are then used by the firm’s research arm, 23andWe.
+<P>
+In providing this information, 23andMe’s customers are building a valuable “biobank” for the company.
+Given that the United States decided not to create a national biobank like the United Kingdom’s, owing to the high set-up costs – estimated at about a billion dollars – 23andMe may well view its growing biobank as saving it a massive outlay.
+<P>
+Some 60% of 23andMe customers have agreed to provide the requested information.
+Of course, one could argue that they are not “an unwitting public,” but altruistic volunteers – so generous, in fact, that, beyond paying for the service, they hand over the value of their subsequent labor in providing epidemiological data.
+<P>
+Tom Sawyer pulled off that business strategy when he persuaded his friends to pay him for the privilege of taking over his hated chore, painting the picket fence.
+But most scientific research subjects either receive compensation or contribute their time free of charge; they do not pay to participate.
+<P>
+Casey’s lawsuit has latched onto this practice, which her attorney calls, “a very thinly disguised way of getting people to pay [23andMe] to build a DNA database.”
+Even 23andMe admits that the biobank is the core of the company’s strategy.
+“The long game here is not to make money selling kits, although the kits are essential to get the base level data,” says board member Patrick Chung.
+“Once you have the data, [23andMe] does actually become the Google of personalized health care.”
+<P>
+That is exactly the problem, according to Seife.
+The massive corporate data store that Google has accumulated through all of our individual searches has become its most valuable asset.
+“By parceling out that information to help advertisers target you, with or without your consent, Google makes more than $10 billion every quarter,” Seife writes.
+In other words, users have become the product.
+<P>
+To be sure, the 23andMe Privacy Statement stipulates that it “uses Genetic and Self-Reported Information [only] from users who have given consent.”
+But it also includes a less prominently displayed qualifier: “If you do not give consent…we may still use your Genetic and/or Self-Reported Information for R&D purposes.”
+This “may include disclosure of Aggregated Genetic and Self-Reported Information to third-party non-profit and/or commercial research partners who will not publish that information in a peer-reviewed scientific journal.”
+<P>
+In other words, commercial use of non-identifiable information is still allowed without donors’ explicit consent.
+That is what worries libertarians – and anyone else who is concerned about the expansion of online efforts to gather information about individuals.
+<P>
+As a 23andMe blog post by Wojcicki puts it, “Wikipedia, YouTube, and MySpace have all changed the world by empowering individuals to share information.
+We believe this same phenomenon can revolutionize health care.”
+But if individuals share information involuntarily, it is the company – not its customers – that will be empowered.

@@ -1,0 +1,65 @@
+<HEADLINE>
+Public Policy’s Senior Moment
+<P>
+EDINBURGH – A century ago, children outnumbered the elderly by as much as ten to one in most European countries.
+Today, there are as many people over the age of 65 as there are under the age of 16.
+In the United Kingdom, roughly one in six people is 65 or older, compared to one in eight Americans, and one in four Japanese.
+<P>
+This shift has been powered by declining birth and infant-mortality rates in the first half of the twentieth century, together with rising life expectancy in recent decades.
+Whatever the causes, many are concerned that, in the coming decades, rapidly aging populations will increasingly strain health, welfare, and social-insurance systems, putting unsustainable pressure on public budgets.
+<P>
+But, while such fears are not entirely unfounded, discussions about population aging tend to exaggerate the trend’s scale, speed, and impact, owing to a fundamental misperception about how populations grow older.
+Unlike people, populations do not follow the life cycle of birth, aging, and death.
+And, while a population’s age distribution may change, age becomes an unreliable way to measure a population’s productivity as lifespans increase.
+<P>
+Age has two components: the number of years a person has lived (which is easy to measure for individuals and populations) and the number of years a person has left to live (which is unknown for individuals, but possible to predict for populations).
+As mortality declines, remaining life expectancy (RLE) increases for people of all ages.
+This distinction is crucial, because many behaviors and attitudes (including those that are health-related) may be linked more strongly to RLE than to age.
+<P>
+The standard indicator of population aging is the old-age dependency ratio (OADR), which divides the number of people who have reached the state pension age by the number of working-age adults.
+But this approach fails to distinguish between being of working ageand actually working, while classifying all people above the statutory pension age as “dependents.”
+<P>
+In fact, social and economic shifts have broken the link between age and dependency.
+Young people spend an increasing number of years in education, while many older workers retire early, implying that they have sufficient personal savings.
+In the UK, the 9.5 million working-age dependents (those who are not in paid employment) outnumber those who are above the state pension age and do not work.
+<P>
+Moreover, the OADR disregards how, over time, rising life expectancies effectively make people of the same chronological age younger.
+In 1950, a 65-year-old British woman had an average life expectancy of 14 years; today, she can expect to live another 21 years (the figures are 12 and 18 years, respectively, for men).
+<P>
+Many other countries, especially in the developed world, have experienced similar shifts, with life expectancy having increased the most in Japan.
+Meanwhile, some Eastern European countries still lag behind, with no increase having been observed in Russia since 1950 (see table).
+<P>
+<P>
+A better measure of population aging’s impact is the real elderly dependency ratio (REDR), which divides the total number of people with a RLE of 15 years or less by the number of people actually in employment, regardless of their age.
+This measure accounts for the real impact of changes in mortality, by allowing the “old age” boundary to shift as advances in health prolong people’s productive lifespans.
+<P>
+In recent decades, as the OADR has risen in advanced countries, the REDR has declined.
+It has, however, stabilized, and is likely to increase gradually over the next couple of decades (see graph).
+In Germany and Italy, the REDR has been almost flat for two decades, owing to slower employment growth and lower birth rates than elsewhere in the developed world.
+<P>
+<P>
+Immigration has played an important role in depressing many countries’ REDR by raising employment rates.
+Increased labor-force participation among women – who spend a significantly higher share of their lives in paid employment than they did 50 years ago, when most women withdrew from it after marriage or childbirth – has also helped to lower REDRs.
+<P>
+Of course, failure to support these trends has the opposite effect.
+Japan – where opposition to immigration and failure to embrace gender equality have led to a rapidly rising REDR – is a case in point.
+A low female-employment rate has also raised India’s REDR, albeit less drastically.
+Russia, too, has experienced a substantial increase in its REDR, owing to post-communist economic dislocation.
+But the rest of the major emerging economies still have relatively low REDRs.
+<P>
+In short, the REDR tells a very different story from the OADR, with at least three important policy implications.
+First, population aging is no excuse for trimming the welfare state or treating pension arrangements as unsustainable.
+After all, the phenomenon has been underway for more than a century, and, in some respects, its social and economic impact has been declining in recent decades.
+<P>
+Moreover, the REDR underscores that rising demand for health care and social services is not a function of having a larger share of people above a specific age.
+Factors like progress in medical knowledge and technology, and the increasing complexity of age-related comorbid conditions, are far more relevant.
+<P>
+In fact, while age-specific disability rates seem to be falling, recent generations have a worse risk-factor profile than older ones, owing to trends such as rising obesity rates.
+The capacity of health-care systems to cope with increasing longevity will therefore depend on the changing relationship between morbidity and RLE.
+<P>
+The third implication concerns higher education.
+Elderly people with university degrees (a small minority of their generation) enjoy a substantial longevity advantage.
+If the life-enhancing effect of higher education persists, population aging can be expected to accelerate further, as the younger, larger, and more highly educated generations grow older.
+<P>
+Preparing for and coping with changing demographics requires a more nuanced understanding of what population aging really means.
+For that, the right indicator – the REDR – is essential.

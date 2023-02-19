@@ -1,0 +1,66 @@
+<HEADLINE>
+A Tech Role Model for Nigeria
+<P>
+LAGOS – In 2018, African start-ups were celebrating: they had raised nearly $1.2 billion in equity – a 108% increase from the previous year.
+And last year, Nigerian financial-technology (fintech) companies set an even more impressive record, raising $360 million from international investors in a single month (November).
+Making the most of the Nigerian tech sector’s current boom, however, will take work.
+The COVID-19 pandemic should be a spur to action.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Nigeria is certainly on a promising path.
+Already, it is Africa’s largest technology market by Internet users and mobile subscriptions, and it boasts the second-highest tech-startup density on the continent.
+Lagos is fast-becoming a tech hub, with more than 400 startups valued at a total of more than $2 billion.
+Add to that a burgeoning population, and Nigeria is beginning to look to like India five years ago.
+<P>
+India has long been a leading outsourcing destination for global companies, particularly in the technology sector.
+But it has raised its profile significantly over the last five years, producing 19 “unicorns” (companies valued over $1 billion).
+On the Global Innovation Index, India has climbed from 81st place in 2015 to 52nd last year, when it was also the world’s third most attractive investment destination for technology transactions.
+This year, India’s information-technology and back-office sector is expected to grow 7.7%, to $191 billion.
+<P>
+Three key policies put the Indian tech sector on this positive trajectory: lowering the cost of mobile data, implementing a national identification program with an open-source application program interface (API), and embracing digital payments.
+To secure India-style tech growth, Nigeria should pursue a similar approach.
+<P>
+One gigabyte of mobile data costs $0.26 in India – the lowest rate in the world – compared to $12.37 in the United States, $6.66 in the United Kingdom, and $8.53, on average, globally.
+Indian consumers owe their low data costs to Reliance Jio, a young telecom operator that gained a foothold by offering ultra-cheap 4G service.
+To compete, other providers had to lower their rates significantly.
+<P>
+In Nigeria, data rates are among the lowest in Africa, with consumers in just four countries (Mozambique, Rwanda, Egypt, and Sudan) paying less.
+But the African average remains nearly nine times that of Asia, despite some of the world’s fastest growth rates for mobile-phone subscription and Internet penetration.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In lieu of a single player changing the competitive landscape, Nigeria’s government and private sector should share the burden of bringing down mobile-data prices.
+This means going beyond ordering providers to lower their rates, as the Nigerian government recently did, to liberalize and, along with private companies, boost investment in the telecoms sector.
+<P>
+The next step toward fostering a dynamic tech sector – and, more broadly, a digitized economy – is to create a national-identification program with an open-source API on par with India’s Aadhaar program, which assigns Indians a unique digital ID with which they can access government benefits and financial services.
+India’s government released the Aadhaar API so that developers could integrate the program into their systems.
+Now, private companies can tap into the Aadhaar database to perform credit checks, customer verification, online payments, and more.
+Indians can now conduct virtually any transaction – pay rent, order a ride to work, or buy lunch – using their Aadhaar ID.
+<P>
+To some extent, Nigeria is on the right track.
+In 2014, it introduced an electronic identity (e-ID) program, which offers a chip-based card to everyone with a national identification number.
+But its system remains highly fragmented, with 13 separate federal government agencies offering IDs.
+With no communication among agencies, duplicate IDs often are issued.
+Nigeria’s government should urgently create a single unified program similar to Aadhaar and release the API to private developers.
+<P>
+This would facilitate progress in the third key area: creating a cashless economy.
+India accelerated this process with a forceful demonetization in 2016, when the government suddenly removed 86% of the cash in circulation – a move that, though far from flawless, did drastically reduce the use of cash in the country.
+<P>
+It helped that the Indian government took steps to encourage all forms of digital payments, including the use of e-wallets.
+From October to December 2016, during demonetization, e-wallet transactions surged by 163%.
+Meanwhile, private companies increased their offerings of mobile-money services.
+For example, the mobile operator Airtel launched banking services in 2017 to cater to its 250-million-subscriber base.
+<P>
+Nigeria wants to replicate India’s transition to a cashless economy, but its plan to do so by taxing cash may backfire.
+Instead, it should focus on promoting the use of mobile money.
+Such transactions accounted for only 1.4% of Nigeria’s GDP last year, compared to 44% in Kenya.
+This can be blamed partly on Nigeria’s central bank, which previously limited the banking services in which mobile operators could engage, promoting instead a bank-based regulatory framework for mobile money.
+Fortunately, the central bank lifted these restrictions this year, allowing major telecom companies like MTN to start providing mobile-money services.
+<P>
+India has shown that structural reforms are essential to enable tech companies to innovate and grow.
+Without cheap data, users cannot access the next great e-commerce website.
+Without an open-API identification system and effective mobile-money platforms, the economy cannot go cashless.
+Nigeria is well positioned to apply these lessons.
+With the pandemic placing a premium on technologies that facilitate social distancing, it should start now.

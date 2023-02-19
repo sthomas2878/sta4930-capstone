@@ -1,0 +1,58 @@
+<HEADLINE>
+Is the Financial Sector Safe Enough Yet?
+<P>
+CAMBRIDGE – A decade after the global financial crisis, policymakers worldwide are still assessing how best to prevent bank failures from tanking the economy again.
+Two recent publications – one from the US Department of the Treasury, and another by Federal Reserve economists – provide an indication of where we are.
+<P>
+The US Treasury report examined whether to replace the 2010 Dodd-Frank Act’s regulator-led process for resolving failed mega-banks – the Orderly Liquidation Authority (OLA) – with a solely court-based mechanism.
+The Treasury’s study was undertaken under instructions from President Donald Trump, who was responding to pressure from several Republican congressional leaders – such as Representative Jeb Hensarling of Texas, the chair of the House Financial Services Committee – who advocate replacing regulators with courts.
+<P>
+Ultimately, while the Treasury extolled the virtues of basic bankruptcy for failed banks, it rejected repealing regulators’ powers to lead bank restructurings.
+Hensarling expressed deep disappointment with the Treasury’s conclusion, and he and his colleagues continue to insist that Dodd-Frank is an example of inappropriate government meddling that raises the risks of taxpayer-funded bailouts.
+<P>
+But, as the Treasury recognized, eliminating the regulators is a problematic proposition.
+Restructuring banks in a crisis requires planning, familiarity with the bank’s strengths and weaknesses, knowledge of how best to time the bankruptcy in a volatile economy, and a capacity to coordinate with foreign regulators.
+The courts cannot fulfill these tasks, especially not in the time currently allotted for a bank bankruptcy – a 48-hour weekend – without regulators’ prior planning and immediate advice, as well as international coordination.
+<P>
+Moreover, if multiple mega-banks sank simultaneously, bankruptcy courts could not manage the economy-wide crisis that would follow.
+They lack the training to devise a nationwide recovery plan.
+And they are in no position to coordinate proceedings with foreign regulators.
+<P>
+Given all of this, eliminating regulator-led restructuring would amount to a big step backward.
+So the Treasury’s report is good news, especially because, without Treasury support, the House of Representatives may well stop pushing for this change.
+<P>
+Yet the second recent publication – by several Fed economists – suggests that there is work to be done.
+That report’s main conclusion is that restructuring planning is not yet reflected in the market’s pricing of bank bonds.
+<P>
+After the crisis, studies by International Monetary Fund staff and others concluded that banks needed much more loss-absorbing equity.
+In 2009, only five cents of every dollar of funding for many major banks came from equity; the rest was debt (deposits, overnight loans, and long-term loans).
+So if the bank lost six cents in its operations per dollar of debt, some creditor could not be fully paid.
+Seeking to avoid losses, many creditors would rush to cash out, putting pressure on the entire banking system and potentially triggering a run.
+<P>
+According to the IMF study, most banks could have weathered the crisis effectively if 15 cents of every dollar of funding had come from equity.
+Yet banks still hold only eight or nine cents per dollar of funding in equity, despite regulators’ pushed for an increase , and the biggest banks have called for reducing even this suboptimal ratio.
+<P>
+Regulators and bankers have sought a middle ground to boost safety.
+In addition to the eight cents of equity they are holding, banks are now aiming to hold another eight cents per dollar of debt that could be turned into equity in the course of a weekend.
+In such a scenario, a damaged bank could absorb more losses and remain in operation, diminishing creditors’ incentive to run.
+<P>
+But there is a potential hitch.
+Under the current plan, certain creditors are designated in advance to absorb a failed bank’s losses once the equity is wiped out.
+Those creditors’ debts are thus riskier, and should be more expensive to the bank than the debt that is not designated to be turned into equity.
+Yet the Fed economists conclude that, in the market, this is not the case.
+Why?
+<P>
+The first possibility is rather optimistic: financial markets don’t think there could be another financial crisis during the life of the existing debt.
+But could markets really believe that there is zero chance of a crisis in the next decade?
+The risks of, say, a trade war or a fiscal crisis (when the projected trillion-dollar deficits are reached) are real, apparent, and priced by volatile stock markets.
+<P>
+Another more neutral possibility is that markets aren’t pricing the different types of debt differently because they do not understand that the plan involves hitting some creditors hard and keeping others safe.
+But this is also unlikely, because the plan has been well publicized in financial circles, and ratings agencies like Moody’s count the loss-absorbing debt as riskier than banks’ regular debt.
+<P>
+The third explanation is more ominous.
+Maybe financial markets understand the plans, but don’t (yet) find them credible.
+Weekend restructuring of mega-banks has never been tried, and commentators still see potential hurdles to overcome.
+Maybe knowledgeable investors assume that, ultimately, banks and the government will not treat the designated loss-absorbing creditors any differently than others.
+Either everyone will go down, or everyone will get bailed out.
+<P>
+If this is the reason, it is disappointing, given how much work has gone into developing both the regulatory-led and the court-led restructuring mechanisms.

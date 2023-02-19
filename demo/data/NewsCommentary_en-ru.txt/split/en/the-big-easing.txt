@@ -1,0 +1,46 @@
+<HEADLINE>
+The Big Easing
+<P>
+BRUSSELS – More than three years after the financial crisis that erupted in 2008, who is doing more to bring about economic recovery, Europe or the United States?
+The US Federal Reserve has completed two rounds of so-called “quantitative easing,” whereas the European Central Bank has fired two shots from its big gun, the so-called long-term refinancing operation (LTRO), providing more than €1 trillion ($1.3 trillion) in low-cost financing to eurozone banks for three years.
+<P>
+For some time, it was argued that the Fed had done more to stimulate the economy, because, using 2007 as the benchmark, it had expanded its balance sheet proportionally more than the ECB had done.
+But the ECB has now caught up.
+Its balance sheet amounts to roughly €2.8 trillion, or close to 30% of eurozone GDP, compared to the Fed’s balance sheet of roughly 20% of US GDP.
+<P>
+But there is a qualitative difference between the two that is more important than balance-sheet size: the Fed buys almost exclusively risk-free assets (like US government bonds), whereas the ECB has bought (much smaller quantities of) risky assets, for which the market was drying up.
+Moreover, the Fed lends very little to banks, whereas the ECB has lent massive amounts to weak banks (which could not obtain funding from the market).
+In short, quantitative easing is not the same thing as credit easing.
+<P>
+The theory behind quantitative easing is that the central bank can lower long-term interest rates if it buys large amounts of longer-term government bonds with the deposits that it receives from banks.
+By contrast, the ECB’s credit easing is motivated by a practical concern: banks from some parts of the eurozone – namely, from the distressed countries on its periphery – have been effectively cut off from the inter-bank market.
+<P>
+A simple way to evaluate the difference between the approaches of the world’s two biggest central banks is to evaluate the risks that they are taking on.
+<P>
+When the Fed buys US government bonds, it does not incur any credit risk, but it is assuming interest-rate risk.
+The Fed acts like a typical bank engaging in what is called “maturity transformation”: it uses short-term deposits to finance the acquisition of long-term securities.
+With short-term deposit rates close to zero and long-term rates at around 2% the Fed is earning a nice “carry,” equal to about 2% per year on bond purchases totaling roughly $1.5 trillion over the course of its quantitative easing, or about $30 billion.
+<P>
+Any commercial bank contemplating a similar operation would have to take into account the risk that its cost of funds increases above the 2% yield that it earns on its assets.
+The Fed can determine its own cost of funds, because it can determine short-term interest rates.
+But the fact that it would inflict losses on itself by increasing rates is likely to reduce its room for maneuver.
+Its recent announcement that it will keep interests low for an extended period thus might have been motivated by more than concern about a sluggish recovery.
+<P>
+By contrast, the ECB does not assume any maturity risk with its LTRO, because it has explicitly stated that it will charge banks the average of the interest rates that will materialize over the next three years.
+It does, however, take on credit risk, because is lending to banks that cannot obtain funding anywhere else.
+<P>
+The large increase in the ECB’s balance sheet has led to concern that its LTRO might be stoking inflation.
+But this is not the case: the ECB has not expanded its net lending to the eurozone banking system, because the deposits that it receives from banks (about €1 trillion) are almost as large as the amounts that it lends (€1.15 trillion).
+This implies that there is no inflationary danger, because the ECB is not creating any substantial new purchasing power for the banking system as a whole.
+<P>
+The banks that are parking their money at the ECB (receiving only 0.25% interest) are clearly not the same ones that are taking out three-year loans at 1%.
+The deposits come largely from northern European banks (mainly German and Dutch), and LTRO loans go largely to banks in southern Europe (mainly Italy and Spain).
+In other words, the ECB has become the central counterparty to a banking system that is de facto segmented along national lines.
+<P>
+The real problem for the ECB is that it is not properly insured against the credit risk that it is taking on.
+The 0.75% spread between deposit and lending rates (yielding €7.5 billion per year) does not provide much of a cushion against the losses that are looming in Greece, where the ECB has €130 billion at stake.
+<P>
+The ECB had to act when the eurozone’s financial system was close to collapse at the end of last year.
+But its room for maneuver is even more restricted than that of the Fed.
+Its balance sheet is now saddled with huge credit risks over which it has very little control.
+It can only hope that politicians deliver the adjustments in southern Europe that would allow the LTRO’s recipient banks to survive.

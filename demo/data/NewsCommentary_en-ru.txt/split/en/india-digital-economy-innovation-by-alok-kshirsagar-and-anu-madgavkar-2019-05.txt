@@ -1,0 +1,62 @@
+<HEADLINE>
+Turbocharging India’s Digital Economy
+<P>
+MUMBAI – India is taking a great digital leap.
+Having reaped substantial rewards from building up its core digital sectors, such as information technology and business process management, the country is now seizing new digital opportunities in many more sectors, such as agriculture, education, energy, financial services, health care, and logistics.
+These opportunities could deliver up to $500 billion of economic value by 2025.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+India’s digitization process has been the second-fastest among the 17 mature and emerging economies we studied.
+Admittedly, it started from a low base, but in the last five years alone, the number of Internet subscribers has almost doubled, reaching 560 million.
+<P>
+Last year, Indians downloaded 12.3 billion apps, second only to the Chinese, and they spent an average 17 hours per week on social media, more than Americans.
+As a result, Indians used more than 54 times as much data, on average, in 2018 than in mid-2016.
+<P>
+Both the public and private sectors have played an important role in driving digitization.
+Many public services are now accessible only when linked to the government’s Aadhaar biometric digital-identification program, in which over 1.2 billion people are now enrolled.
+Aadhaar has thus helped to propel the development of many other digital services.
+About 80% of Indians now have digital bank accounts, with the vast majority of government benefits paid directly into Aadhaar-linked accounts.
+The Goods and Services Tax Network – a government platform for taxing wholesale and retail sales – has likewise created a powerful incentive for businesses to digitize their operations.
+<P>
+The private sector has facilitated this process, as competition has helped to reduce data costs by 95% from 2013 to 2017 and to make smartphones affordable.
+Falling costs have fueled rising data use: last year, Indian data subscribers used 8.3 GB of data per month, on average, compared to 5.5 GB used by Chinese subscribers.
+Together with rapid growth in telecom infrastructure, lower costs have also helped to reduce the digital divide: in the last four and a half years, India’s middle- and low-income states have accounted for 45% of the 293 million new Internet subscribers.
+<P>
+Digital business leaders are now spearheading even more innovative ways to reach and serve customers.
+New digital ecosystems are springing up across the economy, transforming business models and delivering huge productivity, efficiency, and growth benefits.
+<P>
+Some of the sectors where the most value stands to be created – such as financial services, agriculture, health care, logistics, education, and energy – have not traditionally had technology at their core.
+We estimate that each of these sectors could create between $10 billion and $150 billion of incremental economic value in 2025.
+<P>
+In financial services, the surge in digital payments and related data is already enabling flow-based lending, whereby actual patterns of receipts and payments – rather than loan applications – are used to evaluate potential borrowers.
+India’s largest bank, the State Bank of India, has recorded a 50% increase in lending to small and medium-size enterprises since switching to an automated flow-based system.
+<P>
+In agriculture, farmers are not only seizing the credit opportunities created by digital financial services; they are also using digital applications to gain specialized knowhow on, say, optimizing fertilizer and pesticide inputs.
+Moreover, farmers are increasingly selling their produce in online marketplaces, which offer better prices.
+One such platform, the government’s electronic National Agriculture Market (eNAM), is available in 585 locations in 16 states, and could increase the prices realized by farmers by 15%.
+<P>
+In health care, companies like Apollo Hospitals are using telemedicine to improve access in rural areas, where doctors are often few and far between.
+We estimate that telemedicine could eventually account for half of all outpatient consultations in India, giving rural citizens access to more qualified practitioners than they would be able to reach in person.
+<P>
+In logistics, online freight-forwarding platforms offer services like instant pricing and booking, cargo tracking, and centralized documentation.
+Such platforms are already reducing costs and boosting efficiency in what has historically been a highly inefficient sector.
+<P>
+The benefits of digitization may also extend to workers themselves, though this will require retraining, skills upgrading, and redeployment in many cases.
+We estimate that, by 2025, technology could eliminate between 40-45 million mostly routine jobs in areas such as clerical services and data entry.
+But it will also help to create some 60-65 million higher-quality jobs.
+Workers will need to be ready to make the shift.
+<P>
+In facilitating this and other digitization-related processes, India’s government still has plenty of work to do.
+Among other things, it should continue to use digital technology to improve public services, while working with the private sector to develop further the country’s digital infrastructure.
+Making data available to entrepreneurs creating useful apps and services would also help, though this requires enacting legal provisions for data privacy and consent-based frameworks, which in turn rely on improved consumer literacy regarding the risks and benefits of digital technologies.
+<P>
+When it comes to tapping the full potential of digitization, the early signs are more than encouraging.
+Between its huge and growing Internet-consumer base and its eagerness to innovate, India seems well positioned to unleash the dynamism of a truly digital economy.

@@ -1,0 +1,62 @@
+<HEADLINE>
+How AI Can Promote Social Good
+<P>
+BOSTON – Artificial intelligence is now increasingly present in corporate and government decision-making.
+And although AI tools are still largely in the hands of institutions that focus on profit before purpose, these new technologies could be equally powerful in promoting social good.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+To that end, a joint effort by MIT Solve and the Patrick J. McGovern Foundation shows how AI applications can be used to extend prosperity to economically marginalized groups.
+Already, entrepreneurs are exploring how AI can be used to address some of the world’s thorniest challenges in thoughtful, creative, and previously impossible ways.
+<P>
+AI is most exciting when it can both absorb large amounts of data and identify more accurate correlations (diagnostics), while leaving the causational conclusions and ultimate decision-making to humans.
+This human-machine interaction is particularly important for social-impact initiatives, where ethical stakes are high and improving the lives of the marginalized is the measure of success.
+<P>
+What’s more, algorithms are only as good as the data that train them, and the choice of which data to include in AI models is inherently biased.
+Or, as the saying goes, “bias in, bias out.”
+<P>
+Take the issue of financial inclusion and creditworthiness.
+For people without a bank account, getting a loan or credit card is near impossible.
+Yet many of the unbanked can prove their creditworthiness in other ways, such as through a history of paying utility and phone bills on time.
+<P>
+Destácame, an AI-based platform that now serves 1.3 million people in Chile and Mexico, uses an algorithm to create an alternative credit score using data not reported to credit bureaus.
+By proving its clients’ ability to repay loans, the platform helps to reduce the barriers that often prevent financial institutions from lending to them.
+<P>
+In education and health, meanwhile, AI can dramatically reduce the cost of providing high-quality services, and improve outcomes.
+Century Tech’s educational platform, for example, makes teachers more productive by automating rote and administrative tasks.
+And by understanding how each student learns, it provides customized individual plans aimed at improving their performance in school.
+<P>
+In a similar vein, Ada Health serves both patients and health workers.
+The platform’s conversational interface, backed by natural language processing, gives patients instant personalized medical insights that help them to identify appropriate next steps.
+Its AI engine and curated medical knowledge base, meanwhile, provide semi-skilled health professionals such as community health workers, pharmacists, nurses, and midwives with clinical decision-support tools.
+At the frontlines of health-service delivery where worker shortages are acute, such support can make the difference between sickness and health.
+<P>
+Yet there is a limit to what bots can do.
+Although AI tools can triage customer-service requests or even make psychological support available to larger numbers of people, forging a genuinely deep connection requires a human touch.
+<P>
+The ISeeChange platform, for example, combines natural language processing with user-generated data and sensor networks to give cities critical data to improve their climate resilience, infrastructure design, and even public safety.
+Residents submit detailed stories and data about their neighborhoods to the platform, which then aggregates these individual experiences into climate models.
+<P>
+Crisis Text Line, meanwhile, uses machine learning to analyze words and phrases associated with youths in crisis through text messages, and triages messages to ensure at-risk users get help fast.
+By processing vast amounts of data, the organization has identified some of the most likely predictors of the need for an emergency response.
+For example, it found a high correlation between the word “ibuprofen” and attempts at self-harm.
+By using AI, messages containing this word are now prioritized in the queue.
+But the outreach is done by human volunteer counselors who contact the distressed texter.
+<P>
+These examples show how new business models are helping to extract additional value from big data and AI technologies, benefiting those previously excluded from the data economy.
+That is why MIT Solve and the Patrick J. McGovern Foundation are collaborating to support tech entrepreneurs solving global problems.
+We will continue to identify promising ventures in their early stages; equip them with the capacity to grow, scale, and diversify; and champion their stories to bolster the use of AI for social good.
+And Solve judges will select a new cohort of tech entrepreneurs at the upcoming Solve Challenge Finals.
+<P>
+AI has the potential to improve billions of people’s lives – but only if it creates and delivers value directly to those most in need, rather than fattening the bottom line of businesses already serving the most privileged.
+By harnessing these technologies for social good, today’s new breed of entrepreneurs can bring about lasting, transformational change.
+<P>
+Crisis Text Line is a Patrick J. McGovern Foundation grantee and Solver finalist.
+Inclusion in this commentary has no influence on Crisis Text Line’s likelihood of being selected for the MIT Solve program.

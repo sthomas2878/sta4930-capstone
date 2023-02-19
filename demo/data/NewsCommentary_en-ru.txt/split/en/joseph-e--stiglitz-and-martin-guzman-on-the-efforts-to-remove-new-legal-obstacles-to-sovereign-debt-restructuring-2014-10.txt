@@ -1,0 +1,65 @@
+<HEADLINE>
+Debeaking the Vultures
+<P>
+NEW YORK – In the midst of the ongoing dispute between Argentina and the “vulture funds” that hold its bonds, a broad consensus has emerged concerning the need for sovereign-debt restructuring mechanisms (SDRMs).
+Otherwise, US Federal Judge Thomas P. Griesa’s ruling that Argentina must pay the vultures in full (after 93% of other bondholders agreed to a restructuring) will give free rein to opportunistic behaviors that sabotage future restructurings.
+<P>
+Most recently, the International Capital Market Association (ICMA) recommended new terms for government bonds.
+Though the ICMA’s proposal leaves unresolved the hundreds of billions of bonds written under the old terms, the new framework says in effect that Griesa’s interpretation was wrong, and recognizes that leaving it in place would make restructuring impossible.
+<P>
+The ICMA’s proposed contractual terms clarify the pari passu clause that was at the heart of Griesa’s muddle-headed ruling.
+The intent of the clause – a standard component of sovereign-bond contracts – was always to ensure that the issuing country treated identical bondholders identically.
+But it has always been recognized that senior creditors – for example, the International Monetary Fund – are treated differently.
+<P>
+Griesa did not seem to grasp the common understanding of the clause.
+After Argentina defaulted on its sovereign debt in 2001, vulture funds bought defaulted bonds in the secondary market at a fraction of their face value, and then sued for full payment.
+According to Griesa’s interpretation of pari passu, if Argentina paid the interest that it owed to creditors that accepted the restructuring, it had to pay the vultures in full – including all past interest and the principal.
+<P>
+The vultures’ business was enabled in part by litigation over the so-called champerty defense – based on a longstanding English common-law doctrine, later adopted by US state legislatures, prohibiting the purchase of debt with the intent of bringing a lawsuit.
+Argentina is simply the latest victim in the vultures’ long legal battle to change the rules of the game to permit them to prey on poor countries seeking to restructure their debts.
+<P>
+In 1999, in Elliot Associates, LP v. Banco de la Nacion and the Republic of Peru, the Second Circuit Court of Appeals determined that the plaintiff’s intent in purchasing the discounted debt was to be paid in full or otherwise to sue.
+The court then ruled that Elliot’s intent, because it was contingent, did not meet the champerty requirement.
+<P>
+Though some other courts accepted the Second Circuit’s narrow reading of the champerty defense, the vultures were not satisfied and went to the New York state legislature, which in 2004 effectively eliminated the defense of champerty concerning any debt purchase above $500,000.
+That decision contradicted understandings according to which hundreds of billions of dollars of debt had already been issued.
+<P>
+Investors who acquire defaulted sovereign debt at huge discounts should not expect repayment in full; the discount is an indication that the market does not expect that, and it is only through litigation that one could hope to receive anything close to it.
+<P>
+An important change in the legal framework, such as the elimination of the champerty defense, is de facto a change in “property rights,” with the debtors losing, and creditors who purchase the bonds intending to sue if they are not paid what they want – the vultures – gaining.
+The vultures were thus unjustly enriched, doubly so with the novel and unjustified interpretation of the pari passu clause.
+<P>
+Will so-called collective-action clauses (CACs) – another aspect of the ICMA “reform” aimed at debeaking the vultures – save the day?
+In many countries, CACs stipulate that if, say, two-thirds of the investors accept a company’s (or a country’s) restructuring proposal, the other investors are bound to go along.
+This mechanism prevents speculative holdouts from holding up the restructuring process and demanding ransom.
+But CACs do not exist for sovereign debt written in many jurisdictions, leaving the field open for the vultures.
+<P>
+Moreover, CACs are no panacea.
+If they were, there would be no need for domestic bankruptcy law, which spells out issues like precedence and fair treatment.
+But no government has found CACs adequate for resolving domestic restructuring.
+So why should we think that they would suffice in the much more complex world of sovereign-debt restructurings?
+<P>
+In particular, CACs suffer from the problem of “aggregation.”
+If a CAC required, say, 75% of the holders of each bond class, vultures could buy 26% of only one bond class and block the entire restructuring.
+The recent Greek debt restructuring had to confront this issue.
+<P>
+The ICMA’s new framework seems to provide a way out: The supermajority would be defined by the acceptance of the aggregate principal amount of outstanding debt securities of all of the affected series.
+The supermajority’s decisions would be binding on all other investors.
+<P>
+But this, too, poses a problem: The more junior creditors could vote to have themselves treated in the same way as more senior creditors.
+What recourse would the senior creditors then have?
+In bankruptcy court, they would have grounds for objecting, and the judge would have to weigh the equities.
+<P>
+These issues are especially important in the context of sovereign-debt restructurings, because the claimants to a country’s resources include not only formal creditors; others, too – for example, pensioners – might not be paid if bondholders are paid in full.
+Chapter 9 of the US Bankruptcy Code (which applies to public entities) recognizes these rights – unlike Griesa and the vultures.
+<P>
+Today, the international community faces two challenges.
+One is to deal with the hundreds of billions of dollars of debt written under the old terms, which cannot be restructured under Griesa’s ruling.
+The second is to decide on the terms that should be imposed in the future.
+<P>
+The investing community has made a serious proposal.
+But changes of this magnitude must be based on discussions among creditors and debtor governments – and more is needed than tweaking the terms of the agreements.
+<P>
+An initiative at the United Nations to encourage the establishment of SDRMs is receiving the support of prominent academic economists and practitioners.
+Global efforts are good first steps to remedy the damage to international financial markets that the US courts have inflicted.
+For the sake of a healthy global economy, the vultures must be grounded.

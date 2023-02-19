@@ -1,0 +1,62 @@
+<HEADLINE>
+Apple Versus the G-Men
+<P>
+VIRGINIA BEACH – Apple’s refusal to unlock the iPhone linked to the extremist attack in San Bernardino, California, in December has triggered a public battle with the US Justice Department and the FBI – a dispute with far-reaching implications for data privacy worldwide.
+But the case is not as straightforward as it seems.
+<P>
+Speaking as someone with a long presence in the US intelligence community, I believe that the FBI has already gained access to Syed Rizwan Farook’s iPhone.
+It is an older Apple model using technology that, in other contexts, has already been compromised.
+<P>
+Here’s another strange thing about the FBI’s demand of Apple: Why would the United States government stoop to a public debate on this issue?
+The FBI is the country’s most powerful law-enforcement organization, and Apple will ultimately be forced to comply with its request.
+(Full disclosure: I own Apple stock.)
+<P>
+The FBI has already said that this is not about just one phone.
+But few understand that this is not a simple matter of opposing interests: public safety versus an individual’s right to privacy.
+<P>
+For a better understanding of the FBI’s demand, we need to look at Apple’s latest line of phones, which differ from Farook’s in a fundamental respect: They contain a new chip that was designed using a technique developed by the US National Security Agency and then shared with the Israelis.
+That technology is now finding its way into Apple products via the company’s Israeli chip-design division.
+<P>
+Each of the new chips has a unique signature used for encryption, which is coupled with its user’s fingerprint.
+Without that signature, it is impossible to decrypt an Apple phone without physical access to the internals of its chip – which is itself impenetrable.
+That encryption also applies to any information sent by the phone to a paired service, like Apple’s Messages system.
+<P>
+In the past, immediate access to telephony devices has been irrelevant to the FBI, because the authorities had unfettered access to communications as they traveled to and from a phone.
+But, with its new security improvements, Apple is now closing that door.
+The company is not simply denying new access; it will soon take away existing access.
+<P>
+This bothers the FBI, because its job is to collect evidence.
+Interestingly, the NSA has taken a different stance.
+Backdoors have been acknowledged as dangerous by NSA Director Admiral Mike Rogers, who says that “encryption is foundational to the future.”
+When access to private communications is possible, anyone can use it for any purpose.
+<P>
+This complicates the FBI’s argument about public safety.
+For example, do we really want a terrorist group to be capable of accessing a president’s or prime minister’s private information?
+If a phone has a backdoor, it can be opened by anyone with enough motivation – criminals, extremists, and governments alike.
+<P>
+The Chinese authorities, for example, would be delighted if Apple complied with the FBI’s request.
+They have been asking Apple for a backdoor for years.
+Apple’s current stand could cause it to suffer in the massive Chinese market – or profit immensely if it complies.
+<P>
+The FBI’s request signals a new attempt at control.
+This is an organization that usually delivers its requests under seal, meaning they remain secret.
+In this case, the FBI took the unusual step of making its demand public, so as to push the issue into the press by hitting the hot button of “terrorism.”
+The FBI’s intent, it seems, is to prompt lawmakers to respond to public outrage.
+<P>
+Most legal arguments against “unlocking” this particular phone cite the constitutionally protected right to free speech.
+But a better parallel is the right to gun ownership in the US and the constitutional provisions that support it.
+<P>
+In the past, technology in the US was primarily developed in a military context and justified in the service of war, but also to maintain civil order.
+At the end of the eighteenth century, the apotheosis of that technology was the firearm.
+No other technology was as apt, so the US Constitution specified that it would not be used to curtail speech (First Amendment) or be denied to the citizenry (Second Amendment), and that government holders of firearms could not be placed in citizens’ homes (Third Amendment).
+The Ninth and Tenth Amendments proscribe the use of firearms to compromise other implicit rights as they may become apparent.
+<P>
+Today’s most powerful technologies relate to information concerning our thoughts, associations, and bodies.
+If the framers of the US Constitution were alive today and as well educated as they were then, the Bill of Rights would likely be focused on balancing access to information to ensure that the government remains within bounds.
+<P>
+With this public request from the FBI, the balance between people and policing is being called into question.
+As the debate unfolds, we need to consider whether it makes sense, legally or as a matter of policy, for everyone – law enforcement, hackers, and terrorists – to be able to possess or access information.
+<P>
+The Apple case will affect the balance of informational power, and the scales currently are weighted against the citizen.
+Resolving the case requires a more considered response from US politicians than hysterical tweeting.
+In view of the modern power of information, they must think carefully about the legal ramifications of the FBI’s demand.

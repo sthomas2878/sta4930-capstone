@@ -1,0 +1,67 @@
+<HEADLINE>
+Capitalists and Socialists of the World, Unite!
+<P>
+PRINCETON – The world’s most dynamic economy is governed by a communist party, whereas its previous capitalist stronghold is under the misrule of a man whose companies have gone bankrupt six times.
+With leading political ideologies becoming increasingly incoherent, labels seem to mean little anymore.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In the United States, President Donald Trump and his fellow Republicans contend that only they stand between the American dream and a socialist revolution.
+Although Trump’s Democratic challenger in November’s election, Joe Biden, advocates no such thing, he does support putting “an end to the era of shareholder capitalism.”
+In any case, capitalism and socialism are once again front and center in the contest for public opinion and voters’ support.
+<P>
+But, unlike in past decades, the standard defense of capitalism has grown intellectually and politically weaker.
+While “woke capitalists” like the upmarket clothing brand Lululemon push marketing messages to “resist capitalism,” even traditional capitalists like the influential Business Roundtable – an organization of CEOs from America’s largest publicly listed corporations – are advocating fundamental reform.
+Similarly, Klaus Schwab, the founder of the World Economic Forum, denounces neoliberalism and free-market fundamentalism, and British Conservatives and US Republicans have taken to condemning the abuses of globalization and “the market.”
+<P>
+Today’s ideological confusion owes much to technological disruption.
+Digitalization and the widespread diffusion of information and communication technology (ICT) have upended established views about centralization and decentralization.
+Traditionally, capitalism’s advocates have argued for decentralization as a means of ensuring systemic resilience.
+When the system is properly arranged, bad decisions don’t matter, because the consequences immediately become clear and market players will learn and adapt.
+The system is ultimately stable and self-correcting.
+<P>
+But the weightless digital economy and the increased importance of economies of scale have transformed such arguments.
+The marginal costs of producing immaterial products are essentially nil, and network effects confer far-reaching advantages to those who can win the race for scale within a given domain.
+At the same time, ICT is also disrupting pricing, which used to be the key informational input in market exchanges.
+The digital economy now features price differentiation and discrimination on a scale that was previously unimaginable, such that prices are increasingly being delinked from consumer demand.
+<P>
+Meanwhile, debates about socialism have also changed.
+The old socialist claim that centralized (social) planning would allow for more efficient resource allocation could never account for the fact that human decision-makers are subject to imperfect information.
+As such, socialist planners since the 1920s have argued that future advances in computing would eventually close the knowledge gap, to which critics responded by pointing out that autonomous markets still would always know more.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+This debate has repeated itself with every major advance in ICT, from the advent of electronic computers in the 1940s through the introduction of large mainframes in the 1960s, PCs in the 1980s, and smartphones in the 2000s.
+Yet this time may be different.
+We have indeed reached a stage at which computers can process more information than complex human societies can.
+Artificial-intelligence algorithms have quickly gone from beating humans at chess and Go to writing poetry.
+Why shouldn’t they be able to improve upon human markets?
+<P>
+The apparent convergence between central planning and individual choice is not new.
+In the 1950s and 1960s – the heyday of managerial capitalism – many assumed that big corporations would operate the same way regardless of whether the setting was capitalist or socialist.
+Since they themselves were planned institutions, they did not respond to market signals.
+<P>
+Similar convergences can be found in the early nineteenth century, when the terms capitalism and socialism first gained currency.
+Some of the most influential socialist theoreticians of the Industrial Revolution were themselves capitalists.
+The French ex-aristocrat Henri de Saint-Simon envisaged a future in which bankers, intellectuals, and artists would overthrow an outdated theological and feudal system in favor for what he called “industrialism.”
+And the Welsh textile mill owner Robert Owen tried to launch utopian, profit-sharing communities in the United States and Britain, developing an alternative scheme for a currency based on labor.
+<P>
+These earlier examples of convergence should remind us that the terms capitalism and socialism were both originally conceived for the same functional purpose: to create a decentralized system of allocation in which spontaneous needs and wishes could be fulfilled.
+And as the ensuing centuries have shown, both approaches become destructive when they produced excessive concentrations of power.
+<P>
+Against this historical backdrop, the search for a new decentralized framework looks like a reversion to the earlier dream pursued by ur-socialists and ur-capitalists.
+Yet with today’s technologies, one can imagine the dream actually being realized under a hybrid “sociapitalism.”
+After all, while it once took months or years to make accurate assessments of the volume of economic activity or trade, these data are increasingly available in real time.
+<P>
+But data can be problematic.
+Whereas some is managed by governments and international institutions, much is held elsewhere, including at universities (Johns Hopkins in the case of COVID-19 data), individuals (as in the Harvard University economist Raj Chetty’s compilation of consumer data), and companies (which keep it as a commercial secret).
+In the case of governments and companies especially, there is a constant tendency to suppress data that is inconvenient or uncomfortable.
+<P>
+Moreover, the COVID-19 pandemic has shone a harsh light on the ways health outcomes are linked to social and economic disparities, and this realization has led to the politicization of other data, such as that relating to crime incidence, incomes, and ethnic identities.
+<P>
+The early nineteenth-century struggles were fights over the ownership of the means of production, but we can now be much more specific about what that concept involves.
+What is most needed today is a broad-based movement to secure ownership of data, following on the model of early nineteenth-century workers’ demands to own their own labor.
+Can data be shared in ways that maximizes the benefits without compromising social interests, individuality, or privacy?
+Capitalists and socialists of the world must unite to answer that question.
+They have nothing to lose but their data.

@@ -1,0 +1,57 @@
+<HEADLINE>
+The Economist’s Stone
+<P>
+CAMBRIDGE – This year marks the 100th anniversaries of two distinct institutional innovations in American economic policy: the introduction of the federal income tax and the establishment of the Federal Reserve.
+They are worth commemorating, if only because we are at risk of forgetting what we have learned since then.
+<P>
+Initially, neither the income tax nor the Fed was associated with the explicit concepts of fiscal and monetary policy.
+Indeed, it wasn’t until after the experience of the 1930’s that they came to be viewed as potential instruments for macroeconomic management.
+John Maynard Keynes pointed out the advantages of fiscal stimulus in circumstances like the Great Depression.
+Milton Friedman blamed the Depression on the Fed for allowing the money supply to fall.
+<P>
+Keynes is associated with a belief in activist economic policy aimed at ensuring counter-cyclical responses to economic fluctuations – expansionary policies during recessions and policy tightening during upswings.
+Friedman, by contrast, opposed discretionary policymaking, believing that government institutions lacked the ability to get the timing right.
+But both opposed pro-cyclical policy, such as the misguided US fiscal and monetary tightening of 1937: before the economy had fully recovered, President Roosevelt raised taxes and cut spending, while the Federal Reserve raised reserve requirements, prolonging and worsening the Great Depression.
+<P>
+After World War II, students and policymakers internalized the lessons of the 1930’s.
+But episodes in recent decades – for example, high inflation in the 1970’s – overwhelmed much of what was learned.
+As a result, many advanced countries today are repeating the mistake of 1937, despite facing similar macroeconomic conditions: high unemployment, low inflation, and near-zero interest rates.
+<P>
+The pros and cons of austerity nowadays have been thoroughly debated.
+Austerity’s proponents correctly point out that permanently expansionary macroeconomic policies lead to unsustainable deficits, debts, and inflation.
+Advocates of stimulus are right to note that in the aftermath of a recession, when unemployment is high and inflation is low, the immediate consequences of policy contraction are continued unemployment, slow growth, and rising debt/GDP ratios.
+And pro-cyclicalists, both in the US and Europe, represent the worst of all worlds by pursuing expansionary policies during booms, such as in 2003-07, and contractionary policies during recessions, such as in 2008-2012.
+<P>
+But, if counter-cyclicalists are right to favor moderating, rather than exacerbating, upswings and downswings in the economy, we still need to know what works best.
+Given recent conditions, is monetary or fiscal stimulus the more effective instrument?
+<P>
+John Hicks addressed this question clearly in a once-famous 1937 article called “Mr. Keynes and the Classics.”
+Under the conditions that prevailed then, and that prevail again now (high unemployment, low inflation, and near-zero interest rates), monetary expansion is relatively less effective, because it cannot push interest rates below zero.
+Moreover, firms are less likely to respond to easy money by investing in new physical capital and labor if they cannot sell what they already produce in the factories they already have with the workers they already employ.
+Fiscal stimulus is relatively more effective in these conditions, because it creates demand for goods without driving up those rock-bottom interest rates and crowding out private-sector demand (as it would in normal times).
+<P>
+None of this should be controversial.
+Introductory economics used to emphasize the Keynesian multiplier effect: recipients of government spending (or of consumer spending stimulated by tax cuts or transfers) respond to the increase in their incomes by spending more, as do the recipients of that spending, and so on.
+Again, the multiplier is much more relevant under current conditions, because it does not fuel higher inflation and interest rates (and thus crowd out private spending).
+<P>
+Unfortunately, many economists and politicians have forgotten much of what they knew (or have been blinded by new theories of policy ineffectiveness).
+Indeed, by the time the 2008-2009 global recession hit, even advocates of fiscal stimulus had lowered their estimates of the multiplier.
+But the continuing severity of recessions in the United Kingdom and other countries pursuing fiscal contraction has suggested that multipliers are not just positive, but greater than one – just as the old wisdom had it.
+The International Monetary Fund has responded by forthrightly confessing that official forecasts, including its own, had underestimated the multiplier’s size.
+<P>
+Of course, the effects of fiscal policy are uncertain.
+One never knows, for example, when rising debt levels might alarm international investors, who then start demanding sharply higher interest rates, as happened to countries on the European periphery in 2010.
+We are also uncertain about the magnitude of the negative long-term effects of high tax rates on growth.
+And monetary policy is much better understood than it was in the past.
+Indeed, a much-admired recent paper characterized monetary policy as science and fiscal policy as alchemy.
+<P>
+To be sure, the state of knowledge and practice at central banks is close to the best that modern society has to offer, whereas fiscal policy is set in a highly political process that is poorly informed by economic knowledge and largely motivated by officials’ desire to be re-elected.
+But the problem with the ancient alchemists and their search for the philosopher’s stone was not that they were stupid or selfish people.
+Nor was their problem that political leaders refused to listen to them.
+Rather, the state of knowledge at the time simply fell far short of the modern science of chemistry.
+<P>
+In this sense, the term alchemy could be applied to pre-Keynesians like US Treasury Secretary Andrew Mellon, whose prescription at the start of the Great Depression was to “liquidate labor, liquidate stocks, liquidate farmers, [and] liquidate real estate” in order to “purge the rottenness out of the system.”
+It could also be applied to those today who favor returning monetary policy to the pre-1914 gold standard.
+<P>
+This does not mean that either fiscal policy or monetary policy has graduated to the status of a science like chemistry, underpinned by natural laws that generate precisely foreseeable outcomes.
+But surely we have learned since 1913 that fiscal expansion is appropriate under some conditions, even if it is inappropriate under others.

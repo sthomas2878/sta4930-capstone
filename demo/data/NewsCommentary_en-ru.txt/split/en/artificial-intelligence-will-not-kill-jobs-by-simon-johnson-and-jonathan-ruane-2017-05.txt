@@ -1,0 +1,59 @@
+<HEADLINE>
+Jobs in the Age of Artificial Intelligence
+<P>
+<P>
+WASHINGTON, DC – The world has no shortage of pressing issues.
+There are 1.6 billion people living in acute poverty; an estimated 780 million adults are illiterate.
+Serious problems are not confined to the developing world: “deaths of despair,” for example, are raising mortality among white males in the United States.
+Even when advanced economies grow, they are not lifting all boats.
+Higher-income groups thrive while lower-income households and minority groups are consistently left behind.
+<P>
+And now some analysts suggest that new forms of computer programming will compound these developments, as algorithms, robots, and self-driving cars destroy middle-class jobs and worsen inequality.
+Even the summary term for this technology, Artificial Intelligence, sounds ominous.
+The human brain may be the “most complex object in the known universe,” but, as a species, we are not always collectively very smart.
+Best-selling science fiction writers have long predicted that we will one day invent the machines that destroy us.
+<P>
+The technology needed to create this dystopian future is not even on the horizon.
+But recent breakthroughs in AI-related technologies do offer enormous potential for positive advances in a range of applications from transportation to education and drug discovery.
+Used wisely, this boost in our computational abilities can help the planet and some of its most vulnerable citizens.
+<P>
+We can now find new patterns that are not readily evident to the human observer – and this already suggests ways to lower energy consumption and carbon dioxide emissions.
+We can increase productivity in our factories and reduce food waste.
+More broadly, we can improve prediction far beyond the ability of conventional computers.
+Think of the myriad activities in which a one-second warning would be useful or even lifesaving.
+<P>
+And yet the fear remains: Won’t these same improvements entail giving up all of our jobs – or most of our good jobs?
+In fact, there are three reasons why the jobs apocalypse is on hold.
+<P>
+First, Moravec’s paradox applies.
+Hans Moravec and other computer scientists pointed out in the 1980s that what is simple for us is hard for even the most sophisticated AI; conversely, AI often can do easily what we regard as difficult.
+Most humans can walk, manipulate objects, and understand complex language from an early age, never paying much attention to the amount of computation and energy needed to perform these tasks.
+Smart machines can perform mathematical calculations far exceeding a human’s capabilities, but they cannot easily climb stairs, open a door, and turn a valve.
+Or kick a soccer ball.
+<P>
+Second, today’s algorithms are becoming very good at pattern recognition when they are provided with large data sets – finding objects in YouTube videos or detecting credit card fraud – but they are much less effective with unusual circumstances that do not fit the usual pattern, or simply when the data are scarce or a bit “noisy.”
+To handle such cases, you need a skilled person, with his or her experience, intuition, and social awareness.
+<P>
+Third, the latest systems cannot explain what they have done or why they are recommending a particular course of action.
+In these “black boxes,” you cannot simply read the code to analyze what is happening or to check if there is a hidden bias.
+When interpretability is important – for example, in many medical applications – you need a trained human in the decision-making loop.
+<P>
+Of course, this is just the state of technology today – and high rates of investment may quickly change what is possible.
+But the nature of work will also change.
+Jobs today look very different from jobs 50 or even 20 years ago.
+<P>
+And new computer algorithms will take time to penetrate the economy fully.
+Data-rich sectors such as digital media and e-commerce have just begun to unleash the capabilities AI has created.
+The multitude of narrow AI applications that could affect jobs in sectors such as health care, education, and construction will take much longer to spread.
+In fact, this may come just in time – an aging population in developed economies implies a smaller workforce – and greater need for personal care services – in the coming decades.
+<P>
+Public policy decisions will shape the AI era.
+We need opportunity and competition, not the growth of powerful monopolies, in order to promote technological progress in a way that does not leave a large number of people behind.
+This requires improving access to all forms of education – and at low or zero cost.
+<P>
+With developed economies’ competitors, including China, investing heavily in AI, policymakers should be increasing support for basic research and ensuring that their countries have the physical and human resources they need to invent and manufacture everything connected with this major new general purpose technology.
+<P>
+We should not underestimate humans’ abilities to inflict damage on their community, their environment, and even the entire planet.
+Apocalyptic fiction writers may one day be proved correct.
+But, for now, we have a powerful new tool for enabling all people to live better lives.
+We should use it wisely.

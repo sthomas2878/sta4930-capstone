@@ -1,0 +1,79 @@
+<HEADLINE>
+Are We All Keynesians Again?
+<P>
+LONDON – Among the pieties repeated at every online COVID-19 conference, one is universally acknowledged: the pandemic has ushered in an era of larger, more robust state intervention in the economy.
+But what does this mean for the future?
+In what areas of economic life should and can the state do more?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Many believe that governments should address inequities and redistribute more income, or that they should fight climate change more aggressively.
+Those are two urgent priorities.
+But, given that COVID-19 is a shock that caught almost every country unprepared, the natural starting point is to prod governments to provide more and better social insurance against shocks.
+<P>
+Walter Bagehot, one of the earliest editors of The Economist, called on governments and central banks to be lenders of last resort.
+The current crisis has confirmed that when confronted with a shock this large, governments are also to be insurers of last resort.
+No private entity could simultaneously provide and finance the indispensable public-health response, pay furloughed workers’ wages, save jobs by lending to cash-strapped firms, and make emergency transfers to vulnerable families.
+Only states can do that.
+<P>
+Statisticians and economists distinguish between idiosyncratic shocks (affecting some people some of the time) and aggregate shocks (affecting everyone simultaneously).
+This helps fix priorities for what government should do in the future.
+<P>
+Private insurance markets can work reasonably well if shocks are idiosyncratic.
+Your car insurer pays to repair your scraped fender, without government help, because most other insured people did not have a collision at the same time.
+So, part of the premia they pay goes to you.
+<P>
+But private insurance is not foolproof.
+It works poorly in health care, for example, if insurance causes complacency about risky behavior like alcohol consumption or overeating, or leads physicians to prescribe expensive tests that are not strictly necessary.
+Such behavior drives up insurance premia and leaves the poor with no coverage.
+That is why well-designed plans like the US Affordable Care Act (“Obamacare”) both compel everyone to get insurance and provide a subsidy for low-income families.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In rich countries, varying combinations of private and public insurance protect most citizens against idiosyncratic risks – whether of illness, unemployment, or insufficient income in old age.
+The same cannot be said of emerging and developing countries, where social insurance systems are weak or limited to the formally employed.
+<P>
+Too many families can lose the fruits of decades of hard work if a family member becomes ill or suffers an accident.
+A recent World Bank white paper on the subject concludes that “many social protection systems currently lack protection against catastrophic losses for those without a history of contributing to traditional social insurance plans.”
+<P>
+Filling this gap, precisely because private insurance cannot do it all, will require mobilizing more state resources.
+But there is no obvious reason why countries like Mexico, Peru, the Dominican Republic, Indonesia, Malaysia or the Philippines cannot afford to do it: until the current crisis, these countries’ central government expenditure was below one-fifth of GDP.
+<P>
+Yet a caveat is in order.
+More government financing of social insurance does not imply that government should provide the services paid for by that insurance.
+The British NHS treats patients at state hospitals and foots the bill; under the Canadian single-payer system, government pays for services that are provided mostly by private hospitals and clinics.
+Emerging economies should be able to choose between the British and Canadian systems, or opt for some other formula.
+And their choice should be based on effectiveness, not ideology.
+<P>
+Aggregate shocks are a different story, because there is no subset of unaffected citizens that can bail out the victims.
+And if, as with COVID-19, there is no subset of lucky countries untouched by the disease, help from abroad will be limited at best.
+So countries are forced largely to self-insure, making government the insurer of last resort.
+<P>
+The International Monetary Fund estimates that governments have spent an additional $11 trillion in response to the pandemic – in many cases one-tenth of GDP or more.
+To paraphrase former European Central Bank President Mario Draghi, rich countries are spending whatever it takes.
+Emerging and developing countries, with less ability to borrow, are spending whatever they can.
+<P>
+In a global environment of extraordinarily low interest rates, rich-country governments can comfortably borrow far more than fiscal prudes once thought possible.
+In the United States, the United Kingdom, and much of the European Union, gross public debt now exceeds annual GDP, and markets have yet to bat an eyelash.
+And when the nominal interest rate is at or near zero, currency and short-term public debt become close substitutes, so savers are happy to hold the dollars, pounds, and euros central banks are printing with abandon.
+Inflation is nowhere on the horizon.
+<P>
+Loose limits on public-debt issuance in developed countries do not mean that there are no limits.
+As former IMF chief economist Olivier Blanchard has argued, it means that “if safe interest rates are expected to remain below growth rates for a long time,” then “debt rollovers, that is the issuance of debt without a later increase in taxes, may well be feasible.”
+<P>
+But the if is doing a lot of work.
+In the past, financial repression kept the interest rate on government debt artificially low.
+Today, low world interest rates reflect the combination of aging populations, slow productivity growth, weak investment demand, and an overall shortage of safe assets.
+Whether and how long this combination of factors will persist is a matter of tentative conjecture at best.
+<P>
+There are issues of intergenerational equity as well.
+If higher taxes in the future are needed to repay at least some of that debt, it is our children and grandchildren who will pay.
+Saddling them with a huge debt burden seems unfair, given that, in developed economies, they may not be better off, in part because we are already leaving them a massive climate debt.
+<P>
+Governments can and should serve as the insurer of last resort in the face of a catastrophic aggregate shock.
+But they can perform that crucial function only if we ensure that they have the necessary resources today.
+This is especially true in emerging and developing economies, where limits on public borrowing are anything but loose.
+<P>
+A common refrain nowadays is that after COVID-19, Milton Friedman is out and John Maynard Keynes is in.
+But if, as the famous quote often attributed to Richard Nixon puts it, “we are all Keynesians now,” we must remember what Keynes taught: fiscal policy should be tightened during good times, precisely so that it can be expansionary during bad times.

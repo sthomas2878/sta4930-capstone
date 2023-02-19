@@ -1,0 +1,56 @@
+<HEADLINE>
+Flights of Unmanned Fancy
+<P>
+BOSTON – Few pieces of modern hardware have inspired as much excitement as the drone.
+While nonmilitary unmanned aerial vehicles (UAVs) were initially marketed as purely recreational gadgets, it has not taken long for entrepreneurs and industrial giants to seize on the endless possibilities they offer.
+Annual sales in the United States are expected to reach seven million units by 2020, and many are already predicting a future in which drones reshape our cities – through remote delivery of goods, airborne surveillance, or as yet unforeseen applications.
+<P>
+Yet one possibility has captured our collective imagination more than any other: the idea that drones will soon be moving people over cities en masse.
+Might flying taxis one day pluck us from our front gardens and delicately plop us down outside the cinema or our favorite restaurant?
+<P>
+Before we mentally hail the next air cab, let’s consider what it would actually mean if the skies were filled with swarms of miniature helicopters ferrying people to their next destination.
+Though drones will have many important uses in the future, I do not believe moving people around cities will, or should, be one of them.
+<P>
+The dream of unmanned aerial transportation is not new.
+When Fritz Lang created the futuristic cityscape for his groundbreaking 1927 film, Metropolis, he filled its skies with vertiginous towers and compact flying vehicles.
+Then, in the early 1960s, the Hanna-Barbera animation studio produced The Jetsons, a cartoon series following the escapades of a futuristic all-American family.
+In the opening credits the family whizzes around Orbit City in a hover car that folds up into a briefcase, which George, the family patriarch, then carries into his office.
+In 1982, the science-fiction blockbuster Blade Runner featured flying police cars called “spinners.”
+<P>
+Today, a version of such make-believe futures would seem tantalizingly within reach.
+Uber is investing in flying car technology.
+Earlier this year, Airbus launched Pop.Up, a vertical takeoff and landing concept vehicle for personal mobility.
+And in a venture that promises “flight for all,” German start-up Volocopter has designed the 2X, a miniature helicopter with 18 rotors that will begin test flights in Dubai later this year.
+<P>
+All of this suggests that urbanites will soon be zipping around urban airspace like George Jetson, right?
+Wrong.
+Despite big investments and bigger promises, there are physical and practical reasons why it is highly unlikely that our cities will be filled with airborne people movers anytime soon.
+<P>
+First, let’s consider the physics.
+Anyone who has stood near a helicopter taking off will understand that a lot of energy is required to lift a heavy object vertically into the air.
+Drone rotors are essentially big fans, pushing air down to create upward propulsion.
+There is no way to achieve lift without creating a vast amount of both noise and air disturbance.
+<P>
+Residents of New York City know this well.
+Complaints about noise from one of the city’s main helipads on the Hudson River led to increased regulation of tour operators.
+Yet, even before that legislation, there were fewer than 5,000 tourist flights per month.
+Imagine if all of the city’s eight million residents took even one flight every few weeks: the city would become unlivable.
+<P>
+Other factors that should curb our enthusiasm are more technological.
+Even with dramatically improved batteries extending drones’ range, the crush of vehicles needed to move large numbers of people overhead would present a daunting safety hazard.
+Modern cars may be dangerous, but a dead battery or a broken rotor blade in a flying taxi would cause a heavy vehicle to fall onto a densely populated area.
+And we still don’t know whether such drones could be protected from hackers, terrorists, or other criminals, or how air traffic control systems might guide people safely.
+<P>
+Drones will still have a transformative impact on how future populations live, do business, and interact.
+Small UAVs have already proven their potential across diverse fields – from humanitarian-aid delivery to security.
+Drones transcend geographical barriers without the need for large-scale physical infrastructure, and can bring isolated communities into close contact with the rest of the world.
+In Brazil, for example, the government is deploying camera-equipped drones to inspect remote agricultural producers suspected of breaking labor laws.
+And drones are already monitoring air quality and providing support during health emergencies.
+<P>
+But urban mobility is not an appropriate application for UAV technology.
+The problems of mass transportation can be fixed with our feet planted firmly on the ground – and long before flying taxis are even a viable alternative.
+With improvements to digital networks and real-time data, autonomous cars, trucks, and boats – like the Roboat that colleagues and I are prototyping in Amsterdam – can be made fast and effective enough for all our needs.
+And staying on the ground will obviate the need for networks of new infrastructure, like costly “vertiports.”
+<P>
+Society’s enduring dream of whizzing over a city in private flying cars has long captured the imagination of filmmakers – and now even some investors.
+For practical reasons large and small, however, it is a vision that will remain the stuff of fantasy.

@@ -1,0 +1,51 @@
+<HEADLINE>
+The Democratic Disruption of Finance
+<P>
+LAGUNA BEACH – There seems to be no limit to the exciting possibilities that come from combining technical innovations, the Internet, and social media.
+It is a phenomenon that has been revolutionizing journalism and entertainment; and, by helping to overcome coordination challenges, it has also had political consequences in a growing number of countries – all of which means an ever-evolving set of opportunities and risks.
+<P>
+What is less appreciated, however, is the extent to which a broadly similar phenomenon may be starting to play out in finance, via a democratization process that could gradually reconfigure a notable part of the institutional landscape, particularly in consumer finance, while challenging regulators to adapt.
+<P>
+Bitcoin is the most visible – albeit far from a good – example of this nascent development, having attracted attention from specialists, regulators, and, slowly but surely, the public.
+But the crypto-currency phenomenon is far from the only example, and it is certainly not the most consequential one.
+Its impact, both actual and potential, is relatively limited when compared to ongoing attempts to enhance and democratize lending, borrowing, investing, and payments and settlements.
+<P>
+The underlying sequence of disruptive technology is historically familiar.
+A bold innovation suddenly lowers entry barriers for certain activities.
+Mechanisms emerge to enable a larger part of the population to participate in what is deemed desirable but, until now, had been hard to access.
+As the disruptive forces gain traction, existing business models face difficult adaptation challenges, and regulators begin to fall behind.
+The situation is often amplified by a natural human tendency to overproduce and over-consume hitherto restricted goods and services.
+<P>
+This, of course, is what has been occurring in media for several years.
+The result is a proliferation of platforms for producing, aggregating, disseminating, and consuming content.
+Falling entry barriers and lower access costs have significantly democratized participation, whether in production or consumption.
+And, as hard as they try, many traditional media outlets – especially those unable to claim quite distinctive content – find it increasingly difficult to compete.
+<P>
+Now something somewhat similar is starting to happen in finance as well, albeit at a less frantic pace and – at least until now – in a less disruptive manner.
+And, as with media, the main innovations are being spearheaded by those outside the traditional institutional setup.
+Most consequentially, an emerging cohort of technology entrepreneurs understand the power of online/social media innovation to disrupt components of traditional finance, and are now leading efforts that include behavioral scientists and finance experts.
+<P>
+Recall that Bitcoin started in 2009 as an attempt to produce a “better” currency, championed especially by those who mistrust central banks’ management of fiat money.
+These early adopters were joined by a growing number of financial speculators attracted by highly volatile price movements.
+But Bitcoin’s success, which remains highly uncertain, ultimately depends on it attaining sufficient stability to perform the most essential function of any currency (as opposed to a speculative commodity) – that of providing a relatively predictable medium of exchange.
+<P>
+Fulfilling that function would require a lot to happen.
+At a minimum, Bitcoin would need a more solid institutional foundation; and broad acceptance of it would require much greater clarity concerning regulatory and supervisory approaches.
+<P>
+More promising examples, albeit less well-known, may be found in Internet-driven lending and borrowing clubs or, more generally, the peer-to-peer initiatives in consumer financial services.
+By seeking to compress net interest margins, including through lower expenses and more efficient data assessments and aggregation, and by targeting an enhanced consumer experience, such empowerment schemes could serve to reduce the cost of financial intermediation while providing for fairer risk-pooling outcomes and better credit underwriting.
+Likewise, so-called digital wallets and mobile transfers are efforts to improve payments and settlement in a retail financial sector that gets a lot less attention than its institutional peers.
+<P>
+The prospects for each of these democratizing developments vary significantly, as do the probable cost-benefit equations.
+Much will depend on whether the underlying technology is stable and secure, trust is established, transparency is convincing, consumer protection is effective, new content is coupled well with strong distribution channels, and broad-based validation and institutional verification boost credibility.
+<P>
+Looking ahead, we should expect the underlying forces of innovation to remain strong.
+Some existing businesses will fend off disruptive threats, including through takeovers; others will adjust (for example, Walmart recently announced an expansion of its financial-services offerings); but many may well prove insufficiently agile.
+Regulators will also likely lag initially in their response to new structures and activities.
+<P>
+The challenges of getting this right in finance are considerably more difficult than they are in media; and the consequences are far more profound, given the centrality of finance to broad swaths of the real economy.
+Anyone who doubts that should recall how last decade’s securitization boom and bust – another example of a disruptive financial innovation that was over-produced and over-consumed – contributed to a credit and liquidity crisis that pushed the global economy to the verge of Great Depression II.
+<P>
+In their recent book, Google’s Jared Cohen and Eric Schmidt brilliantly remind us of the opportunities and risks afforded by multi-speed developments in the real and virtual worlds.
+Having redefined media, similar developments are slowly beginning to play out in finance – in a rather isolated way for now, but soon likely to start transforming how capital is mobilized and allocated in support of economic growth and employment.
+Individuals, companies, and governments would be well advised to devote more time and other resources to comprehending this important and transformative phenomenon.

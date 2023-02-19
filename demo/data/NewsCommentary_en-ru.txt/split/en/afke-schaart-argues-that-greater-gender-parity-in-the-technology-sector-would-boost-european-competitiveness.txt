@@ -1,0 +1,41 @@
+<HEADLINE>
+Feminizing the Command Line
+<P>
+BRUSSELS – This year, International Women’s Day is focused on “inspiring change” and challenging the status quo to achieve gender equity worldwide.
+The sad reality is that, despite significant social, political, and economic progress, women still face major personal and professional obstacles in developed and developing countries alike.
+This state of affairs does not hurt only women; it undermines everyone’s prospects.
+<P>
+Consider the information and communications technology sector, which is critical to the future competitiveness of major economies – particularly Europe’s.
+With application-software development alone capable of employing 4.8 million people and contributing €63 billion ($87 billion) to the European Union’s economy by 2018, enabling women to contribute to the ICT sector’s development is a matter of common sense.
+<P>
+The good news is that the European Commission seems to recognize this imperative.
+Having identified technological progress as one of the most important sources of growth and employment, the Commission has specified 101 policy measures – including programs aimed at increasing women’s participation in the ICT workforce – to deliver sustainable GDP growth through digital technologies.
+<P>
+But much more must be done.
+Despite stubbornly high unemployment levels across Europe – more than 10% of the working-age population and over 20% of young people remain unemployed, according to Eurostat – up to a half-million vacancies are expected in the technology sector by next year.
+<P>
+This gap can be explained largely by students’ belief that a career in technology is not a viable option – a view that is particularly prevalent among women.
+Indeed, outdated cultural norms and stereotypes – such as the idea that science, technology, engineering, and mathematics are “for boys” – continue to prevent women from pursuing ICT-based careers.
+As a result, only 2.9% of bachelors or first degrees held by European women are ICT-based, compared to 9.5% for men.
+<P>
+To be sure, there are women who are working hard to challenge the stereotypes.
+For example, earlier this week, at Microsoft’s annual AppCup competition, which gives European developers and young entrepreneurs the opportunity to showcase their skills, two promising female developers ranked among the 13 finalists – a major accomplishment, given that this year’s contest attracted 200 submissions from 31 countries.
+<P>
+Andreea Pleșea, a business software developer from Romania, submitted Mobile Gamification – an app that motivates employees by providing incentives for participation, engagement, and loyalty among team members to achieve specific business goals.
+And France’s Dominique Sauquet presented Dynseo, which allows health-care professionals to administer the full battery of cognitive tests needed to assess cognitive impairment and memory loss in the elderly.
+<P>
+But Pleșea and Sauquet remain the exception.
+Women account for only 9% of developers in Europe’s booming app industry, and comprise only 30% of workers in the broader ICT sector.
+<P>
+Underrepresentation of women in the sector is damaging its competitiveness and impeding Europe’s return to growth.
+According to the European Commission, if as many women participated in the ICT workforce as men, Europe’s annual GDP could increase by €9 billion.
+Moreover, given that organizations with more women in management achieve a 35% higher return on equity and 34% better total return to shareholders than their counterparts, greater gender parity would be a boon for the sector.
+<P>
+More important, women’s exclusion from the ICT sector is a disservice to thousands of talented young people like Pleșea and Sauquet.
+It is also simply bad business: Consider the millions of potential customers whose ways of living, working, and playing might be transformed by these women’s ideas.
+<P>
+Addressing the technology sector’s gender gap must begin at the university level, with a diverse range of students – especially women – being encouraged to pursue tech studies.
+At the same time, initiatives like Web-based training, game-based eLearning, and social networking – as proposed by the European Commission – could help motivate women to enter or return to the ICT workforce.
+<P>
+It is time to welcome many more women into the ICT sector.
+Europe’s future competitiveness depends on it.

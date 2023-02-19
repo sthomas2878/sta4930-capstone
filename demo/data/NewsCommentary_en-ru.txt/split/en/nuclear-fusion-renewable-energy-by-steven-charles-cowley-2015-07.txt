@@ -1,0 +1,56 @@
+<HEADLINE>
+Bottling the Sun
+<P>
+LONDON – This December, world leaders will gather in Paris for the United Nations Climate Change Conference, where they will attempt – yet again – to hammer out a global agreement to reduce greenhouse-gas emissions.
+Despite the inevitable sense of déjà vu that will arise as negotiators struggle to reach a compromise, they must not give up.
+Whatever the political or economic considerations, the fact remains: if global temperatures rise more than 2˚C from pre-industrial levels, the consequences for the planet will be catastrophic.
+<P>
+But the challenge does not end with reducing emissions.
+Indeed, even if we make the transition to a cleaner world by 2050, we will need to determine how to meet a booming global population’s insatiable appetite for energy in the longer term – an imperative that renewables alone cannot meet.
+That is why we need to invest now in other technologies that can complement renewables, and provide reliable electricity for many centuries to come.
+And one of the most promising options is nuclear fusion – the process that powers the sun and all stars.
+<P>
+Brought down to earth, nuclear fusion – a process fueled primarily by lithium and deuterium (an isotope of hydrogen), both of which are plentiful in seawater and in the earth’s crust – could provide a major source of low-carbon energy.
+A fusion power station would use only around 450 kilograms of fuel annually, cause no atmospheric pollution, and carry no risk of accidents that could lead to radioactive contamination of the environment.
+<P>
+But, while the fusion process has produced some power (16 million watts of it, to be specific), scientists have yet to create a self-sustaining fusion “burn.”
+Indeed, unlike nuclear fission, which went from the laboratory to the power grid within two decades, fusion has proved a tough nut to crack.
+<P>
+The problem is that fusion involves joining two positively charged nuclei – and, as basic science shows, same-sign charges repel each other.
+Only at extremely high temperatures – over 100 million degrees Celsius, or almost ten times hotter than the sun – do the nuclei move so rapidly that they overcome their repulsion and fuse.
+<P>
+Scientists have spent the last 60 years trying to figure out the best way to create these conditions.
+Today, the frontrunner is a device known as a “tokamak,” a magnetic bottle in which the fuel, held at 100-200 million degrees Celsius, fuses, unlocking huge amounts of energy.
+<P>
+Of course, holding the sun in a bottle is no small challenge, especially when one considers that the systems must be engineered so that they can create electricity for a price consumers are willing to pay.
+But in a sunny corner of southern France, a global megaproject is coming together that will, for the first time, test the technology on an industrial scale, creating the first controlled fusion burn.
+<P>
+Everything about the so-called “ITER reactor” is big.
+It will be heavier than three Eiffel Towers; the material for its superconducting magnets would stretch around the equator twice; and it has a price tag of more than €15 billion ($16.8 billion), making it one of the largest international science endeavors in history.
+The ITER partners – China, the European Union, India, Japan, Russia, South Korea, and the United States – represent half the world’s population.
+And, if it is successful, the reactor will produce half a gigawatt of fusion power and open the way for commercial reactors.
+<P>
+But the tokamak is not the only game in town.
+Other designs are emerging to join the race for fusion power.
+Lawrence Livermore National Laboratory’s National Ignition Facility in California is getting impressive results by firing high-powered lasers at capsules of fuel, crushing the particles together to trigger fusion reactions.
+<P>
+Elsewhere, particularly in the US, privately funded fusion ventures are springing up like mushrooms, each with its own concept for what some call the Holy Grail of energy.
+As the most advanced design, the tokamak still looks like the safest bet, but the competition from its rivals can only spur further innovation and progress.
+<P>
+Some discourage investment in nuclear fusion, claiming that, given how far from being market-ready the technology is, our financial resources are better allocated to tried and tested energy options.
+The critics have a point: given that fusion can be carried out only on a large scale, its investment requirements are considerable.
+<P>
+In the 1970s, American researchers estimated that getting fusion power on the grid would demand investment of $2-3 billion annually in research and development until anywhere from 1990 to 2005 (depending on the amount of effort applied).
+They also estimated a minimum level of investment, below which funding would never be sufficient to build a fusion power plant.
+Nuclear fusion research budgets have remained below that line for 30 years.
+<P>
+But fusion’s potential is simply too great to give up.
+And, in fact, the progress that has been made in recent years – despite the lack of adequate investment – belies the naysayers.
+Machines all over the world are reaching fusion temperatures and extending our technological capabilities.
+The ITER experiment, when it starts up in the early 2020s, will embody those advances, achieving the long-awaited fusion burn – and place us just one step away from the ultimate goal of getting fusion power on the grid in an affordable manner.
+<P>
+Without nuclear fusion, future generations’ energy options will be severely limited – creating a serious problem for developed and developing countries alike.
+Lev Artsimovich, the tokamak’s inventor, said that “fusion will be ready when society needs it.”
+One hopes that he is right.
+But, rather than depending on fusion researchers to defy the odds, the world should step up investment in the technology.
+Our future may depend on it.

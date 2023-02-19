@@ -1,0 +1,51 @@
+<HEADLINE>
+Clipping the Euro’s Wings
+<P>
+French President Nicolas Sarkozy’s call for the European Central Bank to intervene to curtail the soaring euro is commonly seen as a sign that he neither understands nor trusts markets.
+Indeed, some now view Sarkozy as a traditional Gaullist who wants to help French producers by artificially devaluing the euro.
+<P>
+But could Sarkozy be right in believing that currency markets do not automatically drive exchange rates to levels consistent with the fundamentals of international trade?
+After all, comparable goods often sell internationally at very different prices.
+For example, according to The Economist , a Big Mac hamburger sells in the euro zone for about three euros – roughly $4 at the current exchange rate – but for only about $3.20 in the United States, implying that the euro is overvalued by about 25%.
+<P>
+It is clear from the last three decades of floating currencies that market-determined exchange rates tend to swing widely and persistently from parity levels that would make comparable goods sell at comparable prices in different countries.
+So politicians like Sarkozy may have grounds to argue that central banks should intervene to limit such swings.
+<P>
+But economists, including many central bank staff, usually do not see things this way.
+Despite wide and persistent swings in actual currency markets, their so-called “rational expectations models” predict that exchange rates should not deviate from parity in any lasting way.
+Believing that they have found a way to model precisely how currency traders should think about the future, they see no need for intervention because, save for temporary deviations, markets always get currency values right.
+<P>
+In contrast, “behavioral economists” acknowledge that currencies can depart from parity for a protracted period, but argue that this results not from traders’ attempts to interpret movements in macroeconomic fundamentals, but from market psychology and irrational trading.
+For them, intervention is not so much unnecessary as it is impossible.
+Faced with wide swings, central banks are helpless to counteract traders’ irrational zeal to bid a currency further away from historical benchmark levels.
+After all, speculative flows account for more than 95% of the $2 trillion traded daily in currency markets.
+<P>
+But both the “rational expectations” and the “behavioral” models are fundamentally flawed for the purpose of assessing policy interventions.
+As different as they might appear, they attempt to generate exact predictions of human behavior, whether “rational” or “irrational.”
+Both disregard the fact that rationality depends as much on individuals’ imperfect understandings of history and society as on their motivation.
+They also ignore the importance for market outcomes of individual creativity and unforeseeable socio-political change.
+<P>
+Once this “imperfect knowledge” is placed at the heart of economic analysis, the implications of our inherently limited ability to predict market outcomes become clear.
+When it comes to currency markets, parity levels based on international trade are merely one of many factors that traders may consider.
+In attempting to cope with imperfect knowledge, they are not irrational when they pay attention to other macroeconomic fundamentals and thereby bid an exchange rate away from its parity level.
+<P>
+The euro’s recent rise against the dollar is a case in point: by most accounts, euro bulls have been reacting to the enormous US current account deficit, a surging euro-zone economy, and rising euro interest rates.
+What is irrational about factoring in such fundamentals when trading a currency?
+<P>
+Of course, persistent swings from parity do not last forever.
+While movements in macroeconomic fundamentals may lead bulls to bid the value of a currency further above parity, they simultaneously become more concerned about a counter-movement back to parity – and thus capital losses – which moderates their desire to increase their long positions.
+<P>
+This concept of risk builds on a neglected insight of John Maynard Keynes, who was keenly aware of the centrality of imperfect knowledge for understanding price fluctuations in asset markets.
+Moreover, relating the riskiness of holding an open position in a currency market to the exchange rate’s divergence from parity levels suggests a novel way to think about how central banks can influence the market to limit departures from parity.
+<P>
+Every month, the central bank should announce its estimate of a range of parity values, backed by analysis, which, unlike a precise value, reflects the inherent imperfection of knowledge concerning a currency’s parity.
+As the exchange rate moves away from this range, the central bank’s regular announcements would heighten the concern of currency traders that other traders will consider it increasingly risky to hold open positions.
+This should moderate their willingness to do so, thereby limiting the magnitude of the currency swing.
+<P>
+This strategy does not imply that central banks should attempt to confine the exchange rate to a pre-specified target zone.
+Given the enormous size of daily volumes in currency markets, such attempts almost always fail, leading to currency crises.
+Instead, the “ limit-the-swings” strategy proposed here implies that, as the exchange rate moves further away from parity, central banks should use their reserves to intervene at unpredictable moments in order to reinforce the effect of their regular announcements of the parity range on traders’ perception of increased risk of capital losses.
+<P>
+Our proposal to reduce ­­– but not eliminate – swings from parity recognizes that price fluctuations may be crucial for markets to ascertain the price of assets that promise an uncertain payoff.
+But currency swings, if too wide and protracted, can impede real economic activity, which is why intervention is sometimes necessary.
+Only by explicitly acknowledging the limits to economists’ and policymakers’ knowledge would such policies have a chance of succeeding.

@@ -1,0 +1,63 @@
+<HEADLINE>
+How to Scale Up Sustainable Infrastructure
+<P>
+NEW YORK – Climate change is arguably the most pressing global challenge today, and we are not tackling it quickly enough.
+The 2015 Paris climate agreement aims to keep the increase in global temperature well below 2° Celsius above pre-industrial levels.
+But current pledges by national governments to cut emissions of greenhouse gases (GHGs) still leave global warming on track to exceed 3°C by the end of this century.
+To prevent this, we need to act faster, on a larger scale, and more disruptively – particularly in developing and financing sustainable infrastructure projects.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Existing infrastructure – defined broadly as transport, energy, telecommunications, water, and buildings – accounts for almost 70% of global GHG emissions.
+Moreover, as low- and middle-income countries drive population growth and urbanization, they will account for most of the expected doubling of infrastructure assets by 2050, mostly through greenfield projects.
+If we want to avoid catastrophic climate change, we must roll out new, sustainable infrastructure at scale, while decommissioning or retrofitting old, unsustainable assets.
+<P>
+So far, however, this goal has proved elusive.
+The supply of bankable sustainable infrastructure projects has been inadequate and sub-scale, particularly in low- and middle-income countries.
+And financing also has been slow to materialize, especially from the private sector.
+<P>
+The OECD has estimated that investment needs for infrastructure are about $6.3 trillion per year between 2016 and 2030, and about 10% more ($6.9 trillion) in order to reach a temperature goal well below 2°C. But in 2018, global infrastructure investment was $3.4-4.4 trillion, depending on the metrics used.
+That indicates an annual shortfall of $2.5-3.5 trillion, about two-thirds of which is in low- and middle-income countries.
+<P>
+Although advanced economies generally have well-established regulatory frameworks and readily available funding for sustainable infrastructure projects, most low- and middle-income countries face major challenges.
+Because these are complex and long-term projects, with payback periods often exceeding ten years, private investors tend to stay away, deterred by regulatory risks and policy changes.
+Until now, sustainable infrastructure has been financed mostly by multilateral and national development banks (MDBs and NDBs).
+Crowding in private capital will thus be key to closing the investment gap.
+<P>
+To help scale up the development and financing of sustainable infrastructure in low- and middle-income economies, we propose a new holistic framework developed by the One Planet Lab Working Group on Financing Sustainable Infrastructure, of which one of us (Déséglise) is a member.
+The framework, called “Vision for an Environmentally Responsible Transition – Infrastructure” (VERT-Infra), aims to help unlock the pipeline of projects and develop sustainable infrastructure as an asset class, thereby opening the door to large-scale investments by institutional investors around the world.
+<P>
+VERT-Infra initially covers four sub-sectors of sustainable infrastructure: energy, energy storage, transport, and buildings, with a particular emphasis on projects in urban areas.
+But the framework can be expanded to cover the vast majority of the $6.9 trillion of investment needed annually.
+<P>
+Drawing on the governance framework that underpinned the development of the green bond market, the One Planet Lab recommends integrating a diverse range of stakeholders into a nimble membership-based organization.
+Members would include organizations active in infrastructure investments and development assistance, as well as governments, MDBs, financial institutions, asset owners and managers, NGOs, and universities.
+<P>
+In order to address the challenges over the full lifecycle of sustainable infrastructure projects, VERT-Infra focuses on four complementary and self-reinforcing components.
+These cover both financing mechanisms and capacity building, which are especially relevant for the development of greenfield projects in low- and middle-income countries.
+<P>
+For starters, Project Preparation Funds – capitalized by donors, MDBs, financial intermediary funds, and philanthropic organizations – would provide technical assistance to support the origination of bankable sustainable infrastructure projects.
+Sustainable Financing Facilities would provide low-cost financing to eligible NDBs and local financial institutions that lack regular access to international capital markets.
+These institutions would then lend the funds on to (typically new) sustainable infrastructure projects.
+<P>
+To complement these facilities, and to cover the refinancing of existing projects, Sustainable Infrastructure Funds would purchase or participate in loans for operating assets that already have been financed by regional development banks, NDBs, and local institutions.
+This would free up capital for new and additional investment.
+<P>
+Finally, VERT-Infra would work in partnership with other initiatives that focus on developing Policy and Planning Funds.
+These funds would support long-term capacity-building that helps low- and middle-income countries plan and deliver sustainable infrastructure and strengthen vital governance and policy frameworks, in line with nationally determined policies.
+<P>
+We propose two coordinated strands of action: first, generating the policy frameworks to channel capital swiftly toward sustainable infrastructure; and, second, bringing together key stakeholders to mobilize finance.
+These include development finance institutions, MDBs and NDBs, private financial institutions, institutional investors, and digital finance innovators.
+<P>
+Of course, not all infrastructure projects offer commercial opportunities.
+But the inclusive, open-source nature of VERT-Infra, as reflected in its governance model, should favor the emergence of standardized and scalable mechanisms that allow financial markets to support sustainable infrastructure more strongly.
+<P>
+The global transition to a low-carbon economy in line with the Paris agreement’s targets is facing significant headwinds, and bolder action is urgently needed to avoid unacceptable global warming risks.
+By addressing current bottlenecks in the development and financing of sustainable infrastructure, the VERT-Infra framework can help to transform a critical sector and step up the global fight against climate change.

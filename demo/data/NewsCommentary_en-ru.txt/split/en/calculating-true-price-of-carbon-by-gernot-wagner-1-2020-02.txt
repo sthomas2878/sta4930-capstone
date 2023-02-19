@@ -1,0 +1,65 @@
+<HEADLINE>
+The True Price of Carbon
+<P>
+NEW YORK – At the center of many policy challenges is a contest between “realists” and “radicals.”
+That’s true of the ongoing Democratic primary race in the United States, for example, and it has long defined the climate-change debate.
+Will incremental policies such as a modest carbon price save us from disaster, or does climate change call for a more revolutionary approach?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Attempts to answer this question typically rely more on gut feelings and political instincts than on rigorous analysis.
+The debate also often features a generational divide between youthful idealists and seasoned moderates.
+Just recently, US Secretary of the Treasury Steven Mnuchin dismissed criticism from 17-year-old Swedish climate activist Greta Thunberg by suggesting that she take a class in economics.
+<P>
+As the science of navigating tradeoffs, economics can indeed help one make decisions under circumstances defined by binding constraints and pervasive uncertainty.
+In theory, at least, economists have the tools to determine the costs and benefits of cutting carbon emissions.
+Yet getting that calculation right has haunted the profession for decades.
+<P>
+In 2018, William D. Nordhaus of Yale University was awarded the Nobel Prize in Economic Sciences for his pioneering efforts to determine an optimal carbon price.
+The logic of his approach, and of the standard carbon-pricing model generally, appears impeccable: quantify the anticipated damages from climate change and then compare those to the costs of cutting emissions today.
+But this is easier said than done.
+The inertia of the climate system implies that most damages will accrue in the distant future – decades or even centuries hence – whereas the majority of emissions-reduction costs will be incurred today.
+<P>
+Moreover, there is an inherent asymmetry in how benefits and costs are tallied.
+With large uncertainties on both sides, the problem calls for heroic extrapolations and outright guesswork.
+In calculating benefits, however, only “known knowns” have traditionally made it into the headline figure, whereas the bias goes the other way in the case of costs: the rapid progress made in clean-energy technologies is largely ignored, despite its likely cost-abatement effects.
+<P>
+These biases haven’t stopped economists from offering confident benefit-cost analyses.
+Nordhaus has famously done so with a model requiring fewer than 20 main equations.
+He concludes that each ton of carbon dioxide emitted today should be priced at around $40.
+By contrast, in a massive report published in 2006, Nicholas Stern of the London School of Economics calculated that the price should be more than $100 per ton in today’s dollars.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The substantial gap between the two estimates reflects two different approaches to discounting: that is, how much society values (or ought to value) its future.
+Nordhaus begins with an annual discount rate of around 4.25%, which he then reduces slightly over time, whereas the Stern Review sets the discount rate at 1.4%, thereby placing a greater emphasis on future damages relative to today’s mitigation costs.
+<P>
+These analyses were both massive undertakings, given the global scale, distant time horizon, and level of uncertainty involved.
+Yet neither approach accounts for the possibility of irreversible planetary-scale tipping points, such as the permanent melting of Greenland’s ice sheet or the bleaching of coral reefs.
+As the late Martin L. Weitzman of Harvard University argued at the time, the Stern Review was “right for the wrong reasons.”
+<P>
+Weitzman’s work emphasized climate tail risks that could potentially dwarf any standard benefit-cost analysis.
+While he went to great lengths to show that, by definition, extreme, truly catastrophic outcomes were unlikely, he believed that the potentially massive consequences of such events should drive our decision-making.
+Hence, throughout his career, Weitzman steadfastly declined to estimate an optimal carbon price.
+In Climate Shock, the 2015 book he and I co-authored, we went only so far as to say that, owing to the uncertainties involved, the carbon price of around $40 emerging from a standard benefit-cost analysis at the time should be used as an absolute lower bound.
+<P>
+So, how should one approach the problem instead?
+Traditional economic models largely ignore how climate risk interacts with the state of the economy.
+But what if investments in emissions reductions followed the same logic used by professional asset managers?
+There is a good reason why investors put money into bonds despite their average returns falling well below those of stocks: bonds are less risky.
+Thus, even when the economy is faring poorly, some investments will still pay off.
+<P>
+In Climate Shocks, one of our main characters is Robert Litterman, a former top risk manager for Goldman Sachs who was shocked to find out how standard benefit-cost analyses of climate change were treating risk and uncertainty.
+Together with Kent Daniel of the Columbia Business School, Litterman and I set out to build a simple climate-economic model that takes seriously the basic insights from the financial industry.
+<P>
+Unlike the Stern Review, which simply selected a discount rate ex cathedra, we made the discount rate an outcome rather than an input in our approach.
+Treating atmospheric carbon as an “asset” (albeit one with negative payoffs), we calibrated a carbon price, following the methods used by the finance industry to price assets.
+In the end, no matter how hard we tried, we could not get the price of carbon below $100 per ton.
+<P>
+Meanwhile, other analyses have come up with carbon prices ranging from $200 to $400 or more per ton.
+But even if one stipulates that the price should be $100 per ton, that would translate into around $0.90 per gallon (3.8 liters) of gasoline – a charge at the pump that would feel more like a revolution than like a modest policy measure.
+<P>
+Even so, the likely public reaction does not make the number “wrong,” or even particularly radical.
+Economics may be about tradeoffs, but planetary physics provides a hard budget constraint that even – or especially – economists cannot evade.
+In this context, the true radical ignores physics and continues hiding behind wholly inadequate benefit-cost analyses that all but dismiss the obvious risks of a quickly warming planet.

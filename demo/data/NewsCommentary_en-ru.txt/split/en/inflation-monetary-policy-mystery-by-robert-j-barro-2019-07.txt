@@ -1,0 +1,62 @@
+<HEADLINE>
+Mysteries of Monetary Policy
+<P>
+CAMBRIDGE – One of the remarkable features of post-war economic history has been the taming of inflation in the United States and many other countries since the mid-1980s.
+Before then, the US inflation rate (based on the deflator for personal consumption expenditures) averaged 6.6% per year during the 1970s, and exceeded 10% in 1979-1980.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+In the early- and mid-1970s, Presidents Richard Nixon and Gerald Ford tried to curb inflation with a misguided combination of price controls and exhortation, along with moderate monetary restraint.
+But then came President Jimmy Carter, who, after initially maintaining this approach, appointed Paul Volcker to chair the US Federal Reserve in August 1979.
+Under Volcker, the Fed soon began to raise short-term nominal interest rates to whatever level it would take to bring down inflation.
+<P>
+Volcker, backed by President Ronald Reagan after January 1981, stuck with this approach, despite intense political opposition, and that July the federal funds rate peaked at 22%.
+The policy worked: annual inflation fell sharply to an average of just 3.4% from 1983 to 1989.
+The Fed had satisfied in extreme form what later became known as the Taylor Principle (or, more appropriately, the Volcker Principle), whereby the federal funds rate increases by more than the rise in the inflation rate.
+<P>
+Since then, the Fed has guided monetary policy primarily through control over short-term nominal interest rates, especially the federal funds rate.
+When its power over short-term borrowing costs was compromised following the 2008 financial crisis – because the federal funds rate approached its (roughly) zero lower bound – the Fed supplemented its main policy instrument with forward guidance and quantitative easing (QE).
+<P>
+Judging by the US inflation rate over past decades, the Fed’s monetary policy has worked brilliantly.
+Annual inflation has averaged only 1.5% per year since 2010, slightly below the Fed’s oft-expressed target of 2%, and has been strikingly stable.
+And yet, the question is how this was achieved.
+Did inflation remain subdued because everyone believed that anything significantly above the 1.5-2% range would trigger a sharp hike in the federal funds rate?
+<P>
+There is a large body of research into how changes in the federal funds rate influence the economy.
+A 2018 paper by Emi Nakamura and Jón Steinsson in the Quarterly Journal of Economics, for example, finds that a contractionary monetary shock – an unanticipated rise in the federal funds rate – raises yields on Treasury securities over a 3-5-year horizon, with a peak effect at two years.
+(Results for expansionary shocks are symmetric.)
+Most of these effects apply to real (inflation-adjusted) interest rates, and show up in indexed bonds as well as conventional Treasuries.
+The effect of a contractionary shock on the prospective inflation rate is negative but moderate in size, and sets in significantly only after 3-5 years.
+<P>
+Although unexpected increases in the federal funds rate are conventionally labeled as contractionary, Nakamura and Steinsson find that “forecasts about output growth” actually rise for the year following an unexpected rate hike.
+That is, a rate increase predicts higher growth, and a decrease predicts lower growth.
+This pattern likely occurs because the Fed typically raises interest rates when it gets information that the economy is stronger than expected, and it cuts rates when it suspects that the economy is weaker than it previously thought.
+<P>
+The same paper also finds that an unanticipated rise in the federal funds rate is bad for the stock market (and vice versa), which accords with the deeply held views of many financial commentators, not to mention US President Donald Trump.
+The authors estimate that an unanticipated rate cut of 50 basis points raises the S&P 500 stock-market index by about 5%, even though projected real GDP growth declines.
+The likely reason is the decrease in expected real returns on competing financial instruments, such as Treasury bonds, over the next 3-5 years.
+This discount-rate effect overshadows the negative influence on stock prices from lower expected future real earnings.
+<P>
+But, again, the puzzle is how the Fed can keep inflation steady at 1.5‑2% per year by relying on a policy tool that seems to have only weak and delayed effects.
+Presumably, if inflation were to rise substantially above the 1.5-2% range, the Fed would initiate the type of dramatic increases in short-term nominal interest rates that Volcker carried out in the early 1980s, and these changes would have major and rapid negative effects on inflation.
+Similarly, if inflation were to fall well below target, perhaps becoming negative, the Fed would sharply cut rates – or, after hitting the zero-lower bound, use alternative expansionary policies – and this would have major and rapid positive effects on inflation.
+<P>
+According to this view, the credible threat of extreme responses from the Fed has meant that it does not actually have to repeat the Volcker-era policy.
+Rate changes since that time have had modest associations with inflation, but the hypothetical possibility of much sharper changes has remained powerful.
+<P>
+Frankly, I am unhappy with this explanation.
+It is like saying that the inflation rate is subdued because it just is.
+And, no doubt, a key factor is that actual and expected inflation have both been low – the two are intimately connected twins.
+But this suggests that the monetary policy behind today’s low and stable actual and expected inflation will keep working until, suddenly, it doesn’t.
+<P>
+This makes me wish that I had a better understanding of monetary policy and inflation.
+It also makes me wish that the people responsible for monetary policy had a better understanding than I have.
+Many readers, no doubt, would say that my second wish has already been granted.
+Let us hope they are right.

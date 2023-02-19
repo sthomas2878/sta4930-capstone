@@ -1,0 +1,50 @@
+<HEADLINE>
+Keep the Geeks in Charge of the Internet
+<P>
+LOS ANGELES – The coronavirus pandemic has rapidly transformed the Internet into the most critical infrastructure on Earth.
+By enabling people and businesses to remain connected while under lockdown, the Internet has helped to prevent the global economy from collapsing entirely.
+Indeed, with fear and social distancing continuing to separate many of us, it has become the connective tissue for much human interaction and economic activity around the world.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+But few appreciate how this critical global resource has remained stable and resilient since its inception, even as its scope and scale have undergone uninterrupted explosive growth.
+In an age of widening political, economic, and social divisions, how has the “one Internet” connecting the entire world been sustained?
+And how can we best continue to protect it?
+<P>
+The answers to both questions start with understanding what makes the Internet – which consists of tens of thousands of disparate networks – look like and function as one network for all.
+These components, or unique Internet identifiers, include Internet Protocol (IP) addresses, which are associated with every device connected to the Internet, and Internet domain names (like ft.com, harvard.edu, or apple.news), which we use to search for and connect to computers easily.
+<P>
+These unique identifiers ensure that, no matter where you are or which network you are connected to, you will always get in touch with the right computer with the desired domain name, or reach the right target device with an embedded IP number (such as a smart thermostat, for example).
+This simple, elegant architecture reflects the genius of a handful of brilliant engineers who created the Internet a half-century ago.
+Since then, it has never failed to help us locate the billions of devices that have been added to the thousands of networks that make up today’s cyber economy.
+Should the identifiers fail, we would experience immediate digital chaos.
+<P>
+Given the identifiers’ critical role, it is imperative that they not be compromised or controlled by any authority that is not committed to maintaining the Internet as an open, global, common good.
+In the wrong hands, they could be used to fragment the Internet and enable top-down control of usage and users by governments with malign intentions.
+And such fears are real, given authoritarian governments’ online meddling in elections, national security networks, and digital commercial transactions in the last few years.
+<P>
+So, the key question is who should be entrusted today to maintain the security and reliability of Internet identifiers.
+The answer is simple: geeks, not governments.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The same engineers who built the Internet established nonprofit institutions, such as the Internet Corporation for Assigned Names and Numbers (ICANN) and the Internet Engineering Task Force (IETF), to take responsibility for the unique identifiers and maintain the Internet’s original ethos of openness.
+These and other institutions coordinate global efforts to manage the protocols necessary for the Internet’s stable and reliable operation, and the engineers who run them today do so with remarkable independence, precision, dedication, and humility.
+<P>
+The last major assault on these institutions’ independence came in December 2012, when a group of governments at the United Nations’ World Conference on International Telecommunications (WCIT) attempted to take control of the unique identifiers.
+This effort was thwarted thanks to the vigilance of democratic governments that valued the power of a single global Internet to foster innovation, commerce, and international cooperation.
+<P>
+But today, in the midst of the chaos caused by the COVID-19 pandemic, authoritarian governments are once again using the UN to try to seize control of critical Internet resources from engineers.
+During a recent International Telecommunication Union meeting, a proposal for a new standard for core network technology was submitted.
+<P>
+Regrettably, and more worryingly, extreme activist groups and democratic governments also are carelessly intruding on the work of these independent institutions, for example to police free expression on social media.
+For example, after Twitter attached a fact-check warning to two of US President Donald Trump’s recent tweets, he threatened that his administration would “strongly regulate” or close down social media platforms that he believes “silence conservative voices.”
+<P>
+Organizations such as ICANN and IETF have spent decades developing and refining consensus-based decision-making processes, involving inclusive and transparent “bottom-up” participation by engineers, businesses, civil-society organizations, and governments.
+The danger is that by subverting these institutions’ established procedures, official interference and lobbying will make them easy prey for authoritarian regimes.
+<P>
+Attempting to reshape from outside the decisions of bodies like ICANN, or to fuel the efforts of authoritarian regimes to shift control of the Internet to governments within the UN framework, contradicts the Internet’s original ethos and could be devastating for us all.
+<P>
+We must commit to safeguarding the resilient system that enables the Internet to function free of political interference or control.
+At a time when our physical and economic health are faltering in the face of a potent virus, protecting the independent, democratic, and transparent institutions that have dependably governed the Internet infrastructure since its inception has never been more important.

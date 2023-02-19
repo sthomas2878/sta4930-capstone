@@ -1,0 +1,51 @@
+<HEADLINE>
+Squaring the Eurozone’s Vicious Circle
+<P>
+SALAMANCA – The eurozone is caught in a diabolical loop, in which weak banking systems harm their sovereigns’ fiscal positions, which in turn compromise the banking system’s stability.
+But, over the last couple of years, policymakers have focused largely on reducing banks’ impact on their sovereigns – for example, through a Europe-wide supervisory authority and efforts to establish a European resolution mechanism – while ignoring the feedback in the other direction.
+<P>
+Although eurozone sovereign-debt markets have stabilized, the share of sovereign bonds held by domestic banks has increased sharply in the last few months, accounting for more than half of the net increase in debt emissions in some countries.
+In Spain and Italy, sovereign bonds now account for roughly 10% of banks’ total assets (see graphs below).
+<P>
+The risk is that any unexpected challenge faced by a weaker debtor country’s sovereign-bond market – say, Catalonia’s secession referendum, or the renegotiation of the Portuguese and Greek bailouts – will undermine bank solvency, often even more than in previous rounds of the feedback loop.
+Moreover, even in the absence of a crisis, the sovereign-bond market’s geographical segmentation hampers monetary-policy transmission substantially.
+<P>
+What accounts for banks’ growing bias toward their own country’s sovereign debt?
+And what should be done about it?
+<P>
+The most obvious suspect is Basel III, the new global regulatory standard for banks’ capital adequacy and liquidity.
+But, while Basel III favors sovereign debt in general by assigning it a zero risk-weight in calculating capital requirements, it does not favor home-country debt, at least not within the context of the eurozone.
+Indeed, Basel III treats all OECD government bonds in the same way, regardless of whether they are denominated in the issuing country’s own currency.
+<P>
+Likewise, while the European Central Bank’s collateral policy imposes different “haircuts” on bondholders depending on a country’s credit rating, it discriminates little between countries.
+In short, current bank regulation neither encourages nor discourages the home-country bias in banks’ sovereign-debt holdings.
+<P>
+In fact, eurozone banks’ preference for home-country sovereign bonds is rooted in a combination of factors, including fear of redenomination – a consequence of the crisis that leads banks to concentrate their risk domestically – and the expectation that bailout mechanisms will be national.
+Given that the eurozone lacks any supra-national fiscal backstop, such as a lender of last resort or a debt-mutualization mechanism like Eurobonds, the home-country bias can be expected to intensify whenever an economy experiences a significant shock.
+<P>
+Against this background, European policymakers and regulators must take action to encourage banks to diversify their sovereign-debt holdings.
+Of course, a common fiscal backstop (along with a single banking supervisor) would eliminate the bias.
+But there is strong resistance to the fundamental changes to the eurozone’s architecture that this would require.
+<P>
+A more feasible solution would be to introduce an explicit regulatory bias against home-country sovereign-debt holdings.
+This could be done in three ways.
+<P>
+The first option would be to place upper limits on the sovereign debt held by banks – for example, by eliminating the current exemption of zero-risk sovereign bonds from regulators’ so-called large exposure regime.
+But administrative caps are a blunt instrument that introduce new nonlinearities and opportunities for arbitrage and speculation.
+And weaker sovereigns, legitimately fearing that such a scheme would suppress demand for their debt, would almost certainly block it.
+<P>
+Another potential solution, proposed by the euro-nomics group in 2011, would be to create “European Safe-Bonds” (ESBies).
+A European debt agency would purchase eurozone countries’ sovereign bonds, weighted according to each country’s contribution to the eurozone’s GDP, and use them as collateral to issue two securities.
+The first security, the ESBies, would be composed of the senior tranche of the bond portfolio, and would serve as the “safe asset,” while the second, risky security would be sold to investors in the market.
+<P>
+ESBies would effectively fulfill the role of Eurobonds, but without the joint and several liability that would demand treaty changes.
+Though the lack of such debt mutualization has caused weaker sovereigns to resist ESBies, while stronger sovereigns contend that ESBies still demand excessive risk-sharing, this solution could gain traction in the event of another crisis.
+<P>
+The third option would be to introduce a new rule conditioning sovereign bonds’ zero-risk weight on banks’ willingness to hold them in certain proportions – for example, relative to GDP.
+Although a transitional regime would be needed to avoid hurting banks in weaker countries, such a rule would dramatically reduce banks’ exposure to home-country sovereign debt.
+Indeed, it could help to encourage the market-driven creation of a eurozone safe asset – a kind of non-regulatory ESBie.
+<P>
+Regardless of the approach, one thing is clear: European policymakers and regulators must act now to eliminate the negative feedback loop between sovereigns and their banks.
+Waiting for another crisis to strike could have devastating consequences for both.
+<P>
+<P>

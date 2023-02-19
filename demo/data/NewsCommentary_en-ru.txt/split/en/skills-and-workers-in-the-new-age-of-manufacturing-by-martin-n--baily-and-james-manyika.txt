@@ -1,0 +1,55 @@
+<HEADLINE>
+Is Manufacturing “Cool” Again?
+<P>
+WASHINGTON, DC – Once upon a time, ambitious young people with a knack for math and science went to work in manufacturing.
+They designed planes, computers, and furniture, figured out how to lay out an assembly line, helped to make new cars faster and refrigerators more efficient, pushed the limits of computer chips, and invented new medicines.
+But, as the role of manufacturing diminished in advanced economies, the brightest talents tended to gravitate to finance and other service fields that were growing rapidly – and paying well.
+<P>
+But here’s some news: global manufacturing has the potential to stage a renaissance and once again become a career of choice for the most talented.
+<P>
+Of course, any manufacturing rebound in the advanced economies will not generate mass employment; but it will create many high-quality jobs.
+There will be more demand for software programmers, engineers, designers, robotics experts, data analytics specialists, and myriad other professional and service-type positions.
+In some manufacturing sectors, more such people may be hired than will be added on the factory floor.
+<P>
+Exploding demand in developing economies and a wave of innovation in materials, manufacturing processes, and information technology are driving today’s new possibilities for manufacturing.
+Even as the share of manufacturing in global GDP has fallen – from about 20% in 1990 to 16% in 2010 – manufacturing companies have made outsize contributions to innovation, funding as much as 70% of private-sector R&D in some countries.
+From nanotechnologies that make possible new types of microelectronics and medical treatments to additive manufacturing systems (better known as 3D printing), emerging new materials and methods are set to revolutionize how products are designed and made.
+<P>
+But, to become a genuine driver of growth, the new wave of manufacturing technology needs a broad skills base.
+For example, it will take many highly-trained and creative workers to move 3D printing from an astounding possibility to a practical production tool.
+<P>
+Consider, too, the challenges of the auto industry, which is shifting from conventional, steel-bodied cars with traditional drive trains to lighter, more fuel-efficient vehicles in which electronics are as important as mechanical parts.
+The Chevrolet Volt has more lines of software code than the Boeing 787.
+So the car industry needs people fluent in mechanical engineering, battery chemistry, and electronics.
+<P>
+Manufacturing is already an intensive user of “big data” – the use of massive data sets to discover new patterns, perform simulations, and manage complex systems in real-time.
+Manufacturing stores more data than any other sector – an estimated two exabytes (two quintillion bytes) in 2010.
+By enabling more sophisticated simulations that discover glitches at an early stage, big data has helped Toyota, Fiat, and Nissan cut the time needed to develop new models by 30-50%.
+<P>
+Manufacturers in many other branches are using big data to monitor the performance of machinery and equipment, fine-tune maintenance routines, and ferret out consumer insights from social-media chatter.
+But there aren’t enough people with big-data skills.
+In the United States alone, there is a potential shortfall of 1.5 million data-savvy managers and analysts needed to drive the emerging data revolution in manufacturing.
+<P>
+The shift of manufacturing demand to developing economies also requires new skills.
+A recent McKinsey survey of multinationals based in the US and Europe found that, on average, these companies derive only 18% of sales from developing economies.
+But these economies are projected to account for 70% of global sales of manufactured goods (both consumer and industrial products) by 2025.
+To develop these markets, companies will need talented people, from ethnographers (to understand consumers’ customs and preferences) to engineers (to design products that fit a new definition of value).
+<P>
+Perhaps most important, manufacturing is becoming more “democratic,” and thus more appealing to bright young people with an entrepreneurial bent.
+Not only has design technology become more accessible, but an extensive virtual infrastructure exists that enables small and medium-size companies to outsource design, manufacturing, and logistics.
+Large and small companies alike are crowd-sourcing ideas online for new products and actual designs.
+“Maker spaces” – shared production facilities built around a spirit of open innovation – are proliferating.
+<P>
+And yet, across the board, manufacturing is vulnerable to a potential shortage of high-skill workers.
+Research by the McKinsey Global Institute finds that the number of college graduates in 2020 will fall 40 million short of what employers around the world need, largely owing to rapidly aging workforces, particularly in Europe, Japan, and China.
+In some manufacturing sectors, the gaps could be dauntingly large.
+In the US, workers over the age of 55 make up 40% of the workforce in agricultural chemicals manufacturing and more than one-third of the workforce in ceramics.
+Some 8% of the members of the National Association of Manufacturers report having trouble filling positions vacated by retirees.
+<P>
+Indeed, when the NAM conducted a survey of high-school students in Indianapolis, Indiana (which is already experiencing a manufacturing revival), the results were alarming: only 3% of students said that they were interested in careers in manufacturing.
+In response, the NAM launched a program to change students’ attitudes.
+But not only young people need persuading: surveys of engineers who leave manufacturing for other fields indicate that a lack of career paths and slow advancement cause some to abandon the sector.
+<P>
+Manufacturing superstars such as Germany and South Korea have always attracted the brightest and the best to the sector.
+But now manufacturers in economies that do not have these countries’ superior track record must figure out how to be talent magnets.
+Manufacturing’s rising coolness quotient should prove useful, but turning it into a highly sought-after career requires that companies in the sector back up the shiny new image with the right opportunities – and the right rewards.

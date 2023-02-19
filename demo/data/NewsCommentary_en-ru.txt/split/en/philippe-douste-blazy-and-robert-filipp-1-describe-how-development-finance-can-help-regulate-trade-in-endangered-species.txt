@@ -1,0 +1,52 @@
+<HEADLINE>
+Financial Innovation in the Wild
+<P>
+PARIS – This month, the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) celebrates the start of its fifth decade.
+It is the oldest international environmental agreement and one of the few with real teeth, because it can impose trade sanctions for non-compliance – and because virtually all countries have joined.
+<P>
+The mission of CITES is to prevent illegal wildlife trafficking and illicit trade in endangered and protected species.
+Commercial trade in species that are threatened with extinction – including elephants, rhinos, and tigers – as well as derivative products, such as tusks, horns, and powders, is completely prohibited.
+Commercial trade in species that are not yet threatened with extinction but are still protected by CITES – for example, pythons – is subject to a permit.
+<P>
+In total, CITES extends protection to roughly 5,600 animal and 30,000 plant species.
+Yet many protected species are nonetheless facing severe threats, owing to habitat loss, illicit trafficking, and unsustainable harvesting.
+<P>
+We believe that innovative development finance can play a role in helping the 180 CITES parties to realize the convention’s full potential, by adapting widely available cutting-edge technologies and tools to the business of trade permits.
+<P>
+The international trade in CITES-listed species is a multibillion-dollar business, ranging from timber to exotic pets to luxury leather products.
+Since CITES entered into force, the number of trade permits issued annually has risen significantly, to more than one million.
+But the permitting system is technologically outdated and susceptible to abuse from fraud and corruption.
+<P>
+For example, the official python trade covered by permits has an annual market value of $1 billion; but another estimated $1 billion in python products is traded on the black market.
+Often a permit is abused to smuggle additional goods, because the current system does not permit matching a particular skin or a particular animal to a given permit.
+<P>
+What is urgently needed is a real-time, electronic verification system that can track a specimen from source to final product.
+The creation of a global e-permitting system with modern tracking technologies, processes, and branding, similar to the German TÜV (Technical Inspection Association), would help to save endangered species, protect our planet’s wildlife, and compensate local communities.
+<P>
+A wide range of technologies and applications now used for human identification – such as optical and sound recognition, laser and satellite imagery, DNA analysis, and data mining, to name a few – can be adapted to advance this traceability strategy.
+For example, today’s scanning technologies and information systems are perfectly capable of scanning a python or crocodile skin and tracing a small piece (say, a watchstrap) back to the source.
+<P>
+Another option would be to scan, say, the iris of a parrot at point of export to ensure that it is not replaced with another parrot.
+This would make abuse of the permitting system significantly more difficult.
+<P>
+Innovative development finance can mobilize private capital and public funding to create and commercialize technologies that can be used by CITES.
+Imagine the world’s first impact fund to invest in cutting-edge devices and services that improve the regulation, enforcement, and public awareness of international trade in endangered species.
+The fund we have in mind would be able to generate market-compatible returns by investing in technology companies and service providers that track trade in endangered species from source to end product.
+<P>
+How would these companies make money?
+<P>
+First, they would be able to sell solutions to law-enforcement bodies, such as customs agencies and the police, and to companies in the supply chain.
+Most luxury-goods companies are in favor of an efficient, cost-effective permitting system.
+But, while they will use such a system if it is available and demanded by customers, they will not invest in it themselves.
+Crowd-sourcing systems that allow consumers to demand and verify supply information could be very effective in creating a new market for such information.
+<P>
+Second, permits are not free even today.
+In fact, one of the current system’s problems is that many in the supply chain choose to “save” the money for a permit, because cheating is easy.
+An iron-clad, real-time e-permitting system would provide a scalable, recurrent revenue stream for technology providers and system operators.
+It would also put pressure on those using the black market to come out of the shadows.
+<P>
+The approach we envision is paradigmatic of innovative development finance.
+It combines the best of what the private sector has to offer, including capital, technology, innovation, and efficiency, with the best of what the public sector has to offer, such as legislation and regulation for safeguarding global public goods.
+If the parties to CITES embrace the technological capabilities that are available to them, local communities and our planet’s wildlife will be the biggest winners.
+<P>
+The authors would like to thank John E. Scanlon for his invaluable contribution to this article.

@@ -1,0 +1,58 @@
+<HEADLINE>
+Germany’s Constitutional Court Goes Rogue
+<P>
+WASHINGTON, DC – On May 5, Germany’s Federal Constitutional Court ruled that the country’s government and legislature had violated the constitution by failing to monitor properly the European Central Bank, and in particular the bank’s public sector asset-purchase program (PSPP).
+The ruling was as tortuous as it sounds – a shot from the back through the chest and into the eye, as the German saying goes.
+And therein lies the problem.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In an angry, self-righteous tone, the court argued that it was not bound by a December 2018 ruling by the Court of Justice of the European Union (CJEU) on the same matter, because that court had grossly violated methods of legal interpretation by failing to apply the EU’s “proportionality principle” properly.
+As a result, the German court found the CJEU’s ruling to be ultra vires (beyond the CJEU’s powers) and therefore not binding.
+<P>
+In other words, an independent court has attacked the legality of a ruling by another independent (and, with respect to EU law, superior) court, for the latter’s supposed failure to police an independent central bank.
+The age-old question, “Who governs the governors?” (quis custodiet ipsos custodes?), has never been more relevant.
+<P>
+Within the EU treaty framework, the CJEU has the exclusive power to interpret EU treaty law (under Article 267 of the Treaty on the Functioning of the European Union) and to adjudicate matters concerning the ECB (under Article 35 of Protocol 4 to the TFEU).
+Having brushed aside the CJEU’s judgment, the German judges embarked on their own analysis of the ECB’s quantitative-easing programs.
+<P>
+Importantly, they did not conclude that the ECB had violated Article 123 of the TFEU, which prohibits the ECB from engaging in monetary financing of member states’ budgets.
+Instead, they argued that the CJEU had failed to ensure that the ECB applied its own proportionality analysis when assessing the likely impact of its policies on both monetary and broader economic outcomes, keeping in mind that the ECB’s own powers are limited to monetary policies.
+<P>
+Economists were quick to point out the impossibility of clearly distinguishing monetary policies from economic policies, and called the German court’s ruling “economically naive.”
+But there is a deeper problem: the division of powers within government.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Policing these boundaries is always difficult, but it is especially problematic within the EU’s peculiar multilayered governance regime.
+The EU is not a federal state; it relies on powers that member states delegate to it, more so in some domains than in others.
+Viewed in the most favorable light, the German court is arguing that the CJEU’s failure to police the ECB left it with no choice but to ignore the CJEU’s exclusive powers to interpret EU treaty law and instead provide its own interpretation.
+<P>
+It is not impossible to imagine a clear-cut case of illegality that would justify the German court’s position, but failure to apply the proportionality test properly is not it.
+Although the principle has been incorporated into EU treaty law, the proportionality test is not a bright-line rule, but rather a guide for determining how EU competences can be used in a balanced and reasoned fashion.
+<P>
+Case law has refined the proportionality test into three parts: effectiveness, necessity, and a least-restrictive-means assessment.
+The CJEU did not ignore the test; at most, it failed to apply the third part fully.
+According to the German court, this rendered the entire exercise “meaningless.”
+But one cannot help wondering whether the German judges have pondered the proportionality of their own action.
+<P>
+While the German court accuses the CJEU of unlawful conduct, it has itself pushed the limits by creating a pathway for litigants to initiate these legal actions in the first place.
+Under Germany’s 1949 Basic Law, only individuals whose constitutional rights are at stake have standing to bring a claim before the Federal Constitutional Court.
+Such a violation is hardly self-evident when it comes to central-bank policies or the German government’s response to them.
+<P>
+But the court cleared a pathway for such cases by combining the individual right to vote in democratic elections with the principle of democracy enshrined in the Basic Law.
+On that basis, it argued that any transfer of rights to the EU that is not explicitly endorsed by the German legislature or that might affect its fiscal sovereignty amounts to a violation of the individual right to vote.
+<P>
+This legal construction arguably overstepped the boundaries of judicial competence, as the court’s former justice Gertrude Lübbe-Wolff argued persuasively in her dissenting opinion in the first case concerning the ECB in January 2014.
+If the court had exercised judicial self-restraint, the power to police the actions of EU institutions in all but the most extreme cases would have remained where it belongs: with the German government and legislature.
+<P>
+With its May 5 ruling, however, the Federal Constitutional Court has fully asserted itself as the ultimate arbiter of ECB policies.
+For now, the ECB might mitigate the impact of this ruling by adding more detailed proportionality analysis to its policy announcements.
+<P>
+But the problem runs deeper still.
+The Federal Constitutional Court will police Germany’s relations with the EU, monitor ongoing and future ECB policies, and most likely block any attempt to introduce eurobonds, however powerful the policy case for them might be.
+And, because the Basic Law, adopted in response to the horrors of the Nazi regime, protects the principle of democracy with an “eternity guarantee,” not even a constitutional amendment can resolve this impasse.
+<P>
+And now that court – heedless of the political consequences for Europe and Germany, contemptuous of the rule of law within the EU, and cavalier about its own limitations – risks sacrificing the euro and possibly even the EU by clamping down on the ECB’s efforts to manage the euro.
+An institution that, by design, no one governs is out of control.

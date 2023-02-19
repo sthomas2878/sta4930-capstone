@@ -1,0 +1,56 @@
+<HEADLINE>
+A Digital Path to Health for All
+<P>
+BASEL/SEATTLE – Global leaders at the recent annual gathering of the World Health Assembly in Geneva expressed worry and optimism in almost equal measure.
+Delegates at the Assembly – the decision-making body of the World Health Organization – likened the scope of the world’s health crisis to that of the threat posed by climate change.
+They also agree, however, that digital technology and data will play a crucial role in accelerating efforts to achieve health for all.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+In many respects, the world’s health has improved markedly in recent decades: average global life expectancy has increased by over five years, while childhood mortality has decreased by over 50% since 1990.
+Yet half the world’s population still lacks full access to basic health services, and health-related expenses drive roughly 100 million people per year into poverty.
+The problem is particularly severe in low- and middle-income countries, where the financial burden of the four most frequent non-communicable diseases alone (cardiovascular disease, cancer, diabetes, and chronic respiratory diseases) is expected to surpass $7 trillion from 2011 to 2025, according to the WHO.
+<P>
+At the same time, the world is just beginning to recognize the potential of digitally enhanced data to improve health.
+With increased use of digital technology, we can help people stay healthy, rather than waiting for them to get sick.
+We can make reactive health-care systems proactive and – thanks to artificial intelligence (AI) – even predictive.
+<P>
+In our view, digital health is the most efficient, cost-effective way for the world to meet the United Nations Sustainable Development Goals’ health-related targets – particularly universal health coverage, whereby everyone can access the quality care they need without incurring financial hardship.
+This is also a high priority for the WHO, which earlier this year created a Department of Digital Health and published its first set of guidelines on the subject.
+<P>
+With several major global strategy-setting meetings ahead, including the UN High-Level Meeting on Universal Health Coverage in New York in September, the world must act now to realize the promise of digital health.
+We see three distinct opportunities for cross-sectoral partnerships: in prediction, prevention, and health-care delivery.
+<P>
+Understanding – and, where possible, predicting – the health profile of populations is integral to providing better care.
+Digitized data collection, including through the use of AI and machine learning, can help health-care systems to detect risk factors in advance and respond quickly to prevent disease.
+Real-time data can inform planning and resource-allocation decisions, reduce costs, and improve the overall quality of care.
+Better processes for ensuring data security and privacy are also essential to implement predictive systems at scale.
+<P>
+To explore further the challenges and huge opportunities in this area, the Novartis Foundation and Microsoft are co-chairing a new Broadband Commission working group that will make recommendations regarding how AI can safely improve health and strengthen health-care systems.
+In a similar vein, health-advocacy organization PATH is working with the Tanzanian government to test machine-learning applications that promise to predict demand for vaccines more accurately and optimize their delivery.
+<P>
+Digital health tools that inform and empower patients can also play a crucial role in preventing disease.
+Simple, existing, cost-effective technology, such as mobile phones and broadband, can make a huge difference in raising awareness of the causes and early symptoms of disease.
+PATH and the Novartis Foundation, for example, are collaborating on the Communities for Healthy Hearts program in Vietnam, which uses digital technology to improve and accelerate control of hypertension – the leading cause of heart disease.
+<P>
+Finally, digital technology can help to deliver health care to people in remote or underserved areas, thereby tackling one of the greatest obstacles to reducing disease.
+Using mobile phones, WhatsApp, and text messages can improve the quality and accessibility of care for millions of people.
+In that regard, the Novartis Foundation and PATH have introduced telemedicine in Ghana, which connects rural inhabitants with trained healthcare professionals, and digital dashboards that enable better, faster malaria care.
+<P>
+Digital data and technology must be fully integrated into national health systems, and should become as essential as hospital beds.
+Too many digital health pilot programs over the past decade have been uncoordinated and focused on single issues.
+Leadership from national governments is therefore critical to ensuring a coherent approach.
+<P>
+Fortunately, global and country-led efforts are starting to move in this direction.
+Earlier this year, for example, the Democratic Republic of the Congo established its first digital health agency, with the aspiration of improving management of the health-care system, provide better care, and make services more accessible.
+<P>
+We can solve the global health crisis and achieve universal coverage, but only by making digital tools central to all countries’ health systems.
+No single organization can achieve this on its own: we need the public, private, and social sectors to work together.
+In fact, the goal must be to make these new technologies so widespread that we no longer need to refer to “digital” health, because that is what all health systems will be.

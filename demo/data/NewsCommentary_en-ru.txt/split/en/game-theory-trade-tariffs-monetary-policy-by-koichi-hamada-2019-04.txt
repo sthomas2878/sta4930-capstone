@@ -1,0 +1,54 @@
+<HEADLINE>
+The International Economic Policy Game
+<P>
+TOKYO – Until relatively recently, specialists in international relations had little interest in game theory; some were even “frightened” to hear the term, as the chair of one of my presentations put it to me several years ago.
+Today, many are better informed about the strategic analysis of political actors’ behavior and decision-making.
+The relevance of such analysis for economic policymaking is no less obvious: each player on the world stage is not acting independently, but rather considers other players’ possible reactions to his or her action.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+All human interaction is characterized by a mixture of competition and cooperation.
+Competition among individuals, businesses, and countries advances human welfare by creating incentives to work hard, innovate, and excel.
+Cooperation does so by harnessing the strengths of different actors to drive progress toward shared objectives.
+Which approach is preferable depends on the context, including what the other players are doing.
+<P>
+The mathematical foundations for analyzing both cooperative and non-cooperative interactions among rational agents were developed by the late Nobel laureate John Nash.
+When there are a large number of participants, and none has a monopoly on power, non-cooperative behavior by many actors can lead to optimal performance.
+In trade, for example, free competition among economic agents can produce “Pareto efficiency”: resources are allocated in such a way that any reallocation to benefit one actor would hurt at least one other actor.
+<P>
+Competition starts to become a problem when national governments intervene in the game, in order to give their country’s firms an advantage.
+That is exactly what US President Donald Trump’s administration did when it imposed tariffs on imports from China, which retaliated with its own tariffs on imports from the United States.
+Far from advancing human welfare, this competition threatens to cause serious damage to both economies – and to the rest of the world.
+<P>
+It’s happened before.
+The US Smoot-Hawley Tariff Act, enacted in 1930 to protect American farmers and other industries, not only created imbalances by hampering competition among economic agents; it also spurred retaliatory measures, ultimately exacerbating the Great Depression.
+<P>
+So when it comes to trade, we need competition among economic agents, but cooperation among governments.
+The World Trade Organization was created precisely to facilitate such cooperation, with the WTO Charter dictating that tariffs must be regulated, in order to keep trade broadly beneficial.
+Within this framework, the Trump administration’s actions are justifiable only if they correct distortions created by China’s trade policy – in particular, its failure adequately to protect intellectual property.
+<P>
+In a world of flexible exchange rates, non-cooperation also serves a useful purpose in monetary policy.
+Within such a regime – which has prevailed globally since the demise of the Bretton Woods system in 1973 – one country’s monetary expansion, by causing its currency to depreciate, tends to increase employment at home, while undermining employment in countries with which it trades.
+<P>
+As with trade tariffs, this can spur more countries to pursue monetary expansion, in order to weaken their currencies and boost their declining trade competitiveness.
+The Estonian economist Ragnar Nurkse pointed out, in the 1930s – after the gold standard was abandoned and before the Bretton Woods system was established – such competitive devaluations were “beggar thy neighbor,” leaving both the initiators and the world as a whole worse off.
+<P>
+Barry Eichengreen and Jeffrey D. Sachs demonstrated, however, that countries recovered from the Great Depression only after “jettisoning the gold standard, abandoning deﬂationary monetary policies, and allowing [their] currency to depreciate.”
+They showed that non-cooperative monetary policy – set by each country with the objective of achieving domestic macroeconomic stability – produces desirable outcomes for the world.
+After all, within a flexible exchange-rate regime, a country’s trading partners can always readjust their own monetary policies to counteract or even fully offset any negative effects from its expansionary stance.
+<P>
+Though I once argued that coordination of monetary policy was necessary for better performance under the fixed exchange rate, I now completely agree with them.
+The rules of the international monetary game changed under flexible exchange rates.
+<P>
+Given this, a laissez-faire approach should prevail in the monetary-policy game.
+That is why the Trump administration’s criticism of Japan’s monetary expansion – clearly aimed not at impoverishing trading partners, but rather at promoting domestic macroeconomic stability amid very low inflation – is unwarranted.
+<P>
+The balance between competition and cooperation can be difficult to strike.
+One can only hope for a future in which more political leaders recognize how game theory provides a useful framework for assessing the possibilities and choosing the most promising.

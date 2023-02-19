@@ -1,0 +1,49 @@
+<HEADLINE>
+The Data-Driven City
+<P>
+SAN JOSÉ – When you look at your phone or tablet, what do you see?
+Pixels?
+Pictures?
+Digital distraction?
+I see data.
+<P>
+Every day, we generate enormous amounts of information, a binary trail of breadcrumbs that forms a map of our interests, habits, and interactions.
+For those of us in the business of urban planning, these disparate datasets represent a goldmine of opportunity.
+If harnessed properly, user-generated data can help planners build cities that are more in tune with people’s actual needs.
+<P>
+There is just one problem: the world is literally drowning in data.
+To make use of all the information that people involuntarily produce, planners must improve how data is captured, analyzed, and shared between the public and private sectors.
+If we succeed, some of the biggest obstacles that the world faces – from poverty to climate change – could become a bit more manageable.
+<P>
+One of the most significant innovations being embraced by the world’s planning agencies is the concept of “open data,” information that can be used by anyone to improve any aspect of public life.
+In an open-data environment, datasets from transportation, education, health care, and countless other municipal sectors are made available to optimize current services, or to create new ones.
+For example, France’s La Base Adresse Nationale pulls together location information to improve spatial analysis and emergency response times, while the European Union’s Urban Data Platform facilitates data sharing across the EU.
+<P>
+When governments, universities, research centers, and innovation hubs work together to share information, they become true partners in the urban-planning process.
+Open data usage can also promote transparency and build trust in government decision-making and official policies.
+<P>
+To be sure, many challenges must be overcome before governments can open the data floodgates.
+Legal frameworks must protect personal anonymity; data protocols should be adopted to ensure that decisions don’t exclude populations that are cut off from technology; and trustworthy platforms are needed to enable data sharing between agencies and municipalities without risk of sabotage.
+<P>
+But, once the hurdles are overcome, the opportunities for better planning will be virtually endless.
+Nuggets of digital detail illuminate how people move in and interact with the built environment.
+When combined with data from government sources – such as information on air quality, traffic patterns, crime, or health statistics – user-generated information can lead to more sustainable cities.
+For example, by mapping how and when people travel, planners can know where to invest more in cleaner modes of transportation – such as bike-sharing systems or electric car-charging stations.
+<P>
+The interaction between transportation and climate-related challenges is one of the most promising areas for testing open-data solutions.
+Today, roughly half of the world’s population lives in cities, but cities account for approximately 75% of global carbon dioxide emissions, which are largely attributable to transportation.
+In many parts of the world, twentieth-century urban development strategies created sprawling, car-centered cities; but accelerating rates of urbanization have made this approach unsustainable.
+<P>
+Faced with such challenges, open data has become a key tool in redefining the urban-planning process.
+That is why my government is using it to understand how sectors like transportation – as well as agriculture, energy, and others – are affecting strategies to mitigate climate change.
+Costa Rica’s National Climate Change Metrics System, which is currently being developed, is planned as an open-source data tool that will integrate information from across national agencies into a single public portal.
+<P>
+The goal is to help improve decision-making and enhance the country’s ability to monitor and meet its climate-change goals.
+Eventually, the system will be used to engage Costa Ricans in sustainability programs, while the source code will be shared with other developing countries.
+<P>
+A world of truly open data will take time to build; people will need to become comfortable with the idea of user-generated information circulating freely.
+But governments have already recognized the importance of open data in solving key planning challenges.
+Costa Rica’s climate change portal is just one example of how improved access to information can streamline urban planning.
+<P>
+So, the next time you pick up your smartphone, pause for a moment to consider the full potential of what you’re holding.
+A more sustainable future for everyone is in the palm of your hand.

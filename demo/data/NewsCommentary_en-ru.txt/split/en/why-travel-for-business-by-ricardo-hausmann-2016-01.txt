@@ -1,0 +1,57 @@
+<HEADLINE>
+Should Business Travel Be Obsolete?
+<P>
+COLOMBO – Think about it: You can call, email, and even watch your counterparty on FaceTime, Skype, or GoToMeeting.
+So why do companies fork out more than $1.2 trillion a year – a full 1.5% of the world’s GDP – for international business travel?
+<P>
+The expense is not only huge; it is also growing – at 6.5% per year, almost twice the rate of global economic growth and almost as fast as information and telecommunication services.
+Computing power has moved from our laptops and cellphones to the cloud, and we are all better off for it.
+So why do we need to move brains instead of letting those brains stay put and just sending them bytes?
+Why waste precious work time in the air, at security checks, and waiting for our luggage?
+<P>
+Before anyone starts slashing travel budgets, let’s try to understand why we need to move people rather than information.
+Thanks to a research collaboration on inclusive growth with MasterCard and an anonymized donation of data to the Center for International Development at Harvard University, we are starting to shed some light on this mystery.
+In ongoing work with Dany Bahar, Michele Coscia, and Frank Neffke, we have been able to establish some interesting stylized facts.
+<P>
+More populous countries have more business travel in both directions, but the volume is less than proportional to their population: a country with 100% more population than another has only about 70% more business travel.
+This suggests that there are economies of scale in running businesses that favor large countries.
+<P>
+By contrast, a country with a per capita income that is 100% higher than another receives 130% more business travelers and sends 170% more people abroad.
+This means that business travel tends to grow more than proportionally with the level of development.
+<P>
+While businesspeople travel in order to trade or invest, more than half of international business travel seems to be related to the management of foreign subsidiaries.
+The global economy is increasingly characterized by global firms, which need to deploy their know-how to their different locations around the world.
+The data show that there is almost twice the amount of travel from headquarters to subsidiaries as there is in the opposite direction.
+Exporters also travel twice as much as importers.
+<P>
+But why do we need to move the brain, not just the bytes?
+I can think of at least two reasons.
+First, the brain has a capacity to absorb information, identify patterns, and solve problems without us being aware of how it does it.
+That is why we can, for example, infer other people’s goals and intentions from facial expressions, body language, intonation, and other subtle indicators that we gather unconsciously.
+<P>
+When we attend a meeting in person, we can listen to the body language, not just the spoken word, and we can choose where to look, not just the particular angle that the video screen shows.
+As a consequence, we are better able to evaluate, empathize, and bond in person than we can with today’s telecom technologies.
+<P>
+Second, the brain is designed to work in parallel with other brains.
+Many problem-solving tasks require parallel computing with brains that possess different software and information but that can coordinate their thoughts.
+That is why we have design teams, advisory boards, inter-agency taskforces, and other forms of group interaction.
+<P>
+Conference calls try to match this interaction, but it is hard to speak in turn or to see one another’s expressions when someone is talking.
+Conference calls have trouble replicating the intricacy of human conscious and unconscious group interactions that are critical to solve problems and accomplish tasks.
+<P>
+The amount of travel should then be related to the amount of know-how that needs to be moved around.
+Countries differ in the amount of know-how they possess, and industries differ in the amount of know-how they require.
+Controlling for population and per capita income, travel is significantly more intense to and from countries and industries that possess or use more know-how.
+<P>
+The countries that account for the most travel abroad, controlling for population, are all in Western Europe: Germany, Denmark, Belgium, Norway, and the Netherlands.
+Outside of Europe, the most travel-intensive countries are Canada, Israel, Singapore, and the United States, a reflection of the fact that they need to deploy many brains to make use of their diverse know-how.
+<P>
+Interestingly, countries in the developing world differ substantially in the amount of know-how they receive through business travel.
+For example, countries such as South Africa, Bulgaria, Morocco, and Mauritius receive much more know-how than countries at similar levels of development such as Peru, Colombia, Chile, Indonesia, or Sri Lanka.
+<P>
+The fact that firms incur the cost of business travel suggests that, for some key tasks, it is easier to move brains than it is to move the relevant information to the brains.
+Moreover, the fact that business travel is growing faster than the global economy suggests that output is becoming more intensive in know-how and that know-how is diffusing through brain mobility.
+And, finally, the huge diversity of business travel intensity suggests that some countries are deploying or demanding much more know-how than others.
+<P>
+Rather than celebrate their thrift, countries that are out of the business travel loop should be worried.
+They may be missing out on more than frequent flyer miles.

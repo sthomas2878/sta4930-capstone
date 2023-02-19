@@ -1,0 +1,60 @@
+<HEADLINE>
+The Promise and Peril of Macroprudential Policy
+<P>
+MONTEVIDEO – Central bankers continue to fret about frothy asset markets – as well they should, given the financial crisis of 2008-2009.
+Having been burned once, they are now doubly shy.
+And China’s recent stock-market plunge has certainly not eased their fears.
+<P>
+Securities prices are extraordinarily high, considering the backdrop of flaccid economic growth.
+Bond prices have soared on the back of quantitative easing by the Bank of Japan, the Federal Reserve, and the European Central Bank.
+Property prices from London to San Francisco have risen to nosebleed-inducing levels.
+What, if anything, should be done to minimize the risks of a rapid and sharp asset-price reversal?
+<P>
+For many years, this question was framed according to the “lean versus clean” debate: Should central banks “lean” against bubbles, damping down asset prices that create risks to financial stability, or just clean up the mess after bubbles burst?
+Proponents of the latter approach, such as former Fed Chair Alan Greenspan, express doubt that policymakers can reliably identify bubbles, and are generally uneasy about managing asset prices.
+<P>
+To be sure, central bankers cannot know for sure when asset prices have reached unsustainable heights.
+But they cannot know for sure when inflation is about to take off, either.
+Monetary policy is an art, not a science; it is the art of taking one’s best guess.
+And, as the 2008-2009 crisis demonstrated, merely cleaning up after the bubbles burst is very costly and inefficient.
+<P>
+So what should central bankers do instead?
+Ideally, they would develop a set of specially tailored financial tools.
+For example, raising banks’ capital requirements when credit is booming could restrain lending and strengthen banks’ cushion against losses, while setting ceilings on loan-to-value ratios could rein in exuberant property markets, thereby heading off excessive risks for borrowers and lenders.
+<P>
+Unlike such tools, interest-rate policy is a blunt instrument for dealing with financial imbalances.
+And using interest rates to address such concerns may interfere with the central bank’s primary objective of keeping inflation near target.
+<P>
+Unfortunately, the development and use of macroprudential tools faces considerable economic and political obstacles.
+The Bank of Spain’s attempt to implement adjustable capital requirements for banks, through its system of “dynamic provisioning,” did little to deter aggressive lending during the country’s property boom.
+Once a mania gets underway, the temptation to join is simply too strong.
+<P>
+Macroprudential policy may also fail when the regulatory perimeter is too narrow.
+In 1929, the Fed attempted to restrain Wall Street with a policy of “direct pressure,” coercing member banks not to lend to security brokers and dealers.
+In 2006, it encouraged its members not to lend to commercial property developers.
+In both cases, other lenders stepped in to meet the demand for credit, neutralizing the authorities’ macroprudential initiative.
+<P>
+And, while countries like the United Kingdom and New Zealand have experimented with giving central banks the power to place ceilings on loan-to-value ratios, this remains a bridge too far in the United States.
+In a country where homeownership is virtually an entitlement, measures making it more difficult would whip up a political firestorm.
+<P>
+Any attempt by the Fed to impose caps on loan-to-value ratios would also excite Americans’ fears of concentrated financial power – fears that have intensified since the crisis.
+By seeming to favor one segment of society, such an initiative would merely provide more fodder to those who argue for greater political oversight of the Fed.
+<P>
+Policymakers should respond to these challenges by working hard not only to develop effective macroprudential tools, but also to demonstrate that they can be deployed evenhandedly.
+But even with their best efforts, the process will take time.
+<P>
+In the meantime, situations may arise in which the interest rate is the only instrument available for limiting financial excesses.
+And, as the recent crisis demonstrated, there are circumstances when central bankers should use it.
+Sometimes, the costs of inaction – of permitting financial risks to develop – are simply too high.
+<P>
+There are two key conditions for using policy interest rates as a macroprudential tool.
+The first – and most obvious – is that risks to financial stability must be substantial.
+But the second condition is equally important: adjusting the interest rate should not jeopardize the central bank’s other key objective, namely achieving its inflation target.
+<P>
+The Swedish Riksbank provides a cautionary case in point.
+In 2010, when it began raising its policy rate to contain financial excesses, it put price stability at risk.
+Before long, Sweden had succumbed to deflation, from which it is still struggling to recover.
+<P>
+Similarly, after its policy of direct pressure failed in 1929, the Fed raised interest rates to rein in the stock market.
+Its attempt to prevent a bubble came at the cost of inducing a depression.
+The point of seeking more effective macroprudential policies is to avoid such tragic bargains.

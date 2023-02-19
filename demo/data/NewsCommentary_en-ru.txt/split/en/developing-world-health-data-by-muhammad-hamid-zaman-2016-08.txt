@@ -1,0 +1,54 @@
+<HEADLINE>
+Closing the Health-Care Data Gap
+<P>
+BOSTON – While much of the world today suffers from information overload, there are still places where information is scarce.
+And that scarcity sometimes costs people their lives.
+<P>
+In the maternity ward of Zanzibar’s largest public-health facility, Mnazi Mmoja Hospital, patient data are listed on a dry-erase board.
+The information on the board consists of the number of women admitted, the type and severity of their conditions, and whether or not they survived.
+<P>
+These data may be better than nothing, but not by much.
+There are no dates or timestamps or long-term filing systems.
+With photographs of the board strictly forbidden, records last only as long as they are on it.
+<P>
+Zanzibar’s attitude toward health records is not unique.
+In fact, Zanzibar is probably more careful than many other places throughout in Africa and Asia, where data-collection systems simply do not exist.
+<P>
+When a country suffers from such a data deficit, its public-health policies, budgets, and strategies are decided by political expediency or guesswork.
+Sometimes the guesses are right, but most often they are not.
+<P>
+This is a major challenge for health-care systems in the developing world.
+Collecting accurate information on all patients (while still respecting privacy) is vital to tracking public-health threats, lapses in care, and medical errors, and is a necessary and essential condition for holding open and honest debates about health-care issues that can affect entire communities or countries.
+<P>
+According to a British Medical Journal analysis by Martin Makary and Michael Daniel of the Johns Hopkins University School of Medicine, in the United States, medical errors alone are the third leading cause of death, after heart disease and cancer.
+In the context of their analysis, medical errors could include bad doctors, poor clinical judgment, miscommunications between staff members or departments, and incorrect diagnoses.
+<P>
+There is no reason to think this problem is confined to the US.
+Health-care settings in the developing world often face even steeper challenges, such as lack of technical capacity among hospital management, staff shortages, poor training, low-quality medicines, and relative impunity for medical malpractice.
+Unfortunately, because we have such limited data, we cannot know the extent to which any of these factors contribute to poor health outcomes and avoidable deaths in developing countries.
+<P>
+Aside from potentially saving countless lives, reliable data can reduce costs, financially and psychologically.
+The financial burden of health care in low- and middle-income countries is substantial, despite the progress that has been made in fighting HIV, malaria, and tuberculosis.
+Beyond these diseases, for which there is treatment and tracking, thanks partly to ample awareness, many illnesses go unidentified and continue to strain public-health services.
+<P>
+Understanding common causes of death is the only way to improve health care in communities with a high disease burden, patriarchal hierarchies, and large and dispersed rural populations that rely on traditional medicine.
+In these settings, patient interactions with doctors are rare, so it is important to collect records on them at every opportunity.
+<P>
+Different societies have different health-care needs, and fully comprehending what they are is no easy task.
+But we can begin the process with three steps.
+<P>
+The first is to create awareness within communities.
+All people want healthy and productive lives for themselves and their loved ones, so they will welcome new insights into why people in their community die or get sick.
+With the advent of citizen journalism and social media, even in poor countries, public-awareness campaigns are now more affordable than ever.
+<P>
+The second step is to devise better ways to collect data.
+Many developing countries lack the funds, infrastructure, and training needed to use sophisticated data-collection tools; but that doesn’t mean they can’t make significant improvements in data collection.
+As Atul Gawande of Harvard University’s School of Public Health has shown, simple checklists can be effective in both collecting data and making better decisions.
+If health-care workers and policymakers know which data are useful and why, they will already be in a better position to change public-health outcomes.
+<P>
+The final step is to establish transparent oversight of the data being collected.
+Some data may point to politically inconvenient or counterintuitive conclusions, and politicians could be tempted to sweep it under the rug.
+In the age of social media and open-access journals, we should demand that newly collected data be made available to a broad range of people researching public-health issues and working in health-care settings.
+<P>
+Ultimately, we may not be able to prevent deaths caused by certain illnesses.
+But with more information, it is within our power to prevent those deaths that are caused by our own complacency or incompetence.

@@ -1,0 +1,63 @@
+<HEADLINE>
+Bolivia’s Electoral Fraud Reckoning
+<P>
+WASHINGTON, DC/EDINBURG, TEXAS – Bolivia finds itself at a critical juncture.
+After its long-serving president, Evo Morales, resigned and fled the country last November in the wake of a presidential election marred by alleged irregularities, a transitional government scrambled to fill the power vacuum, stopped violent clashes, and swiftly called for new elections.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Although Bolivia could have descended further into chaos and violence, the warring political parties somewhat miraculously reached a fragile détente and agreed to hold an electoral do-over in May.
+But the controversy surrounding the October 2019 presidential election recently reignited after researchers John Curiel and Jack R. Williams (C&W) claimed in The Washington Post to have “found no reason to suspect fraud.”
+<P>
+Given its narrow scope, the C&W study cannot, in fact, dispel doubts about the election’s fraud.
+Nonetheless, the researchers’ widely publicized blanket statement detonated in Bolivia like a cluster bomb, rekindling antagonisms and encouraging agitators.
+It is therefore imperative to scrutinize the study’s analysis and conclusions.
+<P>
+For starters, the C&W study lacks recent historical context.
+Morales’s ascent to the presidency in 2006 was indisputably democratic, and represented a victory for Bolivians who had been politically and economically marginalized throughout the country’s history.
+But as Morales tightened his grip on power, he started undermining democratic institutions.
+<P>
+Flouting term limits and using a questionable interpretation of the constitution, Morales won a third term in 2014.
+Emboldened, he called a referendum in 2016 to allow him to run for a fourth term.
+Although he lost, Morales, defiant, called for a repeal of term limits and the Constitutional Court caved in, thus invalidating the plebiscite and allowing him to run again.
+Only the most credulous believe that his party did not try to prevent a repeat of the referendum result.
+Indeed, the fact that Morales was even on the ballot at all last October indicated that fraud was afoot.
+<P>
+In addition, the preponderance of evidence that has since emerged points to rampant electoral fraud.
+An audit by the Organization of American States (OAS) revealed major irregularities and manipulation, including falsification of poll officials’ signatures, altered tally sheets and databases, and a broken chain of custody.
+Most damning of all, the transmission of voting data was redirected to two unauthorized hidden servers.
+European Union election monitors also noted worrisome irregularities.
+But despite all these red flags, C&W focused instead on the vote-reporting blackout on election night – a single event that had little to do with structural fraud.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+When Bolivia’s preliminary vote-counting system – called TREP – reported that Morales’s lead was insufficient to avoid a run-off, the Electoral Court shut down all further reporting.
+Yet, when reporting resumed a day later, the margin had grown large enough for Morales to declare victory.
+<P>
+C&W purport to show that there was no fraudulent intervention during the blackout – that the votes reported after it were similar enough to those reported beforehand to make fraud unlikely.
+But even if their analysis were convincing, it would not counter or discredit the ample evidence of fraud in other aspects of the electoral process.
+<P>
+The one claim for which C&W offer empirical support is that there is no evidence of a change in voting trends after the TREP blackout.
+However, we question their findings, for three reasons.
+<P>
+First, their results are suggestive, not conclusive.
+Both the OAS’s audit and the organization’s later response to C&W highlight an observable trend change after 84% of the TREP tally, and a remarkable break in trend at 95% of the tally.
+<P>
+Although C&W reject these observations, alternative methods of analysis corroborate the OAS’s findings.
+In a recent working paper with the University of Oklahoma’s Gary Hoover, one of us tested the null hypothesis of no electoral fraud during the blackout, and validated the results with pseudo-outcomes using a placebo analysis.
+Unlike C&W, we allowed for heterogeneous voting preferences across different regions of Bolivia without making assumptions regarding patterns among precincts.
+And we found statistically significant evidence of fraud.
+<P>
+Consistent with our results and the OAS report, Rómulo Chumacero of Universidad de Chile found that the TREP blackout produced an inexplicable margin in favor of Morales.
+C&W’s study therefore should be regarded skeptically in view of the robust evidence at variance with their results.
+<P>
+Second, lack of evidence of trend-change after the TREP blackout is not evidence of an absence of fraud.
+If fraud was already baked into the 84% of votes reported before the interruption, then C&W’s results suggesting no shift in trend when reporting resumed are incapable of shedding light on the existence of fraud before the blackout.
+<P>
+Third, C&W estimate voting behavior in a critical subset of small precincts not reported before the blackout (accounting for 2.2% of total ballots) by sampling precincts of similar size included in the 84% batch.
+If electoral fraud is easier to engineer in small precincts, C&W are unwittingly extrapolating artificially wide margins to Morales’s advantage.
+<P>
+C&W have produced a clever but inconclusive analysis that fails to address both relevant history and evidence of widespread fraud.
+Above all, they have stretched their conclusions beyond credibility.
+Given Bolivia’s delicate political situation, researchers participating in this debate should proceed with great caution.

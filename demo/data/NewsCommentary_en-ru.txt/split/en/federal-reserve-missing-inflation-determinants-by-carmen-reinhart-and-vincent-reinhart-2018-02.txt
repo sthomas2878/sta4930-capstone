@@ -1,0 +1,52 @@
+<HEADLINE>
+The Fed Should Be Careful What It Wishes For
+<P>
+CAMBRIDGE – Empirical relationships in economics are sufficiently fragile that there is even a “law” about their failure.
+As British economist Charles Goodhart explained in the 1980s, “any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.”
+Central banks in advanced economies have recently been providing a few more case studies confirming Goodhart’s Law, as they struggle to fulfill their promises to raise inflation to the stable plateau of their numerical targets.
+<P>
+Major central banks’ fixation on inflation betrays a guilty conscience for serially falling short of their targets.
+It also raises the risk that in fighting the last war, they will be poorly prepared for the next – the battle against too-high inflation.
+<P>
+Consider the United States Federal Reserve, which at the beginning of 2012 quantified its Congressional mandate of “promoting maximum employment, stable prices, and moderate long-term interest rates.”
+These goals would be best achieved by keeping inflation, measured by the Fed’s preferred personal consumption price index, at 2% in the long run.
+Since then, the four-quarter growth in that index has been below this target in every quarter but one, as Fed forecasts of inflation consistently fell short of the mark.
+Goodhart’s Law still has teeth.
+<P>
+The Fed’s solution to this failure, like that of other central banks, has been to talk more about the subject.
+The minutes of the January meeting of the Federal Open Market Committee (FOMC) reveal an extensive discussion among policymakers about how to determine US inflation.
+More than a thousand words (an enormous footprint in a normally succinct document) were required to summarize three separate staff briefings on the subject.
+Readers learned of alternative approaches to forecasting inflation, of the prevailing low level of inflation expectations, and of the diminished pressure that resource slack places on costs (or a less reliable Phillips’ curve).
+Fed officials wrung their hands about missing the target and reaffirmed their commitment to a symmetric goal of 2% inflation in the longer run.
+<P>
+The summary may have inadvertently revealed part of what the Fed has been getting wrong.
+The description of its efforts to determine inflation, with its blinkered focus on the domestic economy, is a throwback to the 1960s.
+Nowhere among those thousand words were the phrases “trading partners,” “the foreign exchange value of the dollar,” “commodity prices,” or “global supply chains” to be found.
+But the rest of the world economy exists, is bigger than it once was, and acts less like the US than it once did.
+All of this implies a discipline on costs in a sluggish economy and a potential accelerant in an overheated one.
+<P>
+As for the first observation, total US exports and imports of goods and services relative to nominal GDP (the standard international measure of openness to trade) currently stands at close to 30%.
+This is more than three times its average in the 40 years prior to the break-up of the managed fixed-exchange rate system, when the Phillips’ curve yielded more robust guidance.
+The rest of the world exists.
+<P>
+Second, while the US economy remains the largest in the world by most measures, comprising one-quarter of global GDP, this share is ten percentage points lower than in the 1960s, when US factories produced the most steel, autos, and aircraft in the world.
+Low transport and communications costs and freer trade have knitted markets more closely together, implying that this relative decline in the US share of the global economy loosens the link between domestic capacity constraints and international pricing.
+The rest of the world is bigger.
+<P>
+Third, early in the post-Bretton-Woods era, US trade was predominantly with the “Old World” of Europe, Canada, and Japan.
+Based on bilateral trade shares, transactions with Asian and Latin American economies caught up by 2006, and their relative trade significance for the US has more than doubled since 1972.
+While over-generalizations are risky, these other important trading partners have relatively larger pools of lower-wage workers to draw upon and discipline costs along the global value chain.
+The rest of the world is not entirely like the US.
+<P>
+These observations may explain why costs are sticky on the way up; but they do not imply that costs are stuck forever.
+With the US unemployment rate close to 4% and headed lower this year, inflation will move up, though less than the long-term record predicts.
+Fortunately, Fed officials are aware of the role of resource slack in driving inflation, with the January minutes noting that “estimates of the strength of those effects had diminished noticeably in recent years.”
+<P>
+The discussion, however, would have been more reassuring if it had included the rest of the world, in part because doing so will continue to pose a critical challenge for policymakers.
+A more trade-reliant economy is more sensitive to fluctuations in the foreign exchange value of its currency.
+<P>
+True, much of global trade is invoiced in dollars, but the Chinese renminbi is muscling into that turf, and producers ultimately care about how their revenues translate into domestic purchasing power.
+The upside risk to US inflation stems from that translation – the value of the dollar.
+<P>
+The legislative one-two punch of tax reform and spending increases puts the US federal debt on an upward path.
+If fiscal laxity tarnishes the safe-haven status of Treasury securities, and the monetary authority is perceived to be slow in removing policy accommodation, Fed Chair Jerome Powell and his colleagues may get more of the inflation they are hoping for.

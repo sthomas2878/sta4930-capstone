@@ -1,0 +1,63 @@
+<HEADLINE>
+The Last Basel Round?
+<P>
+LONDON – After long and sometimes painful negotiations, which stress-tested the personal relationships between many countries’ central bankers and regulators to the limit, the Basel Committee laid a long-expected egg in December.
+Described as a package that finalizes the post-2008 reforms to the global regime for bank capital, it brings to an end the process known as Basel 3.
+<P>
+Bankers have dubbed the result “Basel 4,” arguing that the final package contains many new and more burdensome requirements.
+But the Committee is adamant that the new rules should be regarded as part and parcel of the reform program begun in 2009, in the wake of the global financial crisis.
+Basel 4 may come one day, but this is not it, they insist.
+<P>
+What problem does the new package seek to resolve?
+In the preamble, the regulators refer to “a worrying degree of variability in banks’ calculations of [risk-weighted assets].”
+They have found that applying the major banks’ different internal models to the same portfolio of loans can produce very different numbers, meaning that some banks would be carrying significantly less capital than others for the same quantum of assumed risk.
+<P>
+The logical answer to that problem, one might think, is to interrogate the models closely, to see what is driving the differences, and demand calibration changes where the resultant asset reductions are deemed excessive.
+But the regulators clearly doubt their capacity to penetrate the dark recesses of banks’ internal models; so, instead, they have imposed a so-called “output floor.”
+In other words, however much your model reduces risk-weighted assets, you cannot take credit for more than a 27.5% cut.
+<P>
+The output floor is expressed as a net figure, of 72.5%, below which you cannot go.
+Why the unusually precise figure of 72.5%?
+The answer is obvious.
+It is half way between 75%, which was the final US bid, and 70%, which was the French offer.
+They agreed to split the difference.
+<P>
+Although this may make no sense, even affected banks had come to the view that some kind of agreement was better than none.
+Continuing uncertainty made capital planning very difficult.
+So bankers favored a deal, and will live with the outcome, if it is genuinely the end of the program.
+<P>
+Unfortunately, this new agreement is unlikely to draw a line under the capital debate.
+Even though senior central bankers like Mark Carney, the Governor of the Bank of England and Chair of the Financial Stability Board, think there is now enough capital in the banking system, many do not share his view.
+<P>
+Anat Admati of Stanford would like capital ratios well above 20%.
+Martin Wolf of the Financial Times makes a similar case.
+He thinks banks are still dangerously unstable.
+Andy Haldane of the Bank of England points out that, given the low pricing of bank equity, on a market-adjusted basis banks are not as strong as they seem.
+<P>
+Bankers, by contrast, point to the high cost of equity and argue that forcing banks to raise even more will increase the cost and decrease the availability of credit.
+In Europe, around half of the improvement in capital ratios has come from reducing lending rather than raising new equity.
+There is little meeting of minds between the two camps.
+<P>
+So it was a relief to encounter William Cline’s book The Right Balance for Banks, which attempts to produce a rationale for the appropriate level of bank capital.
+Drawing on a wide range of research and market analysis, Cline argues that requiring banks to hold more capital does indeed increase the cost of credit to some extent.
+Although there is some evidence that bank debt is cheaper if equity backing is high, which one would expect, the reduction is not one for one.
+And an increase in the cost of credit is likely to depress growth and generate welfare losses.
+<P>
+On the other hand, higher equity for banks will reduce the incidence of bank failures, which impose high costs on the economy and on individuals.
+Reducing the number and severity of crises is evidently desirable.
+So Cline attempts to calculate where the optimal balance might lie, recognizing that to reduce the risk of bank failure to zero might carry irrationally high costs.
+Cline’s conclusion is that “the optimal capital ratio is 7% to 8% of total assets, corresponding to 12% to 14% of risk-weighted assets (using the ratio of risk-weighted assets to total assets in euro area and US banks).”
+<P>
+These figures are, in fact, quite close to the numbers underlying the new Basel requirements as implemented by national regulators.
+Most British banks, for example, are now targeting a requirement of 13%, and typically carry a bit more “for luck.”
+<P>
+Cline’s approach is intuitively appealing.
+He recognizes that the ratio might reasonably be shaded up for systemically important banks, those famously dubbed “too big to fail.”
+In the regulatory school where I was trained – the Bank of England – we were told never to use that fatal phrase, for fear of generating precisely the moral hazard we wished to avoid.
+But there is no getting away from it in the post-crisis world.
+<P>
+Will Cline’s hard work end the debate?
+I doubt it.
+Even now, I hear axes being ground, and statistical models being recalculated.
+And there are still no votes in taking the pressure off big banks.
+The central bankers will need to hold their nerve, and the bankers themselves to behave, or a genuine Basel 4 may hove into view on the banks of the Rhine.

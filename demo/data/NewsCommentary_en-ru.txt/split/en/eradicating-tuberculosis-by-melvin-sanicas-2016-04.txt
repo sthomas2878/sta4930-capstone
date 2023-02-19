@@ -1,0 +1,48 @@
+<HEADLINE>
+Winning the War Against TB
+<P>
+SEATTLE – Humans have been battling tuberculosis since the Stone Age.
+But only in the last century has real progress been made against the disease.
+A vaccine, first used in humans in 1921, is still in use around the world today.
+And a series of antibiotics, beginning with streptomycin in the 1940s, has proven effective in treating infections.
+<P>
+Since 1990, TB’s annual death toll has been cut nearly in half.
+From 2000 to 2014, better diagnosis and treatment saved some 43 million lives.
+Nonetheless, progress has slowed to a crawl, suggesting that the battle is far from over.
+The annual decline in cases over the past decade has been a mere 1.65%; in 2014, TB killed 1.5 million people.
+<P>
+Meanwhile, strains of the disease are developing resistance against treatment.
+The misuse and mismanagement of antibiotics has resulted in multidrug-resistant TB.
+These strains must be treated with second-line medications, which are more expensive and often cause worse side effects.
+Strains that are resistant to second-line drugs, known as extensively drug-resistant TB (XDR-TB), have also appeared.
+<P>
+Given the enormous economic burden and widespread human suffering caused by TB, a comprehensive effort to tackle the disease is urgently needed.
+In a series of articles in the British medical journal The Lancet, Salmaan Keshavjee, a professor of global health and social medicine at Harvard Medical School, outlined a strategy for defeating it.
+Keshavjee and a group of TB scientists, clinicians, and advocates from governmental and nongovernmental organizations, hospitals, and universities set themselves the goal of bringing TB’s death toll to zero – and outlined the measures needed to achieve it.
+<P>
+The first step is to ramp up data-collection efforts.
+TB epidemics, like those of other infectious diseases, vary by geography; as result, eradication efforts need to be customized to local conditions.
+Local TB programs need to make better use of existing data, expand routine collection, modernize data-storage systems, and develop the analytical infrastructure needed to measure the effects of local interventions.
+These findings need to be made available within the country where data were collected, and the lessons learned must be shared with neighboring countries and regions.
+<P>
+Moreover, health-care workers must expand efforts to prevent new infections and quickly treat fresh cases.
+By actively seeking out victims and treating them quickly, so that they are no longer infectious, the chain of TB transmission can be broken.
+This strategy has been proven effective by empirical evaluation and mathematical modeling.
+<P>
+At the same time, efforts must be made to control the seedbeds of the disease, the latent infections that are the source of virtually all new cases of active TB.
+Mycobacterium tuberculosis, the bacteria that causes the disease, can lay dormant for long periods, during which the victim shows no symptoms of having been infected.
+Targeting TB at this stage would stop the bacteria’s spread and reduce the disease’s global burden.
+Rolling out preventive therapies in at-risk populations and developing better diagnostic tests to identify those with asymptomatic infections would help drain reservoirs of the bacteria.
+<P>
+Developing a more effective vaccine would have the biggest impact on the epidemic.
+The Bacillus Calmette–Guérin vaccine is given to infants in many parts of the world, but its efficacy against pulmonary TB is highly variable.
+To eliminate the disease globally, a better vaccine would be crucial.
+<P>
+Finally, any effort to eradicate TB must acknowledge that the disease is rooted in poverty and social exclusion.
+Since the middle of the twentieth century, worldwide efforts to address TB have emphasized biomedical solutions and focused on treating outbreaks.
+But, before the development of antibiotics, improvements in living standards had helped reduce the impact of TB.
+Integrating a biomedical approach with an emphasis on the importance of good nutrition, decent housing, and human welfare will be necessary if the disease is to be brought to heel.
+<P>
+The global community must work together and translate existing knowledge and strategies into effective programmatic interventions in communities most afflicted by TB.
+By developing new tools – including rapid diagnostics, safe and shorter treatment of TB infection and disease, and an efficacious TB vaccine – strengthening health systems, and improving the living conditions of at-risk populations, we can neutralize one of humankind’s oldest killers.
+Only then will we be able to consign TB, at long last, to the history books.

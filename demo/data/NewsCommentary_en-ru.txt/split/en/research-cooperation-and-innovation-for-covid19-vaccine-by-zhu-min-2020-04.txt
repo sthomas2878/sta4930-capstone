@@ -1,0 +1,50 @@
+<HEADLINE>
+Innovation in the Pandemic Age
+<P>
+BEIJING – The COVID-19 coronavirus poses a threat on a scale not seen since the so-called Spanish flu killed more than 50 million people in 1918-19.
+To confront the pandemic, many governments have imposed stay-at-home orders and even strict lockdowns, bringing the global economy nearly to a standstill.
+But the real solution to this crisis is not containment.
+It is innovation.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+To be sure, in the near term, containment and mitigation are essential to protect the most vulnerable people – the elderly, the poor and badly housed, and the immunocompromised – and to avoid overwhelming health-care systems, as has occurred in Italy, Spain, and New York City.
+Containment saved countless lives during the plagues of the Middle Ages, and during the Spanish flu pandemic.
+It can do the same today.
+<P>
+And, indeed, the experiences of China, Singapore, and South Korea show that resolute containment measures – such as lockdowns and contact tracing – can be effective in slashing new COVID-19 infections.
+And, because viruses don’t respect borders, helping developing countries with weak public institutions and health-care systems to strengthen their own containment efforts and provide adequate care should be a top international priority.
+<P>
+But lockdowns cannot last forever, and COVID-19 is unlikely to disappear on its own.
+The world must leverage its collective resources to harness the power of science, innovation, and markets to devise a more sustainable solution – namely, a cure or a vaccine.
+And policymakers must recognize that governments must ensure that scientific and medical innovation serves the public, rather than just companies’ shareholders.
+<P>
+While COVID-19 is new, coronaviruses are not.
+Yet research into these viruses has often fallen short of what’s needed, not least due to inadequate funding.
+In 2016, a team of scientists in Texas developed a potential vaccine for another deadly coronavirus, severe acute respiratory syndrome (SARS), but were unable to secure funding to launch human clinical trials.
+<P>
+Had such research continued before the COVID-19 outbreak, the world would have had, at the very least, a major head start in the search for a vaccine.
+But private firms had little incentive to develop a vaccine or a cure for diseases like SARS or Middle East respiratory syndrome (also a coronavirus).
+After all, by 2016, the SARS epidemic had ended more than a decade previously, and MERS has infected relatively few people (fewer than 2,500 since its emergence in 2012).
+This lack of investment in protecting against a possible future threat was a clear market failure.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Even today, as scientists around the world work to expedite the development of a COVID-19 vaccine, market failures are leading to missed opportunities.
+For starters, major companies in industries other than pharmaceuticals should be more engaged.
+<P>
+In particular, tech companies should be deploying advanced technologies like artificial intelligence and cloud computing, as well as their armies of data scientists, to alleviate bottlenecks and guide scientific research.
+For example, AI can suggest elements of a vaccine based on existing knowledge of viral protein structures, and help medical researchers mine relevant research papers and analyze raw data.
+This is already happening to some extent, but efforts should be scaled up and coordination improved to avoid redundancy.
+<P>
+In fact, all efforts – by industry, researchers, and governments – should be better coordinated, with public and private resources being pooled to advance a shared goal.
+To this end, governments should implement appropriate industrial policies and create national task forces, potentially headed by public-health institutes, to help manage the search for vaccines and therapeutics, including by ensuring the necessary funding.
+<P>
+Those national efforts could then be coordinated by a single global task force, led by the World Health Organization and other international institutions.
+Here, again, ensuring adequate funding is key, as is fostering open knowledge- and information-sharing among all relevant actors, from universities and research institutes to corporations and governments.
+Beyond accelerating progress toward a COVID-19 cure or vaccine, such a focused research and development effort could create valuable innovation spillovers.
+<P>
+The renowned development economist Albert Hirschman once observed, “Creativity always comes as a surprise to us; therefore we can never count on it and we dare not believe in it until it has happened.”
+But even if we cannot count on it, we can create the conditions for it, leveraging our resources, tools, and ingenuity, while avoiding inefficiencies.
+In this sense, the COVID-19 pandemic offers the world an opportunity to cultivate a new approach to innovation fit for an era in which our biggest challenges are shared.

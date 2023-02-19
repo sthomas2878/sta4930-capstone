@@ -1,0 +1,84 @@
+<HEADLINE>
+Turning Privacy “Threats” Into Opportunities
+<P>
+NEW YORK – It is a well-known – though questionable – truth in the online community that consumers won’t pay for privacy.
+Accordingly, most companies regard the entire issue warily, seeing only expensive disclosure requirements, constraints on their ability to collect information about their customers, and a potential source of legal liabilities.
+<P>
+So they consult lawyers and IT risk specialists to consider their options.
+They write lengthy disclosure statements that cover every possible use of data so that they cannot be sued.
+They then hand these statements to their marketing departments, who hide them behind little windows in small type.
+<P>
+In general, these companies see consumer data as something that they can use to target ads or offers, or perhaps that they can sell to third parties, but not as something that consumers themselves might want.
+Of course, this is not an entirely new idea, but most pundits on both sides – privacy advocates and marketers – don’t realize that rather than protecting consumers or hiding from them, companies should be bringing them into the game.
+<P>
+I believe that successful companies will turn personal data into an asset by giving it back to their customers in an enhanced form.
+I am not sure exactly how this will happen, but current players will either join this revolution or lose out.
+<P>
+Let’s start with the disclosure statement.
+Most disclosure statements are not designed to be read; they are designed to be clicked on.
+But some companies actually want their customers to read and understand the statements.
+They don’t want customers who might sue, and, just in case, they want to be able to prove that the customers did understand the risks.
+<P>
+So the leaders in disclosure statements right now tend to be financial and health-care companies – and also space-travel and extreme-sports vendors.
+They sincerely want to let their customers know what they are getting into, because a regretful customer is a vengeful one.
+<P>
+That means making disclosure statements readable.
+I would suggest turning them into a quiz.
+The user would not simply click a single button, but would have to select the right button for each question.
+For example:
+<P>
+What are my chances of dying in space?
+<P>
+A) 5%
+<P>
+B) 30%
+<P>
+C) 1-4% (the correct answer, based on experience so far; current spacecraft are believed to be safer.)
+<P>
+Now imagine:
+<P>
+Who can see my data?
+<P>
+A) I can.
+<P>
+B) XYZ Corporation.
+<P>
+C) XYZ Corporation’s marketing partners.
+(Click here to see the list.)
+<P>
+D) XYZ Corporation’s affiliates and anyone it chooses.
+<P>
+As the customer picks answers, she gets a good idea of what is going on.
+In fact, if you're a marketer, why not dispense with a single right answer and let the consumer specify what she wants to have happen with her data (and corresponding privileges/access rights if necessary)?
+That’s much more useful than vague policy statements.
+Suddenly, the disclosure statement becomes a consumer application that adds value to the vendor-consumer relationship.
+<P>
+And show the data themselves rather than a description.
+There’s her browsing behavior, her choice of seats on your airline, or her choice of airlines on your travel site.
+There’s her size and her style preferences on your fashion site.
+How much money has she spent with you, and on what?
+(Give her points and other recognition for her purchases.)
+<P>
+To be sure, this is all very easy if you are the site with which the user communicates directly; it is more difficult if you are in the background, a third party collecting information surreptitiously.
+But that practice should be stopped, anyway.
+<P>
+Meanwhile, just as they have with Facebook, users will become more familiar with the idea of setting their own privacy preferences and managing their own data.
+Smart vendors will learn from Facebook; the rest will lose out to competitors.
+Visualizing the user's information and providing an intelligible interface is an opportunity for competitive advantage.
+<P>
+I see this happening already with a number of companies, including some with which I am involved.
+For example, in its research surveys, 23andMe asks people questions such as how often they have headaches or whether they have ever been exposed to pesticides, and lets them see (in percentages) how other 23andMe users answer the question.
+This kind of information is fascinating to most people.
+TripIt lets you compare and match your own travel plans with those of friends.
+Earndit lets you compete with others to exercise more and win points and prizes.
+<P>
+Consumers increasingly expect to be able to see themselves both as individuals and in context.
+They will feel more comfortable about sharing data if they feel confident that they know what is shared and what is not.
+The online world will feel like a well-lighted place with shops, newsstands, and the like, where you can see other people and they can see you.
+Right now, it more often feels like lurking in a spooky alley with a surveillance camera overlooking the scene.
+<P>
+Of course, there will be “useful” data that an individual might not want to share – say, how much alcohol they buy, which diseases they have, or certain of their online searches.
+They will know how to keep such information discreet, just as they might close the curtains to get undressed in their hotel room after enjoying the view from the balcony.
+<P>
+Yes, living online takes a little more thought than living offline.
+But it is not quite as complex once Internet-based services provide the right tools – and once awareness and control of one’s own data become a habit.

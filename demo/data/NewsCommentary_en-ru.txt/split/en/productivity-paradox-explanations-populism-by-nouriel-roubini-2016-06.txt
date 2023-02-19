@@ -1,0 +1,36 @@
+<HEADLINE>
+Populists and Productivity
+<P>
+NEW YORK – Since the global financial crisis erupted in 2008, productivity growth in the advanced economies – the United States, Europe, and Japan – has been very slow both in absolute terms and relative to previous decades.
+But this is at odds with the view, prevailing in Silicon Valley and other global technology hubs, that we are entering a new golden era of innovation, which will radically increase productivity growth and improve the way we live and work.
+So why haven’t those gains appeared, and what might happen if they don’t?
+<P>
+Breakthrough innovations are evident in at least six areas:
+<P>
+At the macro level, the puzzle is why these innovations, many of which are already in play in our economies, have not yet led to a measured increase in productivity growth.
+There are several potential explanations for what economists call the “productivity puzzle.”
+<P>
+First, some technological pessimists – such as Northwestern University’s Robert Gordon – argue that the economic impact of recent innovations pales in comparison to that of the great innovations of the First and Second Industrial Revolutions (the steam engine, electricity, piped water and sanitation, antimicrobial drugs, and so on).
+But, as economic historian Joel Mokyr (also at Northwestern) has argued, it is hard to be a technological pessimist, given the breadth of innovations that are occurring and that are likely to occur in the next few decades.
+<P>
+A second explanation is that we are overlooking actual output – and thus productivity growth – because the new information-intensive goods and services are hard to measure, and their costs may be falling faster than standard methods allow us to gauge.
+But if this were true, one would need to argue that the mis-measure of productivity growth is more severe today than in past decades of technological innovation.
+<P>
+So far, there is no hard empirical evidence that that is the case.
+Yet some economists suggest that we are not correctly measuring the output of cheaper software – as opposed to hardware – and the many benefits of the free goods associated with the Internet.
+Indeed, between search engines and ubiquitous apps, knowledge is at our fingertips nearly always, making our lives easier and more productive.
+<P>
+A third explanation is that there is always a lag between innovation and productivity growth.
+In the first Internet revolution, the acceleration in productivity growth that started in the technology sector spread to the overall economy only many years later, as business- and consumer-facing applications of the new digital tools were applied in the production of goods and services far removed from the tech sector.
+This time, too, it may take a while for the new technologies to become widespread and lead to measured increases in productivity growth.
+<P>
+There is a fourth possibility: Potential growth and productivity growth have actually fallen since the financial crisis, as aging populations in most advanced economies and some key emerging markets (such as China and Russia), combined with lower investment in physical capital (which increases labor productivity), have led to lower trend growth.
+Indeed, the hypothesis of “secular stagnation” proposed by Larry Summers is consistent with this fall.
+<P>
+A related explanation emphasizes the phenomenon that economists call hysteresis: A persistent cyclical downturn or weak recovery (like the one we have experienced since 2008) can reduce potential growth for at least two reasons.
+First, if workers remain unemployed for too long, they lose their skills and human capital; second, because technological innovation is embedded in new capital goods, low investment leads to permanently lower productivity growth.
+<P>
+The reality is that we don’t know for sure what is driving the productivity puzzle or whether it is a temporary phenomenon.
+There is most likely some merit to all of the explanations on offer.
+But if weak productivity growth persists – and with it subpar growth in wages and living standards – the recent populist backlash against free trade, globalization, migration, and market-oriented policies is likely to strengthen.
+Thus, advanced economies have a large stake in addressing the causes of the productivity slowdown before it jeopardizes social and political stability.

@@ -1,0 +1,62 @@
+<HEADLINE>
+Why No Glass-Steagall II?
+<P>
+MANILA – Eighty years ago this month, Ferdinand Pecora, the cigar-chomping former assistant district attorney for New York City, was appointed chief counsel for the US Senate Committee on Banking and Currency.
+In subsequent months, the hearings of the Pecora Commission featured many sensational revelations about the practices that led to the 1930’s financial crisis.
+<P>
+More than that, the Commission’s investigation led to far-reaching reform – most famously, the Glass-Steagall Act, which separated commercial and investment banking.
+But Glass-Steagall didn’t stop there.
+It created federal insurance for bank deposits.
+With unit banking (in which all operations are carried out in self-standing offices) viewed as unstable, banks were now permitted to branch more widely.
+Glass-Steagall also strengthened regulators’ ability to clamp down on lending for real-estate and stock-market speculation.
+<P>
+The hearings also led to passage of the Securities Act of 1933 and the Securities Exchange Act of 1934.
+Securities issuers and traders were required to release more information, and were subjected to higher transparency standards.
+The notion that capital markets could self-regulate was decisively rejected.
+<P>
+The contrast with today is striking.
+Say what you will about the Dodd-Frank Act of 2010, but it is weak soup by the standards of the 1930’s.
+In response to what is widely regarded as the most serious financial crisis in 80 years, it does much less to change the structure and regulation of the US financial system.
+<P>
+The explanation is not that the bankers were less well organized in the 1930’s.
+The American Bankers Association, worried about the fees that banks would be obliged to pay, vehemently opposed deposit insurance.
+The State Bankers Association, to which many unit banks belonged, condemned the provisions designed to facilitate state-wide branching.
+<P>
+Nor is it obvious that the bankers suffered from more adverse publicity.
+The Pecora Commission hearings were sensational, but it is difficult to argue that the public anger they whipped up was much greater than that which greeted Wall Street’s titans when they testified before the Financial Crisis Inquiry Commission in 2010.
+<P>
+In fact, Pecora examined only one commercial bank, National City Bank, prior to the enactment of Glass-Steagall.
+The bank’s chairman, Charles Mitchell, danced around the question of conflicts of interest between his bank’s deposit-taking and securities-underwriting activities.
+In any case, more attention was paid to the revelation that Mitchell had sold 18,000 bank shares to his wife at a loss to evade taxes.
+To the extent that the hearings focused on a few bad apples, they made the case for systematic reform less compelling.
+<P>
+Pecora turned next to the investment banks.
+This time, the revelation was that J.P. Morgan & Co. had provided special access to initial public offerings for prominent public figures, including a former treasury secretary and future Supreme Court justice.
+But, again, these disclosures did not speak to issues like the desirability of branching or deposit insurance.
+However damning, the revelations were no more embarrassing than the knowledge that Countrywide Financial provided mortgages on favorable terms to “friends of Angelo” (powerful figures close to Countrywide’s then-chairman and CEO, Angelo Mozilo) like former Fannie Mae CEO Franklin Raines and former Senate Banking Committee member Christopher Dodd.
+<P>
+Another popular argument for the success of 1930’s reform is that Congress had already agreed on a diagnosis of the problem and could build on its own earlier efforts to treat it.
+Senator Carter Glass had been pushing for years for more permissive branching laws and centralized supervision of banks.
+He had already introduced a bill containing several such measures in January 1932.
+<P>
+Similarly, more than 100 bills for federal deposit insurance had been proposed in the preceding 50 years.
+One, co-sponsored by Representative Henry Steagall, had been passed by the House.
+The idea, in other words, was already in the air.
+<P>
+But this ignores the fact that Steagall was not enamored of more extensive branching, which disadvantaged small banks.
+Glass, for his part, opposed deposit insurance.
+The final bill passed only when its sponsors agreed to combine deposit insurance with new banking regulation, creating a package with something for everyone.
+<P>
+In some cases, the reformers were pushing on an open door.
+National City Bank and Chase National Bank had already announced that they were liquidating their securities affiliates.
+Underwriting had collapsed, and banks were more than ready to get out of the securities business.
+The Glass-Steagall separation of commercial and investment banking simply validated a transition that was already underway.
+<P>
+In 2009-2010, by contrast, the big banks were still seeking to maintain their existing range of activities.
+This caused the industry to resist strongly efforts to rein in practices like proprietary trading.
+<P>
+Ultimately, the explanation for the passage of far-reaching financial reform can only be the severity of the crisis.
+In the 1930’s, the Great Depression brought the entire economy to its knees.
+The need for root-and-branch reform was undeniable.
+After 2008, by contrast, policymakers succeeded in preventing the worst, which ruled out the sense of urgency that surrounded the Pecora Commission hearings.
+The ultimate irony is that this very success led to less reform.

@@ -1,0 +1,59 @@
+<HEADLINE>
+Overcoming the Public-Sector Coordination Problem
+<P>
+CAMBRIDGE – Public-private cooperation or coordination is receiving considerable attention nowadays.
+A plethora of centers for the study of business and government relations have been created, and researchers have produced a large literature on the design, analysis, and evaluation of public-private partnerships.
+Even the World Economic Forum has been transformed into “an international organization for public-private cooperation.”
+<P>
+Of course, private-private coordination has been the essence of economics for the past 250 years.
+While Adam Smith started us on the optimistic belief that an invisible hand would take care of most coordination issues, in the intervening period economists discovered all sorts of market failures, informational imperfections, and incentive problems, which have given rise to rules, regulations, and other forms of government and societal intervention.
+This year’s Nobel Prize in Economic Sciences was granted to Oliver Hart and Bengt Holmström for their contribution to understanding contracts, a fundamental device for private-private coordination.
+<P>
+But much less attention has been devoted to public-public coordination.
+This is surprising, because anyone who has worked in government knows that coordinating the public and private sectors to address a particular issue, while often complicated, is a cakewalk compared to the problem of herding the cats that constitute the panoply of government agencies.
+<P>
+The reason for this difficulty is the other side of Smith’s invisible hand.
+In the private sector, the market mechanism provides the elements of a self-organizing system, thanks to three interconnected structures: the price system, the profit motive, and capital markets.
+In the public sector, this mechanism is either non-existent or significantly different and less efficient.
+<P>
+The price system is a decentralized information system that reveals people’s willingness to buy or sell and the wisdom of buying some inputs in order to produce a certain output at the going market price.
+The profit motive provides an incentive system to respond to the information that prices contain.
+And capital markets mobilize resources for activities that are expected to be profitable; those that adequately respond to prices.
+<P>
+By contrast, most public services have no prices, there is not supposed to be a profit motive in their provision, and capital markets are not supposed to choose what to fund: the money funds whatever is in the budget.
+<P>
+In the budget process, the finance ministry estimates revenues, targets a certain fiscal deficit, and deduces the overall spending level consistent with these numbers.
+It then proceeds to allocate funds to all existing commitments and entitlement programs.
+The remainder is assigned for discretionary spending across various ministries in proportions often related to past budgets.
+Typically, ministers fight jealously over these spoils, as their ability to leave a mark in their respective fields often depends on it.
+Under this system, why would a minister spend money on another minister’s priorities?
+<P>
+But addressing most problems in government involves multiple agencies.
+For example, bottlenecks in the tourism industry may involve airports, tourist visa requirements, or hotel construction permits, none of which falls under the tourism ministry.
+Organizing the public-private dialogue to identify problems and propose solutions is eminently doable, as Piero Ghezzi, Peru’s former minister of production has shown.
+But organizing the public agencies to respond in a coordinated manner, given existing budgetary procedures, is a different matter: the ministry of foreign affairs may not give much importance to tourist visas.
+With separate and relatively independent budgets, coordination becomes very difficult.
+<P>
+One solution is to create a market-like mechanism within the government.
+The idea is to assign a portion of the budget, say 3-5%, to a central pool of funds to be requested by one ministry but to be executed by another, as if one was buying services from the other.
+These resources would allow the demand for public goods to permeate the allocation of budgetary resources across ministries.
+<P>
+Two metaphors may help clarify the idea.
+Universal banks offer deposit accounts, credit cards, mortgages, business loans, and other products.
+At the front end, an account executive manages the relationship with the client.
+At the back end, a different department produces each service.
+The amount of resources that the back end gets depends on the demand for services identified at the front end.
+<P>
+A similar situation arises in international financial institutions like the World Bank.
+At the front end, country directors manage the relationship with the “client,” meaning the country government.
+At the back end, experts in education, roads, electricity, water, and health care design and analyze project loans.
+The budget is given to the front end and the back end must “sell” their services to the front end, thus creating an internal market, so that resources are allocated based on client needs.
+<P>
+While all ministries have their external constituencies, some ministries have more of a front-end, “account executive” nature: their core mission involves coordinating the provision of public goods to different parts of the economy.
+Ministries of agriculture, industry, tourism, and urban development, are some examples.
+By contrast, finance and infrastructure ministries of have more of a back-end character.
+<P>
+The central pool of resources is designed to increase the responsiveness of one ministry’s back end to the demands of society as identified by another ministry’s front end, without these resources competing with the priorities that each ministry has for its “own” budget.
+<P>
+By allocating a small proportion of each year’s budget to priorities identified in this way, we may find that, over time, budgets become more responsive and better reflect society’s evolving needs.
+And public-private coordination may flourish once the public-public bottlenecks are removed.

@@ -1,0 +1,52 @@
+<HEADLINE>
+The Lost Wealth of Nations
+<P>
+The phrase “sustainable development” is commonplace, but economic commentators offer no guidance on how we are to judge whether a nation’s economic development is, indeed, sustainable.
+<P>
+The famous Brundtland Commission Report of 1987 defined sustainable development as “... development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”
+Sustainable development therefore requires that, relative to their populations, each generation should bequeath to its successor at least as large a productive base as it inherited.
+But how is a generation to judge whether it is leaving behind an adequate productive base?
+<P>
+Economists argue that the correct measure of an economy’s productive base is wealth, which includes not only the value of manufactured assets (buildings, machinery, roads), but also “human” capital (knowledge, skills, and health), natural capital (ecosystems, minerals, and fossil fuels), and institutions (government, civil society, the rule of law).
+Development is sustainable so long as an economy’s wealth relative to its population is maintained over time.
+In other words, economic growth should be viewed as growth in wealth, not growth in GNP.
+<P>
+There is a big difference between the two.
+There are many circumstances in which a nation’s GNP (per capita) increases even while its wealth (per capita) declines.
+<P>
+In broad terms, these circumstances involve growing markets in certain classes of goods and services (natural-resource intensive products), concomitant with absent markets and collective policies for natural capital (ecosystem services).
+As global environmental problems frequently create additional stresses on the local resource bases of the world’s poorest people, GNP growth in rich countries can fuel downward pressure on the wealth of the poor.
+<P>
+Of course, a situation where GNP increases while wealth declines can’t last forever.
+When an economy eats into its productive base in order to raise current production, eventually GNP will decline, too, unless policies were to so change that wealth begins to accumulate.
+<P>
+For example, using World Bank data on the depreciation of a number of natural resources at the national level, economists estimate that, although GNP per capita has increased in the Indian sub-continent over the past three decades, wealth per capita has declined somewhat.
+The decline has occurred because, relative to population growth, fixed-capital investment, knowledge and skills, and improvements in institutions have not compensated for the degradation of natural capital.
+<P>
+In sub-Saharan Africa, both GNP per capita and wealth per capita have declined.
+Economists have also found that in the world’s poorest regions (Africa and the Indian sub-continent), areas that have experienced higher population growth have also lost wealth per capita at a faster rate.
+<P>
+The economies of China and the OECD countries, by contrast, have grown both in terms of GNP per capita and wealth per capita.
+The latter regions have more than substituted for the decline in natural capital by accumulating other capital assets.
+In other words, during the past three decades the rich world seems to have enjoyed “sustainable development,” while development in the poor world (barring China) has been unsustainable.
+<P>
+These are early days in the quantitative study of sustainable development.
+Even so, one can argue that current estimates of wealth are biased.
+As for natural capital, the World Bank has so far limited itself to the atmosphere as a sink for carbon dioxide, oil, and natural gas, and forests as sources of timber.
+<P>
+Many types of natural capital, however, have not been included: fresh water, soil, forests as providers of ecosystem services, and the atmosphere as a sink for such pollution as particulates and nitrogen and sulphur oxides.
+If these missing items were included, the poor world’s economic performance over the past three decades, including China’s, would look far worse.
+<P>
+But the estimates of wealth accumulation in recent years in the rich world are biased upward too.
+Empirical studies by earth scientists have revealed all too often that the capacity of natural systems to absorb disturbances is not unlimited.
+<P>
+When their absorptive capacities are reached, natural systems are liable to collapse into unproductive states.
+Recovery is then costly, in terms of both time and material resources.
+On the other hand, if, say, the Atlantic current that keeps northern Europe warm were to shift direction or to slow down on account of global warming, the change would be essentially irreversible.
+<P>
+In short, we know that up to some unknown set of limits, knowledge, institutions, and manufactured capital can substitute for natural resources, so that even if an economy loses some of its natural capital, in quantity or quality, its wealth would increase if it invested sufficiently in other assets.
+The remarkable increase in agricultural productivity over the past two centuries demonstrates this clearly.
+<P>
+But there are limits to substitutability: the costs of substitution (including human ingenuity) often increase in previously unknown ways as key resources are degraded.
+Global warming is a case in point.
+When the downside risks associated with such limits and thresholds are brought into estimates of sustainable development, the growth in wealth among the world’s wealthy nations will probably turn out to have been less than we now think.

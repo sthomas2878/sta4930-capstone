@@ -1,0 +1,76 @@
+<HEADLINE>
+How Much Debt Is Too Much?
+<P>
+LONDON – Is there a “safe” debt/income ratio for households or debt/GDP ratio for governments?
+In both cases, the answer is yes.
+And in both cases, it is impossible to say exactly what that ratio is.
+Nonetheless, this has become the most urgent macroeconomic question of the moment, owing not just to spiraling household and government debt since 2000, but also – and more important – to the excess concern that government debt is now eliciting.
+<P>
+According to a 2015 report by the McKinsey Global Institute, household debt in many advanced countries doubled, to more than 200% of income, between 2000 and 2007.
+Since then, households in the countries hardest hit in the 2008-2009 economic crisis have deleveraged somewhat, but the household debt ratio in most advanced countries has continued to grow.
+<P>
+The big upsurge in government debt followed the 2008-2009 collapse.
+For example, British government debt rose from just over 40% of GDP in 2007 to 92% today.
+Persistent efforts by heavily indebted governments to eliminate their deficits have caused debt ratios to rise, by shrinking GDP, as in Greece, or by delaying recovery, as in the UK.
+<P>
+Before modern finance made it easy to live on borrowed money, getting into debt was considered immoral.
+“Neither a borrower nor a lender be,” Shakespeare’s Polonius admonishes his son Laertes.
+The expectation of uninterrupted economic growth brought a new perspective.
+Mortgage debt, unknown a century ago, now accounts for 74% of household debt in developed countries (43% in developing ones).
+Banks have been lending, and households borrowing, as if tomorrow was sure to be better than today.
+<P>
+Likewise, governments used to be expected to balance their budgets, except during wartime.
+But they, too, came to expect continually rising revenues at unchanged, or even falling, tax rates.
+So it seemed prudent to borrow against the future.
+<P>
+Today, with many households and governments facing severe financing problems, that no longer appears to be true.
+But the only certainty is that the “safe” debt ratio depends on the context.
+<P>
+Consider Denmark and the United States.
+In 2007, Denmark’s household debt/income ratio reached 269%, while the US peak was 125%.
+But household default rates have been negligible in Denmark, unlike in the US, where, in the depths of the recession, almost a quarter of mortgages were “under water” and some homeowners chose strategic default – fueling further downward pressure on housing prices and harming other indebted households.
+<P>
+This can be attributed to the distribution of borrowers.
+In Denmark, high-income households borrowed the most, relative to their income, and standards for mortgage lending remained high (mortgages were capped at 80% of the value of the property).
+In the US, households with the lowest income (the bottom quintile) had a higher debt/income ratio than the top 10%, and mortgages were dispensed like gumballs.
+In the US, as well as in Spain and Ireland, banks and households became what the Financial Times columnist Martin Wolf called “highly leveraged speculators in a fixed asset.”
+<P>
+As for government debt, Japan’s debt/GDP ratio is 230%, compared to Greece’s 177%.
+But the consequences have been much more dire in Greece than in Japan.
+The distribution of the creditors is crucial.
+Most of Japan’s bondholders are nationals (if not the central bank) and have an interest in political stability.
+Most Greek bondholders are foreign banks.
+Yet, while crises of confidence come much sooner if debt is mainly owned by foreigners, no steps have been taken to restrict government borrowing to domestic sources.
+<P>
+We now know that the expectation of uninterrupted growth was a delusion.
+But governments have been slow to rearm against the next crisis.
+Macro-prudential tools like counter-cyclical capital and reserve requirements on banks have been emasculated by vested interests in the financial industry.
+And, while governments have been trying (albeit ineffectually) to reduce their net liabilities, they have been encouraging households to increase their debt, in order to support the restoration of “healthy” growth.
+<P>
+The McKinsey report uses consensus data from the International Monetary Fund and the OECD to forecast that, with the notable exceptions of Germany, Greece, and Ireland, the debt/GDP ratio in advanced economies is set to rise.
+This seems alarming.
+But a great deal of the alarm is based on the oft-repeated canard that government spending is unproductive and a burden on future generations.
+In fact, future generations will benefit more than the current one from government infrastructure investment, so it is reasonable that they should pay for most for it.
+<P>
+The purpose for which the debt is incurred is important.
+Debt crises are likelier if debt is being used to cover current spending.
+But now, when real interest rates are almost zero or negative, is the ideal time for governments to borrow for capital spending.
+Bondholders shouldn’t worry about debt if it gives rise to a productive asset.
+<P>
+All governments nowadays aim for a fiscal surplus to pay down debt.
+This is sensible, but how it is done matters.
+In conditions of incomplete recovery and stagnating growth, raising taxes or cutting welfare spending is the wrong approach; fiscal consolidation requires taking active steps to increase GDP growth.
+<P>
+In the long run, this can be achieved only by raising productivity.
+But governments can help make the long run shorter.
+They have been relying on printing money to offset their fiscal policies’ deflationary effects.
+But as McKinsey puts it, “Liquidity...cannot translate into inflation when demand is depressed, the propensity to save is high, and banks are still de-leveraging.”
+<P>
+Expansionary fiscal policy is taboo, because it threatens to increase national debt further.
+But much depends on how governments present their accounts.
+In 2014, the Bank of England held 24% of UK government debt.
+If we discount this, the UK’s debt/GDP ratio was 63%, not 92%.
+<P>
+So it makes more sense to focus on debt net of government borrowing from the central bank.
+Governments should be ready to say that they have no intention of repaying the debt they owe their own bank.
+Monetary financing of government spending is one of those taboo ideas that is sure to gain support, if, as is likely, economic recovery grinds to a halt.

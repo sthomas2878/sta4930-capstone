@@ -1,0 +1,110 @@
+<HEADLINE>
+Exchange Rate Regimes and East Asia
+<P>
+SAN FRANCISCO - Three elements combined to produce financial crisis in East Asian economies: stagnation in Japan, the pegging of exchange rates to the U.S. dollar by national central banks, and the existence and policies of the IMF.
+<P>
+During the 1980's, the Bank of Japan fed the bubble in stock and land prices by permitting the quantity of money in Japan to grow rapidly --13% per year in 1990.
+The Bank of Japan then burst the bubble by stepping hard on the monetary brakes.
+The quantity of money declined a trifle in 1992 and from then to mid-1998 grew by only 2.6% per year.
+<P>
+The inevitable result was severe recession and stagnation.
+The stock market collapsed, moderate inflation turned into mild deflation, many bank loans became uncollectible and economic growth evaporated.
+In the six years preceding the stock market peak in 1990, Japan’s output grew by more than 30%; in the six years from 1992 to 1998, by less than 5%.
+<P>
+Japan is the largest economy in East Asia, the largest importer from and exporter to the smaller East Asian countries, their largest investor, and their largest supplier of credit.
+Its stagnation was offset until early 1997 by strong inflows of capital from around the world.
+That capital was attracted by the rapid rates of growth in East Asia, plus an underestimation of exchange rate risk, which brings us to the second and third element.
+<P>
+Three types of exchange rate regimes are possible and have existed at various times in various countries:
+<P>
+(a) A truly fixed exchange rate or unified currency.
+The clearest example is a common currency: the US dollar; the Euro that will shortly reign in the common market.
+Almost identical is the balboa in Panama, which is interchangeable with the dollar 1 to 1 and the currency boards in Argentina and Hong Kong, which are committed to creating currency only in exchange for a specified amount of U.S. dollars, and to having at all times dollar reserves equal to the dollar value of all the currency outstanding.
+The key feature of this regime is that there is only one central bank with the power to create money -- in the examples cited, the U.S. Federal Reserve.
+Hong Kong does not have a central bank; Argentina does, but has deprived it of the power to create money.
+A pure gold standard is a variant of this type of regime.
+<P>
+Hong Kong and Argentina retain the option of terminating their currency boards, changing the pegged rate, or introducing central bank features, as the Hong Kong Monetary Authority has done in a limited way.
+As a result, they are not immune to infection from foreign exchange crises originating elsewhere.
+Nonetheless, currency boards have a good record of surviving such crises intact.
+Those options are not retained by, say, Panama, and will not be retained by countries that adopt the Euro.
+<P>
+(b) Pegged exchange rates.
+This is the regime that prevailed in East Asian countries other than Japan.
+All had national central banks with the power to create money that committed themselves to maintain the price of their domestic currency in terms of the U.S. dollar at a fixed level, or within narrow bounds -- a policy that they had been encouraged to adopt by the IMF.
+Such a peg is fundamentally different from a unified currency.
+If Argentina has a balance of payments deficit, i.e. the dollar receipts from abroad are less than the payments due abroad, the quantity of currency (high-powered or base money) automatically goes down.
+That brings pressure on the economy to reduce foreign payments and increase foreign receipts.
+The economy cannot evade the discipline of external transactions.
+<P>
+Under the pegged system, when Thailand had a balance of payments deficit, the Bank of Thailand did not have to reduce the quantity of high-powered money.
+It had the alternative of drawing on its dollar reserves or borrowing dollars from abroad to finance the deficit.
+It could, at least for a time, evade the discipline of external transactions.
+<P>
+In a world of free capital flows, such a regime is a ticking bomb.
+It is never easy to know whether a deficit is transitory and will soon be reversed or is the precursor to further deficits.
+The temptation is always to hope for the best, and avoid any action that would tend to depress the domestic economy.
+Such a policy can be effective in smoothing over minor and temporary problems but it lets minor problems that are not transitory accumulate until they become major problems.
+When that happens, the minor adjustments in exchange rates that would have cleared up the initial problem will no longer do.
+It now takes a major change.
+<P>
+At this stage, the direction of any likely change is clear to everyone -- in the Thailand case, a devaluation.
+A speculator who sold the Thai baht short could at worst lose commissions and interest on his capital since if the baht was not devalued, the peg meant that he could cover his short at the same price at which he sold it.
+On the other hand, a devaluation would bring large profits.
+<P>
+The resulting collapse in the dollar value of the currencies of the four East Asian countries is an oft-told tale that has been experienced not only by small and less developed countries but also by large and highly developed ones.
+<P>
+To give only a few examples.
+The United Kingdom, which had a central bank and at the same time pegged its currency, experienced a major foreign exchange crisis in late 1967, when the pound was pegged to the U.S. dollar, and again, this time along with France, Italy and other members of the European Monetary Union in 1992 and 1993, when the peg was not to the dollar but at rates agreed to under the European Monetary System.
+<P>
+(c) Floating exchange rates.
+The third type of exchange rate regime is one under which rates of exchange are determined in the market on the basis of predominantly private transactions.
+In a pure form, clean floating, the central bank does not intervene in the market to affect the exchange rate though it (or the government) may engage in exchange transactions in the course of its other activities.
+<P>
+In practice, dirty floating is more common: the central bank intervenes from time to time to affect the exchange rate but does not announce in advance any specific value that it will seek to maintain.
+That is the regime currently followed by the United States, Britain, Japan, and many other countries.
+<P>
+Under a clean floating rate, there cannot be and never has been a foreign exchange crisis.
+There may well be internal crises, as in Japan, but that is not accompanied by a foreign exchange crisis.
+The reason is simple: changes in exchange rates absorb the pressures that in a pegged regime lead to crises.
+The foreign exchange crisis that affected Korea, Thailand, Malaysia, and Indonesia did not spill over to New Zealand or Australia because those countries had floating exchange rates.
+<P>
+The Mexican crisis of 1995 is the most recent example of a major currency crisis in a country with a central bank and pegged exchange rates, which brings us to our third element.
+Mexico, it is said, was "bailed out" by a 50 billion dollar financial aid package from a consortium including the International Monetary Fund, the United States, other countries, and other international agencies.
+The reality is that Mexico was not bailed out.
+Foreign entities -- banks and other financial institutions -- that had made dollar loans to Mexico that Mexico could not repay were bailed out.
+The internal recession that followed the bailout was deep and long and left the ordinary Mexican citizen with a sharply reduced income facing higher prices for goods and services.
+That remains true today.
+<P>
+The Mexican bailout helped fuel the East Asian crisis that erupted two years later.
+It encouraged individuals and financial institutions to make loans to and invest in the East Asian countries, drawn by high domestic interest rates and returns to investment, and reassured about currency risk by the belief that the IMF would bail them out if the unexpected happened and the exchange pegs broke.
+This effect has come to be called ‘moral hazard’.
+<P>
+I regard that as something of a libel.
+If someone offers you a gift, is it immoral for you to accept it?
+Similarly, I do not blame the lenders for accepting the gift of insurance against currency risk implicitly offered by the IMF.
+I blame the IMF for offering the gift by the way it handled the Mexican and other crises.
+<P>
+The IMF was established at Bretton Woods in 1944 to serve one purpose only: to supervise the operation of the system of fixed exchange rates established at Bretton Woods.
+That system ended on August 15, 1971 when President Nixon, as part of a package of economic changes including wage and price ceilings, "closed the gold window," ie, he ended the commitment that the US had undertaken at Bretton Woods to buy and sell gold at $35 an ounce.
+<P>
+With the official death of the Bretton Woods System in 1973, the IMF lost its only function and should have been abolished.
+But few things are so permanent as government agencies, including and perhaps especially international agencies.
+The IMF, sitting on a pile of funds, sought and found a new function: serving as an economic consulting agency to countries in trouble -- an unusual agency that brought funds with it instead of charging fees.
+It found plenty of clients, even though its advice was not always good.
+<P>
+The Mexican bailout was on a much larger scale than earlier ventures.
+It led to the IMF being viewed as a lender of last resort, a function it was not equipped to perform.
+It also led to the expectations I have referred to that helped produce the Asian crisis.
+When that crisis broke, the IMF quickly committed itself to more than $100 billion in loans to the four countries involved, subject to conditions agreed on with the IMF, conditions on government budgets, monetary policies, banking regulations, and the like, varying somewhat from country to country.
+In retrospect, many observers, myself included, believe that much of the advice was based on the IMF’s experience with countries whose problem derived from excessive government spending and budgets and was not appropriate to East Asia, where the problem was not a fiscal crisis but a banking crisis -- in Japan as well as in the pegged exchange rate countries.
+<P>
+Two points stand out from this analysis:
+<P>
+(a) Of the three possible exchange rate regimes for a developing country, either a truly fixed rate with no national central bank or a floating rate plus a national central bank is preferable to a pegged exchange rate.
+That lesson emerges very clearly from the East Asian episode but is also supported by much earlier experience.
+It is much less clear which of the two extremes is preferable.
+That depends on the specific characteristics of the country involved, in particular whether it has a major trading partner that has established a good record for stable monetary policy and so provides a desirable currency to link to.
+<P>
+(b) The International Monetary Fund has been a destabilizing factor in East Asia, not so much because of the conditions it imposed on clients, whether good or bad, as by sheltering private financial institutions from the consequences of unwise investments.
+It is not too much to say that had there been no IMF, there would have been no East Asia crisis, though individual countries might well have had internal crises -- as exemplified by Japan, whose troubles cannot be blamed on the IMF.

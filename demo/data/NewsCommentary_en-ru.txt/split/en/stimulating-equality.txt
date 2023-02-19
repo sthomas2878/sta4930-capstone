@@ -1,0 +1,52 @@
+<HEADLINE>
+Stimulating Equality
+<P>
+NEW YORK – With unemployment climbing in the United States and other OECD countries, job creation is a key objective for policymakers.
+In the US, President Barack Obama recently proposed to increase public spending by about $600 billion over the next two years to create an additional four million jobs.
+But Obama is also concerned with reversing a sharp rise in income inequality (which is now at an 80-year high).
+Is it possible for leaders to do both at the same time?
+<P>
+The answer is unequivocally yes, but only if they focus on government spending rather than reforming their tax systems.
+That lesson is even more powerful for other advanced countries like Germany and France, which spend a far higher percentage of GDP on public programs (35% and 43%, respectively, in 2005) than the US (only 25%).
+<P>
+America’s tax system has surprisingly little redistributional punch.
+Using a measure of “comprehensive income” – money income, total capital gains on wealth, imputed rent on owner-occupied housing, non-cash government benefits, and public consumption – income taxes are generally progressive.
+<P>
+Federal income taxes as a proportion of income increase steadily from 2% at the 10th percentile (that is, a family ranked tenth from the bottom out of 100) to 14% at the 90th percentile, but then falls off slightly to 13% at the very top, reflecting the favorable treatment of capital gains and investment income under the Bush administration’s income-tax laws.
+<P>
+On the other hand, social security taxes – the biggest tax for more than two-thirds of families – are mildly regressive.
+Social security taxes as a proportion of income rise gradually from 5% at the 10th percentile to 9% at the 80th percentile, stay there at the 90th percentile, but then fall off sharply to 5% at the top.
+This decline reflects the wage cap on social security taxes (currently at $102,000).
+<P>
+The total tax burden on families also includes sales taxes, which are steeply regressive, and property taxes, which are progressive.
+Total personal taxes are mildly progressive, increasing steadily as a share of income from 14% at the 10th percentile to 28% at the 90th percentile, but then falling off sharply to 22% at the top, owing to the favorable treatment of capital gains and investment income, the wage cap on social security taxes, and the sharp regressivity of sales taxes.
+<P>
+On the other hand, total transfers have a much bigger equalizing effect on incomes.
+Cash transfers, like social security and unemployment insurance, are highly equalizing.
+When the value of non-cash government benefits, like Medicaid, Medicare, and Food Stamps, are also included, total transfers become extremely progressive.
+As a proportion of income, they fall almost continuously, from 50% at the 10th percentile to 2.5% at the very top.
+<P>
+But government spending on goods and services, like education, highways, police, and sanitation, has distributional consequences, too, and can be allocated to actual beneficiaries in much the same way as government transfers.
+Educational expenditures are allocated on the basis of the number of schoolchildren in the family.
+Highway spending is allocated in proportion to the number of cars owned by the family and estimated miles driven.
+Collective goods like fire and police protection are allocated on a per capita basis.
+<P>
+Public consumption is just as progressive as transfer payments.
+As a proportion of income, it declines almost continuously, from 34% at the 10th percentile to 3% at the very top.
+The main beneficiaries of public spending are the poor and the middle class.
+<P>
+When you add together government transfers and public consumption and subtract taxes paid, you get a figure for net government expenditures.
+This is extremely progressive.
+As a share of income, it declines sharply from 70% at the 10th percentile to -16% at the top (in other words, the top bracket pays more in taxes than it receives in government benefits).
+In fact, the crossover point between positive and negative net government expenditures is at the 66th percentile.
+The extremely progressive nature of net government expenditures comes about equally from government transfers and public spending; very little is contributed by taxes.
+<P>
+It is not just the poor who benefit from net governmental expenditures.
+The middle class is also a big beneficiary.
+Between 1959 and 2005, about half of the growth of the middle class’s income came from increased net government expenditures.
+Indeed, from 2000 to 2004, the increase in net government expenditures accounted for 150% of income growth, as other sources of income shriveled up.
+Net government spending also helped to reduce overall inequality over those years.
+<P>
+As Obama and other leaders around the world implement stimulus packages in the months ahead, they should recognize that the question of who benefits goes beyond the number of jobs created.
+Government spending, no less than government transfers, has actual beneficiaries.
+If these packages target education (very redistributive) or sanitation, fire, police, and highways (mildly redistributive), they can create jobs and reduce inequality.

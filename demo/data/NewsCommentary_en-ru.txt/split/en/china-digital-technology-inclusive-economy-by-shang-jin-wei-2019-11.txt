@@ -1,0 +1,71 @@
+<HEADLINE>
+Using Digital Technology to Narrow the Opportunity Gap
+<P>
+NEW YORK – Although many societies aspire to provide equal opportunities for everyone, that is easier said than done.
+People born into different economic and social statuses have unequal educational or financial starting points.
+This often leads to very different career and life opportunities.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Digital technology was not invented to tackle inequality, and there is even a risk that it could widen existing economic and social disparities.
+But, as the case of China illustrates, new platforms also offer many possible ways to narrow the opportunity gap.
+<P>
+Consider four examples.
+The first is the promotion of micro and small enterprises via e-commerce.
+The Chinese platform Taobao.com, part of the Alibaba Group, is the largest online marketplace by volume among emerging economies.
+It allows tea growers, furniture makers, suitcase manufacturers, and other small producers and merchants, including those from remote villages, to reach their customers in Shanghai and Beijing (and even overseas) easily and cheaply.
+Previously, these entrepreneurs were unable to sell directly in sufficiently large volumes because of high intermediary charges.
+But in the e-commerce era, they can.
+<P>
+Although e-commerce platforms can benefit companies everywhere, they disproportionately boost small businesses in rural and remote areas, and thus help to equalize opportunity.
+Moreover, as a forthcoming World Bank report entitled “E-Commerce Development: Experience from China” points out, such platforms also promote gender equality.
+Whereas the vast majority of offline entrepreneurs are men, their online counterparts are as likely to be female as male.
+<P>
+Second, fintech can help to meet the financing needs of micro and small businesses.
+Ant Financial, which is partly owned by the Alibaba Group, generates credit scores by using cash flow data, online customer reviews, and other digital indicators.
+It then uses these scores to make uncollateralized loans to millions of micro and small enterprises in China that previously could not obtain a traditional bank loan.
+<P>
+Research by Harald Hau, Yi Huang, Hongzhe Shan, and Zixia Sheng shows that micro-entrepreneurs who received an unsecured loan from Ant Financial enjoyed substantially faster growth in sales and other business indicators than those who did not secure such credit.
+To ensure that the results did not simply reflect the fact that firms receiving a loan were already bigger and better than the others, the researchers compared those companies whose credit scores were barely above the cut-off line for a loan with those that were just below it.
+<P>
+These two sets of firms were essentially the same before Ant Financial established its loan program.
+But the businesses that received an unsecured loan grew much more robustly than those that just missed out.
+This suggests that a small fintech loan can make a big difference for many micro-entrepreneurs.
+<P>
+Third, digital technology holds out the promise of directly reducing the imbalance in educational resources between poor and rich areas.
+Many rural schools in developing countries cannot afford to hire high-quality teachers, or to provide effective, up-to-date training for the teachers they have.
+As a result, rural students tend to do less well than those in better-off areas.
+<P>
+YouChange Foundation, a non-profit organization founded and run by Tang Min, a retired Asian Development Bank official, set out to change this.
+Tang persuaded top primary and middle schools in Beijing and other large Chinese cities to have video cameras installed in their classrooms, and to let schools in poor and remote rural areas audit their lessons via online video links.
+<P>
+Tang invited rural schools to try out two models.
+Under the first, rural teachers observe how certain lessons (in mathematics or language, for example) are taught in the top national schools, and what type of exercises the teachers design and administer.
+They then adapt and apply these tips to their own rural classrooms the next day.
+Under the second model, students in the rural schools can watch the classes taught in large cities in real time, and their teachers then act as tutors to provide additional help.
+<P>
+In both cases, rural students seem to learn better and enjoy school more.
+The YouChange teaching program has thus helped to reduce the educational gap between some of China’s poor rural regions and its much richer urban areas.
+<P>
+Finally, new technologies can enhance the rights of small shareholders of listed companies.
+In 2014, the Chinese authorities introduced a policy requiring all listed firms to allow online participation and voting in their general shareholder meetings.
+Previously, only large shareholders had participated in these gatherings.
+<P>
+Research by Huasheng Gao and his colleagues at Fudan Unviersity’s Fanhai International School of Finance suggests that the online option has increased small shareholders’ participation in such meetings, making proposals by company management or large shareholders that might hurt small investors’ interests less likely to be adopted.
+Digital technology has thus effectively democratized corporate governance by leveling the playing field for small shareholders.
+<P>
+In these and other areas, digital technology presents exciting new opportunities.
+But public policy also must play an important role.
+Digital technology can promote economic inclusion only if governments ensure that virtually everyone has access to digital infrastructure.
+They should consider introducing tax incentives for digital initiatives that demonstrably narrow the opportunity gap.
+Policymakers should also ensure that the right laws are in place – and enforced – in order for the digital space to remain open, competitive, and affordable.
+<P>
+Inequality is one of the most pressing issues of our time.
+Public policy and digital technology can complement each other to build a more inclusive society – both in China and elsewhere.

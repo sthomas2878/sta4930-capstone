@@ -1,0 +1,57 @@
+<HEADLINE>
+Protectionist Shadows over Solar Power
+<P>
+CAMBRIDGE – As July ended, a settlement was reached in the world’s largest anti-dumping dispute, with China agreeing to a minimum price for the solar panels that it exports to the European Union.
+The solution is much less severe than what had been the imminent alternative: EU tariffs on Chinese solar panels were set to rise to 47.6%, as a result of the European Commission’s “finding” that China – whose market share now stands at 80% in Europe – had been “dumping.”
+Nonetheless, the settlement is a bad outcome for consumers – and for the environment.
+<P>
+The China-EU dispute parallels a similar one between China and the United States.
+Last fall, the US introduced tariffs of 24-36% against Chinese solar-panel imports, after the Commerce Department determined that China had been “dumping” – which is generally defined as selling at a price below cost – into the American market.
+China, citing its own finding of US dumping of polysilicon – a key input in the production of solar panels – into its market, has already retaliated by imposing import tariffs that could exceed 50%.
+<P>
+The solar-panel disputes may sound narrow and esoteric, but they go to the heart of the long-running debate over globalization.
+Anti-globalization activists’ most powerful argument is that even if free trade is good for economic progress overall, it might undermine important public goods such as environmental protection.
+Under the well-known “race to the bottom” hypothesis, countries that are open to international trade are thought to adopt weaker environmental regulations than less open countries do.
+<P>
+But trade can also have beneficial environmental effects.
+Specialization in each country allows people to obtain more of what they want, which, especially at higher income levels, includes cleaner air and water.
+When trade brings down costs, it can benefit environmental goods just as much as it benefits other goods.
+<P>
+So, is trade globalization, on balance, better or worse for the environment?
+Some empirical studies of cross-country data find net beneficial effects on indicators of environmental degradation like local sulfur-dioxide air pollution.
+Provided that countries have effective governance institutions at the national level, trade and growth give them the means to clean their air.
+But the evidence also suggests that trade and growth can exacerbate other forms of environmental degradation, particularly carbon-dioxide emissions, because CO2 is a global externality that cannot be addressed at the national level, owing to the free-rider problem.
+<P>
+The solar-power industry is a perfect example of how trade can benefit air quality.
+Skeptics of solar power have long argued that its share in electricity generation cannot rise above a few percentage points without massive subsidies, because it is too costly compared to the alternatives.
+Proponents, for their part, counter that temporary moderate subsidies would expand the industry, with economies of scale and learning-by-doing then bringing down costs sharply.
+<P>
+But proponents have focused too much on government subsidies and too little on the contribution of international trade, which in recent years has had a highly positive effect on the development of solar power, as the bonanza of Chinese panels held down costs.
+The current embrace of protectionism threatens to reverse this progress.
+With the loss of cheap solar panels from China, and with subsidies that helped to drive the European industry now reduced for fiscal reasons, the share of solar power in Europe will fall far short of environmentalists’ goals.
+<P>
+But “findings” of “dumping” into foreign markets surely warrant some response, no?
+Actually, no.
+<P>
+For starters, even those who are generally sympathetic to trade and markets often have the impression that anti-dumping laws target “predatory pricing,” a practice in which a large producer sells below cost in order to drive its competitors into bankruptcy, at which point it can raise the price and reap monopoly profits.
+<P>
+But that is not even the way anti-dumping laws are usually written, let alone applied.
+Simply put, anti-dumping measures, such as the US and EU tariffs against Chinese solar panels, are a means of reducing, not fostering, competition.
+So, if predatory pricing is not the producers’ motive for selling below cost in these cases, what is?
+<P>
+The solar-panel industry worldwide – in China, Europe, and the US – is experiencing a glut of productive capacity.
+As a result, global supply and demand are balanced at a market price that is below the long-term average cost per unit, which includes a share of the cost already incurred in building the factories.
+But that market price is not below the short-term cost of keeping the factories running once they are built.
+<P>
+In other words, producers sell at prices that are “below cost,” because, having already built the factories, they would lose even more money if they charged above the competitive market price or shut down production altogether.
+When the US or EU finds that China is “dumping” solar panels, or when China finds that the US is “dumping” polysilicon, they are using average cost rather than marginal cost.
+By this criterion, dumping occurs every time a store has a clearance sale.
+<P>
+Some have compared the negotiated agreements to limit China’s solar-panel exports to past “voluntary export restraints” (VERs) or “orderly marketing arrangements” in the steel and consumer-electronic industries, especially those that Japan agreed to apply to its exports to the US in the 1980’s.
+But a more revealing precedent is Japan’s VERs on exports of autos during this period.
+American automakers had found it increasingly difficult to compete against smaller, more fuel-efficient Japanese imports.
+When free trade was eventually restored, American wallets and air quality benefited (and the US auto industry was forced to become more efficient).
+<P>
+Free trade in automobiles was good for the environment 30 years ago.
+The same is true of trade in solar equipment today.
+Westerners should thank Chinese panel producers for their contribution to keeping solar power viable, not penalize them through protectionist anti-dumping measures.

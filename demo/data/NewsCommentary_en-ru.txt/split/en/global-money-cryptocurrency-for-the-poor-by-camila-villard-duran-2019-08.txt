@@ -1,0 +1,63 @@
+<HEADLINE>
+Global Money for the Poor
+<P>
+SÃO PAULO – In 2002, the Nobel laureate economist Thomas Sargent and François Velde, now a senior economist at the Federal Reserve Bank of Chicago, published The Big Problem of Small Change.
+The book’s title was inspired by the observations of economic historian Carlo Cipolla on the functioning of the medieval commodity-money system – particularly its persistent failure from the twelfth century onward to prevent shortages of small-denomination coins used mainly by the poor.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Today, the world faces the big problem of global small change.
+How, for example, can migrant workers in developed economies send money cheaply and securely to their families in developing countries?
+Remittances are too expensive, and it remains to be seen whether Facebook’s Libra, or another global cryptocurrency, will be a viable and stable option for providing global money for the poor.
+Yet today’s policymakers and technology firms can seek guidance from monetary history.
+<P>
+Cipolla argued that the medieval problem of small-coin shortages lay in the persistent differences in the exchange rate between large-denomination gold and silver coins and the smallest coins used in daily transactions, and in the higher cost of producing them.
+Only by the late 1800s, after centuries of trial and error, had most European countries found a solution: governments should issue high-quality token coins that were difficult to counterfeit and had little or no intrinsic value, but were convertible into commodities such as gold.
+This was the basis of the gold standard.
+<P>
+During the second half of the twentieth century, convertibility into gold eventually gave way to a fiat-money system of national currencies, and the US dollar became the key currency for large cross-border transactions.
+But providing the poor with access to “small-denomination” money in a globalized world proved more problematic.
+<P>
+More recently, private entities have issued new token coins using blockchain or mobile-phone technologies to help improve access to money in poor areas (and to respond to declining public trust in governments following the 2008 financial crisis).
+Yet there is still a recurring “shortage” of global money for the poor.
+<P>
+Remittances remain the most common type of small-denomination financial transaction.
+The 2019 United Nations report on the world’s progress toward the Sustainable Development Goals (SDGs) shows that personal remittances from migrant workers are becoming the largest source of external financing for developing countries.
+Remittances totaled $689 billion in 2018, more than three times the amount of official development assistance to those countries in that year.
+And remittances to low- and middle-income countries rose by 9.6%compared to 2017.
+<P>
+Yet remittances are too costly and inefficient to tackle the persistent economic problem of global money for the poor.
+In the first quarter of 2019, the average cost of sending $200 was 7% of that sum.
+In Africa and small Pacific islands, it was as high as 10%.
+The SDG target of 3% (on average) by 2030 is thus a long way off.
+<P>
+Perhaps remittances today are what the small-coin debasement was for the medieval monetary system: an incomplete and temporary cure for the shortage of money.
+What is really needed is an effective and reliable means of international payment to provide cross-border liquidity for the poor.
+<P>
+At present, the lack of competition among financial actors and the uncertainties of money markets in developing countries are impeding the establishment of such a system.
+And globally, about 1.7 billion adults remain unbanked.
+<P>
+Moreover, traditional banks and financial institutions seemingly lack the economic and legal incentives to establish a payment system for the poor at low cost.
+If merchant bankers pushed financial innovations in medieval times, technology firms are in the driver’s seat now, and policymakers and regulators should prepare accordingly.
+<P>
+Although blockchain and mobile-phone technologies can provide global money for the poor, some fear that they could create global financial instability.
+Commentators including Katharina Pistor of Columbia Law School have warned of the possible financial and other risks associated with Facebook’s Libra, and have called for governments to intervene before it takes off.
+<P>
+Nobel laureate economist Joseph E. Stiglitz, meanwhile, has stressed the importance of trust in money: every fiat currency is based on confidence that it will be redeemable on demand.
+Unlike other cryptocurrencies, Libra would be fully backed by reserves, and its value would be fixed in terms of a global basket of currencies.
+Yet even this might not be enough to make it viable.
+<P>
+I would rather put the question another way: who can provide global money for the poor, and under which regulatory conditions?
+National central banks may soon issue digital currencies.
+And as Harold James of Princeton University notes, new technology has brought within reach the possibility of a global currency not connected to any national sovereign power.
+This could be an opportunity for the International Monetary Fund, or even the Bank for International Settlements, to help the world’s poor.
+<P>
+Providing a cheap, reliable payment system for the less well-off is a centuries-old challenge, but the technology to solve the problem is available.
+What the world needs now is new monetary ideas and institutions to make this a reality and help realize the SDGs.

@@ -1,0 +1,73 @@
+<HEADLINE>
+Evidence-Based Economics
+<P>
+There is a movement in medicine to require that applications for licenses to sell a new drug be “evidence-based.”
+By contrast, trained economists view their discipline as having already achieved this scientific standard.
+After all, they express their ideas with mathematics and arrive at quantitative estimates of implied relationships from empirical data.
+<P>
+But economics is not evidence-based in selecting its theoretical paradigms.
+Economic policy initiatives are often taken without all the empirical pre-testing that could have been done.
+<P>
+A notorious example is postwar macroeconomic policymaking under the radical Keynesians.
+The radicals relied on Keynes’s untested theory that unemployment depended on “effective demand” in relation to the “money wage,” but their policy ignored the part about wages and sought to stabilize demand at a high enough level to ensure “full” employment.
+<P>
+Cecil Pigou and Franco Modigliani objected that if demand were successfully increased, the money wage level would rise, catch up to demand, and thus push employment back down to its previous level.
+Employment cannot be sustained above its equilibrium path by inflating effective demand.
+<P>
+Nevertheless, the radicals prevailed through what the economist Harry Johnson called “scorn and derision.”
+Postwar macroeconomic policies were dedicated to “full” employment, without any evidence that money wages would not get in the way.
+<P>
+In the late 1950’s, neo-Keynesians finally conceded the point raised by Pigou and Modigliani.
+Will Phillips’s work on wages gave them no choice.
+But they still insisted that steady increases of demand at a fast enough rate would keep demand one step ahead of the money wage level, so that employment could be kept as high as desired, albeit at the cost of steady inflation.
+<P>
+In different ways, Milton Friedman and I objected, arguing that such a policy would require an ever-rising inflation rate.
+Money wages will lag behind demand, I argued, only as long as the representative firm is deterred from raising wages by the misperception that wages at other firms are already lower than its own – a disequilibrium that cannot last.
+<P>
+Like the radicals, the neo-Keynesians did not engage their challengers with empirical testing.
+The efficacy of high demand was a matter of faith.
+Yet events in the 1970’s put that faith to a cruel test.
+When supply shocks hit the US economy, the neo-Keynesians’ response was to pour on more demand, believing it would revive employment.
+There was little recovery – only faster inflation.
+<P>
+The current era offers a parallel.
+Although policy has since shifted to reflect supply-side economics and real business-cycle theory, the new reigning paradigm’s builders and promoters display the same antipathy to checking data for serious error.
+<P>
+An earlier classroom lesson was well-founded: temporarily below-normal tax rates on labor this year, when merged with the prospect of reversion to normal rates next year, will encourage households to squeeze more work into this year and to work less in future years.
+This proposition was recently tested anew on Icelandic data and performed well.
+<P>
+But the supply-siders jumped to the daring conclusion that a permanent cut in tax rates on labor would encourage more work permanently – with no diminution of effectiveness.
+Larry Summers and I both doubted that this could be generally true.
+If every increase in the after-tax wage rate gave a permanent boost to the amount of labor supplied, we reasoned, steeply rising after-tax wages since the mid-nineteenth century would have brought an extraordinary increase in the length of the workweek and in retirement ages.
+But both have fallen, and in continental Europe unemployment is higher.
+<P>
+In my view, this core tenet of supply-side economics rests on a simple blunder.
+What matters for the amount of labor supplied is the after-tax wage rate relative to income from wealth.
+While after-tax wage rates soared for more than a century, wealth and the income it brought grew just as fast.
+<P>
+To be sure, if tax rates were decreased permanently this year, there would initially be a strongly positive effect on labor supplied.
+But there would also be a positive effect on saving and thus on wealth next year and beyond.
+In the long run, wealth could tend to increase in the same proportion as after-tax wages.
+The effect on work would vanish.
+<P>
+We must proceed cautiously, however.
+In standard analyses, the tax cut brings a reduction in government purchases of goods and services, like defense.
+But a tax cut could instead contract the welfare state – social assistance and social insurance, which constitute social wealth.
+In that case, the tax cut, while gradually increasing private wealth, would decrease social wealth.
+The issue is an empirical one.
+<P>
+Research I did with Gylfi Zoega a decade ago confirmed that cuts in taxes on labor boost employment in the short run.
+But what about the long run?
+Do large long-run effects of tax rates show up in international differences in employment?
+<P>
+In 1998 we examined OECD data for a correlation between national unemployment rates in the mid-1990’s and current tax rates on labor.
+We found none.
+In 2004, we looked at labor-force participation rates and again at unemployment.
+Still no correlation.
+High-unemployment countries include high-tax Germany, France, and Italy, but also low-tax Japan and Spain.
+Low-unemployment nations include low-tax Britain and the US, but also very high-tax Denmark and Sweden.
+<P>
+Neoliberals are now telling continental Europe that tax cuts on labor can dissolve high unemployment.
+But the effectiveness of such tax cuts would be largely, if not wholly, transitory – especially if the welfare state was spared.
+In two decades’ time, high unemployment would creep back.
+The false hopes raised by cutting taxes would have diverted policy makers away from fundamental reforms that are necessary if the Continent is to achieve the dynamism on which high rates of innovation, abundant job creation, and world-class productivity depend.

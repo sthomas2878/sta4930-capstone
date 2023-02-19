@@ -1,0 +1,63 @@
+<HEADLINE>
+The Coming Libra Panics
+<P>
+SYDNEY – Facebook’s unveiling of a new digital currency, Libra, has produced a tidal wave of skeptical, critical, and outright hostile responses.
+That is understandable, given Facebook’s reputation for carelessness about user data and personal privacy.
+Nonetheless, public angst won’t stop the company that once promised to “move fast and break things” from forging ahead – and possibly breaking entire national economies in the process.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+We don’t yet have a full account of how Libra will work.
+For all its revolutionary hype, it could turn out to be just another variation on existing payment schemes.
+Apple Pay, PayPal, WeChat, and other services already each offer a basic payment method, including various convenience-enhancing features to lure customers and businesses.
+But, in substance, these services are merely an additional link in the chain of existing payment channels, ultimately connecting to the conventional banking system.
+<P>
+If Libra simply competes with these existing players, there could still be rich pickings for Facebook, not just transfer and foreign-exchange transaction fees, but also in terms of data collection.
+Amassing the payment and transaction details of the social network’s huge user base would be a glittering prize in itself.
+<P>
+But, of course, Libra is being sold as much more than this.
+As one Facebook executive puts it, “We want sending money to be as easy as sending a text message.”
+Given that Libra will take the form of private money linked to a basket of stable major currencies, how would this work in practice?
+<P>
+If the people of Argentina could switch from pesos to a basket of stable currencies with a single touch of their smartphones, wouldn’t they then pour into that safe asset at the first hint of trouble in the domestic economy?
+A standard “efficient market” analysis does not help us answer that question, because in perfect markets, such flows would be self-correcting.
+According to this view, if the Argentine public abandoned its peso holdings, the peso would depreciate, and arbitrageurs would step in to support the now-undervalued currency.
+The peso would return to its initial value, and all would be well.
+Far from posing a threat to financial stability, frictionless international flows would create the “efficient market” par excellence.
+<P>
+Unfortunately, the real world doesn’t work that way.
+During a spasm of domestic panic, international capital flows in a system without the equivalent of deposit insurance are more likely to follow the logic of a bank run.
+When depositors fear the possibility of a bank failure, the sensible ones withdraw their money.
+If the bank fails, they avoid a loss; if it survives, they can simply redeposit their money at little cost.
+But when enough depositors do the sensible thing and withdraw their funds, the bank will fail.
+<P>
+The same type of self-fulfilling prophecy can also occur in a national economy.
+If a peso depreciation seems imminent, all rational holders of pesos will dump them for a readily available stable currency, thereby causing the rapid depreciation they feared.
+<P>
+In today’s world, such massive shifts between currencies are rare, because there is substantial friction in international currency transactions.
+Even with major currencies, the spread between buying and selling rates for a foreign currency is typically around 10% (for retail customers).
+Moreover, there are also substantial transfer fees, such as those charged by Western Union for foreign workers’ remittances.
+And though large financial-sector players can and do carry out destabilizing transactions, such as in the 2013 “taper tantrum,” the currency flows in these cases are still constrained by regulatory requirements.
+<P>
+We don’t really know what would happen if the general public suddenly had access to a low-cost, unregulated method of exchanging a volatile local currency for a basket of safe currencies.
+But the risks are obvious.
+Countries with a long record of devaluations, like Argentina, as well as any middle-size country with a floating exchange rate, would be highly vulnerable to capital flight.
+<P>
+Proponents of the efficient-markets theory have long pushed for more frictionless transactions, in order to maximize the scope and benefits of the price mechanism.
+But so far, we have been saved from the disastrous consequences of frictionless international currency flows by the inefficiencies of the prevailing system.
+Exorbitant transaction fees and anti-money-laundering (“know-your-customer”) regulations have thrown enough sand in the gears to make international currency runs a rare occurrence.
+<P>
+But if Facebook introduces seamless international transactions for the general public, runs will become commonplace.
+Inevitably, governments will have to step in to introduce a new form of friction to the system.
+One partial solution is a small universal financial transaction tax of the type proposed 50 years ago by the Nobel laureate economist James Tobin.
+Though a “Tobin tax” wouldn’t address all the issues concerning privacy and financial stability, it could discourage short-term speculative flows without undercutting incentives for more beneficial transactions such as foreign direct investment.
+<P>
+Policymakers around the world have been discussing a Tobin tax for decades.
+Now that Libra is looming on the horizon, it is time to put words into action – before Facebook does.

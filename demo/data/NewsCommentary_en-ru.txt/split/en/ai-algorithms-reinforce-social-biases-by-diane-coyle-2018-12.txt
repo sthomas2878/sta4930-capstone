@@ -1,0 +1,52 @@
+<HEADLINE>
+Lies, Damned Lies, and AI
+<P>
+CAMBRIDGE – Algorithms are as biased as the data they feed on.
+And all data are biased.
+Even “official” statistics cannot be assumed to stand for objective, eternal “facts.”
+The figures that governments publish represent society as it is now, through the lens of what those assembling the data consider to be relevant and important.
+The categories and classifications used to make sense of the data are not neutral.
+Just as we measure what we see, so we tend to see only what we measure.
+<P>
+As algorithmic decision-making spreads to a wider range of policymaking areas, it is shedding a harsh light on the social biases that once lurked in the shadows of the data we collect.
+By taking existing structures and processes to their logical extremes, artificial intelligence (AI) is forcing us to confront the kind of society we have created.
+<P>
+The problem is not just that computers are designed to think like corporations, as my University of Cambridge colleague Jonnie Penn has argued.
+It is also that computers think like economists.
+An AI, after all, is as infallible a version of homo economicus as one can imagine.
+It is a rationally calculating, logically consistent, ends-oriented agent capable of achieving its desired outcomes with finite computational resources.
+When it comes to “maximizing utility,” they are far more effective than any human.
+<P>
+“Utility” is to economics what “phlogiston” once was to chemistry.
+Early chemists hypothesized that combustible matter contained a hidden element – phlogiston – that could explain why substances changed form when they burned.
+Yet, try as they might, scientists never could confirm the hypothesis.
+They could not track down phlogiston for the same reason that economists today cannot offer a measure of actual utility.
+<P>
+Economists use the concept of utility to explain why people make the choices they do – what to buy, where to invest, how hard to work: everyone is trying to maximize utility in accordance with one’s preferences and beliefs about the world, and within the limits posed by scarce income or resources.
+Despite not existing, utility is a powerful construct.
+It seems only natural to suppose that everyone is trying to do as well as they can for themselves.
+<P>
+Moreover, economists’ notion of utility is born of classical utilitarianism, which aims to secure the greatest amount of good for the greatest number of people.
+Like modern economists following in the footsteps of John Stuart Mill, most of those designing algorithms are utilitarians who believe that if a “good” is known, then it can be maximized.
+<P>
+But this assumption can produce troubling outcomes.
+For example, consider how algorithms are being used to decide whether prisoners are deserving of parole.
+An important 2017 study finds that algorithms far outperform humans in predicting recidivism rates, and could be used to reduce the “jailing rate” by more than 40% “with no increase in crime rates.”
+In the United States, then, AIs could be used to reduce a prison population that is disproportionately black.
+But what happens when AIs take over the parole process and African-Americans are still being jailed at a higher rate than whites?
+<P>
+Highly efficient algorithmic decision-making has brought such questions to the fore, forcing us to decide precisely which outcomes should be maximized.
+Do we want merely to reduce the overall prison population, or should we also be concerned about fairness?
+Whereas politics allows for fudges and compromises to disguise such tradeoffs, computer code requires clarity.
+<P>
+That demand for clarity is making it harder to ignore the structural sources of societal inequities.
+In the age of AI, algorithms will force us to recognize how the outcomes of past social and political conflicts have been perpetuated into the present through our use of data.
+<P>
+Thanks to groups such as the AI Ethics Initiative and the Partnership on AI, a broader debate about the ethics of AI has begun to emerge.
+But AI algorithms are of course just doing what they are coded to do.
+The real issue extends beyond the use of algorithmic decision-making in corporate and political governance, and strikes at the ethical foundations of our societies.
+<P>
+While we certainly need to debate the practical and philosophical tradeoffs of maximizing “utility” through AI, we also need to engage in self-reflection.
+Algorithms are posing fundamental questions about how we have organized social, political, and economic relations to date.
+We now must decide if we really want to encode current social arrangements into the decision-making structures of the future.
+Given the political fracturing currently occurring around the world, this seems like a good moment to write a new script.

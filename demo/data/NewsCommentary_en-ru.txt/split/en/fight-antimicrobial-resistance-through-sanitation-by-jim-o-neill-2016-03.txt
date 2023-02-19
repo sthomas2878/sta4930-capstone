@@ -1,0 +1,56 @@
+<HEADLINE>
+Back to Disease-Fighting Basics
+<P>
+LONDON – Combating antimicrobial resistance will require groundbreaking technological solutions.
+To prevent superbugs from claiming an estimated ten million lives a year by 2050, we will need to invent new types of antimicrobial drugs and develop rapid diagnostic tests to avoid unnecessary treatment and cut our massive overuse of antibiotics.
+<P>
+And yet, as important as these high-tech contributions may be, they are only partial fixes.
+To tackle the problem permanently, the only option is to prevent infections from occurring in the first place – with improved hygiene, sanitation, and disease surveillance.
+Indeed, only by focusing on these areas will we lower the demand for new drugs over the long term.
+<P>
+Indeed, in the nineteenth century, long before modern drugs were available, major Western cities tackled diseases by seeking to prevent infections.
+And this approach remains the best solution for large cities with growing populations.
+<P>
+Consider London in the 1850s: Living conditions for the poor were grim.
+Male life expectancy was 40 years.
+Diseases like cholera and tuberculosis were rife, and there was no way to treat them.
+In September 1854, a cholera outbreak devastated the city’s impoverished, central Soho district, killing 500 people in just ten days.
+<P>
+Enter John Snow, a pioneering physician who had intuited that cholera was spread not through the air, as conventional wisdom held, but through water.
+Snow monitored the progress of the Soho outbreak in unprecedented detail, mapping each case.
+His research convinced him that the source of the outbreak was a shared water pump in the heart of the district.
+And once the pump’s handle was removed, the pace of the outbreak slowed dramatically.
+<P>
+Several of Snow’s methods are directly applicable to the modern problem of antimicrobial resistance.
+For starters, his effort demonstrated the efficacy of using data to understand a public health crisis.
+His mapping and statistical analysis helped identify the epicenter of the outbreak and thus its root cause.
+Snow’s emphasis on using data to guide his intervention is a principle that institutions like the Bill & Melinda Gates Foundation insist upon today.
+<P>
+The recent Ebola outbreak in West Africa demonstrated, in tragic fashion, the importance of good data.
+The epidemic spread most dramatically in areas where basic infrastructure and surveillance systems had broken down.
+As a result, even after Ebola had been declared a public health emergency and funding had been made available, it remained difficult for many weeks to direct resources where they were most needed.
+<P>
+Worryingly, as the latest paper from my Review on Antimicrobial Resistance warns, there is no globally coordinated system of surveillance to monitor the emergence and spread of superbugs around the world.
+Fundamental gaps remain in how data are gathered and shared, even in the world’s richest countries.
+The result is a series of enormous blind spots that deprive us of the key insights and early warnings that we need to mount an effective response.
+<P>
+Snow’s other major contribution was to identify the central role that water plays in spreading diseases like cholera, leading authorities in Europe to invest in the development of sewage and sanitation systems.
+Decades before the discovery of cures like penicillin, there was no alternative but to invest in prevention to beat infectious diseases and protect growing urban populations.
+<P>
+This infrastructure-building was spectacularly successful: The last urban cholera outbreak in Western Europe occurred in 1892, and by the time World War I broke out, communicable diseases had ceased to be the leading cause of death across much of the continent.
+As antimicrobial drugs became more widely available, however, the focus moved away from preventive measures.
+This has not only had dire implications for urban dwellers forced to live in unsanitary conditions; it has also contributed to rising drug resistance.
+<P>
+Today, inadequate access to safe water and sanitation is one of the leading causes of diarrheal illness – a major killer and the reason that hundreds of millions of people take antibiotic treatments each year.
+Most of this consumption is unnecessary, however, as the cause of diarrhea is usually viral; taking antibiotics in these cases only contributes to the development of resistant bacteria.
+<P>
+Estimates provided to my team suggest that in India, Nigeria, Brazil, and Indonesia alone, nearly a half-billion cases of diarrhea are treated each year with antibiotics.
+Were these four countries to provide their citizens with universal access to clean water and sanitation, this consumption could be reduced by at least 60%.
+<P>
+Such infrastructure is costly, and all countries face tough budgetary choices.
+But it is one of the best value-for-money investments a middle-income country can make.
+When one controls for income, increasing a population’s access to sanitation by 50% is correlated with more than nine years of additional life expectancy.
+<P>
+John Snow would have been pleased.
+One of his most significant contributions to the field of health care – the judicious use of data – is confirming the importance of another: investment in hygiene and sanitation.
+Sometimes those who study history are blessed to repeat it.

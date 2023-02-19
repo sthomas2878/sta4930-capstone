@@ -1,0 +1,67 @@
+<HEADLINE>
+Should Creditors Pay the Price for Dubious Bonds?
+<P>
+DURHAM/GENEVA/CHAPEL HILL – In late October, Venezuela is likely to default on a $913 million payment on a key bond.
+Because the country has already defaulted on most of its debt, one might be tempted to regard another missed payment as no big deal.
+But this bond, issued by the national oil company Petróleos de Venezuela, S.A.
+(PDVSA), and referred to as PDVSA 2020, is backed by juicy collateral: a controlling stake in Venezuela’s economic crown jewel, United States-based refiner CITGO.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Ordinarily, unpaid bondholders could tell the bond trustee to seize the collateral.
+But, given its dubious provenance, the PDVSA 2020 is no ordinary bond.
+It was issued in 2016, when PDVSA was close to default.
+To buy time, the company swapped short-maturity bonds for this longer-maturity one.
+In exchange, creditors received collateral in the form of a 50.1% interest in CITGO’s parent company.
+<P>
+The transaction was unusual in at least one respect.
+The Venezuelan Constitution requires the country’s National Assembly to approve contracts of national interest.
+But the opposition-controlled legislature did not approve this bond issue, which it undoubtedly viewed as an attempt by President Nicolás Maduro’s government to buy time for itself.
+<P>
+Maduro still holds power, but the US and other governments deem his rule illegitimate.
+Instead, the government-in-exile of Juan Guaidó – the leader of the National Assembly – represents Venezuela in US courts and elsewhere.
+Concerned about the potential loss of CITGO, Guaidó and his team approved a smaller payment on the PDVSA 2020 bond in April this year.
+But we doubt that Venezuela can afford the upcoming payment.
+More important, there also are doubts about whether the Venezuelan people should be responsible for honoring a debt contract that their elected representatives did not approve.
+<P>
+Most legal systems recognize that not all contracts have the same degree of sanctity.
+For example, according to basic agency law in the US, a creditor cannot enforce a debt contract made through an agent of the corporation whom the creditor knew was not authorized to conduct such a transaction.
+Given that the issuance of the PDVSA 2020 bond was not authorized by the National Assembly, Venezuela might have legal defenses if creditors try to seize CITGO.
+<P>
+Other governments have disputed creditors’ claims in similar contexts.
+Notably, Puerto Rico has disputed debt issued in 2012 and 2014 that arguably violated a constitutional debt limit.
+Sovereign states such as Ukraine and Mozambique have recently made similar arguments, and there are a number of older cases involving municipal debt.
+<P>
+These disputes raise questions of both technical and theoretical importance.
+As a technical matter, a court would have to decide whether Venezuelan law determines the Maduro government’s authority to issue the PDVSA 2020 bond, or whether that question will instead be governed by New York law (which the bond designates as governing most issues).
+Even if Venezuelan law determines whether the Maduro government was in fact authorized to incur this debt, New York law may govern other important issues, such as whether investors were entitled to rely on the government’s representations about the bond’s legality.
+<P>
+More broadly, disputes like this require courts to decide whether creditors should bear the risk that unauthorized debts can be repudiated.
+At first glance, it may seem odd to impose such a risk on creditors.
+Venezuelan officials, after all, are in a good position to understand and comply with their own country’s legal requirements.
+If they say that the bond issue is legitimate, why should foreign creditors doubt them?
+<P>
+But as Ricardo Hausmann recently pointed out, this view ignores the agency problems inherent in government debt: public officials are supposed to represent the populace, but are sometimes motivated by self-interest.
+The problem is especially acute with despotic governments.
+Although the international community still recognized Maduro’s government at the time of the PDVSA bond issue, it had already seriously questioned that government’s legitimacy.
+Venezuela’s creditors in 2016 knew this, just as they knew that the National Assembly had not approved the bond.
+<P>
+Moreover, creditors are often sophisticated.
+Investment banks that underwrite complex collateralized bonds like the PDVSA 2020 are surely capable of making informed judgments about whether a loan complies with legal requirements.
+In that case, they should bear the consequence of a failure of due diligence.
+These creditors, not the Venezuelan people, were in a position to block the transaction, yet now ordinary Venezuelans risk losing a crucial national asset.
+And in the final analysis, imposing some risk on careless creditors may be the best way to ensure that politicians honor the limits on their borrowing authority.
+<P>
+Some may argue that this approach could harm retail investors who bought bonds on the secondary market in good faith.
+This is unlikely to be the case for the PDVSA 2020 bond, because even retail investors with limited information should have been aware of the unsavory nature of the issuing regime.
+In any case, this objection could be addressed by establishing a public registry of all outstanding sovereign and quasi-sovereign bonds that were issued with legal or ethical infirmities.
+<P>
+How Venezuela’s latest debt drama plays out will start to become clearer in the coming weeks.
+Instead of being just another story of default, the PDVSA 2020 bond may yet become a cautionary tale for creditors around the world.

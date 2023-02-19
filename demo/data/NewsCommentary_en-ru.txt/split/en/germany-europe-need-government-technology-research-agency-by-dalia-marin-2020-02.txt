@@ -1,0 +1,48 @@
+<HEADLINE>
+Europe Needs a DARPA
+<P>
+MUNICH – The mood in Germany is bleak, and not just because of the country’s current economic slowdown.
+Long famed for its engineering know-how and high-quality industrial products, the German economy is now in danger of falling behind as software and data become increasingly crucial to future prosperity.
+And the recent news that US technology company Apple is now worth more than the entire DAX index of 30 leading German companies has no doubt deepened the gloom among business leaders and policymakers.
+If German firms don’t adapt quickly, some may struggle to survive.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+New digital technologies, including the Internet of Things and artificial intelligence, could profoundly disrupt German companies’ traditional business models – especially in sectors such as machine-building, automobiles, and chemicals.
+Compounding the problem, German firms face increasingly stiff competition from China, which is climbing the ladder of manufacturing value-added.
+<P>
+To develop self-driving cars, for example, German car manufacturers such as Volkswagen will have to collaborate with software companies in Europe.
+Currently, Volkswagen has to work with Google or a Chinese partner, because there is no software industry of note in Germany.
+But tomorrow’s cars will be super-connected supercomputers on four wheels.
+If Germany and Europe fail to adapt fast enough, Volkswagen and other German carmakers risk facing the same fate as Nokia, which lost its dominant position in the mobile-phone market to Apple.
+<P>
+In short, Germany needs an industrial revival of the sort it experienced in the late nineteenth century, when companies such as Daimler, Bayer, BASF, and Allianz emerged.
+But this will be possible only if the state offers technological backing to German firms.
+Here, the United States government’s Defense Advanced Research Projects Agency (DARPA), with its successful decades-long track record of high-tech innovations, should serve as a model for Germany and Europe to follow.
+<P>
+As the economist Mariana Mazzucato has pointed out, DARPA and other US government agencies have been instrumental in developing new technologies such as the Internet, GPS navigation, touchscreen displays, and voice-activated assistants such as Apple’s Siri and Amazon’s Alexa.
+Without these state-backed research successes, today’s US tech giants would not exist.
+<P>
+DARPA also buys innovations.
+For example, robotics company Boston Dynamics – which was spun off from the Massachusetts Institute of Technology, subsequently acquired by Google, and now owned by Japan’s SoftBank Group – won a tender in 2013 to deliver robotic systems for the next DARPA Robotics Challenge.
+Under this contract, the company will deliver a range of autonomous humanoid Atlas robots that can be used in the event of natural disasters.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The US government thus plays an important role in shaping innovation.
+China, Israel, and South Korea have similar ecosystems of state-led research support geared toward military and intelligence applications, which helps to explain why they, too, have become world leaders in digital innovation.
+<P>
+A recent study of OECD economies by Enrico Moretti of the University of California, Berkeley, and MIT’s Claudia Steinwender and John Van Reenen supports this anecdotal evidence.
+The authors investigate the impact of government-funded military research spending on privately funded corporate research activity, and its effect on productivity growth.
+In contrast to the “crowding out” of private investment that usually accompanies increased public investment, they find evidence of a “crowding in” of private research expenditure.
+Specifically, a 10% increase in publicly funded research spending generates an additional 4.3% increase in privately funded research.
+They conclude from this that the low level of private research spending observed in some OECD economies is also related to the lack of military-related research in these countries.
+<P>
+The clear implication is that Europe needs a European research agency with a budget similar to that of DARPA in order to keep pace with intensifying global technological competition.
+The German government should establish it.
+Doing so would have the further advantage of supporting Germany’s recent efforts to pursue a more confident foreign and defense policy.
+In addition, a DARPA-type agency funded by Germany and other European governments would enable Germany to meet more quickly its obligation as a NATO member to spend 2% of its GDP on defense, as US President Donald Trump constantly urges.
+<P>
+Germany and other European countries urgently need to retool their economies for the twenty-first century.
+Establishing an agency like DARPA would represent a significant step in the right direction.

@@ -1,0 +1,69 @@
+<HEADLINE>
+Will Libra Be Stillborn?
+<P>
+CHICAGO – Plans for Facebook’s proposed “stablecoin,” Libra, appear to be unraveling with the withdrawal of PayPal, Visa, Mastercard, Stripe, eBay, and Mercado Pago as potential sponsors.
+This is hardly surprising, given growing awareness of Libra’s potential adverse consequences.
+If it offers anonymity to its users, Libra will become a platform for tax evasion, money laundering, and terrorist finance.
+If, on the other hand, its privacy protections are lax, Libra will give Facebook access to users’ most intimate financial details.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Then there are the dangers Libra poses to economic and financial stability.
+Although Facebook’s stablecoin will be backed by a portfolio of “low-volatility assets,” anyone who lived through the 2008 global financial crisis will know that low volatility is more a state of mind than an intrinsic attribute of an asset.
+If the prices of the bonds in the reserve portfolio fall in response to an unexpected rise in interest rates, for example, those bonds may then be inadequate to redeem all the Libra in circulation.
+At this point, the reserve will be subject to the equivalent of a bank run.
+And because Libra operates like a currency board, there will be no lender of last resort.
+<P>
+Libra may also undercut the stabilizing capacity of monetary and regulatory policies.
+If the residents of a country shift out of its national currency, the central bank’s interest-rate-setting policies will be vitiated.
+To appreciate the consequences, one need look no further than Argentina’s long, unhappy history of financial dollarization.
+<P>
+Finally, governments that use controls to regulate capital flows will find that they are more easily evaded.
+Their economies will be fully exposed to the foibles of global financial markets.
+This will be “disruption” with a vengeance.
+<P>
+Libra’s rollout will require the approval of regulators.
+Its promoters, claiming significant social benefits, argue that it deserves to be approved.
+Libra will lower the cost of cross-border payments.
+It will reduce the expense of remittances.
+It will provide financial services to the unbanked masses.
+<P>
+While these arguments for Libra are not false, they are superfluous.
+The cost of cross-border payments is already falling.
+Ripple, a San Francisco-based company, uses distributed-ledger technology and a proprietary cryptocurrency to facilitate transfers between commercial banks at a small fraction of their earlier cost.
+<P>
+Because Ripple cooperates with commercial banks subject to know-your-customer rules and other regulatory requirements, its payments technology doesn’t pose the same problems as Libra.
+Banks like Santander already use this technology to connect Europe with the United States.
+They are now poised to connect the US with Latin America.
+<P>
+The Society for Worldwide Interbank Financial Telecommunication (SWIFT), through which interbank transfers are traditionally made, is not taking this challenge lying down.
+It has tested a system, “SWIFT gpi Instant,” for transferring funds between banks in North America, Europe, and Asia, settling payments in as little as 13 seconds.
+SWIFT gpi Instant piggybacks on newly installed nonstop instant payment systems such as Singapore’s Fast and Secure Transfers (FAST) and the European Central Bank’s TARGET Instant Payment Settlement (TIPS).
+Once the Federal Reserve implements a round-the-clock real-time payment and settlement system in 2023 or 2024, this network will be further enhanced.
+<P>
+While SWIFT’s pilot doesn’t rely on distributed-ledger technology, which verifies transactions by recording their details in multiple places at the same time, other initiatives do.
+For example, the ECB and the Bank of Japan have been exploring use of this technology in domestic and cross-border payments in their “Project Stella” (not to be confused with the video game of the same name).
+<P>
+Moreover, there is already considerable progress in solving the problem of serving the unbanked courtesy of telecom-based services like M-Pesa, which originated in Kenya but is now used from Afghanistan to Albania.
+Users need only a cellphone and a contract with their telecom-services provider, not even a bank account.
+They can then top up their balance at the corner store, protect it with a PIN, and use it to make payments to anyone with an account.
+<P>
+Platforms like M-Pesa are being used not just for payments but also to provide other financial services, such as micro-loans.
+In other words, they already trump Libra when it comes to banking the unbanked.
+<P>
+Criticisms of such services focus on their cost.
+In countries where the dominant telecom company faces little competition, it can insist on high margins.
+Here, it would seem, is where Libra could have disruptive, pro-competitive effects.
+<P>
+But this is wishful thinking.
+The reality is that the same telecoms that successfully lobby against entry into their own industry will lobby against regulatory authorization for Libra.
+<P>
+Where the problem for economies and financial services is lack of competition, residents of developing countries need to look to their own regulators and politicians.
+The remedy for their woes is not going to come from Mark Zuckerberg.

@@ -1,0 +1,55 @@
+<HEADLINE>
+Stiglitz’s Sticky Prices
+<P>
+WASHINGTON, DC – For a long time, the assumption underlying much of mainstream economics was that the invisible hand worked its magic seamlessly.
+Prices moved smoothly up as demand outpaced supply and rushed back down when the tables were turned, keeping markets in equilibrium.
+<P>
+To be sure, many observers realized the truth was actually quite different – that prices, and wages and interest rates in particular, were often sticky, and that this sometimes prevented markets from clearing.
+In labor markets, this meant unemployed workers facing prolonged job searches.
+But the response by others in the field was that what their colleagues described as “unemployment” did not truly exist; it was voluntary, the result of stubborn workers refusing to accept the going wage.
+<P>
+Among those who recognized the reality of involuntary unemployment were John Maynard Keynes and Arthur Lewis, who incorporated it into his model of dual economies, in which urban wages do not respond to labor-supply gluts and remain above what rural workers earn.
+Both Keynes and Lewis used the stickiness of prices extensively in their work.
+But even for them, the concept was only an assumption; they never managed to explain why wages and interest rates so often resisted the pressures of supply and demand.
+<P>
+Columbia University’s Joseph Stiglitz, who celebrates 50 years of teaching this year, solved the puzzle.
+In a series of innovative papers, Stiglitz picked up some elementary facts about the economy that lay strewn about like jigsaw pieces, put them together, and proved why some prices were naturally sticky, thereby creating market inefficiencies and thwarting the functioning of the invisible hand.
+In Stiglitz’s words, the invisible hand “is invisible at least in part because it is not there.”
+<P>
+Stiglitz set out his argument over a remarkable ten-year period.
+In 1974, he published a paper on labor turnover that explained why wages are rigid.
+His analysis has important implications for development economics, and I have used it often.
+This was followed by other important work, including a paper on credit rationing and interest-rate rigidity (co-written with Andrew Weiss) and another paper on efficiency wages.
+And then, in 1984, with Carl Shapiro he published the definitive work on endogenous unemployment.
+<P>
+Other economists’ work – for example, George Akerlof’s seminal paper on the market for lemons – had laid the foundations for this research on price rigidities.
+But Stiglitz’s papers, published in the 1970s and early 1980s, shifted the mainstream paradigm of the microeconomic theory of markets.
+<P>
+The intuition behind some of Stiglitz’s arguments about rigid prices is simple.
+We know that people often shirk if there is no penalty for doing so, and that the common penalty in the workplace is the risk of losing one’s job.
+But if one assumes a full-employment equilibrium, as described in textbooks, with the market working without friction, this penalty is ineffective.
+Threatening workers with the loss of their job will have no effect if they can immediately find another.
+<P>
+The way to create incentives not to shirk is to pay workers above the market wage, making the loss of a job more costly.
+Of course, if this works for one firm, it will work for others, and so wages will rise, and eventually the supply of labor will exceed demand.
+In other words, there will be unemployment.
+And then, even if all firms are paying the same wage, the threat to fire a worker will be effective, because a worker who loses a job will face the risk of remaining unemployed.
+As a result, the market will reach an equilibrium where unemployment exists, but wages do not drop.
+This is, in short, the Shapiro-Stiglitz equilibrium.
+<P>
+An excellent survey of this literature can be found in the 1984 paper “Efficiency Wage Models of Unemployment,” by Janet Yellen, now Chair of the US Federal Reserve.
+(Perhaps some readers can even pick up clues on when the Fed will raise rates!)
+<P>
+As influential as Stiglitz’s research has been, this remains an area where much more work can be done.
+One of my frustrations has been to watch how monetary policy is made in some developing economies, where the authorities all too often copy the rules that industrialized countries follow, without regard to the fact that their efficacy may depend on context.
+<P>
+Stiglitz’s work reminds us of the risk of basing polices on the assumption that interest rates rise and fall smoothly.
+Instead of relying on rules of thumb about when to raise or lower rates, we need to do some creative, analytical thinking.
+In emerging economies in particular, there is a strong need for experimental interventions to collect data so that we can move to more scientifically based policymaking.
+<P>
+In the late 1990s, I worked with Stiglitz at the World Bank, where he served as Chief Economist.
+At the time, he was engaged in heated debates about International Monetary Fund interventions in East Asia.
+In that role, I can honestly say that he changed the IMF.
+One hopes that his insights continue to have such an impact, as they encourage more analytical policymaking at all levels.
+<P>
+This commentary is based on an address delivered on October 17, 2015, at a conference at Columbia University honoring Joseph Stiglitz for a half-century of teaching.

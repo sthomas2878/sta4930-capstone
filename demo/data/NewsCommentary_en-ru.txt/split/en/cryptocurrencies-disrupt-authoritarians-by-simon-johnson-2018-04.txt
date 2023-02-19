@@ -1,0 +1,54 @@
+<HEADLINE>
+Disrupting the Autocrats
+<P>
+WASHINGTON, DC – The dawn of the Internet, it was widely believed, would herald a new era of democracy.
+Information would become free, in all senses, and this would pose an existential threat to regimes based on the control of knowledge, including those that had previously tried to close themselves off from the outside world.
+<P>
+Today, this vision looks tarnished, if not deeply flawed.
+Authoritarian rulers have figured out not only how to distort and control the flow of information within their own societies, but also how to confuse people in other countries and perhaps even disrupt previously well-functioning democracies.
+The more recent advent of social media may have disturbed the authoritarians slightly – remember the Arab Spring? – but there is no doubt that they have now regained their stride.
+<P>
+In almost all parts of the world, autocrats are becoming more secure in power, often behind a veneer of democracy and elections.
+Opponents are eliminated.
+The press is muzzled.
+And the flow of information is strictly controlled, through tools ranging from traditional regime-sponsored media outlets to more modern software or automated “bots.”
+According to the most recent Economist index of democracy, half the countries in the world were less democratic in 2017 than in 2016, and only 5% of the world’s population lives in a “full democracy.”
+<P>
+Now a new digital technology has arrived: cryptocurrency.
+And while there is a great deal of discussion about how this approach to establishing and transferring value might affect banking systems, its potential impact on politics around the world has been largely overlooked.
+<P>
+Cryptocurrencies – such as bitcoin, ethereum, and their many competitors – are obviously related to Internet technology, but there is a simple and profound difference.
+The Internet is about accessing information in its many forms, with no need to converge on a single view.
+In fact, the Internet is inherently about giving you access to diverse opinions, at which point you are on your own in terms of figuring out what is accurate and who is distorting truth in the service of some malevolent dictatorship.
+<P>
+By contrast, cryptocurrencies work only if everyone (within that crypto system) agrees on who held a unit of value yesterday and to whom it was transferred today.
+You can try to distort this information or to hack into people’s computers directly or to disrupt the algorithm that registers transactions – and such attacks are happening all the time.
+Given competition between cryptocurrencies with regard to their security and usefulness, however, it seems reasonable to suppose that the strongest will survive.
+<P>
+The value of a cryptocurrency consists in a digital record managed in a decentralized manner.
+The record exists on many nodes within the network, making it resistant to central control or “censorship” – a term used frequently by cryptocurrencies’ founders, traders, and observers, precisely because so many of them are concerned about selective alteration of records.
+<P>
+It is not difficult to see why an authoritarian regime would want to prevent its people from having access to potentially untraceable, secure digital records.
+<P>
+For starters, with access to such records, a citizen could make payments or donations that bypass the banking system and its embedded surveillance.
+Rules that restrict political organization would become easier to defy.
+<P>
+Moreover, the same kinds of records could be used to store and transmit other information.
+For example, some of my colleagues are developing a system that would enable users to store and manage their own health records.
+Why not create a similar system structured around grievances about or protests against the regime?
+<P>
+And there is potentially no limit to how ingenious people can become with regard to writing so-called smart contracts, which will trigger payments or other digital transactions (like sending protest messages) when particular events occur.
+For activists around the world, the only constraint is their creativity.
+<P>
+Of course, authoritarian regimes are already waking up to the dangers – and we should expect them to proscribe holding cryptocurrencies in various draconian ways.
+And no doubt they will develop new tools that attempt to track what their citizens do in this regard.
+This will be an interesting innovation arms race – and one that will be hard for authoritarian regimes to win, given that the underlying technology, known as blockchain, was designed to circumvent or avoid the need for centralized power.
+<P>
+Well-organized democracies have little to fear from cryptocurrencies.
+There may be some scams – and investors should always beware of newfangled products that are not completely transparent.
+But mostly we will get new forms of competitive pressure on existing means of making payments.
+Anything that brings down credit card fees and broadens financial inclusion should be welcome.
+<P>
+By contrast, people whose political power is based on controlling information definitely have something new to worry about.
+Authoritarian regimes will always be with us in some form and in many places.
+But it would not be a surprise if the pendulum now starts to swing back in favor of those who would prefer more open systems and a greater degree of meaningful political competition.

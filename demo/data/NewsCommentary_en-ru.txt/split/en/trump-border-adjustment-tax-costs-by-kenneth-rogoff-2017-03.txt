@@ -1,0 +1,52 @@
+<HEADLINE>
+Trump’s Virtual Wall
+<P>
+CAMBRIDGE – In many ways, the Republican Party’s plan to implement a “border adjustment tax” in the United States is the virtual complement of the physical wall President Donald Trump plans to erect on the US-Mexican border.
+Although the border adjustment tax has not seeped into public consciousness in nearly the same way as Trump’s physical wall has, it could end up affecting the average American a lot more – and not necessarily in a good way.
+<P>
+On the surface, the basic idea is to slap a tax of, say, 20% on imports, and to provide tax breaks worth a similar amount on exports.
+Most populists’ gut reaction is that this must be fantastic for US jobs, because it discourages imports and encourages exports.
+Unfortunately, as many have pointed out, there is a loose screw in this logic, which is that the United States has a floating exchange rate.
+<P>
+A stronger dollar – a likely result of imposing a border adjustment tax – makes it cheaper for Americans to buy imports (because a dollar buys more foreign currency); conversely, a stronger dollar makes US exports more expensive to foreigners.
+In fact, the baseline textbook result is that the exchange-rate effect would fully offset the tax, leaving the trade balance unchanged.
+If you think the Republicans’ proposal sounds like hocus pocus, you might be right, but let’s hold that thought.
+<P>
+Several highly regarded academic economists favor the border adjustment idea, but for entirely different reasons.
+They take it as an article of faith that the exchange rate will in fact rise to neutralize the trade effects of a border adjustment tax.
+But they like it anyway.
+<P>
+First, the US imports a lot more than it exports, so it runs a large trade deficit, with the broadest measure (the “current account”) at around 2.5% of GDP.
+While that is a vast improvement over the 6%-of-GDP deficits the US was running a decade ago, the US still imports considerably more than it exports, meaning the government stands to collect far more revenues from its 20% tax on imports than it would have to give in tax breaks to exporters.
+Indeed, the tax-subsidy schedule could, on paper at least, bring in roughly $90 billion a year.
+<P>
+And the magic doesn’t stop there.
+Although it might surprise people who are used to thinking of imports and exports as a pure “us versus them” phenomenon, in fact roughly half of all trade is intra-firm – transactions between foreign and US divisions of the same company.
+And because US corporate taxes are among the world’s highest, firms will go to great lengths to assign as much value as they can to foreign subsidiaries, and as little as possible to US companies.
+<P>
+One way to do this is by putting an artificially high bookkeeping price on intra-firm imports, and an artificially low bookkeeping price on exports.
+Under- and over-invoicing is a time-honored way to get around taxes and controls.
+When a transaction is all “in-house,” it essentially just involves accounting sleight of hand to book profits in low tax jurisdictions.
+<P>
+As the University of California at Berkeley’s Alan Auerbach first pointed out, the border tax adjustment is a way to push back on under- and over-invoicing in a high-tax jurisdiction such as the US.
+So, all in all, even if a border adjustment tax does not directly make US goods more competitive, it is an efficient way to raise revenues, potentially making room for other tax cuts.
+<P>
+So what could possibly be wrong with such a technocratically sound idea?
+First, it relies on some heroic assumptions – for example, that people cannot easily game the labyrinthine system and that foreign governments will exercise restraint in retaliating.
+Second, it ignores a host of difficult transition problems.
+<P>
+For starters, the overwhelming majority of US imports are priced in dollars, not foreign currency.
+So, even if foreign currencies become cheaper, it might not help importers locked into dollar contracts.
+Their costs would just be 20% higher because of the import tax.
+And, despite the tax subsidy, some exporters would lose, because, as a recent New York Federal Reserve note points out, they rely on imported intermediate goods in producing their products.
+<P>
+Another problem is that a stronger dollar would mean a massive wealth loss for Americans, because the value of many foreign assets would go down, as my colleagues Emmanuel Farhi, Gita Gopinath, and Oleg Itskhoki have discussed.
+The biggest problem of all, though, is the blithe assumption that the dollar exchange rate would neatly move to offset the tax/subsidy scheme.
+<P>
+If there is anything that the past 40 years of exchange-rate research have taught us, it is that exchange rates can move wildly away from their fundamentals for many years at a time.
+It is thoroughly unrealistic to assume that a border tax will quickly lead to a sharp offsetting movement of the dollar.
+The process could take many years, and the short-term effects on US unemployment easily could be negative.
+<P>
+True, high border taxes could boost US employment.
+The scheme would require a huge increase in customs agents, and it would most likely lead to significant expansion in the underground economy as people seek to evade the taxes.
+But are those really the types of jobs proponents of a border tax have in mind?

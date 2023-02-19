@@ -1,0 +1,59 @@
+<HEADLINE>
+The Revenge of the Precariat
+<P>
+TURIN – Before the COVID-19 pandemic, the role of low-skilled labor in the economy was assumed to be in decline.
+In digitally disrupted labor markets, where fancy STEM (science, technology, engineering, mathematics) professions enjoy pride of place, only highly qualified professionals can thrive.
+Those whose jobs are threatened by new technologies are condemned to precariousness, redundancy, downward mobility, and declining standards of living.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The pandemic has partly debunked this narrative, by revealing which workers truly are essential.
+It turns out that there still are no good technological substitutes for the street cleaners, shopkeepers, utility workers, food deliverers, truckers, or bus drivers who have kept the economy running through the darkest days of the crisis.
+In many cases, these workers perform tasks that require situational adaptability and physical abilities of a kind that cannot easily be coded into software and replicated by a robot.
+<P>
+The fact that these least-skilled workers are resilient to new technologies should not come as a surprise.
+Previous industrial revolutions followed a similar pattern.
+At a minimum, human workers are usually still needed to supervise, maintain, or complement the machines.
+And in many cases, they play a key role in the new disruptive business models of any given era.
+The challenge has always been to close the gap between the social value these workers create and the wages they receive.
+<P>
+Low-skilled jobs are usually regarded as those that new technologies will co-opt over time.
+But most of these jobs are themselves by-products of technological progress.
+Mechanics, electricians, plumbers, and telecommunications installers all owe their occupations to past technological breakthroughs, and it is these workers who now ensure the proper functioning of the world’s machinery, power grids, water systems, and the Internet.
+<P>
+Innovation does not alter the traditional pyramid structure of work, whereby a few highly qualified positions at the top oversee a hierarchy of lower-skilled occupations.
+Rather, what technology changes is the composition of the pyramid, by continuously replenishing it with new and more sophisticated tasks, while removing the most routine ones through automation.
+There are still assembly lines today; but a job in a factory that is fully controlled by software and populated by intelligent robots is completely different from a job in a state-of-the-art factory in the 1950s.
+<P>
+Behind their sleek digital facades, most of today’s Big Tech companies rely heavily on low-skilled workers.
+In 2018, the median salary of an Amazon employee was less than $30,000, reflecting what most of its employees do: manage inventories and fulfill orders in warehouses.
+The same is true of the electric-vehicle manufacturer Tesla, where the median salary was about $56,000 in 2018: around one-third of its employees work in its assembly plants.
+And while Facebook’s median salary in 2018 was $228,000, this figure does not account for the tens of thousands of low-wage contract workers that the company relies on for content moderation.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+These patterns are especially evident in the gig economy, where software and algorithms provide the platform (a two-sided market) to sell specific services performed by real workers.
+No matter how sophisticated Uber’s ride-hailing and delivery apps are, the company simply would not exist without its cab drivers and delivery workers.
+<P>
+But all too often, the people working at the end of the platform-economy value chain are treated as second-class labor, not even rising to the level of staff.
+Unlike the engineers and the programmers designing and updating the apps, they are employed as contractors with scant workplace protection.
+<P>
+Likewise, artificial intelligence, widely seen as the main source of technological unemployment in the future, would not exist without the contributions of millions of digital blue-collar workers – particularly in the developing world – toiling away on the assembly lines of the data economy.
+Most machine-learning algorithms need to be trained on voluminous data sets that are manually “cleansed” and “tagged” by human annotators who categorize content.
+For an algorithm to determine that an image of a car is in fact a car, someone generally needs to have tagged the picture accordingly.
+<P>
+Given the realities of the digital economy, there is no excuse for treating low-qualification jobs as synonymous with low-quality jobs.
+Today’s “low-skilled” workers may not have advanced academic degrees, but many are in fact skilled technicians who have mastered certain knowledge domains and techniques.
+Acknowledging this will be crucial for re-establishing these workers’ negotiating power and forging a new social contract.
+<P>
+To that end, trade unions have an opportunity to regain influence and push for fairer treatment of the least qualified, including the gig workers who tend to fall off their radar screens.
+But large corporations (not just in the tech sector) also need to rethink how they assess and reward the contributions of low-skilled workers.
+It will take pressure from above and below to close the gap (in terms of both salaries and benefits) between those at the top and the bottom of the pyramid.
+<P>
+Finally, governments must do more to support the educational needs of skilled technicians, because even the most basic tasks will evolve over time.
+Keeping pace with innovation requires continuous upgrading of skills to remain competitive in the labor market.
+In terms of overall resources, investment in this segment of human capital should be similar to that for skilled professionals, though the two educational paths would of course be structured differently.
+<P>
+Workers with fewer formal qualifications will remain a central and indispensable part of the digital economy.
+It is political and business decisions – not new technologies – that threaten to push them to the margins.

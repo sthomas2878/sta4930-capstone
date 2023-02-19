@@ -1,0 +1,67 @@
+<HEADLINE>
+The Bitcoin Threat
+<P>
+LONDON – The extraordinary volatility of Bitcoin and other cryptocurrencies has become a threat not just to the international financial system, but also to political order.
+The blockchain technology upon which cryptocurrencies are based promises a better and more secure payment method than anything seen before, and some believe that cryptocurrencies will replace electronic currency in traditional bank accounts, just as electronic transfers replaced paper money, which succeeded gold and silver.
+<P>
+But others are rightly suspicious that this new technology might be manipulated or abused.
+Money is part of the social fabric.
+For most of the history of human civilization, it has provided a basis for trust between people and governments, and between individuals through exchange.
+It has almost always been an expression of sovereignty as well, and private currencies have been very rare.
+<P>
+In the case of metallic money, coins typically bore emblems of state identity, one of the earliest examples being the owl symbolizing the city of Athens.
+Usually, however, there was some confusion about whether the emblems on coins represented sovereignty or divinity.
+Whose head is on this coin?
+Is it Philip of Macedon or Alexander the Great, or is it Hercules?
+Later, Roman emperors would exploit this ambiguity, by stamping coins with their own “divine” visage.
+And even today, British coins have embossed words linking the monarchy to God.
+<P>
+Whatever the case, there is a clear pattern throughout history: bad states produce bad money, and bad money leads to failed states.
+During periods of inflation or hyperinflation, radical currency devaluation would destroy the basis of political order.
+For example, the Thirty Years’ War in Central Europe during the seventeenth century was fueled in large part by social disintegration following a period of monetary instability.
+<P>
+Similarly, during the French Revolution, speculation in a paper currency pegged to “national” property that had been confiscated from aristocrats and the church undermined the Jacobins’ legitimacy.
+In the twentieth century, periods of inflation during and after the two world wars destroyed Europe’s political institutions and fanned the flames of radicalism.
+In fact, Vladimir Lenin regarded the currency press as the “simplest way to exterminate the very spirit of capitalism” and bourgeois democracy.
+<P>
+In addition to being one of the main factors behind the disintegration of states, bad money has also been a key feature of interstate conflicts.
+For belligerent states, creating or exploiting monetary turmoil has historically been a cheap way to destroy opponents.
+Even in peacetime, some states have responded to deteriorating relations by planting fake money to sow discord beyond their borders.
+<P>
+The best-known example of such monetary warfare is Nazi Germany’s scheme to print the banknotes of Allied powers during World War II.
+Counterfeit notes could of course be used to purchase scarce resources or pay spies.
+But Germany also envisioned using long-range bombers to drop forged banknotes over Britain.
+Just imagine the demoralization and chaos that would have followed.
+Anyone with a large amount of money would automatically be suspect, and public trust would quickly erode.
+Dropping money could very well be more devastating than dropping bombs.
+<P>
+Money is even easier to manipulate when it is internationalized.
+In the modern era, rogue states such as North Korea have regularly forged banknotes, particularly those of the United States.
+And cross-border electronic transfers between banks are often used for malign and criminal purposes.
+So far, though, there have not been any globally devastating monetary attacks outside the realm of cinematic fantasy.
+<P>
+Of course, there have long been political efforts to undermine or replace the dollar as the dominant global currency.
+The most seductive alternative seems to have been gold.
+Russian theorists of “Eurasia” often tout traditional Russian iconography’s use of the fine metal.
+In 2001, then-Malaysian Prime Minister Mahathir Mohamad tried to introduce a “gold dinar” as an answer to the US-based currency system.
+And in 2005, al-Qaeda’s security chief, Saif al-Adl, suggested using gold to topple the dollar.
+<P>
+Bitcoin looks like a twenty-first-century version of gold, and its creators have even embraced that analogy.
+It is produced – or “mined” – through effort.
+And just as the price of gold once reflected the human exertion needed to extract it from the ground in remote locations, creating Bitcoins takes an exorbitant amount of computing power, driven by cheap energy in remote areas of Asia or Iceland.
+<P>
+But the rise of Bitcoin represents a shift in how society perceives fundamental value.
+Whereas pre-modern metallic currencies served as a basis for the labor theory of value – whereby goods and services are worth the amount of human labor put into them – blockchain technology assigns value to a combination of computing power and stored energy, none of it human.
+<P>
+At the same time, cryptocurrencies like Bitcoin have made it all but impossible to distinguish between state and private-sector criminality.
+North Korea has been suspected of continuing its attempts at monetary manipulation by mining and creating Bitcoin, which has led China and South Korea to start closing down Bitcoin exchanges.
+Major cryptocurrency platforms such as Coincheck in Japan have also put a halt to trading.
+<P>
+And yet we have already reached the point where a Bitcoin crash could have serious global implications.
+Financial institutions’ current exposure to the cryptocurrency is unclear, and probably would not be fully revealed until after a financial disaster.
+It is eerily reminiscent of 2007 and 2008, when no one really knew where the exposure to subprime-mortgage debt ultimately lay.
+Until the crash, it was anyone’s guess which institutions might be insolvent.
+<P>
+Just as one cannot instantly tell whether a news report is “fake news,” nor can one immediately discern the validity of new monetary forms.
+Unless a currency has been authenticated by a government, it is unlikely to be fully trusted.
+But that does not mean that it cannot become a plaything for the naïve and gullible, or a weapon of financial mass destruction for political belligerents around the world.

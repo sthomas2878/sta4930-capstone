@@ -1,0 +1,63 @@
+<HEADLINE>
+Embracing the New Age of Automation
+<P>
+LONDON – Ever since early-nineteenth-century textile workers destroyed the mechanical looms that threatened their livelihoods, debates over automation have conjured gloom-and-doom scenarios about the future of work.
+With another era of automation upon us, how nervous about the future of our own livelihoods should we be?
+<P>
+A recent report by the McKinsey Global Institute estimates that, depending on a country’s level of development, advances in automation will require 3-14% of workers worldwide to change occupations or upgrade their skills by the year 2030.
+Already, about 10% of all jobs in Europe have disappeared since 1990 during the first wave of routine-based technological change.
+And with advances in artificial intelligence (AI), which affects a broader range of tasks, that share could double in the coming years.
+<P>
+Historically, job displacement has occurred in waves, first with the structural shift from agriculture to manufacturing, and then with the move from manufacturing to services.
+But throughout that process, productivity gains have been reinvested to create new innovations, jobs, and industries, driving economic growth as older, less productive jobs are replaced with more advanced occupations.
+<P>
+The internal combustion engine, for example, wiped out horse-drawn carriages, but gave rise to many new industries, from car dealerships to motels.
+In the 1980s, computers killed typewriters, but created a host of new occupations, from call-center service representatives to software developers.
+<P>
+Because the far-reaching economic and social benefits of new technologies tend to receive less attention than job losses, it is worth noting that automation technologies are already demonstrating a capacity to improve lives.
+This past November, Stanford University researchers showed that an AI system outperforms expert radiologists in detecting pneumonia from lung X-rays.
+<P>
+In an era of stalled productivity growth and declining working-age populations in China, Germany, and elsewhere, automation could provide a badly needed economic boost.
+Higher productivity implies faster economic growth, more consumer spending, increased labor demand, and thus greater job creation.
+<P>
+Nonetheless, any discussion about AI-based automation must also take public anxieties into account.
+Even though new occupations will likely replace those lost to automation, wages may take time to catch up to the reality of higher labor productivity.
+<P>
+In the early nineteenth century, wages stagnated for almost 50 years before picking up again.
+That may have been an extreme situation.
+But for lower-skilled workers, the transition underway today could prove just as wrenching.
+With fears of increased inequality already growing, governments will need to rethink policies for providing income and job-transition support to displaced workers.
+<P>
+Looking ahead, policymakers and businesses should keep five imperatives in mind.
+The first is to embrace AI and automation without hesitation.
+Even if it were possible to slow the pace of change, succumbing to that temptation would be a mistake.
+Owing to the effects of global competition, hampering technological diffusion in one domain would simply dampen overall prosperity.
+In fact, we recently estimated that northern European economies could lose 0.5 percentage points of annual GDP growth if they do not keep pace with their neighbors in adopting AI.
+<P>
+The second imperative is to equip workers with the right skills.
+Future-of-work debates often overlook the question of how the labor market will evolve and either improve or exacerbate the skills mismatch that is already acute in developed countries.
+According to recent OECD research as much as one-third of workers in advanced economies are either underutilized or unable to handle their current duties.
+<P>
+The jobs of the future will require not just more cognitive skills, but also more creativity and social skills, such as coaching.
+We estimate that, unless workers’ skill sets are upgraded, today’s mismatch could double in severity within ten years, resulting in major productivity losses and higher levels of inequality.
+<P>
+Upgrading skills on a large scale will require coordination among parents, educators, governments, employers, and employees, with a focus on lower-skilled individuals.
+Unfortunately, in the past two decades, public spending on labor markets, relative to GDP, has declined by 0.5 percentage points in the United States, and by more than three percentage points in Canada, Germany, and Scandinavia.
+<P>
+The third imperative is to focus on augmented-labor opportunities.
+Unlike older industrial robots, newer technologies can interact safely and efficiently with humans, who sometimes need to train them and will increasingly have to work seamlessly with algorithms and machines.
+For example, a doctor’s practice will be greatly enhanced by diagnostic algorithms.
+Policymakers and businesses should seek to maximize this kind of complementarity across all sectors.
+<P>
+Fourth, businesses will need to innovate and capitalize on new market opportunities at the same pace that human tasks are being replaced.
+For example, in the first wave of robotics, countries such as Germany and Sweden displaced auto-sector jobs by adopting CAD (computer-aided design) robots; but they simultaneously brought other jobs back from Asia, and even created new downstream jobs in electronics.
+Similarly, AI offers countless opportunities for innovation and tapping into global value chains.
+By seizing these opportunities quickly, we can ensure a smoother transition from old to new jobs.
+<P>
+Finally, it is imperative that we reinvest AI-driven productivity gains in as many economic sectors as possible.
+Such reinvestment is the primary reason why technological change has benefited employment in the past.
+But without a strong local AI ecosystem, today’s productivity gains may not be reinvested in a way that fuels spending and boosts demand for labor.
+Policymakers urgently need to ensure that strong incentives for reinvestment are in place.
+<P>
+Automation has been given a bad rap as a job killer.
+Nevertheless, to ensure that its benefits outweigh its potential disruptions, private- and public-sector actors must exercise strong joint leadership – and keep the five imperatives for the new age of automation at the top of the agenda.

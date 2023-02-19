@@ -1,0 +1,51 @@
+<HEADLINE>
+Why Human Chess Survives
+<P>
+CAMBRIDGE – With so much angst about artificial intelligence and the future of work, the recent world chess championship in London offers some hope.
+It is not that mankind has turned the tables on the march of progress.
+Rather, what is remarkable is what a creative and ultimately human match it was between reigning champion Magnus Carlsen of Norway (the 27-year-old “Mozart of Chess”) and 26-year-old challenger Fabiano Caruana of the United States (a major talent in his own right).
+<P>
+At one time, it did seem that computers would sound the death knell for chess, not to mention all human mind games.
+That was certainly my guess in the late 1970s, when the rise of computers was one of the main reasons I gave for retiring from competitive chess.
+<P>
+As an MIT graduate student, I had the privilege of playing a number of games against legendary hacker Richard Greenblatt’s remarkable early chess program.
+Greenblatt wired a large custom-built box, dedicated to sorting out legal chess moves in any given position, directly into the MIT mainframe computer.
+Although the program had “only” attained the level of a top club player, and I was still able to beat it consistently, the experience gave me a clear glimpse of what was to come, although not as quickly as I had guessed.
+<P>
+It took two decades, but in 1997, the IBM computer Deep Blue defeated world champion Garry Kasparov of Russia in a six-game match in New York City.
+Although technologists mark this as a signal event of the twentieth century, it initially seemed a real blow for chess professionals.
+<P>
+Indeed, when Kasparov next had to defend his title against a human challenger, match organizers found it much more difficult to raise a suitably large purse than in pre-Deep Blue days.
+Sponsors would invariably ask “Wait, what I am paying for, isn’t the computer the real-world champion?”
+Fast-forward to today, and the top players cannot easily beat their cell phone.
+<P>
+Yet, rather than dying, chess has thrived.
+This is partly because the advent of computers and computer databases has made chess a truly universal sport.
+Once dominated by Russia, Vishy Anand of India held the title before Carlsen, and China’s Ding Liren seems on track to be the next challenger.
+Parents, despondent over their children’s addiction to video, are much happier to see them playing chess against a computer.
+<P>
+The advent of computers has required some adjustments in top tournaments.
+It helps that even the best computer programs do not play chess perfectly, because the number of possible games is greater than the number of atoms in the universe.
+Moreover, computers think so differently that it is not always helpful to know the computer’s favored move unless one can tediously follow reams of subsequent analysis.
+It is not unusual for a player to comment, “The computer says the best move is x, but I played the best human move.”
+<P>
+Obviously, chess tournaments now require players to surrender their cell phones and, sometimes, to undergo scans for other devices, including those that would let a third-party signal moves.
+Yes, there have still been some spectacular cheating cases, but they are the exception.
+Likewise, competitive chess has eliminated long breaks that might give players time to consult computers, which become more and more useful as pieces are exchanged, and the game becomes more amenable to brute-force calculation.
+<P>
+As a last resort, if someone is suspected of cheating, the organizers can check their moves against the choices of the top computer programs.
+If there is too high a correlation, the player is subject to ejection.
+<P>
+In world championship matches, which typically take place only once every two or three years, the stakes are higher – and the precautions even greater.
+In London, the two players were ensconced behind polarized glass walls to prevent anyone in the audience from passing computer advice through signals.
+The audience could see in, but the players could not see out.
+<P>
+This all may sound extreme, but similar measures are already taken in other contexts (certainly university exams), and it is easy to imagine silicon helpers intruding on every aspect of life.
+Imagine worrying that your date has a silicon Cyrano in his or her ear giving advice on what to say, or that the job candidate you’re interviewing is giving artificial-intelligence-aided answers.
+<P>
+In London, the “classical” portion of the championship match ended with 12 draws.
+That might seem boring, but many of the games were fantastic.
+As can occasionally happen with a great scoreless football (soccer) match, near-misses intensified the suspense.
+And just as tied World Cup matches end with a shootout, chess championship can come down to an “Armageddon” where the games are speeded up so much that it is virtually impossible to avoid big mistakes.
+In the end, Carlsen convincingly prevailed in the tie-breaker, in very human fashion.
+But we should all celebrate.

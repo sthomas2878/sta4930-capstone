@@ -1,0 +1,55 @@
+<HEADLINE>
+The Illusion of Freedom in the Digital Age
+<P>
+LONDON – Over the last few weeks, media around the world have been saturated with stories about how technology is destroying politics.
+In autocracies like China, the fear is of ultra-empowered Big Brother states, like that in George Orwell’s 1984.
+In democracies like the United States, the concern is that tech companies will continue to exacerbate political and social polarization by facilitating the spread of disinformation and creating ideological “filter bubbles,” leading to something resembling Aldous Huxley’s Brave New World.
+<P>
+In fact, by bringing about a convergence between democracy and dictatorship, new technologies render both of these dystopian visions impossible.
+But that doesn’t mean that there is nothing to fear.
+<P>
+Much of the coverage of the 19th National Congress of the Communist Party of China (CPC) focused on President Xi Jinping’s consolidation of power.
+He is, observers warn, creating an information-age dictatorship, in which the technologies that were once expected to bring freedom to China’s 1.4 billion citizens have instead enabled him to entrench his own authority.
+By providing the government with highly detailed information on the needs, feelings, and aspirations of ordinary Chinese, the Internet allows China’s leaders to preempt discontent.
+In other words, they now use Big Data, rather than brute force, to ensure stability.
+<P>
+And the data are big indeed.
+More than 170 million face-recognition surveillance cameras track every step citizens make.
+An artificial-intelligence-enhanced security system can spot criminal suspects as they cycle beside a lake or purchase dumplings from a street vendor, and immediately alert the police.
+Data surveillance cameras feed into China’s “social credit” data bank, where the regime compiles thick files on its people’s creditworthiness, consumption patterns, and overall reliability.
+<P>
+The CPC is also using technology to manage its own ranks, having developed dozens of apps to communicate with party members.
+Meanwhile, it blocks some of the empowering features of technology: by forcing all tech companies to have their servers within China, it effectively “in-sources” censorship.
+<P>
+The impact of technology on American politics has been even more visible, but it is analyzed in terms of the market, rather than the state.
+Among the most eye-catching stories has been the role that “fake news” played in shaping last year’s presidential election.
+Facebook has admitted that 126 million Americans might have seen fake news during the campaign.
+<P>
+More recently, Special Counsel Robert Mueller, who is conducting an investigation into whether US President Donald Trump’s campaign colluded with Russia’s interference in the 2016 election, charged one-time campaign chairman Paul Manafort with 12 counts – including “conspiracy against the United States” – for his actions prior to the campaign.
+A foreign policy adviser to the Trump campaign, George Papadopoulos, was also indicted for lying to the FBI about meetings with individuals closely associated with the Russian government during the campaign, though he has already pleaded guilty and has been cooperating with investigators since the summer.
+<P>
+But beyond such bombshell developments is a broader anxiety about the ability of tech companies to control the information people receive.
+With Big Tech’s secret algorithms determining how we perceive the world, it is becoming increasingly difficult for people to make conscious decisions – what philosophers perceive as the basic dimension of free will.
+<P>
+Big tech companies, worth more than some countries’ GDP, seek to maximize profits, not social welfare.
+Yet, at a time when attention is supplanting money as the most valuable commodity, the impact of their decisions is far-reaching.
+James Williams, a Google engineer turned academic, argues that the digital age has unleashed fierce competition for our attention, and few have benefited more than Trump, who is for the Internet what Ronald Reagan was for television.
+<P>
+At the same time, the impact of technology on politics is relatively independent of regime type.
+Technology is blurring the comforting distinction between open and closed societies, and between planned and free economies, ultimately making it impossible for either to exist in its ideal form.
+<P>
+By revealing the US National Security Administration’s massive government surveillance, Edward Snowden made clear that the state’s desire for omniscience is not limited to China.
+On the contrary, it is central to the idea of national security in the US.
+<P>
+In China, things are moving in the opposite direction.
+To be sure, the Chinese government is pressuring the biggest tech companies to give it a direct role in corporate decision-making – and direct access to their data.
+At the same time, however, the Internet is changing the nature of Chinese politics and the Chinese economy, pushing both to become more responsive to consumer needs.
+<P>
+For example, a friend who worked for the search engine Baidu explained to me how the company tries to enhance the consumer experience of censorship, testing the ways in which people prefer to be censored.
+Jack Ma of tech giant Alibaba thinks that China can use Big Data to design perfectly calibrated state interventions that enable it to outperform free-market economies.
+In the coming decades, Ma believes, “the planned economy will get bigger and bigger.”
+<P>
+In the digital age, the biggest danger is not that technology will put free and autocratic societies increasingly at odds with one another.
+It is that the worst fears of both Orwell and Huxley will become manifest in both types of system, creating a different kind of dystopia.
+With many of their deepest desires being met, citizens will have the illusion of freedom and empowerment.
+In reality, their lives, the information they consume, and the choices they make will be determined by algorithms and platforms controlled by unaccountable corporate or government elites.

@@ -1,0 +1,65 @@
+<HEADLINE>
+Tech Titans at Bay?
+<P>
+CAMBRIDGE – Big Tech is back in the spotlight – and not in a good way.
+On July 29, the chief executives of Amazon, Apple, Google, and Facebook spent more than five hours fielding tough questions about their overwhelming market power from a bipartisan antitrust panel in the US House of Representatives.
+Is the end of an era approaching?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In many ways, the COVID-19 pandemic has been a boon for tech companies.
+As Amazon’s Jeff Bezos, Apple’s Tim Cook, Google’s Sundar Pichai, and Facebook’s Mark Zuckerberg all noted in their opening statements at the antitrust hearing, people appreciate the services their companies provide.
+Recent research indicates that the COVID-19 crisis has deepened this appreciation.
+<P>
+This is not surprising.
+Digital technologies have enabled workers to do their jobs from home, students to continue their classes while schools are closed, and people to stay in touch with loved ones and entertain themselves while sheltering in place.
+<P>
+Tech companies have been reaping enormous benefits from this shift.
+In the first half of 2020, while the global economy confronted an unprecedented recession, Amazon’s share price rose by about 40%, fueled by rising online purchases and increased used of cloud services.
+Zoom’s market value has more than tripled since the start of the COVID-19 crisis, as it became a hub for remote meetings and online socializing.
+<P>
+As for Google and Facebook, they suffered temporary losses from reduced advertising revenues.
+But they still account for an overwhelming share of the digital-advertising market – four-fifths in the United Kingdom, to cite one example.
+Moreover, while Google and Facebook are free to use, the UK Competition and Markets Authority (CMA) has concluded that consumers are effectively paying for their services indirectly through advertising revenues, at a rate of £500 ($656) per household annually – a testament to their market power.
+<P>
+It is too early to say how much of people’s lives will move online, or for how long.
+People may fear COVID-19, but they also suffer from Zoom fatigue.
+Nonetheless, it seems likely that work and social patterns will undergo some sustained changes, which will have far-reaching policy implications.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+For starters, closing the digital divide will become more urgent than ever.
+Of the many forms of inequality the pandemic is exposing and exacerbating, unequal access to the Internet and digital technologies is among the most prominent.
+<P>
+All the services that have made lives so much better under social-distancing rules – from remote working to online shopping to streaming services – are available only to those with access to a reasonably fast and reliable Internet connection and suitable hardware.
+Many are also receiving health care and accessing government support online, further highlighting the critical importance of universal access.
+<P>
+In recent years, governments have increasingly recognized this imperative.
+For example, in 2018, the US Federal Communications Commission made closing the digital divide a high priority.
+And yet about one in 20 people in the United States still have no high-speed Internet connection.
+In rural areas, about one-third of households are not connected.
+The figures are similarly bleak in the UK.
+<P>
+Closing the gap will require large-scale investment in digital infrastructure, including broadband connectivity and 5G for mobile services.
+In both the US and the UK, governments are working to deliver on the first imperative, by making the low-return rural investments that cannot attract private capital.
+Progress on the second imperative may be more difficult, owing to political opposition to the Chinese telecoms giant and 5G leader Huawei.
+<P>
+But Huawei may be turn out to be the tip of an iceberg, because the current shift online will lead to greater political and regulatory scrutiny of tech giants.
+For one thing, regulators are likely to pressure telecommunications companies to increase investment, spurring debates about license obligations and pricing (how much companies must invest, and how they will fund it).
+Past disputes about where along the value chain costs should fall – from physical network operators to streaming services – may re-emerge.
+<P>
+But, as the recent US antitrust hearing suggests, the most contentious issue will probably be the market power of digital companies.
+Even in today’s highly polarized political environment, growing concern about Big Tech – including the viability of small producers and the economy’s dependence on digital market access – is broadly shared.
+And US regulators have already signaled their concern, with inquiries by both the Federal Trade Commission and the Department of Justice.
+<P>
+The European Union is far ahead of the US when it comes to regulating, taxing, and constraining Big Tech.
+The European Commission has pursued multiple antitrust cases against the tech giants, as well as broader initiatives such as the proposed Digital Services Act.
+Margrethe Vestager – previously the European commissioner for competition, and currently Executive Vice President of the European Commission for A Europe Fit for the Digital Age – has led the way on this front.
+<P>
+In the UK, the CMA is working to implement the Furman Review, a government-commissioned report on digital-market competition published in March 2019.
+The panel recommended subjecting strategically important companies to targeted regulation, including a code of conduct that will likely cover issues such as favoring one’s own services, changes in terms and conditions, and pre-notification of all mergers.
+<P>
+It remains to be seen how such efforts will play out, especially in a US headed toward a highly contentious presidential election.
+But one thing is clear: Though the tech monopolists may capture significant short-term gains from the accelerating shift online, they can no longer avoid the harsh glare of the political spotlight.
+The writing may be on the wall.

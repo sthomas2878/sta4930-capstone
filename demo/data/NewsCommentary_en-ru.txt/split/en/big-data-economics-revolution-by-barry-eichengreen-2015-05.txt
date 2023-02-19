@@ -1,0 +1,54 @@
+<HEADLINE>
+An Economics to Fit the Facts
+<P>
+CAMBRIDGE – The economics profession was arguably the first casualty of the 2008-2009 global financial crisis.
+After all, its practitioners failed to anticipate the calamity, and many appeared unable to say anything useful when the time came to formulate a response.
+But, as with the global economy, there is reason to hope that the discipline is on the mend.
+<P>
+Mainstream economic models were discredited by the crisis because they simply did not admit of its possibility.
+And training that prioritized technique over intuition and theoretical elegance over real-world relevance did not prepare economists to provide the kind of practical policy advice needed in exceptional circumstances.
+<P>
+Some argue that the solution is to return to the simpler economic models of the past, which yielded policy prescriptions that evidently sufficed to prevent comparable crises.
+Others insist that, on the contrary, effective policies today require increasingly complex models that can more fully capture the chaotic dynamics of the twenty-first-century economy.
+<P>
+This debate misses the point.
+Simple models have their place.
+They are useful for making the straightforward but counterintuitive points that distinguish macroeconomics from other fields of economic analysis.
+We rely on such models to explain, for example “the paradox of thrift,” whereby individual decisions to increase saving can, by depressing spending and output, result in the population as a whole saving less.
+<P>
+At the same time, complex models can be useful for illustrating special cases and reminding us that the world is a messy place.
+<P>
+Neither class of models is useful, however, for providing the practical advice that policymakers need in a crisis.
+Both are too stylized to be of use when analyzed in the abstract.
+To make them useful, evidence is required.
+<P>
+In fact, largely unbeknownst to the protagonists in this debate over models, an evidentiary revolution is already underway.
+While older members of the economics establishment continue to debate the merits of competing analytical frameworks, younger economists are bringing to bear important new evidence about how the economy operates.
+<P>
+For example, a longstanding debate in macroeconomics has focused on how prices respond to news about the economy, and whether companies pass through to consumers changes in import prices that result from exchange-rate movements.
+Today, “big data” promises to enhance our ability to understand and even predict such responses.
+One application of this approach, the Billion Prices Project at MIT, uses billions of observations from online retail websites to track inflation.
+<P>
+A second approach relies not on big data but on new data.
+Economists are using automated information-retrieval routines, or “bots,” to scrape bits of novel information about economic decisions from the World Wide Web.
+Websites where commercial artists submit designs for company logos and freelance editors offer services for authors promise to shed new light on issues like the determinants of innovation.
+<P>
+A third approach employs historical evidence.
+A number of commentators have observed that the global financial crisis was good for economic history, because it directed attention to previous crises and to the insights that could be gleaned from studying them.
+In fact, economic history never stopped playing its role in economic research.
+But the financial crisis served as a useful reminder that history is replete with similar events and with evidence concerning which policy responses work.
+<P>
+This realization then dovetailed with the availability of more extensive historical data on the operation of the economy.
+Economic historians have long gathered information from parish registers, population censuses, and corporate financial statements.
+But working in dusty archives has become easier with the advent of digital photography, mechanical character recognition, and remote data-entry services.
+Larger data sets are enabling economic historians to address key questions – for example, how aggregate economic conditions affect labor-force participation decisions in different times and places – more effectively than ever before.
+<P>
+This reference to different times and places points to the fourth and final focus of the new empirical research: institutions.
+Macroeconomic models have tended to neglect the role of institutions, ranging from trade unions and employer associations to property-rights regimes and mechanisms for redistribution.
+Taking them seriously means considering long historical intervals, because institutions change slowly and vary significantly only over time.
+Renewed attention to history is thus allowing economists to consider more systematically the role of institutions in macroeconomic outcomes.
+<P>
+These developments amount to a sea change in economics.
+As recently as a couple of decades ago, empirical analysis was informed by relatively small and limited data sets.
+To be sure, analytical frameworks are still needed to help make sense of the data.
+But now there is reason to hope that, in the future, economists’ conclusions and policy advice will be shaped not by those frameworks’ elegance, but by their ability to fit the facts.

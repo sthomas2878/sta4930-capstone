@@ -1,0 +1,42 @@
+<HEADLINE>
+Can Smart Cities Be Equitable?
+<P>
+WASHINGTON, DC/SAN FRANCISCO – Around the world, governments are making cities “smarter” by using data and digital technology to build more efficient and livable urban environments.
+This makes sense: with urban populations growing and infrastructure under strain, smart cities will be better positioned to manage rapid change.
+<P>
+But as digital systems become more pervasive, there is a danger that inequality will deepen unless local governments recognize that tech-driven solutions are as important to the poor as they are to the affluent.
+<P>
+While offline populations can benefit from applications running in the background of daily life – such as intelligent signals that help with traffic flows – they will not have access to the full range of smart-city programs.
+With smartphones serving as the primary interface in the modern city, closing the digital divide, and extending access to networks and devices, is a critical first step.
+<P>
+City planners can also deploy technology in ways that make cities more inclusive for the poor, the disabled, the elderly, and other vulnerable people.
+Examples are already abundant.
+<P>
+In New York City, the Mayor’s Public Engagement Unit uses interagency data platforms to coordinate door-to-door outreach to residents in need of assistance.
+In California’s Santa Clara County, predictive analytics help prioritize shelter space for the homeless.
+On the London Underground, an app called Wayfindr uses Bluetooth to help visually impaired travelers navigate the Tube’s twisting pathways and escalators.
+<P>
+And in Kolkata, India, a Dublin-based startup called Addressing the Unaddressedhas used GPS to provide postal addresses for more than 120,000 slum dwellers in 14 informal communities.
+The goal is to give residents a legal means of obtaining biometric identification cards, essential documentation needed to access government services and register to vote.
+<P>
+But while these innovations are certainly significant, they are only a fraction of what is possible.
+<P>
+Public health is one area where small investments in technology can bring big benefits to marginalized groups.
+In the developing world, preventable illnesses comprise a disproportionate share of the disease burden.
+When data are used to identify demographic groups with elevated risk profiles, low-cost mobile-messaging campaigns can transmit vital prevention information.
+So-called “m-health” interventions on issues like vaccinations, safe sex, and pre- and post-natal care have been shown to improve health outcomes and lower health-care costs.
+<P>
+Another area ripe for innovation is the development of technologies that directly aid the elderly.
+Here, the creation of local social-media networks could help seniors stay connected, perhaps by drawing them into mentoring and tutoring programs that build cross-generational bonds.
+E-career platforms could also be coded to match retirees with opportunities outside of the home.
+And more cities could deliver telemedicine and video consultations to elderly residents who are unable to easily travel to see doctors.
+<P>
+In fact, lower-income cities that embrace smart planning are often better positioned to benefit because they are building infrastructure from scratch.
+According to forthcoming research by the McKinsey Global Institute, smart-governance solutions can improve health, safety, environmental, and other quality-of-life metrics by 10-30%.
+And, as the research discovered, cities at the upper end of that range are often the poorest.
+To realize this potential, however, poor cities must first overcome a more basic problem: gaps in digital infrastructure.
+<P>
+City planners have sometimes been accused of promoting digital conveniences that favor the rich and exclude the poor.
+But as cities around the world are already demonstrating, it is possible to deploy technologies that serve everyone – even those on the margins of connectivity.
+As the urban world becomes “smarter,” cities will have an opportunity to become more inclusive.
+The alternative – the persistence and deepening of digital divides between communities – will not be easily undone.

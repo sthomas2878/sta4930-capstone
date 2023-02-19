@@ -1,0 +1,77 @@
+<HEADLINE>
+Decoding Currency Crises
+<P>
+SANTIAGO – Imagine two countries.
+Country A has a fiscal deficit of slightly over 5% of GDP, while country B shows a gaping hole of nearly 9%.
+Moreover, until recently A’s public debt barely exceeded 50% of GDP, while B’s public debt has been shooting up and will soon reach 90% of domestic output.
+<P>
+Of the two, B is more likely to suffer a currency crisis, right?
+<P>
+Not quite.
+A is Argentina, and B is Brazil.
+Since the beginning of 2018, the Argentine peso has lost half of its value.
+Nearly out of foreign exchange, Argentina had to adopt austerity measures to secure a $50 billion bailout from the International Monetary Fund – and not even that has calmed investors.
+Meanwhile, the Brazilian real has weakened, mostly in response to the uncertain outcome of the October presidential election, but no obvious financial crunch looms.
+<P>
+The conventional wisdom is that Argentina is in trouble, and Brazil is not, because of their different current-account positions: at the end of 2017, Argentina showed a deficit of nearly 5% of GDP, in contrast to Brazil’s near-balance.
+Because Brazil does not have to rely on foreign lenders, the logic goes, financial markets barely shrug even when politicians make wild campaign promises.
+<P>
+This must be right, one is tempted to conclude.
+The sudden stop on international capital flows requires Argentina to slash imports and boost exports overnight, which means the currency must drop sharply.
+<P>
+But that is not the end of the story.
+Recall that the current account is the difference between what a country invests and what it saves.
+Argentina’s deficit reveals that it invests in productive capacity more than its government and private sector save – 19% versus 14% of GDP.
+<P>
+In contrast, Brazil’s balanced current account, coupled with its nearly 9%-of-GDP fiscal deficit, means that Brazilian firms and households must have a surplus of exactly the same 9% of GDP.
+Put differently, the Brazilian private sector prefers investing in government bonds to investing in fixed capital.
+Because Brazil’s government invests little, overall Brazilian investment, at barely 15% of GDP, is puny.
+(Neighboring Chile invests 23% of GDP, while India and China invest 33% and 44%, respectively.)
+<P>
+So which country should lenders consider safer, the one that devotes nearly one-fifth of its annual resources to increasing production (and hence future repayment capacity), or the one that invests considerably less?
+Brazilians can debate endlessly whether the generous government pensions that explain a good chunk of the fiscal deficit are just or unjust, but one thing is clear: having better-off retirees today does nothing to ensure that Brazil will have the wherewithal to pay its debts tomorrow.
+<P>
+So why don’t markets take this into account?
+Shouldn’t they be fretting over Brazil and leave poor Argentina alone for once?
+<P>
+Here the conventional wisdom mounts its next line of defense: Brazil is sitting on $360 billion of reserves, while Argentina barely has $50 billion or so, plus the undisbursed portion of the IMF loan.
+But so what?
+Both countries have floating exchange rates, meaning their central banks are not supposed to intervene in the currency market by buying and selling reserves.
+<P>
+More fundamentally, why do we think of reserves differently than we think about other assets on national balance sheets?
+Suppose Ilan Goldfajn, Brazil’s star central banker, issues a bond in New York and uses the dollar proceeds to enlarge the country’s international reserves.
+At best, market participants will applaud the decision; at worst, they will be indifferent, because Brazil’s net debt position will not have changed.
+<P>
+Now suppose one of Argentina’s private agricultural exporters also issues an international bond and uses the dollars to enlarge one of its modern, highly competitive dairy plants, in order to sell more powdered milk to Asia.
+Equity analysts may cheer the move, but macro wonks will fret if they see many deals like this one, because Argentina’s net debt position would deteriorate.
+<P>
+The difference, of course, is that convention allows analysts to subtract one kind of asset (international reserves) but not another (the new dairy plant) when calculating a country’s net debt.
+The standard explanation is that the dairy plant is less liquid than reserves, which can be turned into cash with a single keystroke.
+But, given well-functioning financial markets and a strong legal system, the dairy plant could also be quickly mortgaged and turned into cash.
+<P>
+Moreover, the plant will generate a hefty flow of liquid dollars in the future (implying a high rate of return), while the international reserves will likely yield very little (or could even have a negative rate of return when deposited abroad).
+And that which makes you more liquid today can also make you less liquid tomorrow.
+In response to market pressure, Argentina is now canceling much-needed infrastructure investment.
+That will save dollars in the short run but leave the country less able to generate dollars in the medium term.
+<P>
+The upshot is that conventions to measure how indebted or how liquid a country is can be quite arbitrary.
+And, crucially, liquidity is endogenous: it can be created at times of optimism and destroyed instantaneously when confidence collapses.
+Bonds, stocks, and even dairy plants are highly liquid when everyone wants to buy them; the opposite is true when they are being dumped in the midst of a fire sale.
+<P>
+So liquidity crises can arrive unexpectedly, and for reasons often unrelated to underlying economic conditions.
+Argentina chose a path of gradual fiscal adjustment and became the darling of the markets – until suddenly it wasn’t.
+True, a couple of misguided moves by the central bank helped undermine confidence.
+But any other factor (for example, contagion from Turkey) could have triggered the attack on the peso.
+<P>
+The fire-and-brimstone language so often used to describe emerging-market crises (“virtuous” versus “profligate” countries, for example) is not appropriate, because, as we have seen, the improvident yet liquid need not be punished for their supposed sins – while the thrifty but illiquid can be.
+<P>
+A more useful lesson is that countries should not put themselves in a position that allows liquidity concerns to override all other issues.
+Argentina’s gradual adjustment path seemed plausible, except that eventually it left the country susceptible to liquidity logic (or illogic).
+<P>
+Last but not least, there is something amiss with international financial arrangements that expose so many countries, so often, to self-fulfilling liquidity crunches.
+Do we need more equity and less debt?
+More “build, operate, and transfer” schemes for infrastructure and fewer bond-financed projects?
+A global lender of last resort in dollars that is bigger and faster than the IMF?
+<P>
+Europe’s financial crisis abated when European Central Bank president Mario Draghi vowed to do “whatever it takes” to save the euro.
+Who will play Draghi’s role in Argentina?

@@ -1,0 +1,62 @@
+<HEADLINE>
+Barbarians at the Monetary Gate
+<P>
+HONG KONG – Financial markets today are thriving.
+The Dow Jones industrial average, the S&P 500, and the Nasdaq composite index have all reached record highs lately, with emerging-economy financial markets also performing strongly, as investors search for stability amid widespread uncertainty.
+But, because this performance is not based on market fundamentals, it is unsustainable – and very risky.
+<P>
+According to Mohamed El-Erian, the lost lesson of the 2007 financial crisis is that current economic-growth models are “overly reliant on liquidity and leverage – from private financial institutions, and then from central banks.”
+And, indeed, a key driver of financial markets’ performance today is the expectation of continued central-bank liquidity.
+<P>
+After the US Federal Reserved revealed its decision last month to leave interest rates unchanged, the Dow Jones industrial average set intraday and closing records; the Nasdaq, too, reached all-time highs.
+Now, financial markets are waiting for signals from this year’s meeting of the world’s major central bankers in Jackson Hole, Wyoming.
+<P>
+But there is another factor that could further destabilize an already-tenuous leverage- and liquidity-based system: digital currencies.
+And, on this front, policymakers and regulators have far less control.
+<P>
+The concept of private cryptocurrencies was born of mistrust of official money.
+In 2008, Satoshi Nakamoto – the mysterious creator of bitcoin, the first decentralized digital currency – described it as a “purely peer-to-peer version of electronic cash,” which “would allow online payments to be sent directly from one party to another without going through a financial institution.”
+<P>
+A 2016 working paper by the International Monetary Fund distinguished digital currency (legal tender that could be digitized) from virtual currency (non-legal tender).
+Bitcoin is a cryptocurrency, or a kind of virtual currency that uses cryptography and distributed ledgers (the blockchain) to keep transactions both public and fully anonymous.
+<P>
+However you slice it, the fact is that, nine years after Nakamoto introduced bitcoin, the concept of private electronic money is poised to transform the financial-market landscape.
+This month, the value of bitcoin reached $4,483, with a market cap of $74.5 billion, more than five times larger than at the beginning of 2017.
+Whether this is a bubble, destined to collapse, or a sign of a more radical shift in the concept of money, the implications for central banking and financial stability will be profound.
+<P>
+At first, central bankers and regulators were rather supportive of the innovation represented by bitcoin and the blockchain that underpins it.
+It is difficult to argue that people should not be allowed to use a privately created asset to settle transactions without the involvement of the state.
+<P>
+But national authorities were wary of potential illegal uses of such assets, reflected in the bitcoin-enabled, dark-web marketplace called Silk Road, a clearinghouse for, among other things, illicit drugs.
+Silk Road was shut down in 2013, but more such marketplaces have sprung up.
+When the bitcoin exchange Mt.
+Gox failed in 2014, some central banks, such as the People’s Bank of China, started discouraging the use of bitcoin.
+By November 2015, the Bank for International Settlements’ Committee on Payments and Market Infrastructures, made up of ten major central banks, launched an in-depth examination of digital currencies.
+<P>
+But the danger of cryptocurrencies extends beyond facilitation of illegal activities.
+Like conventional currencies, cryptocurrencies have no intrinsic value.
+But, unlike official money, they also have no corresponding liability, meaning that there is no institution like a central bank with a vested interest in sustaining their value.
+<P>
+Instead, cryptocurrencies function based on the willingness of people engaged in transactions to treat them as valuable.
+With the value of the proposition depending on attracting more and more users, cryptocurrencies take on the quality of a Ponzi scheme.
+<P>
+As the scale of cryptocurrency usage expands, so do the potential consequences of a collapse.
+Already, the market capitalization of cryptocurrencies amounts to nearly one tenth the value of the physical stock of official gold, with the capability to handle significantly larger payment operations, owing to low transaction costs.
+That means that cryptocurrencies are already systemic in scale.
+<P>
+There is no telling how far this trend will go.
+Technically, the supply of cryptocurrencies is infinite: bitcoin is capped at 21 million units, but this can be increased if a majority of “miners” (who add transaction records to the public ledger) agree.
+Demand is related to mistrust of conventional stores of value.
+If people fear that excessive taxation, regulation, or social or financial instability places their assets at risk, they will increasingly turn to cryptocurrencies.
+<P>
+Last year’s IMF report indicated that cryptocurrencies have already been used to circumvent exchange and capital controls in China, Cyprus, Greece, and Venezuela.
+For countries subject to political uncertainty or social unrest, cryptocurrencies offer an attractive mechanism of capital flight, exacerbating the difficulties of maintaining domestic financial stability.
+<P>
+Moreover, while the state has no role in managing cryptocurrencies, it will be responsible for cleaning up any mess left by a burst bubble.
+And, depending on where and when a bubble bursts, the mess could be substantial.
+In advanced economies with reserve currencies, central banks may be able to mitigate the damage.
+The same may not be true for emerging economies.
+<P>
+An invasive new species does not pose an immediate threat to the largest trees in the forest.
+But it doesn’t take long for less-developed systems – the saplings on the forest floor – to feel the effects.
+Cryptocurrencies are not merely new species to watch with interest; central banks must act now to rein in the very real threats they pose.

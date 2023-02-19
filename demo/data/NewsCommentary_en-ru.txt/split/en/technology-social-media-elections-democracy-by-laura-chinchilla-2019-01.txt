@@ -1,0 +1,56 @@
+<HEADLINE>
+Digital Dangers to Democracy
+<P>
+SAN JOSÉ – Hardly a day goes by without some new allegation that social media are undermining democracy.
+Actors across the political spectrum are exploiting digital technologies to spread disinformation and fuel polarization.
+While “fake news” and hate speech are nothing new, the digital age has provided, if unwittingly, an environment conducive to both.
+The potential of new technologies to improve the human condition is beyond question, but the risks they pose to democracy are now increasingly apparent.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Tech companies, governments, and citizens alike are grasping for solutions to a set of connected challenges.
+How do we deal with rapid online communication that makes well-timed disinformation easy to disseminate and difficult to rebut?
+How does the desire to create watchable content, which is often based on emotion and sensation rather than evidence, fit with reasoned democratic debate?
+How do we identify the real sources of information when the Internet’s anonymity hides the origin of a post?
+And given the reach and market dominance of Google and Facebook, are we, and by extension our political views and debates, captives of their algorithms?
+<P>
+In one of his last initiatives before he passed away in August 2018, former UN Secretary-General Kofi Annan convened a Commission on Elections and Democracy in the Digital Age, which was launched earlier this month at Stanford University.
+In particular, Annan wanted to sound the alarm on behalf of countries that have few, if any, means to defend themselves against these twenty-first-century threats to the integrity of elections.
+And, because these problems could affect almost any country, he fervently believed that a global perspective was crucial for tackling them.
+<P>
+As the Commission, which comprises experts from the worlds of tech and politics, prepares to start its work, four challenges loom large.
+<P>
+The first is the rise of an election interference industry.
+Just as we study the 2016 US presidential election for lessons on how to prevent interference, others look to that campaign for insights into electoral manipulation.
+Commercial consulting groups already appeal to potential clients with ideas about how social media, fake news, and micro-targeting can be effective in swaying elections.
+Furthermore, this new industry will be bipartisan, if recent allegations of social media manipulation and fake news in the 2018 Alabama senate election are any guide.
+The danger to democracy worldwide can hardly be overstated.
+If election outcomes in a country as powerful and technologically advanced as the US potentially can be influenced, how will other countries fare?
+<P>
+Another emerging challenge comes from increasingly popular “home assistants.”
+Online information monopolies already have the power to determine what much of a country’s population sees and believes.
+And as home assistants such as Google Home, Alexa, and Siri become more commonplace, users will soon get single-answer responses to queries, instead of multiple suggestions.
+Such ultra-curation will diminish our search activity, investigation, and discourse, giving a few companies and algorithms even greater power to shape what we know and believe.
+<P>
+The third threat is the emergence of fake video material – the so-called deepfakes.
+These use artificial intelligence and image synthesis to create video images that are indistinguishable from authentic footage.
+Imagine, for example, the speed at which manufactured footage of the Iranian president telling his military chiefs to prepare an invasion of Israel would spread around the Internet.
+As deepfakes become widespread, overall trust in video will decline.
+And as the real and virtual worlds continue blending into each other, we may lose confidence in our ability to determine what is real and what is not in democratic politics.
+<P>
+Last, and by no means least, are encrypted peer-to-peer platforms.
+WhatsApp, with more than 1.5 billion monthly active users in 180 countries, has been used to spread rumors and stoke violence in Brazil, Mexico, and India in the same way that Facebook was used to stir up communal violence in Sri Lanka, Myanmar, and Bangladesh.
+True, the anonymity and encryption offered by WhatsApp are potent protections for citizens fighting for their democratic rights under murderous authoritarian regimes.
+But these same features make it difficult to identify the sources of rumors, hatred, and incitement to violence, and therefore hard to gauge the extent to which WhatsApp is used to manipulate elections.
+<P>
+In 2019, there will be more than 80 presidential, general, and parliamentary elections around the world.
+While we may see the dangers that digital technologies pose to the political system, others see new opportunities to influence outcomes.
+Managing and containing these threats must now be an urgent priority for democrats everywhere.
+As Annan warned us, “Technology does not stand still; neither can democracy.”

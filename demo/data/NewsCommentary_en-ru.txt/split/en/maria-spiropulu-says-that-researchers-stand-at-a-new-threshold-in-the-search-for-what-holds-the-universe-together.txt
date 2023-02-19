@@ -1,0 +1,44 @@
+<HEADLINE>
+The Dark Side of Physics
+<P>
+PASADENA – Almost a century ago, the first galaxy beyond our own was discovered, and within a decade the theory that the universe is expanding was first proposed.
+Since then, astounding technological developments have contributed to revolutionary progress in physics, astronomy, cosmology, and the life sciences.
+<P>
+Today, physics stands at a new threshold.
+On July 4, 2012, the international physics community witnessed a monumental discovery in the history of high-energy physics: a Higgs boson.
+The long-hypothesized Higgs boson is the necessary component that validates the Standard Model of elementary particles as a “blueprint” for the real universe.
+The Higgs boson provides mass for these particles; without it, the physical world, as we understand it, would have no atoms, chemistry, or life.
+<P>
+Finding what was, until then, just a theoretical prediction required one of the largest and most complex scientific undertakings ever attempted: the creation of the particle accelerator, the Large Hadron Collider, near Geneva.
+The research carried out at the LHC is now likely to steer our understanding of the universe from the smallest elementary particles to our study of cosmology.
+From 2010 to 2012, the LHC produced the highest-energy proton-proton collisions ever; and even higher-energy collisions are anticipated in 2015.
+<P>
+Physicists had long expected the LHC to reveal a new sector of particles and fields associated with “electroweak symmetry breaking” and the dark matter of the universe.
+Two major experimental observations underpinned this expectation.
+The first was the masses of the W and Z bosons – the messengers of the weak nuclear interactions, responsible, for example, for the shining sun.
+The second was a large set of astrophysical observations, pointing to the necessity of a gravitational “scaffolding” in the universe: that is, the dark matter needed to prevent the stars and galaxies from flying apart.
+<P>
+Although the Higgs discovery may help us to understand the source of elementary particles’ mass (including its own), nature has surprised us in two further respects.
+First, the measured mass of the Higgs boson renders the full theory “metastable” in the absence of any new physics phenomena.
+In other words, the universe might have other, more energetically favorable configurations.
+Second, the LHC data seem to disfavor, though not exclude, the most aesthetically and mathematically pleasing new physics phenomenon, “supersymmetry,” which was theorized along with the Higgs boson before its actual discovery and is necessary to address quantum corrections.
+The persistence of the dark-matter conundrum, in combination with these considerations, might alter our fundamental ideas and predictions about what might follow the discovery.
+<P>
+New ideas are now being formulated about the Higgs boson itself, opening a direct portal to the dark matter of the universe.
+A concerted experimental and theoretical program has taken shape in the fields of particle physics, cosmology, astrophysics, and gravitational physics to discover a dark-matter particle candidate in the next decade or so.
+What is at stake are paradigms that have held for the past 76 years, and that have been supported recently by spectacular measurements of the cosmos.
+<P>
+Some in the world of physics might call this a crisis.
+However, it is quite common for a theory to lack experimental backing.
+All research into the universe and the physical world struggles to achieve a complete understanding.
+In that sense, we are in perpetual crisis and at the threshold of discovery.
+It might be fairer to describe physics as being at a turning point or a crossroads.
+<P>
+Physics provides the evolving core framework on which other fields of science are built.
+And now, with the technological armory and plethora of data currently available, science can go far beyond any previous expectation and extrapolation.
+Indeed, in coming decades, everything will be susceptible to major revision as new cross-disciplines – and undisciplined threads of study – emerge.
+Quantum engineering teams are already springing up in academic and research institutes all around the world.
+The merging of computer science and engineering with neuroscience has already produced results that not long ago belonged only to science fiction.
+<P>
+Nature can seem complex, haphazard, and tricky; and it can strike us as simple, symmetrical, and beautiful.
+Either way, the quantum universe will continue to surprise us.

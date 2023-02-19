@@ -1,0 +1,39 @@
+<HEADLINE>
+Final Thoughts on Secular Stagnation
+<P>
+CAMBRIDGE – Joseph Stiglitz, Roger Farmer, and I are now and have long been in agreement on what are probably the most important points.
+The “New Keynesian” paradigm that sees business cycles as arising from temporary rigidities in wages and prices is insufficient to account for events like the Great Depression and the Great Recession.
+Too little was done in the aftermath of the financial crisis a decade ago to stimulate aggregate demand.
+A more equal income distribution operates to increase aggregate demand.
+Substantially stronger financial regulation than was in place before 2008 needs to be adopted to minimize the risks of future crises.
+<P>
+I continue to have disagreements with Stiglitz on the record of policy advice, and with both Stiglitz and Farmer on some points of theory regarding secular stagnation.
+<P>
+Starting with the policy record, Stiglitz is right to assert that economists should not be expected to agree on issues of political feasibility.
+They should, however, be able to agree on what texts say.
+The New York Times commentary that Stiglitz proudly cites calls for a stimulus of “at least $600 billion to $1 trillion over two years.”
+The Obama administration called for and received stimulus totaling some $800 billion, a figure well within Stiglitz’s range, despite being politically constrained by the necessity of Congressional approval.
+So I’m not sure what he is claiming.
+<P>
+Stiglitz asserts that the study Fannie Mae hired him to write in 2002 said only that its lending practices at that time were safe.
+That is not how I read it.
+It speaks to ten-year default probabilities of less than one in 500,000; notes that even if the analysis is off by an order of magnitude, any risks to government are very modest; and appeals to the regulatory system in place at the time to minimize that their model missed risks.
+He makes arguments against the Congressional Budget Office, the Department of the Treasury, and the Federal Reserve, all of which had suggested – based on the same information available to Stiglitz when he wrote his paper – that implicit guarantees to Fannie Mae were potentially costly.
+<P>
+I am not sure what point Joe is making with respect to derivatives.
+I was clear in my article to which he is responding that I wish we had not supported the 2000 legislation.
+But I also noted that there is no reason to think that, in the absence of the legislation, the Commodity Futures Trading Commission under the Bush administration would have asserted sweeping new authority over derivatives and pointed to the legal certainty problem that career lawyers thought was important to address.
+<P>
+What about secular stagnation theory?
+Stiglitz and I agree that Alvin Hansen’s prediction was not borne out after World War II because of a combination of expansionary policy and structural changes in the economy.
+This was my point five years ago in renewing the idea of secular stagnation – to suggest that the economy as it was in 2013 required some combination of fiscal expansion and structural change to sustain full employment.
+My discussions of secular stagnation have all emphasized a variety of structural factors, including inequality, high profit shares, changes in relative prices, and global saving patterns.
+Where does Stiglitz disagree?
+<P>
+Farmer, in his thoughtful commentary, argues that models of the type he has pioneered in recent years are the right way to think about chronically excessive unemployment and that, with the right microfoundations, one can conclude that fiscal policies are ineffective.
+I think his modeling approach may well prove very fruitful, and I wish I understood it better.
+But, for now, I find the empirical evidence, international comparisons, time-series studies, and studies of local variation within the United States compelling in suggesting that fiscal policy works.
+I do think, however, that Farmer’s views on the use of monetary policy to stabilize asset prices deserve serious consideration.
+<P>
+Finally, I hope Stiglitz will respond positively to my repeated suggestions that we debate these matters in person at Columbia or Harvard or some other suitable venue.
+We can all agree that the stakes in a better understanding of the lessons of macroeconomic history, and in avoiding future events like those of the last decade, are very high.

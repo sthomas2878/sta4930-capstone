@@ -1,0 +1,42 @@
+<HEADLINE>
+What Is the Pound Telling Us?
+<P>
+LONDON – I know from my 32 years in finance that the weird world of foreign-exchange markets can sometimes defy comprehension, and that trying to estimate sterling’s baseline, equilibrium value can be an exercise in futility.
+<P>
+Indeed, in the heady hour after the Brexit referendum polls closed on June 23, the British pound initially traded above a rate of £1.5/$1.
+This exchange rate turned out to reflect the now-ridiculous assumption that the “Remain” side had won.
+The pound has since declined 20% from that initial peak, and it has declined similarly relative to the euro.
+<P>
+Despite these discrepancies, we do have ways to gauge the pound’s post-Brexit performance reasonably well.
+For starters, we can compare its value today to its average value during the referendum’s campaign period, from February to June.
+Viewed from this perspective, the pound has declined by a still significant 13% since voters decided that the United Kingdom should leave the European Union.
+<P>
+Beyond looking at purchasing power parity, we also have models for estimating real-exchange-rate (RER) equilibrium, such as by identifying the exchange rate at which a country can achieve a sustainable current-account balance, or the rate that would allow an economy to reach full employment.
+<P>
+These models include Goldman Sachs’s Dynamic Equilibrium Exchange Rate and the Peterson Institute for International Economics’ Fundamental Equilibrium Exchange Rate.
+The GSDEER’s current estimated equilibrium rate is £1.44/$1.63, and the FEER’s is £0.88/€0.74, which implies that the pound is now undervalued – by anywhere from 14% to 24% against the dollar, and by as much as 20% against the euro – relative to its notional fair value.
+<P>
+These misalignments could be partly attributable to overvaluation of the other currencies.
+But let us assume that these estimates are at least roughly accurate, and that the pound is now broadly undervalued relative to the currencies of its major trading partners.
+<P>
+An optimistic interpretation is that, all things being equal, the pound’s decline implies an improved balance-of-payments position in the future, and that the UK economy will undergo a much needed rebalancing.
+To be sure, economic data released since the referendum suggest bullishness in the manufacturing sector, and the National Institute of Economic and Social Research recently forecast that the UK’s balance of payments could achieve a small surplus by 2019.
+<P>
+Of course, all things are not equal, so another interpretation is that the current equilibrium exchange rates will decline further, reflecting the market’s pessimism about the UK economy’s supply-side outlook and future productivity growth.
+Much will depend on whether the UK actually does leave the EU, and, if it does, on the government’s post-Brexit trade arrangements and economic policies.
+<P>
+Another, complementary interpretation is that the pound’s weakness, notwithstanding its potential cyclical benefits, reflects a risk premium on the UK, owing to its tricky EU exit path and other policy uncertainties.
+<P>
+We can estimate such risk premia by adjusting the RER equilibrium models to account for “normal” cyclical economic developments.
+Higher interest rates and low, stable inflation can give a country’s currency an edge over other currencies, so if we factor in the real-interest-rate differential, we can determine a notional price at which a currency should trade.
+When we do this for the pound against the dollar and the euro, the pound’s notional exchange rate is still substantially weaker than its actual spot rate, which suggests that the market has indeed factored in a considerable risk premium.
+<P>
+These estimates have public-policy implications.
+For starters, British policymakers should acknowledge that a declining pound is helpful, but not sufficient, for improving the UK’s external position and rebalancing its economy.
+<P>
+Second, the pound’s daily and weekly gyrations reflect a market assumption that a “hard” Brexit – whereby the UK forfeits its EU single-market access in order to restrict immigration – will negatively affect productivity growth.
+If the market is correct, then the UK’s future growth will depend even more on policymakers’ ability to boost post-Brexit trade.
+Moreover, policymakers will have to develop a sophisticated immigration strategy to attract high-skill workers, even as they restrict the movement of people overall.
+<P>
+Finally, if there is even a chance that foreign-exchange markets have built in risk premia for the UK (and it appears that there is), policymakers will have to be very careful not to suggest any other changes to the UK’s economic-policy framework.
+Any new threats to the Bank of England’s independence, in particular, could provoke a reckoning from the market.

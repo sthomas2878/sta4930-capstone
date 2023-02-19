@@ -1,0 +1,36 @@
+<HEADLINE>
+The Trouble With Schrems
+<P>
+PARIS – In October 2015, a court case launched by Max Schrems, a 28-year-old Austrian privacy activist and graduate student at the University of Vienna, led to the annulment of the so-called Safe Harbor agreement that governs how United States firms comply with the European Union’s privacy laws.
+The decision, by the European Court of Justice (ECJ), threw into legal uncertainty the collection, handling, transfer, and storage of user data by about 4,500 US companies.
+<P>
+The ruling led many in Europe to draw comparisons between Schrems and Edward Snowden, the intelligence contractor who leaked classified information detailing America’s global surveillance programs.
+And, in fact, Schrems’s lawsuit was heavily informed by Snowden’s disclosures, which included details of a US National Security Agency program whereby US companies allegedly handed over to the NSA personal information stored on their computer systems.
+According to the ECJ’s ruling, the cooperation between US companies and the country’s intelligence agencies violates the right to privacy and data protection guaranteed by the EU Charter of Fundamental Rights.
+<P>
+The court’s message was clear: Unless the US government modified the way it gathers intelligence, by restricting access to personal data and adopting a case-by-case approach to its investigations, it would be impossible for consumer information to be transferred from the EU to the US through the Safe Harbor framework.
+<P>
+On February 2, the US and Europe struck a new agreement – the Privacy Shield – to satisfy the court’s stipulations, including “clear limitations, safeguards, and oversight mechanisms” on the use of personal data from Europe by law enforcement and national security officials.
+In addition, EU citizens will be given the right to bring civil action related to the protection of their personal data in the US against a US government agency.
+<P>
+The Privacy Shield, which the EU’s 28 member states must formally approve, still needs to be endorsed by an “adequacy decision” of the EU Commission, probably in April.
+In the meantime, it will be reviewed by the Article 29 Working Party, comprising representatives of member states’ data-protection authorities.
+Until the Privacy Shield is approved, the Article 29 Working Party requests that US companies in Europe use alternative instruments – “Standard Contractual Clauses” and “Binding Corporate Rules” – to transfer their data to the US, so as to avoid being pursued by national data protection regulators in Europe.
+<P>
+It is unsurprising that a deal was reached.
+In the wake of the attacks in Paris in November, most EU citizens have placed the highest priority on the fight against Islamic terrorism.
+Governments also want to improve the effectiveness of their intelligence gathering – and isolating themselves from the US would be no way to achieve that.
+<P>
+The intense pressure to expand intelligence agencies’ capabilities is evident in the pressure that national governments have put on the European Parliament to adopt legislation allowing for the collection of airline passenger data.
+The directive, which would oblige airlines to provide governments with the names, addresses, phone numbers, credit card details, and travel itineraries of people traveling to and from airports in the EU, is expected to be voted on early this year.
+<P>
+Despite the Privacy Shield agreement, Schrems’s lawsuit will likely continue to reverberate across the EU.
+The court’s ruling urges data-protection authorities to ensure that countries to which European citizens’ data are transferred comply with European legislation, and to suspend data transfers to those that don’t.
+<P>
+As a consequence, in addition to its implications for companies and US intelligence gathering, the ECJ’s decision may call into question the behavior of the intelligence agencies of the EU member states.
+Indeed, even though the EU Treaty dictates that each member state is solely responsible for its own national security, the way national intelligence agencies use personal data can be expected to come under special scrutiny.
+Moreover, the application of the court’s jurisprudence to the transfer of data to third-party countries like China, Russia, or India could well cause diplomatic incidents.
+<P>
+It is unlikely that EU regulators have heard the last from Schrems, who has already filed several claims similar to the one that overturned the Safe Harbor Privacy Principles.
+He has suggested a radical solution that would become a condition of doing business in the EU: All data relating to Europeans, he and others argue, must be hosted on EU-based servers.
+If that proposal gains traction, the implications could be far-reaching; indeed, it could prohibit the use of the Internet, with its myriad services valued at hundreds of billions of euros, in its current form.

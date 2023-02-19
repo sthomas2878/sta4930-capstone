@@ -1,0 +1,46 @@
+<HEADLINE>
+The Ethics of Fighting Drug Resistance
+<P>
+GOTHENBURG – In 2014, the World Health Organization reported that drug resistance – especially resistance to antibiotics – is a growing threat to human health, food security, and “the achievements of modern medicine.”
+Far from being an “apocalyptic fantasy,” the WHO said, a post-antibiotic era “is instead a very real possibility for the twenty-first century.”
+<P>
+Drug resistance threatens the effective treatment of a growing list of communicable diseases – from bacterial infections to viral to and fungal diseases.
+When people recklessly use antibiotics to fight a common cold, when farmers use antibiotics to boost livestock productivity, or when pharmacological factories emit antibiotics into the environment to cut production costs, the bacteria that the drugs are designed to kill become immune.
+The more antibiotics consumed and emitted, the faster resistance develops, leading to “superbugs” that jeopardize human health, both by raising the risk of massive deadly epidemics and by compromising medical services, such as surgery and cancer treatment, that rely on effective antibiotics.
+<P>
+This scary reality continues to frustrate health-care professionals.
+To be sure, there are solutions to the drug resistance crisis: restricted consumption, better diagnostics and disease surveillance, and expanded clinical development of new drugs are three.
+And some initial coordinated action has been taken in the WHO global action plan.
+But every fix has an ethical component, and four years after the WHO’s assessment, the ethical roadmap for addressing this medical emergency remains dangerously ill-defined.
+<P>
+Health-care policies that pursue long-term goals often have short-term costs for human, animal, and environmental wellbeing.
+For example, restricting antibiotic consumption in certain populations could lead to job losses for those prone to illness.
+Actions taken to prevent infections may also infringe on personal privacy, as epidemiologists seek to identify and track people who carry resistant bacteria.
+Controls may even require curbing individual freedoms, like accessing hospitals or getting on airplanes.
+<P>
+Moreover, capping antibiotic use could lead to higher drug prices, threatening access for those who need the medication.
+And, while many people might prefer a status quo approach that speeds up the development of new antibiotics while leaving current consumption unchanged, this solution brings its own set of ethical considerations – such as how and when to reduce the length of clinical trials.
+<P>
+For all of these reasons, ethicists, health-care researchers, and social scientists have begun to examine how best to ensure that strategies for tackling drug resistance are ethically responsible.
+In 2015, the year after the release of the WHO’s report, the journal Public Health Ethics published a special issue devoted entirely to this topic.
+<P>
+Then, in November 2017, the Centre for Antibiotic Resistance Research (CARe) at my own university held the first-ever major symposium on the topic, bringing together leading scholars in economics, ethics, law, policy, social science, and health care.
+The two-day conference provided a platform for the development of collaborative synergies, and the research output is scheduled to appear in the journal Bioethics.
+<P>
+These scholarly gatherings have helped to foster academic interest in the ethical considerations of drug resistance, but represent only a tiny fraction of what is needed to help the world safely navigate the looming moral minefield.
+Any effort to restrict antibiotic consumption, regulate the food and pharmaceutical industries, or change human behaviors – all strategies that are currently being discussed – will require complex ethical reflection and analysis.
+<P>
+The first ethical hurdle is to reach a consensus on how to characterize drug resistance.
+Many ethicists see it as a “collective action problem,” a public-health concern that must be addressed in an organized, holistic manner.
+There is less agreement, however, on what kind of collective action problem is it.
+Is it similar to other global challenges like climate change, poverty, or inequality?
+Or is it more of a national issue, best left to sovereign authorities?
+How we define the problem will determine what trade-offs people and governments are willing to make.
+<P>
+Several participants at the CARe symposium highlighted this problem, noting that to implement drug-resistance strategies successfully, governments must strike a balance between global medical responsibility and local public good.
+One idea that has been proposed is to tax meat produced with antibiotics, an approach that could move animal agriculture in a more sustainable direction.
+While meat costs might climb, drug resistance in livestock would decline, as would adverse environmental effects.
+The ethical question is whether a solution like this would be fair on a global level, especially if the result is more expensive food.
+<P>
+As drug resistance-related challenges become more urgent, one might think that ethical debates are an unaffordable luxury.
+But, given the risks implied by deploying ill-considered solutions, careful consideration of the ethical implications of drug resistance strategies is essential.

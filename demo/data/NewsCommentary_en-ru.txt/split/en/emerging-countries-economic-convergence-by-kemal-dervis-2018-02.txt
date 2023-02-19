@@ -1,0 +1,55 @@
+<HEADLINE>
+The Future of Economic Convergence
+<P>
+WASHINGTON, DC – The world is now facing what observers are calling a “synchronized” growth upswing.
+What does this mean for the economic “convergence” of developed and developing countries, a topic that lost salience after the Great Recession began a decade ago?
+<P>
+In the 1990s, developing economies, taken as a whole, began to grow faster than their advanced counterparts (in per capita terms), inspiring optimism that the two groups’ output and income would converge.
+From 1990 to 2007, the developing economies’ average annual per capita growth was 2.5 percentage points higher than in the advanced economies.
+In 2000-2007, the gap widened, to 3.5 percentage points.
+<P>
+Though not all countries made progress – many small economies did not do well – on an aggregate basis, the structure of the world economy was being transformed.
+Asian countries were catching up at a particularly rapid clip, driven by the large, dynamic economies of India and, even more so, China (which experienced nearly three decades of double-digit GDP growth).
+<P>
+After the global financial crisis began in 2007, however, the dynamic changed.
+At first, it seemed that convergence was accelerating.
+With advanced-economy growth having ground to a halt, developing countries’ lead in per capita growth increased to four percentage points.
+<P>
+By 2013-2016, however, growth slowed in many emerging economies – particularly in Latin America, with Brazil experiencing negative growth in 2015 and 2016 – while growth in the United States picked up.
+Are we, as some observers have claimed, witnessing the end of convergence?
+<P>
+The answer will depend on developing economies’ ability to find and tap new, more advanced sources of growth.
+In the past, the key engine of convergence was manufacturing.
+Developing countries that had finally acquired the needed skills and institutions applied advanced-country technologies locally, benefiting from plentiful, low-cost labor.
+<P>
+But, as Dani Rodrik has argued, that source of easy copycat catch-up has mostly been exhausted.
+The low-hanging fruit in manufacturing has already been picked.
+Technological catch-up is more difficult in the services sector, which now accounts for a larger share of total value-added.
+<P>
+Moreover, today’s cutting-edge technologies – such as robotics, artificial intelligence (AI), and bioengineering – are more complex than industrial machinery, and may be more difficult to copy.
+And, because intelligent machines can increasingly fill low-wage jobs, developing countries’ cost advantage may have been diminished significantly.
+<P>
+Yet, as Daron Acemoglu and Pascual Restrepo show, the impact of such technologies – in particular, automation and AI – is more nuanced than that.
+According to them, aggregate output is a function of traditional labor, traditional capital, and capital involved in tasks that can be performed entirely without labor.
+Growth in traditional labor- and capital-augmenting technological progress, or in labor-displacing progress, would increase output, but growth in the latter would also lead to reduced labor demand and lower wages.
+By contrast, productivity growth, the deepening of automation, or the creation of entirely new tasks would increase labor demand and push up wages.
+<P>
+Of course, for robotics and AI to appear in developing-country value chains, including services that rely on frontier technologies, a minimum set of specific skills and infrastructure will be needed.
+But deploying some new technologies and tasks in the emerging economies may turn out to be no more difficult or costly than in advanced countries.
+<P>
+Here, much will depend on what kind of complementary labor is required.
+It is often assumed that a pool of very highly skilled labor is crucial to deploy AI.
+That may be true in some cases, but the opposite may be true in others.
+For example, the new labor-displacing technologies could make feasible activities for which there had been insufficient skilled labor.
+Thus, complete automation can lead to a greater share of an economic activity being located in a developing country.
+<P>
+Another factor that will shape the process of technological upgrading in developing countries is global firms’ willingness to invest.
+Global market structures and pricing will partly determine the distribution of benefits.
+But so will countries’ efficiency at learning regulatory lessons, including how to design rules that attract investors, capture important segments of value chains, and secure a sufficiently large share of the gains from innovation.
+Those countries that learn quickly may actually grow faster than advanced economies, even in high-tech sectors.
+<P>
+Of course, for many countries and sectors, there remains considerable room for traditional catch-up – a process that will likely continue to fuel growth.
+But it will not be enough to fuel true convergence.
+For that, developing countries will need to deploy new technologies relatively efficiently, taking into account the role of labor-market skills and regulations.
+This will not be easy, and we may never return to the “golden age” of convergence that preceded 2007.
+But new technologies should not be expected to stop convergence, even if, as is likely, they slow it down.

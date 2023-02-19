@@ -1,0 +1,66 @@
+<HEADLINE>
+Solving the Disinformation Puzzle
+<P>
+MENLO PARK, CALIFORNIA – Ever since the November 2016 US presidential election highlighted the vulnerability of digital channels to purveyors of “fake news,” the debate over how to counter disinformation has not gone away.
+We have come a long way in the eight months since Facebook, Google, and Twitter executives appeared before Congress to answer questions about how Russian sources exploited their platforms to influence the election.
+But if there is one thing that the search for solutions has made clear, it is that there is no silver bullet.
+<P>
+Instead of one comprehensive fix, what is needed are steps that address the problem from multiple angles.
+The modern information ecosystem is like a Rubik’s Cube, where a different move is required to “solve” each individual square.
+When it comes to digital disinformation, at least four dimensions must be considered.
+<P>
+First, who is sharing the disinformation?
+Disinformation spread by foreign actors can be treated very differently – both legally and normatively – than disinformation spread by citizens, particularly in the United States, with its unparalleled free-speech protections and relatively strict rules on foreign interference.
+<P>
+In the US, less sophisticated cases of foreign intervention might be addressed with a mix of natural-language processing and geo-locating techniques to identify actors working from outside the country.
+Where platform-level changes fail, broader government interventions, such as general sanctions, could be employed.
+<P>
+Second, why is the disinformation being shared?
+“Misinformation” – inaccurate information that is spread unintentionally – is quite different from disinformation or propaganda, which are spread deliberately.
+Preventing well-intentioned actors from unwittingly sharing false information could be addressed, at least partly, through news literacy campaigns or fact-checking initiatives.
+Stopping bad actors from purposely sharing such information is more complicated, and depends on their specific goals.
+<P>
+For example, for those who are motivated by profit – like the now-infamous Macedonian teens who earned thousands of dollars running “fake news” sites – new ad policies that disrupt revenue models may help.
+But such policies would not stop those who share disinformation for political or social reasons.
+If those actors are operating as part of organized networks, interventions may need to disrupt the entire network to be effective.
+<P>
+Third, how is the disinformation being shared?
+If actors are sharing content via social media, changes to platforms’ policies and/or government regulation could be sufficient.
+But such changes must be specific.
+<P>
+For example, to stop bots from being used to amplify content artificially, platforms may require that users disclose their real identities (though this would be problematic in authoritarian regimes where anonymity protects democracy advocates).
+To limit sophisticated microtargeting – the use of consumer data and demographics to predict individuals’ interests and behaviors, in order to influence their thoughts or actions – platforms may have to change their data-sharing and privacy policies, as well as implement new advertising rules.
+For example rather than giving advertisers the opportunity to access 2,300 likely “Jew Haters” for just $30, platforms should – and, in some cases, now do – disclose the targets of political ads, prohibit certain targeting criteria, or limit how small a target group may be.
+<P>
+This is a kind of arms race.
+Bad actors will quickly circumvent any changes that digital platforms implement.
+New techniques – such as using blockchain to help authenticate original photographs – will continually be required.
+But there is little doubt that digital platforms are better equipped to adapt their policies regularly than government regulators are.
+<P>
+Yet digital platforms cannot manage disinformation alone, not least because, by some estimates, social media account for only around 40% of traffic to the most egregious “fake news” sites, with the other 60% arriving “organically” or via “dark social” (such as messaging or emails between friends).
+These pathways are more difficult to manage.
+<P>
+The final – and perhaps the most important – dimension of the disinformation puzzle is: what is being shared?
+Experts tend to focus on entirely “fake” content, which is easier to identify.
+But digital platforms naturally have incentives to curb such content, simply because people generally do not want to look foolish by sharing altogether false stories.
+<P>
+People do, however, like to read and share information that aligns with their perspectives; they like it even more if it triggers strong emotions – especially outrage.
+Because users engage heavily with this type of content, digital platforms have an incentive to showcase it.
+<P>
+Such content is not just polarizing; it is often misleading and incendiary, and there are signs that it can undermine constructive democratic discourse.
+But where is the line between dangerous disagreement based on distortion and vigorous political debate driven by conflicting worldviews?
+And who, if anybody, should draw it?
+<P>
+Even if these ethical questions were answered, identifying problematic content at scale confronts serious practical challenges.
+Many of the most worrisome examples of disinformation have been focused not on any particular election or candidate, but instead on exploiting societal divisions along, say, racial lines.
+And they often are not purchased.
+As a result, they would not be addressed by new rules to regulate campaign advertising, such as the Honest Ads Act that has been endorsed by both Facebook and Twitter.
+<P>
+If the solutions to disinformation are unclear in the US, the situation is even thornier in the international context, where the problem is even more decentralized and opaque – another reason why no overarching, comprehensive solution is possible.
+<P>
+But, while each measure addresses only a narrow issue – improved ad policies may solve 5% of the problem, while different micro-targeting policies may solve 20% – taken together, progress can be made.
+The end result will be an information environment that, while imperfect, includes only a relatively small amount of problematic content – unavoidable in democratic societies that value free speech.
+<P>
+The good news is that experts will now have access to privacy-protected data from Facebook to help them understand (and improve) the platform’s impact on elections – and democracies – around the world.
+One hopes that other digital platforms – such as Google, Twitter, Reddit, and Tumblr – will follow suit.
+With the right insights, and a commitment to fundamental, if incremental, change, the social and political impact of digital platforms can be made safe – or at least safer – for today’s beleaguered democracies.

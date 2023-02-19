@@ -1,0 +1,55 @@
+<HEADLINE>
+The ABCs of Doing Business
+<P>
+NEW YORK – The World Bank’s annual Doing Business (DB) report is probably its most-cited publication.
+It is also the Bank’s most contentious, and with the release of Doing Business 2018 last October, the controversy surrounding the report has reached new heights, with some critics accusing it of obfuscation, data rigging, and political manipulation.
+<P>
+I was closely involved with the DB report from 2012 to 2016, so I had to restrain myself from jumping into the debate on the topic.
+But now, a review of the DB index and annual report seems worthwhile.
+<P>
+I first became familiar with the DB report when I was an adviser to the Indian government and would look to it for ideas about how to cut India’s notoriously cumbersome bureaucratic red tape.
+So, when I moved to the World Bank and learned that I would be overseeing the DB team, it was like a regular restaurant patron suddenly being asked to supervise the kitchen.
+The upshot was that I learned all that went on behind the scenes.
+And although I had some conceptual disagreements, I was impressed by the integrity of the process.
+<P>
+The DB index aims to measure, across countries, the ease of starting a business, obtaining the relevant permits, accessing essential infrastructure, and so forth.
+It comprises ten indicators, each of which is based on various sub-indicators, and all of which are aggregated, according to a fixed rule, into a final score that determines a country’s ranking among 190 economies.
+According to the 2018 report, New Zealand and Singapore are the world’s best and second-best places to do business, and Eritrea and Somalia are the worst, at 189 and 190, respectively.
+<P>
+Although there were aspects of the DB rankings that I did not like, I do not find the recent charges of data rigging to be credible.
+Having personally supervised much of the process, which involves a very large team compiling economic data from around the world, I can vouch for the multiple layers of checks and balances that are in place.
+<P>
+Nevertheless, there certainly are ways to influence the rankings without cooking up data.
+With any big operation – whether it is the DB or an effort to measure GDP – one occasionally discovers conceptual flaws.
+For example, when I first took over the process, I disagreed with the prevailing assumption that a higher tax rate is necessarily worse for an economy.
+<P>
+After all, the same logic dictates that the lower the tax rate, the better, which implies that a tax rate of zero is optimal.
+But that is obviously absurd.
+Even if one ignores the moral dimensions, a very low tax rate leaves a country more exposed to the threat of severe fiscal crises, which are a nightmare for business.
+Steps were taken to make some minimal corrections that would not be too disruptive.
+<P>
+Still, recognizing such problems poses a dilemma.
+It is never ideal to have to change a yardstick that has been used to track changes over time; but nor is it right to rely on an assumption that one knows to be flawed.
+At the end of the day, it’s a judgment call.
+For my part, I mitigated against possible biases by not even looking at the final result until I had first decided, using abstract reasoning, which changes were essential.
+<P>
+In this year’s DB, the two big controversies concern India’s rise and Chile’s fall.
+Between 2016 and 2017, India moved from 130th to 100th place.
+I no longer have inside information on the data, but I can see two reasons why this could occur.
+First, if a country is determined to move up the ranking, it can do so by focusing on the ten indicators that determine the final score, though this is not a national economic strategy that I would recommend.
+<P>
+Second, any change in ranking can be driven either by what a country does relative to other countries, or by measurement changes that the DB may have instituted in a given year – changes like those mentioned above.
+For example, when India moved from 142nd to 130th place between 2014 and 2015, the DB team and I computed that only four of the 12 positions that India had climbed reflected changes India had made, with the remainder attributable to changes in the DB methodology.
+<P>
+As for Chile, which slipped from 48th to 57th place between 2015 and 2016, and is now ranked 55th, it is worth noting that there is a lot of cheek-by-jowl competition at the higher end of the ranking.
+Small changes by countries that neighbor one another in the index can result in a sharp reordering.
+<P>
+But it is also true that Chilean President Michelle Bachelet’s government has placed greater emphasis on social indicators than on economic indicators.
+To my mind, that is a cause for praise, not criticism.
+Having worked with Bachelet on the World Bank’s 2018 World Development Report on education, I know that she is that rare politician who is genuinely committed to improving social welfare.
+<P>
+Many countries and political leaders make the mistake of equating the DB ranking with overall welfare.
+But the DB merely measures what it says it measures: the ease of doing business.
+That is certainly important for an economy, but it isn’t everything.
+In fact, one of the first lessons of economics is that all good things in life involve tradeoffs.
+It would be a pity to see more countries focusing only on “doing business” to the exclusion of other indicators of wellbeing.

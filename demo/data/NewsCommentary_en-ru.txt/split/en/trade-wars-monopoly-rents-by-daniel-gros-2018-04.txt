@@ -1,0 +1,54 @@
+<HEADLINE>
+Trade Wars in a Winner-Take-All World
+<P>
+BRUSSELS – With President Donald Trump’s new trade tariffs, the United States has been transformed from the global multilateral trading system’s leading champion and defender to its nemesis.
+But it would be very difficult for an erratic politician suddenly to overturn long-established structures and mechanisms, were it not for a more fundamental economic shift.
+<P>
+The first formal manifestation of today’s trade tensions occurred in the steel sector – an “old economy” industry par excellence, one that is plagued, especially in China, by enormous excess capacity.
+<P>
+Excess capacity is a recurrent phenomenon in the steel sector, and has always produced friction.
+Back in 2002, President George W. Bush’s administration imposed steep tariffs on steel imports, but relented when a World Trade Organization dispute-resolution panel ruled against the US.
+Although Trump administration trade hawks remember this ruling as a loss, most economists agree that it was ultimately good for the US economy, which does not gain from taxing a major input for many other industries.
+<P>
+In any case, today’s tariffs differ from Bush’s in a crucial way: they specifically target China.
+Under section 301 of the US Trade Act of 1974 – which empowers the president to act if US industry has been damaged by a foreign government’s unjustified actions – Trump has imposed steep tariffs on some $50 billion worth of Chinese imports.
+And China has already hit back, introducing steep tariffs on imports of 128 US-made products.
+<P>
+So why is Trump risking a trade war?
+His administration’s main complaint is that China requires foreign companies to reveal their intellectual property (IP) as a condition of access to the domestic market.
+And it is true that this requirement can do serious damage to US tech companies – as long as those companies are dominant in their industries.
+<P>
+For a major player in social networks or search engines, for example, the cost of entering a new market is essentially zero.
+Since the existing software can easily serve many more millions of users, they just need to translate their interface into the local language, meaning that entering a new market mostly means more profits.
+But if such companies are forced to reveal their IP, their business models are destroyed, as local players can then compete effectively in that market – and potentially in others.
+<P>
+This is not the case for companies operating in competitive industries.
+For them, producing and selling more abroad costs much more, limiting the marginal profits that can be reaped.
+In other words, in the more competitive “old” economy, the gains of opening new markets are much smaller.
+That is why lobbying by potential exporters for better access to markets with high tariffs has usually been muted – hence the lack of resistance to India’s protectionism.
+<P>
+This is changing in the new “winner-take-all” tech economy: with IP-owning winners missing out on massive profits when a big market like China is protected or closed, trade conflicts become more acute.
+Meanwhile, trade policy becomes focused primarily on re-distributing rents, with employment and consumer interests viewed as secondary.
+(Under competitive conditions, policymakers place a higher priority on maximizing trade’s potential to boost productivity and create high-quality employment.)
+<P>
+Monopoly rents translate into high market valuations.
+And, indeed, the new economy giants have a much higher stock-market value than their “old economy” equivalents.
+The three largest US tech companies are worth over 50 times more than the three largest US steel producers.
+<P>
+The looming trade war promises to be asymmetric.
+The US – home to all the dominant tech firms – will struggle to find allies against China.
+After all, in Europe and Japan, IP-owning companies operate mostly in more competitive industries, meaning that China’s demand for that IP will have less of an impact.
+<P>
+Making European support even harder to come by, some European governments are eager to secure their share of rents from US firms.
+This is the ultimate aim of European efforts to raise taxes on the profits of digital multinationals, though such a tax is unlikely to do the job.
+<P>
+Proponents of that tax argue that profits should be taxed where they are earned, with the implicit argument being that they are earned where the consumers are.
+But this is an arbitrary criterion.
+US firms can legitimately claim that their “European” profits are just a return on their IP, which can formally be localized anywhere, preferably in a low-tax jurisdiction.
+A European tax on these companies is thus unlikely to yield substantial revenues.
+<P>
+In the old competitive economy, trade wars might be easy to win for a country with a large trade deficit.
+But in the emerging winner-take-all economy, a trade war launched with the goal of forcing the rest of the world to open up, thereby allowing the aggressor’s own winning firms to earn higher rents, is an altogether different proposition.
+<P>
+So the US government is essentially arranging its diplomatic guns behind its Internet giants, while Europe and China are baying for their monopoly profits.
+This is more destructive than a zero-sum game: it will do serious damage to the global trading system, leaving everyone worse off.

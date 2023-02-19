@@ -1,0 +1,56 @@
+<HEADLINE>
+The Coming Technological Cold War
+<P>
+MADRID – Lurking behind the Trump administration’s trade conflict with China lies an abiding fear that the United States could be losing its advantage in the global technology race.
+And it’s not just Trump.
+In US policymaking circles more broadly, China’s “Made in China 2025” policy – intended to ensure Chinese dominance in cyber capabilities, artificial intelligence (AI), aeronautics, and other frontier sectors – is viewed not just as an economic challenge, but as a geopolitical threat.
+Everything from US telecommunications infrastructure and intellectual property to America’s military position in East Asia are considered to be at risk.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The fact that technology is driving geopolitical tensions runs against the predictions of many scholars and policymakers.
+As recently as the mid-2000s, some suspected that geography would no longer play a meaningful role in the functioning of global markets.
+Globalization and technology would lead to a “flat” world with perfect competition, where talent would automatically spread evenly across regions and frontiers; skilled workers would connect to productive processes remotely and only when needed.
+<P>
+In fact, talent in the twenty-first century is more unevenly distributed than ever before.
+A few key hubs – Cambridge, Massachusetts; Silicon Valley; Shenzhen, China – are now host to a significant share of the world’s high-skilled digital and tech workers.
+It isn’t entirely clear why this is happening.
+But some scholars have begun to attribute the concentration of digital talent to the role of “tacit knowledge”: insider know-how such as the industry practices and procedures, or technical expertise that is valuable only under very specific conditions.
+<P>
+As knowledge has become increasingly clustered, so, too, has technological research and the commercial development of new innovations.
+This trend can be measured by the number of unicorns – startup firms with a valuation of at least $1 billion – appearing in particular regions of the world.
+By that metric, China and the US alone account for almost all of the world’s technological entrepreneurship.
+In the field of innovation, we are quickly moving toward a G2 world.
+<P>
+Moreover, there is growing evidence that productivity growth is becoming concentrated within companies that have leveraged digital technologies to scale.
+Over the past decade, a narrow cohort of what the OECD calls “frontier firms” have accounted for almost all productivity growth globally, while “laggard companies” – that is, all other firms – have made essentially no productivity gains at all.
+This imbalance has created the illusion of an aggregate slowdown in productivity growth, when the real issue is the increasingly acute segregation by firm type.
+<P>
+A world in which technological know-how, innovation, and productivity growth are heavily clustered is more zero-sum – and thus more prone to geopolitical competition.
+The regions that attract talent effectively cut everyone else out of the technology transfer process, thereby producing a few big winners that are able to achieve rapid productivity growth and competitive dominance.
+Under these conditions, Sino-American competition for talent and frontier firms is increasingly inevitable.
+<P>
+Further compounding the problem is the fact that China is not a democracy.
+The government is using cutting-edge technology not only to repress dissent and monitor the population, but also to respond to citizens’ needs and improve public services.
+By helping officials manage increasingly complex social, political, and economic systems with near-complete information, these technologies nullify the forces that brought an end to earlier authoritarian systems, not least the Soviet Union.
+It might well be that AI and big data are boons to authoritarian regimes.
+<P>
+We should brace ourselves for the coming conflict.
+Like the original Cold War, the contest between the US and China for technological dominance will produce ripple effects worldwide, potentially leading to a sharper backlash against globalization – one that adds national-security concerns to distributive grievances.
+The temptation will be to break up global markets, and retreat to islands of proprietary data and technologies.
+<P>
+Indeed, America and Europe’s longstanding support for open markets and their belief in strict competition policy will be put to the test.
+Will European and US markets remain open to Chinese firms?
+Will Western antitrust authorities break up their countries’ tech giants at the risk of ceding the global market to Chinese national champions?
+Much will depend on China’s willingness to level the playing field at home, which would mean pursuing economic liberalization and curtailing politically motivated state intervention in the economy.
+As matters stand, China appears to be heading in the opposite direction.
+<P>
+If an authoritarian regime excels in the technological race, and if emerging technologies enable it to deliver better governance without the need for more political openness, governments around the world will take note.
+That is why the looming technological cold war will not just be about amassing data and talent to achieve economic and geostrategic primacy; like the original Cold War, it will also be about the future of liberal democracy.

@@ -1,0 +1,57 @@
+<HEADLINE>
+How Best to Promote Research and Development
+<P>
+CAMBRIDGE – Start-ups, incubators, accelerators, angel capital, venture capital, mergers and acquisitions, initial public offerings, a liquid stock market, techno-parks, a major university or two, and a group of specialized law firms.
+Many believe that once you have built up this ecosystem, à la Silicon Valley, you can become the next Route 128 in Massachusetts, the next Research Triangle in North Carolina, or the next Start-Up Israel.
+<P>
+But, while success breeds imitation, the opposite is often not the case.
+Complex structures with many interdependent pieces are not created out of whole cloth.
+They emerge from idiosyncratic path-dependent processes, whereby each organizational innovation changes the ecosystem, making other changes feasible.
+Trying to copy the resulting ecosystem is like trying to build a bridge with no scaffolding: it cannot be done, because the structure cannot bear its own weight while it is being built.
+<P>
+Clearly, there is something appealing about a start-up-based innovation strategy.
+It feels democratic, accessible, and so California.
+But it is definitely not the only way to boost R&D, or even the main way, and it is certainly not the way most major innovations in the US came about during the twentieth century.
+The alternative strategy lies at the opposite end of the distribution of firm size – with big business.
+<P>
+Joseph Schumpeter stumbled onto these two approaches at different points in his life.
+When he published The Theory of Economic Development in 1911 at age 28, he emphasized that innovation came from the spirit of entrepreneurs in a process of creative destruction.
+By 1942 when a 59-year-old Schumpeter published the book Capitalism, Socialism, and Democracy, he realized that a lot of the innovation was coming from very large corporations that faced rather limited competition.
+<P>
+A paradigmatic example is the American Telephone and Telegraph Company (AT&T) and its Bell Labs, a story meticulously recounted by Jon Gertner in his 2012 book The Idea Factory.
+The research, discoveries, and products that emerged from this single entity are astounding: not only reliable relays and switches for landline telephony, but also radar, lasers, the transistor, the integrated circuit, the fax machine, satellite communications, Shannon’s information theory, the theory of computation, six sigma quality control, and even cosmic microwave background radiation.
+All of this happened inside a corporate behemoth, which could afford the lab thanks to its monopoly on local telephony and on the equipment used to provide the service, which was manufactured by AT&T’s subsidiary, Western Electric.
+<P>
+AT&T’s monopoly position was always controversial in the competition-minded US regulatory system.
+So the company had to earn the right to be a monopolist by constantly improving its service and using its research power for national purposes such as military defense.
+To renew its corporate charter in 1956, it even had to agree to license all of its old patents royalty-free and to license all new patents at low cost.
+If AT&T had to be a monopoly, it had to be a monopoly that benefited society at large, not just its shareholders, through breakthrough research.
+<P>
+Organizing research and development within a large corporation may be much less challenging than trying to generate the complex ecosystem that a start-up approach would require (which may be why the first preceded the second historically).
+Access to finance, managerial resources, incubation, acceleration, oversight, and accumulated experience may be much easier to achieve.
+And a large corporation may be more patient than angel and venture capitalists – and thus more willing to take risks and bet on longer-term projects, as AT&T did.
+<P>
+This is not just a twentieth-century story.
+The bulk of R&D spending today occurs within large corporations.
+The world’s largest R&D companies, measured by their budgets, are Volkswagen, Samsung, Intel, Microsoft, Roche, Novartis, Toyota, Johnson & Johnson, Google, and Merck.
+None operates out of its parents’ garage while awaiting an infusion of venture capital.
+<P>
+Developing an R&D capacity is critical for many middle-income countries, and both the World Bank and the regional development banks have programs to help.
+Most often, these programs are inspired by the start-up culture of Silicon Valley.
+Examples include Start-Up Chile and Ruta N in Colombia, which attempt to create complex ecosystems from scratch.
+<P>
+Israel is often cited as a precedent for such efforts.
+But Israeli start-ups exist in an ecosystem created by decades of public investment in military R&D. In the meantime, countries like Chile and Colombia have given a free pass to their large conglomerates, which could be the kernel of the more conventional corporation-centered approach.
+For example, it was Australia’s BHP Billiton, not state-owned CODELCO or privately owned Antofagasta, that launched an R&D effort on mining technologies in Chile.
+<P>
+More broadly, middle-income countries are not short of companies with significant financial and managerial resources and plenty of market power.
+But these firms have been mostly missing in action in terms of innovation and R&D, as a recent study by the Inter-American Development Bank has shown.
+<P>
+As societies consider their R&D strategies, they must find ways to coax their largest corporations into a more AT&T-like bargain.
+If citizens are to tolerate or even support these companies’ power, companies must use it in ways that bring outsize benefits to the rest of society.
+Their R&D budgets, their patent history, and their innovations are part of what they should brag about in public.
+<P>
+A more demanding public policy may generate a more dynamic corporate sector.
+In the case of AT&T, it was the looming threat of break-up or forced divestment that did the trick.
+With large emerging-market conglomerates, a “tough love” approach, rather than just more tax incentives, has, to my knowledge, never been tried outside of South Korea.
+It could be a win-win proposition, even for the start-ups.

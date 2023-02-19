@@ -1,0 +1,60 @@
+<HEADLINE>
+Inside the Placebo Effect
+<P>
+BOSTON – For many medical researchers and followers of science, few things are more unsettling than the placebo effect.
+How can an inert sugar pill have therapeutic value?
+<P>
+The answer requires understanding the context that surrounds medical treatment – a setting in which the symbols and rituals of health care combine with the charged emotional reactions that arise when patients encounter healers.
+The importance of trust, empathy, hope, fear, trepidation, and uncertainty in the therapeutic encounter should not be disregarded.
+<P>
+By using sugar pills, saline injections, or even sham surgery, placebo research isolates provision of care from the direct effects of genuine medications or procedures.
+Recent research on the placebo effect has demonstrated that the clinical encounter alone – without the provision of any “real” medicine – can alleviate pain, improve sleep, relieve depression, and ameliorate the symptoms of a wide variety of conditions, including irritable bowel syndrome, asthma, Parkinson’s disease, heart ailments, and migraine.
+<P>
+Placebos mainly influence patient self-appraisal.
+They cannot shrink tumors; but they can help patients experience less of the fatigue, nausea, pain, and anxiety that are associated with cancer and its treatment.
+They cannot lower cholesterol or reduce high blood pressure, but they may alter mood or pain sufficiently to promote more healthful behaviors.
+<P>
+Placebos can behave like drugs; and the placebo effect can also make drugs more effective.
+<P>
+Research shows that various components of the placebo effect – for example, the paraphernalia of care (pills and syringes) and the patient-provider relationship – can be added incrementally in a manner analogous to dose dependence (the higher the dose, the greater the effect).
+<P>
+Indeed, these components have been shown to boost the efficacy of many powerful medications.
+<P>
+For example, when morphine is administered by injection in full view of the patient, it is significantly stronger than when it is given through an intravenous line without the patient’s knowledge.
+<P>
+Many psychosocial mechanisms have been implicated in placebo responses.
+Increased hope, positive expectations, and reduced anxiety can all modify “mindsets” that guide how patients respond to noxious sensations.
+Evidence strongly suggests that the support and empathy of a thoughtful and attentive physician can improve clinical outcomes.
+Indeed, it has been demonstrated that non-conscious environmental cues and symbols – the white coat or the diploma on the wall – can “prime” a patient to experience improvement.
+<P>
+Until recently, it was assumed that the effects of placebo pills depended on concealment or deception.
+The patient had to believe that the treatment was “real” for placebos to work.
+But new research indicates the potential for significant clinical improvement even if patients are told that they are ingesting an inactive substance.
+This suggests that the simple enactment of a treatment ritual may, like conscious expectations, have a powerful impact.
+<P>
+In fact, the power of imagination, it seems, has a basis in neurobiology.
+Recent evidence shows that when placebos have salubrious effects, they engage the same neurological pathways as active medications.
+For example, when patients experience pain relief from placebos, the brain releases endogenous opioids and/or CB1 cannabinoids – the very same mechanisms that mediate pain relief derived from pharmaceutical treatments.
+<P>
+Likewise, neuroimaging studies show that placebo treatment activates specific brain structures such as the prefrontal cortex and the rostral anterior cingulate cortex.
+Experiments on patients with Parkinson’s disease have shown that placebo treatment releases endogenous dopamine in the striatum region of the brain.
+Moreover, intriguing pilot research suggests that there may be genetic factors that predispose one to have greater placebo responses.
+<P>
+The effects of placebos are not always beneficial.
+The placebo effect has a dark twin called the nocebo effect.
+Although placebos are biologically inert, as many as 26% of placebo-treated patients drop out of clinical trials after suffering intolerable side effects, which are usually the same as the possible side effects of the drug being tested.
+For example, in a trial of anti-migraine medication, if the active ingredient is an anticonvulsant, the nocebo effect (the placebo’s side effect) will disproportionally relate to anorexia or memory; but if the active ingredient is a non-steroidal anti-inflammatory drug, the nocebo effect will more likely be gastrointestinal symptoms and thirst.
+<P>
+This underscores the importance of placebo effects in the development of new drugs.
+To approve new pharmaceuticals, the US Food and Drug Administration requires two well-designed randomized controlled trials in which the drug demonstrates superiority over placebo treatment.
+<P>
+However, evidence suggests that for some illnesses, placebo effects have grown progressively larger over the last several decades.
+This “placebo drift” poses significant challenges to detecting drug-placebo differences.
+<P>
+And that highlights a more fundamental point: In our rush to embrace high-tech medicine, we tend to forget the enormous potential for healing that can arise from a good therapeutic relationship.
+Placebo research has demonstrated that the context within which treatment takes place and the patient-clinician relationship have huge potential to improve health outcomes.
+<P>
+We need to learn more about the placebo effect’s power and limitations.
+We also need to learn how to translate this scientific knowledge into ethical and effective methods that physicians can use to improve medical outcomes.
+And we need to know more about the placebo effect in clinical trials.
+In short, we need to stop thinking in terms of the “art of medicine” and start exploring a new science of healing.

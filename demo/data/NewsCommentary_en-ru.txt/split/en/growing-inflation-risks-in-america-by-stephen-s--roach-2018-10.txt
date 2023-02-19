@@ -1,0 +1,54 @@
+<HEADLINE>
+America’s Inflation Risks
+<P>
+NEW HAVEN – It was inevitable.
+Another upturn in the US inflation cycle is at hand.
+Since the Great Disinflation of the early 1980s, when the annual increase in the Consumer Price Index (CPI) plunged from 14.7% in March 1980 to 2.4% in July 1983, inflation has generally remained in a relatively narrow 1-5% range for a quarter-century.
+When the economy softened, inflation slid to the lower end of that range, and when it strengthened in the late 1980s, late 1990s, and in the pre-crisis 2000s, it moved to the upper end.
+Such is the case today.
+<P>
+Not surprisingly, this pattern has been slow to emerge in the current cycle, largely owing to an unusually weak post-crisis economic recovery.
+But now a confluence of global and domestic forces is starting to push inflation higher and should continue to do so for some time.
+That will pose a challenge to the Federal Reserve, which operates under a price-stability mandate.
+Recent volatility in stocks and bonds suggests that these risks could prove vexing to financial markets as well.
+<P>
+The global risk to US inflation reflects not only a cyclical upturn in the world economy, but also mounting trade frictions that pose serious threats to the stability of global value, or supply, chains (GVCs).
+As GVCs have grown in importance over time, so has the internationalization of inflation.
+In economic terms, that means broadening the assessment of inflation risks from a focus on domestic “output gaps” – the difference between actual and potential (or full employment) GDP – to the global output gap.
+Significantly, recent research by the Bank for International Settlements has found that a global output gap of about 1% – precisely the outcome for all advanced economies over the past five years – reduces inflation by 0.9%.
+<P>
+Two major disruptions currently occurring in GVCs are likely to have a meaningful impact on the internationalization of US inflation.
+First and foremost is the Trump administration’s trade war with China.
+The initial waves of US tariffs on Chinese imports are aimed mainly at intermediate goods that are processed by low-cost China-centric GVCs.
+These tariffs will raise the prices of about half of Chinese goods imports, which totaled $506 billion in 2017, by 10% today and 25% in 2019.
+<P>
+The recent reworking of the North American Free Trade Agreement should also have an impact on GVC-induced disinflation.
+With its more stringent local-content and minimum-wage requirements, the United States-Mexico-Canada Agreement (USMCA) injects new cost pressures into the GVC that has played an important role in the establishment of a fully-integrated North American auto production platform over the past quarter-century.
+NAFTA may not have been perfect, but under USMCA there is a different cost calculus for vehicles, which account for fully 3.7% of the items included in the US CPI.
+<P>
+While this new strain of global pressures on US inflation reflects the impact of aggressive trade policies on GVCs, the domestic pressures stem from a more familiar source: an extremely tight labor market.
+The unemployment rate fell to 3.7% in September, its lowest level since December 1969.
+Sub-4% unemployment rates have become extremely rare in the US.
+There was a brief episode in 2000, when inflation generally remained under control, and a more protracted one in the late 1960s, setting the stage for the Great Inflation of the 1970s.
+<P>
+The current tightness of the US labor market is problematic for two reasons.
+The first is a nascent increase in long-dormant wage pressures.
+Average hourly earnings are now running 2.8% above the year-earlier level, reinforcing an acceleration that began in 2015, and well above the subdued 2% post-crisis average from 2010 through 2014.
+Moreover, there are signs that wage gains are now broadening out, with the balance tilting away from low wage-inflation industries such as manufacturing, health care, and education into higher wage-inflation industries such as finance, the information sector, and professional and business services.
+At the current sub-4% unemployment rate, overall wage inflation could easily move into the 3.5% zone by mid-2019.
+<P>
+The second conclusion to draw from an extremely tight US labor market is that, unlike earlier periods of low unemployment when domestic wage pressures were constrained by GVCs, today’s mounting wage inflation will be tempered by a smaller GVC offset.
+Absent an unlikely acceleration in productivity, it is the confluence of these two forces – a tight domestic labor market and new global pressures – that spells trouble on the US inflation front.
+<P>
+Such an outcome has important and actionable consequences for the Fed.
+The federal funds rate is currently at only 2.25%.
+That is little different from the underlying rate of so-called core inflation (which excludes the CPI’s volatile food and energy components), currently running at 2-2.2%, depending on which measure one chooses.
+<P>
+Therein lies the Fed’s dilemma.
+Knowing full well that monetary policy works with lags of 12-18 months, the central bank has to be forward-looking, setting its policy rate on the basis of where it thinks inflation is headed, not on the basis of a backward-looking assessment of where inflation has been.
+And that’s precisely the problem: Based on the confluence of global and domestic pressures outlined above, 3-3.5% inflation is well in sight over the next year.
+<P>
+To counter such a likely upturn in US inflation, the Fed is entirely correct to send the message that there is considerably more to come in its current tightening cycle.
+In fact, there is an increasingly compelling argument that a forward-looking Fed is actually “behind the curve,” because its policy rate currently is only just equal to the backward-looking core inflation rate.
+That could mean that the Fed must contemplate monetary tightening that significantly exceeds the so-called comfort zone of normalization that financial markets are currently discounting.
+Unlike a certain Fed-bashing president, I would hardly call that a crazy conclusion.

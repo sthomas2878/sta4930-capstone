@@ -1,0 +1,61 @@
+<HEADLINE>
+Universal Basic Income or Universal Living Wage?
+<P>
+BERKELEY – A universal basic income (UBI) would be both regressive and prohibitively expensive.
+Yet the idea continues to attract a motley crew of tech and labor leaders, libertarians, and progressives, who fear a coming age of mass technological unemployment.
+<P>
+Similarly, proposals in the United States for a federal jobs guarantee have been gaining momentum on the traditional left.
+But while such a program could employ millions of workers to deliver basic public services and rebuild and modernize the country’s dilapidated infrastructure, it is no more feasible than a UBI, given current federal budget constraints.
+<P>
+The challenge for the future of work is not really about the quantity of jobs, but their quality, and whether they will pay enough to provide a decent standard of living.
+Even in developed countries where relatively higher wages encourage the adoption of labor-saving technology, job losses will likely be offset by projected increases in demand for goods and services, driven by productivity and income gains, growing health-care needs, and investment in alternative energy and infrastructure.
+<P>
+But current trends and future projections about the quality of jobs are alarming.
+The OECD Employment Outlook shows an increase in low-paying jobs, sluggish real (inflation-adjusted) wage growth, and declining employment benefits across advanced economies between 2007 and 2017.
+And, on average, fewer than one in three job seekers in OECD countries received unemployment compensation during that period.
+<P>
+Since the 2008 financial crisis, job growth in the US has resembled a dumbbell.
+The number of high-skill, well-paid jobs is increasing, particularly in so-called STEM fields (science, technology, engineering, math), where 2.4 million jobs remain unfilled.
+At the other end of the skills spectrum, although the number of “gig economy” jobs is growing at three times the pace of GDP, many of the workers filling them are barely scraping by.
+<P>
+Meanwhile, the unemployment rate has remained stubbornly high among workers without a high-school diploma, and in economically challenged rural and urban areas.
+Without policy changes, the returns to labor will become increasingly uneven as the link between overall productivity growth and wages becomes ever more attenuated.
+<P>
+Though skills training and lifelong learning are needed to equip workers for the jobs of the future, such measures will not be sufficient to ensure decent livelihoods.
+Complementary policies to provide a basic living wage are essential.
+In the US, three steps can be taken now to achieve this goal: a substantial increase in the minimum wage and a robust earned income tax credit (EITC), both indexed to regional costs of living and automatically adjusted for inflation; and easy enrollment of eligible workers for federal and state benefits.
+These benefits should also be pro-rated and portable to cover part-time and gig-economy workers.
+Together, these three steps would ensure that full-time workers (in one or multiple jobs) do not live in poverty or constant economic insecurity.
+<P>
+Currently, the minimum wage in Fresno, California, is $11 per hour; in San Francisco, it is $15 per hour.
+Yet, according to the MIT Living Wage Calculator, a worker in a dual-income, single-child household in Fresno needs to earn at least $14 per hour to cover its basic needs; in San Francisco, that same worker must make at least $21 per hour.
+And if that worker is a single parent, the living wage in each city rises to $25 per hour and $39 per hour, respectively.
+<P>
+Both companies and governments can help close the gap between living and minimum wages.
+In 2014, IKEA started paying living wages based on the MIT calculator, and other companies have since followed suit.
+For their part, local and state governments can close the gap – currently $3 per hour in Fresno and $6 per hour in San Francisco, by raising the minimum wage and expanding EITC coverage and other benefits.
+<P>
+Measures to raise the minimum wage and index it to the cost of living are already underway in many parts of the US.
+Through legislation or direct voter initiatives, approximately eight million workers have already won minimum-wage increases in recent years, and an additional $5 billion has made it into workers’ pockets since 2017.
+If applied nationally, a $15 hourly minimum wage (roughly equal to 50% of the economy-wide median wage), adjusted for regional cost-of-living differences, would mean another $144 billion for workers by 2024.
+<P>
+After raising the minimum wage, the next step is to expand the EITC, by broadening its income and eligibility criteria, increasing its size, and making it available in periodic payments instead of an annual lump sum.
+The EITC has a proven record of success in encouraging work, reducing poverty, boosting educational attainment, increasing intergenerational mobility, and improving maternal and infant health.
+Even Chris Hughes, a Facebook co-founder and leading UBI booster in Silicon Valley, calls for an expanded EITC.
+<P>
+Some US states are already ahead of others on this front.
+By extending its EITC to include gig-economy work, and broadening the range of eligible income, California has increased the number of claims from around 400,000 in 2016 to 1.3 million in 2017.
+Over 90% of California’s EITC credits go to low-income families with children, and 80% of the children benefiting from it are young people of color.
+<P>
+But more work needs to be done.
+Fewer than one in five eligible Californians knows about the state’s EITC, which translates into $2 billion in unclaimed credits each year.
+Similarly, one in five eligible workers nationwide (more than six million people) do not file for the federal EITC each year, losing out on some $16 billion in unclaimed credits.
+Clearly, more aggressive public marketing programs are required to raise awareness about the EITC at both the state and federal levels.
+And beyond that, the federal government should strengthen incentives for states to match federal EITC payments based on their cost of living.
+<P>
+Enrollment in federal benefits such as Medicaid, the Supplemental Nutrition Assistance Program, the Children’s Health Insurance Program, and Pell Grants also needs to be simplified.
+Currently, more than $50 billion worth of federal benefits goes unclaimed every year.
+To ensure that struggling households receive the benefits to which they are entitled, five states are piloting a simplified auto-enrollment program in partnership with Code for America.
+<P>
+There will always be work to be done.
+So, instead of pursuing fantasy UBI or job guarantees, why not take measures that provide a universal living wage for work now and for the work of the future?

@@ -1,0 +1,61 @@
+<HEADLINE>
+Is Speculating on Food Dangerous?
+<P>
+ROME – The prices of many staple foods increased dramatically during 2007-2008, creating a food crisis for many poor and developing countries.
+International prices of maize, rice, and wheat, for example, reached their highest levels in 30 years, causing political and economic instability – and leading to food riots – in many countries.
+<P>
+Several factors contributed to the crisis, including high oil prices, high demand for crops from the bio-fuel sector, falling global stockpiles of food commodities, and lower cereal production.
+Strong economic growth and expansive monetary policies further boosted the trend, as did protectionist measures, such as export restrictions.
+<P>
+While these factors undoubtedly placed upward pressure on food prices, they alone cannot explain the steep hikes.
+Some believe that the crisis was amplified by speculative trading in commodity futures, which have become an integral part of food markets.
+<P>
+Commodity futures are formal agreements to buy or sell a specified amount of a commodity at a specified future date for a specified price.
+They thus provide an important instrument for hedging price risks in commodity markets.
+By entering into a futures contract, both buyer and seller gain certainty as to the price of their subsequent transaction, independent of actual developments in the market.
+<P>
+Commodity futures are generally traded before their expiration date.
+Indeed, only 2% of contracts end in the delivery of the physical commodity.
+Thus, the market also attracts investors who are not interested in the commodity, but in speculative gain.
+In fact, commodity futures have become increasingly appealing to non-commercial investors, as their returns seem to be negatively correlated with returns on equities and bonds.
+<P>
+The growing presence of non-commercial investors has provided important liquidity to the market, as speculators assume risks related to commodity prices that hedgers wish to avoid.
+But their presence has also raised concerns that speculation in commodity futures could result in higher price volatility.
+<P>
+Economists generally consider commodity futures to be the solution to higher price volatility, not its cause.
+They argue that traders of commodity futures merely react to price signals that ultimately depend on market fundamentals.
+In this way, speculation accelerates the process of finding an equilibrium price and stabilizing the physical market.
+<P>
+But what about trend-following investors, or those with market power?
+In fact, in the short term, an investor might be attracted by the increasing price of a commodity, although the price is not based on any fundamental data.
+These speculative investments can further strengthen the trend and push futures price further away from market equilibrium, especially if many investors follow suit or those who invest have sufficient funds to influence the market.
+<P>
+Index funds are an example of such powerful investors.
+They have become key players in the market, holding about 25-35% of all agricultural futures contracts.
+Besides investing large amounts of money, they hold futures contracts for a long time, which might make them less likely to react to changes in market fundamentals.
+<P>
+Empirical evidence yields no clear answer concerning which hypothesis is correct.
+For each study that finds a significant connection between speculative trading and market volatility, there is at least one that claims the contrary.
+There are three main reasons to believe that speculation was not the main driver of the recent food-price surge:
+<P>
+· Although index-fund investments are important compared to the positions of other futures participants, their behavior is predictable, as they publicly announce both their commodity portfolio and the timing of their transactions;
+<P>
+· Price volatility has also been high for commodities that are not traded in futures markets (copper, iron, and ore), or for which these markets are not important (steel and rice);
+<P>
+· As excess demand in well-functioning futures markets can easily be met by sufficient supply (i.e., by issuing new futures contracts), the effect of speculation on the equilibrium price is relatively small and short-lived compared to price swings of a physical asset, for which supply might be less elastic or even fixed in the short term.
+<P>
+Given these findings, trading in futures markets seems to have amplified price volatility in the short term only.
+Longer-term equilibrium prices, however, are ultimately determined in cash markets where buying and selling physical commodities reflect the fundamental forces.
+<P>
+Futures markets have evolved historically in response to market participants’ need to manage price risks, and they are an indispensable marketing tool for many commodities.
+Limiting or even banning speculation in futures markets might therefore be costly and have unintended consequences.
+<P>
+Proposals to create an international fund to counteract price hikes in futures markets, for example, might divert speculators from trading and thus lower the market liquidity available for hedging purposes.
+Moreover, such a fund would require exorbitant resources to be operational, not to mention the tremendous challenges in determining a price level that would trigger its intervention.
+<P>
+Given the important role that commodity futures play for many market participants, regulatory measures should aim at enhancing confidence in the functioning of the market.
+This can be achieved by increasing transparency and the amount of available information on futures trading.
+Recent initiatives by the US Commodity Futures Trading Commission point in the right direction.
+<P>
+In order to counteract suspicious behavior – such as traders requesting permission to invest amounts that are above their speculative-position limits – the Commission lifted exemptions for two firms trading in maize, wheat, and soybean futures.
+Such measures will contribute to shaping a more stable market environment and ensure that commodity futures reduce risks and volatility.

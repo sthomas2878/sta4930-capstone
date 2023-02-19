@@ -1,0 +1,51 @@
+<HEADLINE>
+Stalking a Killer Fungus
+<P>
+SINGAPORE – Warnings of the rise of so-called superbugs – disease-causing microbes that are resistant to many (or all) antibiotics – have been coming thick and fast in recent years.
+What many people seem not to realize is that superbugs are already here – and they are already killing people.
+A prime example is Candida auris, a multidrug-resistant fungal infection that is emerging as a serious global health threat.
+<P>
+C.auris was first identified in Japan in 2009, in the ear of a patient who complained of an infection.
+(Auris is Latin for ear.)
+Since then, C. auris has been documented as the cause of wound infections, bloodstream infections, ear infections, and respiratory infections in countries across four continents, including India, Kuwait, Pakistan, South Africa, South Korea, and countries in South America.
+<P>
+In the United States, the Centers for Disease Control and Prevention reports that the fungus infected 13 people from May 2013 to August 2016, four of whom have died.
+While it remains unclear whether those deaths were due to the C. auris infection or to underlying health conditions, the need to address the scourge of C. auris – which has led to the deaths of up to 70% of those infected – cannot be disputed.
+<P>
+There is evidence that C. auris is spread in health-care settings.
+Indeed, the fungus seemed to have a greater effect on people with serious long-term conditions.
+As they frequent hospitals, and nursing homes, they come into contact with many health-care professionals, caregivers, and pieces of medical equipment, all of which could spread the fungus onto their skin or into their bodies.
+<P>
+In the United Kingdom, 50 C. auris cases were reported at London’s Royal Brompton Hospital alone from April 2015 to July 2016.
+Of the 13 US cases, four – two in Illinois, one in Maryland, and one in New Jersey – occurred at the same health-care institutions at different times, and genome sequencing showed that patients treated in the same hospital in New Jersey had nearly identical strains.
+<P>
+Not only are Candida infections particularly common in hospitals, but their fatality rates also seem to be higher among patients in hospitals and, specifically, intensive-care facilities.
+After all, such patients are already in an immune-compromised state, and have been using antibiotics, which can kill off healthy bacteria.
+<P>
+But the main reason C. auris represents such an acute threat is that treatment options are severely limited.
+While most C. auris infections are treatable with a class of antifungal drug called echinocandins, some have demonstrated varying levels of resistance to echinocandins, as well as to the other two classes of antifungal drugs, azoles and polyenes.
+<P>
+Even when the drugs do work, they are relatively toxic: azoles and polyenes are nephrotoxic (damaging to the kidneys), and echinocandins are hepatotoxic (damaging to the liver).
+Most are also fungistatic, meaning that they stop fungi from replicating, but do not kill them.
+And they interact with drugs that patients may be taking for other long-term conditions, such as chemotherapy agents and immunosuppressants.
+<P>
+Moreover, developing new antifungal drugs is not a priority for pharmaceutical manufacturers.
+Antifungal drugs are more difficult to develop than antibacterial drugs, because fungal cells are eukaryotic, like human cells, rather than prokaryotic like bacterial cells.
+As a result, drugs must be selective enough to work on the fungal cells, without damaging human cells.
+And, while the global market for human antifungal therapeutics is worth over $6 billion and growing, owing to population aging and growing risks from fungal infections, generic competition is strong.
+So even if companies do invest in breakthrough drugs, cheaper options will soon be available, reducing profit margins considerably.
+<P>
+In lieu of effective treatments, controlling the spread of C. auris becomes all the more critical.
+This requires, first and foremost, better diagnosis.
+<P>
+C. auris is not easy to identify.
+Because biochemical-based tests cannot differentiate between C. auris and other invasive Candida infections, several cases of C. auris were initially misidentified as C. haemulonii.
+Many microbiology laboratories currently do not routinely differentiate Candida isolates or use yeast identification methods.
+Hospitals and medical centers need molecular techniques to identify C. auris accurately.
+<P>
+Once diagnosed, C. auris patients need to be isolated; medical equipment must be thoroughly disinfected; and strict precautions need to be enforced for health-care workers.
+Otherwise, outbreaks among already vulnerable people could become even more common.
+<P>
+The spread of C. auris highlights the need for coordinated local and international public-health initiatives to address the emerging problem of drug-resistant infections in hospitals.
+If private pharmaceutical companies are not going to invest in the development of novel or more effective drugs and new and better diagnostics, the public sector has to step in.
+The rise of the super-fungi must be stopped.

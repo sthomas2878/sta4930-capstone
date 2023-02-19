@@ -1,0 +1,48 @@
+<HEADLINE>
+Taking Systemic Risk Seriously
+<P>
+WASHINGTON, DC – There are two leading views about the world’s financial system.
+The first, heard mostly from executives at leading global banks and their allies, is that the system is safer than it has ever been.
+According to this view, the events that led up to the global financial crisis that erupted in 2008 cannot happen again; the reform process has succeeded.
+<P>
+By contrast, a growing group of current and former officials continues to express concern about current and potential future risks in the United States, Europe, and globally.
+US Treasury Secretary Jack Lew made such an argument in a recent congressional testimony, in the context of explaining why the Financial Stability Oversight Council (FSOC) should be allowed to consider whether any kind of firm or activity could pose a risk to the broader system.
+<P>
+And a striking new voice has joined the fray – Kara Stein, a commissioner at the Securities and Exchange Commission (SEC).
+Stein delivered a far-reaching speech in June, in which she argued that systemic risk must become a more central responsibility for financial-market regulators.
+<P>
+Systemic risk refers to problems that spill across different kinds of firms and markets, often in unexpected ways and sometimes very quickly.
+Perhaps the most prominent example from 2008 is the way that the failure of the investment bank Lehman Brothers risked brining about the imminent collapse of the insurer AIG, while also leading to intense pressure on money-market mutual funds.
+<P>
+Jeremy Stein (no relation to Kara Stein), until recently a governor of the US Federal Reserve System, has suggested that forced “fire sales” of assets are one important way that risks are transmitted.
+When asset prices fall as a result of such selling, the solvency of other firms can be affected – even if the creditworthiness of the underlying asset has not really changed.
+<P>
+Bank regulators are starting to take these issues more seriously – an encouraging change from the 1990s and early 2000s, when the Fed was among the cheerleaders for unfettered financial innovation, without adequate consideration for systemic risk.
+<P>
+But securities regulators also need to start thinking along the same lines – and this is where Kara Stein wants them to go.
+For example, the SEC has traditionally thought about adequate equity capital in a regulated business, primarily as the amount needed to help compensate customers in the event that individual firms fail.
+But it would be much better, as Stein suggests, to think about equity capital from a systemic perspective – that is, how much loss-absorption is needed to prevent some form of a cascading confidence crisis.
+<P>
+Similarly, regulators should start to think about how and when the structure of particular financial transactions creates a potential systemic risk.
+For example, short-term funding markets involve the supposedly safe business of borrowing against the collateral of tradable securities, which is a mainstay of how broker-dealers finance themselves.
+Unfortunately, as we discovered during the financial crisis, such markets can become less liquid or even dry up completely when lenders start to fear unforeseen problems, either with borrowers or with the assets that they pledge as collateral.
+<P>
+The systemic risks in this case do not necessarily lie with an individual firm; rather, the issue is the way in which a particular market has come to operate.
+Stein has some detailed and credible ideas about how to make such operations less risky for the system as a whole.
+<P>
+More broadly, however, her point is that we need the FSOC to be able to do its job – to look for and assess all kinds of potential systemic risks.
+This needs to be done as a technical matter, not as part of the political process.
+<P>
+Not everyone at the SEC is as sensible as Stein.
+There is also some friction among the various regulators in the US, and we surely need more coordination across national borders – including with Europe.
+But the real danger is that powerful lobbies, working through members of Congress, are pushing back hard against the FSOC and its mandate.
+<P>
+No one likes scrutiny, of course.
+And everyone in the asset-management industry seems to fear being put under the Fed’s microscope, which is what happens if the FSOC determines that a business is systemically important.
+<P>
+The nature of externalities means that financial firms do not care about the costs that they may create for others.
+Big and small firms can create a wide variety of externalities, and these have to be examined carefully and dispassionately – exactly as Stein is recommending.
+<P>
+And yet, though assessing systemic risk is a technical matter, there is ultimately and inevitably a political question.
+The FSOC can figure out where the risks are lurking, but will it be allowed to do its job?
+If not, when the next crisis comes, those who opposed the FSOC’s proper functioning will bear the lion’s share of the responsibility.

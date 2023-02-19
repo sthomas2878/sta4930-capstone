@@ -1,0 +1,65 @@
+<HEADLINE>
+Can Ethics Be Taught?
+<P>
+MELBOURNE – Can taking a philosophy class – more specifically, a class in practical ethics – lead students to act more ethically?
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Teachers of practical ethics have an obvious interest in the answer to that question.
+The answer should also matter to students thinking of taking a course in practical ethics.
+But the question also has broader philosophical significance, because the answer could shed light on the ancient and fundamental question of the role that reason plays in forming our ethical judgments and determining what we do.
+<P>
+Plato, in the Phaedrus, uses the metaphor of a chariot pulled by two horses; one represents rational and moral impulses, the other irrational passions or desires.
+The role of the charioteer is to make the horses work together as a team.
+Plato thinks that the soul should be a composite of our passions and our reason, but he also makes it clear that harmony is to be found under the supremacy of reason.
+<P>
+In the eighteenth century, David Hume argued that this picture of a struggle between reason and the passions is misleading.
+Reason on its own, he thought, cannot influence the will.
+Reason is, he famously wrote, “the slave of the passions.”
+<P>
+Hume spoke of “passions” in a wider sense than we understand that term today.
+Among what he called passions are our fellow-feeling or sympathy for others, and our concern for our own long-term interests.
+On Hume’s view, what other philosophers take to be a conflict between reason and emotion is really a conflict between these “calm passions” and our more violent and often imprudent passions.
+<P>
+Something like Hume’s view of reason is now influential in contemporary psychology.
+Jonathan Haidt, author of The Happiness Hypothesis and The Righteous Mind, uses a metaphor reminiscent of Plato, but in support of a view closer to Hume, to illustrate what he calls the social intuitionist perspective on ethics: “The mind is divided, like a rider on an elephant,” he writes on the first page of The Righteous Mind, “and the rider’s job is to serve the elephant.”
+The rider, in Haidt’s metaphor, is the mental process we control, mainly conscious reasoning, and the elephant is the other 99% of our mental processes, mostly our emotions and intuitions.
+<P>
+Haidt’s research has led him to see moral reasoning largely as post hoc rationalization of our automatic, intuitive responses.
+As a result, he writes, “I therefore became skeptical of direct approaches to fostering ethical behavior – particularly direct teaching in the classroom.
+We can’t just put moral knowledge into our students’ heads, and expect them to implement that knowledge after they leave the classroom.”
+<P>
+In The Righteous Mind, Haidt draws support for his views from research by the philosopher Eric Schwitzgebel of the University of California, Riverside, and Joshua Rust of Stetson University.
+On a range of ethical issues, Schwitzgebel and Rust show, philosophy professors specializing in ethics behave no better than professors working in other areas of philosophy; nor are they more ethical than professors who don’t work in philosophy at all.
+If even professors working in ethics are no more ethical than their peers in other disciplines, doesn’t that support the belief that ethical reasoning is powerless to make people behave more ethically?
+<P>
+Perhaps.
+Yet, despite the evidence, I am not entirely convinced.
+I have had a lot of anecdotal evidence that my classes in practical ethics changed the lives of at least some students, and in quite fundamental ways.
+Some became vegetarian or vegan.
+Others began donating to help people in extreme poverty in low-income countries, and a few changed their career plans so that they could do more to make the world a better place.
+<P>
+Two years ago, Schwitzgebel offered me an opportunity to test, more rigorously than had ever been done before, whether a class on the ethics of eating meat could change what students eat.
+Together with Brad Cokelet, a philosophy professor at the University of Kansas, we ran a study involving 1,143 students at the University of California, Riverside.
+Half the students were required to read a philosophical article defending vegetarianism, followed by a small group discussion with the option of watching a video advocating avoiding meat.
+The other half were a control group.
+They received similar materials and discussion on donating to help people in poverty.
+<P>
+We used information from campus dining cards to find out what food purchases the students in the two groups made before and after these classes.
+We had data on nearly 6,000 food purchases from 476 students.
+The purchases were identified with students who had, or had not, read and discussed the ethics of eating meat, but the data we received were made anonymous so that we could not identify any named student’s purchases.
+<P>
+The result was a decline, from 52% to 45%, in meat purchases among students in the meat ethics group, and the lower rate of meat purchases was maintained for a few weeks after the class.
+There was no change in the level of meat purchases in the charitable giving group (and we had no way of discovering whether these students gave more to charity).
+<P>
+Our results are, at this stage, preliminary and have not yet undergone peer review.
+We are seeking further data on the significance of watching the video – which may have appealed to students’ emotions more than their reason.
+Nevertheless, to our knowledge, this is the first properly controlled study, in the real world and not in a laboratory setting, of the impact of university-level philosophy classes on student behavior.
+The decline in meat-eating is not dramatic, but it is statistically significant, and suggests that in some contexts, ethical reasoning in the classroom can change behavior.

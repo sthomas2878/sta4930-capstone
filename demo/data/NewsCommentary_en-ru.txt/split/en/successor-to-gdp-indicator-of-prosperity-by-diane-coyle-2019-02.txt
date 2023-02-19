@@ -1,0 +1,61 @@
+<HEADLINE>
+What Will Succeed GDP?
+<P>
+CAMBRIDGE – Is the world becoming increasingly prosperous?
+It would be hard to answer “yes” right now, at least so far as the leading high-income economies are concerned.
+Yet the longstanding bellwether of economic progress – inflation-adjusted GDP – has been growing across most of the OECD since 2010, suggesting that everything is fine.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Some 80 years after GDP was introduced, nearly everyone (apart from the indicator’s stewards) has concluded that it is no longer a useful measure of economic progress.
+But there is no consensus yet on a possible replacement.
+Reaching agreement on an alternative will require a new concept of prosperity and a new way to measure whether living standards are improving.
+<P>
+There are several potential alternatives.
+One influential approach, pioneered by the Massachusetts Institute of Technology’s Erik Brynjolfsson and his co-authors, is to ask people how much they value free digital goods such as online search and social media, and then add the result to the conventional measurement of GDP.
+Their research indicates that the average person in the United States would need $17,530 per year to compensate for lack of access to online search, $8,414 for email, and so on.
+<P>
+These are large numbers relative to the US median per capita income of just over $31,000, indicating that the economic-welfare benefits of zero-money-price digital goods are high.
+This approach therefore captures some meaningful improvements in people’s lives that are currently excluded from GDP.
+But to generate a meaningful economic-welfare metric, the same technique should be applied to other important components of wellbeing not captured by GDP, such as the natural environment, leisure, and unpaid work in the home.
+<P>
+Another alternative, supported by a large and growing body of research in economics and psychology, is direct measurement of wellbeing or happiness.
+Surveys of reported levels of wellbeing are now available for many countries, and the idea of cutting to the chase by using this as the prosperity metric has strong advocates.
+But this option has several drawbacks, including the fact that indicators of wellbeing change little over time.
+Happiness surveys in rich countries, for example, typically show a score of six or seven on a 0-10 scale.
+<P>
+One way to make such indicators more directly relevant to policy would be to track the ways people use their time and attach wellbeing measures to each.
+For example, people like leisure and especially digital media, may or may not enjoy their work, and hate commuting.
+This approach holds an obvious attraction in a largely services-based economy where the major input is time to produce and time to consume, and where digital technology is clearly changing the way many people allocate their time.
+After all, who wakes up thinking about what to spend rather than what to do?
+<P>
+These two options are rooted in the utilitarian philosophy that the goal of policy is the greatest happiness for the greatest number of people at any moment.
+This accounts for the focus on income or expenditure in the existing GDP framework, and the resulting paradoxes such as the way a natural disaster can increase GDP.
+It also underlies the emphasis on directly tracking wellbeing in the moment.
+<P>
+A third possibility for a new prosperity metric is to return to the origins of statistics, from the Domesday Book to William Petty, and measure wealth rather than income.
+Embracing such a balance-sheet approach would immediately bring sustainability into the calculation of economic progress by revealing when future prosperity is being compromised for that of today.
+<P>
+Measuring people’s access to assets also draws on an ethical tradition, associated with the Nobel laureate economist Amartya Sen, which emphasizes people’s agency and ability to lead the kind of life they value.
+What matters here is access to human capital (health and skills), social capital (human relationships and networks), and infrastructure.
+The World Bank has emphasized the measurement of wealth, and the calculation of these “missing capitals” is moving up the research and statistical agenda.
+<P>
+It is both revealing and encouraging that the issue of economic measurement has prompted such vigorous and exciting research.
+But, in addition to devising a new indicator of prosperity, there is the question of how to implement the shift.
+Official statistics are similar to a technical standard.
+It’s hard for anyone to move from one framework to another without a lot of other people doing so at the same time.
+<P>
+Dissatisfaction with the prevailing GDP approach is therefore insufficient; a sufficiently large coalition has to agree to an alternative framework.
+Any successor to GDP also must be easily implementable, because statisticians will have to set out detailed definitions and methods, and collect the data.
+<P>
+Finally, and perhaps most important, there needs to be a public conversation about what is happening.
+Although very few people have the faintest idea about what GDP is or even what the acronym stands for, it is a single number that has gained the entrenched status that comes from long and frequent use.
+Its successor will need to be compelling and tell a persuasive story, consistent with experience, of what is happening in our economies.
+GDP may be toppling from its throne, but there is a long way to go before another composite indicator is crowned in its place.

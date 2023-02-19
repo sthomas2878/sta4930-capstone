@@ -1,0 +1,51 @@
+<HEADLINE>
+Completing the G-20’s Agenda
+<P>
+NEW YORK – The near-complete collapse of financial systems worldwide has exposed fundamental weaknesses in their architecture and in how they are regulated.
+In calling for measures to “guard against systemic risk,” the G-20 summit has begun the process of reconstruction by recognizing that the system in its entirety, not just individual institutions, must be regulated.
+<P>
+Unfortunately, the G-20 communiqué offers only more of the same prescriptions for managing systemic risk that the Financial Stability Forum (FSF), the United States Federal Reserve, and others have put forward.
+These proposals have focused on the problems caused by poor transparency, over-leveraging, outsized financial institutions, tax havens, bad incentives for financial bosses, and credit rating agencies’ conflicts of interest.
+All of these are important, but they miss a fundamental point.
+<P>
+No one now denies that the past year’s sharp downswings in housing and equity prices, which followed long upswings – far above historical benchmark levels – helped to trigger and fuel the crisis.
+As these downswings continue, there is a danger that they, too, may become excessive, dragging the financial system and the economy even deeper into crisis.
+<P>
+Containing systemic risks, therefore, requires not just ensuring transparency and managing leverage in the system, but also recognizing that these risks vary along with asset values. If institutions that were heavily exposed had understood this, they would have raised their capital buffers during the run-up in housing and equity prices in order to protect themselves against the inevitable reversals.
+But, as we now know, they did not.
+<P>
+One reason for this failure is that pillar 1 of the Basel II Agreement, which outlines how banks around the world should assess credit risks and determine the size of capital buffers, makes no explicit allowance for long-swing fluctuations in asset markets.
+Instead, it relies on value-at-risk (VaR) measures that link risk to standard notions of short-term market volatility.
+<P>
+The problem here is that these measures implicitly assume that risk declines when markets are doing well: they demand less capital during calm periods and more capital during volatile periods.
+In effect, the presumption is that capital losses are random, so the sharp reversals and losses that usually ensue after excessive upswings in prices are disregarded in risk calculations.
+<P>
+Indeed, because standard measures of the probability of default fall when the economy is doing well and rise when it is not, capital requirements based on these measures tend to be pro-cyclical.
+But this increases systemic risk, rather than reducing it.
+<P>
+The G-20 has now called for revising the Basel II standards so that capital requirements become countercyclical, and Spain’s experience with such requirements suggests that doing so is a step in the right direction.
+But such revisions of Basel II are not enough, because bank portfolios – especially those of international banks with large trading books – are vulnerable to the risks stemming from long-swing fluctuations in asset markets.
+<P>
+As a result, not only are countercyclical measures needed, but banks’ capital requirements should vary inversely with the boom-and-bust fluctuations in the asset markets to which they are heavily exposed.
+Banks’ defenses need to be fortified during excessive upswings in asset prices so that they are able to weather the inevitable reversals.
+<P>
+The connection between financial risk and asset-price swings emerges from the use of a new approach – Imperfect Knowledge Economics (IKE) – to understanding risk and fluctuations in asset markets.
+This approach implies that more can be done to reduce systemic risk, beyond reforming how risk is measured and capital buffers determined.
+<P>
+IKE acknowledges that, within a reasonable range, the market does a far better (though not perfect) job in setting prices than regulators can.
+But it also recognizes that price swings can become excessive, in the sense that participants may bid asset prices far from levels that are consistent with their long-term values.
+<P>
+History teaches that such swings are not sustainable, and that the more excessive they become, the sharper and more costly are the eventual reversals – and the graver the consequences for the financial system and the economy.
+The lesson of this crisis is that excessive swings need to be dampened with a set of prudential measures.
+<P>
+One possible measure is to announce “guidance ranges” for asset prices, with targeted variations of margin and capital requirements, not to eliminate, but to help damp down movements outside these ranges.
+The key feature of these measures is that they are applied differently depending on whether an asset is over- or undervalued relative to the guidance range.
+Their aim is to discourage trading that pushes prices further away from the range and to encourage trading that helps to bring them back.
+<P>
+Improving the ability of financial markets to self-correct to sustainable values is the entire point of prudential regulation.
+By contrast, wholesale restrictions on short-selling (and other such measures that pay no regard to whether an asset is over- or undervalued) – an option that some have suggested – could actually lead to greater instability.
+Rules that are beneficial in some circumstances may become counterproductive in others.
+So the idea that what the world needs now is more fixed rules will not do.
+<P>
+Unfortunately, contemporary economic theory, with its presumption of perfect price discovery in asset markets, has discouraged economists and policymakers from paying any attention to the role of asset-price swings in managing systemic risk.
+Today’s global crisis shows that we can no longer afford to ignore this vital factor.

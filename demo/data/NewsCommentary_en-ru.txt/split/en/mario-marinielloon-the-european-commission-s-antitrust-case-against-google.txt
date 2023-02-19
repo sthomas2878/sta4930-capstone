@@ -1,0 +1,61 @@
+<HEADLINE>
+Will Users Be Losers in “EU versus Google”?
+<P>
+BRUSSELS – Is Google’s dominance of online search coming to an end?
+That is a question worth asking, as the European Commission investigates antitrust allegations regarding Google’s online-search business model.
+<P>
+Type “Restaurant Florence” into Google’s search field, and a list of restaurants that you might want to visit during your next trip to Italy will appear.
+The top suggestions are Google’s own.
+Farther down the page, links to so-called “vertical search” sites – such as TripAdvisor, Fodor’s, ViaMichelin, and Lonely Planet – appear.
+<P>
+But users often do not see these links.
+With Google’s links capturing most of the site’s search traffic, concerns have been raised that Google manipulates its search algorithm to suppress the results of its competitors, while unfairly promoting its own services – a practice known as “search bias.”
+The European Commission has other concerns, too – namely, that Google might be using third-party content without authorization and entering into agreements to prevent its advertising partners from displaying ads on rival search engines.
+<P>
+Reservations about the use of third-party content could easily be addressed through carefully designed rules that would allow, say, content providers to opt out of Google’s results.
+Addressing concerns about Google’s display of vertical-search sites, which target specific industries or sectors, would be trickier.
+<P>
+Google controls roughly 90% of Europe’s search-engine market.
+Though other search engines exist, almost everyone surfs the Internet via Google.
+While this has attracted the antitrust authorities’ attention, it also highlights how much users value Google’s service.
+<P>
+Antitrust intervention is warranted if there are serious concerns to address.
+But unnecessarily invasive intervention could undermine the product that Google provides and deprive users of what they want: easy access to information.
+(Full disclosure: Bruegel, where I am a research fellow, is supported by a number of public and private members, including Google and Microsoft.
+Neither was involved in the writing of this commentary, and their contributions amounted to 1.3% of Bruegel’s total 2012 budget.
+A full list of members and their contributions can be found here.)
+<P>
+Earlier this year, in an effort to dispel the Commission’s concerns, Google offered to flag search results that draw users to Google’s own services.
+The company also proposed increasing the visibility of its rivals’ links by pushing them higher up on the results page, next to Google’s results.
+But the European Commission deemed the proposals inadequate.
+<P>
+Google’s next set of proposals extended its commitments to all devices, including mobile phones and tablets, and offered to increase its competitors’ visibility by allowing rivals to display logos next to their links.
+It also refined the auction mechanism to select rival links for display directly adjacent to Google’s.
+<P>
+On October 1, the European Union’s antitrust chief, Joaquín Almunia, responded to these proposals, saying that Google had “improved the commitments it [initially] offered.”
+Almunia is optimistic that a settlement will be reached next spring, so long as Google buttresses its proposals with evidence proving their effectiveness.
+<P>
+Google’s competitors remain skeptical.
+They believe that enhanced visibility for their links will not increase traffic to their Web sites, and claim that the only way to avoid abuse is to prevent Google from using its algorithm to rank search results.
+If they get their way, it could mean the death of Google’s business model.
+<P>
+But this debate misses a crucial point: the purpose of antitrust law is to protect consumers, not competitors.
+Google’s undue penalization of a particular vertical-search site matters only if the demotion of the site’s links harms end users.
+<P>
+Less than a year ago, the US Federal Trade Commission’s antitrust department heard a similar case.
+The FTC determined that, although Google sought an advantage over rival search engines, “the evidence did not demonstrate that Google’s actions…stifled competition.”
+After all, users can access other vertical-search engines if they so choose.
+The fact that they often do not indicates that users find Google’s search engine more appealing.
+<P>
+To be sure, the FTC’s findings are not directly applicable to Europe, because the European and US markets are different.
+Not only is Google’s market share in the EU much greater; European users may have different preferences.
+But it does not follow that the European Commission’s concerns are self-evident.
+Unfortunately, if there is a settlement, the Commission will not have to explain its investigation thoroughly, so we are unlikely to know how sound its case is.
+<P>
+There is certainly merit in seeking a settlement: concerns are addressed quickly, which is especially important in highly dynamic industries like Google’s.
+But settling is also a gamble, and Almunia has a tough call to make.
+If Google’s search practices really do harm consumers, Almunia risks agreeing to a settlement that does not solve the problem.
+If consumers are not suffering, Google’s proposed remedies are unnecessary.
+<P>
+In the worst-case scenario, Google’s proposals are implemented, and users discover that Google’s products are not as good as they used to be.
+Such an outcome would be bad for competition – and for consumers.

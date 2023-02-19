@@ -1,0 +1,51 @@
+<HEADLINE>
+Why Is the Fed Still Raising Interest Rates?
+<P>
+CAMBRIDGE – Earlier this month, the US Federal Reserve’s policy-setting Federal Open Market Committee (FOMC) voted unanimously to increase the short-term interest rate by a quarter of a percentage point, taking it from 2.25% to 2.5%.
+This was the fourth increase in 12 months, a sequence that had been projected a year ago, and the FOMC members also indicated that there would be two more quarter-point increases in 2019.
+The announcement soon met with widespread disapproval.
+<P>
+Critics noted that economic growth has slowed in the current quarter and that the Fed’s preferred measure of inflation (the rate of increase of the price of consumer expenditures) had fallen below the official 2% target.
+Given that the Fed has long said that its interest-rate policy is “data dependent,” why did it press ahead with its previously announced plan to continue tightening monetary conditions?
+<P>
+The FOMC statement announcing the latest interest-rate hike gave no explicit reason for it.
+Fed Chair Jay Powell’s remarks at his press conference also gave no reason for maintaining the originally planned rate increase despite the economic slowdown.
+<P>
+Determining the appropriate level of the interest rate depends on balancing a changing array of considerations.
+So what considerations might the FOMC have had in mind in deciding to raise the rate this month and projecting a higher rate in 2019?
+<P>
+There are three possibilities.
+First, the current level of the real (inflation-adjusted) interest rate is remarkably low.
+The most recent annual inflation rate as measured by the rise in the Consumer Price Index was 2.2%.
+Subtracting that inflation from the 2% nominal federal funds interest rate implies that the real interest rate was slightly negative before the recent increase and approximately zero even after it.
+<P>
+A zero real rate might be appropriate in a very depressed economy, but not in an economy in which real GDP was growing this year at more than 3% and the unemployment rate was an exceptionally low 3.7%.
+The Fed’s own estimate of the sustainable level of the unemployment rate is considerably higher, at 4.4%.
+<P>
+An extremely low real interest rate can cause a variety of serious problems.
+Businesses respond to the low cost of capital by taking on excessive debt.
+Banks and other lenders reach for yield by lending to low-quality borrowers and imposing fewer conditions on loans.
+Portfolio investors can drive up the price of equities to unsustainable levels.
+Governments are induced to run large deficits because the interest cost of servicing the resulting debt is relatively low.
+<P>
+A second reason for raising the interest rate is that the FOMC needs a higher level now so that it can reduce interest rates later, during the next economic downturn, when it needs to stimulate demand.
+The current expansion, one of the longest since World War II, has now lasted 114 months since the upturn began in June 2009.
+Although expansions don’t die of old age, there are enough warning signs – including falling equity prices, weakness in the housing sector, downturns in major European countries, and the uncertain level of US exports – to indicate that the next recession could begin during the next two years.
+<P>
+In the last three downturns, the Fed cut the fed funds rate by five percentage points, 4.8 percentage points, and 5.3 percentage points.
+But with a starting level of 2%, it could reduce the federal funds rate by only two percentage points before hitting zero.
+Although the Swiss National Bank and the European Central Bank have reduced their key interest rates below zero, that has created problems for their banking and insurance companies.
+Moreover, it is not clear what additional problems will occur as these central banks raise normalize their rates.
+<P>
+The third reason that the FOMC might have wanted to raise the rate is to return the real rate to the “neutral” level.
+Some economists have said that the neutral rate, the level that neither increases nor depresses overall demand, often referred to as r*, has declined substantially in recent years.
+But r* is not a number to be calculated in a straightforward way like the rate of inflation.
+It must be estimated with a complex economic model.
+Powell and others have emphasized that it is difficult to know the value of this “neutral” level.
+<P>
+My own view is that the calculations implying that the estimated value of r* has declined sharply in recent years really reflect the declining interest rate set by the Fed and other central banks.
+In the past, it was generally assumed that the real value of the neutral rate was equal to about 2%.
+Because the current real rate is close to zero, substantial increases are needed to get back to the traditional neutral level.
+<P>
+These three reasons, and perhaps others, justify the view at the FOMC that the current interest rate is too low and needs to be raised.
+Unfortunately, if anything, the recent increases may be too little and too late.

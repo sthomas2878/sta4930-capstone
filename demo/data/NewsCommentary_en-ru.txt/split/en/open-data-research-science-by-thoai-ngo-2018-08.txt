@@ -1,0 +1,60 @@
+<HEADLINE>
+Making Open Data a Reality
+<P>
+NEW YORK – The idea of open data has gone mainstream.
+Yet despite the far-reaching benefits of freely sharing data, there is still a long way to go before it becomes common practice.
+<P>
+In the last five years, major private and public research funders – including the Bill & Melinda Gates Foundation, the Wellcome Trust, the National Institutes of Health (NIH), and NASA – have instituted data-sharing policies, and municipal, state, and country governments in the United States have been promoting open data portals.
+Academic publishers, too, have embraced open data, and individual scholarly journals have established policies that encourage, expect, or even require sharing data.
+<P>
+But the actual practice of sharing data has stagnated.
+In Figshare’s 2017 open data report, 60% of 2,300 surveyed researchers declared that they shared their data “either frequently or sometimes,” but only 20-30% shared “frequently.”
+Another recent study of 1,200 researchers found that “less than 15% of researchers share data in a data repository.”
+Data openness is certainly not the default in my field, the social sciences.
+<P>
+Clearly, the prevailing policy approach to promoting open data – if you mandate it, they will share, to paraphrase Field of Dreams – is not working.
+To bring about change, researchers themselves must embrace data sharing.
+And to do that, we need the right information and incentives.
+In short, we need more carrots, rather than just sticks.
+<P>
+Make no mistake: a data-sharing requirement is essentially a stick.
+So is replication, the other most commonly cited argument in favor of data sharing.
+Of course, replicating studies is crucial, and science is now plagued by a reproducibility crisis.
+But, in a 2016 survey of 4,600 researchers, only 31% of researchers who shared data said they were motivated by “transparency and re-use.”
+<P>
+Major reasons why researchers hesitate to share their data, according to the same survey, include intellectual property or confidentiality issues, fears about misinterpretation or misuse of their work, or concerns that their research would be scooped.
+Given the “publish or perish” model that defines academic careers, and the competitive funding environment for all scientists, individuals benefit more from “owning” the data underlying their publications than from sharing their work.
+<P>
+It is time to shift the cultural conversation about data sharing from what researchers might “lose” to what they stand to gain – beginning with credit.
+The good news is that data journals where researchers can publish their datasets are already gaining traction.
+The number of citations in three of the largest open-access journals (Data in Brief, Biodiversity Data Journal, and Scientific Data) jumped from three in 2012 to 1,028 in 2016.
+<P>
+Another “carrot” is that data sharing maximizes return on investment for both researcher and donor.
+Currently, disparate study registries and data portals make it difficult for an individual researcher, collecting data with the goal of getting published in a high-impact journal, to find similar projects.
+That raises the risk that both research time and donor dollars will be wasted on work that directly overlaps with someone else’s.
+Data sharing would solve this problem.
+<P>
+Similarly, for a randomized evaluation in Zambia on which I worked, my colleagues and I collected data on approximately 2,500 adolescents and young adults.
+To meet our donor’s requirements, we are publishing findings on about 10% of that data in peer-reviewed journals, but we lack the funding to analyze the data set further (a common problem for researchers).
+If our unused data were openly available, however, we could attract new collaborators to return to it – and potentially generate stronger analyses.
+<P>
+Using existing, openly shared data makes it easier for researchers to reach across disciplines and formulate the kinds of innovative questions and research agendas that are far more likely to lead to groundbreaking discoveries.
+Beyond accelerating progress, the collaboration supported by data sharing boosts researchers’ ability to secure the funding they need, because donors are attracted to interdisciplinary, innovative work.
+<P>
+Yet, to make the most of data sharing, donors should also shift their mindset and invest more in quality data collection and management during project implementation, and sustain funding for curation and continued analysis of datasets.
+Researchers need to be given adequate time and resources to make the most of the data they collect, discerning the deeper stories that the evidence reveals.
+<P>
+Another positive impact of data sharing is that it supports future researchers, who can use the data we collected for, say, a dissertation.
+Early in my career as an NIH fellow, I was fortunate to have access to multiple internal datasets from researchers at the NIH and Johns Hopkins University, where I spent two years conducting secondary analyses across various settings.
+Building on previous work, I was able to publish a number of papers that advanced my research career.
+<P>
+Beyond better incentives for researchers and donors, a fundamental shift in the culture of science is needed to accelerate scientific progress, and several promising initiatives are underway.
+<P>
+For example, the Center for Open Science is promoting openness, integrity, and reproducibility of scholarly research.
+The Berkeley Initiative for Transparency in the Social Sciences is providing open data and training in research transparency, in order to strengthen the integrity of research and evidence used for policymaking.
+The Cochrane-REWARD prize is working to maximize the use of research funding, an estimated $170 billion of which is wasted each year.
+<P>
+While these initiatives address some of the obstacles to open data, more is needed to ensure that researchers are the driving force behind data sharing.The Girl Innovation, Research, and Learning Center, a global center for adolescent research at the Population Council that I direct, is building the world’s largest Adolescent Data Hub, a unique global portal where researchers, organizations, and others can share and access high-quality quantitative data on more than a million individuals.
+<P>
+We believe that open data can accelerate research transparency and innovative solutions that have a meaningful impact on the lives of the largest-ever generation of adolescents – 1.2 billion people.
+And we believe that as open-data practices become more widespread, the benefits of sharing and collaboration that they enable will extend much further.

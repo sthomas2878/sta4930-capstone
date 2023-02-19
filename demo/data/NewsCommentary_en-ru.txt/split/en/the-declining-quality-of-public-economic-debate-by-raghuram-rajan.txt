@@ -1,0 +1,71 @@
+<HEADLINE>
+The Paranoid Style in Economics
+<P>
+NEW DELHI – Why do high-profile economic tussles turn so quickly to ad hominem attacks?
+Perhaps the most well-known recent example has been the Nobel laureate Paul Krugman’s campaign against the economists Carmen Reinhart and Kenneth Rogoff, in which he moved quickly from criticism of an error in one of their papers to charges about their commitment to academic transparency.
+<P>
+For those who know these two superb international macroeconomists, as I do, it is evident that these allegations should promptly be dismissed.
+But there is the larger question of why the paranoid style has become so prominent.
+<P>
+Part of the answer is that economics is an inexact science, with exceptions to almost every pattern of behavior that economists take for granted.
+For example, economists predict that higher prices for a good will reduce demand for it.
+But students of economics will no doubt remember an early encounter with “Giffen goods,” which violate the usual pattern.
+When tortillas become more expensive, a poor Mexican worker may eat more of them, because she now has to cut back on more expensive food like meat.
+<P>
+Such “violations” occur elsewhere as well.
+Customers often value a good more when its price goes up.
+One reason may be its signaling value.
+An expensive handcrafted mechanical watch may tell time no more accurately than a cheap quartz model; but, because few people can afford one, buying it signals that the owner is rich.
+Similarly, investors flock to stocks that have appreciated, because they have “momentum.”
+<P>
+The point is that economic behavior is complex and can vary among individuals, over time, between goods, and across cultures.
+Physicists do not need to know the behavior of every molecule to predict how a gas will behave under pressure.
+Economists cannot be so sanguine.
+Under some conditions, individual behavioral aberrations cancel one another out, making crowds more predictable than individuals.
+But, under other conditions, individuals influence one another in such a way that the crowd becomes a herd, led by a few.
+<P>
+The difficulties for economic policymakers do not stop there.
+Economic institutions can have different effects, depending on their quality.
+In the run-up to the 2008 financial crisis, macroeconomists tended to assume away the financial sector in their models of advanced economies.
+With no significant financial crisis since the Great Depression, it was convenient to take for granted that the financial plumbing worked in the background.
+<P>
+Models, thus simplified, suggested policies that seemed to work – that is, until the plumbing backed up.
+And the plumbing malfunctioned because herd behavior – shaped by policies in ways that we are only now coming to understand – overwhelmed it.
+<P>
+So, why not let evidence, rather than theory, guide policy?
+Unfortunately, it is hard to get clear-cut evidence of causality.
+If high national debt is associated with slow economic growth, is it because excessive debt impedes growth, or because slow growth causes countries to accumulate more debt?
+<P>
+Many an econometrician’s career has been built on finding a clever way to establish the direction of causality.
+Unfortunately, many of these methods cannot be applied to the most important questions facing economic policymakers.
+So the evidence does not really tell us whether a heavily indebted country should pay down its debt or borrow and invest more.
+<P>
+Moreover, what seem like obvious, commonsense policy solutions all too often have unintended consequences, because a policy’s targets are not passive objects, as in physics, but active agents who react in unpredictable ways.
+For example, price controls, rather than lowering prices, often cause scarcity and the emergence of a black market in which controlled commodities cost significantly more.
+<P>
+All of this implies that economic policymakers require an enormous dose of humility, openness to various alternatives (including the possibility that they might be wrong), and a willingness to experiment.
+This does not mean that our economic knowledge cannot guide us, only that what works in theory – or worked in the past or elsewhere – should be prescribed with an appropriate degree of self-doubt.
+<P>
+But, for economists who actively engage the public, it is hard to influence hearts and minds by qualifying one’s analysis and hedging one’s prescriptions.
+Better to assert one’s knowledge unequivocally, especially if past academic honors certify one’s claims of expertise.
+This is not an entirely bad approach if it results in sharper public debate.
+<P>
+The dark side of such certitude, however, is the way it influences how these economists engage contrary opinions.
+How do you convince your passionate followers if other, equally credentialed, economists take the opposite view?
+All too often, the path to easy influence is to impugn the other side’s motives and methods, rather than recognizing and challenging an opposing argument’s points.
+Instead of fostering public dialogue and educating the public, the public is often left in the dark.
+And it discourages younger, less credentialed economists from entering the public discourse.
+<P>
+In their monumental research on centuries of public and sovereign debt, the normally very careful Reinhart and Rogoff made an error in one of their working papers.
+The error is in neither their prize-winning 2009 book nor in a subsequent widely read paper responding to the academic debate about their work.
+<P>
+Reinhart and Rogoff’s research broadly shows that GDP growth is slower at high levels of public debt.
+While there is a legitimate debate about whether this implies that high debt causes slow growth, Krugman turned to questioning their motives.
+He accused Reinhart and Rogoff of deliberately keeping their data out of the public domain.
+Reinhart and Rogoff, shocked by this charge – tantamount to an accusation of academic dishonesty – released a careful rebuttal, including online evidence that they had not been reticent about sharing their data.
+<P>
+In fairness, given Krugman’s strong and public positions, he has been subject to immense personal criticism by many on the right.
+Perhaps the paranoid style in public debate, focusing on motives rather than substance, is a useful defensive tactic against rabid critics.
+Unfortunately, it spills over into countering more reasoned differences of opinion as well.
+Perhaps respectful debate in economics is possible only in academia.
+The public discourse is poorer for this.

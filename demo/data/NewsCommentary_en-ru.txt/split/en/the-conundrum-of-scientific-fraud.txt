@@ -1,0 +1,64 @@
+<HEADLINE>
+The Conundrum of Scientific Fraud
+<P>
+Science, and the behavior of scientists, has never been perfect.
+Consider the Korean scientist Hwang Woo-suk, whose claim to have extracted stem cells from human embryos that he cloned turned out to be based on phony research.
+Hwang has just been fired by Seoul National University, and six of his co-workers have been suspended or had their pay cut.
+<P>
+Hwang and his colleagues are hardly alone.
+In response to the recurrence of well-publicized and highly damaging scandals in recent years, many universities and some entire national research funding agencies now convene “institutional review boards” to deal with breaches of what has come to be known as “research ethics.”
+<P>
+But are such boards necessary?
+If so, in what spirit should they conduct their work?
+<P>
+From artists to scientists, all intellectual workers are preoccupied with the giving and taking of credit.
+Hiring, promoting, and rewarding academic staff is increasingly based on “citation counts” – the number of times someone receives credit in peer-approved publications.
+Even if someone’s work is criticized, it must be credited properly.
+<P>
+Credit is often given simply because someone has produced a creditable work.
+But, increasingly, the fixation on credit reflects the work’s potential monetary value.
+And, however one defines the creditworthiness of intellectual work, one thing is clear: reported cases of fraud are on the rise.
+<P>
+Sometimes fraud consists in plagiarism: the culprit takes credit for someone else’s work.
+However, especially in the most competitive scientific fields, fraud often takes the form of forgery: the culprit fabricates data.
+Plagiarism is the sin of the classroom; forgery is the sin of the laboratory.
+But in neither case has a standard method emerged for ensuring the integrity of research – or of the scientists who carry it out.
+<P>
+A useful simplification in addressing the potential work of research ethics panels is to consider two models of review: “inquisitorial” and “accusatorial.”
+Whereas the inquisitorial model presumes that fraud is rampant, but often undetected, the accusatorial model adopts a less paranoid stance, presuming that researchers are innocent until proven otherwise.
+<P>
+The natural context for an inquisitorial system is a field where scientific integrity is regularly under threat because research is entangled with political or financial interests.
+Often, these entanglements are unavoidable, especially in the case of biomedical research.
+Here the inquisitors are part cost accountant, part thought police.
+They conduct spot-checks on labs to ensure that the various constituencies for scientific research are getting their money’s worth.
+<P>
+Inquisitors must be invested with the power to cut off funding to transgressors, perhaps even excommunicating them, by barring a scientist from practicing or publishing in the future.
+Hwang, for example, has lost his research license and has been banned from assuming another public post for five years.
+<P>
+However, the credibility of such a system relies on the inquisitors’ ability to uphold standards of science that are genuinely independent from special interests both inside and outside the research community.
+Otherwise, inquisitorial ethics reviews could come to be regarded as nothing more than intellectual vigilantism.
+<P>
+Consider the Danish Research Council’s ominously named “Committee on Scientific Dishonesty,” which was convened in 2002 following complaints raised against the political scientist Bjørn Lomborg, whose book The Skeptical Environmentalist purported to demonstrate that ecologists systematically biased their interpretation of data to support their political objectives.
+<P>
+The Committee initially found Lomborg guilty of much the same error that he had alleged of the ecologists.
+However, the Committee refused to comment on whether his behavior was normal or deviant for the field in question.
+This enabled Lomborg to appeal the verdict, successfully, claiming that the Committee had victimized him for political reasons, given his recent appointment as director of a major national institute for environmental research.
+<P>
+In the end, the Committee on Scientific Dishonesty was itself reorganized.
+In retrospect, the Committee probably should have refused the case, given that Lomborg’s book was subject to intense public scrutiny, often by experts writing (favorably) in The Economist and (unfavorably) in Scientific American.
+His was a genuine case in which intellectual work was given a fair trial in the proverbial “court of public opinion” and required no further oversight.
+<P>
+Indeed, Lomborg’s case would seem to support the accusatorial model of ethics review, which assumes that scientists adequately regulate their own affairs through normal peer-review procedures.
+Here, scientific integrity is understood not as a duty to stakeholders—funders, companies, or, as with Hwang, politicians concerned about national prestige—but as a collective responsibility that is upheld by identifying and correcting errors before they cause substantial harm.
+<P>
+The accusatorial system is designed for those relatively rare cases when error slips through the peer-review net, resulting in some concrete damage to health or the environment, or causing the corruption of later research that assumes the validity of fraudulent work.
+To lodge an accusation, the accuser must establish that some harm has been committed, which is then shown to have been the fault of the accused.
+<P>
+The countervailing assumptions of the inquisitorial and accusatorial systems reflect the ambiguity of the concept of scientific fraud.
+Many so-called frauds are cases in which researchers claimed credit for work they have not really carried out, but that pointed in the right direction and was eventually completed by others.
+Strictly speaking, they are guilty more of confusing the potential and the actual than the true and the false.
+<P>
+Indeed, by today’s standards, Galileo and Mendel committed fraud, since they likely massaged their data to fit a neat mathematical formula.
+However, they remain scientific visionaries because others built so effectively on their “work.”
+Of course, in their cases, no money changed hands and no one’s life was jeopardized.
+Perhaps, from the point of view of research ethics, that makes all the difference.

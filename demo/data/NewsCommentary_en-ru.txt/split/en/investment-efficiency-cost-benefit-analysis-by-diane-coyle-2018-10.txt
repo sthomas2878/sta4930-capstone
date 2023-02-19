@@ -1,0 +1,50 @@
+<HEADLINE>
+Can Investments Be Too Efficient?
+<P>
+CAMBRIDGE – In 1831, when Charles Darwin boarded The Beagle for its five-year voyage of exploration, ships navigated with the help of chronometers, which showed the precise time at a reference location.
+That time, when compared to the local solar noon, could be used to determine current longitude.
+To ensure precision – the motion of the waves affected timekeeping – a ship needed at least three chronometers.
+The Beagle had 22.
+<P>
+Like the nineteenth-century voyager, the modern engineer prizes redundancy, in the form of back-up and failsafe mechanisms (most would consider the standard triplicate provision to be adequate).
+Economists, however, privilege efficiency over redundancy – an approach that, despite its obvious merits, also has shortcomings.
+<P>
+To be sure, it would be a caricature to say that an economist’s perspective disparages backups in safety-critical systems.
+But, when it comes to investment decisions, economists focus on the most efficient use of resources, as revealed by cost-benefit analysis.
+<P>
+There is obviously a lot of sense in this: public policy – whether spending taxpayer money or regulating business – should return as much value as possible.
+The cost-benefit analysis helps to ensure that excessive optimism does not lead to wasteful spending.
+It can also avert the strategic gaming of investment decisions, driven by, say, competition between regions or among suppliers for taxpayer-funded projects.
+<P>
+In a new book, The Cost-Benefit Revolution, the American legal scholar Cass Sunstein applauds the gradual expansion of reliance on cost-benefit analyses to guide regulatory policy in the United States since the 1980s.
+Other countries also use cost-benefit analysis, with the United Kingdom’s Treasury, for example, publishing a manual on how to conduct one.
+<P>
+But efficiency isn’t everything, and the long-term benefits of an investment are not always clear from the start.
+In fact, we should be glad that earlier generations were not tethered to cost-benefit analysis.
+<P>
+In Victorian London, the engineer Joseph Bazalgette built a sewage system with enough capacity to last for over 150 years; it is only now being expanded.
+Thomas Jefferson thought that the Erie Canal project was madness, yet its cost – around $100 billion in today’s dollars – was recouped relatively quickly.
+No economist wielding plausible estimates of discount rates and expected benefits would have supported the construction of the Sydney Opera House – or any of the iconic municipal buildings gracing many cities worldwide; utilitarian concrete cubes would have been far more efficient.
+<P>
+The challenge is to distinguish potentially iconic projects from the more common white elephants for which operational and maintenance costs are out of line with value.
+And construction often ends up costing far more than anticipated.
+Bent Flyvbjerg, an expert on mega-projects, describes them as “over budget, over time, over and over again,” showing that nine out of ten have cost overruns – often of 50% or more of the original estimate.
+<P>
+Part of the challenge in assessing major or (potentially) iconic investment projects is that standard cost-benefit analysis does not work for projects that are likely to change significantly the economy’s growth rate, as the Erie Canal did, by stimulating trade.
+It works only for smaller marginal decisions.
+It certainly does not account for the power of narratives to shape economic outcomes, as described by the Nobel laureate economist Robert J. Shiller.
+<P>
+Economists should recognize the limitations of cost-benefit analysis and offer a more rigorous method for analyzing the non-marginal, non-linear feedback mechanisms that affect major investments.
+More broadly, efficiency cannot be the sole criterion for organizing the economy.
+That should have become obvious a decade ago, when the systemic vulnerabilities of financial markets, with their single-minded focus on profit maximization, were laid bare.
+<P>
+Similarly, just-in-time supply chains – which cut costs by reducing the amount of goods and materials held in stock – have proved vulnerable to natural disasters (like floods) or other disruptions (like worker strikes).
+At a time when protectionism is on the rise, the risk of trade disruptions is only increasing.
+<P>
+From a political perspective as well, optimal efficiency is not always desirable.
+In a democracy, reconciling conflicts of interest among stakeholders may require that we sacrifice some efficiency.
+One might think of it as a form of redundancy that delivers political resilience.
+<P>
+Determining exactly how much efficiency should be sacrificed, and in which cases, is never easy.
+Even The Beagle may have overdone the redundancy: it returned in 1836 with 11 of its onboard chronometers still working.
+But given the long-term impact of Darwin’s work on that voyage, the benefits vastly outweighed the unnecessary cost.

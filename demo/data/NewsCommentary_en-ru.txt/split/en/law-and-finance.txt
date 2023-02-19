@@ -1,0 +1,50 @@
+<HEADLINE>
+Law and Finance
+<P>
+CAMBRIDGE: Only investor rights protected by law bring the power to extract from managers a return on investment.
+Shareholders receive dividends because they can vote out directors (and indirectly management) who do not pay them; creditors are paid because they have the power to repossess collateral.
+Without legal rights, investors would not get paid, and firms would lose the power to raise funds.
+The rights attached to stocks and bonds are what managers give up to get finance.
+<P>
+Countries differ in how they finance and control their companies.
+Why do Italian companies rarely go public?
+Why does Germany have a small stock market but very large and powerful banks?
+Why were Russian stocks nearly worthless immediately after privatization -- by some estimates one hundred times cheaper than Western stocks backed by comparable assets -- and why did Russian companies have virtually no access to external finance?
+Why is ownership of large American and British companies so widely dispersed?
+The content of legal rules in different countries sheds light on these questions.
+<P>
+Among the important legal rules that protect investors are shareholder voting rights, and rights that support minority owners against insider manipulation and abuse.
+Investors may be better protected, for example, when dividend rights are tightly linked to voting rights through the one-share-one-vote principle.
+Here insiders, who contribute only a fraction of a company’s equity, cannot maintain voting control and appropriate to themselves all the cash flows.
+But in many countries companies can issue non-voting shares, low and high-voting shares, or shares whose votes increase when they are held longer.
+Companies in many countries can also restrict the total number of votes that any given shareholder can exercise at a shareholders’ meeting, regardless of how many shares he controls.
+Remarkably only about 20% of countries around the world have adopted legal rules consistent with the one-share-one-vote principle (although in some countries the principle is strengthened by private stock exchange rules).
+<P>
+Laws may also allow practices that make shareholder rights difficult to exercise, even if they are formally protected.
+In some countries (20%), shareholders can vote by mail, which makes it easier for them to cast their votes; in others they must show up in person, or send an authorized representative to a shareholders’ meeting.
+(In Japan, where voting by mail is not allowed, about 80% of companies hold annual meetings in the same week, making it difficult for shareholders to vote.)
+Or the law may require that shareholders deposit their shares with the company or a financial intermediary several days prior to a shareholder meeting and that owners cannot get them back until a few days after the meeting.
+Shareholders who do not bother to jump such hurdles are kept from voting.
+<P>
+Laws in different countries are typically not written from scratch, but rather transplanted -- voluntarily or otherwise -- from a few legal families or traditions.
+In general, commercial laws come from two broad traditions: common law (developed originally by judges in England) and civil law (deriving from Roman legal principles and codified in various countries of continental Europe, with the French and German codes being the most influential).
+Although there are common strands to both traditions and country differences are important, research conducted in 49 countries around the world points to a striking conclusion: over all, civil law gives investors weaker legal rights than the common law.
+The most dramatic difference is between common law countries and the countries that model their legal system on the French, with German and Scandinavian models somewhere in-between.
+The comparison is similar with respect to protection of creditors’ rights.
+<P>
+Fully 39% of common law countries allow shareholders to vote by mail, as opposed to only 9% of French civil law countries.
+Common law countries never block shares for shareholder meetings; have the highest (92%) incidence of laws protecting minority owners (such as allowing shareholder derivative suits or forcing controlling shareholders to buy out an unhappy minority), and generally require relatively few shares (9%) to call an extraordinary shareholder meeting (which makes it easier for minority shareholders to challenge incumbent insiders).
+As opposed to this, French civil law countries much more often (43%) block shares before meetings, require a higher percentage (14%) of share capital needed to call an extraordinary shareholders’ meeting, and more rarely (33%) protect minority shareholders from managerial oppression.
+Unlike the civil law countries relying on German and Scandinavian models, French civil law countries lag all others in terms of the quality of law enforcement.
+<P>
+One result of all this is that many French civil law systems rely on remedial measures such as mandatory dividends, suggesting that these are needed because shareholders have relatively few legal rights.
+But most often, it seems, countries with poor investor protections compensate through concentrated ownership structures -- hence the highest concentration of ownership is in French civil law countries and the lowest in common law countries.
+The idea is that, when investors have few legal rights, managers can be induced to give them their due only if a small number of investors effectively control the company.
+In contrast, when legal protections are stronger, ownership may be more dispersed and small investors (who do not have significant day-to-day influence on company affairs) can expect a return on their capital.
+Some legal systems may thus be costly in terms of future investment, hence growth, because firms are likely to face difficulties raising equity finance from minority investors.
+<P>
+If certain legal systems are less conducive to commerce, why do they persist?
+If the most widely spread legal family -- the French civil law tradition -- appears to have the worst effects on corporate governance, how can it be so popular?
+One possible answer is that, when countries adopt a legal system, leaders focus on more general features (such as its revolutionary spirit) and on rights more basic than those of investors.
+Reformers borrow legal systems wholesale, without excessive focus on whether shareholders can vote by mail.
+Yet, once adopted, a legal system is very difficult to change despite its adverse impact on a country's commercial system, and probably its growth prospects as well.

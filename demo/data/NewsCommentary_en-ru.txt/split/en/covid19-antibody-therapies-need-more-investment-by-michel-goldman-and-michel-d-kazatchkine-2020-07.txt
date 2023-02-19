@@ -1,0 +1,51 @@
+<HEADLINE>
+The Case for COVID-19 Antibody Therapies
+<P>
+BRUSSELS/GENEVA – As many countries progressively relax their COVID-19 containment measures, preventing a renewed spread of the coronavirus from emerging infection clusters will be key to controlling the pandemic.
+And this will require the world to develop innovative new treatments.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+So far, policymakers have relied on non-pharmaceutical interventions such as testing, contact tracing, and quarantines to prevent a second wave of infections.
+Meanwhile, the search for COVID-19 therapies and prophylactic medicines has focused on products that could be immediately available, meaning existing drugs that were developed to treat other conditions.
+This approach has been largely unsuccessful, although a recent randomized clinical trial in the United Kingdom revealed that the dexamethasone corticosteroid reduced COVID-19 mortality in the most severe cases.
+<P>
+Vaccines will of course be essential to overcoming COVID-19.
+But if and when they become available, it will still take many months to vaccinate enough people so that societies reach the level of collective immunity needed to halt the coronavirus.
+And the efficiency of any vaccine will likely vary depending on a person’s genetic background, associated diseases, and age.
+Furthermore, vaccine access and coverage might be limited by production capabilities, economic considerations, and anti-vaccine sentiment among the population.
+<P>
+That means we must also focus on developing new weapons that can directly target SARS-CoV-2, the virus that causes COVID-19.
+And, besides anti-viral chemical drugs, genetically engineered antibodies might be ideal for this purpose.
+<P>
+Such antibodies are precisely tailored to neutralize the proteins that allow the SARS-CoV-2 virus to penetrate human cells.
+Moreover, they provide immediate immunity, which is critical not only to minimize organ damage but also to protect health-care professionals and the infected person’s contacts.
+<P>
+The concept behind this type of immunotherapy was pioneered in France and Germany more than a century ago, when antibodies contained in the serum of immunized animals saved the lives of thousands of children during diphtheria epidemics.
+The same principle lies behind the current clinical trials using plasma from recovering COVID-19 patients.
+But because not all antibodies are protective – indeed, some can even aggravate disease – researchers are focusing on those known for their anti-viral activity.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Contemporary genetic engineering can produce highly specific humanized antibodies.
+Although these biological agents are best known for revolutionizing the treatment of cancer and autoimmune diseases, there is already evidence of their efficacy as anti-infectious agents.
+<P>
+For example, the palivizumab antibody is used to prevent respiratory syncytial virus infections in infants, while other antibodies have been found to prevent or treat anthrax.
+And another has proven effective in helping HIV-infected people who are resistant to standard treatments.
+Most recently and relevantly, a cocktail of antibodies soon to be approved by the US Food and Drug Administration (FDA) was found to reduce Ebola mortality among patients.
+<P>
+Regeneron Pharmaceuticals, the US biotechnology firm that produced the Ebola antibodies, is now using its proprietary technology to develop a cocktail of two COVID-19 antibodies that are currently being tested in human trials.
+On July 7, Regeneron Pharmaceuticals announced that it had received a $450 million contract to manufacture and supply the antibody cocktail as part of the Biomedical Advanced Research and Development Authority’s (BARDA) Operation Warp Speed.
+Several other companies are developing antibodies with the help of US government funding via the Accelerating COVID-19 Therapeutic Interventions and Vaccines partnership.
+This initiative involves BARDA, the National Institutes of Health, the FDA, and the US Department of Defense, together with major pharmaceutical firms and philanthropic organizations such as the Bill & Melinda Gates Foundation.
+<P>
+Unfortunately, antibody therapies are currently receiving less attention in the European Commission’s Coronavirus Global Response.
+This effort, which the Commission developed in collaboration with other governmental, corporate, and philanthropic organizations, aims to support the Access to COVID-19 Tools (ACT) Accelerator that the World Health Organization and other global partners launched in April.
+But the Economist Intelligence Unit reports that the COVID-19 Therapeutics Accelerator, a co-convenor of the ACT initiative, had so far invested only $59 million, mostly in clinical trials exploring the potential benefits of repurposed drugs.
+<P>
+Several challenges still need to be addressed before genetically engineered antibodies can join the fight against COVID-19.
+These include increasing the antibodies’ stability in vivo to optimize the number of doses required, and decreasing manufacturing costs in order to make the therapy economically viable.
+<P>
+Funding organizations must now invest more resources to overcome these remaining hurdles.
+The rewards are potentially huge: antibody treatments that not only rapidly control viral replication in COVID-19 patients, but possibly also prevent vulnerable individuals from contracting the disease.

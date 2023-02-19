@@ -1,0 +1,60 @@
+<HEADLINE>
+The Task Ahead for Brazil
+<P>
+SÃO PAULO – Brazil is confronting a triple crisis: a severe economic downturn, a corruption scandal that has ensnared the commanding heights of the economy and politics, and a government crisis that may soon culminate in the impeachment of President Dilma Rousseff.
+Regardless of whether Rousseff is removed from power, the key issue raised by the impeachment threat – her management of fiscal policy – underscores the need to overhaul Brazil’s economic institutions.
+<P>
+At the heart of the impeachment charges against Rousseff is an accusation that she violated Brazil’s Fiscal Responsibility Law.
+In 2014, facing re-election, Rousseff stepped up the practice of running overdrafts in public commercial banks in order to pay for social programs.
+In essence, she “borrowed” R$55.6 billion ($15.6 billion) to help her government meet its primary-surplus target while sustaining social transfers – and thus ensure her election victory.
+<P>
+In 2015, however, the federal accounting tribunal (TCU) rejected her accounts and accused Rousseff of committing fiscal irregularities.
+After the TCU decision, she decided to “pay” off these “loans” in December 2015.
+<P>
+Where did this money actually come from?
+So far, the impeachment debate has focused on politics, rather than on this precise economic and institutional concern.
+But if this type of fiscal legerdemain is not to recur, it is crucial to rethink Brazilian institutions, notably the central-bank’s relationship with the government.
+<P>
+Technically, a significant part of the repayment of this “borrowed” money came from the distribution of central-bank gains.
+But what gains?
+The accounting rules applied to the Central Bank of Brazil (BCB) allow for bi-annual transfers of gains (and losses) to the Treasury, which include unrealized profits.
+Currently, one of the most important sources is the accounting valuation of foreign-exchange reserves on the BCB’s balance sheet.
+<P>
+Brazil has more than $355 billion in reserves.
+I have argued elsewhere that the accumulation of reserves, despite its economic costs, gave Brazil political leverage internationally, by reducing its dependence on multilateral organizations.
+Since 2015, foreign-exchange reserves, combined with a complex regulatory environment, are also supporting domestic fiscal policies, with problematic implications for monetary policy and its autonomy.
+<P>
+A 2008 law created a procedure called “foreign exchange equalization,” similar to a swap.
+The BCB transmits to the Treasury the carrying cost of foreign-exchange reserves (the difference between their profitability, including changes in exchange rates, and the average funding cost) and the result of the currency swaps carried out in the domestic market (which are settled in local money).
+<P>
+Due to the US dollar’s sharp appreciation relative to the real in 2015, the foreign-exchange equalization result was more than R$45 billion higher than in 2014.
+This “gain” was deposited in the Treasury’s account at the BCB.
+In fact, the Treasury issued only R$1.5 billion in new bonds to cover the fiscal gap in 2015, with R$49.8 billion coming from “other sources” in the Treasury’s account at the central bank.
+<P>
+But such a massive distribution of a central bank’s gains can generate potential conflicts with its mission.
+A monetary authority is supposed to manage the money supply effectively, not generate gains.
+The BCB’s increasing gains, based on unrealized profits, risk seriously undermining its autonomy.
+<P>
+That autonomy is not based on law.
+The BCB’s governors have no fixed-term mandate and are supposed to follow the provisions of the National Monetary Council, a politically appointed body.
+But, since the adoption of inflation targeting in 1999, a certain degree of operational autonomy has been crucial to maintaining the credibility of monetary policy.
+<P>
+So what happened after the BCB transferred its unrealized profits to the Treasury?
+The government’s “repayment” of its “loans” caused liquidity to grow, forcing the BCB to intervene to meet its key interest-rate target.
+But open-market operations can be conducted only with Treasury securities: Brazil’s Fiscal Responsibility Law prohibits the BCB from issuing its own.
+<P>
+The combination of all these rules is damaging Brazil’s institutions.
+The Treasury has no incentive to increase the public debt by issuing more bonds for monetary policy.
+And even if the Treasury had issued R$40 billion in bonds within a week of the “settlement” of Rousseff’s “loans,” the government could legally have decided not to issue new securities, after all, blocking the proper functioning of monetary policy.
+<P>
+The only institutional answer, formulated recently by Finance Minister Nelson Barbosa, has been to introduce the possibility of central-bank remuneration of bank reserves.
+The BCB could then complement, or even replace, Treasuries’ repos, thereby framing its actions as money management and relocating it in the central bank.
+<P>
+Although I agree with Barbosa that monetary, not fiscal, instruments would better address this liquidity problem, the manipulation of reserves is less effective than securities in this regard, because reserves (and term deposits) are usually non-tradable.
+In fact, the crucial reform is to permit the BCB to issue its own securities.
+<P>
+Central bank bonds are a critical tool – especially for emerging countries – for managing the domestic monetary effects of huge amounts of foreign assets, particularly with respect to liquidity.
+Such instruments can ensure the central bank’s autonomy in managing money, while stimulating the development of the local bond market.
+<P>
+Brazil has an opportunity to restructure its key economic institutions, by combining the creation of new monetary tools with an overhaul of the relationship between the BCB and the Treasury.
+Once the immediate political crisis diminishes, Brazil needs to turn its attention to this reform imperative.

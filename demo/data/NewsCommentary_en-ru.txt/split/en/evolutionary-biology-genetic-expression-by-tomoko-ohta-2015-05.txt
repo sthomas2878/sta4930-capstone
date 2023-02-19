@@ -1,0 +1,48 @@
+<HEADLINE>
+Evolution’s New Frontiers
+<P>
+MISHIMA – Recent breakthroughs in our understanding of molecular mechanisms have revolutionized many fields of biology, including cell biology and developmental biology.
+So it is no surprise that these advances are providing valuable insights into the field of evolutionary biology as well, including evidence supporting the nearly neutral theory of molecular evolution that I developed in 1973.
+<P>
+As is typical in science, each new discovery in evolutionary biology raises as many questions as it answers.
+Indeed, my field is now going through one of the most dynamic periods in its 150-year history.
+<P>
+For roughly a century after the publication of Charles Darwin’s On the Origin of Species, scientists believed that genetic mutations were governed by a process similar to that described by the father of natural selection.
+The idea was that individuals with superior genetic variants would be more likely to survive, reproduce, and pass on their genes than those without them.
+<P>
+As a result, harmful mutations would quickly die out.
+Beneficial ones would spread until the entire species carried them.
+Evolutionary changes, including morphological ones, were thought to be the result of the accumulation and distribution of beneficial mutations, and the genetic makeup of populations was believed to be close to homogeneous, with only a few rare, random mutations creating differences between one individual and another.
+<P>
+That view was challenged by the discovery of DNA.
+As it became possible to analyze an individual’s genetic makeup, it become apparent that there was much more variation within populations than prevailing evolutionary theory predicted.
+Indeed, individuals could have similar traits but very different gene sequences.
+This appeared to contradict the principles of natural selection.
+<P>
+One of the first attempts to square the theory with the evidence was proposed by my late colleague Motoo Kimura, who posited the existence of neutral mutations – gene variants that are neither advantageous nor harmful to an individual, and therefore not influenced by natural selection.
+Kimura examined the rate of evolutionary change of proteins and proposed the neutral theory of molecular evolution in 1968.
+His theory – which held that evolutionary changes at the molecular level are caused not by natural selection, but by random genetic drift – provided a good explanation for the genetic variation that researchers had discovered.
+<P>
+Kimura’s theory was simple and elegant, but the classification of mutations into the distinct classes – beneficial, neutral, or harmful – seemed too simple to me.
+My own work showed that borderline mutations, those with very small positive or negative effects, could be very important in driving evolutionary changes.
+This insight was the basis of the nearly neutral theory of molecular evolution.
+<P>
+The explosion of data on genomes and population genetics in the twenty-first century has not only lent new support to my 42-year-old theory; it has also uncovered broad new areas of research.
+Our knowledge of the structure and function of proteins, for example, has been greatly expanded through the discovery of dynamic folding processes.
+These are thought to provide flexibility in how proteins function, in a way that may be connected to nearly-neutral mutations.
+<P>
+Among the most interesting challenges in evolutionary biology is the attempt to identify the molecular mechanisms of gene expression that drive morphological evolution.
+The field is in the process of gaining a better understanding of a host of complex systems within individual cells.
+These molecular-level systems are at the heart of epigenetics – the study of changes in genetic function that cannot be explained by differences in DNA sequences.
+<P>
+Epigenetics is crucial for comprehending the link between the genetic composition, or genotype, and the traits we can actually observe.
+In higher organisms – such as humans – epigenetic processes are controlled by chromatin, a complex of macromolecules inside cells consisting of DNA, protein, and RNA.
+The way chromatin works is, in turn, shaped by genetic and environmental factors, making their functioning difficult to grasp.
+These rapidly evolving, highly variable macromolecules are well worth studying, however, as they may be the cause of some human diseases.
+<P>
+Another factor in the relationship between genetic composition and observable traits is the way that proteins can sometimes be modified.
+For example, protein enzymes can be turned on and off, thereby altering their function and activity.
+This process, like other forms of genetic expression, seems to be driven by a combination of innate and environmental factors.
+<P>
+No single mechanism, it seems, can be studied in isolation; at a very basic level, factors like selection, drift, and epigenetics work together and become inseparable.
+The deeper we dive into what we once thought were straight-forward evolutionary processes, the more wondrous and complex they are revealed to be.

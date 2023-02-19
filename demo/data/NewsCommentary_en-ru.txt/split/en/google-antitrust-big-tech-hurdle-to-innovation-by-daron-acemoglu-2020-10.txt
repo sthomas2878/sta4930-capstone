@@ -1,0 +1,59 @@
+<HEADLINE>
+Antitrust Alone Won’t Fix the Innovation Problem
+<P>
+CAMBRIDGE – The US Department of Justice’s lawsuit against Google may be the first salvo in a forthcoming barrage of antitrust actions directed at Big Tech.
+Curbing these companies’ power is one of those rare issues that receives bipartisan support on Capitol Hill.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Though the Google lawsuit focuses narrowly on “anticompetitive and exclusionary practices in the search and search advertising markets,” a lengthy report released recently by the US House Antitrust Subcommittee lists several other issues on policymakers’ radar.
+In addition to Google’s dominant role in digital advertising and its alleged practice of steering users to search results beneficial to itself, US lawmakers are eyeing Facebook’s overwhelming control of social media, Amazon’s mounting command of retail markets, and potential privacy violations by all the major platforms.
+<P>
+But Big Tech’s most pernicious effects on economic growth and consumer welfare may stem less from “anticompetitive and exclusionary practices” than from its role in directing technological change more broadly.
+<P>
+It is worth remembering that we could always be directing our time, resources, and attention differently in the development and deployment of technology.
+We can keep investing in technologies that help managers, engineers, and skilled professionals, or we could instead push for technologies that empower lower-skilled workers.
+We can deploy our current know-how to improve coal-powered energy generation, or we could direct our attention to cleaner energy sources such as solar or wind.
+We can steer research in artificial intelligence toward the automation of work and improved facial recognition and surveillance, or we could use the same underlying technologies to augment human productivity and bolster secure private communication and fact-based, manipulation-free political discourse.
+<P>
+Several factors will determine which alternatives receive the most attention from researchers and businesses.
+The size of the market for new technologies naturally weighs heavily on those making investment decisions within profit-driven corporations.
+But the needs, business models, and vision of companies spearheading technological innovation may be even more important determinants of broader trends.
+<P>
+When Microsoft dominated the PC market with its Windows operating system in the 1990s, it had no incentive to invest in alternative operating systems or in products that would not integrate well with Windows.
+Likewise, today’s Silicon Valley giants are unlikely to push for technologies that will cannibalize their profits, just as oil companies were never going to be the first-movers on green energy that competes directly with fossil fuels.
+Not surprisingly, when companies like Facebook, Google, Amazon, and Netflix step up to demonstrate technological leadership, they do so in areas that are compatible with their own interests and business models.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Moreover, each of these companies is driven not just by its current revenue sources and product portfolios but also by its broader vision.
+Each company’s executive team brings its own approach, idiosyncrasies, and preoccupations to the innovation process.
+The iPod, iPhone, and iPad were the products of Apple co-founder Steve Jobs’s unique approach to innovation, and thus could not easily be emulated by other major players.
+Microsoft’s response to the immediate global success of the iPod was the Zune player – a disastrous flop that scarcely anyone remembers.
+<P>
+Of course, there is nothing wrong with successful companies pushing their own visions.
+But when a particular corporate outlook becomes the only game in town, problems soon follow.
+Historically, the greatest technological advances occur when many companies across many sectors try out different ideas.
+<P>
+The problem today is not just that Big Tech has grown to a gargantuan size, such that its investment in research and development determines the overall direction of technological change.
+It is that all other market players have little choice but to make their own products and services interoperable – and thus dependent on and subordinate to – the major platforms.
+<P>
+In terms of R&D, the McKinsey Global Institute estimates that just a few of the largest US and Chinese tech companies account for as much as two-thirds of global spending on AI development.
+Moreover, these companies not only share a similar vision of how data and AI should be used (namely, for labor-replacing automation and surveillance), but they also increasingly influence other institutions, such as colleges and universities catering to tens of thousands of students clamoring for jobs in Big Tech.
+There is now a revolving door between leading institutions of higher education and Silicon Valley, with top academics often consulting for, and sometimes leaving their positions to work for, the tech industry.
+<P>
+The lack of diversity in R&D is even costlier when one considers the many alternative technologies and platforms that could otherwise be open to us.
+Once all the eggs have been put in one basket, other potential opportunities tend to be closed off, because they can no longer compete.
+<P>
+The evolution of energy technologies is a case in point.
+Cutting greenhouse-gas emissions would have been impossible three decades ago, and remains a challenge today, for the simple reason that so much has been invested in fossil-fuel production and facilities, internal-combustion vehicles, and all the required infrastructure.
+It has taken three decades of subsidies and other inducements for renewable energy and electric vehicles to catch up.
+The fact that these technologies increasingly outcompete fossil fuels in many contexts attests to what can be achieved through policies to support more socially desirable alternative platforms.
+<P>
+Still, redirecting technological change is rarely easy, because it tends to require a multi-pronged approach.
+Limiting the size of the leading companies is important, but not enough.
+Although just a handful of corporations account for 25% of the value of the US stock market, breaking up Facebook, Google, Microsoft, and Amazon will not be sufficient to restore the diversity necessary for broad-based innovation.
+There also needs to be new companies with different visions, and governments willing to reclaim the leadership role they once had in shaping technological change.
+It is still within our power to push technology in the direction of empowering workers, consumers, and citizens, rather than in building a surveillance state bereft of good jobs.
+But time is running out.

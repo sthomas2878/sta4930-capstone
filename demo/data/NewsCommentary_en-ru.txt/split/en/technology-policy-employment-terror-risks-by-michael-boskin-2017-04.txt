@@ -1,0 +1,59 @@
+<HEADLINE>
+The Coming Technology Policy Debate
+<P>
+STANFORD – What do the leaks of unflattering email from the Democratic National Committee’s hacked servers during the 2016 US presidential election campaign and the deafening hour-long emergency-warning siren in Dallas, Texas, have in common?
+It’s the same thing that links the North Korean nuclear threat and terrorist attacks in Europe and the United States: all represent the downsides of tremendously beneficial technologies – risks that increasingly demand a robust policy response.
+<P>
+The growing contentiousness of technology is exemplified in debates over so-called net neutrality and disputes between Apple and the FBI over unlocking suspected terrorists’ iPhones.
+This is hardly surprising: as technology has become increasingly consequential – affecting everything from our security (nuclear weapons and cyberwar) to our jobs (labor-market disruptions from advanced software and robotics) – its impact has been good, bad, and potentially ugly.
+<P>
+First, the good.
+Technology has eliminated diseases like smallpox and has all but eradicated other, like polio; enabled space exploration; sped up transportation; and opened new vistas of opportunity for finance, entertainment, and much else.
+Cellular telephony alone has freed the vast majority of the world’s population from communication constraints.
+<P>
+Technical advances have also increased economic productivity.
+The invention of crop rotation and mechanized equipment dramatically increased agricultural productivity and enabled human civilization to shift from farms to cities.
+As recently as 1900, one-third of Americans lived on farms; today, that figure is just 2%.
+<P>
+Similarly, electrification, automation, software, and, most recently, robotics have all brought major gains in manufacturing productivity.
+My colleague Larry Lau and I estimate that technical change is responsible for roughly half the economic growth of the G7 economies in recent decades.
+<P>
+Pessimists worry that the productivity-enhancing benefits of technology are waning and unlikely to rebound.
+They claim that technologies like Internet search and social networking cannot improve productivity to the same extent that electrification and the rise of the automobile did.
+<P>
+Optimists, by contrast, believe that advances like Big Data, nanotechnology, and artificial intelligence herald a new era of technology-driven improvements.
+While it is impossible to predict the next “killer app” arising from these technologies, that is no reason, they argue, to assume there isn’t one.
+After all, important technologies sometimes derive their main commercial value from uses quite different from those the inventor had in mind.
+<P>
+For example, James Watt’s steam engine was created to pump water out of coal mines, not to power railroads or ships.
+Likewise, Guglielmo Marconi’s work on long-distance radio transmission was intended simply to create competition for the telegraph; Marconi never envisioned broadcast radio stations or modern wireless communication.
+<P>
+But technological change has also spurred considerable dislocation, harming many along the way.
+In the early nineteenth century, fear of such dislocation drove textile workers in Yorkshire and Lancashire – the “Luddites” – to smash new machines like automated looms and knitting frames.
+<P>
+The dislocation of workers continues today, with robotics displacing some manufacturing jobs in the more advanced economies.
+Many fear that artificial intelligence will bring further dislocation, though the situation may not be as dire as some expect.
+In the 1960s and early 1970s, many believed that computers and automation would lead to widespread structural unemployment.
+That never happened, because new kinds of jobs emerged to offset what dislocation occurred.
+<P>
+In any case, job displacement is not the only negative side effect of new technology.
+The automobile has greatly advanced mobility, but at the cost of unhealthy air pollution.
+Cable TV, the Internet, and social media have given people unprecedented power over the information they share and receive; but they have also contributed to the balkanization of information and social interaction, with people choosing sources and networks that reinforce their own biases.
+<P>
+Modern information technology, moreover, tends to be dominated by just a few firms: Google, for example, is literally synonymous with Internet search.
+Historically, such a concentration of economic power has been met with pushback, rooted in fears of monopoly.
+And, indeed, such firms are beginning to face scrutiny from antitrust officials, especially in Europe.
+Whether consumers’ generally tolerant attitudes toward these companies will be sufficient to offset historic concerns over size and abuse of market power remains to be seen.
+<P>
+But the downsides of technology have become far darker, with the enemies of a free society able to communicate, plan, and conduct destructive acts more easily.
+The Islamic State and al-Qaeda recruit online and provide virtual guidance on wreaking havoc; often, such groups do not even have to communicate directly with individuals to “inspire” them to perpetrate a terrorist attack.
+And, of course, nuclear technology provides not only emissions-free electricity, but also massively destructive weapons.
+<P>
+All of these threats and consequences demand clear policy responses that look not just to the past and present, but also to the future.
+Too often, governments become entangled in narrow and immediate disputes, like that between the FBI and Apple, and lose sight of future risks and challenges.
+That can create space for something really ugly to occur, such as, say, a cyber attack that knocks out an electrical grid.
+Beyond the immediate consequences, such an incident could spur citizens to demand excessively stringent curbs on technology, risking freedom and prosperity in the quest for security.
+<P>
+What is really needed are new and improved institutions, policies, and cooperation between law enforcement and private firms, as well as among governments.
+Such efforts must not just react to developments, but also anticipate them.
+Only then can we mitigate future risks, while continuing to tap new technologies’ potential to improve people’s lives.

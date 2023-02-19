@@ -1,0 +1,53 @@
+<HEADLINE>
+The Low Costs of a Zero-Carbon Economy
+<P>
+LONDON – When you buy your next automobile, would you pay $100 extra to ensure that the steel in it was made without producing carbon dioxide emissions?
+<P>
+My guess is that most readers will say yes.
+Most people in most countries, including the United States, accept the overwhelming scientific evidence that human-induced greenhouse-gas emissions are causing potentially harmful climate change.
+Most people with decent incomes are willing to pay some price to achieve the zero-carbon economy needed to reduce the risks posed by climate change.
+And there is growing evidence that the total costs of that transition will be far less than the 1-2% of GDP suggested by Nicholas Stern in his seminal 2006 report The Economics of Climate Change.
+But, despite low costs, change will not happen fast enough without forceful new policies.
+<P>
+Renewable electricity costs have fallen faster than all but the most extreme optimists believed possible only a few years ago.
+In favorable sunny locations, such as northern Chile, electricity auctions are being won by solar power at prices that have plummeted 90% in ten years.
+Even in less sunny Germany, reductions of 80% have been achieved.
+Wind costs have fallen some 70%, and battery costs around 80%, since 2010.
+<P>
+As the Energy Transition Commission set out in its April 2017 report Better Energy-Greater Prosperity, power systems that are 85-90% dependent on intermittent renewables will be able by the 2030s to produce power at an all-in cost – including storage and any flexible back-up required – below that of fossil fuels.
+For power supply, Stern’s estimate that the cost of going green will be very small has proved too pessimistic – the cost will actually be negative.
+<P>
+These dramatic cost reductions did not happen in a vacuum.
+They are the result of deliberate and initially expensive public policy.
+Public expenditures over several decades supported basic research into photovoltaic technology, and large subsidies for initial deployment, particularly in Germany, enabled the solar industry to reach sufficient size for learning-curve and economy-of-scale effects to kick in.
+<P>
+Contrary to simplistic economic models, the pace of innovation and cost reduction is not an exogenous given; it is strongly determined by governments’ long-term objectives.
+On the cost curves economists use to rank carbon-reduction technologies, solar PV was, a mere ten years ago, one of the most expensive options.
+On the latest cost curves, however, it shows up as one of the cheapest.
+Strong policy support drove it there.
+<P>
+At the higher end of most published cost curves, we now find actions to decarbonize economic sectors where electrification seems impossible, difficult, or expensive.
+Emissions from the chemical reaction of cement production would remain even if the heat input were electrified: and installing carbon capture and storage (CCS) will add significant additional cost.
+Battery-powered flight may be possible over short distances, but for many decades – and perhaps forever – international aviation will require the energy density of a liquid hydrocarbon, and delivering that density with biofuels or by synthesizing hydrogen and air-captured CO2 will probably always be more expensive than deriving it from oil.
+<P>
+Likewise, steel production can be decarbonized by applying CCS or using hydrogen produced by electrolysis as the reduction agent, rather than coking coal.
+But unless low-carbon electricity costs fall much further, the hydrogen route will remain more expensive than today’s technology.
+And, by definition, adding CCS at the back of the process adds cost.
+<P>
+But not that much more cost.
+Estimates suggest that with already achievable renewable electricity costs, steel produced via hydrogen-based direct reduction might cost an additional $100 per ton – in turn adding $100 to the cost of a one-ton car.
+And these costs could fall significantly if, as is likely, hydrogen emerges as a major route to decarbonization across many sectors – including aviation (via synfuels), shipping (by using ammonia derived from green hydrogen instead of heavy fuel oil), and long-distance trucking (where hydrogen fuel cells may play a significant role).
+<P>
+Large-scale development of a hydrogen economy could drive the cost of electrolyzers onto a downward path similar to that observed with solar panels and batteries.
+And the cost of CCS could also fall significantly if government policies supported large-scale deployment.
+<P>
+The challenge is to replicate the stunning success we have seen in renewable power and batteries in the “harder to abate” sectors such as trucking, shipping and aviation, steel, cement, and chemicals.
+That will require a mix of carbon pricing, regulation, and government support for research and initial deployment.
+<P>
+Some of the policies require international coordination, but some could be pursued by countries acting alone.
+A requirement that all cars sold in either Europe or China had to meet a certified “green steel” standard, with the share of steel sourced from zero-carbon production increasing gradually toward 100% over the next few decades, would provide a strong stimulus toward steel decarbonization.
+If several major countries could agree on such a standard, or on the imposition of a significant carbon price, progress would occur even faster.
+<P>
+The technologies to decarbonize even the harder-to-abate sectors are now available, and the estimated costs are not daunting.
+If strong policies were introduced, the technological innovations and learning-curve effects unleashed would probably, as with renewable energy, prove the initial cost estimates to be pessimistic.
+If you are willing to pay $100 extra for your green car today, within a few decades the cost will probably be lower, but only if public policy forces the pace.

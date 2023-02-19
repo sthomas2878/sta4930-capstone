@@ -1,0 +1,58 @@
+<HEADLINE>
+Can Artificial Intelligence Be Ethical?
+<P>
+PRINCETON – Last month, AlphaGo, a computer program specially designed to play the game Go, caused shockwaves among aficionados when it defeated Lee Sidol, one of the world’s top-ranked professional players, winning a five-game tournament by a score of 4-1.
+<P>
+Why, you may ask, is that news?
+Twenty years have passed since the IBM computer Deep Blue defeated world chess champion Garry Kasparov, and we all know computers have improved since then.
+But Deep Blue won through sheer computing power, using its ability to calculate the outcomes of more moves to a deeper level than even a world champion can.
+Go is played on a far larger board (19 by 19 squares, compared to 8x8 for chess) and has more possible moves than there are atoms in the universe, so raw computing power was unlikely to beat a human with a strong intuitive sense of the best moves.
+<P>
+Instead, AlphaGo was designed to win by playing a huge number of games against other programs and adopting the strategies that proved successful.
+You could say that AlphaGo evolved to be the best Go player in the world, achieving in only two years what natural selection took millions of years to accomplish.
+<P>
+Eric Schmidt, executive chairman of Google’s parent company, the owner of AlphaGo, is enthusiastic about what artificial intelligence (AI) means for humanity.
+Speaking before the match between Lee and AlphaGo, he said that humanity would be the winner, whatever the outcome, because advances in AI will make every human being smarter, more capable, and “just better human beings.”
+<P>
+Will it?
+Around the same time as AlphaGo’s triumph, Microsoft’s “chatbot” – software named Taylor that was designed to respond to messages from people aged 18-24 – was having a chastening experience.
+“Tay” as she called herself, was supposed to be able to learn from the messages she received and gradually improve her ability to conduct engaging conversations.
+Unfortunately, within 24 hours, people were teaching Tay racist and sexist ideas.
+When she starting saying positive things about Hitler, Microsoft turned her off and deleted her most offensive messages.
+<P>
+I do not know whether the people who turned Tay into a racist were themselves racists, or just thought it would be fun to undermine Microsoft’s new toy.
+Either way, the juxtaposition of AlphaGo’s victory and Taylor’s defeat serves as a warning.
+It is one thing to unleash AI in the context of a game with specific rules and a clear goal; it is something very different to release AI into the real world, where the unpredictability of the environment may reveal a software error that has disastrous consequences.
+<P>
+Nick Bostrom, the director of the Future of Humanity Institute at Oxford University, argues in his book Superintelligence that it will not always be as easy to turn off an intelligent machine as it was to turn off Tay.
+He defines superintelligence as an intellect that is “smarter than the best human brains in practically every field, including scientific creativity, general wisdom, and social skills.”
+Such a system may be able to outsmart our attempts to turn it off.
+<P>
+Some doubt that superintelligence will ever be achieved.
+Bostrom, together with Vincent Müller, asked AI experts to indicate dates corresponding to when there is a one in two chance of machines achieving human-level intelligence and when there is a nine in ten chance.
+The median estimates for the one in two chance were in the 2040-2050 range, and 2075 for the nine in ten chance.
+Most experts expected that AI would achieve superintelligence within 30 years of achieving human- level intelligence.
+<P>
+We should not take these estimates too seriously.
+The overall response rate was only 31%, and researchers working in AI have an incentive to boost the importance of their field by trumpeting its potential to produce momentous results.
+<P>
+The prospect of AI achieving superintelligence may seem too distant to worry about, especially given more pressing problems.
+But there is a case to be made for starting to think about how we can design AI to take into account the interests of humans, and indeed of all sentient beings (including machines, if they are also conscious beings with interests of their own).
+<P>
+With driverless cars already on California roads, it is not too soon to ask whether we can program a machine to act ethically.
+As such cars improve, they will save lives, because they will make fewer mistakes than human drivers do.
+Sometimes, however, they will face a choice between lives.
+Should they be programmed to swerve to avoid hitting a child running across the road, even if that will put their passengers at risk?
+What about swerving to avoid a dog?
+What if the only risk is damage to the car itself, not to the passengers?
+<P>
+Perhaps there will be lessons to learn as such discussions about driverless cars get started.
+But driverless cars are not superintelligent beings.
+Teaching ethics to a machine that is more intelligent than we are, in a wide range of fields, is a far more daunting task.
+<P>
+Bostrom begins Superintelligence with a fable about sparrows who think it would be great to train an owl to help them build their nests and care for their young.
+So they set out to find an owl egg.
+One sparrow objects that they should first think about how to tame the owl; but the others are impatient to get the exciting new project underway.
+They will take on the challenge of training the owl (for example, not to eat sparrows) when they have successfully raised one.
+<P>
+If we want to make an owl that is wise, and not only intelligent, let’s not be like those impatient sparrows.

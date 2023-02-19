@@ -1,0 +1,72 @@
+<HEADLINE>
+Blockchain’s Broken Promises
+<P>
+NEW YORK – The financial-services industry has been undergoing a revolution.
+But the driving force is not overhyped blockchain applications such as Bitcoin.
+It is a revolution built on artificial intelligence, big data, and the Internet of Things.
+<P>
+Already, thousands of real businesses are using these technologies to disrupt every aspect of financial intermediation.
+Dozens of online-payment services – PayPal, Alipay, WeChat Pay, Venmo, and so forth – have hundreds of millions of daily users.
+And financial institutions are making precise lending decisions in seconds rather than weeks, thanks to a wealth of online data on individuals and firms.
+With time, such data-driven improvements in credit allocation could even eliminate cyclical credit-driven booms and busts.
+<P>
+Similarly, insurance underwriting, claims assessment and management, and fraud monitoring have all become faster and more precise.
+And actively managed portfolios are increasingly being replaced by passive robo-advisers, which can perform just as well or better than conflicted, high-fee financial advisers.
+<P>
+Now, compare this real and ongoing fintech revolution with the record of blockchain, which has existed for almost a decade, and still has only one application: cryptocurrencies.
+Blockchain’s boosters would argue that its early days resemble the early days of the Internet, before it had commercial applications.
+But that comparison is simply false.
+Whereas the Internet quickly gave rise to email, the World Wide Web, and millions of viable commercial ventures used by billions of people, cryptocurrencies such as Bitcoin do not even fulfill their own stated purpose.
+<P>
+As a currency, Bitcoin should be a serviceable unit of account, means of payments, and a stable store of value.
+It is none of those things.
+No one prices anything in Bitcoin.
+Few retailers accept it.
+And it is a poor store of value, because its price can fluctuate by 20-30% in a single day.
+<P>
+Worse, cryptocurrencies in general are based on a false premise.
+According to its promoters, Bitcoin has a steady-state supply of 21 million units, so it cannot be debased like fiat currencies.
+But that claim is clearly fraudulent, considering that it has already forked off into three branches: Bitcoin Cash, Litecoin, and Bitcoin Gold.
+Besides, hundreds of other cryptocurrencies are invented every day, alongside scams known as “initial coin offerings,” which are mostly designed to skirt securities laws.
+So “stable” cryptos are creating money supply and debasing it at a much faster pace than any major central bank ever has.
+<P>
+As is typical of a financial bubble, investors are buying cryptocurrencies not to use in transactions, but because they expect them to increase in value.
+Indeed, if someone actually wanted to use Bitcoin, they would have a hard time doing so.
+It is so energy-intensive (and thus environmentally toxic) to produce, and carries such high transaction costs, that even Bitcoin conferences do not accept it as a valid form of payment.
+<P>
+Until now, Bitcoin’s only real use has been to facilitate illegal activities such as drug transactions, tax evasion, avoidance of capital controls, or money laundering.
+Not surprisingly, G20 member states are now working together to regulate cryptocurrencies and eliminate the anonymity they supposedly afford, by requiring that all income- or capital-gains-generating transactions be reported.
+<P>
+After a crackdown by Asian regulators this month, cryptocurrency values fell by 50% from their December peak.
+They would have collapsed much more had a vast scheme to prop up their price via outright manipulation not been rapidly implemented.
+But, like in the case of the sub-prime bubble, most US regulators are still asleep at the wheel.
+<P>
+<P>
+Since the invention of money thousands of years ago, there has never been a monetary system with hundreds of different currencies operating alongside one another.
+The entire point of money is that it allows parties to transact without having to barter.
+But for money to have value, and to generate economies of scale, only so many currencies can operate at the same time.
+<P>
+In the US, the reason we do not use euros or yen in addition to dollars is obvious: doing so would be pointless, and it would make the economy far less efficient.
+The idea that hundreds of cryptocurrencies could viably operate together not only contradicts the very concept of money; it is utterly idiotic.
+<P>
+But so, too, is the idea that even a single cryptocurrency could substitute for fiat money.
+Cryptocurrencies have no intrinsic value, whereas fiat currencies certainly do, because they can be used to pay taxes.
+Fiat currencies are also protected from value debasement by central banks committed to price stability; and if a fiat currency loses credibility, as in some weak monetary systems with high inflation, it will be swapped out for more stable foreign fiat currencies or real assets.
+<P>
+As it happens, Bitcoin’s supposed advantage is also its Achilles’s heel, because even if it actually did have a steady-state supply of 21 million units, that would disqualify it as a viable currency.
+Unless the supply of a currency tracks potential nominal GDP, prices will undergo deflation.
+<P>
+That means if a steady-state supply of Bitcoin really did gradually replace a fiat currency, the price index of all goods and services would continuously fall.
+By extension, any nominal debt contract denominated in Bitcoin would rise in real value over time, leading to the kind of debt deflation that economist Irving Fisher believed precipitated the Great Depression.
+At the same time, nominal wages in Bitcoin would increase forever in real terms, regardless of productivity growth, adding further to the likelihood of an economic disaster.
+<P>
+Clearly, Bitcoin and other cryptocurrencies represent the mother of all bubbles, which explains why every human being I met between Thanksgiving and Christmas of 2017 asked me if they should buy them.
+Scammers, swindlers, charlatans, and carnival barkers (all conflicted insiders) have tapped into clueless retail investors’ FOMO (“fear of missing out”), and taken them for a ride.
+<P>
+As for the underlying blockchain technology, there are still massive obstacles standing in its way, even if it has more potential than cryptocurrencies.
+Chief among them is that it lacks the kind of basic common and universal protocols that made the Internet universally accessible (TCP-IP, HTML, and so forth).
+More fundamentally, its promise of decentralized transactions with no intermediary authority amounts to an untested, Utopian pipedream.
+No wonder blockchain is ranked close to the peak of the hype cycle of technologies with inflated expectations.
+<P>
+So, forget about blockchain, Bitcoin, and other cryptocurrencies, and start investing in fintech firms with actual business models, which are slogging away to revolutionize the financial-services industry.
+You won’t get rich overnight; but you’ll have made the smarter investment.

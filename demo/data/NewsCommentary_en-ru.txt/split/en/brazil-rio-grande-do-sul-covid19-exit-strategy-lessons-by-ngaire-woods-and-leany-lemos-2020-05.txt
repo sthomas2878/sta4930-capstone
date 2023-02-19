@@ -1,0 +1,66 @@
+<HEADLINE>
+Learning to Live with COVID-19
+<P>
+OXFORD/PORTO ALEGRE – One of COVID-19’s paradoxes has been the way in which some wealthy, high-capacity countries (particularly the United States and the United Kingdom) failed to contain the virus, while some poorer countries and regions with less capacity (including Vietnam, Greece, and the Indian state of Kerala) swiftly brought it under control.
+Now that countries must plan beyond their lockdowns, an equally stark contrast has emerged.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In the US and the UK, ambiguous containment regimes without clear exit plans have resulted in a policy stalemate between maintaining unsustainable lockdowns and recklessly opening up the economy.
+By contrast, policymakers in the Brazilian state of Rio Grande do Sul have used careful planning to learn to live with the virus.
+<P>
+The state began preparing on March 2, when Governor Eduardo Leite tasked his secretary of planning, budget, and management with assembling a data committee to develop and implement a plan for keeping the state’s economy going while combating the spread of the virus.
+In many other parts of Brazil, the virus remains unchecked, and the country now has the world’s second highest number of COVID-19 cases and the sixth-highest death toll.
+Yet, its fifth-most populous state has responded in a way that many rich countries would do well to emulate.
+<P>
+Five components of Rio Grande do Sul’s response stand out.
+<P>
+First, Leite focused from the outset on avoiding the worst possible outcome, rather than simply hoping it would not materialize.
+Before the pandemic reached Brazil, state officials used data from both Japan and Singapore (where the virus’s impact was limited) and Italy and Spain (where it was horrific) to generate mathematical projections, and set out to avoid outcomes resembling the latter.
+The governor then announced restrictions in mid-March before the state had reported its first COVID-19 death, thus buying time to strengthen the health system’s capacity while slowing the virus’s spread.
+<P>
+Second, state officials took a data-driven approach to tracking the virus, investing not only in collecting more data, but also in improving systems and hiring outstanding talent to assess the information.
+The data committee divided the state into 20 regions, each of which has a main hospital with an intensive-care unit (ICU), and has monitored 11 indicators in each region every week.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+About half of the indicators measure the virus’s spread.
+They include the number of new hospitalized COVID-19 cases (compared to the previous week), the number of active cases relative to recoveries in the last 50 days, and new hospitalizations and deaths per 100,000 inhabitants.
+The committee also tracks the number of patients in regular and ICU beds with either COVID-19 or acute respiratory distress syndrome, a related lung disease (because COVID-19 cases are typically under-recorded).
+<P>
+The other indicators measure the capacity of each region’s health system.
+They include the number of available ICU beds relative to both the total population and the number of inhabitants aged over 60, as well as the change in ICU occupancy compared to the previous week.
+<P>
+In addition to intensive data monitoring, the data committee convenes health experts and academics on a pro bono basis and makes their reports public.
+More than 150 experts from government and academia are currently examining COVID-19’s impact on economic activity, social vulnerability, infrastructure, and mobility in the state.
+Furthermore, the government created a partnership with a university early on to kick off random testing and surveying habits across the state, which is providing a better sense of the real prevalence of the virus.
+<P>
+The third component of the state’s response is a simple, specific, and transparent alert system.
+Each week, the committee distills the 11 indices into a single figure for each region, which places the region in one of four risk categories.
+Yellow represents low risk, orange is medium, red is high, and black signifies very high risk, with a full lockdown expected in extreme cases.
+Because the public can examine the data on which the risk classifications are based, the system helps to build understanding and trust.
+<P>
+Fourth, officials carefully examined how to keep the economy functioning, because the already-indebted state could not afford to support out-of-work people for long.
+The committee has clearly segmented jobs and economic activities in terms of worker safety (given social-distancing requirements) and their economic importance, giving these factors weights of 70% and 30%, respectively.
+For example, agriculture is relatively safe, because workers are outdoors and a safe distance from one another, and it is also vital for Rio Grande do Sul’s economy.
+All of the information is publicly available.
+<P>
+Finally, the state government drew up return-to-work protocols for each industry based on consultations with occupational health experts, industry associations, businesses, and workers.
+By publishing early drafts of protocols and inviting comments, the committee helped to ensure an open and transparent process.
+<P>
+Beyond mandatory measures such as wearing facemasks, cleaning, distancing, and shielding at-risk groups, sector protocols vary depending on the alert level.
+For example, industry can function at 100% capacity in a yellow region, at 75% under an orange alert, 50% in red regions, and 25% in black regions, with exceptions for essential sectors such as food, energy, chemicals, and health.
+Retail, which poses a higher contagion risk, may operate at only 50% capacity under a yellow alert, and must close down under a black alert.
+<P>
+While buses and churches have varying seat restrictions depending on the alert level, no mass events are currently permitted.
+The state is now debating which educational institutions should reopen first, and when, and how to reopen the rest.
+<P>
+Rio Grande do Sul’s work-safety policies have now been in place for three weeks.
+As of the last week of May, less than 20% of the state’s COVID-19 ICU beds are in use.
+The state has 56 cases per 100,000 inhabitants, compared to 720 per 100,000 in Amazonas state, 390 in Ceará state, and 220 in Rio de Janeiro.
+And its COVID-19 mortality rate is 1.6 per 100,000 inhabitants, far below the rates in Amazonas (42.4) and Rio de Janeiro (23.1).
+<P>
+Rio Grande do Sul’s leaders have devised a strategy for living with the virus, based on key indicators, expert consultations, and enforceable processes.
+And it has done so in full public view.
+There are lessons here for governments in richer countries that have yet to develop such a plan.

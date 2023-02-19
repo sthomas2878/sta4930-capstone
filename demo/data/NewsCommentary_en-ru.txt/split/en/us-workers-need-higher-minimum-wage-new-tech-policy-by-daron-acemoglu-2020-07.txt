@@ -1,0 +1,71 @@
+<HEADLINE>
+What We Owe Essential Workers
+<P>
+BOSTON – The low-wage workers who make up nearly half of the US workforce have long been neglected, steadily falling behind highly educated workers in expanding industries such as technology, finance, and entertainment.
+Since the 1970s, real (inflation-adjusted) wages have stagnated for prime-age men with less than a college education, and declined significantly for those with a high-school education or less.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Many of these workers find themselves on the front lines of the COVID-19 crisis, where they serve as hospital orderlies, nursing home aides, warehouse and delivery workers, and grocery clerks.
+Now that there has been a groundswell of (belated) appreciation for their contributions to the economy and society, the question is whether America can use this moment to turn things around for the bottom 50%.
+<P>
+Change is possible, but not assured.
+In an age of big-money politics and union bashing, the bargaining power of low-wage workers – especially minorities – has shrunk, together with their economic fortunes.
+Consider the federal minimum wage: at $7.25 per hour, it has actually declined by more than 30% in real terms since 1968.
+A first step, then, would be to raise it to $12 per hour.
+This would increase earnings at the bottom of the income distribution, and likely have only a minimal effect on overall employment.
+<P>
+A harder challenge is to restore workers’ bargaining power.
+Though political decisions over the past 40 years have undoubtedly weakened organized labor, the decline of unions also reflects broader secular developments.
+Reversing the trend will probably require new organizational forms.
+<P>
+Technology represents the biggest obstacle to improving the lot of low-wage workers.
+Because the US economy today is so much more automated than it was in the 1970s, a push for higher wages would encourage firms to adopt even more labor-replacing technologies such as robotics and artificial intelligence (AI).
+<P>
+But raising the minimum wage is not the only option.
+Labor-replacing automation has become prevalent because we have adopted policies and strategies that actively encourage it.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+For example, the US tax code strongly favors capital, generating a powerful incentive for firms to replace workers with machines.
+When a company hires a worker, the government collects both income and payroll taxes, thereby inserting a significant wedge between what employers pay and what workers take home.
+A company pays less when it deploys a machine, because capital income is taxed much more lightly, and the government implicitly subsidizes capital investments through accelerated depreciation allowances, further tipping the scale against workers.
+<P>
+But the problem doesn’t stop there.
+In the tech sector, the prevailing business model is highly dependent on removing human labor from the economic equation (that is how you “move fast and break things,” to borrow Facebook’s early slogan).
+These firms face few constraints in pursuing this model, not least because the US government has abandoned its traditional role in shaping the direction of scientific research and technological innovation.
+<P>
+Low-wage workers are not the only the casualties of this change.
+As good, high-quality jobs have dwindled, wage growth for all workers has begun to ebb, and increasingly unequal growth has begun to erode social cohesion and democratic principles and institutions.
+<P>
+There is nothing inevitable about this.
+We can use our knowledge base to develop technologies that complement, rather than compete with, human labor, by creating new tasks or boosting workers’ productivity in existing and emerging sectors.
+Moreover, such a worker-first tech policy goes hand in hand with a higher minimum wage and other sorely needed reforms.
+When technology makes labor critical to the production process, workers’ bargaining power will necessarily increase.
+<P>
+Altering a country’s tech policy is a tall order, but it has been done many times before.
+In the 1940s, the United States rapidly redirected its enormous innovation capacity toward munitions and materiel as it mobilized for war.
+And globally, there have been notable gains in clean-energy innovation in recent decades, to the point that renewables have become competitive with fossil fuels.
+These technologies did not spring fully formed from the head of the free market.
+Rather, they are the result of government clean-energy policies such as carbon pricing (though not in the US) and various forms of direct support.
+<P>
+These policies were born of a broader recognition that rising greenhouse-gas (GHG) emissions pose a major threat to humanity.
+And they benefited from a shared measurement framework that enabled governments and firms around the world to quantify the environmental damage caused by emissions.
+The same playbook can be used to drive human-complementary technologies.
+But in this case, it is the first step that may prove most difficult.
+We need to generate a widespread recognition that relentless automation will not lead to prosperity, but to ruin.
+<P>
+Then comes the second step: We will need a measurement framework by which to quantify and categorize different technologies.
+Those that will benefit only capital should incur a cost in the same way that GHG emissions do, whereas those that bolster human productivity and labor demand should be encouraged.
+<P>
+In practice, this framework could be used to monitor how different technologies affect labor’s share of output at the level of firms, sectors, and countries.
+Automation has tended to reduce this share, owing to prevailing incentives.
+But there is no law of technological determinism requiring that, say, AI be used to replace human labor, rather than to augment it.
+<P>
+Automation itself is not the problem.
+Industrial robots, AI, and other cutting-edge technologies can increase productivity substantially, just as technological innovations have done in the past.
+But for the sake of social cohesion and sustainable economic growth, those benefits must be available to workers of all skills and backgrounds.
+<P>
+The pandemic has highlighted the high price low-wage workers in the US have paid for employers’ obsessive focus on labor-replacing automation.
+Without an overhaul of the existing policy framework, the skill bias of automation will continue to broaden, placing an even larger cohort of workers at risk.

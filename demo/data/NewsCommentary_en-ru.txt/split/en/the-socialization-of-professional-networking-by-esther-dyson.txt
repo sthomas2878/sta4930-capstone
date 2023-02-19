@@ -1,0 +1,58 @@
+<HEADLINE>
+The Efficient Networker
+<P>
+NEW YORK – Long ago, I used to run a conference called PC Forum.
+People would say to me, “If only I could sit next to Bill Gates....”
+Just last week, a friend pulled me aside at a conference to ask for advice.
+“What’s the best way to make conferences more efficient for meeting people?” he asked.
+“Just like marketing, it seems it’s only about 50% effective.”
+<P>
+He was asking the wrong question.
+The interaction has to be two-way: Do other people really want to meet him?
+<P>
+A conference optimized to help my friend would fail, because the people everyone wants to meet are unlikely to show up.
+Indeed, does my friend have a right to their time?
+He told me that he had actually sat in a breakout group with 20 people, each of whom he wanted to meet, but he managed to talk to only two of them.
+I was a bit concerned.
+Was this guy I was trying to help actually a stalker?
+<P>
+What he wanted was a tool that would allow him to make contact with each person on the list of people he had picked out.
+This is probably a legitimate goal – he sells decent products – but the reality of the world is that relationships, even around so-called shared interests, are not necessarily symmetrical.
+<P>
+More people want to meet Bill Gates or Marissa Mayer than vice versa.
+If we were to create a real market, it would become unpleasantly commercial – a bit like those charity auctions where celebrities or tycoons donate the pleasure of their company for lunch with the highest bidder, except that the VIP pockets the money.
+<P>
+At yet another conference, I was musing about how to make introductions efficient but not transactional when I was introduced to Lisa Anderson of Werqit by Megan Smith of Google.
+That was a useful signal.
+Anderson did not just approach me on her own; she was introduced.
+<P>
+It turns out that Anderson is working on the answer to precisely this problem of asymmetry in introductions.
+The trick is not just to find the right target (that is, a person), as social networks such as LinkedIn and search tools can do, but to enlist allies and manage a campaign to achieve a specific goal with the ultimate help of, yes, the target.
+Werqit’s workflow solution does a good job of discovering, through social activity, who is likely to help you – and, just as important, who will probably brush you off.
+<P>
+In other words, the behavior her startup looks for is not purchasing behavior (like so many “social” tools), but actual social behavior.
+Werqit plans to build a “collaboration graph” by looking not only at ability to help or collaborate, but also at indicators of willingness.
+<P>
+Willingness reflects a complex mix of incentives influencing when, whom, and how to help – and also reflects how busy a potential ally or target is.
+(As in any market, you need to consider not just your targets, but also who is competing with you for their attention.)
+The indicators of willingness might include the frequency with which someone engages with a particular person; how often people are asked (or overloaded with requests) for help; the types of requests they accept; which topics they engage with, and with whom; and what kind of help they give.
+<P>
+Werqit uses these indicators to suggest who in your network is likely to be most helpful in the context of a particular mission or goal, enabling you to enlist them as allies.
+Then it helps to figure out whom to target to achieve that goal – whether it’s funding for a startup, a job for yourself, a sale for your product, a publisher for your book, or any other mission you can define (and add to a crowd-sourced collection).
+<P>
+The service, currently in beta, is not an app; it is a full-featured workflow tool that will use machine learning over time.
+The premise is that willingness to help is influenced not just by connections, but also by the kind of connections and by the requester’s ability to formulate a clear and specific request.
+Clearly, Werqit is both a flattering compliment (and complement!) to LinkedIn and a competitor for what LinkedIn does only in part.
+LinkedIn provides “introduction” workflow, but Werqit includes mission-specific templates and a curated collaboration graph for finding allies.
+<P>
+Currently, Werqit relies on what it can glean from public data and the user’s own Facebook, Twitter, and LinkedIn interactions.
+Over time, it will develop its own database of users.
+<P>
+This is the first new tool that I have come across whose creators seem to understand that the problem is not simply to find the right people; it is to run the right process to succeed at a specific task with the help of those people.
+<P>
+Consider my own interaction with Anderson.
+I frequently advise people who approach me without an introduction that they should start with someone who knows them, not with a stranger they would like to know.
+<P>
+Even at a conference, that is good advice.
+Maybe my friend was lucky to speak with only two of the 20 people in his breakout group.
+As Werqit’s Anderson knows, the most effective introductions are those made by others.

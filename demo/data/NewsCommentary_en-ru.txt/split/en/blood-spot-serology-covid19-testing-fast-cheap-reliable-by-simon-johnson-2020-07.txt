@@ -1,0 +1,55 @@
+<HEADLINE>
+How to Close America’s COVID-19 Testing Deficit
+<P>
+WASHINGTON, DC – To track the presence of SARS-CoV-2, the virus that causes COVID-19, the United States is relying heavily on polymerase chain reaction (PCR) live virus testing at massive scale.
+In the most common version of this approach, samples – nasal swabs or saliva – are sent to relatively large labs, with the goal of returning results within 24-48 hours.
+Unfortunately, while some priority tests receive speedy turnaround, it now typically takes 7-22 days to get results across most of the country.
+For a fast-moving virus like SARS-CoV-2, which can progress from infection to final outcome (death or recovery) in as little as eight days, long delays mean that PCR virus testing is a waste of time and money.
+By the time you know the result, it is too late to do anything different.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+For “surveillance testing,” an essential part of preventing outbreaks, two highly unequal worlds are emerging.
+Big companies and universities will pay top dollar to test all their people at high frequency (once or twice a week, with quick results), while everyone else will effectively not be tested (because results obtained after more than three days are of negligible value).
+This arrangement is not only hugely unfair (in ways that will become increasingly visible); it will also contribute to repeated resurgence of the disease in the coming months.
+<P>
+Quickly detecting COVID outbreaks is currently the main available tool for keeping people safe and retaining any reasonable level of economic activity (and jobs).
+More than 750,000 people, on average, are currently tested for live virus every day in the US.
+But this is far from enough in a country of around 330 million people, with a workforce of around 165 million, roughly 57 million schoolchildren, and another 20 million trying to attend some form of college.
+<P>
+With infection rates surging in some western and southern states (and parts of the Midwest now at risk), regional labs reach capacity and an increasing amount of testing must be done elsewhere.
+In New York City, where transmission currently is relatively low, the authorities want to test 50,000 people every day, but can manage only 20,000-30,000, with one-quarter of them taking more than six days.
+<P>
+Proposals to scale up live virus testing to 100 million tests per week (or even per day) will have to overcome the capacity constraints – reflected in jammed testing stations and shortages of key supplies.
+Because a clinical diagnostic industry (usually running individual tests ordered by doctors) is being asked to switch to mass production, an XPrize competition to promote decentralized technology (such as rapid at home tests), backed by serious capital, will help, but will take time.
+<P>
+What we really need now for outbreak detection – and therefore for a speedy public-health response to emerging hotspots – is a system that is scalable and cheap, based on proven technology, a robust supply chain, and sample collection that can be carried out without the involvement of medical personnel.
+This system also needs to generate data that can be used to maintain accurate and detailed situational awareness for local officials and anyone who is thinking about taking a bus, meeting people indoors, or sending their children to school.
+All of this can now be built on the basis of dried blood spot (DBS) serology, a highly accurate way to check for antibodies.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+An antibody test indicates if you have been infected with COVID-19.
+But antibodies are not detectable until 5-10 days after infection – 2-3 days slower than the live virus.
+Of course, once the delays for virus testing hit seven days or more, antibody tests are unambiguously faster and more accurate.
+<P>
+The test kits could not be simpler: a sterile lancet, a piece of filter paper, an adhesive bandage, and an envelope to send the blood spot to the lab, which runs it through an overnight process and can return results immediately (Galit Alter at the Ragon Institute has developed just such a process).
+The cost per DBS serology test is a fraction of what PCR labs currently charge.
+<P>
+A monthly DBS test would not only help people understand if they have been infected, but would also generate a vast amount of information regarding the progress of the virus across the US population.
+Armed with that information, live virus testing and other resources (local quarantines, good face masks, etc.) could be allocated more efficiently to quell any major outbreak.
+Michael Mina at Harvard has described how this should work at the global level, and Caroline Buckee, also at Harvard, Jessica Metcalf at Princeton, and their colleagues have also addressed key issues.
+<P>
+COVID-19 testing is a major public good – like clean water or anti-malaria measures – with enormous spillover effects, meaning the benefits for society from reducing infectious disease are immense and not necessarily reflected in what people are willing or able to pay.
+The private market cannot deliver an efficient solution on its own: some people will get a lot of testing and many more will get none, but everyone will face the uncertainty and anxiety created by the prospect of random death.
+To overcome this problem requires a substantial commitment of public resources to a better testing system.
+<P>
+For immediate results, we have rapid antigen tests, which are arriving in increasing numbers from Quidel and Becton, Dickinson and Company, and some PCR machines can give results within 30-45 minutes.
+But there is a limited supply of both tests, which should be reserved for nursing home staff, emergency personnel, hospital workers, and medically necessary situations.
+Moreover, rapid tests are likely to generate more false negative results, so they need to be used wisely.
+<P>
+The US is facing a major health and economic catastrophe for one simple reason: its existing COVID-19 testing infrastructure has broken down.
+To get ahead of the virus, policymakers and the public need to understand where outbreaks are occurring and where they are likely to occur next.
+A better testing system, based on DBS serology, is available.
+Will it be used in time?

@@ -1,0 +1,53 @@
+<HEADLINE>
+A Crisis Playbook for Big Tech
+<P>
+OXFORD – The predictions were wrong: the global economy didn’t collapse after the 2008 financial crisis.
+Buoyed by taxpayer-financed bailouts, banks recovered and business at most institutions stabilized.
+But if there is one lingering casualty of that era, it is the erosion of public trust in the financial sector.
+Ten years after the crisis began, Main Street still has little faith in Wall Street.
+<P>
+A similar crisis of confidence plagues the technology industry today.
+As executives at Facebook and Cambridge Analytica rationalize their companies’ use and abuse of personal data, trust in technology firms is approaching a tipping point.
+“Big Tech” can still salvage its reputation, but its most powerful companies will need to change fundamentally how they operate.
+And to do that, they must avoid the mistakes that nearly crippled the financial sector a decade ago.
+<P>
+Five key lessons from the financial crisis should guide decision-making in the tech sector today.
+First, consumer illiteracy can be costly.
+Shortly before the housing bubble burst, many investors realized they had no understanding of the products they were buying; some didn’t even know they were buying anything.
+Financial journalism contributed to this atmosphere of ignorance by focusing only on the potential gains, and ignoring the risks.
+<P>
+People engage with technology in similar ways.
+Companies, governments, and businesses happily plug their entire operations into platforms they cannot control.
+Doubt, if it does arise, is usually subdued, because the technology is too convenient to abandon.
+But, just like perilous financial products, the only way to mitigate the risks of new technologies is to be fully educated about what could go wrong.
+<P>
+The second lesson is that hidden costs add up.
+Before the financial crisis, many customers were sold products with undisclosed fees and financial add-ons that became massive liabilities.
+Today, more investors recognize that higher returns imply higher risk, but in the technology business, hidden costs continue to entrap unsuspecting consumers.
+Some of these costs are social – like being pressured by advertisers to buy products.
+And others are more tangible, like giving away personal data in exchange for access to a service.
+<P>
+Third, inequitable pay and incentive structures are bad for business.
+Much has been written about the extraordinary bonuses paid to investment bankers during the height of the financial crisis.
+But the CEOs of Silicon Valley are no Robin Hoods, either.
+Tech entrepreneurs might tell their investors they want to change the world, but many are intoxicated by the idea that the world will be better when they sell their business to the highest bidder.
+<P>
+Fourth, businesses that are male-dominated take more unnecessary risks.
+When the history of the financial crisis was being written, many argued that greater gender diversity would have mitigated the damage.
+In 2010, two years after the collapse of Lehman Brothers, Christine Lagarde, then-France’s finance minister, quipped that the crisis would have been less painful if “Lehman Sisters” had been managing the store.
+The same logic applies to the tech sector today.
+<P>
+Finally, as we learned a decade ago, the global economy is deeply interconnected; no bank was too big to fail or to be rescued.
+This is true for the largest technology companies as well.
+The collapse of Amazon or Google – however invulnerable they may seem – would have devastating ripple effects.
+While many argue that it would be unwise to regulate technology firms with a view to concerns over censorship and access to knowledge, these companies, like their financial-sector counterparts, have grown too big to be left to their own devices.
+<P>
+In the decade since the financial crisis erupted, structural changes have helped stabilize the banking and financial-services industry.
+Regulations have increased transparency and improved consumer awareness.
+But the old dynamics, power structures, and bloated pay scales have largely survived.
+As a result, the sector’s reputation remains in tatters.
+<P>
+For the technology industry to avoid a similar fate, its leaders must increase consumers’ literacy about the products they offer – and the potential dangers they hold.
+CEOs must support regulation, increase workplace diversity, and make compensation and incentive structures more equitable.
+Above all, tech leaders should avoid the mistakes made by other industries navigating crisis.
+And no industry offers a more relevant case study than the one that almost took down the global economy.

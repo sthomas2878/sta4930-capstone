@@ -1,0 +1,68 @@
+<HEADLINE>
+The Dangerous Delusion of Optimal Global Warming
+<P>
+LONDON – The United Kingdom is now legally committed to reduce net greenhouse-gas emissions to zero by 2050.
+Opponents in Parliament argued for more cost-benefit analysis before making such a commitment; and Nobel laureate economist William Nordhaus argues that such analysis shows a much slower optimal pace of reduction.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The 2015 Paris climate agreement seeks to limit global warming to “well below 2°C” above preindustrial levels, while the Intergovernmental Panel on Climate Change recommended in 2018 that the increase be capped at 1.5°C. By contrast, Nordhaus’s model suggests limiting warming to 3.5°C by 2100.
+If that were the objective, net zero emissions would be acceptable far later than 2050.
+<P>
+But Nordhaus’s approach represents a misguided application of sophisticated modeling to decision-making under extreme uncertainty.
+All models depend on input assumptions, and Nordhaus’s conclusions rely crucially on assumptions about the additional harm of accepting 3.5°C rather than 2°C of global warming.
+<P>
+For some types of climate impact, quantitative estimates can be attempted.
+As the Earth warms, crop yields will increase in some colder parts of the world and decrease in hotter regions.
+Any estimate of the net economic impact is subject to wide margins of error, and it would be absurd to imagine that benefits in one region will be transferred to others that have been harmed, but at least modeling can help us to think through the possible scale of these effects.
+<P>
+But it is impossible to model many of the most important risks.
+Global warming will produce major changes in hydrological cycles, with both more extreme rainfall and longer more severe droughts.
+This will have severe adverse effects on agriculture and livelihoods in specific locations, but climate models cannot tell us in advance precisely where regional effects will be most severe.
+Adverse initial effects in turn could produce self-reinforcing political instability and large-scale attempted migration.
+<P>
+To pretend that we can model these first- and second-round effects with any precision is a delusion.
+Nor can empirical evidence from human history provide any useful guidance for how to cope with a world that warmed to Nordhaus’s supposedly optimal level.
+After all, 3.5°C warming above preindustrial levels would take us to global temperatures not seen for over two million years, long before modern human beings had evolved.
+<P>
+Modeled estimates of adverse impacts are also incapable of capturing the risk that global warming could be self-reinforcing, creating a nontrivial risk of catastrophic threats to human life on Earth.
+Recent Arctic temperature trends confirm climate model predictions that warming will be greatest at high latitudes.
+If this produces large-scale melting of the permafrost, huge amounts of trapped methane gas will be released, causing climate change to accelerate.
+The higher the temperature attained, the greater the probability of rapid and uncontrollable further warming.
+Models always struggle to capture such strongly endogenous and non-linear effects, but Nordhaus’s 3.5°C point of optimality could be a hugely unstable equilibrium.
+<P>
+Before the 2008 financial crisis many economists, including some Nobel laureates, believed that sophisticated “value at risk” (VaR) models had made the global financial system safer.
+Then-US Federal Reserve Chair Alan Greenspan was among them.
+In 2005, he reassuringly observed that the “application of more sophisticated approaches to measuring and managing risk” was one of the “key factors underpinning the greater resilience of our largest financial institutions.”
+<P>
+But those models provided no warning at all of impending disaster.
+On the contrary, they deluded bank managers, central bankers, and regulators into the dangerous belief that risks could be precisely foreseen, measured, and managed.
+VaR models could not capture the danger of catastrophic collapse resulting from endogenous self-reinforcing feedback loops within a complex and potentially fragile system.
+The same is true of supposedly sophisticated models purporting to discern the optimal level of global warming.
+<P>
+The economic costs of achieving carbon neutrality by mid-century are also uncertain.
+But we can estimate their maximum order of magnitude with far greater confidence than is possible when assessing the costs of adverse effects of climate change.
+<P>
+Achieving a zero-carbon economy will require a massive increase in global electricity use, from today’s 23,000 TW hours to as much as 90,000 TW hours by mid-century.
+Delivering this in a zero-carbon fashion will require enormous investments, but as the Energy Transitions Commission has shown, it is technically, physically, and economically feasible.
+Even if all those 90,000 TW hours were provided from solar resources, the total space requirement would be only 1% of Earth’s land surface area.
+And in real-world competitive energy auctions, solar and wind providers are already committing to deliver electricity at prices close to and sometimes below the cost of fossil fuel generation.
+<P>
+Total cost estimates must also account for the energy storage or backup capacity needed to cover periods when the wind doesn’t blow and the sun doesn’t shine, and for the complex challenge of decarbonizing heavy industrial sectors, such as steel, cement, and petrochemicals.
+<P>
+Added up across all economic sectors, however, it’s clear that the total cost of decarbonizing the global economy cannot possibly exceed 1-2% of world GDP.
+In fact, the actual costs will almost certainly be far lower, because most such estimates cautiously ignore the possibility of fundamental technological breakthroughs, and maintain conservative estimates of how long and how fast cost reductions in key technologies will occur.
+In 2010, the International Energy Agency projected a 70% fall in solar photovoltaic equipment costs by 2030.
+It happened by 2017.
+<P>
+Rather than relying on apparently sophisticated models, climate-change policy must reflect judgment amid uncertainty.
+Current trends threaten major but inherently unpredictable adverse impacts.
+Limiting global warming to well below 2°C will cost at most 1-2% of GDP, and those costs will come down if strong commitments to reduce emissions unleash technological progress and learning-curve effects.
+Given these realities, zero by 2050 is an economically rational target.

@@ -1,0 +1,55 @@
+<HEADLINE>
+The Right Question About Inequality and Growth
+<P>
+CAMBRIDGE – The belief that inequality hurts economic growth is gaining currency among policymakers.
+Some argue forcefully that high levels of inequality can make sustained growth impossible, and may even contribute to recessions.
+This view stands in stark contrast to the traditional view that there is a tradeoff between equality and growth, and that greater inequality is a price that must be paid for higher output.
+<P>
+Lost in the discussion, however, is whether any of this is actually germane to economic policymaking.
+I don’t believe it is.
+Whether inequality is good or bad for growth should and will continue to concern social scientists.
+But those guiding an economy should focus on assessing outcomes and modes of distribution rather than on a puzzle that will never fully be solved.
+<P>
+Three developments make this refocusing necessary.
+For starters, while recent studies have concluded that higher levels of inequality produce lower long-term growth, other data have challenged this assumption, making definitive claims that are impossible to support, partly because different sources and types of inequality likely have different impacts on growth.
+<P>
+Second, most research focuses on the impact of inequality on growth, rather than on how specific policies affect growth.
+The former is of interest to social scientists and historians, but it is the latter that is relevant for policymakers.
+<P>
+And, finally, politicians generally defend their policies in terms of how they affect the middle class or the poor, not the arithmetic average of incomes across an economy – which gives equal weight to a $1 increase in the income of a poor person and that of a billionaire.
+So, even if reducing inequality was bad for overall growth, it might still be good for social welfare in the relevant sense, if it made many households in the middle better off.
+<P>
+The fact is, economic policies in the real world are nuanced and site-specific, making the search for a single answer to the question of how – and how much – inequality affects growth a Sisyphean task.
+Rather than concerning themselves with how to balance growth and inequality, policymakers would do better to focus on how policies impact average incomes and other welfare indicators.
+<P>
+Win-win policies – defined as distribution mechanisms that produce growth and reduce inequality simultaneously – are the easiest to evaluate, and the most advantageous to adopt.
+Education is a classic example.
+Reforms that cost little or no money, such as improving the quality of primary and secondary education, have been shown to encourage growth while ameliorating inequality.
+Even reforms that cost more – like expanding preschool education in the United States – generate economic benefits that far exceed the tax losses associated with funding them.
+<P>
+These types of approaches – what I call “all good things go together” policies – could be applied to other sectors of the economy that are being squeezed by imperfect competition.
+More vigorous antitrust policies, or increased consumer ownership of data, could strengthen competition and, in the process, boost efficiency and improve income distribution.
+<P>
+Any policy that promotes growth or lowers inequality without negatively affecting the other variable can also be classified as a win-win.
+A revenue-neutral reform of business taxes, for example, could raise the level of output with no meaningful impact on the distribution of income.
+<P>
+It is far more difficult to evaluate policies that involve a tradeoff between growth and inequality.
+For the sake of illustration, consider the effects of a hypothetical 10% reduction in labor taxes paid for by a lump-sum tax modeled using a neo-classical Ramsey growth model – a scenario that I detailed in a recent paper for the Olivier Blanchard and Lawrence Summers series on Rethinking Macroeconomics.
+This plan is good for growth, with average output increasing by 1%.
+But to understand how this policy would actually play out for taxpayers, I applied the scenario to the real distribution of US household incomes in 2010.
+<P>
+Nearly all households in the model experienced an increase in pre-tax income.
+But taxes increased for two-thirds of households.
+For middle-income households, the increased taxation was offset by earnings, but leisure also fell.
+As a result, the tax change left around 60% of households worse off, even as average household income grew, driven by gains at the top.
+<P>
+This analysis does not answer the question of whether this illustrative tax policy is a good idea.
+But most policymakers would likely object if they understood that growth would be achieved by higher taxes on two-thirds of households, leaving the median household working harder to earn the same after-tax income.
+<P>
+Social scientists should continue to ask whether inequality is good or bad for economic growth.
+More research is needed on the variables that affect growth, such as median income.
+Economists should also pay less attention to inequality in the aggregate, and more on the specific policies that might increase or reduce inequality.
+<P>
+But policymakers have different priorities than economists do.
+Rather than rethinking macroeconomics, policymakers must consider whether specific goals for social welfare and distribution can be achieved through win-win measures or through policies that make worthwhile tradeoffs.
+The answer may be to obsess less over aggregate data, and to focus more on how policy decisions impact real people.

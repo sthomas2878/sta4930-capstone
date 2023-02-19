@@ -1,0 +1,66 @@
+<HEADLINE>
+Megafunding Drug Research
+<P>
+SEATTLE – As price-gouging practices by a handful of drug companies attract headlines, one troubling aspect of the story remains underplayed.
+Exorbitant increases in the prices of existing drugs, including generics, are motivated not just by crass profiteering but by a deep skepticism about the economic feasibility of developing new drugs.
+That skepticism is justified.
+<P>
+Traditional models for funding drug development are faltering.
+In the US and many other developed countries, the average cost of bringing a new drug to market has skyrocketed, even as patents on some of the industry’s most profitable drugs have expired.
+Venture capital has pulled back from early-stage life-sciences companies, and big pharmaceutical companies have seen fewer drugs reach the market per dollar spent on research and development.
+<P>
+Indeed, on average, only one of every 10,000 compounds identified as potentially useful in early-stage research will ultimately win approval from regulators.
+The approval process can take as long as 15 years and errs on the side of caution.
+Even among drugs that make it to human clinical trials, only one in five will clear that final hurdle.
+<P>
+The price tag for these “slow fails” can be enormous.
+Pfizer, for example, spent a reported $800 million on its cholesterol-lowering drug, torcetrapib, before pulling it from phase III clinical trials in 2006.
+That’s an unappealing prospect for most investors.
+Because the risk of backing any one compound, or even a particular company, is so high, vast pools of investment capital lie out of reach for drug developers.
+<P>
+Spurred by these pressures, finance experts have proposed several funding alternatives that reduce the risk of biopharma investments while improving the efficiency and productivity of the R&D pipeline.
+Although industry incumbents may be slow to shift gears, developing countries creating next-generation biopharma hubs have a unique opportunity to adopt and benefit from alternative models.
+<P>
+Many of those models build upon a common strategy for de-risking investments: assembling a diversified portfolio.
+Two decades ago, a company called Royalty Pharma launched a diversified model, building a fund of ownership interests in multiple drug royalty streams.
+Royalty Pharma focused on approved drugs with blockbuster potential, creating stable revenue streams and impressive equity returns – even during periods of extreme stock-market volatility.
+<P>
+But Royalty Pharma’s model will not bridge the funding gap between the basic research supported by government grants and the late-stage development of drugs that are in clinical trials.
+Because the candidate drugs in this R&D “valley of death” are riskier than anything in which Royalty Pharma invests, an even larger portfolio of compounds would be needed to yield levels of risk and rates of return that are acceptable to typical investors.
+<P>
+How large would that portfolio have to be?
+One of us (Lo) has carried out simulations of diversified funds for early- and mid-stage cancer drugs, which show that a so-called megafund of $5-30 billion, comprising 100-200 compounds, could sufficiently de-risk the investment while generating returns of between 9-11%.
+<P>
+That’s not exciting territory for venture capitalists and private-equity investors, but it is in keeping with the expectations of institutional investors, such as pension funds, endowments, and sovereign wealth funds.
+Moreover, the risk reduction from diversification would allow the megafund to issue large amounts of debt as well as equity, further broadening the pool of potential investors.
+<P>
+To put these numbers in context, consider that the US National Institutes of Health funds just over $30 billion annually in basic medical research, and members of the Pharmaceutical Research and Manufacturers of America spent about $51 billion last year on R&D. A megafund approach would help to make both investments more productive by filling the funding gap between them.
+<P>
+Moreover, this model may work on a smaller scale.
+Further simulations suggest that funds specializing in some drug classes, such as therapies for orphan diseases, could achieve double-digit rates of return with just $250-500 million dollars and fewer compounds in the portfolio.
+<P>
+Of course, this approach faces challenges.
+It won’t be easy to manage a large pool of candidate compounds and dozens of simultaneous drug trials.
+Simulations show that megafunds will not work for all classes of drugs in all therapeutic areas.
+Development of Alzheimers’ therapies, for example, is unlikely to benefit from the megafund model.
+<P>
+But where they do work, megafunds could make drug development vastly more efficient, and therefore less costly.
+No single company possesses the scale or finances to deploy all the advances in science and technology since the genomics revolution, but a megafund-backed effort could.
+<P>
+Researchers employed by the fund could share knowledge, facilities, and state-of-the-art equipment, data, and computing resources, spread over a wide array of projects.
+Failures would be faster – and much cheaper – because stakeholders would be less dependent on any one project.
+<P>
+Emerging-market countries should take note.
+Most are chasing the pharmaceutical and biotechnology industries.
+China has established hundreds of life-sciences research parks and committed billions of dollars in national funds for drug development; comparable programs are under way in India, Singapore, and South Korea.
+<P>
+For these countries, forming a megafund to test a few hundred compounds could be a much better bet than seeding biotech startups or offering incentives to big pharmaceutical firms.
+A biopharma megafund would offer a competitive edge in the industry, with lower development costs, a higher success rate, and faster time to market.
+Regional economies would benefit from the same networks of high-paying research jobs, entrepreneurs, investors, and service providers that traditional life-sciences innovation hubs create.
+<P>
+London’s mayor recently embraced this approach, proposing a $15 billion megafund to help the United Kingdom maintain a leadership role in drug development.
+In addition to direct investment, governments can also create incentives for the formation of these kinds of funds – for example, by guaranteeing bonds issued for biopharma research.
+<P>
+Ushering a drug from lab bench to bedside requires investing vast sums of money over long horizons.
+That funding must pay off for both society and investors.
+Emerging countries can lead the world to better health and greater wealth by pioneering new ways to finance drug development.

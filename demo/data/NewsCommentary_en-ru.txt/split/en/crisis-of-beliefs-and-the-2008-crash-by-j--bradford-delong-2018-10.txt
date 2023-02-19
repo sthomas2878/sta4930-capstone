@@ -1,0 +1,52 @@
+<HEADLINE>
+Self-Fulfilling Financial Crises
+<P>
+BERKELEY – The 2008 financial crisis and subsequent recession left the Global North 10% poorer than it otherwise would have been, based on 2005 forecasts.
+For those hoping to understand this episode better, I have long recommended four books, in particular: Manias, Panics, and Crashes, by the twentieth-century economist Charles P. Kindleberger; This Time Is Different, by Carmen M. Reinhart and Kenneth S. Rogoff of Harvard University; The Shifts and the Shocks, by the Financial Times economics commentator Martin Wolf; and Hall of Mirrors, by my University of California, Berkeley, colleague Barry Eichengreen.
+<P>
+Now, I want to add a fifth book to the list: A Crisis of Beliefs: Investor Psychology and Financial Fragility, by the economists Nicola Gennaioli and Andrei Shleifer.
+(Full disclosure: Shleifer was my roommate in college and graduate school; to this day, I credit him with whatever positive skills or reputation I may have.)
+<P>
+A Crisis of Beliefs is important for three reasons.
+First, it offers a welcome rejoinder to those who argue that the past decade was an unavoidable result of the housing bubble in the United States.
+Many experts still claim that the bubble’s deflation triggered the financial crisis.
+But the fact is that the bubble had already deflated substantially before the crisis erupted.
+<P>
+Recall that by mid-2008, home prices had returned to, or even fallen below, levels supported by their underlying fundamentals, and employment and production in the residential construction industry had declined to levels far below trend.
+The work of rebalancing asset valuations and reallocating economic resources across sectors had already been accomplished.
+<P>
+To be sure, there still would have been around $750 billion worth of financial-asset losses in the form of defaults on subprime mortgages and home-equity loans.
+But that is only one-quarter of what global equity markets lost in seven hours on October 19, 1987.
+In other words, it would not have been enough to sink the global financial system.
+Ben Bernanke, then Chair of the US Federal Reserve, seemed confident in the summer of 2008 that the correction in housing prices had not triggered any unmanageable financial crisis.
+At the time, he was mainly focused on the dangers of rising inflation.
+<P>
+And then the bottom fell out.
+The reason, Gennaioli and Shleifer show, is that beliefs changed.
+Investors came to believe that financial markets were saddled with highly elevated risk, owing to a number of factors.
+The interbank market had seized up, homeowners were defaulting on their mortgages, Bear Stearns had collapsed, the US Treasury had intervened to rein in Freddie Mac and Fannie Mae, and, above all, Lehman Brothers had declared bankruptcy.
+<P>
+All of this led to the sudden run on both the shadow and non-shadow banking systems, as investors scrambled to dump assets.
+The increased risk that they had imputed to the system became a reality.
+Like triage nurses in an emergency room, they quickly assessed the patient and then ran with their initial diagnosis as if there were no other option.
+<P>
+And yet nothing about the fallout from the crisis was inevitable.
+Had the Fed been in possession of contingency plans for putting too-big-to-fail institutions into receivership and becoming the risk-bearer of last resort, we would probably be living in a very different world today.
+Unlike those who look back and conclude that it was all an inevitable consequence of the housing bubble, Gennaioli and Shleifer recognize the central role that contingency played in the crisis and its aftermath.
+<P>
+Gennaioli and Shleifer’s second important contribution is to show that “crises of beliefs” like the one that precipitated the disaster of 2008-2009 are deeply rooted in human psychology, so much so that we will never be free of them.
+Thus, neither prudential policies nor crisis-response measures should treat these occurrences as flukes or one-off exceptions.
+Crises of belief are manifestations of a chronic condition that must be managed.
+<P>
+Thus, central banks and fiscal authorities should not use the end of a crisis as an excuse to step back or to take their hands off the wheel.
+When fundamental beliefs have shifted permanently, one should not expect the same policy mix that supported full employment, low inflation, and balanced growth before the crisis to do so afterwards.
+Moreover, the seeds of the next Kindlebergian sequence – displacement, optimism, enthusiasm, crash, panic, revulsion, discrediting – have already been sown by the very policies that were needed to address the last downturn.
+<P>
+The third reason why Gennaioli and Shleifer’s book is important is more technical, and applies directly to the field of economics.
+Economists have long recognized that requiring one’s representative agent to hold rational expectations of the future tends to produce models that are profoundly inapplicable to the real world.
+But, until now, no alternative approach has ever gained any traction.
+Gennaioli and Shleifer’s investors-as-triage-nurses framework shows great promise for being considered alongside other model-building strategies.
+<P>
+For a decade now, people have been looking for a silver lining to the disasters of 2008-2018, hoping that this period will bring about a more productive integration of finance, behavioral economics, and macroeconomic orthodoxy.
+So far, they have been searching in vain.
+But with the publication of A Crisis of Beliefs, there is hope yet.

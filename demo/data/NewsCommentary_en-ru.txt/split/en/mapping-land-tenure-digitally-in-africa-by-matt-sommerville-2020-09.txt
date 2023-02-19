@@ -1,0 +1,62 @@
+<HEADLINE>
+Mapping a Better Future for Africa’s Farmers
+<P>
+LUSAKA – Global positioning system (GPS) technology was originally developed to track nuclear submarines during the Cold War.
+For years, it has helped to prevent drivers everywhere from getting lost.
+Today, GPS tools have the potential to document the land of millions of subsistence farmers across Sub-Saharan Africa, thus protecting them from possible land grabs and removing a significant barrier to the region’s economic development.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Armed with GPS-enabled tablets or smartphones, local and international NGOs and African governments are mapping the property lines of everything from clam farms in Ghana to cotton fields in Zambia.
+Funding for this work comes from the US Agency for International Development (USAID), the United Kingdom’s Department for International Development (DFID), and national treasuries.
+<P>
+These efforts address one of the most pernicious and disastrous bottlenecks in agricultural development.
+The World Bank estimates that only 10% of rural land tenure in Sub-Saharan Africa is documented.
+Given the scale of the problem, governments, NGOs, and funders must rapidly expand this work and leverage technological innovations to provide land documentation quickly and efficiently to farmers across the region.
+<P>
+Typically, Africa’s family farmers either inherited their land or bought it on a handshake.
+In the absence of deeds or titles, land tenure often is governed by customary rules applied by local chiefs.
+This can leave farmers vulnerable not only to neighbors or relatives seeking to expand their land holdings, but also to foreign investors who have turned to Africa in search of cheap farmland, often unaware that local communities are already using it.
+<P>
+As a result, many Sub-Saharan African farmers become trapped in a cycle of poverty and conflict.
+Investors can’t determine from whom they can obtain vacant land, neighbors can’t agree on property lines, and siblings squabble over inheritances.
+This constant conflict and insecurity makes farmers like Jonathan Tembo reluctant to invest in their land to improve their harvests.
+<P>
+Tembo, headman of the village of Masili in eastern Zambia, says he and his neighbors have always planted maize – not because the crop will improve their children’s diet or boost their income, but because it is planted first after the rains.
+“If I waited to plant soybeans or sweet potato, which would bring me more money at harvest time, someone would see my empty land and plant it for themselves,” Tembo says.
+“We have always farmed like this – with fear in our hearts.”
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Many African governments recognize that insecure land tenure undermines efforts to achieve food security, improve nutrition, and spur rural development.
+But they have traditionally lacked the capacity or will to undertake the monumental task of hiring an army of surveyors to fan out across the country and document every farmer’s land.
+Moreover, the region lacks enough trained land surveyors to meet demand.
+Without digital technologies, it would take Uganda’s few dozen surveyors more than 1,000 years to document the 15 million land parcels in that country.
+<P>
+GPS-enabled smartphones are a potential game changer, because they can document property lines quickly and efficiently without having to rely on scarce surveyors.
+<P>
+Indigenous tribes in Latin America, Asia, and Africa started using this technology about a decade ago to map and protect vast stretches of ancestral lands, and GPS-based initiatives have expanded over the last seven years in particular.
+This reflects several developments: commercially available GPS technology became accurate enough to measure smaller parcels, GPS devices became more affordable, and smartphones allowed for better data collection and processing in the field.
+<P>
+In addition, land-tenure advocates developed and tested systems to help validate and manage the large amount of data created by mapping just a single village’s land holdings.
+USAID, for example, has developed a suite of low-cost tools that build on these innovations and pair them with community engagement.
+<P>
+“USAID and a few other donors see the documentation of land rights as a key hurdle that has been holding back millions of families across dozens of countries,” says David Arnaldo Mijan, who leads the agency’s environment division team within the USAID/Zambia Economic Development Office.
+“Documenting land improves nutrition, reduces conflict and poverty, empowers women economically, and allows families and communities to become more self-sufficient.”
+<P>
+Other funders should take note.
+<P>
+USAID and DFID have robust land-documentation programs that rely on similar approaches.
+These include educating community members about land rights and the benefits of documentation, and engaging them to help manage the process.
+In Tembo’s village of Masili, for example, members of each of the 75 households walked the boundaries of their land with witnesses and local leaders, noting the GPS coordinates.
+This enabled them to create a digital map of their village within a few days at a cost of about $20 per parcel.
+Making such a map with trained land surveyors would have taken years and cost hundreds of dollars per parcel.
+<P>
+Once Masili’s residents documented their land, conflicts over farm boundaries stopped, prompting farmers to invest in higher-value crops.
+Women in the community, who previously were at risk of being pushed off their farms if their husbands died, now have documents that they can use to defend their rights in court.
+Research demonstrates that strengthening women’s land tenure boosts their economic standing, improves family nutrition, and bolsters their children’s education.
+The ripple effect from documenting land rights should have donors and governments’ attention.
+<P>
+GPS-enabled smartphones provide an unprecedented opportunity for governments, funders, and NGOs to collaborate with local communities to document their land rights.
+By mapping the soil they work, farmers can chart a path to a better future.

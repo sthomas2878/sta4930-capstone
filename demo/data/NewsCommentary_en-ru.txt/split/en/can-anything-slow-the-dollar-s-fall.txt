@@ -1,0 +1,62 @@
+<HEADLINE>
+Can Anything Slow the Dollar’s Fall?
+<P>
+“Dollar denial,” that state of willful blindness in which bankers and central bankers claim not to be worried about America’s falling currency, seems to be ending.
+Now even European Central Bank Governor Jean Claude Trichet has joined the chorus of concern.
+<P>
+When the euro was launched, the US dollar-euro ($:€) exchange rate stood at $1.16/€1.
+At that price, the dollar was undervalued by roughly 10% relative to its purchasing power parity (PPP).
+Initially, the dollar’s price rose, but since 2002, it has, for the most part, fallen steadily.
+Every day seems to bring a new low against the euro.
+<P>
+In the face of the dollar’s ongoing fall, policymakers have seemed paralyzed.
+The reasons for inaction are many, but it is difficult to avoid the impression that they are related to the current state of academic theorizing about exchange rates.
+<P>
+Simply put, economists believe either that nothing should be done or that nothing can be done.
+Their so-called “rational expectations models” predict that exchange rates should not deviate from parity in any lasting way.
+Believing that they have found a way to model how currency traders think, they see no need for intervention because, save for temporary deviations, markets always get currency values right.
+<P>
+“Behavioral economists,” by contrast, acknowledge that currencies can depart from parity for a long period.
+But they attribute this to market psychology and irrational trading, not to the attempts of currency traders to interpret changing macroeconomic fundamentals.
+This implies that intervention is not only unnecessary; it is ineffective: Faced with wide swings and trading volumes of $2 trillion per day, central banks are helpless to counteract traders’ irrational zeal.
+<P>
+But both the “rational expectations” and the “behavioral” models are flawed, because they seek to generate exact predictions of human behavior.
+Both disregard the fact that rationality depends as much on individuals’ imperfect understandings of history and society as on their motivation.
+<P>
+If we place “imperfect knowledge” at the heart of economic analysis, the implications of our limited ability to predict market outcomes becomes clear.
+When it comes to currency markets, parity levels based on international trade are merely one of many factors that traders consider.
+In attempting to cope with imperfect knowledge, they are not irrational when they pay attention to other macroeconomic fundamentals and thereby bid an exchange rate away from its parity level.
+<P>
+In the euro’s rise against the dollar, euro bulls supposedly have been reacting to America’s current account deficit, the strong euro-zone economy, and rising euro interest rates.
+What is irrational about factoring in such fundamentals when trading a currency?
+<P>
+Of course, persistent swings from parity do not last forever.
+While movements in macroeconomic fundamentals may lead bulls to bid the value of a currency further from parity, doing so simultaneously fuels concern about a counter-movement back to parity – and thus capital losses – which moderates the desire to increase long positions.
+<P>
+Relating the riskiness of holding an open position in a currency market to the exchange rate’s divergence from parity levels suggests a novel way to think about how central banks can influence the market to limit departures from parity.
+Although the exchange rate ultimately reverts back to its PPP benchmark, in a world of imperfect knowledge market participants might ignore this possibility in the near term.
+But if central banks regularly announced their concern about significant departures from PPP, as they do now about inflation prospects, they would heighten traders’ concern that other traders will consider it increasingly risky to hold open positions that imply further movement away from parity levels.
+This should moderate bulls’ willingness to increase their long positions, thereby limiting the magnitude of the swing.
+<P>
+To implement this “limit-the-swings” proposal, a central bank would announce its estimate of parity values every month, together with a comprehensive explanation of its estimates.
+It would also make known to currency traders its concern about excessive departures from its estimated parity values and its readiness to intervene at unpredictable moments to impede further departures from PPP.
+This policy would be even more effective if it were known that more than one central bank – say, the Fed and the ECB – were prepared to intervene.
+<P>
+This strategy does not imply a pre-specified target zone for exchange rates.
+Given the size of currency markets, such targets almost always fail.
+Instead, our limit-the-swings strategy implies that, as the exchange rate moves further away from parity, central banks should intervene.
+The possibility of unpredictable interventions would reinforce the effect of the bank’s regular announcements of the parity values on traders’ perception of increased risk.
+<P>
+While this proposal shares some features with inflation targeting, it may actually achieve its goals more effectively.
+Both involve announcing benchmark levels.
+In both cases, central banks attempt to affect macroeconomic outcomes directly as well as by influencing market participants’ expectations.
+As Milton Friedman emphasized, however, the links between monetary policy and inflation are “long and variable.”
+<P>
+By contrast, the link between official intervention and exchange rate movements is much more direct and potent.
+Given massive trading volumes, direct intervention can alter supply and demand for currencies only on the margin.
+But the limit-the swings policy may amplify intervention’s effects by diminishing market participants’ desire to push the exchange rate away from PPP.
+<P>
+Our proposal to reduce ­­– but not eliminate – swings from parity recognizes that price fluctuations may be crucial for markets to ascertain the price of assets with an uncertain payoff.
+But currency swings, if too wide and protracted, can hurt competitiveness and require costly resource allocation.
+These effects often lead to calls for protectionist measures, which may reduce the benefits from international trade and real economic activity.
+Only by acknowledging the limits to knowledge can monetary and exchange rate policies have a better chance of succeeding.

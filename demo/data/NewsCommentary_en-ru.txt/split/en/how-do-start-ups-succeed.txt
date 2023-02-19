@@ -1,0 +1,61 @@
+<HEADLINE>
+How Do Start-Ups Succeed?
+<P>
+NEW YORK – The most popular stories often seem to end at the beginning. “…and so Juan and Alice got married.”
+Did they actually live happily ever after?
+“He was elected President.”
+But how did the country do under his rule?
+“The entrepreneur got her startup funding.”
+But did the company succeed?
+<P>
+Let’s consider that last one.
+Specifically, what happens to entrepreneurs once they get their money?
+Everywhere I go – and I have been in Moscow, Libreville (Gabon), and Dublin in the last few weeks – smart people ask how to get companies through the next phase of growth.
+How can we scale entrepreneurship to the point that it has a measurable and meaningful impact on the economy?
+<P>
+The real impact of both Microsoft and Google is not on their shareholders, or even on the people that they employ directly, but on the millions of people whom they have made more productive.
+That argues for companies that solve real problems, rather than for yet another photo-sharing app for rich, appealing (to advertisers) people with time on their hands.
+<P>
+It turns out that money is rarely enough – not just that there is not enough of it, but that entrepreneurs need something else.
+They need advice, contacts, customers, and employees immersed in a culture of effectiveness to succeed.
+But they also have to create something of real value to have meaningful economic impact in the long term.
+<P>
+The easy, increasingly popular answer is accelerators, incubators, camps, weekends – a host of locations and events to foster the development of startups.
+But these are just buildings and conferences unless they include people who can help with the software – contacts, customers, and culture.
+The people in charge, from NGOs to government officials, have great ideas about structures – tax policy, official financing, etc. – while the entrepreneurs themselves are too busy running their companies to find out about these things.
+<P>
+But this week in Dublin, I found what we need: not policies or theories, but actual living examples.
+Not far from the fancy hotel at which I was staying, and across from Google’s modish Irish offices, sits a squat old warehouse with a new sign: Startupbootcamp.
+You enter through a side door, into a cavern full of sawdust and cheap furniture (plus a pool table and a bar, of course).
+<P>
+What makes this place interesting is its sponsor: venerable old IBM.
+The mission of Startupbootcamp Europe is not to celebrate entrepreneurs, or even to educate them, but to help them scale up to meaningful businesses.
+Their new products can use IBM’s and other mentors’ contacts with the much broader world, whether for strategic marketing alliances, the power of an IBM endorsement, or, ultimately, an acquisition.
+<P>
+I was invited by Martin Kelly, who represents IBM’s venture arm in Ireland.
+He introduced me to the manager of the place, Eoghan Jennings, and a bunch of seasoned executives.
+<P>
+There was a three-time entrepreneur, Conor Hanley, co-founder of BiancaMed (recently sold to Resmed), who now has a sleep-monitoring tool and an exciting distribution deal with a large company he can’t yet mention; Jim Joyce, a former sales executive for Schering Plough who is now running Point of Care, which helps clinicians to help patients to manage their own care after they leave hospital; and Johnny Walker, a radiologist whose company operates scanners in the field and interprets them through a network of radiologists worldwide.
+Currently, Walker’s company, Global Diagnostics, is focused on pre-natal care, but give him time.
+<P>
+These guys are not the “startups”; they are the mentors, carefully solicited by Kelly from within the tightly knit Irish business community.
+He knew exactly what he was looking for: “In Ireland, we have people from lots of large companies.
+Joyce, for example, can put a startup in touch with senior management from virtually any pharma company around the world.
+Hanley knows manufacturing and tech partners.
+Walker understands how to operate in rural conditions.”
+<P>
+According to Jennings, a former chief financial officer of Xing, Europe’s leading social network, “We spent years trying to persuade people that they had a problem we could solve; now I am working with companies solving problems that people know they have.” And that usually involves more than an Internet solution; it requires distribution channels, production facilities, market education, and the like.
+Startupbootcamp’s next batch of startups, not coincidentally, will be in the health-care sector.
+<P>
+Each of the mentors can help a startup to go global.
+Precisely because the Irish market is so small, it’s a good place to find people who know how to expand globally.
+In Ireland right now, as in so many countries, many large companies are laying off people with experience.
+Not all of them have the makings of an entrepreneur.
+But most of them have skills worth sharing, whether it’s how to run a sales meeting, oversee a development project, or manage a database of customers.
+<P>
+And, adds Kelly, “IBM itself can be a huge customer for certain kinds of software or services.
+For other companies, just the IBM endorsement can be meaningful.
+Customers don't necessarily have time to do due diligence, but they will trust IBM's recommendation” more than they might trust that of a government-funded incubator.
+<P>
+It may make more sense for a government that wants to build its own tech community to talk to big business than to approach big banks.
+The best money is not so much “smart” as it is experienced.

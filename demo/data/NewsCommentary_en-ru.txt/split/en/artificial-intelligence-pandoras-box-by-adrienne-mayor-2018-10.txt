@@ -1,0 +1,59 @@
+<HEADLINE>
+An AI Wake-Up Call From Ancient Greece
+<P>
+STANFORD – In discussions about the implications of artificial intelligence (AI), someone almost always evokes the ancient Greek myth of Pandora’s box.
+In the modern fairytale version of the story, Pandora is depicted as a tragically curious young woman who opens a sealed urn and inadvertently releases eternal misery on humankind.
+Like the genie that has escaped the bottle, the horse that has fled the barn, and the train that has left the station, the myth has become a cliché.
+<P>
+And yet the actual story of Pandora is far more apropos to debates about AI and machine learning than many realize.
+What it shows is that it is better to listen to “Prometheans” who are concerned about humanity’s future than “Epimetheans” who are easily dazzled by the prospect of short-term gains.
+<P>
+One of the oldest Greek myths, the story of Pandora was first recorded more than 2,500 years ago, in the time of Homer.
+In the original telling, Pandora was not some innocent girl who succumbed to the temptation to open a forbidden jar.
+Rather, as the poet Hesiod tells us, Pandora was “made, not born.”
+Having been commissioned by all-powerful Zeus and designed to his cruel specifications by Hephaestus, the god of invention, Pandora was a lifelike android created to look like a bewitching maiden.
+Her purpose was to entrap mortals as a manifestation of kalon kakon: “evil hidden in beauty.”
+<P>
+Pandora’s name means “all gifts,” and reflects the fact that all of the gods contributed to her composition.
+After her creation in Hephaestus’s forge, Hermes escorted the ravishing young “woman” down to earth and presented her as a bride to Epimetheus.
+Her dowry was the fateful sealed jar containing more “gifts.”
+<P>
+Epimetheus was brother to Prometheus, the rebel titan who championed – and, by some accounts, created – humankind.
+Prometheus was concerned with humans’ obvious vulnerability, so he taught men and women how to use fire and other tools responsibly.
+But this enraged Zeus, a merciless tyrant who jealously guarded his exclusive access to awesome technologies.
+As punishment, Zeus bound Prometheus to a rock and sent his drone-like eagle – also forged by Hephaestus – to feed on his liver.
+<P>
+For her part, Pandora was deliberately devised to punish humankind for accepting the gift of fire from Prometheus.
+Essentially a seductive AI fembot, she had no parents, childhood memories, or emotions of any kind, nor would she ever age or die.
+She was programmed to carry out one malevolent mission: to insinuate herself in an earthly setting and then unseal the jar.
+<P>
+But that is still not the whole story.
+As Plato tells us, Prometheus’s name means “foresight,” because he was always looking ahead, unlike his carefree brother, Epimetheus, whose name means “hindsight.”
+As the more rational and justifiably paranoid of the two, Prometheus tried to warn his brother not to accept Zeus’s dangerous gift.
+But Epimetheus was charmed by Pandora and heedlessly welcomed her into his life.
+Only later did he come to realize his terrible error.
+<P>
+The popular image of Pandora reeling back in horror as a cloud of evil swarms out of the jar is thus a modern invention.
+So, too, is the cloying image of Hope emerging from the vessel last to soothe men’s souls.
+In classical Greek renditions, Pandora is depicted as a cunning automaton: the most famous vase painting of her shows a young woman standing stiffly with an uncanny smile.
+<P>
+Moreover, in antiquity, Hope was personified as a young woman named Elpis, and usually stood for a lack of foresight.
+Rather than a boon, Hope signified an inability to look ahead or choose sensibly among possible outcomes; she represented wishful thinking, not life-sustaining optimism.
+And for the Greeks, she was just another manifestation of kalos kakon: a beautiful evil that had been unleashed upon humans.
+Hence, at least one ancient artist depicted Elpis/Hope, much like Pandora, with a smirking grin.
+<P>
+With AI/machine learning quickly evolving into a “black box” technology, the symbol of Pandora’s sealed jar has taken on new meaning.
+Soon, the operational logic of AI decision-making systems will be inscrutable not just to their users, but also to their creators.
+Among other threats, the possibility that AI systems will be hacked by malign actors, or deployed by terrorists and tyrants, now looms large.
+<P>
+When Facebook founder Mark Zuckerberg, MIT’s Andrew McAfee, Lili Cheng of Microsoft, and other AI optimists assure us that AI will bring great benefits, one cannot help but think of Epimetheus and Elpis.
+Should we really trust humanity to adjust and troubleshoot the problems posed by AI as they arise?
+<P>
+It seems wiser to heed modern-day Promethean thinkers such as the late Stephen Hawking, Microsoft founder Bill Gates, and the 115 other tech leaders who in 2017 spoke out about the threat of weaponized AI and robotics.
+“We do not have long to act,” they warned.
+“Once this Pandora’s box is opened, it will be hard to close.”
+Moreover, these Prometheans’ concerns have been echoed by Google co-founder Sergey Brin and AI ethicists such as Joanna Bryson and Patrick Lin, who caution against recklessly accepting AI’s “gifts” before figuring out how to control them.
+<P>
+Recent polls suggest that optimism about the potential benefits of AI has dropped significantly among those who are actually developing AI systems.
+An understanding of how AI works would seem to correlate with more realistic expectations.
+Rather than blind hope, foresight based on knowledge and experience should govern how we manage the future of this technology and our relationship with it.

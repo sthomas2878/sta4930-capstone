@@ -1,0 +1,55 @@
+<HEADLINE>
+Navigating the Pandemic Trilemma
+<P>
+PRINCETON – The coronavirus crisis is forcing a dramatic reassessment of how government and the economy function.
+As Matthew M. Kavanagh of Georgetown University argues in The Lancet, the pandemic has revealed a trilemma: it is impossible to have a medically healthy society, a healthy economy, and a healthy democracy at the same time.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The implication is that if we want airlines to keep flying and restaurants and pubs to stay busy, more people will have to get sick and die.
+On the other hand, if we shut down these activities, the economic downturn will be much more severe than the 2008 global financial crisis, with rates of unemployment similar to those of the Great Depression – and possibly much higher.
+Many of the businesses – especially small shops, restaurants, and service providers – that are closed “temporarily” will in fact never reopen.
+<P>
+In thinking about the nature of the current crisis, one can also imagine a rigorous and intrusive system for identifying infected individuals and immediately tracing their contacts.
+With modern surveillance technology, it is possible to determine who sat next to you on the bus, or who handed you a receipt when you went to the store.
+But while such information can be enormously valuable in containing infections, collecting it implies an equally enormous loss of privacy.
+<P>
+At the moment, the only society that comes remotely close to realizing this surveillance-state scenario is China, under whose “social credit system” every action is monitored and then “graded” by the state.
+Indeed, as many commentators have pointed out, China’s response to the COVID-19 crisis seems to have been more effective than that of any other country.
+<P>
+Does this mean that if one wants to have a democracy, one must choose between a healthy economy and a healthy population, whereas if one wants a healthy economy, one must choose political liberty or physical wellbeing?
+In macroeconomics, this kind of choice is known as the trilemma.
+<P>
+Such trilemmas (or “impossible trinities”) are not new to macroeconomists.
+In the early 1960s, economists Robert Mundell and John Fleming pointed out that fixed exchange rates are compatible with free capital movement or an independent monetary policy, but not with both at the same time.
+And, more recently, Dani Rodrik of Harvard University has applied the idea of a trilemma to globalization, arguing that “democracy, national sovereignty, and global economic integration are mutually incompatible: we can combine any two of the three, but never have all three simultaneously and in full.”
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Fortunately, on closer inspection, this thinking about impossible choices turns out to be erroneous.
+Modern economists reject the idea of the classic macro trilemma, because it turns out that flexible exchange rates actually do not afford much more room for monetary policymaking.
+Moreover, none of the points in the triangle is absolute: there is no such thing as completely fixed exchange rates, because even the tightest fix (including a currency union) can be broken.
+Likewise, capital never moves completely freely, as there is always a domestic bias.
+And even in a closed economy, monetary policy would be subject to external signals.
+<P>
+Proponents of more recent trilemmas should heed the lessons of the original macroeconomic debate.
+No country ever has complete sovereignty, because external and global events will always affect how governments make choices.
+Nor can a country or a people ever have complete democracy, because some level of decision-making will always be subordinated to the wishes of others, or delegated to representative bodies.
+By the same token, we will never have complete globalization, because people and their governments always will make special allowances for the local or domestic setting.
+<P>
+The upshot is that in the real world, apparent trade-offs are not always absolute; rather, they are negotiable, or even illusory.
+In the case of COVID-19, we must protect public health while also preserving the social and political fabric of our lives.
+To that end, it is already clear that the release and sharing of medical information across borders will be necessary for organizing an effective coordinated response, not just to this pandemic but also to similar challenges in the future.
+It is also clear that the response to the crisis absolutely must include widespread testing and contact tracing, which entails a partial – but certainly not a complete – loss of privacy.
+<P>
+As for the economic implications of the pandemic, far from delivering a long-term blow to growth, the virus’s severe short-term shock has actually generated new opportunities.
+Consider the domain of telemedicine, which allows for virtual doctor visits, self-administered blood tests, and many forms of remote monitoring.
+The medical profession has stood in the way of these innovations, insisting on physical examinations and other artifacts of a bygone era.
+Now, medicine and many other industries are finally exploring the opportunities offered by twenty-first-century information and communication technologies.
+It is easy to imagine many companies and sectors sticking with the new practices they’ve developed during the pandemic after it has passed.
+<P>
+Crises, by definition, always force a choice.
+One’s response can be short-sighted, panicky, and destructive, or it can be radical, innovative, and constructive.
+It is worth remembering that in addition to China, South Korea has also managed to control the epidemic, and it has done so without abandoning its democracy.
+There is no reason to think that the choices we make in response to this crisis cannot result in longer-term dynamism and resilience.

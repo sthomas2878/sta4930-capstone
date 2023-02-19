@@ -1,0 +1,65 @@
+<HEADLINE>
+America’s Compromised State
+<P>
+PRINCETON – A malevolent, incompetent Trump administration bears much of the blame for America’s failure to control COVID-19.
+But there is an additional, less noticed cause: the Connecticut Compromise of 1787, which handicapped American democracy at its inception, and has since undercut Congress’s response to the pandemic.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+At the Constitutional Convention of 1787 small and large states disagreed about the basis of representation, with the former arguing for equality of states, and the latter for equality of people.
+The compromise was to establish a bicameral legislature, with one chamber for the people and one for the states.
+In the House of Representatives, people are represented in proportion to their numbers; in the Senate, each state has two senators, regardless of its population.
+<P>
+As a result, the four largest states today – California, Texas, Florida, and New York – hold only eight of 100 seats in the Senate, even though they account for one-third of the US population.
+Eight votes also go to the four smallest states – Wyoming, Alaska, Vermont, and North Dakota – which together contain 1% of the population.
+<P>
+Now consider income inequality, which is often measured by the Gini coefficient, with zero signifying perfect equality, and one indicating perfect inequality (a single person receives all income).
+The US Gini coefficient is 0.42 – the highest among rich countries.
+Yet if one were to apply the same metric of inequality to representation in the Senate, it would be an even larger 0.50.
+Voters in Wyoming have ten times as much voting power as voters in Texas do.
+And because legislation must pass both chambers, coalitions of small states can easily block measures that are in the interest of the vast majority of the population.
+The Senate frequently does precisely this.
+<P>
+The geographical distribution of COVID-19 cases and deaths is even less equal than the distribution of voting power in the Senate.
+As of July 8, 45% of the 125,000 recorded COVID-19 deaths were in just four states – New Jersey, New York, Massachusetts, and Illinois – and 70% were in ten states.
+There have been deaths in all states; but the combined death toll for Alaska, Hawaii, Wyoming, and Montana is only around 80.
+The 25 least affected states have lost a total of 8,000 people – 6.4% of the national total.
+<P>
+When US President Donald Trump proclaimed a national emergency on March 13, the country went into lockdown more or less uniformly.
+The emergency was national, and Congress responded by passing four separate measures on a non-partisan basis.
+But over time, the state-by-state lockdowns gradually eased – both officially and unofficially – with much less uniformity than the original freeze.
+In places with low rates of infections and few deaths, people started moving around more freely compared to residents of states like New York, New Jersey, and Massachusetts, where people were dying or had died in large numbers.
+The Senate’s appetite for more emergency spending rapidly dwindled.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+On May 15, the Democratic-controlled House passed the Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act on a mostly party-line vote.
+But the legislation has since made no progress in the Senate.
+The Republican majority in that chamber is a direct consequence of the Compromise of 1787, which awards a wildly disproportionate share of seats to rural, less-populated states that lean Republican.
+<P>
+Hence, the stage has long been set for a tragedy.
+Soon enough, the virus began to spread in the south and southwest, where low death rates had encouraged widespread nonchalance.
+Once policymakers realized that infections and deaths were spiraling upward, they tried to reverse the reopening process.
+But it appears they were too late, and now infections are once again threatening eastern states by way of travelers from southern and western states.
+<P>
+Lacking a national plan, let alone a constitution that would allow for central control, each state follows its own instincts and perceived interests, usually myopically.
+With free travel between states, the virus now will bounce back and forth across the country until a vaccine becomes available or herd immunity has been attained (assuming that lasting immunity is even possible).
+<P>
+As the deaths continue to rise in states that previously had fewer cases, the Senate will likely take up some version of the HEROES Act.
+This relief will be urgently needed, considering that unemployment benefits will run out at the end of this month, and the most affected states will soon run out of money.
+But it would have been needed less if the Senate had shown leadership earlier on.
+A coordinated national strategy for the lockdown might have resulted in a slower return to work, but it would have been more sustainable than the chaos now underway.
+<P>
+In any case, the contagion is shifting from “blue” (Democratic) to “red” (Republican) states.
+As of July 8, the ratio of deaths in the 26 states with Republican governors (compared to the 24 states with Democratic governors) had risen to 29%, from 22% in late March.
+Republican governors arguably have been more influenced than their Democratic counterparts by the pernicious disinformation issuing from the White House and its media allies.
+Demonstrating open contempt for scientific advice, a recent Wall Street Journal editorial mocked Harvard University as “one of the last institutions in America that haven’t learned to be wary of making radical changes based on models from public health experts.”
+<P>
+That said, I suspect matters would not have been very different if Democrats had replaced Republican state legislators and governors.
+The problem is the lack of a central, enforceable national strategy in a country with a federal system that is ultimately controlled by local authorities responding to their own needs and perceived risks.
+It was always going to be difficult to ask people to sacrifice for faraway others, in order to mitigate a risk they do not see in their own communities.
+<P>
+The power of the states was a problem in Philadelphia in 1787, and it remains a problem today.
+Inequality is often cited as the cause of many social ills.
+As if America’s economic inequality weren’t bad enough, its institutionalized representational inequality has now severely undermined the effectiveness of its democracy.

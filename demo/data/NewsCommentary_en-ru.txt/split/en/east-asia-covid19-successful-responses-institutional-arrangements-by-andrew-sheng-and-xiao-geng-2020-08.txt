@@ -1,0 +1,73 @@
+<HEADLINE>
+Minimizing the Social Cost of COVID-19
+<P>
+HONG KONG – In 1960, the Nobel laureate economist Ronald H. Coase introduced the “problem of social cost”: human activities often have negative externalities, so individual rights cannot be absolute.
+Institutions must intervene.
+There is no better example of this dynamic than the COVID-19 crisis.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+While virtually every country has suffered as a result of the pandemic, some have done much better than others.
+Whereas some have reduced COVID-19 cases to near zero, others have had steadily climbing infection and death rates for months.
+As McKinsey & Company has noted, economic activity associated with discretionary mobility has returned to normal for the former group.
+Among the latter, such activity remains about 40% below the pre-pandemic level.
+<P>
+Not everyone is suffering equally.
+Low-paid workers with inferior access to medical care and less opportunity to stay home – say, because their jobs are classified as “essential” – are bearing the clinical and economic brunt of the crisis.
+<P>
+This puts everyone at risk.
+After all, even if a country contains the first wave of COVID-19 infections, it will remain vulnerable, as the virus continues to be imported from worse-performing countries.
+In other words, the social costs of inadequate institutional arrangements in some countries are spilling over to those with well-functioning institutions.
+<P>
+The first step toward addressing this problem is to identify which institutional arrangements are most effective for reducing the social costs of the COVID-19 crisis.
+This is not, as one might assume, just a matter of having strong institutions.
+The United States and the United Kingdom are institutionally robust, and both had weeks, if not months, to prepare before their outbreaks began, but both have had among the world’s highest infection and mortality rates.
+<P>
+By contrast, East Asian countries were the first to be infected, meaning they had little, if any, time to prepare.
+And yet many of them are among the countries that have reduced COVID-19 cases to near zero.
+The difference comes down to attitudes: what role and responsibilities each society attributes to government, and to what extent it expects the community to act as a collective agent of the common good.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In the US, there is a long-standing emphasis on personal freedom.
+“Small government” is a commonly heard refrain, with many arguing that individuals acting as self-interested participants in markets and in social and political processes will naturally produce positive outcomes.
+Government intervention – even in the event of a pandemic – infringes on individual rights and, indeed, on the very meaning of being an American.
+Protests over shelter-in-place orders and mask mandates reflect this view.
+<P>
+This is very different from the prevailing mindset in East Asia.
+For example, many Western observers have attributed China’s success in containing COVID-19 to its authoritarian regime, which supposedly infringed on individual freedoms, privacy, and economic efficiency in a way no democratic government ever could.
+<P>
+Coase’s theory shows why that logic is flawed.
+As he explains, the market may be able to minimize social costs if all actors have full information and face near-zero transaction costs.
+But those conditions are unrealistic even in normal times.
+<P>
+During a pandemic, no individual can possibly receive comprehensive and current information on the virus.
+In fact, the very existence of asymptomatic carriers precludes the possibility of “full information.”
+And, because the transaction costs of mask wearing, quarantining, testing, and contact tracing are high, making compliance a matter of individual choice will never be enough to contain the virus.
+<P>
+But Soviet-style centralized intervention is not feasible: agents of the state cannot observe every move every person makes and enforce every precautionary behavior at all times.
+And, contrary to popular belief, that is not what China has done.
+Instead, recognizing that fully voluntary action was inadequate, the state provided comprehensive and mandatory rules to facilitate individual and communal compliance, as well as fiscal and logistical support for implementation.
+<P>
+To illustrate, upon arriving in Shenzhen from Hong Kong, one of us headed to a designated hotel – equipped with medical staff conducting tests and monitoring temperatures – for a 14-day mandatory quarantine.
+On the way to the hotel, both the landlord and a community contact person got in touch, having been informed by the authorities to prepare for a new arrival from abroad.
+<P>
+From the airport to the quarantine hotel to home, every single individual – immigration officers, bus drivers, security screeners, medical personnel, and hotel staff – wore full personal protective equipment.
+Common areas were regularly disinfected.
+The state provided all needed resources.
+<P>
+Of course, a traveler would prefer to go home, rather than stay in a quarantine hotel for two weeks.
+But ostensibly high compliance costs for individuals do not outweigh the overall social costs of partial interventions.
+So, with institutional support and clear guidance – delivered via many channels, including social media – people have taken the necessary precautions.
+Responsibility for implementation has also been clearly delineated across government agencies.
+<P>
+The results – sharply reduced COVID-19 infections and deaths – speak for themselves.
+Other East Asian countries – such as Japan, Singapore, South Korea, and Vietnam – have achieved similar success, using very similar institutional approaches.
+In every case, the government intervened early, devised comprehensive rules and guidance, and provided the resources needed to apply relevant measures.
+And in every case, society was receptive to government intervention aimed at advancing the common good.
+<P>
+Crucially, these countries have very different cultures and political systems.
+Attempts to turn an effective institutional response to the pandemic into a political or ideological battleground are thus misguided, at best.
+The Coasian lesson is that, regardless of ideology or politics, each society must develop institutional arrangements that minimize social costs.
+After all, those suffering the consequences of others’ decisions are unlikely to revel in their “freedom.”

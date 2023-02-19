@@ -1,0 +1,48 @@
+<HEADLINE>
+The Kismet of Basic Science
+<P>
+STANFORD – The British journalist Matt Ridley is usually an insightful commenter on the philosophy and practice of science.
+But his assessment of the relationship between basic research and technological innovation – in short, that “‘basic science’ isn’t nearly as productive of new inventions as we tend to think”– misses the mark.
+<P>
+According to Ridley, “most technological breakthroughs come from technologists tinkering, not from researchers chasing hypotheses.”
+In support of his thesis, he offers several examples of “parallel instances” of invention: there were six separate inventors of the thermometer, three of the hypodermic needle, four of vaccination, five of the electric telegraph, and so on.
+What Ridley fails to recognize is that the theoretical underpinnings of these inventions may be the result of earlier basic research that had no particular intended practical application; that its significance was completely unsuspected when it was conducted.
+<P>
+After receiving the 1969 Nobel Prize in Physiology or Medicine, Salvador Luria, my M.I.T. microbiology professor, joked about the difficulty of perceiving the significance of one’s own research findings.
+To all who had congratulated him on the award, Luria sent a cartoon that showed an elderly couple eating breakfast.
+The husband, reading the newspaper, exclaims, “Great Scott!
+I’ve been awarded the Nobel Prize for something I seem to have said, or done, or thought, in 1934!”
+<P>
+The idea is less ludicrous than it may seem.
+In 1911, Francis Peyton Rous found – through research, not “tinkering” – that supposedly spontaneous malignant tumors in chickens were actually caused and transmitted by a retrovirus.
+Rous won a Nobel for his discovery, but not until 1966.
+<P>
+The French biologist François Jacob provided a clear example of the serendipity of basic research in a 2011 Science editorial describing the research that earned him a Nobel in 1965.
+As his lab worked on the mechanism that under certain circumstances causes the bacterium E. coli suddenly to produce bacterial viruses (which had been dormant), another research group was analyzing how the synthesis of a certain enzyme in E. coli is induced in the presence of a specific sugar.
+As Jacob wrote, “...the two systems appeared mechanistically miles apart.
+But their juxtaposition would produce a critical breakthrough for our understanding of life” – namely, the concept of an “operon,” a cluster of genes whose expression is regulated by an adjacent regulatory gene.
+<P>
+But perhaps the quintessential example of this phenomenon was the origin in the early 1970s of recombinant DNA technology (also known as “genetic modification,” or “GM”), the prototypic technique of modern genetic engineering, which resulted from synergy among several esoteric, largely unrelated areas of basic research.
+Enzymology and nucleic acid chemistry led to techniques for cutting and rejoining segments of DNA.
+Advances in fractionation procedures permitted the rapid detection, identification, and separation of DNA and proteins.
+And the accumulated knowledge of microbial physiology and genetics enabled “foreign” DNA to be introduced into a cell’s DNA and made to function there.
+<P>
+The result was the ability to move functional genes from one organism to another virtually at will – the basis of modern biotechnology.
+The technological revolution wrought by recombinant DNA was not remotely the sort of “inexorable, evolutionary progress” envisioned by Ridley.
+On the contrary, it could not have been realized in the absence of publicly funded basic research.
+<P>
+Most of the published responses to Ridley’s essay were critical.
+Standish M. Fleming, a California-based investor, highlighted how attractive academic research powerhouses are to industry.
+Venture capital, biopharmaceutical, and other high-tech industries, he pointed out, “cluster about major research centers” precisely because “basic science drives innovation.”
+As he put it, “Venture capitalists literally ‘walk the halls’ of major research institutes in search of breakthroughs, embodied in patents and published papers, around which to build companies.
+Government financing supports those centers.”
+<P>
+Two European academics, Len Fisher and Ibo van de Poel, emphasize that the results of scientists’ efforts to understand the basic laws of nature form the basis of technological innovations.
+Unlike Ridley, they recognize that the reason “technological applications don’t automatically follow” is simply that “the most significant applications are often the least predictable.”
+<P>
+Leon N. Cooper, a Nobel laureate in physics, offered a particularly compelling take.
+“It would have been difficult to predict that the investigations of Maxwell, Lorentz, and Einstein in electromagnetic theory would lead to improvements in communications,” he pointed out.
+“Few would have expected that Schrödinger and Heisenberg’s quantum mechanics would lead to the transistor and computers,” or that “Townes’s work on millimeter radiation would give us laser surgery.”
+<P>
+Basic science often provides the fertile substrate from which technological breakthroughs sprout, and seemingly unrelated and obscure research areas may intersect and synergize unexpectedly.
+That is why it is so vital to continue to support well-designed basic research, even in the absence of obvious benefits to society.

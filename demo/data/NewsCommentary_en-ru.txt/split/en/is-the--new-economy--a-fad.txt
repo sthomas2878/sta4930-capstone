@@ -1,0 +1,62 @@
+<HEADLINE>
+Is the "New Economy" a Fad?
+<P>
+Not long ago the "new economy" was portrayed by many as having repealed the laws of economic gravity: stock prices, productivity, and employment were to go ever up, never to go down.
+NASDAQ's crash and the worldwide slowdown which followed caused many to think that the much vaunted "IT revolution" was merely another speculative bubble.
+<P>
+So, the question we now face is this: how important will the technological revolutions in data processing and communications be in the long run?
+Can we really speak of a "new economy"?
+No one has a crystal ball and erroneous predictions are possible.
+Nevertheless, we believe that the long_run economic impact of the "new economy" is likely to be huge.
+<P>
+Some technological innovations change our lives but have no lasting effect on the economy as a whole.
+The revolution in illumination is a good example.
+In 1800, an American household spent 4% of its income on candles, lamps, oil, and matches.
+It now spends less than 1% on lighting and consumes more than a hundred times as much artificial illumination.
+The real price of light fell by a thousandfold over the past two centuries, yet we do not speak of the "illumination revolution," or of a "new economy" based on streetlights and fluorescent office and store lights.
+<P>
+For a technological change to revolutionize an entire economy, as steam power and electricity did, its effect must not be local, but must radiate across much of the economy, so that the demand for new products grows more rapidly than the decline in their prices.
+Only then can we speak of a "new economy" because only then does the share of the new sector's products in total expenditure grow, with high productivity growth in the new sector translated into productivity growth for the entire economy.
+<P>
+Armed with this observation, let's look at the impact of the changes in data processing and communications.
+Note first the phenomenal growth of productivity in the new sector.
+By the late 1950s there were roughly 2000 computers in the world and their processing power averaged 10,000 machine instructions per second.
+There are now 300 million computers in the world, with processing power averaging several hundred million instructions per second--a four_billion_fold increase in raw automated computational power, an average annual growth rate of 56%!
+<P>
+There is every reason to believe that this pace of productivity growth will continue for decades.
+More than a generation ago Intel's co_founder Gordon Moore noticed that improvements in semiconductor fabrication allow for a doubling of the density of transistors on a chip every eighteen months.
+The scale of investment needed to make what is known as "Moore's Law" hold has grown exponentially along with the density of transistors and circuits, but "Moore's Law" remains in force, and engineers see no immediate barriers that will bring the process of improvement to a halt anytime soon.
+<P>
+Rapid technological progress brings rapidly falling prices.
+As prices fall, IT products, unlike light, are ever more in demand because this explosion of technology has profound consequences for how we organize production across the whole economy.
+Computers, switches, cables, and software are general_purpose technologies, hence demand for them is likely to be extremely elastic.
+<P>
+Indeed, each successive generation of falling prices appears to produce new uses for computers and communications equipment, thus increasing demand and increasing their salience in the economy as a whole.
+The early, very expensive, computers performed complicated and lengthy arithmetic operations.
+Their use was at first limited to the military, and was then extended to America's Census Bureau, which also needed to perform lengthy calculations.
+<P>
+Only later did it become clear that the computer was good for much more than repetitive calculations at high speed.
+The computer was also an organizer.
+Airlines automated their reservation systems and insurance companies automated back office sorting and classifying.
+<P>
+Subsequent uses included computer_aided product design.
+In this and other applications, the computer functions as a "what_if machine": it creates models of what would happen if the airplane, the molecule, the business, or the document were to be built up in a particular way.
+It thus enables an amount and a degree of experimentation in the virtual world that would be prohibitively expensive in the real world.
+<P>
+Indeed, the process has come full circle: today's complex designs for new semiconductors would be impossible without automated design tools.
+Progress in computing depends upon Moore's law; and the progress in semiconductors that makes possible the continued march of Moore's law now depends upon progress in computers and software!
+<P>
+As computing power increases, computer usage continues to expand to new applications.
+Production and distribution processes are being transformed, not just through robotic auto painting or assembly, but through such things as scanner_based retail inventory control and robot_guided hip surgery.
+Computers have burrowed inside conventional products and become embedded systems.
+They have become interconnected in the World Wide Web--a distributed database of information accessible through a single global network.
+Paralleling the revolution in data processing has been a similar revolution in data communications capacity.
+<P>
+There is no sign that the domain of potential uses is exhausted.
+Indeed, we used to live in an economy in which the canonical source of value was an ingot of iron, a barrel of oil, or a bushel of wheat.
+We are now moving towards an economy in which the canonical source of value is a gene sequence, a line of computer code, or a logo.
+Goods are increasingly valued not for their physical properties but for weightless ideas.
+What you know matters more than how much you can lift.
+<P>
+Thus, unless Moore's Law ceases to hold or the marginal usefulness of computers and communications equipment rapidly declines, the economic significance of the IT sectors will not shrink, but grow.
+Rapidly falling prices and extremely elastic demand will sustain rapid growth in these sectors' share of total economic expenditure.

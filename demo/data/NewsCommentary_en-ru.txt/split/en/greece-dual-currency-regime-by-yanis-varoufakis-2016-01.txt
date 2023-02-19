@@ -1,0 +1,49 @@
+<HEADLINE>
+Greece’s Two Currencies
+<P>
+ATHENS – Imagine a depositor in the US state of Arizona being permitted to withdraw only small amounts of cash weekly and facing restrictions on how much money he or she could wire to a bank account in California.
+Such capital controls, if they ever came about, would spell the end of the dollar as a single currency, because such constraints are utterly incompatible with a monetary union.
+<P>
+Greece today (and Cyprus before it) offers a case study of how capital controls bifurcate a currency and distort business incentives.
+The process is straightforward.
+Once euro deposits are imprisoned within a national banking system, the currency essentially splits in two: bank euros (BE) and paper, or free, euros (FE).
+Suddenly, an informal exchange rate between the two currencies emerges.
+<P>
+Consider a Greek depositor keen to convert a large sum of BE into FE (say, to pay for medical expenses abroad, or to repay a company debt to a non-Greek entity).
+Assuming such depositors find FE holders willing to purchase their BE, a substantial BE-FE exchange rate emerges, varying with the size of the transaction, BE holders’ relative impatience, and the expected duration of capital controls.
+<P>
+On August 18, 2015, a few weeks after pulling the plug from Greece’s banks (thus making capital controls inevitable), the European Central Bank and its Greek branch, the Bank of Greece, actually formalized a dual-currency currency regime.
+A government decree stated that “Transfer of the early, partial, or total prepayment of a loan in a credit institution is prohibited, excluding repayment by cash or remittance from abroad.”
+<P>
+The eurozone authorities thus permitted Greek banks to deny their customers the right to repay loans or mortgages in BE, thereby boosting the effective BE-FE exchange rate.
+And, by continuing to allow payments of tax arrears to be made in BE, while prescribing FE as a separate, harder currency uniquely able to extinguish commercial bank debt, Europe’s authorities acknowledged that Greece now has two euros.
+<P>
+The real effects of the dual-currency regime on Greece’s economy and society can be gleaned only from the pernicious interaction between the capital controls and the “reforms” (essentially tax hikes, pension reductions, and other contractionary measures) imposed on the country by the eurozone authorities.
+Consider the following beguiling example.
+<P>
+Greece’s companies fall roughly into two categories.
+In one category are a large number of small firms asphyxiating under the tax office’s demand that they pay in advance, and immediately, 100% of next year’s corporate tax (as estimated by the tax authorities).
+The second group comprises listed companies whose depressed turnover jeopardizes their already diminished share value and their standing with banks, suppliers, and potential customers (all of which are reluctant to sign long-term contracts with an underperforming company).
+<P>
+The coexistence, in the same depressed economy, of these two types of businesses gives rise to unexpected opportunities for shadowy trades without which countless businesses might close their doors permanently.
+One widespread practice involves two such firms, say, Micro (a small family firm facing a large advance tax payment) and Macro (a publicly traded limited liability company that needs to demonstrate higher turnover than it has).
+<P>
+Macro agrees to issue invoices for (non-existent) goods or services rendered to Micro, up to, say, €20,000 ($22,000).
+Micro agrees to pay €24,600 into Macro’s bank account (the price plus 23% value-added tax) on the understanding that Macro will reimburse the €20,000 to Micro.
+This way, at a cost of €4,600, Micro reduces its taxable revenue by €24,600, while Macro boosts its turnover figure by €20,000.
+<P>
+Alas, due to capital controls, Macro cannot reimburse Micro in FE, nor can it wire €20,000 to Micro’s BE bank account (lest they be found out by the authorities).
+So, to seal the deal, Micro and Macro approach a cash-rich vendor.
+This is usually a gas-station owner who is flush with cash at the end of each day and who, for security reasons and in order to pay for his fuel supplies, is obliged to deposit his cash daily at his bank, turning valuable FEs into less valuable BEs.
+The mutually beneficial deal is completed when Macro wires €20,000 in BE to the gas-station owner, who then hands over a smaller sum of FE (cash) to Micro’s owner, pocketing the difference.
+<P>
+The fact that this informal deal benefits all sides exposes the terrible inefficiency of current fiscal policy (namely, punitive business taxes) and how capital controls magnify it.
+The state collects additional VAT from Micro (at a loss of corporate taxes that Micro cannot pay anyway); Macro enjoys the benefits of seemingly higher turnover; and the gas-station owner reduces his losses from converting FE into BE.
+The downside is that economic activity is overstated and, more important, that reform becomes even harder as entrepreneurs internalize the necessity to find new, creative ways of bending the rules.
+<P>
+The sole purpose of the capital controls imposed on Greece last summer was to force the country’s rebellious government to capitulate to the eurozone’s failed policies.
+But an unintended consequence was the formalization of two parallel (euro-denominated) currencies.
+Combined with the punitive taxation caused by Europe’s refusal to recognize the unsustainability of Greek public debt, the dual-currency regime produces unforeseen incentives for informal transactions in a country that desperately needs to defeat informality.
+<P>
+The reality of Greece’s two currencies is the most vivid demonstration yet of the fragmentation of Europe’s monetary “union.”
+In comparison, Arizona has never looked so good.

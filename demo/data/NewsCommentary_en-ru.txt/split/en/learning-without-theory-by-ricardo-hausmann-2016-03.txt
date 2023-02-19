@@ -1,0 +1,67 @@
+<HEADLINE>
+Learning Without Theory
+<P>
+CAMBRIDGE – How can we improve the state of the world?
+How can we make countries more competitive, growth more sustainable and inclusive, and genders more equal?
+<P>
+One way is to have a correct theory of the relationship between actions and outcomes and then to implement actions that achieve our goals.
+But, in most of the situations we face, we lack such a theory, or if we have one, we are not sure that it is correct.
+So what can we do?
+Should we postpone action until we learn about what works?
+But how will we learn if we do not act?
+And if we act, how can we learn whether we did the right thing?
+<P>
+New advances in machine learning and biological anthropology are shedding light on how learning happens and what makes a learning process successful.
+But, while theories are important, most of what we learn does not depend on them.
+<P>
+For example, there may be a theory of what makes a cat a cat, but that is not how toddlers learn to recognize them.
+As Harvard’s Leslie Valiant argues in his 2013 book, we learn the concept of “catness” in a theory-less way by inferring it from a set of pictures of animals that are appropriately labeled as either cats or non-cats.
+And the more examples we see, the more we become “probably, approximately correct.”
+<P>
+We learn to recognize the spoken language without knowledge of linguistics, and voice-recognition software uses a theory-less learning algorithm called a “hidden Markov chain” on a set of audios and their texts, rather than by using linguistics, as Ray Kurzweil tells us in his book How to Create a Mind.
+To the chagrin of many of us academics, theory is often dispensable.
+<P>
+Biological evolution is also based on a theory-less algorithm, one that learns which genotypes generate better-adapted individuals without having a theory of which changes in the genome will improve performance.
+It just uses random variation and selection of the fittest, over and over again.
+<P>
+While biological evolution through sexual reproduction requires generations, we can learn from each other much more quickly through cultural evolution, explaining why humans have made so much progress.
+According to Robert Boyd, Peter Richerson, and Joseph Henrich, our ability to imitate is at the core of our success as a species.
+It is what makes cultural evolution possible, cumulative, and powerful.
+It is what allows us to learn from others and hence to make progress much faster than if we were to learn by ourselves.
+In addition, because imitation, like genetic replication, is not perfect, we accidentally discover other ways of doing the same thing (or even new and better things).
+<P>
+We humans are wired to imitate others, and we especially prefer to imitate the most successful among us.
+This makes evolutionary sense, as the features of the successful are more likely to be related to their success than those of others.
+<P>
+But this may lead to errors when what we imitate is unrelated to success.
+Advertising has exploited this weakness in our wiring, making us think that if George Clooney is cool and wears something, maybe we can be cool by wearing it, too.
+<P>
+More constructively, the business world uses imitation through the practice of benchmarking, whereby companies share performance information so that they can all learn what is achievable and whom to try to imitate, thus facilitating the identification of “best practices.”
+To improve, you can start by imitating what successful companies do, without a good theory of why.
+<P>
+Benchmarking has been moving to the policy arena, including issues such as sustainable development, the business environment, competitiveness, gender parity, and, more recently, inclusive growth.
+Some of these applications create good measures of performance, allowing users to assess outcomes and track progress.
+<P>
+Good examples of these benchmarking exercises are the World Economic Forum’s Global Gender Gap Index or the United Nations’ Human Development Index.
+They are theory-less in the sense that they do not tell you how to improve performance; but they do tell you if you did improve – that is, they inform about changes in “fitness.”
+<P>
+Other indicators, in my view, confuse measures of performance with measures of hypothetical causes of performance.
+They confuse the “what” and the “how,” and they inappropriately put both in the index.
+They attempt to be more theory-driven than our knowledge allows.
+<P>
+Two examples of this are the WEF’s Global Competitiveness Index and its new Inclusive Growth and Development Index.
+For example, competitiveness has to do with the ability to increase market share without sacrificing margins or lowering wages, something that reflects superior productivity.
+The inclusiveness of growth has to do with the disparities of income and growth across different regions and social groups.
+<P>
+But this is not what these indexes really measure.
+Instead, the indexes include variables – what they refer to as the “policy space” – that are supposed to cause either competitiveness or inclusive growth.
+And the authors do not even check whether they do.
+(In the case of competitiveness, my co-authors and I have found that they don’t.)
+<P>
+Confusing “what” and “how” is counterproductive.
+It has led country after country, including Colombia, Mexico, Morocco, and Saudi Arabia, to try to improve their competitiveness ranking by working on things that are in the index but that do not really improve their performance.
+And they are late in finding out, because they do improve their ranking in the index.
+<P>
+We do not really know what could make growth more inclusive, countries more competitive, and development more sustainable in each country and region; and we should not pretend that we do.
+We can help the world make progress by measuring the outcomes we care about, facilitating imitation and tracking performance.
+But confusing means and ends will have us all dressing like George Clooney and wondering why we do not really feel all that cool.

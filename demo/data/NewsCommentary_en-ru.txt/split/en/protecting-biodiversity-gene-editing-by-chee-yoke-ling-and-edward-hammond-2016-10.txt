@@ -1,0 +1,61 @@
+<HEADLINE>
+Gene Editing and Seed Stealing
+<P>
+AUSTIN, TEXAS – Four hundred years ago, John Rolfe used tobacco seeds pilfered from the West Indies to develop Virginia’s first profitable export, undermining the tobacco trade of Spain’s Caribbean colonies.
+More than 200 years later, another Briton, Henry Wickham, took seeds for a rubber-bearing tree from Brazil to Asia – via that great colonialist institution, London’s Royal Botanic Gardens – thereby setting the stage for the eventual demise of the Amazonian rubber boom.
+<P>
+At a time of unregulated plant exports, all it took was a suitcase full of seeds to damage livelihoods and even entire economies.
+Thanks to advances in genetics, it may soon take even less.
+<P>
+To be sure, over the last few decades, great strides have been made in regulating the deliberate movement of the genetic material of animals, plants, and other living things across borders.
+The 1992 United Nations Convention on Biological Diversity, in particular, has helped to safeguard the rights of providers of genetic resources – such as (ideally) the farmers and indigenous people who have protected and nurtured valuable genes – by enshrining national sovereignty over biodiversity.
+<P>
+While some people surely manage to evade regulations, laboriously developed legal systems ensure that it is far from easy.
+The majority of international exchanges of seeds, plants, animals, microbes, and other biological goods are accompanied by the requisite permits, including a material transfer agreement.
+<P>
+But what if one did not have to send any material at all?
+What if all it took to usurp the desired seeds was a simple email?
+What if, with only gene sequences, scientists could “animate” the appropriate genetic material?
+Such Internet-facilitated exchanges of biodiversity would clearly be much harder to regulate.
+And, with gene sequencing becoming faster and cheaper than ever, and gene-editing technology advancing rapidly, such exchanges may be possible sooner than you think.
+<P>
+In fact, genes, even entire organisms, can already move virtually – squishy and biological at each end, but nothing more than a series of ones and zeros while en route.
+The tiny virus that causes influenza is a leading-edge example of technical developments.
+<P>
+Today, when a new strain of influenza appears in Asia, scientists collect a throat swab, isolate the virus, and run the strain’s genetic sequence.
+If they then post that strain’s sequence on the Internet, American and European laboratories may be able to synthesize the new virus from the downloaded data faster and more easily than if they wait for a courier to deliver a physical sample.
+The virus can spread faster electronically than it does in nature.
+<P>
+More complicated viruses and some bacteria are in the range of such techniques today, though wholly synthesizing a higher organism with a more complex genome, such as maize, is many years away.
+But that may not matter, as new gene-editing technologies, like CRISPR-Cas9, enable scientists to stitch together complicated new organisms, using gene sequence information from organisms to which they do not have physical access.
+<P>
+For example, the key traits of a drought-resistant maize from a Zapotec community in Oaxaca, Mexico, might be reproduced by editing the genes of another maize variety.
+No major new advance in the technology is needed to unlock this possibility.
+<P>
+What is needed is the genetic sequences of thousands of types of maize.
+Those data act as a sort of roadmap and resource pool, enabling scientists to compare sequences on a computer screen and identify pertinent variations.
+The selected adjustments might then be made to, say, the parents of a new Monsanto or DuPont Pioneer maize hybrid.
+<P>
+Managing access to large genomic databases thus becomes critically important to prevent a virtual version of the theft carried out by Rolfe and Wickham.
+And, indeed, in an unguarded e-mail released under the US Freedom of Information Act, one of the US Department of Agriculture’s top maize scientists, Edward Buckler, called such management “the big issue of our time” for plant breeding.
+<P>
+If agricultural biotechnology corporations like Monsanto and DuPont Pioneer – not to mention other firms that work with genetic resources, including pharmaceutical companies and synthetic biology startups – have free access to such databases, the providers of the desired genes are very likely to lose out.
+These are, after all, wholly capitalist enterprises, with little financial incentive to look out for the little guy.
+<P>
+In this case, that “little guy” could be African sorghum growers, traditional medicinal practitioners, forest peoples, or other traditional communities – people who have created and nurtured biodiversity, but never had the hubris or greed to claim the genes as proprietary, patented inventions.
+All it would take is for someone to sequence their creations, and share the data in open databases.
+<P>
+Yet open access is the mode du jour in sharing research data.
+The US government’s GenBank, for example, doesn’t even have an agreement banning misappropriation.
+This must change.
+After all, such no-strings-attached databases do not just facilitate sharing; they enable stealing.
+<P>
+The question of how to regulate access to genetic sequence data is now cropping up in international discussions, including at the World Health Organization and the Food and Agriculture Organization.
+Perhaps the most important forum for such discussions is the Conference of the Parties to the Convention on Biological Diversity, the main treaty regulating access to biodiversity.
+The next meeting (COP 13) will take place in Cancún, Mexico, in early December.
+<P>
+Participants at COP 13 must focus on the need to protect the rights of resource providers.
+To this end, they should pursue a careful assessment of existing policies and craft the necessary changes – before synthetic biology outpaces legal systems and renders them impotent.
+<P>
+Arrangements must be made to supervise access to genetic sequences in a way that ensures fair and equitable sharing of benefits from their use.
+Otherwise, decades of work to promote conservation and prevent piracy will be undermined, endangering the biodiversity convention – and those it protects.

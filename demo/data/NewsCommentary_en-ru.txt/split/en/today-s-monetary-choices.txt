@@ -1,0 +1,51 @@
+<HEADLINE>
+Today’s Monetary Choices
+<P>
+Following the Asian financial crises and its global repercussions, which included the collapse of fixed exchange rates in Russia and Brazil, debate has raged about how to secure macroeconomic stability.
+The alternatives have seemingly boiled down to a choice between systems in which the exchange rate is rigorously fixed and serves as an anchor and those where the exchange rate is allowed to float freely with the central bank targeting a low level of inflation and then doing all it can to hit that target.
+<P>
+Fixed exchange rates were popular in the hard fight against inflation that marked the last two decades in many emerging markets, especially in Latin America.
+These anchors succeeded in taming inflation and even in
+<P>
+smothering hyper-inflation.
+With inflation's fall, however, policymakers sought greater discretion in managing their exchange rates and moved toward intermediate systems, including fixed but adjustable rates, exchange rate bands, crawling pegs, and pre-announced rates.
+That trend was setback by the financial panics of three years ago and exchange rate regimes previously seen as extreme policy choices acquired new prominence.
+<P>
+Governments, it seems, now prefer to either find institutional mechanisms that guarantee a fixed exchange rate or adopt a free floating system where they refuse to intervene in foreign exchange markets to defend the currency.
+That first option – i.e., a strengthened fixed exchange rate, is manifest today in Argentina's currency board, in the establishment of a common currency (as in Europe with its Euro), and the abandonment of national currencies in favor of the dollar, policies adopted by Panama and, recently, by Ecuador.
+<P>
+The second option – "free floating exchange rates" -- abandons any form of exchange rate anchor.
+But because maintaining economic stability demands some type of nominal anchor, the so-called "inflation targeting" regime has become increasingly popular.
+In Latin America, Chile, Colombia, Mexico, and Brazil abandoned the bands and other mechanisms designed to defend exchange rate targets, and allow, instead, their currencies to float free.
+These freely floating systems are buttressed by a formal inflation target which serves as an anchor for national monetary policies.
+<P>
+Inflation targeting combines the flexibility of floating exchange rates with a strict monetary policy designed to reduce inflation and keep it low over time.
+Such a regime is based on a public, formal announcement of a specific inflation target – i.e., an annual rate, or narrow range – to which the central bank must adhere.
+Once the target is set, the central bank forecasts the future rate of inflation and compares this with its target.
+Monetary policy (changes in interest rates predominantly) is then used to eliminate the gap between the two.
+<P>
+Developed in the early 1990s by New Zealand, such regimes were later adopted by Australia, Canada, Finland, Israel, Sweden, and the United Kingdom.
+More recently it was adopted in emerging markets such as South Africa, the Czech Republic, South Korea, and Poland.
+Now, an inflation targeting system is being considered by a number of other countries that adopted flexible exchange rates.
+<P>
+Inflation targeting is regarded as an alternative to a "monetary anchor" in which designated levels of the monetary supply are the targets (as with the German Bundesbank before the euro).
+A supposed advantage of inflation targeting over targeting a particular level in the money supply is that the latter is not very transparent (the public, in general, does not pay attention to various monetary aggregates).
+Nor is a targeted level in the money supply easy to calibrate due to instability in the demand for money, which is common in emerging markets.
+<P>
+Effective implementation of an inflation targeting regime, however, requires that a central bank be independent of political control and interference.
+It must decide, on its own, interest rates and other necessary adjustments.
+In exchange for independence, the central bank assumes explicit responsibility for achieving the inflation target as well as for informing, both the general public and the government, about its monetary strategies, decisions, and results.
+<P>
+Combining free floating exchange rates with inflation targeting has been rather successful in controlling inflation; at the same time, exchange rates have not suffered wide fluctuations, thus avoiding uncertainty and other distortions.
+Brazil's recent experience, indeed, has been positive.
+Despite a big initial devaluation of the real when Brazil abandoned its fixed exchange rate, inflation was maintained near the 8% target set by its monetary authorities.
+<P>
+But inflation targeting is not without problems for emerging markets.
+For an inflation targeting system to work, central banks need precise knowledge as to how monetary and exchange rate changes, as well as other factors, affect inflation.
+But economies suffering relatively high rates of inflation or undertaking trade liberalization and other reforms are rarely stable, which means that information changes fast.
+The resulting uncertainty complicates central bank decisions and hinders its credibility.
+In highly dollarized economies, moreover, fluctuations in the exchange rate, even if they do not seriously impact the economy, may affect income distribution by imposing unexpected and uneven costs on people holding assets and liabilities denominated in foreign currencies.
+<P>
+Despite these problems, inflation targeting offers significant advantages in terms of clarity, transparency, and flexibility, and so should be considered by countries that opted for a free floating exchange rate system and are debating the adoption of a macroeconomic anchor to support it.
+Experience following the Asian Crisis indicates that stability in the financial sector is critical to avoiding crises and that such stability requires clear monetary rules: either a rigorously fixed exchange rate or an inflation targeting regime.
+Experience with intermediate regimes, particularly those that allow for great discretion is that they create financial sector uncertainty which fosters macroeconomic instability.

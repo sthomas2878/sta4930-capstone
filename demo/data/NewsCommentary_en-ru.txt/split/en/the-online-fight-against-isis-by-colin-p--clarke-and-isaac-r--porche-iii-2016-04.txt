@@ -1,0 +1,47 @@
+<HEADLINE>
+The Online Fight Against ISIS
+<P>
+WASHINGTON, DC – Even as the United States and its allies carry out aerial bombardments in Iraq and Syria, their target, the Islamic State (ISIS), may be preparing to retaliate on another front.
+By taking the battle into cyberspace, ISIS would gain many of the advantages of asymmetric warfare – unless the US organizes itself to counter the group’s efforts.
+<P>
+The entry barriers to cyber warfare are remarkably low, even for non-state actors.
+Even if ISIS does not currently have the capability to carry out cyber-attacks, it is unlikely to find it difficult to recruit followers with the requisite expertise; in the past, other terrorist and insurgent organizations, including Al Qaeda, have done just that.
+There are bound to be cyber mercenaries, sympathizers, and freelancers available if the price is right.
+<P>
+Experts have cautioned that ISIS could strike unprotected infrastructure or private residences.
+Hundreds of thousands of industrial and commercial control systems, including the rapidly growing Internet of Things, are leaving ever-wider swaths of everyday life vulnerable to disruption.
+And far more troubling is the warning by the Nuclear Threat Initiative, a nonprofit devoted to strengthening global security, that many civilian and military nuclear facilities are inadequately protected against cyber-attacks.
+<P>
+Late last year, computer and network security researchers revealed, to little surprise or fanfare, that ISIS was active on the so-called dark web.
+These websites, which are invisible to search engines and accessible only through specialized software, are often havens for purveyors of child pornography, drugs, or other illicit products, including hacking services and malicious software.
+This development was the first sign that ISIS was actively seeking to develop a cyber capability that it could deploy even if it loses its footing on the ground.
+<P>
+So far, terrorists have lagged behind their criminal counterparts in adopting virtual currencies like the peer-to-peer currency Bitcoin.
+But this could change if Western countries are successful in countering ISIS’s current sources of funding, including oil smuggling and extortion.
+Indeed, ISIS has allegedly already solicited Bitcoin donations.
+<P>
+The group is also using the dark web to recruit and disseminate its propaganda to aspiring jihadists.
+For sympathetic audiences, an online push can sometimes be enough to spark violent action.
+This is especially true for individuals who are already radicalized, such as Syed Farook and Tashfeen Malik, the husband and wife who opened fire on a holiday party in San Bernardino, California, in December.
+<P>
+Perhaps most troubling from an operational perspective is the possibility that ISIS could use the dark web to coordinate with operatives to plan and plot a major attack in Europe or the US.
+Terrorists are always seeking to stay one step ahead of law enforcement and intelligence services; so ISIS can be expected to seek software that encrypts a user’s IP address and routes Internet traffic through a series of anonymized servers.
+<P>
+To be sure, ISIS’s foray into cyberspace creates opportunities for Western law enforcement and intelligence agencies to conduct surveillance, if they can develop the capacity to do so.
+Just as ISIS has proved far from omnipotent on the physical battlefield, it can also be defeated in cyberspace.
+To fight effectively in this borderless domain, the US will have to work closely with its international partners.
+But there are steps that it can take on its own.
+<P>
+Recently, Secretary of Defense Ashton Carter urged US Cyber Command – the arm of the military dedicated to cyberspace operations – to “intensify the fight” against ISIS.
+But the US would be wise to consider expanding the fight by recruiting civilian volunteers.
+<P>
+When it comes to cyber-attacks, numbers matter.
+Other countries, such as Iran, China, and North Korea, already boast large cyber armies, with tens of thousands of recruits who can monitor, track, counter, and mitigate threats to the country.
+<P>
+In the US, the Michigan Cyber Civilian Corps has organized itself to respond to cyber-attacks.
+Replicating this program – described as something between a “volunteer fire department and the national guard” – on a national level could bolster US capabilities.
+The Department of Homeland Security has already considered creating a “cyber reserve” of computer experts, and a report by Booz Allen Hamilton, a technology and security firm, suggested similar efforts to provide the US with more cyber warriors in the event of an attack.
+<P>
+To prevail against ISIS, the US and its cyber soldiers will have to be capable of reacting quickly, while being guided by an overarching strategy.
+Countering ISIS online will require a continuously adaptive response.
+And it will require the manpower to make that possible.

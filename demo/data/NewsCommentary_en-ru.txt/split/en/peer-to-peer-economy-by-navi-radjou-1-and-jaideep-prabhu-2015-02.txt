@@ -1,0 +1,49 @@
+<HEADLINE>
+The Rise of the Frugal Economy
+<P>
+PALO ALTO – In a famous 1937 essay, the economist Ronald Coase argued that the reason Western economies are organized like a pyramid, with a few large producers at the top and millions of passive consumers below, is the existence of transaction costs – the intangible costs associated with search, bargaining, decision-making, and enforcement.
+But with the Internet, mobile technologies, and social media all but eliminating such costs in many sectors, this economic structure is bound to change.
+<P>
+Indeed, in the United States and across Europe, vertically integrated value chains controlled by large companies are already being challenged by new consumer-orchestrated value ecosystems, which allow consumers to design, build, market, distribute, and trade goods and services among themselves, eliminating the need for intermediaries.
+This bottom-up approach to value creation is enabled by the horizontal (or peer-to-peer) networks and do-it-yourself (DIY) platforms that form the foundation of the “frugal” economy.
+<P>
+Two key factors are fueling the frugal economy’s growth: a protracted financial crisis, which has weakened the purchasing power of middle-class consumers in the West, and these consumers’ increasing sense of environmental responsibility.
+Eager to save money and minimize their ecological impact, Western consumers are increasingly eschewing individual ownership in favor of shared access to products and services.
+<P>
+As it stands, nearly 50% of Europeans believe that, within a decade, cars will be consumed as a “shared” good, instead of privately owned, and 73% predict the rapid growth of car-sharing services.
+BlaBlaCar, Europe’s leading car-sharing service, now transports more passengers monthly than Eurostar, the high-speed rail service connecting London with Paris and Brussels.
+And the better-known service Uber is causing panic among taxi companies worldwide.
+Despite recent controversy, the company, founded in 2009, is valued at more than $40 billion.
+<P>
+This shift in consumer attitudes extends far beyond transport.
+The peer-to-peer home-sharing service Airbnb now rents more room-nights annually than the entire Hilton hotel chain.
+And the peer-to-peer lending market, which bypasses banks and their hefty hidden fees, surpassed the $1 billion mark in early 2012.
+<P>
+The global market for shared products and services is expected to grow dramatically, from $15 billion today to $335 billion by 2025, without requiring any major investment.
+The European Commission predicts that peer-to-peer sharing, now an income booster in a stagnant labor market, will evolve into a disruptive economic force.
+<P>
+The nature of horizontal networks supports this prediction.
+Such networks begin working long before they reduce transaction costs.
+By enabling ordinary people to do at home what, a decade ago, only scientists in large labs could do, the Internet economy is lowering the costs of research and development, design, and production of new goods and services in many sectors.
+<P>
+Thanks to low-cost DIY hardware kits like the $25 Arduino or the $35 Raspberry Pi, people are increasingly building their own consumer devices.
+Moreover, customers can now design and manufacture industrial-caliber products by using shared high-tech workshops – so-called “fab labs” – equipped with CNC routers, laser cutters, and 3D printers.
+<P>
+Such changes are propelling the so-called “maker movement”: a legion of tinkerers who collectively can create products faster, better, and more cheaply than big companies can.
+Together, the maker movement and peer-to-peer sharing platforms are empowering once-passive customers to become active “prosumers,” thereby spawning a frugal economy that can create value in a more efficient, cost-effective, socially inclusive, and environmentally sustainable way.
+<P>
+Recognizing these benefits, some communities are actively supporting the maker movement and accelerating the development of frugal economies.
+For example, mayors of major cities – including New York, Tokyo, Rome, Santiago, and Oslo – are seeking to host Maker Faires, where ordinary citizens showcase their ingenuity and engage with other makers.
+<P>
+Last June, US President Barack Obama hosted the first White House Maker Faire – declaring that “Today’s DIY is tomorrow’s ‘Made in America’” – and appointed a senior adviser to determine how to turn the maker movement into an engine of US economic growth.
+And New York City Mayor Bill de Blasio, who proclaimed September 15-21, 2014, “Maker Week,” and Barcelona Mayor Xavier Trias, who wants to build a “Fab City,” are trying to put their cities at the forefront of the global maker movement.
+<P>
+Meanwhile, in Vauban – a neighborhood in the German city of Freiburg – 65% of electricity is produced by solar panels and a co-generation plant established and operated by local citizens.
+And Helsinki is building a “mobility on demand” system that seamlessly combines multiple shared- and public-transport services in a single payment network, with the goal of eliminating private car ownership by 2025.
+<P>
+A self-organizing frugal economy could generate billions of dollars in value and create millions of jobs in the medium term.
+But, of course, there will be losers: the large Western companies whose “more for more” business models, backed by huge R&D budgets and closed organizational structures, are not designed to serve the needs of cost-conscious and eco-aware consumers seeking more – and better – for less.
+In order to survive, these established companies will need to reinvent themselves as frugal enterprises that integrate digitally empowered “prosumers” into their value chains and strive to address market needs in a more eco-efficient and cost-effective way.
+<P>
+The transition to a frugal economy is happening.
+Traditional companies must get on board – or risk becoming obsolete.

@@ -1,0 +1,54 @@
+<HEADLINE>
+Regulating Across the Digital Divide
+<P>
+LONDON – The increasing digitization of the global economy is changing how products and services are produced, distributed, and sold across borders.
+Technologies like cloud computing, artificial intelligence, autonomous systems, and “smart devices” are spawning new industries, and revolutionizing old ones.
+<P>
+But, while these changes could bring important benefits, the speed of digitization has also created daunting governance challenges, both within and across countries.
+Existing global rules – embedded in multilateral, regional, and bilateral trade and investment agreements – are being challenged by the new processes that digitization is enabling.
+<P>
+This is creating more space for national governments to intervene in the digital economy.
+China, for example, has established its own digital industries, using policies such as Internet filtering, data localization (requiring Internet firms to store data on domestic servers), and forced technology transfer to drive digital development.
+This has supported the emergence of major Chinese digital firms such as Tencent and Baidu, though it often has had adverse effects on freedom of expression and access to information.
+<P>
+Governments elsewhere increasingly view such digital policies as a way to catch up with advanced digital economies, like the United States.
+But, while some countries have managed to take advantage of the current regulatory environment to advance their own digital capabilities, many developing countries risk being left behind.
+<P>
+One factor is that the effectiveness of existing global rules is being eroded.
+The World Trade Organization’s General Agreement on Trade in Services (GATS), for example, governs trade in services through different “modes of supply.”
+Many developing countries agreed to liberalize cross-border delivery of services (so-called “mode one” trade), never anticipating just how dramatically the digital economy would revolutionize cross-border economic opportunities and enable more services to be delivered across borders.
+Today, these earlier commitments are becoming economically meaningful, increasing the pressure on many developing countries.
+<P>
+In recent years, debates about how to govern the digital economy have intensified.
+Multinational digital firms, mostly based in the US, have pushed for globally harmonized rules that would provide predictability and limit the space for national governments to intervene in digital flows.
+<P>
+Supporting such efforts, the Obama administration made the digital domain a core part of US trade policy.
+Provisions on the free flow of data, together with prohibition of data localization and forced technology transfer, were included in so-called “twenty-first-century trade agreements,” like the Trans-Pacific Partnership and the Transatlantic Trade and Investment Partnership.
+The objective was to bring digital oversight to two major markets – the Asia-Pacific (under the TTP) and the European Union (under the TTIP) – as an important first step toward global rules in these areas.
+<P>
+Negotiations for digital rules under the TPP proved difficult, but ultimately were successful; the Obama administration overcame opposition by offering better market access for manufactured goods to some TPP partners.
+<P>
+TTIP negotiations proved more challenging, with some European states, particularly France and Germany, opposing the rules out of fear that they would enable US firms to dominate the European digital economy.
+“Digital catching up,” as colleagues and I have noted, is a key strategic objective for many European countries.
+<P>
+The election of President Donald Trump in the US, who campaigned on a platform of protectionist trade rules and support for “traditional” manufacturing industries, has called into question the future of digital rulemaking.
+Trump’s decision to withdraw from the TPP was received very negatively by the US digital industry.
+It remains to be seen how digital trade regulations will fare under the TTIP, which Trump has suggested he might revive.
+<P>
+Trump’s trade moves notwithstanding, efforts to update global rules governing the digital economy are continuing – within the WTO, and also as part of talks among the US, Canada, and Mexico to renegotiate the North American Free Trade Agreement.
+These debates will only become more urgent in the coming years.
+<P>
+So far, regulatory ambiguity has not severely affected developing countries, and the economic costs to the global South have been minimal.
+That may change, however, if the world’s three major economies – the US, the EU, and China – were ever to harmonize their approach to regulating digital trade and global data flows.
+In such a scenario, the pressure on developing countries to accept digital rules would intensify.
+<P>
+Proponents of new rules could advise developing countries to accept them openly, arguing that to operate outside a global regulatory system would hurt domestic digital development and make it difficult to participate in new technological fields.
+But new rules could also revive the inequities wrought by the “Uruguay Round” of trade negotiations, which created the WTO and drove North-South free trade agreements.
+<P>
+In multilateral and bilateral agreements, developing countries accept restrictions on their “policy space” in exchange for better market access to advanced economies.
+Many scholars now believe this “bargain” undermines developing countries’ ability to enact policies that encourage economic diversification and structural change, making it more difficult for them to catch up economically and technologically with developed economies.
+<P>
+A new framework for digital trade and e-commerce must be crafted with these concerns in mind.
+As rules are created to manage how countries interact, regulators must work to ensure that digital-trade policies do not exacerbate the inequities that the traditional trading regime has exposed.
+<P>
+This commentary draws on research with Christopher Foster and Jaime Echavarri of the University of Sheffield exploring the digital trade agenda and its impact on development.

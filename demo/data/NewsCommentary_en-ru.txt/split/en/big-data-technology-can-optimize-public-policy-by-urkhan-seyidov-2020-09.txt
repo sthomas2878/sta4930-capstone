@@ -1,0 +1,45 @@
+<HEADLINE>
+The Source Code of Efficient Public Policy
+<P>
+BAKU – The COVID-19 pandemic has unleashed the second global economic crisis in just 12 years.
+But, unlike the crash of 2008, which revealed severe structural flaws in the financial system, the current downturn has exposed the weaknesses of governments that have been struggling to implement a timely and efficient response to a public-health crisis and its economic fallout.
+One of the main obstacles is insufficient use of big data and available technologies that could accelerate and optimize public policymaking.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Owing to inadequate pandemic responses, governments around the world are losing citizens’ trust and support, which can exacerbate existing socioeconomic tensions.
+On one hand, quarantine measures harm the economy directly; on the other hand, premature relaxation of lockdowns leads to a resurgence in COVID-19 cases.
+And as long as the pandemic persists, both scenarios fuel public discontent.
+After all, however correct a given decision may seem, an error may ruin or even end someone’s life.
+<P>
+But what if governments could use existing technologies to reduce significantly the margin of error while increasing the speed, accuracy, and, most important, the transparency of the decision-making process?
+<P>
+Technology is already being used this way – just not in the public sector.
+Around the world, tech companies are continuously striving to find new solutions to optimize their processes and improve performance.
+But the management methods and organizational structures of state institutions lag behind and are rarely flexible enough to embrace new means of boosting efficiency.
+And the stakes are high: beyond better decisions, using available technologies in public administration could also help increase citizens’ trust in government.
+<P>
+Addressing specific issues in this way increases our chances of coping with global crises.
+For example, the joint work of researchers at Salesforce and Harvard University allowed the creation of an artificial intelligence, the AI Economist, which aims to use machine learning to design economic models, thereby allowing policymakers to develop and test assumptions in a simulated environment.
+<P>
+Ensuring optimal outcomes would require total digitization and codification of the legislation in a machine-readable format that allows AI to expedite decision-making in public administration.
+This set-up would deliver and structure data so that computers could process it without – or with very little – human involvement.
+In New Zealand, such work is already underway.
+And in France, the Mes Aides service, based on coded tax rules, can estimate in under seven minutes whether a citizen is entitled to benefit from any of 30 exemptions.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Today’s technology also enables the creation of a virtual “digital twin” – a replica of your city or country (and, ideally, the entire Earth) to increase the speed at which error-free decisions can be made based on real-time data.
+This application has been widely used in the corporate world, and is increasingly being adopted by cities that seek to improve the quality of urban life.
+For example, Singapore has recently invested more than $70 million in creating a three-dimensional model of the city that policymakers can use as a testing ground for large-scale projects.
+Such a system means that every decision, including those related to COVID-19, can be tested in the digital domain before it is implemented in the real world, significantly reducing the margin of error.
+<P>
+Today, the world’s struggle with a new invisible enemy has highlighted our vulnerability and highlighted socioeconomic issues that have long been awaiting a solution.
+We are only just embarking on the long journey toward the goal of synergy between governments and AI.
+The limits and possibilities of this approach will be revealed on the way, but our current situation makes it essential to continue following the path.
+<P>
+Until now, humankind has relied solely on thinkers and policymakers to solve societies’ structural problems.
+In today’s world, however, technology offers an invaluable tool to aid these efforts.
+National governments owe it to their citizens to embrace solutions that have been shown to increase the efficiency and sharpen the precision of decision-making.
+During a synchronous crisis like the COVID-19 pandemic – and with similar crises certain to follow in the coming years – citizens should demand no less.

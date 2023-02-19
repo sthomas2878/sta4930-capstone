@@ -1,0 +1,60 @@
+<HEADLINE>
+Connectivity for All
+<P>
+OXFORD – Over the last decade, the number of new Internet users tripled.
+But, though a large majority of the world’s population remains offline, the pace of expansion has slowed sharply in recent years.
+Is the Internet revolution losing steam?
+<P>
+From 2005 to 2008, the number of Internet users increased at a compound annual rate of 15.1%, bringing the number of people online to some 2.7 billion.
+But, according to a new report by McKinsey & Company, the growth rate fell to 10.4% in 2010-2013.
+Given the enormous economic benefits of connectivity, finding ways to provide Internet access to the world’s remaining four billion people should be a high priority.
+<P>
+Of course, that is easier said than done.
+Around three-quarters of the unconnected – 3.4 billion people – live in just 20 countries.
+In 2012, about 64% lived in rural areas, compared with only 24% of Internet users, while about half live below their country’s poverty line and median income.
+Some 18% are older than 54, compared with about 7% of the online population, and roughly 28% are illiterate, whereas the literacy rate for Internet users is close to 100%.
+Finally, women comprise 52% of the offline population and only 42% of the online population.
+<P>
+These groups face particularly high barriers to Internet connectivity, beginning with inadequate infrastructure, including poor mobile Internet coverage or network access and unreliable electricity supply.
+Indeed, 1.1-2.8 billion people cannot get online via a mobile network, because their area lacks sufficient coverage.
+<P>
+Another barrier is affordability: Internet access is simply too costly for many low-income people.
+Beyond the need to address insufficient competition, inadequate regulation, and high taxes on Internet-enabled devices and service plans, there is the fundamental challenge of supplying cost-effective access to the most remote regions.
+In ten countries, largely in Africa and the Asia-Pacific region, fixed broadband prices exceed per capita GDP.
+<P>
+The third major barrier to Internet adoption is user capability.
+The high level of illiteracy among those who remain offline often implies an inability not only to read and write, but also to use digital technology.
+An estimated 43% of India’s unconnected citizens are illiterate.
+<P>
+Without technological solutions, such as user interfaces that feature text-to-speech and voice-recognition capabilities, people who have not attained basic language proficiency will struggle to engage with Internet content.
+The lack of relevant local-language content may also limit use.
+<P>
+Making matters worse, misperceptions of the Internet – for example, that it is a security risk or solely for the wealthy – mean that many people will remain reluctant to use it, even if affordable access becomes available.
+In many emerging economies, a lack of trust in the system has fueled resistance to doing business online.
+<P>
+The final barrier to Internet adoption is a lack of incentives.
+As research by the Oxford Internet Institute on broadband in East Africa has shown, many poor people in rural areas may know little, if anything, about the Internet, or may not be offered it.
+Given that tailoring content to such potential customers is expensive, Internet service providers are unlikely to do so without clear incentives like government support or high profit margins.
+Advertisers are not interested in reaching such markets.
+<P>
+McKinsey has developed a new Internet Barriers Index that ranks 25 developed and developing countries on their performance in the face of these challenges.
+The top five countries are the United States, Germany, South Korea, Japan, and Spain.
+The bottom five are Nigeria, Pakistan, Bangladesh, Tanzania, and Ethiopia.
+<P>
+Nearly half of the world’s offline population lives in ten countries that face a significant struggle to overcome all four barriers.
+In the bottom five countries in the McKinsey index, the average Internet penetration rate was only 15% in 2013.
+The offline population was largely young and rural, with low literacy rates.
+<P>
+Five other countries – Egypt, India, Indonesia, the Philippines, and Thailand – face medium to high barriers across the board, especially when it comes to infrastructure and incentives.
+With an offline population of more than 1.4 billion people, these countries had an average Internet penetration rate of 19% in 2013.
+Another 1.1 billion people live in countries where a single barrier – especially a lack of awareness of the Internet, weak purchasing power, or low levels of digital literacy – dominates.
+<P>
+Identifying the particular barriers affecting a country or region enables the development of effective solutions – not least because some barriers, such as awareness, are far cheaper to tackle than others, like infrastructure.
+That is the purpose of the Internet Barriers Index.
+By mapping the major social, political, and economic obstacles to Internet adoption, the index can help make efforts by governments and network and service providers as targeted and efficient as possible.
+<P>
+The imperative to address the formidable challenges to further expansion of Internet usage is clear.
+Doing so would create considerable potential for economic growth.
+Many governments have recognized this to some extent, setting ambitious goals for mobile Internet coverage, broadband infrastructure, and public Wi-Fi access.
+But investment in infrastructure is not enough.
+Only comprehensive, targeted, and nationally tailored strategies, backed by a strong commitment from policymakers, can bring the next one billion people online.

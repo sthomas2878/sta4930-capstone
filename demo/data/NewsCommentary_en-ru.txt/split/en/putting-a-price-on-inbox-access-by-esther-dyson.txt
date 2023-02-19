@@ -1,0 +1,76 @@
+<HEADLINE>
+Caveat Sender!
+<P>
+NEW YORK – How many e-mails do you have in your inbox?
+In general, each one represents a task – something to read, a query to answer, a meeting to schedule, a bill to pay, a request to fulfill or deny, even a friend’s post to like.
+Also on your to-do list: Facebook messages, LinkedIn requests, and Twitter direct messages.
+Whether it’s a social-network message or old-school e-mail, all are items to handle – and all placed there by other people.
+<P>
+Is it fair that you have to prioritize these things, collect them in one place, or switch among them?
+Why should you be burdened?
+Isn’t there some way that the senders could assume some of that responsibility?
+<P>
+Of course, this is already happening, in part.
+Facebook decides what to show you.
+You decide whom to follow on Twitter (and thus who can direct-message you).
+LinkedIn charges people to send more than a certain number of introductory e-mails, and penalizes people who send too many unwelcome messages.
+And Google, Yahoo!, and Microsoft (among others) filter spam using everything from content analysis to sender behavior to various methods of authentication.
+<P>
+All of these are useful approaches, but none alleviates the recipient’s burden: The system still lets other people add things to my to-do list.
+But there is another way: The sender figures out what matters, and puts money behind that choice.
+<P>
+The short version is that the sender must pay to send mail, while the recipient can set the price.
+Of course, this notion provokes angst: What happens to poor but worthy people?
+What about friends?
+Won’t it be confusingly complex?
+<P>
+The answer is twofold.
+First, the recipient can decide what to charge, and set different prices (or no price at all) for different people or categories, and can even forgive the charges retroactively.
+<P>
+Second, there will be services to handle it all for you.
+The basic service sets a single price, but higher-end services offer (and charge for) as much complexity as anyone could want.
+Or, if you want to avoid making a lot of decisions, you could select from a set of defaults.
+(And if you eschew commercializing your time, you could give the money to a charity.)
+<P>
+But the main question is why anyone should pay to send e-mail when they can do so for free.
+Isn’t it unfair to cut off access?
+Does it restrict freedom of speech?
+<P>
+In the end, people are paying to get someone’s attention.
+You can go on sending free e-mail, but if you want to get the attention of certain busy people, you pay.
+Isn’t that more democratic than having to join a club or undergo an interview with their assistant to meet them?
+<P>
+The point of the payment is not so much the money as it is a signal of how someone values his time.
+For that reason, people will try to hide the mechanics when possible.
+For example, when messaging someone who charges, you may see a warning only if the recipient is above your payment limit.
+Another way in will be to join groups – most likely closed groups – that allow free messages among members.
+<P>
+From the sender side, the initial reaction may be, “Why can’t I reach this person without paying?”
+Soon, however, more people will say, “Hey, I want that service, too!
+I can’t afford a personal assistant to screen my e-mail, but now I can push the burden back to the senders, who have to consider how likely I am to want their message and to respond in the way they hope.”
+<P>
+Over time, a variety of specialist service providers will emerge – single-topic experts and general mail managers.
+Mail recipients will set their prices for different kinds of mail/requests/senders.
+The mail managers will also handle incoming messages and Facebook, LinkedIn, and other requests as specified by the recipient, and will collect credit card information from senders (or more likely charge their PayPal accounts or navigate other payment systems as they emerge).
+<P>
+The recipient is unlikely to see the complexities; most of this will be handled in the background.
+To start, you can simply set your price at, say, $1, along with a list of people who can reach you for free.
+There will be lots of glitches at the beginning, starting with people you know who have multiple e-mail addresses, old friends not on your current white list of free senders, and so on.
+But such challenges will diminish over time, and, as less mail gets sent, a higher proportion of it will be wanted and answered.
+<P>
+A couple of other useful changes will follow.
+Companies will insist on a more careful distinction between corporate and personal e-mail address use.
+For example, Yahoo! may collect $1 on behalf of its employees when they are “disturbed” at work by mail from friends.
+But for actual paying customers trying to reach Yahoo!, there may well be a white list of potential advertisers, all writing from their corporate e-mail accounts.
+<P>
+As for consumer customers, most companies already make you pay by filling in an annoying form that asks you for a bunch of irrelevant items before you can send a help request.
+They will probably keep that feature, and add a $10 e-mail hotline address.
+(I am an investor in direct.ly, a third-party service that offers paid support from former employees and other experts in a non-e-mail version of this idea, and invested in Boxbe, which started out with sender-pays e-mail but eventually pivoted.
+I think the time is now becoming right.)
+<P>
+Meanwhile, both senders and recipients (through their agents) will spur the use of verified e-mail addresses, with messages “signed” and stamped with metadata to validate their source.
+<P>
+There is, of course, a risk that some people simply will try to get rich by charging for incoming mail that they never read.
+Caveat sender!
+The whole point is to get senders to consider more carefully to whom they send mail.
+The burden needs to go somewhere, and shifting it back to its creators makes sense.

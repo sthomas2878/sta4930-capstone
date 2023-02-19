@@ -1,0 +1,71 @@
+<HEADLINE>
+Understanding the Pandemic Stock Market
+<P>
+NEW HAVEN – The performance of stock markets, especially in the United States, during the coronavirus pandemic seems to defy logic.
+With cratering demand dragging down investment and employment, what could possibly be keeping share prices afloat?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The more economic fundamentals and market outcomes diverge, the deeper the mystery becomes, until one considers possible explanations based on crowd psychology, the virality of ideas, and the dynamics of narrative epidemics.
+After all, stock-market movements are driven largely by investors’ assessments of other investors’ evolving reaction to the news, rather than the news itself.
+<P>
+That is because most people have no way to evaluate the significance of economic or scientific news.
+Especially when mistrust of news media is high, they tend to rely on how people they know respond to news.
+This process of evaluation takes time, which is why stock markets do not respond to news suddenly and completely, as conventional theory would suggest.
+The news starts a new trend in markets, but it is sufficiently ambiguous that most smart money has difficulty profiting from it.
+<P>
+Of course, it is hard to know what drives the stock market, but we can at least conjecture ex post, based on available information.
+<P>
+There are three separate phases of the puzzle in the US: the 3% rise in the S&P 500 from the beginning of the coronavirus crisis, on January 30, to February 19; the 34% drop from that date until March 23; and the 42% upswing from March 23 to the present.
+Each of these phases reveals a puzzling association with the news, as the lagged market reaction is filtered through investor reactions and stories.
+<P>
+The first phase started when the World Health Organization declared the new coronavirus “a public health emergency of international concern” on January 30.
+Over the next 20 days, the S&P 500 rose by 3%, hitting an all-time record high on February 19.
+Why would investors give shares their highest valuation ever right after the announcement of a possible global tragedy?
+Interest rates did not fall over this period.
+Why didn’t the stock market “predict” the coming recession by declining before the downturn started?
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+One conjecture is that a pandemic wasn’t a familiar event, and most investors in early February just weren’t convinced that other investors and consumers paid any attention to such things, until they saw a bigger reaction to the news and in market prices.
+Their lack of past experience since the 1918-20 influenza pandemic meant that there was no statistical analysis of such events’ market impact.
+The beginnings of lockdowns in late January in China received scant attention in the world press.
+The disease caused by the new coronavirus didn’t even have a name until February 11, when the WHO christened it COVID-19.
+<P>
+In the weeks before February 19, public attention to longstanding problems such as global warming, secular stagnation, or debt overhangs were fading.
+President Donald Trump’s impeachment trial, which ended February 5, still dominated talk in the US, and many politicians apparently still found it counterproductive to raise alarms about a hypothetical new enormous tragedy looming.
+<P>
+The second phase began when the S&P 500 plummeted 34% from February 19 to March 23, a drop akin to the 1929 stock market crash.
+Yet, as of February 19, there had been only a handful of reported COVID-19 deaths outside of China.
+What changed investors’ thinking over that interval was not just one narrative, but a constellation of related narratives.
+<P>
+Some of the new news was nonsense.
+On February 17, a run on toilet paper in Hong Kong was mentioned for the first time, and became a highly contagious story as a sort of joke.
+Of course, the news about the spread of the disease was becoming more international.
+The WHO dubbed it a pandemic on March 11.
+Internet searches for “pandemic” peaked in the week of March 8-14, and searches for “coronavirus” peaked in the week of March 15-21.
+<P>
+It appears that in this second phase, people were trying to learn the basics about this strange event.
+Most people couldn’t get a handle on it immediately, let alone imagine that others who might influence market prices were doing so.
+<P>
+As the stock-market downturn proceeded, vivid stories appeared of hardship and business disruption caused by the lockdown.
+For example, some people in locked-down China reportedly were reduced to searching for minnows and ragworms to eat.
+In Italy, there were stories of medical workers in overwhelmed hospitals being forced to choose which patients would receive treatment.
+Narratives about the Great Depression of the 1930s flourished.
+<P>
+The beginning of the third phase, when the S&P 500 market began its 40% rise, was marked by some genuine news about both fiscal and monetary policy.
+On March 23, after interest rates had already been cut to virtually zero, the US Federal Reserve announced an aggressive program to establish innovative credit facilities.
+Four days later, Trump signed the $2 trillion Coronavirus Aid, Relief, and Economic Security (CARES) Act, promising aggressive fiscal stimulus.
+<P>
+Both of these measures, and similar actions in other countries, were described as resembling the actions taken to counter the 2008-09 Great Recession, which was followed by a gradual but ultimately huge increase in stock prices.
+The S&P 500 increased fivefold from its bottom on March 09, 2009, to February 19, 2020.
+Most people have no idea what’s in the Fed plan or the CARES Act, but investors did know of one recent example when such measures apparently worked.
+<P>
+Stories of smaller but still significant stock-market collapses and strong recoveries, a couple of them from 2018, were widely recalled.
+Talk of regrets about not buying at the bottom then, or in 2009, may have left the impression that the market had fallen enough in 2020.
+At that point, FOMO (fear of missing out) took hold, reinforcing investors’ belief that it was safe to go back in.
+<P>
+In all three phases of the COVID-19 stock market, the effects of genuine news are apparent.
+But price movements are not necessarily a prompt, logical response to it.
+In fact, they rarely are.

@@ -1,0 +1,45 @@
+<HEADLINE>
+Is Big Tech Destroying Retail Markets?
+<P>
+WASHINGTON, DC – Information technology is not just transforming markets; it is also making them ubiquitous, particularly for household consumers.
+From pretty much anywhere in the world, one can now search out goods and services, compare prices from multiple sellers, and give detailed shipping and delivery instructions, all with a mouse click or a screen tap.
+<P>
+No doubt, this is a dream come true for anyone who grew up shopping in real, hands-on markets, with sellers displaying their wares on store shelves, on public squares, or along dusty roads.
+In many cases, routine purchases required long waits or extensive bargaining.
+But with online markets, savings are generated in many dimensions, and transaction costs are sharply reduced at all stages of the process.
+<P>
+Online markets have the potential to improve consumer welfare substantially, by fueling competition on price, efficiency, and customer experience, whether through search engines or single platforms such as Amazon.
+And if consumers spend smaller shares of their disposable income on each purchase they make, they will have room to consume more, thus boosting overall economic activity.
+<P>
+But are online markets meeting this potential?
+<P>
+If anything, the description above is already dated.
+Nowadays, online retailers use consumers’ Internet activities and other personal data to deliver “targeted pricing.”
+To take one particularly controversial example, airlines now use travelers’ data to customize ticket prices in ways that essentially cancel out the savings once offered by online markets.
+<P>
+Indeed, if you search online for a more expensive car or a more expensive vacation, that fact will be documented by tracking cookies or other means of online surveillance.
+And with these data, digital advertisers and retailers will offer you more expensive watches, home furnishings, or airline tickets than they would to a lower-income user searching within the same categories.
+And in some cases, they might even offer different prices to different people for the same good or service.
+<P>
+Part of the segmentation of online markets involves web companies testing price points to estimate precisely the demand curve and its links to household characteristics.
+For example, a May 2017 article in The Atlantic notes that, “As Christmas approached in 2015, the price of pumpkin-pie spice went wild. … Amazon’s price for a one-ounce jar was either $4.49 or $8.99, depending on when you looked.”
+<P>
+This form of price discrimination is legal as long as it does not occur on the basis of race, ethnicity, gender, or religion.
+Taken to the extreme, it means that data about our preferences, incomes, and spending patterns could soon be used to determine an individually calibrated price for all transactions.
+In that scenario, 100% of consumer surplus could potentially be extracted 100% of the time.
+<P>
+To be sure, price discrimination will not happen for every good and service, and the trend could be tempered by competition from offline retailers or new entrants vying for market share by offering lower prices to everyone.
+Alternatively, the data collected in some industries could become so widely shared across competing firms that they will all converge on a single price for each individual.
+In fact, companies today are probably already facing this kind of price segmentation, especially those that have amassed a lot of public data.
+<P>
+This suggests that markets could potentially become extremely fragmented, such that consumers’ choices will be strictly limited to the offerings that have been selected according to their data profiles.
+As any student of economics understands, this kind of situation decreases overall welfare, because every consumer will be forced to pay the maximum of what they are willing to spend for each good or service they purchase, keeping nothing “extra” for themselves.
+<P>
+Making matters worse, rapidly rising capital and skill requirements for production, among other factors, is sustaining a trend toward less competition among companies across a wide range of sectors in advanced economies.
+This, together with the systematic “extraction” of consumer surplus, will have far-reaching macroeconomic implications, particularly through changes in private consumption patterns.
+For consumers, the slice of the economic pie made available by their disposable incomes will shrink in real terms, leading to a fall in aggregate demand.
+Thus, at the end of the day, there will be less for everyone.
+<P>
+Amid the ongoing debate about how the dominant tech firms should and should not be allowed to use personal data collected from users online, many of these firms have continued to decide these questions for themselves – and, by extension, for the rest of us, too.
+For the sake of social welfare in the years and decades ahead, we must ensure that these decisions are compatible with the creation and maintenance of healthy, competitive markets.
+After all, a system that benefits consumers benefits everyone.

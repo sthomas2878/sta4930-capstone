@@ -1,0 +1,69 @@
+<HEADLINE>
+The End of Efficiency
+<P>
+LONDON – Economics is the study of economizing, or using the least amount of time and effort to produce the greatest amount of satisfaction.
+The more we can economize on the use of scarce resources, the more “efficient” we are said to be in getting what we want.
+Efficiency is a prized goal because it literally cheapens the cost of living.
+Cheapness in obtaining the goods and services we want is thus the key to a better life.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Efficiency lies at the heart of trade theory.
+In the early nineteenth century, the economist David Ricardo argued that each country should concentrate on making what it could produce at the lowest relative cost.
+The late Nobel laureate economist Paul Samuelson described Ricardo’s theory of “comparative advantage” as the most beautiful in economics, equally applicable to the division of labor between people, businesses, and countries.
+It remains the underlying theoretical rationale for globalization.
+<P>
+Efficiency is also why economists have been fretting over labor productivity in advanced economies.
+In the United Kingdom, for example, workers produce, on average, no more output per hour today than they did in 2007, so there has been no gain in efficiency.
+This means that UK living standards have remained flat for 13 years – the longest period of stagnation since well into the Industrial Revolution.
+Economists have published hundreds of articles in learned journals trying to explain this “productivity puzzle.”
+<P>
+But the broader mood music has changed.
+Google’s Ngram Viewer, a tool that uses a database of millions of books and journals to chart the frequency with which words appear, indicates that use of “efficiency” and “productivity” has plummeted since 1982, whereas that of “resilience” and “sustainability” has spiked.
+We now talk more about the sustainability of economic life, meaning its resilience to shocks.
+Efficiency-focused economists are well behind the cultural curve.
+<P>
+Three factors seem to account for this shift.
+The first is growing concern that focusing only on the present cost of using resources will deplete the planetary resources available to continue the human species.
+Because what is cheap today may become impossibly expensive tomorrow, we need to invest in sustainable technologies that can yield a long-run return to humanity, rather than just short-run gains for businesses and consumers.
+<P>
+Second, COVID-19 has made us much more aware of the fragility of global supply chains.
+Ricardo’s beautiful theory threatens to spawn a nightmare if countries lose access to essential supplies because they have accepted the logic of procuring from the cheapest markets.
+During the pandemic, most people in the West were shocked by the extent of their reliance on China for essential medical supplies.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Lastly, it is more widely understood that the quest for efficiency at any cost, whether through globalization or automation, threatens the security and sustainability of employment.
+“The end of production is consumption,” Adam Smith proclaimed with impeccable logic.
+But sustainable consumption requires sustainable incomes, which come mainly from wages; and we are far from having a system that allows for consumption without wages.
+In fact, in the name of efficiency, we have allowed huge wealth and income inequality.
+<P>
+Economists are normally keen to speak of trade-offs.
+But they have been strangely blind to the need to trade off efficiency for sustainability – that is, to broaden their concept of efficiency to one of efficiency over time.
+This is largely because contemporary economists’ equilibrium models make no provision for time, and regard the future as simply an extension of the present.
+What is efficient today will be efficient tomorrow and always.
+<P>
+But, as John Maynard Keynes pointed out, the future is uncertain.
+There is no reason to believe that the conditions that today make free trade, global supply chains, automation, and poverty wages efficient will continue.
+As Keynes said in a notable response to the econometrician (and future Nobel laureate) Jan Tinbergen: “Is it assumed the future is a determinate function of past statistics?
+What place is left for expectations and the state of confidence relating to the future?
+What place is allowed for non-numerical factors, such as inventions, politics, labor troubles, wars, earthquakes, financial crises?” We could compile a similar list of contemporary risks.
+<P>
+It follows that economic policymakers need to pay much more attention to the “precautionary principle,” or the principle of “least risk of harm,” which aims to control risk rather than maximize benefits.
+The economist Vladimir Masch calls this approach “Risk-Constrained Optimization,” and argues that it “is needed under [the] highly dangerous, uncertain, and complex conditions of this century.”
+Using mathematical modeling, Masch has constructed a number of risk-constrained candidate strategies.
+<P>
+Such a prudential decision-making rule may lead us to uncomfortable lines of thought.
+For example, how sustainable is an uncontrolled increase in global population?
+We continue to put our faith in science and education to restrict population growth in time, but we don’t know how much time is available.
+There are surely grounds for the Malthusian concern that the increase in the number of people will exceed the resources available to support them, resulting in large-scale plagues, famines, floods, and wars – which traditionally have reduced overpopulation.
+<P>
+Likewise, a sustainable technology is surely one that does not make extreme demands on our power of adaptability, threatening widespread economic and social redundancy and the predictable political backlash.
+We currently view technological progress exclusively through the lens of efficiency, and allow its pace to be set by cost-cutting market competition.
+The prudential principle implies adapting technology to people, rather than the other way round.
+<P>
+Finally, how sustainable is a capitalist political economy that must allow its financial system to crash periodically on the grounds that it is “efficient” at managing risks?
+<P>
+So far, we have only started to scratch the surface of such questions.
+But as the language of efficiency and sustainability shifts, economic thought must catch up with the new disposition.

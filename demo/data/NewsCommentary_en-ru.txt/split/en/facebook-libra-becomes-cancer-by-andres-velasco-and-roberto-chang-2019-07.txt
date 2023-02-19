@@ -1,0 +1,84 @@
+<HEADLINE>
+Will Facebook’s Libra Turn into a Cancer?
+<P>
+LONDON – When it announced its plans to launch a cyber currency, Facebook emphasized that its Libra will benefit “people with less money [who] pay more for financial services,” especially in developing countries.
+But when one compares Facebook’s current blueprint to those same countries’ experience, Libra starts to look like a hazard.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Consider Argentina, which in April 1991 adopted a novel monetary arrangement: it would peg the value of the Argentine peso to that of the United States dollar, and it would issue pesos only in exchange for dollars.
+So the peso would now be fully “backed” by reliable American greenbacks, enabling Argentina to end a century of monetary instability.
+<P>
+At first, markets cheered.
+The system worked – until it didn’t.
+A decade later, Argentina was forced first to devalue and then float the peso, which lost two-thirds of its value in a matter of months.
+The political crisis that followed was so deep that Argentina went through four presidents in two weeks.
+And the default on its $82 billion sovereign debt was the largest the world had seen.
+<P>
+Argentina’s failed policy, known as a currency board, is exactly what Facebook is trying to create with Libra, except that Libra would be pegged to a basket of major currencies, not just to the dollar.
+Currency boards have been tried at different times and places, and the many lessons we have learned about them apply to Libra.
+<P>
+Because each Libra would be fully backed by hard currencies (with balances held in either bank accounts or government bonds), in theory the Libra should be just as crisis-proof as the Argentine peso once presumably was.
+This is why Facebook can claim that Libra would be very safe for its users.
+<P>
+Unfortunately, in the real world, as Argentina’s experience shows, currency boards can be dangerous.
+A major risk is devaluation.
+The Libra’s value in terms of the currency basket will be decided by a Facebook-led consortium called the Libra Association, and here incentives will be aligned in exactly the wrong way.
+Imagine that Libra turns out to be a success, and billions of people worldwide swap the equivalent of trillions of US dollars into Libra.
+Then, allowing the value of Libra to slide by just a tiny fraction of a percentage point would create a tremendous capital gain for Facebook and its partners.
+<P>
+If that sounds too crude (and it is), or likely to run afoul of regulators and the courts, consider an alternative scenario.
+The basket that backs each Libra is a weighted average of several currencies.
+Who will decide on the weights?
+The Libra Association.
+<P>
+Again, the experience of countries like Argentina suggests what might happen.
+Suppose that, for “technical reasons,” these weights had to be adjusted, and that, “coincidentally,” weights rose on currencies that had been losing value.
+Then residents of, say, the US would suddenly find that they could buy fewer dollars with their Libras.
+Their capital loss would be Facebook’s capital gain – and it could be huge.
+<P>
+Perhaps recognizing these risks, the Libra project includes a governance system designed to eliminate them.
+But such assurances are hard to believe.
+The classic time inconsistency problem, familiar to economists, emerges: no matter what Facebook says today, the incentives to break its promises once Libra takes off will be enormous.
+<P>
+An additional time inconsistency dilemma concerns how the Libra Association is supposed to make profits.
+The Association will earn interest on its holdings of major currencies, but will not pay interest on Libra.
+This is, in fact, how central banks, the monopoly issuers of their own currencies, make profits.
+Economists have a name for this: seigniorage.
+<P>
+Today the potential for seigniorage profits is limited, owing to near-zero interest rates on bank deposits and government bonds issued in major currencies.
+But what happens the day that world interest rates rise?
+Will Facebook simply pocket the difference?
+Or will competition force it and its partners to begin paying interest on Libra?
+Competition has not kept commercial banks from charging hefty fees on international transactions, and Libra has the potential to be much larger than any commercial bank.
+<P>
+An even bigger danger is that, at some point, the Libra Association could decide to switch from full to fractional backing of Libra with safe liquid assets.
+The temptation to do this will be difficult to resist, because the reserves backing Libra could earn a much higher return if invested in risky stocks, for example.
+But then, like commercial banking systems that lack a lender of last resort, the entire Libra edifice would become vulnerable to a speculative run.
+Of course, by that point the Libra system might have become too big to fail, forcing the US Federal Reserve to act as a lender of last resort.
+Time inconsistency strikes again!
+<P>
+What about the claim that Libra would be a boon to financial inclusion in emerging and developing countries?
+Perhaps.
+But Libra may instead become a source of major headaches for them.
+Emerging economies have long been combating so-called dollarization: the tendency of residents to seek insurance by holding US dollar accounts in local banks and denominating contracts (including wage contracts) in dollars.
+Because dollarization keeps central banks from serving as lenders of last resort to domestic banks, it foments financial instability.
+It also renders monetary policy less effective by, for example, limiting the positive effect of currency depreciation on exports and employment.
+<P>
+Facebook imagines a world in which people everywhere eventually borrow and lend in Libra, and use it for national and international trade.
+For emerging economies, this would mean being cured of dollarization only to catch an even worse case of libraization.
+If that happens, then Libra will have complicated these countries’ monetary and exchange-rate policies and helped trigger a period of slow growth and financial instability.
+<P>
+Facebook is betting that Libra will trigger a Taurus market.
+But Libra’s benefits appear as slippery as a Pisces.
+The Libra project is dangerous like a Leo, and it will require government regulation to keep it from becoming a Cancer.
+<P>
+Correction (July 18, 2019): This commentary previously stated that Argentina had five presidents in two weeks during the 2001-2002 crisis.
+The country had four presidents in two weeks, and five within a year.

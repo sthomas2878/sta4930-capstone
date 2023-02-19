@@ -1,0 +1,70 @@
+<HEADLINE>
+Rational Irrational Exuberance?
+<P>
+SANTIAGO – The timing was exquisitely ironic: equity markets peaked – and a week later began crashing – just as pundits left this year’s World Economic Forum meeting in Davos, where they concluded that the global economy was on a steady upswing.
+In the weeks since, experts have divided into two camps.
+<P>
+Some, including new US Federal Reserve Board chairman Jerome Powell, believe that economic fundamentals are strong, and that what stock markets experienced in early February was only a temporary hiccup.
+In this view, there is nothing keeping major central banks from carrying out “beautiful” (that is, gradual and painless) monetary-policy “normalization.”
+<P>
+Then there are those who believe that fundamentals are in fact weak, that the current upswing will prove unsustainable, and that investors should regard stock-market gyrations as a necessary wakeup call.
+If so, the challenge for monetary and fiscal authorities is not to “normalize” policies but to develop new tools to fight the slowdown that will come, sooner or later.
+<P>
+Both schools of thought share a focus on fundamentals, unlike a third – and, in my opinion, highly plausible – view: that the asset-price volatility we have been seeing has little or nothing to do with changes in fundamentals.
+<P>
+Fundamentalists claim that faster year-on-year growth in US average hourly earnings was the immediate trigger for the crash.
+But the claim that such a slight change – from 2.7% in December to 2.9% in January (which observers view as an aberration, caused by seasonal factors) – could trigger a stock-market correction is in itself a strike against the fundamentalist view.
+<P>
+Moreover, whereas the wage growth in question was supposed to be a harbinger of inflation, ten-year break-even inflation moved down, not up, during the recent episode.
+And, as Anatole Kaletsky has stressed, ten-year Treasury yields did not break the 3% ceiling, while exchange rates hardly moved, all of which suggests that rumors of inflation have been greatly exaggerated.
+<P>
+The human brain is wired to structure knowledge around narratives in which we can tell if and how A (and B and C) causes X. We tend to be uncomfortable with the notion that an economy’s fundamentals do not determine its asset prices, so we look for causal links between the two.
+But needing or wanting those links does not make them valid or true.
+<P>
+The idea that asset-price movements can be unrelated to fundamentals is not strange to students of economic theory.
+After all, there are two reasons to hold an equity claim: because it will pay a dividend or because its price is expected to go up.
+Price movements (the expected capital gain) can drive buying and selling decisions even in the absence of changes to expected dividends (the fundamentals).
+In other words, it is perfectly rational to pursue a “keep buying because the price will keep rising” strategy – until it is not.
+<P>
+But when will that be?
+When will the bubble burst?
+Economic theory is silent on the matter.
+Or, at best, theorists can wave their hands about an exogenous (read: unexplained) shock to expectations.
+Bubbles can persist for decades (think of real-estate prices in fashionable cities) or just minutes (as in hard-to-justify intraday fluctuations).
+The only sure thing, John Maynard Keynes is supposed to have claimed, is that the market can remain misaligned much longer than you or I can remain solvent.
+<P>
+The widespread use of machine-driven trading is likely making all of this worse.
+The algorithms used vary, and are becoming much more complex.
+But, to the extent that they contain a stop-loss element – and they often do – they will cause bouts of selling into declining markets, and that in turn will amplify volatility.
+<P>
+It is not just nerdy professors who are skeptical on the importance of fundamentals.
+The Financial Times reports the rise of a new breed of oil trader who is “not necessarily reacting to news about supply and demand or utterances from Riyadh.”
+Instead, he or she trades “based on moves in currencies, interest rates, or the price of oil itself.”
+Ready for an oil price bubble, anyone?
+<P>
+There might already be a huge one in the US stock market.
+On January 23, just a few days before equities crashed, Robert Shiller reminded us that the US had the world’s priciest stock market, with the highest cyclically adjusted price-earnings (CAPE) ratio of 26 stock markets for which there are comparable measures.
+Shiller pointed to the common practice of share repurchases as one possible explanation, but then concluded that, “it is impossible to pin down the full cause of the high price of the US stock market.”
+<P>
+So if the price of a financial asset is not guided – at least for some periods – by fundamentals, where does that leave central banks?
+I believe it leaves them between a rock and a hard place.
+<P>
+On one hand, central banks cannot be so relaxed that they will permit asset prices to go anywhere as a result of self-fulfilling expectations.
+Sometimes, they must step in to change expectations, as Mario Draghi, the European Central Bank’s president, did in July 2012, when he announced that the ECB would do “whatever it takes” to defend the euro (and the prices of eurozone government bonds).
+<P>
+On the other hand, central banks are not in the business of controlling asset prices.
+When they venture in that direction, they get into trouble, as experience with fixed-but-adjustable exchange rates makes abundantly clear.
+A little volatility is a good thing, both to discourage speculative capital flows and to put the fear of God into investors looking for the next Greenspan-Bernanke put.
+<P>
+Where should the line be drawn?
+When does a little “good” volatility turn into excessive “bad” volatility?
+These are difficult questions, and the answers can only be time- and context-specific.
+<P>
+A final disclaimer: believing that fundamentals do not always pin down asset prices is not the same as believing they are irrelevant, much less that current US fundamentals are in good shape.
+An additional fiscal stimulus at a time of near-full employment and large public debt is exactly what the doctor did not order.
+Precisely because of all the offsetting factors, the US Congress Joint Committee on Taxation estimates that the recent tax cuts will add just 0.08 percentage points to the average annual growth rate over the next decade, and the long-run output effects could be smaller or even negative.
+<P>
+Yet the US business community remains gung-ho on the reform.
+So it is possible that conservative American business executives will invest more not because the tax cut will improve the fundamentals of the US economy and increase demand for their products, but just because they believe it will.
+<P>
+Now, that, too, would be an exquisite irony.

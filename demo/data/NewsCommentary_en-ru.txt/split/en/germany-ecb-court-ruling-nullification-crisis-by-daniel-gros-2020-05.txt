@@ -1,0 +1,60 @@
+<HEADLINE>
+The EU’s Nullification Crisis
+<P>
+BERKELEY – A recent ruling by Germany’s Federal Constitutional Court (GCC) has opened a deep rift in the eurozone.
+In three months, the Bundesbank will be prohibited from participating in the European Central Bank’s Public Sector Purchase Program (PSPP) unless the GCC receives a satisfactory explanation that the ECB’s bond buying constitutes a “proportionate” measure for maintaining price stability.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Never mind that the ECB has already explained itself in countless publications, speeches by its Governing Council’s members, and in academic publications by its staff.
+That apparently is not enough for the German justices, who have long wrung their hands over the arcane question of whether central-bank bond buying constitutes a form of fiscal policy.
+As any economist knows, all monetary policies have fiscal implications; and insofar as central banks have deployed “unconventional” instruments, they may indeed be operating in a gray zone between monetary and fiscal policy.
+<P>
+The problem is that lawyers abhor gray zones.
+The Treaty on the Functioning of the European Union stipulates that while the ECB has sole authority over EU monetary policy, fiscal policy is the exclusive preserve of member states.
+This division of labor implies that the Court of Justice of the European Union (CJEU) should decide on any legal issue concerning monetary policy, whereas national courts should rule on matters of fiscal and other economic policies.
+The question, of course, is who should judge whether the ECB has exceeded its legal monetary-policy remit.
+<P>
+In its latest ruling, the GCC accepts (with some reservations) a previous CJEU ruling that determined the PSPP to be legal.
+But it also claims the authority to challenge CJEU decisions “where an interpretation of the Treaties is not comprehensible and must thus be considered arbitrary from an objective perspective.”
+On that basis, the GCC argues that the ECB failed to conduct a proper “proportionality test.”
+<P>
+Such “competency” (jurisdictional) disputes are common in all federations.
+The United States experienced a similar debate in the 1830s, when its federal system was still younger than the EU is today.
+How that crisis came about, and how it was resolved, offers interesting clues about the EU’s future.
+Then as now, the key issue was whether a policy instrument that was intended for a specific purpose could be used to favor particular states or sectors at the expense of others.
+<P>
+In antebellum America, the federal government’s primary economic competence was limited to trade policy, because tariffs in that period were the federal government’s main source of revenue.
+After the War of 1812, additional revenue was sorely needed to service the national debt, so Congress, in the late 1820s, decided to increase tariffs substantially.
+But raising revenues was not the sole aim.
+The ulterior motive was to protect northern manufacturers of textiles and other products from the industrial superpower of the day, Great Britain.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In the event, the southern states, which exported cotton but had no local textile industries, objected, arguing that US trade policy was being misused as a de facto industrial policy to serve select constituencies.
+The case against the policy was made most forcefully in the South Carolina Exposition and Protest, a pamphlet later attributed to then-Vice President John C. Calhoun, which rejected the Tariff of 1828 as unconstitutional.
+Calhoun’s reasoning was very similar to that of the GCC today:
+<P>
+“In fact, to divide power, and to give to one of the parties the exclusive right of judging of the portion allotted to each, is, in reality, not to divide it at all; and to reserve such exclusive right to the General Government (it matters not by what department to be exercised), is to convert it, in fact, into a great consolidated government, with unlimited powers, and to divest the States, in reality, of all their rights.”
+<P>
+Likewise, the GCC contends that Germany’s Basic Law is vulnerable to being undermined if an EU institution (like the CJEU) can judge whether another EU institution (the ECB) is adhering to EU treaties.
+The German justices are channeling the doctrine of nullification: the ultimate right of a state to reject federal decisions it considers unconstitutional.
+<P>
+This idea became so dominant in South Carolina during the tariff debate that, in 1832, the state legislature ordered state officials not to enforce the measure, and later declared the US tariff schedule null and void in the state.
+The GCC’s threat to bar the Bundesbank from participating in the ECB’s bond-buying program reflects a similar evolution.
+<P>
+In the American case, the nullification crisis was resolved with a political compromise, because both sides realized that they had much to lose from open conflict (as would become abundantly clear when the Civil War erupted 30 years later).
+The tariff schedule was reduced slightly, allowing South Carolina to declare victory while avoiding a conflict that it could not win (no other state shared its extreme position).
+Recognizing that the South had a legitimate grievance, the federal government (and the northern states) worried that opposition to the tariff would increase unless they did something to relieve the pressure.
+<P>
+A compromise to defuse Germany and the EU’s legal conflict over monetary policy is already on the table: a simple explanation by the ECB should be sufficient for the GCC.
+Still, some commentators worry that meeting the GCC’s demand would threaten the ECB’s own independence.
+In any case, the ECB will have to walk a fine line.
+<P>
+In Albert O. Hirschman’s famous taxonomy of political strategies – exit, voice, and loyalty – the GCC’s latest move should be seen as a demonstration of “voice,” carrying an implicit threat of “exit.”
+But as Hirschman was always quick to point out, the choice between exit and voice cannot be understood without the third element.
+<P>
+In the coming months, the German political system’s loyalty to the European project will be tested.
+Fortunately, most German leaders place far more value on the EU than they would on a minor victory in the GCC’s quibble with the ECB.
+Much like South Carolina in the 1830s, the GCC might have scored an “own goal” by picking a fight that it cannot win.

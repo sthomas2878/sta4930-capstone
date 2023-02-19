@@ -1,0 +1,60 @@
+<HEADLINE>
+Assessing China’s Prospects for Carbon Neutrality
+<P>
+NEW YORK – At the United Nations General Assembly this September, Chinese President Xi Jinping announced that China aims to achieve carbon neutrality by 2060.
+Given that China has been the planet’s single-largest source of global carbon dioxide emissions in recent years – accounting for about 30% – decarbonization there could contribute substantially to the global effort to mitigate climate change.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+China, of course, will have to rebalance its economy.
+Among other things, that means shifting from manufacturing to services, from capital-intensive to innovation-led activity, from exports to domestic demand, and from investment to consumption.
+All of these changes are mutually reinforcing, such that delivering on one facilitates progress on the others.
+<P>
+More to the point, rebalancing will also contribute to China’s energy transition, by shifting from energy-intensive to energy-light activity.
+For example, if capital and labor move from the production of steel, cement, and industrial goods to the provision of education, health care, and leisure opportunities, the economy should gradually consume less energy for each unit of GDP produced.
+<P>
+When assessing China’s prospects for attaining President Xi’s target for carbon neutrality, one first must consider how large its economy will become.
+S&P Global Ratings expects China’s GDP to grow at an average annualized rate of 3.6% over the next two decades.
+This may seem low given the track record since 1990, but our projection is rooted in careful assumptions about the economy’s supply side, with the slowdown driven by a shrinking workforce, lower investment, and weaker productivity growth.
+The richer an economy becomes, the more slowly it tends to grow.
+<P>
+China is anomalous among major economies insofar as private consumption still comprises a small share of total spending.
+Hence, our growth forecasts assume that private consumption will increase from less than 40% to 55% of total spending in 2040, with investment undergoing a similarly sized decline.
+As consumers become richer and more important for the economy, the demand for services rises relative to demand for goods.
+In our forecasts, we find that Chinese service-sector output (in real terms) will grow by an annualized rate of 5.2%, also over the next two decades, almost double the rate of industry (2.7%).
+<P>
+This shift in final demand will ripple through the domestic supply chain.
+For example, if China invests less in physical infrastructure like roads and airports, it will need less steel, and thus less coal.
+An economy driven by consumer spending is less carbon-intensive than one geared toward heavy industry and manufacturing for export.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+We have applied this rebalancing scenario to the S&P Global Platts Analytics Global Integrated Energy Model to see what it might mean for China’s efforts to become carbon neutral by 2060.
+This model balances end-use energy consumption against available fuel supply, shedding light on energy use across industries as well as on CO2 emissions from fossil-fuel combustion.
+<P>
+We consider four energy-use scenarios for China.
+The first assumes no economic rebalancing and no change in energy intensity.
+The second and third compare how economic rebalancing will affect energy demand under the most likely baseline case, where existing trends in energy efficiency and use of renewables continue.
+The fourth considers economic rebalancing alongside a more challenging “2ºC scenario” that aggressively reduces the use of carbon-intensive fuels in line with the Paris agreement.
+<P>
+We find that economic rebalancing alone could lower China’s CO2 emissions by an additional 32% by 2040 (see chart 1).
+And if China pursued a 2ºC goal by accelerating its transition to renewables, our model points to an even more dramatic fall of 61% in emissions.
+<P>
+Rebalancing lowers emissions most directly by reducing the overall economy’s energy intensity by 20% by 2040 (compared to the no rebalancing scenario).
+But we can also assess the impact of rebalancing through the lens of end-use sectors.
+Even under extreme low-carbon modeling assumptions, industrial end-use sectors will be slower to decarbonize, so shifting away from these sectors toward consumption and services accelerates the transition.
+<P>
+Our scenarios are plausible but tough.
+With consumption as a share of the Chinese economy having risen by less than five percentage points over the past decade, it will now have to increase twice as fast in order to achieve a 55% share by 2040.
+<P>
+From an energy perspective, a substantial policy effort is needed to reduce carbon intensity end-use across transportation, power generation, and other sectors.
+This could take the form of further restrictions or even a ban on the sale of internal-combustion vehicles, higher energy efficiency targets, incentives for retrofitting buildings, and investment in nationwide electricity transmission and distribution infrastructure.
+We do not directly model the impact of fuels like hydrogen, nor the potential effect of carbon capture, utilization, and storage technologies.
+Both might come to play a key role by 2060.
+<P>
+We will learn more about China’s chances of success early next year when it publishes its 14th five-year plan (for 2021-2025).
+If its policy blueprint paves the way for consumers to increase spending toward advanced-economy levels, achieving carbon neutrality will become much easier.
+Still, China will need to make some hard decisions on coal in order to meet our model’s 2ºC assumptions, and to put itself on a firmly sustainable path.
+<P>
+Mark Mozur and Alan Struth from S&P Global Platts also contributed to this column.

@@ -1,0 +1,57 @@
+<HEADLINE>
+The Fund that Cried Wolf?
+<P>
+LONDON – If you ask Google to find the text of the International Monetary Fund’s Global Financial Stability Report for April 2006, it helpfully asks whether you are really looking for the April 2016 version.
+I am sure the IMF would never seek to manipulate a search engine, but I imagine that the Fund’s public affairs officials are happy if as few people as possible can access the 2006 version.
+It was not one of the IMF’s most prescient publications.
+<P>
+Issued just as the first doubts about the subprime mortgage market in the United States were emerging, it presented a rosy view of the present and the future.
+The authors did address whether global imbalances, derivatives, and subprime mortgages posed a threat to financial stability.
+But they liked what they saw.
+<P>
+In the mortgage market, the IMF saw prospects of a soft landing.
+It believed that global imbalances would unwind gradually.
+And it paid tribute to the ability of US markets and financial firms to create innovative instruments to “attract and sustain high levels of capital inflows.”
+Indeed, US markets were described as “deep, flexible, sophisticated, and by and large well-regulated.”
+<P>
+But the most remarkable misjudgment appears in the discussion of credit risk transfer.
+The IMF concluded that “a wider dispersion of credit risk has derisked the financial sector.”
+As a result, “banks should become more resilient and financially stable,” the consequences of which “should be seen in fewer bank failures and more consistent credit provision.”
+We have entered an era in which “commercial banks may be less vulnerable to credit or economic shocks.”
+<P>
+This was not, shall we say, the IMF’s finest hour.
+It brings to mind John Kenneth Galbraith’s famous quip that economic forecasters were put on Earth to make astrologers look good.
+So maybe we should take the IMF’s more recent reports, which are full of dark warnings, with a grain of salt.
+It would not be surprising if, even a decade on, the Fund continues to be influenced by its failure to warn in good time that a global financial crisis – the worst in nearly 80 years – was a material risk.
+<P>
+And, indeed, there are signs that the IMF now sees trouble everywhere it looks.
+But, though the Fund’s economists may be at risk of forecasting ten of the next three crises, it would be unwise to dismiss their concerns entirely on the basis of past errors.
+(That has been the trivializing response of “Brexit” campaigners to warnings by the European Union, the IMF, and the OECD, that withdrawal from the EU would cause severe damage to the British economy.)
+The Fund makes some strong points, but others appear much less well founded.
+<P>
+The IMF’s strongest arguments concern China and European banks.
+It is surely true that the buildup of debt in China calls for close monitoring, and that corporate deleveraging, which is urgently required, “should be accompanied by a strengthening of banks and social safety nets, especially for displaced workers in overcapacity sectors.”
+There is no reason why that cannot be achieved – the overall balance sheet of China, Inc. remains strong – but the domestic distributional consequences will require careful management.
+<P>
+The second big challenge that the IMF identifies – excess capacity in the eurozone banking system, and the related problem of non-performing loans – is also, in principle, solvable.
+The European Central Bank is well aware of the risk from weaker banks; but, with the eurozone economy heavily reliant on bank credit, addressing it is not straightforward.
+And continued massive ECB intervention in the bond markets can only postpone the day of reckoning, not avert it.
+<P>
+But the third problem detected by the IMF may not be a problem at all.
+The Fund argues that the life insurance industry could be a future source of systemic risk, and should therefore be subject to macroprudential stress testing, or counter-cyclical capital buffers, on the model used for banks.
+<P>
+The first recommendation is curious: IMF staff seem unaware that a stress-testing regime for insurers has already been put in place in some jurisdictions, notably the United Kingdom.
+Indeed, there are stress tests, and so-called reverse stress tests, whereby insurers are required to describe what would need to occur to make them fail.
+And of course insurers did – almost universally – pass a real-world stress test in the form of the financial crisis.
+The one big failure, AIG, occurred because of problems in its non-insurance business.
+<P>
+Likewise, the IMF’s makes no compelling case for a macroprudential countercyclical approach to insurance capital.
+The Fund’s own analysis does not demonstrate that insurers behave in a procyclical way.
+On the contrary, there is some evidence that they acted counter-cyclically in the crisis.
+Even the IMF concludes that “the evidence is not unequivocal.”
+<P>
+That is a thin basis on which to propose a new set of capital requirements, which would be “built up during upswings of the financial cycle and run down during periods of financial stress.”
+Why such tinkering is appropriate on the asset side of the balance sheet, while liabilities remain unchanged, is not explained.
+<P>
+Perhaps it would be better if the IMF’s 2006 report could be put beyond reach, behind a firewall or somewhere on the dark web, in an unindexed museum of forecasting disasters.
+Then the IMF could again take a balanced view, rather than issuing so many false alarms that it is ignored when a real fire starts.

@@ -1,0 +1,52 @@
+<HEADLINE>
+A Precautionary Approach to Artificial Intelligence
+<P>
+FLORENCE – For policymakers anywhere, the best way to make decisions is to base them on evidence, however imperfect the available data may be.
+But what should leaders do when facts are scarce or non-existent?
+That is the quandary facing those who must grapple with the fallout of “advanced predictive algorithms” – the binary building blocks of machine learning and artificial intelligence (AI).
+<P>
+In academic circles, AI-minded scholars are either “singularitarians” or “presentists.”
+Singularitarians generally argue that while AI technologies pose an existential threat to humanity, the benefits outweigh the costs.
+But although this group includes many tech luminaries and attracts significant funding, its academic output has so far failed to prove their calculus convincingly.
+<P>
+On the other side, presentists tend to focus on the fairness, accountability, and transparency of new technologies.
+They are concerned, for example, with how automation will affect the labor market.
+But here, too, the research has been unpersuasive.
+For example, MIT Technology Review recently compared the findings of 19 major studies examining predicted job losses, and found that forecasts for the number of globally “destroyed” jobs vary from 1.8 million to two billion.
+<P>
+Simply put, there is no “serviceable truth” to either side of this debate.
+When predictions of AI’s impact range from minor job-market disruptions to human extinction, clearly the world needs a new framework to analyze and manage the coming technological disruption.
+<P>
+To be sure, incomplete data are a common problem for technology researchers.
+Even under “normal” conditions, the study of emerging technologies is like solving a puzzle in the dark with a dim flashlight.
+The assumptions of established theories are not questioned, and securing beneficial outcomes is a matter of quantifying probabilities of adverse events and consequently managing the associated risks.
+<P>
+But every so often, a “post-normal” scientific puzzle emerges, something philosophers Silvio Funtowicz and Jerome Ravetz first defined in 1993 as a problem “where facts are uncertain, values in dispute, stakes high, and decisions urgent.”
+For these challenges – of which AI is one – policy cannot afford to wait for science to catch up.
+<P>
+At the moment, most AI policymaking occurs in the Global North, which deemphasizes the concerns of less developed countries and makes it harder to govern dual-use technologies.
+Worse, policymakers often fail adequately to consider the potential environmental impact, and focus almost exclusively on the anthropogenic effects of automation, robotics, and machines.
+<P>
+Even without reliable data, decision-makers must move forward with AI governance.
+And, as the world waits for scientific certainty (which may never arrive), there is an existing solution that can guide us into the unknown: the “precautionary principle.”
+Adopted globally in 1992 as part of the United Nations Rio Convention on sustainable development, and later incorporated into one of the European Union’s founding treaties, the precautionary principle states that a lack of certainty cannot be a basis for failing to protect human health or the environment.
+That seems like a suitable way to address the uncertainty of a tech-driven future.
+<P>
+The precautionary principle is not without its detractors.
+But while its merits have been debated for years, we need to accept that the lack of evidence of harm is not the same thing as evidence of lack of harm.
+This simple idea has been applied to myriad human development issues – from public health to infant mortality.
+There are three good reasons why AI should be next.
+<P>
+For starters, applying the precautionary principle to the context of AI would help rebalance the global policy discussion, giving weaker voices more influence in debates that are currently monopolized by corporate interests.
+Decision-making would also be more inclusive and deliberative, and produce solutions that more closely reflected societal needs.
+The Institute of Electrical and Electronics Engineers, and The Future Society at Harvard’s Kennedy School of Government are already spearheading work in this participatory spirit.
+Additional professional organizations and research centers should follow suit.
+<P>
+Moreover, by applying the precautionary principle, governance bodies could shift the burden of responsibility to the creators of algorithms.
+A requirement of explainability of algorithmic decision-making can change incentives, prevent blackboxing, help make business decisions more transparent, and allow the public sector to catch up with the private sector in technology development.
+And, by forcing tech companies and governments to identify and consider multiple options, the precautionary principle would bring to the fore neglected issues, like environmental impact.
+<P>
+Rarely is science in a position to help manage an innovation long before the consequences of that innovation are available for study.
+But, in the context of algorithms, machine learning, and AI, humanity cannot afford to wait.
+The beauty of the precautionary principle lies not only in its grounding in international public law, but also in its track record as a framework for managing innovation in myriad scientific contexts.
+We should embrace it before the benefits of progress are unevenly distributed, or, worse, irreversible harm has been done.

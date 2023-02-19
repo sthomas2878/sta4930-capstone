@@ -1,0 +1,58 @@
+<HEADLINE>
+Did the Bankers Do It?
+<P>
+NEW DELHI – Few areas of economic activity in the United States are more politicized than housing finance.
+Yet the intellectual left has gone to great lengths to absolve regulators, government lending mandates, and agencies like Fannie Mae and Freddie Mac of any responsibility for the housing boom and the subsequent bust.
+<P>
+The rationale is clear: if these officials, institutions, and policies were held accountable, the reform agenda would necessarily shift from regulating greedy bankers and their bonuses to asking broader questions.
+Might government mandates contribute to bad behavior by private players?
+Can regulators be trusted to make appropriate trade-offs between financial stability and mandates that have wide political support?
+Indeed, can central bankers be truly independent?
+Unquestioning acceptance of a greater government role in taming markets would, in short, give way to asking whether that role can sometimes be part of the problem.
+<P>
+The left has had an easy task in dominating the debate, partly because the intellectual right’s attempt to place all the blame for the crisis on government is thoroughly implausible.
+It is far more defensible and correct to argue that everyone – bankers, households, regulators, and politicians – contributed to (and took credit for) the boom while it lasted, only to point fingers at one another when it collapsed.
+<P>
+But bankers’ political tin ear in the aftermath of the crisis – first taking public bailouts and then paying themselves huge bonuses as if nothing had changed – ensured that they got the lion’s share of the blame, with everyone else willing to pose as their unwitting victims.
+As a result, the public-policy response has been dominated by “the bankers did it” narrative.
+The risk is that this approach is incomplete – and thus unlikely to be effective.
+<P>
+It is therefore refreshing to see a careful econometric study take on an assertion by Paul Krugman, perhaps the most influential left-leaning US economist, that “the Community Reinvestment Act of 1977 was irrelevant to the subprime boom.”
+The CRA instructs federal financial supervisory agencies to encourage the institutions that they regulate to help the communities in which they are chartered to meet their credit needs, while also conforming to “safe and sound” standards.
+In practice, regulators measure the volume of lending to CRA target tracts – poor areas with median income less than 80% of the median income of the local community – as well as to low-income and minority borrowers in non-CRA tracts to verify compliance with the Act.
+<P>
+The left has dismissed any claim that the CRA played a role in the housing boom by pointing out that it was enacted in 1977, while the subprime boom played out in the early 2000’s.
+But this ignores the possibility that regulators may have started to enforce the CRA rigorously only later.
+<P>
+To enforce the statute, regulators periodically examine banks for CRA compliance.
+To hone in on the “regulatory enforcement” effect, the recent study compares the behavior of banks that are undergoing examination (which takes place over several quarters) to that of banks that are not undergoing examination in a particular tract in a particular month.
+<P>
+The findings are clear.
+Compared to banks that are not undergoing examination, the volume of loans by banks in the six quarters surrounding a CRA examination is 5% higher, and these loans are 15% more likely to be delinquent one year after origination.
+In other words, banks undergoing examination lend more and make riskier loans – and these findings are even more pronounced in CRA-eligible tracts.
+<P>
+Good econometric studies examine secondary effects to persuade readers that the main effect is what it is.
+Regulators’ primary tool to enforce compliance was their authority to reject non-CRA-compliant banks’ requests for new branches or mergers.
+During the subprime boom, large banks were more likely to want to expand, and thus had greater incentive to comply.
+The study finds that CRA lending by larger banks does indeed respond more to a CRA examination.
+<P>
+At the height of the lending frenzy (2004-2006), the study finds that banks loaned even more in response to an examination, and that the outcomes were even worse.
+The authors speculate that easier loan securitization may have made risky CRA-compliant loans seem less costly.
+Finally, like all good studies, this one explains why the authors more careful analysis produces results that differ from those in previous studies.
+<P>
+Because of the way it is structured, the study only suggests a lower bound on the effects of CRA compliance.
+It focuses on the differential impact of the CRA on banks undergoing examination and those not undergoing examination.
+In fact, all banks are likely to have upped their CRA-compliant lending.
+The study cannot measure this increase.
+<P>
+There is room in economics for grand speculation – some part intuition, some part common sense, and some part ideology.
+If economists were to wait for careful studies before offering opinions about policy, we would never have anything timely to say.
+And it is certainly better to have some economic intuition guiding policy than none at all.
+<P>
+But there is a danger that the public mistakes speculation for truth, only because of the speculator’s credentials and assertiveness.
+Studies like this one are useful in setting the record straight.
+<P>
+More broadly, the study suggests that we should move beyond blaming the bankers.
+We must recognize that in the desire to broaden home ownership, essential checks and balances broke down.
+Households, politicians, and regulators were also complicit.
+As we go about the process of reform, we should bear in mind that the only thing worse than fighting the last war is fighting the wrong last war.

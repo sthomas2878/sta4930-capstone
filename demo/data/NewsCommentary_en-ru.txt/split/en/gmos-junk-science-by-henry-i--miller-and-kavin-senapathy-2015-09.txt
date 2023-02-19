@@ -1,0 +1,49 @@
+<HEADLINE>
+GMOs and Junk Science
+<P>
+STANFORD – In today’s media landscape, where unfounded opinions, hype, and rumors are rife, the scientific method – the means by which we determine, based on empirical and measurable evidence, what is true – should serve as a touchstone of reality.
+Science enables us to gauge what we think we know and to identify what we do not.
+Most important, it discredits false claims made for personal or political reasons – at least it should.
+<P>
+But scientists occasionally “go rogue,” forsaking the scientific method – often for notoriety or economic gain – to produce propaganda and to sow fear in a public that lacks expertise but is hungry for information.
+This abuse of scientific authority is especially widespread in the “organic” and “natural” food industries, which capitalize on people’s fear of synthetic or “unnatural” products.
+<P>
+A recent example is the Indian-American scientist V.A. Shiva Ayyadurai, who, with Prabhakar Deonikar, published the much-ridiculed paper “Do GMOs Accumulate Formaldehyde and Disrupt Molecular Systems Equilibria?
+Systems Biology May Provide Answers.”
+(“GMOs” are “genetically modified organisms,” itself a misleading and often unfairly stigmatized non-category, circumscribing a universe of organisms modified with the most modern and precise techniques of genetic engineering.)
+<P>
+Although the article supposedly passed the peer-review process, a key component of legitimate science, it appeared in a low-impact “pay-for-play” journal, Agricultural Sciences, which is produced by a “predatory” publisher.
+Within days of publication, anti-biotechnology organizations like the Organic Consumers Association and GMO Inside were reporting on Ayyadurai’s “findings” with frightening headlines – “Formaldehyde in GMO Soy?” and “New Study Shows GMO Soy Accumulates Cancer Causing Chemical Formaldehyde” – accompanied by scary graphics.
+<P>
+But the problems with Ayyadurai’s paper are legion.
+Its title alone is enough to show that something is amiss.
+If you think that GMOs might “accumulate formaldehyde” – a chemical that is probably carcinogenic at high levels but is present in most living cells and found widely in our environment – the obvious response would be to measure its levels in the organisms.
+Ayyadurai, however, chose to make guesses based on modeling via “systems biology.”
+<P>
+“Systems biology” enables only a prediction, not an experimental conclusion.
+Rather than actually testing the levels of any chemicals in plants, Ayyadurai plugged data into a computer algorithm to predict the levels of two chemicals, formaldehyde and glutathione.
+This is akin to a meteorologist predicting from his models that it will be sunny all day, instead of looking out the window to see whether rain is falling.
+<P>
+To be sure, as Kevin Folta, the head of the horticultural sciences department at the University of Florida, explained, systems biology can be a useful approach if employed properly.
+As he put it, systems biology “is a way to make predictions based on integrating existing data, and then statistically deriving a likelihood that the predictions may be correct.”
+But, he emphasizes, the predictions are then to be tested, “and the systems approach validated.”
+<P>
+Like all predictive studies based on computer modeling, the validity of the results depends on the integrity of the data and the algorithm.
+If the data are cherry-picked to support the modeler’s desired conclusions, or if the algorithm is flawed, the results will be inaccurate.
+But it is unclear from Ayyadurai’s article which data were used, and there is no validation of the model.
+<P>
+Folta offers a brilliant send-up of Ayyadurai’s work.
+“If you developed a computer program that integrated Internet data to predict the location of Munich, and the program told you it was squarely in the Gulf of Mexico, right off Florida, it does not mean that Munich is in the Gulf of Mexico, right off of Florida.”
+Instead, it means that you have made a mistake, in your program, assumptions, or input data – all of which are testable.
+<P>
+To decide not to challenge those data, Folta continues, and instead to “publish a map showing that Munich is squarely in the Gulf of Mexico, opposing all other data and the claims of millions of rather dry Germans, does not mean that you are brilliant.
+It means you have absolutely no clue, or more likely, have some reason you want a major German metropolis to be a two-hour boat ride from Tampa.”
+<P>
+Folta also has something to say about Ayyadurai’s publisher.
+If you print the deceptive map showing the location of Munich, “what does that say about your integrity as a reliable information source?”
+<P>
+In the spirit of scientific cooperation, Folta offered to collaborate with Ayyadurai on university-based testing of genetically engineered corn and soy samples (along with appropriate controls), with analysis by an independent lab.
+Ayyadurai declined, so Folta will proceed himself.
+<P>
+The experimental data is forthcoming.
+In the meantime, if you get a hankering for sauerbraten and spaetzle, head for Central Europe, not the Gulf of Mexico.

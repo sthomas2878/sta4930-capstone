@@ -1,0 +1,58 @@
+<HEADLINE>
+On the Cusp of an AI Revolution
+<P>
+SAN FRANCISCO – Over the last 30 years, consumers have reaped the benefits of dramatic technological advances.
+In many countries, most people now have in their pockets a personal computer more powerful than the mainframes of the 1980s.
+The Atari 800XL computer that I developed games on when I was in high school was powered by a microprocessor with 3,500 transistors; the computer running on my iPhone today has two billion transistors.
+Back then, a gigabyte of storage cost $100,000 and was the size of a refrigerator; today it’s basically free and is measured in millimeters.
+<P>
+Even with these massive gains, we can expect still faster progress as the entire planet – people and things – becomes connected.
+Already, five billion people have access to a mobile device, and more than three billion people can access the Internet.
+In the coming years, 50 billion things – from light bulbs to refrigerators, roads, clothing, and more – will be connected to the Internet as well.
+<P>
+Every generation or so, emerging technologies converge, and something revolutionary occurs.
+For example, a maturing Internet, affordable bandwidth and file-compression, and Apple’s iconic iPhone enabled companies such as Uber, Airbnb, YouTube, Facebook, and Twitter to redefine the mobile-customer experience.
+<P>
+Now we are on the cusp of another major convergence: big data, machine learning, and increased computing power will soon make artificial intelligence, or AI, ubiquitous.
+<P>
+AI follows Albert Einstein’s dictum that genius renders simplicity from complexity.
+So, as the world itself becomes more complex, AI will become the defining technology of the twenty-first century, just as the microprocessor was in the twentieth century.
+<P>
+Consumers already encounter AI on a daily basis.
+Google uses machine learning to autocomplete search queries and often accurately predicts what someone is looking for.
+Facebook and Amazon use predictive algorithms to make recommendations based on a user’s reading or purchasing history.
+AI is the central component in self-driving cars – which can now avoid collisions and traffic congestion – and in game-playing systems like Google DeepMind’s AlphaGo, a computer that beat South Korean Go master Lee Sedol in a five-game match earlier this year.
+<P>
+Given AI’s wide applications, all companies today face an imperative to integrate it into their products and services; otherwise, they will not be able to compete with companies that are using data-collection networks to improve customer experiences and inform business decisions.
+The next generation of consumers will have grown up with digital technologies and will expect companies to anticipate their needs and provide instant, personalized responses to any query.
+<P>
+So far, AI has been too costly or complex for many businesses to make optimal use of it.
+It can be difficult to integrate into a business’s existing operations, and historically it has required highly skilled data scientists.
+As a result, many businesses still make important decisions based on instinct instead of information.
+<P>
+This will change in the next few years, as AI becomes more pervasive, potentially making every company and every employee smarter, faster, and more productive.
+Machine learning algorithms can analyze billions of signals to route customer service calls automatically to the most appropriate agent or determine which customers are most likely to purchase a particular product.
+<P>
+And AI’s applications extend beyond online retail: Brick-and-mortar stores still account for 90% of retail sales, according to the consultancy A.T. Kearney.
+Soon, when customers enter a physical store, they will be greeted by interactive chat-bots that can recommend products based on shopping history, offer special discounts, and handle customer-service issues.
+<P>
+Advances in so-called “deep learning,” a branch of AI modeled after the brain’s neural network, could enable intelligent digital assistants to help plan vacations with the acumen of a human assistant, or determine consumer sentiments toward a particular brand, based on millions of signals from social networks and other data sources.
+In health care, deep-learning algorithms could help doctors identify cancer-cell types or intracranial abnormalities from anywhere in the world in real time.
+<P>
+To deploy AI effectively, companies will need to keep privacy and security in mind.
+Because AI is fueled by data, the more data the machine gains about an individual, the better it can predict their needs and act on their behalf.
+But, of course, that massive flow of personal data could be appropriated in ways that breach trust.
+Companies will have to be transparent about how they use people’s personal data.
+AI can also detect and defend against digital security breaches, and will play a critical role in protecting user privacy and building trust.
+<P>
+As in past periods of economic transformation, AI will unleash new levels of productivity, augment our personal and professional lives, and pose existential questions about the age-old relationship between man and machine.
+It will disrupt industries and dislocate workers as it automates more tasks.
+But just as the Internet did 20 years ago, AI will also improve existing jobs and spawn new ones.
+We should expect this and adapt accordingly by providing training for the jobs of tomorrow, as well as safety nets for those who fall behind.
+<P>
+AI is still a long way from surpassing human intelligence.
+It has been 60 years since John McCarthy, a computer scientist and nominal father of AI, first introduced the term during a conference at Dartmouth College, and computers have only recently been able to detect cats in YouTube videos or determine the best route to the airport.
+<P>
+We can count on technological innovation to continue at an even more rapid pace than in previous generations.
+AI will become like electrical current – invisible and augmenting almost every part of our lives.
+Thirty years from now, we will wonder how we ever got along without our seemingly telepathic digital assistants, just as today it’s already hard to imagine going more than a few minutes without checking the 1980s mainframe in one’s pocket.

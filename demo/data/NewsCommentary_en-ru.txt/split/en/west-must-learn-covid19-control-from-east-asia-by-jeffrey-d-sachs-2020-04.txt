@@ -1,0 +1,69 @@
+<HEADLINE>
+The East-West Divide in COVID-19 Control
+<P>
+NEW YORK – East Asian countries are outperforming the United States and Europe in controlling the COVID-19 pandemic, despite the fact that the outbreak began in China, to which the rest of East Asia is very closely bound by trade and travel.
+The US and Europe should be learning as rapidly as possible about the East Asian approaches, which could still save vast numbers of lives in the West and the rest of the world.
+<P>
+An important starting point for comparison is the number of confirmed cases and COVID-19 deaths per million population, shown in the first columns of the accompanying table for April 7.
+It is as if the two regions are in different worlds.
+Europe and the US are engulfed in the pandemic: confirmed cases per million range from 814 (UK) to 3,036 (Spain), and deaths per million range from 24 to 300.
+In the East Asian countries, confirmed cases per million range from three (Vietnam) to 253 (Singapore), and deaths per million from 0 to four.
+<P>
+East Asian countries are not systematically undercounting either cases or deaths relative to their Western counterparts.
+Both regions have tested a similar proportion of their populations, as shown in the third column of the table.
+<P>
+Importantly, the differences between the two regions do not reflect firmer economic lockdowns in East Asia.
+Google has recently published fascinating data on the reduction of activity in various sectors of the economy.
+Google’s results regarding the retail sector are shown in the fourth column of the table.
+The disruptions to normal life (comparing the end of March with a baseline of January 3 to February 6) are less severe in East Asia.
+<P>
+The disparity between East Asian and Western countries’ public-health and economic outcomes reflects three key differences between the regions.
+For starters, the East Asian countries were far better prepared for a new disease outbreak.
+The 2003 SARS outbreak was a wake-up call, and frequent waves of dengue fever in several East Asian countries reinforced the message.
+In Europe and the US, concerns over SARS, Ebola, Zika, and dengue fever seemed far away, abstract, and (with the exception of SARS) mainly “tropical.”
+The result of this greater awareness was a much higher national alert level throughout the region when China first publicly reported an unusual clutch of pneumonia cases in Wuhan on December 31, 2019.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In epidemic control, early action is crucial to containment.
+Starting in early January, most of China’s neighbors began to curtail travel with China and immediately stepped up testing and tracing operations.
+China and others have deployed new digital technologies for monitoring the spread of the disease.
+<P>
+Western countries were far less attentive to the novel coronavirus when it first appeared.
+The US Centers for Disease Control and Prevention (CDC) was in contact with the China CDC on January 3.
+The first US case was confirmed on January 20.
+And yet it was not until January 31 that US President Donald Trump announced travel restrictions with China.
+Even then, these vital restrictions were not taken seriously.
+Recent estimates suggest that 430,000 people arrived in the US from China after the outbreak was disclosed, including around 40,000 after Trump’s so-called travel ban.
+<P>
+The East Asian public is also more aware of the proper precautions to take.
+Face masks are widely used and have been at least since SARS.
+Western authorities, by contrast, told the public not to wear face masks, partly to direct the limited supply of protective masks to health workers, and partly because officials underestimated masks’ benefits for reducing new infections.
+Similarly, hand sanitizers, greater physical distancing, and less frequent handshaking are all part of East Asians’ daily life.
+<P>
+Lastly, East Asian authorities have dramatically stepped up screening for symptoms as people move about in public areas, offices, and other crowded places.
+It is routine in many enterprises to screen all workers’ body temperature as they enter the workplace.
+Temperature monitoring is also used at transit hubs like airports and train stations.
+This practice is still almost non-existent in the US and Europe.
+<P>
+China’s outbreak was the worst in East Asia, and, in a way, the most instructive for the US and Europe.
+Unlike its neighbors, China experienced a full-fledged epidemic for several weeks, from around mid-December to mid-January.
+By the time China quarantined Wuhan on January 23, there were already 375 confirmed cases in Hubei Province, where Wuhan is located, and probably many more unconfirmed cases (either symptomatic but untested cases or asymptomatic).
+The virus had also begun to spread across China, with an additional 196 confirmed cases.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+At that stage, China took drastic action.
+It clamped down on all travel and movement in public; quickly implemented online systems to track individuals and enforce quarantine orders; and tested extensively and monitored massively for symptoms.
+The measures were undoubtedly very drastic and were widely criticized.
+Yet they were also remarkably effective.
+China brought a full-fledged and rapidly spreading epidemic under control in just a few weeks – a feat many experts thought was impossible.
+<P>
+Many question whether China’s stringent controls can work or be acceptable in the US.
+Yet the US must learn from China’s success, and from East Asia’s success more generally.
+As US National Institutes of Health Director Francis Collins has cogently put it, “The approach we should be taking right now is one that most people would find to be too drastic because otherwise it is not drastic enough.”
+<P>
+Europe and the US do not yet have the epidemic under control, and shortages of life-saving ventilators and deaths of health workers lacking basic protective gear compound the tragedy.
+The public health response will be decisive in stopping COVID-19 before it devastates entire populations in the West and around the world.
+And the right approach in the West requires that we learn what we can from East Asia as rapidly as possible.

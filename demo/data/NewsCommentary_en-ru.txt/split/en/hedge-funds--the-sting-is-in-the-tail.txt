@@ -1,0 +1,53 @@
+<HEADLINE>
+Hedge Funds: The Sting is in the Tail
+<P>
+PHILADELPHIA – Imagine that you are shopping for a high-performance car, but that you are not allowed to look under the hood.
+What’s inside is a secret.
+Furthermore, you cannot find out how similar vehicles have performed, because there are none.
+Finally, the car carries no warranty.
+<P>
+The same logic applies to hedge funds: investors are typically not allowed to know how they work, and no warranties are offered.
+Moreover, hedge fund managers can easily “fake” high performance without getting caught.
+<P>
+To see how high performance can be faked, consider a fairly rare event, such as the S&P 500 falling by more than 20% in the coming year.
+Such events are commonly priced in the derivatives market, which puts the price for the S&P event at ten cents on the dollar.
+An option costs ten cents now and pays $1 if the event occurs by the end of the year, but nothing if it does not.
+<P>
+Enter Oz, who holds a doctorate in physics.
+He has no investment talent, but he knows about probabilities, and is running a hedge fund worth $100 million.
+He decides to sell options on the S&P event.
+In order to meet his obligations to the option holders if it occurs, he parks the $100 million in one-year US Treasury bills yielding 4%.
+He then sells 100 million covered options, which fetch ten cents on the dollar and thus net $10 million.
+He parks this $10 million in Treasury bills, too, and sells another 10 million options.
+This nets him another $1 million, which he uses to cover expenses.
+<P>
+At the end of the year, the probability is 90% that the event does not occur, so Oz owes nothing to option holders.
+The fund grosses $11 million from the sale of the options plus 4% on $110 million in Treasury bills, which represents a handsome 15.4% return before expenses.
+<P>
+Moreover, Oz’s fee is the standard “two and twenty”: 2% for funds under management plus a 20% performance bonus for returns that exceed some benchmark – say, 4%.
+He therefore gets more than $3 million after expenses.
+Oz is happy that he left physics.
+<P>
+Since the probability of the event occurring is only 10% in any year, the chances are nearly 60% that more than five years will pass without the event occurring, in which case Oz makes more than $15 million even if no new money comes into the fund.
+Of course, after several years of such returns, Oz’s fund may grow enormously as new investors clamor for a piece of the action.
+<P>
+But investors do not know – and cannot tell – that Oz has no talent.
+They see what happened, not what could have happened.
+So when the event eventually does occur, investors who leave their money in the fund lose everything, whereas Oz nets more than $3 million in each year before the fund crashes.
+<P>
+Moreover, the outcome for investors is the same even if managers are honest and merely think that they can beat the market.
+Oz may not be a crook; he may merely think that the probability of the S&P plummeting is much less than 10%.
+<P>
+The bottom line is that hedge fund managers put their investors at risk, yet assume little risk themselves.
+If the fund blows up, investors cannot tell whether it was due to bad management or just bad luck.
+<P>
+This poses real challenges for regulators.
+Fraud is difficult to prove, because managers can always say that they thought the odds were better than were.
+Nor will changing the incentives – say, by penalizing underperformance as well as rewarding high performance – solve the problem, because any fee structure that rewards true financial wizards also rewards charlatans.
+<P>
+Yet steps to protect investors can be taken.
+All hedge funds should be required to register immediately, and to report their returns regularly.
+Requiring managers to apprise investors of downside exposure would help even more.
+Alternatively, managers could guarantee limits on losses, similar to a car manufacturer’s warranty.
+<P>
+It is in the hedge fund industry’s interest to encourage greater regulation and transparency, lest a rising tide of failed funds cause investor confidence to collapse, putting both good and bad wizards out of business.

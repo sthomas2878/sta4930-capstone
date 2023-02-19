@@ -1,0 +1,67 @@
+<HEADLINE>
+Africa’s Digital Generation Gap
+<P>
+LONDON – Africa is the youngest place in the world.
+But because African heads of state tend to be older – with an average age of 62 – they are out of touch with African youth.
+At an event in London last April, Nigerian President Muhammadu Buhari suggested that young Nigerians were lazy and looking for government handouts, provoking a social-media backlash (hashtag: #LazyNigerianYouths) by young Nigerians who listed all of their productive pursuits.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+For its part, the Nigerian mobile lending platform OneFi showcased some of its enterprising customers.
+With a small loan, one young woman was able to buy inventory for a wholesale plantain chip business; another young entrepreneur was able to build a poultry house that could hold 1,000 chickens.
+<P>
+African tech startups like OneFi largely owe their existence to the expansion of mobile Internet across the continent.
+With a projected smartphone user base of 725 million by 2020, and Internet access expected to grow by 130% in the next six years, Africa’s digital economy could create millions of jobs for young Africans.
+<P>
+Considering that almost two-thirds of Sub-Saharan Africa’s population is under 25, and a staggering 29 million young people are entering the labor market each year, a surge in employment opportunities is essential to Africa’s future.
+Unfortunately, a creeping trend toward government overregulation threatens to derail future job creation.
+<P>
+Like governments everywhere, those in Africa are constantly trying to keep up with the pace of technological innovation.
+As technology fundamentally reshapes daily life, changing the way Africans communicate, consume media, and pay for goods and services, many governments have only just awoken to the emergence of the digital economy.
+But instead of applying a light touch and creating a set of nuanced regulations, too many are implementing heavy-handed, top-down measures that could stifle the startup boom.
+<P>
+Consider Uganda’s recently imposed social-media tax, supposedly intended to discourage the spread of “gossip” and generate tax revenue from foreign social-media apps.
+In practice, the foreign companies have simply passed the costs on to the end-users through their telecom providers.
+For someone who uses social media daily, the cost of purchasing a prepaid data bundle has surged by 23-62%, leading to a 20% drop in mobile data subscribers.
+To purchase one gigabyte of data, Ugandans who earn less than the average annual income of $606 must now spend approximately 40% of their monthly earnings.
+<P>
+The government of Benin attempted to replicate Uganda’s poorly formulated policy, but, after widespread outcry, repealed the tax after only three days.
+Uganda’s government seems less concerned about public opinion: in addition to the social-media tax, it has also levied a 1% tax on mobile-money transactions.
+<P>
+Many new digital regulations resemble classic attempts to restrict free speech and political organizing.
+In Tanzania, a draconian policy introduced last March requires anyone running a blog or website to pay $930 for a license.
+That is higher than the country’s annual per capita GDP.
+The Tanzanian government is also attempting to pass a bill that would make it a crime to disseminate data without permission from the country’s chief statistician.
+<P>
+Such measures would severely limit the services that could be offered by any tech startup that relies on data flows.
+The Ghana-based platform mPharma, for example, uses insights from anonymized datasets to forecast demand for prescription drugs and negotiate lower prices with pharmaceutical manufacturers, reducing costs for end-users.
+If Tanzania’s policy becomes the new norm, this data-driven business model – a common one among African tech startups – will be imperiled.
+<P>
+On a continent where over one-fifth of the working-age population has started a new business, the Internet and social media have proven crucial for marketing and customer service.
+Still, some African leaders have tried to justify the new policies by pointing to the need for tax revenues and characterizing online activity as frivolous, unproductive, and even unpatriotic.
+<P>
+For example, Ugandan President Yoweri Museveni has equated the social-media tax with taxes on other social vices.
+But when Museveni came to power 33 years ago, the most advanced new technologies were armored vehicles and coffee harvesting machinery.
+Sadly, though emerging young leaders such as Bobi Wine, an Ugandan actor-turned-MP, are speaking out for young people and opposing entrenched economic interests and ineffectual policymaking, the Musevenis of the region have had no trouble silencing or ignoring them.
+<P>
+The consequences of digital overregulation will have far-reaching ripple effects.
+It is estimated that a ten-percentage-point increase in mobile broadband penetration leads to an increase of 1.38 percentage points in a developing economy’s growth rate.
+Moreover, most of the African tech startups now taking a hit were created to deliver basic services that traditional institutions and governments have failed to provide, from banking to health care to last-mile logistics.
+The impulse to regulate blindly could leave consumers on their own again.
+<P>
+Overregulation can also spook international investors, who gauge mobile-based startups’ commercial viability by the number of subscribers they can acquire.
+Given that Africa’s mobile data costs are already high relative to average incomes, the introduction of burdensome new taxes and regulations means that many startups will lose investors.
+<P>
+Africa’s aged ruling elites ignore the needs of youths at their peril.
+By 2055, more than 450 million Africans – approximately one-fifth of the continent’s total projected population – will be between the ages of 15 and 24.
+By stymying digital innovation, African governments are preventing the growth of a tech ecosystem that will generate the jobs of the future.
+<P>
+It is time to repeal these overzealous regulations before they do too much damage.
+Otherwise, young leaders like Chijioke and Ngozi Dozie, the founders of OneFi, will never fulfill their potential to unlock opportunities for hundreds of millions more young Africans.

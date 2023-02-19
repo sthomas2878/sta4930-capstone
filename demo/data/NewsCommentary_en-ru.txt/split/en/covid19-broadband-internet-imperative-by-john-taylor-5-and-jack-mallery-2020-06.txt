@@ -1,0 +1,53 @@
+<HEADLINE>
+Broadband for All
+<P>
+STANFORD – COVID-19 has revealed both the strengths and weaknesses of America’s broadband Internet infrastructure.
+On the positive side, supply has not only withstood the remarkable increase in demand for e-commerce, telehealth, and communications, but expanded.
+As shelter-in-place measures and social-distancing rules reduced normal access to education and health services, the Internet compensated, at least in part, by providing remote connectivity to tens of millions of people.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Douglas Holtz-Eakin, a former director of the US Congressional Budget Office, argues persuasively that, by unleashing competition and innovation, government regulatory policy in the United States has allowed the tech sector to grow.
+Computing power has increased 100-fold in the past 15 years.
+The US today has more high-speed broadband than Europe, and has avoided many unnecessary regulations that would have constrained private-sector initiative.
+As a result, 90% of American adults now use the Internet, and 25% of companies use the Internet of Things.
+<P>
+Moreover, McKinsey & Company projects that the number of IoT-connected devices globally will increase to 43 billion by 2023.
+It is safe to say that Internet usage will continue to grow so long as we avoid a regulatory reversal.
+In a recent survey of Americans who have worked remotely during the coronavirus pandemic, three-fifths of respondents say they would prefer to continue to do so.
+Similarly, 20% of chief financial officers have already started planning for a future in which at least 20% of their company’s workforce will operate remotely.
+<P>
+Telecommuting offers many advantages.
+Working from home is more productive, and can lead to an estimated 13% improvement in performance.
+Better yet, there is room for much more improvement with the spread of innovative technologies to reduce turnover and absenteeism, and to promote collaboration, social interaction, and other forms of engagement that boost morale.
+Break-off sessions or “sidebar” meetings on Zoom, for example, are already being used to help managers get to know employees, make sounder organizational choices, and otherwise prevent telecommuting from hurting career development.
+<P>
+But COVID-19 has also revealed fundamental weaknesses in the existing Internet infrastructure.
+One of the most significant problems is unequal access – the “digital divide.”
+Harvard University economist Raj Chetty looked at data from Zearn online math programs and found that when education went online this past spring, learning rates among those in the bottom income quartile fell by 60%, compared with just 20% for those in the top quartile.
+Moreover, up to 18% of students in the US lack reliable Internet access at home, and only 56% of households with annual income under $30,000 have access to broadband.
+<P>
+Among other things, the pandemic shows us that ensuring digital connectivity for those who lack it is essential, and may even be more important than subsidizing roads and bridges.
+Fortunately, there are clear opportunities to improve our Internet hardware and software systems, some of which build on the popular desire to increase infrastructure spending.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+For example, recently submitted “Dig Once” legislation would speed up Internet deployment by requiring that “broadband conduit – plastic pipes which house fiber-optic communications cable – [be installed] during the construction of any road receiving federal funding.”
+In the US House of Representatives, Democrat Anna Eshoo of California and Republican David McKinley of West Virginia have teamed up to propose the Nationwide Dig Once Act of 2020, which would require that states notify broadband providers about highway construction projects so that they can coordinate the installation of additional broadband.
+<P>
+Another appropriate option is to provide more direct funding to improve Internet access, as envisioned in the recently proposed Health and Economic Recovery Omnibus Emergency Solutions (HEROES) Act.
+Under Titles II and III of the bill, an Emergency Broadband Connectivity Fund would be established to expand connectivity in several ways, including by reimbursing companies up to $100 for each Internet-connected computer they provide for low-income households or students in elementary or secondary schools.
+<P>
+The digital divide raises a classic pricing problem, sometimes known as price discrimination.
+To address it, we will need to distinguish between those with lower or higher price elasticities – that is, those who would purchase Internet service without a subsidy, and those who would not.
+This distinction could be made according to location, time, income, or by providing a lower price to families with children (on the assumption that these are often high-price-elasticity consumers).
+<P>
+But increasing broadband usage in low-income households requires more than just encouraging private development and adding subsidies.
+Often, people who lack Internet access are not inclined to change that fact.
+In a 2013 Pew Research Center survey, 34% of offline respondents said they were not Internet users because they were not interested in the service, whereas only 19% cited cost as the reason.
+The advantages of broadband will need to be explained more widely to educate those who lack access.
+<P>
+Over the past few months, the COVID-19 pandemic has highlighted not only the benefits of broadband, but also the imperative of providing access to everyone.
+Any new legislation, federal or local, thus should focus on creating more incentives and providing additional financial support to bring broadband to the underserved.
+Digital connectivity is no longer a luxury; it is a necessity.

@@ -1,0 +1,64 @@
+<HEADLINE>
+Why GDP?
+<P>
+BERLIN – Gross domestic product is the most powerful metric in history.
+The US Commerce Department calls it “one of the great inventions of the twentieth century.”
+But its utility and persistence reflect political realities, not economic considerations.
+<P>
+Most of us understand GDP as the measure of a country’s economic output, expressed as a single monetary value.
+But it’s more than that.
+GDP, and how fast it is growing, is the universal indicator of development, wellbeing, and geopolitical strength.
+Positive GDP growth is every government’s goal.
+<P>
+But GDP has well-documented shortcomings.
+For example, short-term GDP grows as a result of productive activities that pollute or degrade the environment, but not as a result of unpaid housework, childcare, and other obviously valuable activities that it barely accounts for (if at all).
+<P>
+Fundamentally, GDP is a materialistic concept: higher production is the sole imperative; the more goods produced and services rendered, the better.
+Whether any of this actually makes people better off is a different matter entirely.
+<P>
+Dissatisfaction with the myopia of GDP has led policymakers in recent years to explore alternative, more people-oriented aggregate indicators.
+But moving beyond GDP has proved difficult, given its history.
+In fact, the metrics that predate GDP actually were people-oriented, and understanding why this changed may shed some light on GDP’s continuing dominance.
+<P>
+Given GDP’s seeming indispensability today, it may come as a surprise that until the 1930s national governments’ only aggregate statistical measurement of the economy was tax estimates.
+This all changed on October 29, 1929 – Black Tuesday.
+<P>
+As the Great Depression hit, governments realized that they simply had no information on what was happening to people.
+In 1931, when the US Congress held hearings on the state of the economy, the testimony it received from corporate and industry leaders was useless.
+<P>
+Congress recognized the need for an aggregate statistical picture of the economy, but it didn’t know how to produce one.
+It turned to Simon Kuznets, a Soviet émigré economist and future Nobel laureate, who was asked to define and calculate what was then called “national income.”
+<P>
+National income wasn’t a totally new idea – researchers in different countries had made various estimates independently – but it was the first time that policymakers saw fit to use it.
+As the term suggests, this metric emphasizes income: the money available to citizens at the end of the day.
+Kuznets’s findings were shocking: Americans had only half of what they had earned before the crisis.
+For President Franklin Delano Roosevelt’s administration, raising national income and ensuring that people earned more became the top priority.
+<P>
+But when the US entered World War II, the focus shifted.
+Next to the material production needs of the war effort, how much money people were taking home was no longer a pressing issue.
+Consequently, policymakers deliberately changed national income to gross national product, which merely showed the total dollar value of goods produced.
+National income and GNP were numerically identical – overall income generated is, by definition, equal to the value of goods produced.
+The crucial difference is that GNP doesn’t take into account how income is distributed.
+<P>
+Kuznets argued against making this fundamental change in perspective permanent, and he urged governments to return to focusing on income and its distribution.
+In wartime, it may be reasonable to concentrate on the production of goods needed to win.
+But in peacetime, he pointed out, production of goods was just a means to a higher end: the take-home income generated and available to the people.
+<P>
+Kuznets was ignored.
+Shortly after the war, the US government faced a new set of challenges – reintegrating returning service members, responding to the growing threat from the Soviet Union, and rebuilding a devastated Europe – that it prioritized over individual incomes.
+<P>
+Meanwhile, politicians saw how wartime production had driven massive GNP growth and decided to keep that economic metric growing at any cost.
+Since the end of WWII, growth in GNP (modified slightly in the 1990s to become GDP) has been seen as the solution to almost every problem.
+<P>
+This kind of growth became a universal goal for those in power because, by focusing on ever-expanding output, it avoids politics.
+As John Kenneth Galbraith pointed out in his 1958 book The Affluent Society, “… inequality has ceased to preoccupy men’s minds.”
+Enlarging the pie, the thinking went, meant everyone would get a bigger piece.
+<P>
+This history explains why GDP remains the dominant measure of any national economy, and it poses a challenge for those who believe that a viable alternative exists.
+Any alternative indicator, and any measurement strategy other than a rise in production, would require politicians to address difficult questions about the public good – and thus risk alienating one constituency or another.
+<P>
+What kind of society do we want to live in?
+Should wages and incomes be more fairly distributed, especially in light of climate change, a problem that will affect everyone to which a small minority contributes disproportionately?
+<P>
+The political usefulness of GDP, and the narrative that more is better for everyone, will be hard to overcome – even if proven wrong.
+Until then, it will always be products over people.

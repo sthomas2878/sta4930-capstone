@@ -1,0 +1,50 @@
+<HEADLINE>
+What Went Wrong in Argentina?
+<P>
+As Argentina's economy unravels in street demonstrations, food riots, and political tumult, conventional wisdom suggests that a lethal combination of reckless government spending and a fixed exchange rate is to blame.
+Large fiscal deficits, so this argument goes, pumped up domestic demand, which fueled inflation and caused the peso to appreciate in real terms, even though it was pegged to the US dollar at a nominal one-to-one exchange rate.
+As public debt grew, the government's only hope of paying it back was a deflationary clampdown on available money and credit--with a collapse in output, soaring unemployment, and civil disorder almost inevitable.
+<P>
+This line of reasoning is plausible, because exchange rate misalignment may indeed be at the heart of Argentina's problems (albeit for very different reasons that we will not explore here, one associated with a sudden stop in capital flows).
+But fiscal profligacy alone cannot explain Argentina's meltdown.
+<P>
+Throughout the 1990s, Argentina's budget deficit never exceeded 2% of GDP, with the exception of 1999, when it rose to 2.5%, before falling back to 2.4% in 2000.
+While public-sector borrowing pushed external debt from 28.4% of GDP in 1991 to 51.4% in 2000, this still compares favorably with countries renowned for their fiscal probity.
+The European Union, for example, requires its member states to cap budget deficits and public debt, respectively, at 3% and 60% of GDP.
+Moreover, like Argentina's dollar peg, most EU countries abandoned control over their exchange rates by adopting the euro.
+Yet no one suggests that Germany, France, or Italy risk sharing Argentina's fate.
+<P>
+One key difference between Argentina and the EU is the huge risk premium that Argentina must pay for its debt, which imposes much narrower limits on the sustainability of its fiscal deficits.
+Indeed, in 2000, interest payments on the public debt equaled 16.5% of Argentina's total budget revenues.
+Why, then, was Argentina treated so differently in 2001?
+Something essential is missing from the conventional story: money and banking.
+<P>
+Like other emerging market economies, liberalizing reforms in the early 1990s attracted massive inflows of foreign credit.
+But after robust economic growth in 1991-94, Argentina was hit by the Mexican crisis, which produced capital flight, a run on bank deposits, and a severe, but short-lived, recession.
+Argentina's main response - encouraging large-scale foreign investment in the banking sector - sought to ensure that this would not happen again, given that there would now be an international lender of last resort.
+With confidence restored, real GDP growth rebounded strongly, reaching 8.1% in 1997.
+<P>
+With a largely foreign-owned - and thus well-capitalized - banking sector, Argentina remained insulated from the sudden reversals of capital flows that fueled crises in emerging markets after 1997.
+But soon after taking the helm at the Economics Ministry in March 2001, Domingo Cavallo pointed an accusing finger at the central bank.
+Notwithstanding the fixed exchange rate, which limited monetary growth to that of the bank's dollar reserves, he argued that economic recovery required an expansionary credit policy.
+<P>
+The standard view among economists is that relaxing monetary policy under a fixed exchange rate regime will cause capital to flee, especially when investors are already jittery about the effects of a devaluation in a largely dollarized economy, which typically involves a bank bailout and a loss in reserves to pay for it.
+Pedro Pou, Argentina's central bank president and a strong defender of the standard view, was sacked, and the bank increased credit sharply.
+<P>
+Unfortunately, the conventional view was right.
+By December 2001, international reserves fell to less than half their January level, with credit expansion accounting for about 53% of the loss. (meanwhile, the spread on government bonds jumped from 973 to 4435 points).
+The rest was due to an 18% decline in deposits, with the loss of confidence mainly hitting state-owned banks.
+Since their deposits far exceeded Argentina's international reserves, the central bank's decision to prop up their reserves with fresh injections of credit reinforced expectations that the fixed exchange rate was doomed.
+<P>
+Worse still, in order to compensate for the credit expended on intervention, the monetary authorities hiked the banks' reserve requirements for new deposits, a measure that affected mostly foreign banks who were receiving deposits escaping from public banks.
+Therefore, foreign banks, fearful of further intervention and/or confiscation, refused to replenish their local subsidiaries' reserves (thus, the answer to the question, why didn't foreign banks act as a lender of last resort?).
+This destroyed what little confidence in the banking system remained.
+As foreign reserves continued to plummet, the peso's devaluation became inevitable.
+<P>
+Would Argentina be better off had it floated the peso long before all this?
+Such a move might have prevented the peso from becoming so overvalued that investors lost confidence in the country's ability to pay its debts.
+But without a credible monetary policy, floating the currency would have merely stoked hyperinflation.
+So the key lesson here is that the type of exchange rate regime is secondary to the credibility required to sustain it.
+Clearly, heterodox monetary policy was far from credible, and it turned out to be the main culprit behind Argentina's final collapse.
+<P>
+Guillermo Calvo is Chief Economist at the Inter-American Development Bank and Distinguished University Professor at the University of Maryland where he is Director of the Center for International Economics;

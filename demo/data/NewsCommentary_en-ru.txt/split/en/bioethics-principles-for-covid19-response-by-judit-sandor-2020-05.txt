@@ -1,0 +1,60 @@
+<HEADLINE>
+Bioethics for the Pandemic
+<P>
+BUDAPEST – Since the SARS-CoV-2 virus spread from China to most of the world in February and March, we have all gradually become participants in textbook ethical dilemmas.
+Above all, the COVID-19 pandemic has presented overloaded health systems with the huge question of how to continue caring for patients in a secure, fair, and effective way.
+And, worryingly, the crisis has highlighted not only the unpreparedness of politicians and health-care systems, but also our failure to develop relevant ethical norms.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+As the pandemic spread, many governments hastily implemented medical and social-distancing protocols that mirrored the Chinese authorities’ draconian response.
+Until early this year, richer countries had been discussing access to new health-care tools such as robotics and artificial intelligence, or how the state might finance artificial reproductive technologies.
+But in the blink of an eye, their health systems surprisingly and unhesitatingly accepted utilitarian ethics – not only by performing drastic triage in intensive-care units (ICUs), but also by refusing to offer a range of other much-needed medical services.
+<P>
+Ethics textbooks contain numerous philosophical dilemmas that call into question the morality of always applying a utilitarian calculus to human lives.
+One of the most widely known was devised by the British philosopher Philippa Foot, and involves a runaway trolley rushing toward five people tied to a train track.
+By pulling a switch, you can divert the trolley to another track and save those five lives, but the trolley will then kill one person on that track.
+What should you do?
+<P>
+Based solely on the mathematical outcome of the choice, many will likely consider it right to intervene and sacrifice one human life in order to save five others.
+But in both this dilemma and in real life, should we not take other values into account, too?
+<P>
+After all, the COVID-19 pandemic is presenting health workers with tragic situations they have never experienced before.
+And if there are not enough health workers, ventilators, or hospital beds, then patients often will need to be categorized and prioritized to determine who receives (or does not receive) which care, and where.
+<P>
+In mid-March, the Italian Society of Anesthesia, Analgesia, Resuscitation, and Intensive Care (SIAARTI) issued recommendations for allocating intensive-care treatment of COVID-19 patients.
+These include adhering to the “first come, first served” principle in the worst-case scenario that no more ICU resources are available.
+And in April, the Hungarian Medical Chamber released a series of mostly utilitarian triage guidelines that focus on saving more lives and giving priority to patients with a higher chance of survival.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Questions regarding the treatment of patients not infected with SARS-CoV-2 are even more complicated.
+Current bioethical norms provide little or no help, and this group of patients is often forgotten.
+On April 7, for example, the Hungarian government ordered the country’s hospitals to free up to 60% of their beds to accommodate COVID-19 patients.
+But as the pandemic continues, other citizens whose conditions were not originally life-threatening may fall into the endangered category.
+<P>
+Our existing ethical frameworks were not devised for a pandemic – and it shows.
+Over the last few decades, bioethics has focused on new technologies, such as genetic intervention, biobanks, gene-editing, and artificial reproduction.
+Indeed, Europe’s most comprehensive and legally binding set of bioethical norms, the 1997 Oviedo Convention, prescribes that, “The interests and welfare of the human being shall prevail over the sole interest of society or science.”
+But at that time, the document’s drafters were more concerned with cloning and genetic treatment than a disease outbreak.
+<P>
+Perhaps more applicable today is the convention’s Article 3: “Parties … shall take appropriate measures with a view to providing, within their jurisdiction, equitable access to health care of appropriate quality.”
+But this principle, too, while important, does not address the difficult question of what to do when medical resources are suddenly in short supply, as they are now.
+<P>
+In mid-March, therefore, both The Hastings Center and the Nuffield Council on Bioethics released ethical guidelines for responding to COVID-19.
+According to the Nuffield report, public-health measures should be evidence-based and proportionate, minimize coercion and intrusion into people’s lives, and treat people as moral equals.
+Moreover, the goal of interventions, and the scientific knowledge, values, and judgment upon which they are based, should be made known to the public.
+<P>
+Then, on April 14, the Council of Europe’s Committee on Bioethics declared that, even in a context of scarce resources, access to health care should be equitable.
+Furthermore, it should be guided by medical criteria in order to prevent discrimination against vulnerable groups, such as people with disabilities, the elderly, refugees, and migrants.
+<P>
+One of the most significant ethical changes during the pandemic will arise from the need to complement previously patient-centered medical systems with so-called community care.
+Instead of “me-health,” we will need to talk about “we-health.”
+<P>
+To be sure, the doctor-patient relationship will still be guided by crucial ethical norms such as informing the patient, protecting him or her from harm, and maintaining loyalty and confidentiality.
+But, in addition, there must be greater emphasis on communal, collective points of view regarding the distribution of limited medical resources than has hitherto been the case.
+<P>
+We must not toss basic bioethical principles aside in the COVID-19 panic.
+Only by upholding the doctor-patient relationship and our obligations toward society as a whole can we ensure that health professionals’ heroic efforts do not go to waste, and that participants’ moral integrity is maintained.
+After all, once the pandemic ends, we will still have to look one another in the eye, and not just on screen.

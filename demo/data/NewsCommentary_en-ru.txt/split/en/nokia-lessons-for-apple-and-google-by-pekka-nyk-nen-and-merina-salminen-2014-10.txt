@@ -1,0 +1,64 @@
+<HEADLINE>
+Who Killed the Nokia Phone?
+<P>
+HELSINKI – It seems to be a law in the technology industry that leading companies eventually lose their positions – often quickly and brutally.
+Mobile-phone champion Nokia, one of Europe’s biggest technology success stories, was no exception, losing its market share in the space of just a few years.
+Can the industry’s new champions, Apple and Google – not to mention titans in other tech sectors – avoid Nokia’s fate?
+<P>
+In 2007, Nokia accounted for more than 40% of mobile-phone sales worldwide.
+But consumers’ preferences were already shifting toward touch-screen smartphones.
+With the introduction of Apple’s iPhone in the middle of that year, Nokia’s market share shrunk rapidly and revenue plummeted.
+By the end of 2013, Nokia had sold its phone business to Microsoft.
+<P>
+What sealed Nokia’s fate was a series of decisions made by Stephen Elop in his position as CEO, which he assumed in October 2010.
+Each day that Elop spent at Nokia’s helm, the company’s market value declined by €18 million ($23 million) – making him, by the numbers, one of the worst CEOs in history.
+<P>
+Elop’s biggest mistake was choosing Microsoft’s Windows Phone as the only platform for Nokia’s smartphones.
+In his “burning platform” memo, Elop compared Nokia to a man on a burning offshore oilrig, facing a fiery death or an uncertain leap into the frigid sea.
+He was right that business as usual meant certain death for Nokia; he was wrong to choose Microsoft as the company’s life raft.
+<P>
+But Elop was not the only person at fault.
+Nokia’s board resisted change, making it impossible for the company to adapt to rapid shifts in the industry.
+Most notably, Jorma Ollila, who had led Nokia’s transition from an industrial conglomerate to a technology giant, was too enamored with the company’s previous success to recognize the change that was needed to sustain its competitiveness.
+<P>
+The company also embarked on a desperate cost-cutting program, which included the elimination of thousands of jobs.
+This contributed to the deterioration of the company’s once-spirited culture, which had motivated employees to take risks and make miracles.
+Good leaders left the company, taking Nokia’s sense of vision and direction with them.
+Not surprising, much of Nokia’s most valuable design and programming talent left as well.
+<P>
+But the largest impediment to Nokia’s ability to create the kind of intuitive, user-friendly smartphone experiences that iPhones and Android devices offered was its refusal to move beyond the solutions that had driven its past success.
+For example, Nokia initially claimed that it could not use the Android operating system without including Google applications on its phones.
+But, just before its takeover by Microsoft, Nokia actually built a line of Android-based phones called Nokia X, which did not include Google apps, but instead used Nokia maps and Microsoft search.
+<P>
+Why didn’t Nokia choose Android earlier?
+The short answer is money.
+Microsoft promised to pay billions of dollars for Nokia to use Windows Phone exclusively.
+Given that Google gives away its Android software, it could not match this offer.
+But Microsoft’s money could not save Nokia; it is not possible to build an industrial ecosystem with money alone.
+<P>
+Elop’s previous experience at Microsoft was undoubtedly also a factor.
+After all, in difficult situations, people often turn to what is familiar.
+In Elop’s case, the familiar just happened to be another sinking company.
+After hearing that Nokia had chosen Windows, Google director Vic Gundotra tweeted: “Two turkeys do not make an eagle.”
+<P>
+Apple and Google should not rest easy.
+Like Nokia in the mobile-phone industry – not to mention Microsoft and IBM in the computing industry – one day they will lose their leading position.
+But there are steps they can take to prolong their success.
+<P>
+First, companies must continue to innovate, in order to improve the chances that disruptive technologies emerge from within.
+If market leaders implement a system for discovering and nurturing new ideas – and create a culture in which employees are not afraid to make mistakes – they can remain on their industry’s cutting edge.
+<P>
+Second, major firms should keep track of emerging innovators.
+Instead of forming partnerships with smaller companies that suit their current business model, major firms should work with inventive startups with disruptive potential.
+<P>
+Finally, though successful companies must constantly innovate, they should not be afraid to imitate.
+If Nokia had immediately begun to develop products modeled after the iPhone, while addressing related patent issues effectively, the mobile-device business would look very different today.
+<P>
+Nokia’s experience also carries an important lesson for regulators, particularly in the European Union.
+Attempting to quell disruptive technologies and protect existing companies through, for example, antitrust crusades, is not an option.
+Indeed, that approach would ultimately hurt the consumer, both by impeding technological progress and eliminating price competition – like that from Samsung’s Android devices, which forced Apple to lower iPhone prices.
+<P>
+Herein lies the most important lesson in Nokia’s fall.
+Technology companies cannot achieve success simply by pleasing their board of directors or even striking multi-million-dollar deals with partners.
+Whichever company makes the consumer happy – whether a well-established multinational or a dynamic startup – will win.
+Companies that lose sight of that are doomed.

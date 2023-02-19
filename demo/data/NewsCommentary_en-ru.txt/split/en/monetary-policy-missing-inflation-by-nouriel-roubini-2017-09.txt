@@ -1,0 +1,49 @@
+<HEADLINE>
+The Mystery of the Missing Inflation
+<P>
+NEW YORK – Since the summer of 2016, the global economy has been in a period of moderate expansion, with the growth rate accelerating gradually.
+What has not picked up, at least in the advanced economies, is inflation.
+The question is why.
+<P>
+In the United States, Europe, Japan, and other developed economies, the recent growth acceleration has been driven by an increase in aggregate demand, a result of continued expansionary monetary and fiscal policies, as well as higher business and consumer confidence.
+That confidence has been driven by a decline in financial and economic risk, together with the containment of geopolitical risks, which, as a result, have so far had little impact on economies and markets.
+<P>
+Because stronger demand means less slack in product and labor markets, the recent growth acceleration in the advanced economies would be expected to bring with it a pickup in inflation.
+Yet core inflation has fallen in the US this year and remains stubbornly low in Europe and Japan.
+This creates a dilemma for major central banks – beginning with the US Federal Reserve and the European Central Bank – attempting to phase out unconventional monetary policies: they have secured higher growth, but are still not hitting their target of a 2% annual inflation rate.
+<P>
+One possible explanation for the mysterious combination of stronger growth and low inflation is that, in addition to stronger aggregate demand, developed economies have been experiencing positive supply shocks.
+<P>
+Such shocks may come in many forms.
+Globalization keeps cheap goods and services flowing from China and other emerging markets.
+Weaker unions and workers’ reduced bargaining power have flattened out the Phillips curve, with low structural unemployment producing little wage inflation.
+Oil and commodity prices are low or declining.
+And technological innovations, starting with a new Internet revolution, are reducing the costs of goods and services.
+<P>
+Standard economic theory suggests that the correct monetary-policy response to such positive supply shocks depends on their persistence.
+If a shock is temporary, central banks should not react to it; they should normalize monetary policy, because eventually the shock will wear off naturally and, with tighter product and labor markets, inflation will rise.
+If, however, the shock is permanent, central banks should ease monetary conditions; otherwise, they will never be able to reach their inflation target.
+<P>
+This is not news to central banks.
+The Fed has justified its decision to start normalizing rates, despite below-target core inflation, by arguing that the inflation-weakening supply-side shocks are temporary.
+Likewise, the ECB is preparing to taper its bond purchases in 2018, under the assumption that inflation will rise in due course.
+<P>
+If policymakers are incorrect in assuming that the positive supply shocks holding down inflation are temporary, policy normalization may be the wrong approach, and unconventional policies should be sustained for longer.
+But it may also mean the opposite: if the shocks are permanent or more persistent than expected, normalization must be pursued even more quickly, because we have already reached a “new normal” for inflation.
+<P>
+This is the view taken by the Bank for International Settlements, which argues that it is time to lower the inflation target from 2% to 0% – the rate that can now be expected, given permanent supply shocks.
+Trying to achieve 2% inflation in a context of such shocks, the BIS warns, would lead to excessively easy monetary policies, which would put upward pressure on prices of risk assets, and, ultimately, inflate dangerous bubbles.
+According to this logic, central banks should normalize policy sooner, and at a faster pace, to prevent another financial crisis.
+<P>
+Most advanced-country central banks don’t agree with the BIS.
+They believe that, should asset-price inflation emerge, it can be contained with macroprudential credit policies, rather than monetary policy.
+<P>
+Of course, advanced-country central banks hope such asset inflation won’t appear at all, because inflation is being suppressed by temporary supply shocks, and thus will increase as soon as product and labor markets tighten.
+But, faced with the possibility that today’s low inflation may be caused by permanent supply shocks, they are also unwilling to ease more now.
+<P>
+So, even though central banks aren’t willing to give up on their formal 2% inflation target, they are willing to prolong the timeline for achieving it, as they have already done time and again, effectively conceding that inflation may stay low for longer.
+Otherwise, they would need to sustain for much longer their unconventional monetary policies, including quantitative easing and negative policy rates – an approach with which most central banks (with the possible exception of the Bank of Japan) are not comfortable.
+<P>
+This central bank patience risks de-anchoring inflation expectations downward.
+But continuing for much longer with unconventional monetary policies also carries the risk of undesirable asset-price inflation, excessive credit growth, and bubbles.
+As long as uncertainty over the causes of low inflation remains, central banks will have to balance these competing risks.

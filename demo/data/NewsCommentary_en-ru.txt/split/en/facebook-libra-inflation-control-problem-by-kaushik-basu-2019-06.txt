@@ -1,0 +1,60 @@
+<HEADLINE>
+Why Policymakers Should Fear Libra
+<P>
+MUMBAI – Facebook’s new global digital currency, Libra, which the company plans to launch as early as 2020, could transform the world.
+But no one – including the founders of this ambitious economic engineering project – can fully anticipate the currency’s possible ramifications.
+And monetary policymakers should be especially worried, because they may find it much harder to control unemployment and inflation in a Libra world.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+In the first quarter of 2019, Facebook had 2.38 billion monthly active users.
+If even a fraction of them begin to use Libra to carry out financial transactions, buy and sell products, and transfer money, the new currency would quickly gain wide acceptance.
+Already, the Libra Association, a Geneva-based not-for-profit group that will operate the digital currency, counts companies such as Uber, eBay, Lyft, Mastercard, and PayPal among its founding members.
+Libra could, therefore, become a dominant global currency – but one run by a corporation, not a central bank.
+<P>
+Although Libra is based on the same blockchain technology as other cryptocurrencies, it is expected to be much more efficient.
+Facebook promises that the Libra system will be able to process 1,000 transactions per second, be user-friendly, and have a transaction cost of virtually zero.
+<P>
+Not surprisingly, the Libra announcement has prompted a flurry of meetings in central banks, at the Bank of International Settlements, and in other multilateral organizations.
+Some commentators have welcomed the proposed new private money, while others want governments to stop Libra before it gets off the ground.
+<P>
+Critics of the initiative have several concerns, including the computing power needed to manage the currency, the privacy of users’ data, and the possibility that the new money will nurture illicit activities and markets.
+But much more attention needs to be devoted to analyzing how Libra could dramatically change global monetary policymaking.
+<P>
+Most institutional structures and systems in the world economy – barter, banking, paper money, financial markets, and so on – emerged through slow, evolutionary processes.
+Deliberate attempts to establish entirely new systems have usually given rise to unanticipated challenges.
+<P>
+The creation of the euro was one such planned act of economic engineering that had unforeseen consequences.
+In my book An Economist in the Real World, I discuss how bond yields diverged across the eurozone after the collapse of Lehman Brothers in 2008, causing the European sovereign debt crisis that continues to trouble the world economy today.
+Ultimately, the crisis stemmed from flaws in the eurozone’s design (a monetary union without an adequate common fiscal policy – a problem that has yet to be addressed).
+<P>
+At this stage, one can only speculate about the problems Libra may cause.
+For example, if Libra becomes popular, people will exchange their national currencies – dollars, euros, renminbi, and rupees – for the new digital coin in order to buy and sell the many products that will be priced in it.
+Many users may then choose to keep Libra instead of exchanging it back for their own currencies.
+Facebook or the Libra Association will therefore continue to hold their national money and earn income on it by investing Libra users’ money.
+They will also be tempted to issue extra Libra to earn seigniorage in the same way that central banks do on the national currencies they issue.
+<P>
+Inflation – and policymakers’ reduced ability to control it – has to figure prominently on the list of possible risks.
+Usually, when inflation picks up, central banks take steps to control it.
+They raise policy rates and increase reserve ratios to help mop up some of the money in circulation.
+But the effectiveness of such policies could be vastly diminished if one of the biggest money-creating authorities is a private organization.
+And Libra itself could create some inflationary pressures because it is an effective addition to liquidity.
+<P>
+In recent times, high inflation has been seen only in developing economies; thus there is a tendency to presume that advanced economies are immune.
+It is therefore sobering to recall that the two most devastating cases of inflation in history were in relatively rich countries: Hungary in 1946 and Germany in 1923.
+In Germany, what cost one mark at the start of the inflationary surge cost 100 sextillion marks (one with 23 zeroes after it) barely a year later.
+<P>
+Despite these risks, calling for an immediate halt to Libra may not be the right move.
+For starters, it is unclear which existing law could be used to stop the proposed currency.
+At one level, Libra is not very different from the legally valid coupons that people acquire with their dollars when entering an amusement park, and then use to pay for food and rides.
+And in a globalized world, a country that rejects Libra may find itself gradually isolated by others that take to it.
+<P>
+Policymakers must urgently consider what kind of world private digital money could create.
+We may then need new laws and global treaties to mitigate potential negative fallout and curb the power of the organizations that run these new currencies.

@@ -1,0 +1,47 @@
+<HEADLINE>
+Still Too Big to Fail
+<P>
+WASHINGTON, DC – Nearly seven years after the global financial crisis erupted, and more than five years after the passage of the Dodd-Frank financial-reform legislation in the United States, the cause of the crisis – the existence of banks that are “too big to fail” – has yet to be uprooted.
+As long as that remains the case, another disaster is only a matter of time.
+<P>
+The term “too big to fail” dates back several decades, but it entered wide usage in the aftermath of the collapse of Lehman Brothers in September 2008.
+As problems spread throughout the financial system, the US authorities decided that some banks and other financial companies were so large relative to the economy that they were “systemically important” and could not be allowed to go bankrupt.
+Lehman failed, but AIG, Goldman Sachs, Morgan Stanley, Citigroup, Bank of America, and others were all rescued through various forms of massive – and unprecedented – government support.
+<P>
+The official line at the time was “never again,” which made sense in political and economic terms.
+These large financial firms were provided a scale of assistance that was not generally available to the nonfinancial corporate sector – and certainly not to families who found that the value of their assets (their homes) was below the value of their liabilities (their mortgages).
+<P>
+If large, complex financial institutions continue to have an implicit government guarantee, many people – on both the right and the left – would agree that this is both unfair to other parts of the private sector and an inducement for big banks to engage again in excessive risk-taking.
+In the jargon of economics, this is “moral hazard.”
+But no special training is needed to know that it is unwise and dangerous when bank executives get the upside (huge bonuses) when things go well and everyone else bears the downside risks (bailouts and recession).
+<P>
+At the heart of the Dodd-Frank law is a two-pronged approach to the too-big-to-fail problem.
+The first section of the legislation, Title I, stipulates that all firms must be able to go bankrupt without causing large-scale damage to the broader financial system or the real economy.
+Regulators are instructed, in no uncertain terms, to make sure that all large financial firms are structured in such a way that bankruptcy, using the standard rules and procedures of the court system, can happen without repeating the catastrophic post-Lehman cascade.
+<P>
+In Title II of Dodd-Frank, Congress created a back-up authority through which the Federal Deposit Insurance Corporation (FDIC) can take over and manage a failing financial firm and impose appropriate losses on shareholders and some creditors without creating widespread systemic damage or a global panic.
+The good news is that, over the past half-decade, the FDIC has made some progress formulating the design of a workable Title II.
+<P>
+The bad news is that there has been almost no progress in terms of ensuring that large financial firms actually can go bankrupt.
+In a hearing this week before a part of the Senate Banking Committee, there was complete agreement across the political spectrum on this point.
+The disagreement concerns what must be done to finish this important piece of Dodd-Frank business.
+<P>
+The Republican proposal is to modify the bankruptcy code, creating special provisions for large, complex financial institutions.
+There are three problems with this approach.
+<P>
+First, all companies in the US should be able to fail under the same rules.
+Privileged treatment for anyone perpetuates the perception that it is safer to lend to some large financial firms – and further strengthens their unfair advantage.
+<P>
+Second, it is fanciful to believe that the private sector would want to get involved in providing funding to a huge financial firm under court supervision, particularly during a systemic crisis.
+The definition of such a crisis is precisely that moment when private-sector loans are not readily available.
+And a large loan – in the tens of billions of dollars – provided by the US Treasury to a bankruptcy court judge is unlikely to be politically acceptable or economically sensible.
+<P>
+Finally – and most fatally – the bankruptcy of any large US financial firm today would induce a scramble for assets by regulators around the world.
+Some foreign regulators – such as the Bank of England – have agreed not to act preemptively in a resolution process run by the FDIC.
+But such agreements do not apply to a court-run bankruptcy process; authorities everywhere would move to protect local creditors and taxpayers by seizing assets in their jurisdiction.
+<P>
+The only reasonable alternative is to make large, complex financial institutions smaller and less complex so that it is possible for them to fail under standard bankruptcy rules.
+This is the intent of Dodd-Frank.
+<P>
+The FDIC has pushed hard in this direction, whereas the Federal Reserve Board of Governors has been less enthusiastic.
+But the law is the law, and it is time to implement it.

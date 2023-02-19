@@ -1,0 +1,55 @@
+<HEADLINE>
+The Kremlin and the US Election
+<P>
+CAMBRIDGE – In early November, US President Barack Obama reportedly contacted Russian President Vladimir Putin personally to warn against cyber attacks aimed at the American presidential election.
+The previous month, the Director of National Intelligence, James Clapper, and Jeh Johnson, the Secretary of Homeland Security, publicly accused Russia’s most senior officials of using cyber attacks to “interfere with the US election process.”
+<P>
+In the aftermath of the November 8 election, no firm evidence has emerged that hacking interfered with voting machines or other electoral machinery.
+But in an election that turned on 100,000 votes in three key states, some observers argue that Russian cyber interference in the political process may have had a significant impact.
+<P>
+Can such Russian behavior be deterred in the future?
+Deterrence always depends on who and what one is trying to deter.
+<P>
+Ironically, deterring states from using force may be easier than deterring them from actions that do not rise to that level.
+The threat of a surprise attack such as a “cyber Pearl Harbor” has probably been exaggerated.
+Critical infrastructures such as electricity or communications are vulnerable, but major state actors are likely to be constrained by interdependence.
+And the United States has made clear that deterrence is not limited to cyber retaliation (though that is possible), but can target other sectors with any tools it chooses, ranging from naming and shaming and economic sanctions to nuclear weapons.
+<P>
+The US and others, including Russia, have agreed that the laws of armed conflict apply in cyberspace.
+Whether a cyber operation is treated as an armed attack depends on its consequences, rather than on the instruments used.
+It would have to result in destruction of property or injury or death to individuals.
+<P>
+But what about deterring operations that are not equivalent to an armed attack?
+There are gray areas in which important targets (say, a free political process) are not strategically vital in the same way as the electrical grid or the financial system.
+Destroying the latter could damage lives and property; interference with the former threatens deeply held political values.
+<P>
+In 2015, a United Nations Group of Government Experts (including the US, Russia, China, and most states with significant cyber capabilities) agreed to a norm of not targeting civilian facilities in peacetime.
+This agreement was endorsed by the G20 countries at their summit in Turkey in November 2015.
+When an anonymous cyber attack interfered with the Ukrainian electric grid the following month, some analysts suspected the Russian government of using cyber weapons in its continuing hybrid warfare against Ukraine.
+If true, it would mean that Russia had violated the agreement it had just signed.
+<P>
+But how should one interpret Russian behavior in regard to the American election?
+According to US officials, Russian intelligence agencies hacked into the email accounts of important Democratic Party officials and provided the materials to WikiLeaks to dribble out over the course of the campaign, thereby ensuring a continuous steam of news stories that were unfavorable to Hillary Clinton.
+<P>
+This alleged Russian disruption of the Democratic presidential campaign fell into a gray area that could be interpreted as a propaganda response to Clinton’s 2010 proclamation of a “freedom agenda” for the Internet or retaliation for what Russian officials saw as her critical comments about Putin’s election in 2012.
+Whatever the motive, it looked like an effort to skew the US political process – precisely the type of nonlethal political threat that one would want to deter in the future.
+<P>
+The Obama administration had previously made efforts to rank the seriousness of cyber attacks, but without sorting out the ambiguities of these gray areas.
+In 2016, Obama faced difficult choices in estimating the escalatory potential of responding with cyber measures or with a cross-sector response such as sanctions.
+The administration did not want to take steps that might themselves disrupt the election.
+So, eight days before the vote, the US sent Russia a warning about election meddling over a hotline – created three years earlier to deal with major cyber incidents – that connects the Nuclear Risk Reduction Centers in both countries.
+<P>
+Because Russian hacking activity seemed to slow or halt, the Obama administration cited the warning as a successful exercise in deterrence.
+But some critics say the Russians had already achieved their main goals.
+<P>
+Three weeks after the election, the administration said that it remained confident in the overall integrity of America’s electoral infrastructure, and that the election was free and fair from a cyber-security perspective.
+But intelligence officials continued to investigate the impact of a broader Russian information-warfare campaign, in which fake stories about Clinton appeared intended to influence voters.
+Many of the false reports originated from RT News and Sputnik, two state-funded Russian outlets.
+Should this be treated as traditional propaganda or something new?
+<P>
+A number of critics believe that the level of official Russian state involvement in the 2016 US election process crossed a line and should not be dismissed as a form of tolerable gray-area behavior.
+These critics have urged the Obama administration to go further in naming and shaming, by providing a fuller public description of what US intelligence knows about Russia’s behavior, and by imposing financial and travel sanctions against high-level Russian officials who are identified.
+Other US officials, however, are reluctant to jeopardize the intelligence means used for attribution, and are wary of escalation.
+<P>
+Russia’s involvement in the 2016 US election was a watershed.
+With important elections coming in a number of Western democracies, analysts will be watching closely to see what lessons the Kremlin draws from it.

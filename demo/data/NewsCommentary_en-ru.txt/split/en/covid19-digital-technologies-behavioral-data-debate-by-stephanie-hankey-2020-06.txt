@@ -1,0 +1,61 @@
+<HEADLINE>
+The Behavioral Data Debate We Need
+<P>
+BERLIN – Just a few weeks after the first COVID-19 cases started appearing outside China, South Korea launched a system for broadcasting the exact profiles and movements of individuals who had tested positive for the disease.
+Other Asian and European countries then quickly developed their own “track-and-trace” systems with varying degrees of success and concern for the ethical issues involved.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+This strong momentum was understandable: if systems already in place can save thousands of lives, then why wouldn’t countries use them?
+But in their rush to combat the pandemic, societies have paid little attention to how such schemes could be introduced virtually overnight, and to what we should expect next.
+<P>
+To be sure, South Korea’s track-and-trace regime has already generated considerable debate.
+Initially, that was because the system crossed ethical lines by texting the exact movements of COVID-19-positive individuals to other local residents, revealing visits to karaoke bars, short-stay hotels, and gay clubs, for example.
+<P>
+But the South Korean system also stands out because it links mobile-phone location data with individual travel histories, health data, footage from police-operated CCTV cameras, and data from dozens of credit-card companies.
+This information is then analyzed by a data clearinghouse originally developed for the country’s smart cities.
+By removing bureaucratic approval barriers, this system has reportedly reduced contact-tracing times from one day to just ten minutes.
+<P>
+Digital privacy and security advocates have warned for years about the interconnection of distinct private and public data sources.
+But the pandemic has shown for the first time how readily such data streams can be centralized and linked up on demand – not only in South Korea, but around the world.
+<P>
+The inconvenient truth is that we have been building the infrastructure for collecting deeply personal behavioral data at global scale for some time.
+The author Shoshana Zuboff traces the birth of this “surveillance capitalism” to the expansion of states’ security powers in the wake of the September 11, 2001 terrorist attacks on the United States.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Data-driven business models have powered the key elements of this infrastructure: smartphones, sensors, cameras, digital money, biometrics, and machine learning.
+Their convenience and efficiency – the promise they offer of doing more with less – have won over individual users and businesses alike.
+But our rapid, enthusiastic adoption of digital technologies has left us with little time and scant reason to think about the consequences of joining up all these dots.
+<P>
+Although the media often refer to pandemic-related technology initiatives as “cutting-edge,” very little about them is actually new – except, perhaps, their increased visibility.
+Tracking human movements at both individual and global level lies at the heart of many established businesses.
+Google’s COVID-19 mobility reports, for example, present a dizzying array of data from user to city to country level – showing who stays at home, who goes to work, and how these patterns have changed under lockdown.
+<P>
+The same goes for data on what we buy and how we act as individuals and groups.
+Tracing individual behavioral patterns at scale is so central to automation that pandemic-related lockdowns involving four billion-plus people have confused AI and machine-learning models, thus disrupting fraud-detection algorithms and misleading supply-chain management systems.
+<P>
+This sudden public visibility of behavioral data could have triggered a public awakening.
+After all, Edward Snowden’s revelations made people aware that their Skype calls and emails were being monitored in the name of anti-terrorism, and the Cambridge Analytica scandal in the United Kingdom highlighted the sale and use of personal data for political micro-targeting.
+<P>
+In particular, the COVID-19 crisis could have showed how behavioral data tell stories about what we do every minute of the day, and why that matters.
+Instead, we have accepted these technologies because we perceive them – at least during the current crisis – as being largely intended for the greater good (even as we overlook the question of their effectiveness).
+<P>
+But as the boundaries between private and public health become more permanently blurred, we may feel differently about the trade-offs we are being asked to make.
+We may become less tolerant of behavioral tracking if individual lifestyle choices are constantly monitored for the sake of the collective good.
+Potential technologies to help us manage a post-pandemic future, from workplace surveillance tools to permanent digital health passports, may severely test our value systems.
+That could lead to strong disagreement along cultural and political lines about which technologies should and should not be leveraged.
+<P>
+It would be easy to frame this entire debate in terms of surveillance and privacy.
+But that is not the only important issue at stake.
+Collecting intimate behavioral data at scale not only powers big business but also enables predictive modeling, early-warning systems, and national and global enforcement and control systems.
+Moreover, the future will likely be shaped by crises, from natural disasters to famines to pandemics.
+And digital technologies, human behavioral data, and algorithmic decision-making will play an increasingly crucial role in predicting, mitigating, and managing them.
+<P>
+Societies will therefore have to confront hard questions about how they deal with challenges beyond civil liberties and the harmful biases, discrimination, and inequities revealed by data-gathering technologies.
+We will have to decide who owns behavioral insights and how these are used in the public interest.
+And we will have to recognize that who decides what on the basis of this data, and which political ideas motivate them, will create new forms of power with far-reaching effects on our lives.
+<P>
+As we increasingly place our faith in big data to solve major problems, the biggest question we face is not what we can do with it, but rather what we are willing to do.
+Unless we ask that question, it will be answered for us.

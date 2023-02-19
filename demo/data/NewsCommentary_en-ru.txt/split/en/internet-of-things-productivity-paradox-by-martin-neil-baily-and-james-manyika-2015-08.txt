@@ -1,0 +1,49 @@
+<HEADLINE>
+Reassessing the Internet of Things
+<P>
+SAN FRANCISCO – Nearly 30 years ago, the economists Robert Solow and Stephen Roach caused a stir when they pointed out that, for all the billions of dollars being invested in information technology, there was no evidence of a payoff in productivity.
+Businesses were buying tens of millions of computers every year, and Microsoft had just gone public, netting Bill Gates his first billion.
+And yet, in what came to be known as the productivity paradox, national statistics showed that not only was productivity growth not accelerating; it was actually slowing down.
+“You can see the computer age everywhere,” quipped Solow, “but in the productivity statistics.”
+<P>
+Today, we seem to be at a similar historical moment with a new innovation: the much-hyped Internet of Things – the linking of machines and objects to digital networks.
+Sensors, tags, and other connected gadgets mean that the physical world can now be digitized, monitored, measured, and optimized.
+As with computers before, the possibilities seem endless, the predictions have been extravagant – and the data have yet to show a surge in productivity.
+<P>
+A year ago, research firm Gartner put the Internet of Things at the peak of its Hype Cycle of emerging technologies.
+<P>
+As more doubts about the Internet of Things productivity revolution are voiced, it is useful to recall what happened when Solow and Roach identified the original computer productivity paradox.
+For starters, it is important to note that business leaders largely ignored the productivity paradox, insisting that they were seeing improvements in the quality and speed of operations and decision-making.
+Investment in information and communications technology continued to grow, even in the absence of macroeconomic proof of its returns.
+<P>
+That turned out to be the right response.
+By the late 1990s, the economists Erik Brynjolfsson and Lorin Hitt had disproved the productivity paradox, uncovering problems in the way service-sector productivity was measured and, more important, noting that there was generally a long lag between technology investments and productivity gains.
+<P>
+Our own research at the time found a large jump in productivity in the late 1990s, driven largely by efficiencies made possible by earlier investments in information technology.
+These gains were visible in several sectors, including retail, wholesale trade, financial services, and the computer industry itself.
+The greatest productivity improvements were not the result of information technology on its own, but by its combination with process changes and organizational and managerial innovations.
+<P>
+Our latest research, The Internet of Things: Mapping the Value Beyond the Hype, indicates that a similar cycle could repeat itself.
+We predict that as the Internet of Things transforms factories, homes, and cities, it will yield greater economic value than even the hype suggests.
+By 2025, according to our estimates, the economic impact will reach $3.9-$11.1 trillion per year, equivalent to roughly 11% of world GDP.
+In the meantime, however, we are likely to see another productivity paradox; the gains from changes in the way businesses operate will take time to be detected at the macroeconomic level.
+<P>
+One major factor likely to delay the productivity payoff will be the need to achieve interoperability.
+Sensors on cars can deliver immediate gains by monitoring the engine, cutting maintenance costs, and extending the life of the vehicle.
+But even greater gains can be made by connecting the sensors to traffic monitoring systems, thereby cutting travel time for thousands of motorists, saving energy, and reducing pollution.
+However, this will first require auto manufacturers, transit operators, and engineers to collaborate on traffic-management technologies and protocols.
+<P>
+Indeed, we estimate that 40% of the potential economic value of the Internet of Things will depend on interoperability.
+Yet some of the basic building blocks for interoperability are still missing.
+Two-thirds of the things that could be connected do not use standard Internet Protocol networks.
+<P>
+Other barriers standing in the way of capturing the full potential of the Internet of Things include the need for privacy and security protections and long investment cycles in areas such as infrastructure, where it could take many years to retrofit legacy assets.
+The cybersecurity challenges are particularly vexing, as the Internet of Things increases the opportunities for attack and amplifies the consequences of any breach.
+<P>
+But, as in the 1980s, the biggest hurdles for achieving the full potential of the new technology will be organizational.
+Some of the productivity gains from the Internet of Things will result from the use of data to guide changes in processes and develop new business models.
+Today, little of the data being collected by the Internet of Things is being used, and it is being applied only in basic ways – detecting anomalies in the performance of machines, for example.
+<P>
+It could be a while before such data are routinely used to optimize processes, make predictions, or inform decision-making – the uses that lead to efficiencies and innovations.
+But it will happen.
+And, just as with the adoption of information technology, the first companies to master the Internet of Things are likely to lock in significant advantages, putting them far ahead of competitors by the time the significance of the change is obvious to everyone.

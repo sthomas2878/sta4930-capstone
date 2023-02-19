@@ -1,0 +1,47 @@
+<HEADLINE>
+Closing India’s Technology Gap
+<P>
+MUMBAI – It is a notable irony that India, which produces solutions to many of the knottiest information-technology problems faced by the world’s largest companies, has benefited little from technological progress.
+Fortunately for India’s citizens, Prime Minister Narendra Modi intends to change that.
+<P>
+The gap between India and its emerging Asian counterpart China is significant.
+Whereas China has created the world’s largest online bazaar and become a global leader in renewable energy, India has just begun to explore the potential of e-commerce; IT remains beyond the scope of millions of small and medium-size enterprises; and most citizens remain cut off from the digital economy.
+<P>
+To bring India up to speed, Modi’s government announced in August a national digital initiative: 1.13 trillion rupees ($19 billion) in investment to bring broadband communications to 250,000 villages, provide universal mobile access, expand online government services, and enable online delivery of all sorts of basic services.
+Needless to say, this will do much to advance India’s e-government ambitions.
+<P>
+Technology trends are helping Modi’s cause.
+The rapid decline in costs and increase in performance capabilities of a range of digital technologies – including mobile Internet, cloud computing, and expert systems – make large-scale adoption a distinct possibility in the coming decade, even in relatively poor India.
+<P>
+These digital technologies – together with advances in genomics (supporting agricultural and medical innovation) and unconventional energy (wind, solar, and shale oil and gas) – will enable financial inclusion for hundreds of millions of Indians and potentially redefine how services like education, food allocation, and health care are delivered.
+Research by the McKinsey Global Institute indicates that, by 2025, these factors are likely to contribute at least $550 billion – and as much as $1 trillion – to India’s annual income.
+<P>
+The gains would be distributed among a variety of sectors, even some that currently have low levels of technology adoption.
+Existing applications in agriculture, health care, education, and infrastructure can collectively contribute $160-280 billion to annual GDP – and, more important, empower ordinary Indians.
+<P>
+Indeed, educational innovations – such as adaptive learning and remote teaching – could enable some 24 million workers to receive more years of education and find higher-paying employment.
+Mobile financial services will give 300 million Indians access to the financial system, allowing them to build credit.
+And precision agriculture – using geographic information systems and data to guide planting, watering, and other activities – can help 90 million farmers increase their output and reduce post-harvest losses, with access to timely market data bolstering their incomes.
+<P>
+Moreover, some 400 million Indians in poor rural areas can gain access to better health care in field clinics, where health workers can diagnose and treat some ailments using low-cost diagnostic tools, expert software, and online links to physicians.
+Finally, by digitizing government services, such as food-distribution programs for the poor, India could eliminate the leakage that diverts, according to our estimates, half of the food from intended recipients.
+<P>
+For India to derive the full potential of these technologies, it will need to dismantle barriers to adoption.
+McKinsey’s Internet Barriers Index for 25 countries classifies India as part of a cluster (along with Egypt, Indonesia, Thailand, and the Philippines) characterized by medium-to-high barriers in four key areas: infrastructure, affordability, incentives, and capability.
+<P>
+Even with low prices for devices and data plans relative to the rest of the world, Internet access in India remains beyond the grasp of close to a billion people.
+Furthermore, network coverage and the adjacent infrastructure remain inadequate, particularly in rural areas.
+And, though 48% of urban Indians are computer literate, only 14% of rural Indians are able to use a computer efficiently.
+<P>
+Indian policymakers should be working with the country’s tech industry and other private-sector actors to implement measures that would enable technology adoption.
+These include ensuring ongoing investment in broadband backbone networks, establishing inter-operability standards, and creating a supportive environment for low-cost devices.
+<P>
+In order to spur growth in online-services delivery, the authorities must also address broader challenges to entrepreneurship, such as India’s cumbersome procedures for starting new businesses.
+Moreover, as the experience of India’s mobile telephony sector clearly demonstrates, scaling up for massive impact requires more than start-up innovation; it also demands a regulatory environment characterized by a liberal approach to pricing, manufacturing, and distribution.
+<P>
+Sustaining the benefits of technological adoption and innovation will require continued investment and adjustment to compensate for its disruptive effects.
+For example, the automation of knowledge work – the software and systems that are increasingly capable of performing human tasks that require judgment – could affect 19-29 million jobs by 2025.
+Technology can help create new – perhaps better – jobs to replace those that are lost, but only if India’s education and training systems prepare workers adequately.
+<P>
+With thoughtful planning, productive collaboration between public and private institutions, and capable execution, India’s government can clear the way for technological progress.
+The social and economic benefits of a successful strategy cannot be overstated.

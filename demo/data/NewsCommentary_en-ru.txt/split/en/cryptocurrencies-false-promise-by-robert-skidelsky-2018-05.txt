@@ -1,0 +1,59 @@
+<HEADLINE>
+Why Reinvent the Monetary Wheel?
+<P>
+LONDON – Slumps have always been boom times for monetary experiments, and the economic collapse of 2008-2009 was no different.
+Underlying this recurrence is the instinctive feeling that economic calamities must have monetary causes, and therefore monetary remedies.
+There is either too much money, which causes inflation, or too little, which leads to depression.
+So the aim of monetary reformers –among whom are always a large number of quacks and cranks – has been to “keep money in order” and prevent its gyrations from disturbing the “real” economy of production and trade.
+<P>
+A further motive for monetary reform has been to head off more drastic surgery to the established order.
+If monetary fluctuations are the main cause of economic fluctuations, and if one can ensure the right quantity of money to support normal business activity, there will be no need for government interference.
+This has been the main teaching of economists wedded to free markets.
+<P>
+Few remember that quantitative easing (QE) marked the start of US President Franklin D. Roosevelt’s New Deal.
+With the US on the gold standard, the Treasury purchased gold to lift its price and thus augment the buying power of heavily indebted farmers.
+FDR’s gold-buying spree, described at the time by John Maynard Keynes as “the gold standard on the booze,” has been generally dismissed as ineffective.
+But, to counter the collapse of 2008, the monetarist chairman of the US Federal Reserve, Ben Bernanke, and other central bankers revived it in the form of massive purchases of government securities.
+“Unconventional monetary policy” – Keynes surely would have called it “central banking on the booze” – was the default recovery mechanism.
+Although most of the new money was hoarded or used for speculation, QE succeeded in fending off the call for expansionary fiscal policy.
+<P>
+Banking reform was also vigorously promoted in the wake of both slumps.
+In 1933, the US Glass-Steagall Act stopped commercial bank proprietors from speculating with their customers’ deposits.
+After 2009, the US Dodd-Frank legislation, the Vickers Report in the United Kingdom, and the European Union’s Liikanen report similarly aimed to make the banking system more “resilient” to “shocks.”
+Although the shocks to banking were the effect, not the cause, of shocks to the economy, this was ignored: Restore money and banking to order, the argument went, and shocks would stop.
+<P>
+This is the context in which the rise of cryptocurrencies – the latest explosion of monetary mania – should be understood.
+These “peer-to-peer electronic cash systems” aim to cure economic ills by monetary measures, but this time by bypassing banks altogether.
+Why do we need these diseased intermediaries, cryptocurrencies’ inventors ask, when we can create electronic storage and transaction systems, secure to their users and invisible to would-be controllers?
+<P>
+The technical details of the new cash-generation systems are difficult to grasp; their inspiration is not.
+The start of Bitcoin in January 2009 coincided with the banking crisis.
+Banks went bust or were rescued from insolvency by taxpayers.
+Understandably people wanted to find a way to keep their money and monetary transactions out of the reach of failing banks and voracious tax authorities.
+The new cryptocurrency offered a solution.
+<P>
+Many motives lay behind the appeal of Bitcoin, not least opportunities for speculation, drug trafficking, and money laundering.
+But behind the more sordid motives lay Friedrich Hayek’s dream of a free market in money.
+Hayek introduced his proposal for privately issued competitive currencies at the height of the inflationary surge of the mid-1970s, which he attributed to excessive credit creation by central banks.
+“If we want free enterprise…to survive,” he argued, “we have no choice but to replace the government currency monopoly and national currency systems by free competition.”
+Government could not be stopped from making money go bad, Hayek wrote.
+“Government has failed, must fail, and will continue to fail to supply good money.”
+<P>
+Bitcoin can be seen as an attempt to use new technology to stop money from going bad.
+For example, the total supply of bitcoins is fixed, as it would be – more or less – for a gold-backed currency.
+Paradoxically, although it is created out of nothing, it will offer no possibility of money “creation.”
+Bitcoin will be “mined” in diminishing quantities until it is exhausted in 2040, having delivered 21 million digital coins.
+In other words, there is no elasticity in the currency.
+This means that long before the mine is exhausted, the currency will run into the same problem as the gold standard: not providing enough money to support a growing economy and population.
+This would be exacerbated by any tendency to hoard bitcoins.
+<P>
+At the same time, cryptocurrencies provide no security against inflation.
+Hayek thought that a competitive currency system would eventually lead to a monopoly of the one that kept its value best.
+But we have, of course, been through exactly this process of weeding out inflationary currencies throughout history, and we ended up with central banks.
+It is amazing that anyone should consider it necessary to retrace these steps, only to end up in the same place.
+<P>
+The fact is that human societies have discovered no better way to keep the value of money roughly constant than by relying on central banks to exercise control over its issue and to act directly or indirectly on the volume of credit created by the commercial banking system.
+The Hayekian diagnosis of the last crisis – excessive creation of credit by the banks – is correct as far as it goes.
+But one has only to ask why this happened to understand that there are no mechanical answers to the question or solutions to the problem.
+It’s not quite true to say, “Look after the economy and money will look after itself.”
+But it is nearer the truth than the belief that monetary reform on its own will cure the problems of a sick economy.

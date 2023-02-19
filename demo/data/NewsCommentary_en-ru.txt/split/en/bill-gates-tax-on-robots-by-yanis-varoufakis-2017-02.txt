@@ -1,0 +1,65 @@
+<HEADLINE>
+A Tax on Robots?
+<P>
+ATHENS – Ken makes a decent living operating a large harvester on behalf of farmer Luke.
+Ken’s salary generates income tax and social security payments that help finance government programs for less fortunate members of his community.
+Alas, Luke is about to replace Ken with Nexus, a robot that can operate the harvester longer, more safely, in any weather, and without lunch breaks, holidays, or sick pay.
+<P>
+Bill Gates thinks that, to ease the inequality and offset the social costs implied by automation’s displacement effects, either Nexus should pay income tax, or Luke should pay a hefty tax for replacing Ken with a robot.
+And this “robot tax” should be used to finance something like a universal basic income (UBI).
+Gates’s proposal, one of many variants on the UBI theme, allows us to glimpse fascinating aspects of capitalism and human nature that rich societies have neglected for too long.
+<P>
+The whole point of automation is that, unlike Ken, Nexus will never negotiate a labor contract with Luke.
+Indeed, it will receive no income.
+The only way to simulate an income tax on behalf of Nexus is to use Ken’s last annual income as a reference salary and extract from Luke’s revenues income tax and social security charges equivalent to what Ken paid.
+<P>
+There are three problems with this approach.
+For starters, whereas Ken’s income would have changed over time had he not been fired, the reference salary cannot change, except arbitrarily and in a manner setting the tax authorities against business.
+The tax office and Luke would end up clashing over impossible estimates of the extent to which Ken’s salary would have risen, or fallen, had he still been employed.
+<P>
+Second, the advent of robot-operated machines that have never been operated by humans means there will be no prior human income to act as a reference salary for calculating the taxes these robots must pay.
+<P>
+Finally, it is hard philosophically to justify forcing Luke to pay “income” tax for Nexus but not for the harvester that Nexus operates.
+After all, both are machines, and the harvester has displaced far more human labor than Nexus has.
+The only defensible justification for treating them differently is that Nexus has greater autonomy.
+<P>
+But to what extent is Nexus genuinely autonomous in a manner that the harvester is not?
+However advanced Nexus might be, it can be thought of as autonomous if and only if it develops consciousness, whether spontaneously or with the help of its makers.
+<P>
+Only if Nexus (like the Nexus-6 replicants in the 1982 film Blade Runner) achieves that leap will “he” have earned the “right” to be thought of as distinct from the harvester he operates.
+But then humanity will have spawned a new species and a new civil rights movement (which I would gladly join) demanding freedom for Nexus and equal rights with Ken – including a living wage, minimum benefits, and enfranchisement.
+<P>
+Assuming that robots cannot be made to pay income tax without creating new potential for conflict between the tax authorities and business (accompanied by tax arbitrage and corruption), what about taxing Nexus at the point of sale to Luke?
+That would of course be possible: the state would collect a lump-sum tax from Luke the moment he replaces Ken with Nexus.
+<P>
+Gates supports this second-best alternative to making robots “pay” income tax.
+He thinks that slowing down automation and creating tax disincentives to counter technology’s displacement effect is, overall, a sensible policy.
+<P>
+But a lump-sum tax on robots would merely lead robot producers to bundle artificial intelligence within other machinery.
+Nexus will increasingly be incorporated within the harvester, making it impossible to tax the robotic element separately from the dumb parts that do the harvesting.
+<P>
+Either the robot sales tax should be dropped or it should be generalized into a capital goods sales tax.
+But imagine the uproar against a tax on all capital goods: Woe betide those who would diminish domestic productivity and competitiveness!
+<P>
+Ever since the emergence of industrial capitalism, we have been terrible at differentiating between property and capital, and thus between wealth, rent, and profits.
+This is why a wealth tax is so difficult to design.
+The conceptual problem of differentiating between Nexus and the harvester “he” operates would make it impossible to agree on how a robot tax should work.
+<P>
+But why make life under capitalism more complicated than it already is?
+There is an alternative to a robot tax that is easy to implement and simple to justify: a universal basic dividend (UBD), financed from the returns on all capital.
+<P>
+Imagine that a fixed portion of new equity issues (IPOs) goes into a public trust that, in turn, generates an income stream from which a UBD is paid.
+Effectively, society becomes a shareholder in every corporation, and the dividends are distributed evenly to all citizens.
+<P>
+To the extent that automation improves productivity and corporate profitability, the whole of society would begin to share the benefits.
+No new tax, no complications in the tax code, and no effect on the existing funding of the welfare state.
+Indeed, as higher profits and their automatic redistribution via the UBD boosted incomes, more funds would become available for the welfare state.
+Coupled with stronger labor rights and a decent living wage, the ideal of shared prosperity would receive a new lease on life.
+<P>
+The first two industrial revolutions were built on machines produced by great inventors in glorified barns and bought by cunning entrepreneurs who demanded property rights over the income stream “their” machines generated.
+Today’s technological revolution is marked by the increasing socialization of the production of capital.
+A practical response would be to socialize the property rights over the large income streams capital is now generating.
+<P>
+In short, forget about taxing either Nexus or Luke.
+Instead, place a portion of Luke’s equity in the farm in a public trust, which then provides a universal payment to everyone.
+In addition, we must legislate to improve the wages and conditions of every human still in employment, while our taxes provide Ken unemployment benefits, a guaranteed paid job in his community, or retraining.

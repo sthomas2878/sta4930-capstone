@@ -1,0 +1,48 @@
+<HEADLINE>
+Inherited Malignancy
+<P>
+HANNOVER , GERMANY – Breast cancer is among the most life-threatening of malignancies, affecting about one in ten women in the Western world.
+Taking the family history of 100 healthy women, at least one affected first-degree relative can be found in up to 15 of them.
+<P>
+Indeed, investigations have shown that the risk of developing breast cancer is roughly doubled in females with a family history of breast cancer.
+In 1994-1995, the human genes BRCA1 and BRCA2 were identified as major culprits.
+Dozens of their mutations are associated with an increased risk of hereditary breast and ovarian cancer.
+Women who have an abnormal BRCA1 or BRCA2 gene run a lifetime risk of up to 85% of developing breast cancer, while the increased risk of developing ovarian cancer is about 55% for women with BRCA1 mutations and about 25% for women with BRCA2 mutations.
+Most recently, huge studies analyzing effects of single nucleotide variations in genomic DNA, so-called single nucleotide polymorphisms (SNP), on breast cancer risk of BRCA1/BRCA2 mutation carriers have identified so-called modifier SNP that can decrease or increase the individual lifetime risk.
+<P>
+We have also learned that only 20-40% of the breast cancers that cluster in families come from BRCA1 or BRCA2 germline mutations – genetic alterations that are present from birth in every cell of the body and can be transmitted to the offspring.
+Increased breast cancer risk is also known to be associated with several inherited syndromes, such as Li-Fraumeni syndrome, a condition that is further associated with childhood onset of multiple malignancies including soft tissue sarcomas, leukemias, and brain tumors.
+In most cases of familial breast cancer, however, genetic predisposition remains elusive.
+Indeed, no further genes have been found whose mutations are associated with high lifetime risks of developing breast cancer.
+<P>
+Recently, new approaches to investigating genes involved in DNA repair, and huge studies of the effect of SNP on breast cancer risk, have identified two classes of breast cancer susceptibility factors.
+One class contains mutations in genes involved in DNA repair.
+Their frequency is rather rare and certain mutations can be found only in distinct populations, but this class of susceptibility factors is associated with a moderately increased breast cancer risk.
+Considering frequency and risk, this class of breast cancer susceptibility factors can be called “rare, intermediate-penetrance mutations”.
+<P>
+The other class involves what are known as “common, low-penetrance variants.”
+Their biological consequences are mainly unknown, but statistical analyses have shown that they are associated with a significantly increased relative breast cancer risk which, in contrast to the first class, is rather small.
+<P>
+Several national networks and consortia have already developed models for estimating the breast cancer risk in women with a positive family history.
+We have criteria for genetic testing of both BRCA1 and BRCA2 and guidelines for risk-adapted surveillance programs – including, where appropriate, risk-reducing surgery.
+<P>
+But nothing is known yet about the clinical utility of the recently identified susceptibility factors, whether they are class one or class two.
+While these novel susceptibility factors have been shown to be significantly associated with an increased relative breast cancer risk, the statistical significance does not imply clinical utility for preventive management and therapy of breast cancer – at least not yet.
+Today, no guidelines are available to make a reasoned clinical decision on the presence or absence of these novel susceptibility factors.
+In these circumstances, testing them would only provoke massive insecurity, leading to unnecessary interventions in carriers and a false sense of security in non-carriers, as well as in their relatives.
+<P>
+Today, it is widely accepted that breast cancer, whether familial or sporadic, can be understood as a complex disease.
+Thus, the genetically determined portion of an individual’s breast cancer risk is the result of several or even many genetic variants and mutations.
+To take full advantage of the known genetic susceptibility factors, it will be necessary to understand their biological consequences.
+<P>
+In addition, reliable risk prediction models are required to learn more about the combined effect of certain patterns of susceptibility factors on overall lifetime risk and response to therapy, including their role as objects of targeted therapies.
+Last, but not least, criteria have to be established to define when and to whom genetic testing should be offered.
+<P>
+Thus, “to test or not to test” is not the first question that needs to be answered.
+Initially, experts have to ask whether the result of a genetic test for susceptibility factors can help clinical decisions to be made on the basis of generally accepted guidelines.
+If, at this time, the answer is no, counselees do not need to waste time and money dealing with the test.
+In contrast, if the answer is yes, the informed counselees themselves have to decide if they wish to be tested or not.
+<P>
+Screening the genome for breast cancer susceptibility factors has led to the identification of novel genetic variants, and ongoing studies and further technical progress will certainly lead to additional significant findings.
+The challenge today is to extract the clinical relevance of these findings and translate them into daily health care.
+Managing this challenge is crucial if we are to realize the promise of individualized medicine, with intensified surveillance and therapy for high-risk patients and avoidance of unnecessary or even harmful interventions in those with a relatively low risk.

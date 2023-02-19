@@ -1,0 +1,52 @@
+<HEADLINE>
+Big Data, Big New Businesses
+<P>
+LONDON – Many people have long believed that if government and the private sector agreed to share their data more freely, and allow it to be processed using the right analytics, previously unimaginable solutions to countless social, economic, and commercial problems would emerge.
+They may have no idea how right they are.
+<P>
+Even the most vocal proponents of open data appear to have underestimated how many profitable ideas and businesses stand to be created.
+More than 40 governments worldwide have committed to opening up their electronic data – including weather records, crime statistics, transport information, and much more – to businesses, consumers, and the general public.
+The McKinsey Global Institute estimates that the annual value of open data in education, transportation, consumer products, electricity, oil and gas, health care, and consumer finance could reach $3 trillion.
+<P>
+These benefits come in the form of new and better goods and services, as well as efficiency savings for businesses, consumers, and citizens.
+The range is vast.
+For example, drawing on data from various government agencies, the Climate Corporation (recently bought for $1 billion) has taken 30 years of weather data, 60 years of data on crop yields, and 14 terabytes of information on soil types to create customized insurance products.
+<P>
+Similarly, real-time traffic and transit information can be accessed on smartphone apps to inform users when the next bus is coming or how to avoid traffic congestion.
+And, by analyzing online comments about their products, manufacturers can identify which features consumers are most willing to pay for, and develop their business and investment strategies accordingly.
+<P>
+Opportunities are everywhere.
+A raft of open-data start-ups are now being incubated at the London-based Open Data Institute (ODI), which focuses on improving our understanding of corporate ownership, health-care delivery, energy, finance, transport, and many other areas of public interest.
+<P>
+Consumers are the main beneficiaries, especially in the household-goods market.
+It is estimated that consumers making better-informed buying decisions across sectors could capture an estimated $1.1 trillion in value annually.
+Third-party data aggregators are already allowing customers to compare prices across online and brick-and-mortar shops.
+Many also permit customers to compare quality ratings, safety data (drawn, for example, from official injury reports), information about the provenance of food, and producers’ environmental and labor practices.
+<P>
+Consider the book industry.
+Bookstores once regarded their inventory as a trade secret.
+Customers, competitors, and even suppliers seldom knew what stock bookstores held.
+Nowadays, by contrast, bookstores not only report what stock they carry but also when customers’ orders will arrive.
+If they did not, they would be excluded from the product-aggregation sites that have come to determine so many buying decisions.
+<P>
+The health-care sector is a prime target for achieving new efficiencies.
+By sharing the treatment data of a large patient population, for example, care providers can better identify practices that could save $180 billion annually.
+<P>
+The Open Data Institute-backed start-up Mastodon C uses open data on doctors’ prescriptions to differentiate among expensive patent medicines and cheaper “off-patent” varieties; when applied to just one class of drug, that could save around $400 million in one year for the British National Health Service.
+Meanwhile, open data on acquired infections in British hospitals has led to the publication of hospital-performance tables, a major factor in the 85% drop in reported infections.
+<P>
+There are also opportunities to prevent lifestyle-related diseases and improve treatment by enabling patients to compare their own data with aggregated data on similar patients.
+This has been shown to motivate patients to improve their diet, exercise more often, and take their medicines regularly.
+Similarly, letting people compare their energy use with that of their peers could prompt them to save hundreds of billions of dollars in electricity costs each year, to say nothing of reducing carbon emissions.
+<P>
+Such benchmarking is even more valuable for businesses seeking to improve their operational efficiency.
+The oil and gas industry, for example, could save $450 billion annually by sharing anonymized and aggregated data on the management of upstream and downstream facilities.
+<P>
+Finally, the move toward open data serves a variety of socially desirable ends, ranging from the reuse of publicly funded research to support work on poverty, inclusion, or discrimination, to the disclosure by corporations such as Nike of their supply-chain data and environmental impact.
+<P>
+There are, of course, challenges arising from the proliferation and systematic use of open data.
+Companies fear for their intellectual property; ordinary citizens worry about how their private information might be used and abused.
+Last year, Telefónica, the world’s fifth-largest mobile-network provider, tried to allay such fears by launching a digital confidence program to reassure customers that innovations in transparency would be implemented responsibly and without compromising users’ personal information.
+<P>
+The sensitive handling of these issues will be essential if we are to reap the potential $3 trillion in value that usage of open data could deliver each year.
+Consumers, policymakers, and companies must work together, not just to agree on common standards of analysis, but also to set the ground rules for the protection of privacy and property.

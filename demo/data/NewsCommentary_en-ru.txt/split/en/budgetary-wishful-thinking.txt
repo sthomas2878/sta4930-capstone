@@ -1,0 +1,57 @@
+<HEADLINE>
+Budgetary Wishful Thinking
+<P>
+CAMBRIDGE – Why do many countries find it hard to control their budgets?
+Concern about budget deficits has become a burning political issue in the United States; helped to persuade the United Kingdom to enact stringent cuts, despite a weak economy; and is the proximate cause of the Greek sovereign-debt crisis, which has grown to engulf the entire eurozone.
+Indeed, among industrialized countries, hardly anyone is immune from fiscal woes.
+<P>
+Clearly, part of the blame lies with voters who don’t want to hear that budget discipline means cutting programs that matter to them, and with politicians who tell voters only what they want to hear.
+But another factor has attracted little notice: systematically over-optimistic official forecasts.
+<P>
+Such forecasts underlie governments’ failure to take advantage of boom periods to strengthen their finances, including running budget surpluses.
+During the expansion of 2001-2007, for example, the US government projected that budget surpluses would remain strong.
+These forecasts supported enactment of large long-term tax cuts and faster spending growth (both military and otherwise).
+<P>
+European countries behaved similarly, running up ever-higher debts.
+Not surprisingly, when global recession hit in 2008, most countries had little or no “fiscal space” to implement countercyclical policy.
+<P>
+The US Office of Management and Budget (OMB) has perennially turned out optimistic budget forecasts.
+For eight years, it never stopped forecasting that the budget would return to surplus by 2011, even though virtually every independent forecast showed that deficits would continue into the new decade unabated.
+The US projections were over-optimistic even at short time horizons.
+From 1986 to 2009, the bias averaged 0.4% of GDP at the one-year horizon, 1% at two years, and 3.1% at three years.
+<P>
+Sanguine macroeconomic assumptions and fanciful theories about the effects of tax cuts underpinned rosy scenarios.
+For the quarter-century until 2009, the OMB’s three-year forecasts of economic growth were biased upward by a whopping 3.8%, on average.
+<P>
+But, in order to get buoyant budget forecasts out of the rival Congressional Budget Office, which is more independent than the OMB, a more extreme strategy was required.
+Elected officials hard-wired misleading projections by excising from current law expensive policies that they had every intention of pursuing.
+<P>
+For example, the wars in Afghanistan and Iraq were financed with “supplemental” budget requests each year, as if they were some unpredictable surprise.
+Likewise, every year, Congress canceled “planned” cuts in payments to physicians that, if ever implemented, would drive doctors out of the Medicare system.
+And, on the revenue side, the tax cuts that were enacted in 2001 were all extended into 2011-12, despite an expiry date of 2010; those who proposed the law never intended to allow it to expire.
+<P>
+Unrealistic macroeconomic assumptions, farfetched theories about tax cuts, and legislation that deliberately misrepresented policy plans all worked as intended, yielding overly optimistic forecasts, which in turn help to explain excessive budget deficits.
+In particular, such forecasts explain the failure to run surpluses during the economic expansion from 2002-2007: if growth is projected to last indefinitely, retrenchment is deemed unnecessary.
+<P>
+Many have suggested that budget woes can best be held in check through fiscal-policy rules such as deficit or debt caps.
+Some countries have already enacted laws along these lines.
+<P>
+The most important and well-known example is the eurozone’s fiscal rules, which supposedly limit candidate countries’ budget deficits to 3% of GDP, and their public debt to 60% of GDP.
+The European Union’s Stability and Growth Pact (SGP) dictated that member countries must continue to meet these criteria.
+We know now how well that worked out.
+<P>
+Other countries have also adopted fiscal rules, most of which fail.
+Indeed, part of the problem is that governments that are subject to budget rules like Europe���s SGP put out official forecasts that are even more biased than those of the US or other countries.
+The Greek government, for example, projected in 2000 that its fiscal deficit would shrink below 2% of GDP one year in the future and below 1% of GDP two years into the future, and that the fiscal balance would swing to surplus three years into the future.
+The actual balance was a deficit of 4-5% of GDP – well above the EU’s 3%-of-GDP ceiling.
+<P>
+In almost all industrialized countries, official forecasts have an upward bias, which is stronger at longer time horizons.
+On average, the gap between the projected budget balance and the realized balance among a set of 33 countries is 0.2% of GDP at the one-year horizon, 0.8 % at the two-year horizon, and 1.5 % at the three-year horizon.
+<P>
+So, how can governments’ tendency to satisfy fiscal targets by wishful thinking be overcome?
+In 2000, Chile created structural budget institutions that may have solved the problem.
+Independent expert panels, insulated from political pressures, are responsible for estimating the long-run trends that determine whether a given deficit is deemed structural or cyclical.
+<P>
+The result is that, unlike in most industrialized countries, Chile’s official forecasts of growth and fiscal performance have not been overly optimistic, even during economic booms.
+Thus, unlike many countries in the North, Chile took advantage of the 2002-2007 expansion to run substantial budget surpluses, which enabled it to loosen fiscal policy in the 2008-2009 recession.
+Perhaps other countries should follow its lead.

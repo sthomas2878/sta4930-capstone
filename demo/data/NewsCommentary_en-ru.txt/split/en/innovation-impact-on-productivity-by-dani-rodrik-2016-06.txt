@@ -1,0 +1,64 @@
+<HEADLINE>
+Innovation Is Not Enough
+<P>
+CAMBRIDGE – We seem to be living in an accelerated age of revolutionary technological breakthroughs.
+Barely a day passes without the announcement of some major new development in artificial intelligence, biotechnology, digitization, or automation.
+Yet those who are supposed to know where it is all taking us can’t make up their minds.
+<P>
+At one end of the spectrum are the techno-optimists, who believe we are on the cusp of a new era in which the world’s living standards will rise more rapidly than ever.
+At the other end are the techno-pessimists, who see disappointing productivity statistics and argue that the new technologies’ economy-wide benefits will remain limited.
+Then there are those – the techno-worriers? – who agree with the optimists about the scale and scope of innovation but fret about the adverse implications for employment or equity.
+<P>
+What distinguishes these perspectives from one another is not so much disagreement about the rate of technological innovation.
+After all, who can seriously doubt that innovation is progressing rapidly?
+The debate is about whether these innovations will remain bottled up in a few tech-intensive sectors that employ the highest-skilled professionals and account for a relatively small share of GDP, or spread to the bulk of the economy.
+The consequences of any innovation for productivity, employment, and equity ultimately depend on how quickly it diffuses through labor and product markets.
+<P>
+Technological diffusion can be constrained on both the demand and supply sides of the economy.
+Take the demand side first.
+In rich economies, consumers spend the bulk of their income on services such as health, education, transportation, housing, and retail goods.
+Technological innovation has had comparatively little impact to date in many of these sectors.
+<P>
+Consider some of the figures provided by the McKinsey Global Institute’s recent report Digital America.
+The two sectors in the United States that have experienced the most rapid productivity growth since 2005 are the ICT (information and communications technology) and media industries, with a combined GDP share of less than 10%.
+By contrast, government services and health care, which together produce more than a quarter of GDP, have had virtually no productivity growth.
+<P>
+Techno-optimists, such as the McKinsey authors, look at such numbers as an opportunity: There remain vast productivity gains to be had from the adoption of new technologies in the lagging sectors.
+The pessimists, on the other hand, think that such gaps may be a structural, lasting feature of today’s economies.
+<P>
+For example, the economic historian Robert Gordon argues that today’s innovations pale in contrast to past technological revolutions in terms of their likely economy-wide impact.
+Electricity, the automobile, airplane, air conditioning, and household appliances altered the way that ordinary people live in fundamental ways.
+They made inroads in every sector of the economy.
+Perhaps the digital revolution, impressive as it has been, will not reach as far.
+<P>
+On the supply side, the key question is whether the innovating sector has access to the capital and skills it needs to expand rapidly and continuously.
+In advanced countries, neither constraint typically binds much.
+But when the technology requires high skills – technological change is “skill-biased,” in economists’ terminology – its adoption and diffusion will tend to widen the gap between the earnings of low- and high-skill workers.
+Economic growth will be accompanied by rising inequality, as it was in the 1990s.
+<P>
+The supply-side problem faced by developing countries is more debilitating.
+The labor force is predominantly low-skilled.
+Historically, this has not been a handicap for late industrializers, so long as manufacturing consisted of labor-intensive assembly operations such as garments and automobiles.
+Peasants could be transformed into factory workers virtually overnight, implying significant productivity gains for the economy.
+Manufacturing was traditionally a rapid escalator to higher income levels.
+<P>
+But once manufacturing operations become robotized and require high skills, the supply-side constraints begin to bite.
+Effectively, developing countries lose their comparative advantage vis-à-vis the rich countries.
+We see the consequences in the “premature deindustrialization” of the developing world today.
+<P>
+In a world of premature deindustrialization, achieving economy-wide productivity growth becomes that much harder for low-income countries.
+It is not clear whether there are effective substitutes for industrialization.
+<P>
+The economist Tyler Cowen has suggested that developing countries may benefit from the trickle-down of innovation from the advanced economies: they can consume a stream of new products at cheap prices.
+This is a model of what Cowen calls “cellphones instead of automobile factories.”
+But the question remains: What will these countries produce and export – besides primary products – to be able to afford the imported cellphones?
+<P>
+In Latin America, economy-wide productivity has stagnated despite significant innovation in the best-managed firms and vanguard sectors.
+The apparent paradox is resolved by noting that rapid productivity growth in the pockets of innovation has been undone by workers moving from the more productive to the less productive parts of the economy – a phenomenon that my co-authors and I have called “growth-reducing structural change.”
+<P>
+This perverse outcome becomes possible when there is severe technological dualism in the economy and the more productive activities do not expand rapidly enough.
+Disturbingly, there is evidence that growth-reducing structural change has been happening recently in the United States as well.
+<P>
+Ultimately, it is the economy-wide productivity consequences of technological innovation, not innovation per se, that lifts living standards.
+Innovation can co-exist side-by-side with low productivity (conversely, productivity growth is sometimes possible in the absence of innovation, when resources move to the more productive sectors).
+Techno-pessimists recognize this; the optimists might not be wrong, but to make their case, they need to focus on how the effects of technology play out in the economy as a whole.

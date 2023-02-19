@@ -1,0 +1,51 @@
+<HEADLINE>
+Should You Buy Bitcoin?
+<P>
+LONDON – In December, as the Bitcoin price neared $20,000, a friend asked me whether she should invest.
+I said that I hadn’t the faintest idea.
+Today, with the price below half that, my reply remains the same.
+<P>
+Over the next year, the Bitcoin price could double, soar tenfold, or collapse by 95% or more, and no economic analysis can help predict where in that range it will lie.
+Its value is arbitrarily determined by the collective psychology of the mass of investors; it goes where, on average, they think it will.
+Like other cryptocurrencies, Bitcoin serves no useful economic purpose, though in macroeconomic terms, such currencies probably also do little harm.
+<P>
+In a modern economy, money has a well-defined real value because governments accept it as payment of taxes and issue debts in defined monetary amounts, and because central banks ensure that total monetary creation, by either the state or the private banking system, grows at a pace compatible with relatively low and stable inflation.
+In some sense, money is an arbitrary social construct; but its value and ability to serve crucial economic functions are rooted in the authority and institutions of the currency-issuing state.
+<P>
+At any time, however, groups of individuals can choose to believe that some commodity – a specific type of seashell, or gold, or tulips – will be a far better store of value than money, and that its value in money terms is bound to rise.
+What matters is simply that the supply of the chosen commodity cannot be rapidly and limitlessly increased.
+Provided that is the case, the price can be whatever speculators believe.
+In early 1636, a pound of “switsers” (a particular category of tulip bulb) traded in Dutch markets for 60 guilders; by mid-February 1637, the price was 1,500 guilders.
+In the subsequent crash, some bulb prices fell 99%.
+<P>
+Unlike gold or tulips, whose supply is fixed in the short term and constrained by nature in the medium term, immaterial Bitcoin could in principle be created in infinite quantities.
+In fact, the currency’s supply is limited by clever software algorithms, supported by huge quantities of computing power, which have enabled Bitcoin’s creators to achieve a previously impossible trinity: decentralized “mining,” collectively limited aggregate supply, and anonymity.
+<P>
+In theory, the latter could allow Bitcoin or other cryptocurrencies to be not only an arbitrary store of value, but also an anonymous medium of exchange for large-value transactions, just like suitcases full of high-denomination dollar bills, with no mark identifying the owner, but now in digital form.
+But, as Kenneth Rogoff has argued, anonymous large-denomination notes play no useful role in legitimate commerce.
+They are, however, the favored medium of exchange for drug lords, tax avoiders, terrorists, and other criminals.
+But if, as Rogoff argues, there is therefore a good case for eliminating them, the last thing the world needs is to recreate the same problem in digital form.
+<P>
+South Korea has therefore banned the anonymous trading of cryptocurrencies, and other regulators around the world are considering whether to do the same.
+The best case for going further and banning cryptocurrencies entirely is actually environmental.
+Estimates of how much electricity Bitcoin mining requires vary widely – some put it as high as 30 terawatt hours per year (equivalent to Morocco’s entire electricity demand), while others suggest it’s a sixth of that.
+But whatever the true quantity, the related carbon dioxide emissions are adding to global warming, in return for no social benefit.
+<P>
+At the same time, fears that speculative bubbles in cryptocurrencies could drive macroeconomic instability appear overstated.
+As Charles Kindelberger showed in his classic historical survey Manias, Panics, and Crashes, speculative bubbles and subsequent crashes sometimes lead to post-crash depressions.
+But not always: whereas the Wall Street boom of the 1920s ended in the Great Depression, the tulip bubble of the 1630s seems to have had little impact on the Netherlands’ medium-term growth path.
+<P>
+What matters is the scale of the boom, and whether it is financed with debt.
+Booms and busts in individual equity stocks or specific commodities typically have little macro-level effect: and even huge swings in entire equity-market sectors – such as the NASDAQ boom and bust of 1998-2002 – may have only a mild adverse impact on overall economic growth.
+By contrast, property booms and busts have historically been the most dangerous, because the total value of real estate wealth usually dwarfs equity values, and because real-estate booms are often debt-financed.
+<P>
+Regulators should therefore keep a careful eye on any credit-financed cryptocurrency speculation.
+But with total cryptocurrency values still equal to just a minute fraction of global real-estate wealth, the overall risk remains slight.
+Some individual investors will certainly lose their shirts, but the impact on economic growth will most likely be close to nil.
+<P>
+The wider social challenge, however, is to channel human ingenuity into welfare-boosting innovation rather than zero-sum gambling activities.
+The distributed-ledger technology underpinning cryptocurrencies can be used to reduce transaction costs and eliminate risks across multiple financial and trading activities.
+That would be worth doing.
+<P>
+As for whether you should invest in Bitcoin, I cannot say.
+Personally, I would rather buy a lottery ticket.

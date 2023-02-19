@@ -1,0 +1,60 @@
+<HEADLINE>
+America’s Real Drug Problem
+<P>
+ANN ARBOR – No doctor can forget his or her first patient with toxoplasmosis, a harrowing parasitic infection found in people with compromised immune systems, such as patients with advanced HIV/AIDS.
+After infecting one’s organs and brain, it causes an altered mental state, fever, shaking chills, and seizures.
+Left untreated, it can lead to death in as little as one week.
+<P>
+A life-saving treatment – marketed in the United States under the name Daraprim (pyrimethamine) – has been available for more than 60 years.
+But recent developments have threatened to make it unaffordable.
+In August, a company called Turing Pharmaceuticals bought the marketing rights for the drug and promptly hiked the price of a pill from $13.50 to $750.
+In addition to raising worries about the drug’s availability, the move exposes one of the great flaws of the US health-care system: profits can be – and often are – placed ahead of people.
+<P>
+Turing’s CEO, Martin Shkreli, was quickly vilified in the media, including in a Facebook post by former US Secretary of State Hillary Clinton.
+His response was uncompromising.
+In a Twitter exchange, he called a journalist “a moron,” and described the price hike as “a great business decision that also benefits all of our stakeholders.”
+<P>
+From a purely economic point of view, Shkreli is right.
+Pyrimethamine is an off-patent drug, but Turing is its only manufacturer.
+And because the demand curve for life-saving medications is almost perfectly inelastic, raising the price by more than 5,000% is a rational way to maximize profits.
+As abhorrent as Shkreli’s decision may be, neither he nor Turing is the real problem.
+They did not write the US laws and regulations that permit price gouging on medications like Daraprim.
+<P>
+Most people would expect life-saving medications to be treated differently from consumer goods such as smartphones or automobiles.
+But no such distinction exists in the US.
+Indeed, the US is the only developed country that allows drug makers to set their own prices.
+<P>
+Most European countries directly or indirectly regulate the prices of pharmaceuticals, similar to how electricity or water prices are regulated in US markets.
+In the United Kingdom, for example, a regulatory body – NICE (National Institute for Clinical Effectiveness) – decides whether drugs are sufficiently cost-effective to justify reimbursement by the National Health Service.
+<P>
+Furthermore, because the US does not have a publicly funded health system, there is no single payer that can leverage its bargaining power to lower drug prices.
+Instead, each state’s Medicaid system, which covers health care for the poor, procures its own drugs.
+And Medicare – one of the largest procurers, which provides coverage to those over the age of 65 – is prohibited from negotiating prices.
+This, together with other factors, has led to prices in the US being, in many cases, much higher than in most other developed countries.
+<P>
+Some argue that the higher prices reflect the fact that the US bears a cost premium for innovation.
+But in many cases – Turing’s decision is just one egregious example – higher prices do not reflect investments in innovation.
+Price hikes are simply profit grabs by rent-seeking manufacturers.
+<P>
+Solving the problem will not be easy.
+Introducing a new regulatory body or moving to a single-payer system is likely to be bureaucratically costly or politically impossible.
+And, in any case, there are pitfalls to empowering a single agency to determine a drug’s value for an entire country.
+Different groups may benefit differently, depending on factors such as age or socioeconomic status.
+Even so, some simple steps can be taken to prevent price gouging, while maintaining incentives for innovation.
+<P>
+Daraprim is widely and cheaply available as a generic in other markets, including the UK, India, and Brazil.
+In the US, however, it was not until the uproar over Turing’s price hike that a competitor announced it would produce an alternative for about $1 a pill.
+With fewer than 13,000 prescriptions annually for pyrimethamine, drug manufacturers did not have the financial incentive to navigate the US Food and Drug Administration’s application process for regulatory approval.
+In addition, the FDA’s backlog of more than 4,000 applications for generic medications means that approval can take more than two years.
+<P>
+Volume guarantees are one way to spur competition and put downward pressure on prices in such niche markets.
+This approach was used successfully for HIV/AIDS medications, when donors pooled procurement for low- and middle-income countries to create price ceilings.
+In the US, a few large public payers, such as Medicare and Medicaid, could be mandated to provide an overall volume guarantee, providing an incentive for new entrants and a reason for existing manufactures to keep prices in check.
+<P>
+Another way to make niche markets more attractive is through priority review vouchers, which promise manufacturers an expedited review process for one of their drugs.
+The FDA already awards these to manufacturers of new drugs for rare pediatric disorders.
+It could do the same for generic medications for which the market is small.
+<P>
+Turing’s attempt to profit at the expense of those suffering from HIV has clearly shown that regulators and drug manufacturers need to explore new ways of doing business.
+Access to life-saving medicines should not depend on the extent of one person’s benevolence.
+Rather, we should work to embed in our institutions practices and policies that safeguard the interests of patients.

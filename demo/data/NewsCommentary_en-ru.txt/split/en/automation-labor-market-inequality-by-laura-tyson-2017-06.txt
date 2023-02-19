@@ -1,0 +1,54 @@
+<HEADLINE>
+Labor Markets in the Age of Automation
+<P>
+<P>
+BERKELEY – Advances in artificial intelligence and robotics are powering a new wave of automation, with machines matching or outperforming humans in a fast-growing range of tasks, including some that require complex cognitive capabilities and advanced degrees.
+This process has outpaced the expectations of experts; not surprisingly, its possible adverse effects on both the quantity and quality of employment have raised serious concerns.
+<P>
+To listen to President Donald Trump’s administration, one might think that trade remains the primary reason for the loss of manufacturing jobs in the United States.
+Trump’s treasury secretary, Steven Mnuchin, has declared that the possible technological displacement of workers is “not even on [the administration’s] radar screen.”
+<P>
+Among economists, however, the consensus is that about 80% of the loss in US manufacturing jobs over the last three decades was a result of labor-saving and productivity-enhancing technological change, with trade coming a distant second.
+The question, then, is whether we are headed toward a jobless future, in which technology leaves many unemployed, or a “good-jobless future,” in which a growing number of workers can no longer earn a middle-class income, regardless of their education and skills.
+<P>
+The answer may be some of both.
+The most recent major study on the topic found that, from 1990 to 2007, the penetration of industrial robots – defined as autonomous, automatically controlled, reprogrammable, and multipurpose machines – undermined both employment and wages.
+<P>
+Based on the study’s simulations, robots probably cost about 400,000 US jobs each year, many of them middle-income manufacturing jobs, especially in industries like automobiles, plastics, and pharmaceuticals.
+Of course, as a recent Economic Policy Institute report points out, these are not large numbers, relative to the overall size of the US labor market.
+But local job losses have had an impact: many of the most affected communities were in the Midwestern and southern states that voted for Trump, largely because of his protectionist, anti-trade promises.
+<P>
+As automation substitutes for labor in a growing number of occupations, the impact on the quantity and quality of jobs will intensify.
+And, as a recent McKinsey Global Institute study shows, there is plenty more room for such substitution.
+The study, which encompassed 46 countries and 80% of the global labor force, found that relatively few occupations – less than 5% – could be fully automated.
+But some 60% of all occupations could have at least 30% of their constitutive tasks or activities automated, based on current demonstrated technologies.
+<P>
+The activities most susceptible to automation in the near term are routine cognitive tasks like data collection and data processing, as well as routine manual and physical activities in structured, predictable environments.
+Such activities now account for 51% of US wages, and are most prevalent in sectors that employ large numbers of workers, including hotel and food services, manufacturing, and retail trade.
+<P>
+The McKinsey report also found a negative correlation between tasks’ wages and required skill levels on the one hand, and the potential for their automation on the other.
+On balance, automation reduces demand for low- and middle-skill labor in lower-paying routine tasks, while increasing demand for high-skill, high-earning labor performing abstract tasks that require technical and problem-solving skills.
+Simply put, technological change is skill-biased.
+<P>
+Over the last 30 years or so, skill-biased technological change has fueled the polarization of both employment and wages, with median workers facing real wage stagnation and non-college-educated workers suffering a significant decline in their real earnings.
+Such polarization fuels rising inequality in the distribution of labor income, which in turn drives growth in overall income inequality – a dynamic that many economists, from David Autor to Thomas Piketty, have emphasized.
+<P>
+As Michael Spence and I argue in a recent paper, skill-biased and labor-displacing intelligent machines and automation drive income inequality in several other ways, including winner-take-all effects that bring massive benefits to superstars and the luckiest few, as well as rents from imperfect competition and first-mover advantages in networked systems.
+Returns to digital capital tend to exceed the returns to physical capital and reflect power-law distributions, with an outsize share of returns again accruing to relatively few actors.
+<P>
+Technological change, Spence and I point out, has also had another inequality-enhancing consequence: it has “turbo-charged” globalization by enabling companies to source, monitor, and coordinate production processes at far-flung locations quickly and cheaply, in order to take advantage of lower labor costs.
+Given this, it is difficult to distinguish between the effects of technology and the effects of globalization on employment, wages, and income inequality in developed countries.
+<P>
+Our analysis concludes that the two forces reinforce each other, and have helped to fuel the rise in capital’s share of national income – a key variable in Piketty’s theory of wealth inequality.
+The April 2017 IMF World Economic Outlook reaches a similar conclusion, attributing about 50% of the 30-year decline in labor’s share of national income in the developed economies to the impact of technology.
+Globalization, the IMF estimates, contributed about half that much to the decline.
+<P>
+Mounting anxiety about the potential effects of increasingly intelligent tools on employment, wages, and income inequality has led to calls for policies to slow the pace of automation, such as a tax on robots.
+Such policies, however, would undermine innovation and productivity growth, the primary force behind rising living standards.
+<P>
+Rather than cage the golden goose of technological progress, policymakers should focus on measures that help those who are displaced, such as education and training programs, and income support and social safety nets, including wage insurance, lifetime retraining loans, and portable health and pension benefits.
+More progressive tax and transfer policies will also be needed, in order to ensure that the income and wealth gains from automation are more equitably shared.
+<P>
+Three years ago, I argued that whether the benefits of smart machines are distributed broadly will depend not on their design, but on the design of the policies surrounding them.
+Since then, I have not been alone.
+Unfortunately, Trump’s team hasn’t gotten the message.

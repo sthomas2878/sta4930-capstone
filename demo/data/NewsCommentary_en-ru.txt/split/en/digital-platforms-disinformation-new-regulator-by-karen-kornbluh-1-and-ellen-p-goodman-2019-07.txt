@@ -1,0 +1,64 @@
+<HEADLINE>
+How to Regulate the Internet
+<P>
+WASHINGTON, DC – The only topic uniting right and left in the United States these days is “techlash”: everyone seems to agree that the time has come for federal regulation of digital platforms.
+The question is no longer if, but how.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Nancy Pelosi, Speaker of the House of Representatives and the highest-ranking Democratic federal official, recently pushed back against her big-tech San Francisco constituency, declaring that “the era of self-regulation is over.”
+President Donald J. Trump is holding a summit on social media at the White House this week, and Republican Senator Josh Hawley of Missouri has introduced legislation threatening the platforms’ protection from immunity if they demonstrate “politically biased” moderation.
+<P>
+Politicians are channeling widespread public animosity toward digital platforms: according to a Pew Research Center poll, Americans regard disinformation as a bigger threat than violent crime.
+Yet, in sharp contrast to their European counterparts, US policymakers have so far shied away from regulation – out of concerns that the technology is too complex, or that effective measures would entail government censorship.
+The Federal Trade Commission (FTC) and Department of Justice (DOJ) between them have begun antitrust investigations of Facebook, Amazon, Google, and Apple, while the House Antitrust Subcommittee has also started investigations.
+But any antitrust suit would move slowly and be tough to win under current law.
+Moreover, without regulatory oversight, antitrust measures alone cannot address the vulnerabilities that threaten the flow of information necessary for democracy to function.
+<P>
+The digital platforms are media gatekeepers that shape news consumption, political expression, and civil-society allegiances.
+But, as US special counsel Robert Mueller documented, they allow bots, fake accounts, and click farms to influence users, and they outsource editorial functions to optimized algorithms that amplify outrage and conspiracy theories in order to keep users watching online ads.
+Fake content, like a recent doctored video of Pelosi, further corrupts the supply chain of news.
+And platforms mostly enforce their terms of service only after disinformation has gone viral.
+<P>
+To be sure, digital platforms’ technology and business practices are increasingly complex, and congressional hearings reveal widespread tech illiteracy among policymakers.
+But complexity didn’t stop the US from creating expert agencies like the Food and Drug Administration and the Nuclear Regulatory Commission to protect citizens’ safety.
+And in the realm of information and speech, the Federal Communications Commission has a history of safeguarding free expression from gatekeepers.
+<P>
+Now that America’s political class is willing to act, it should start by establishing an expert government regulatory body to safeguard the integrity of the information supply chain.
+We envisage a new Digital Democracy Agency (DDA) that would do what the digital giants have no incentive to do on their own: enhance transparency, improve user control, and help sustain local journalism.
+<P>
+The DDA would limit the vulnerabilities of the digital system without interfering in content decisions – in the same way that radio, television, cable, and telecommunications providers became more publicly accountable as they developed.
+Self-regulation played an important role, including through journalism’s own transparency norms.
+But government regulation – such as common-carrier rules for telecommunications companies, political ad disclosures, restrictions on cross-ownership of newspapers and broadcast outlets in the same market, and support for non-commercial broadcasting – was essential to prevent abuse.
+At least in broadcasting, media regulation created a public-interest culture and language.
+<P>
+For digital media gatekeepers, the DDA would mandate transparency about who is paying for online political ads, when a bot is a bot, and the identities of group hosts and websites posing as news outlets.
+It would help users understand how and why they and their fellow citizens have been targeted, and limit abusive surveillance.
+It would give users control over how their data is used and how algorithms serve up content.
+It would help users to protect themselves against fake videos and behavioral experiments.
+And it would focus on Internet infrastructure and other supports for accountability journalism.
+<P>
+To avoid the pitfalls of industrial-era US regulatory agencies – which tended to stifle innovation with overly prescriptive rules and to side with incumbents or other vested interests – the DDA would be structured for the twenty-first century.
+It would be a nimble regulator using agile software design, offering sufficient salaries to develop the necessary in-house technical capacity.
+And it would have strong post-employment lobbying prohibitions in order to prevent the emergence of a revolving door between government and the digital platforms.
+<P>
+The new body could work closely with US competition and privacy authorities at the FTC and DOJ, or be bundled together with them.
+Building on the example of the Consumer Financial Protection Bureau, the DDA would be transparent and collaborative, opening its data and processes to the public.
+And by setting standards and consistently measuring their effectiveness, the agency would be able to adapt as technology continues to evolve.
+<P>
+The DDA would not decide whether online content is true or false, or otherwise objectionable, but would instead focus on systemic vulnerabilities to disinformation.
+It would enforce democratic accountability by requiring large platforms to have clear content-takedown rules, disclosures for online ads, an appeals process for users, and access for public-interest researchers.
+It would require that platforms’ real-name policies entail some verification, and that trending topics confer the credibility that users assume.
+The DDA could also direct platforms to allow users to customize the algorithms that populate their newsfeeds.
+Given how platforms have siphoned off the revenue sources that once sustained local journalism, the agency might also create a fund to support such outlets.
+<P>
+Although digital platforms raise a host of complicated issues, the government has a duty to protect its citizens – as it already does in other, equally complex areas.
+As the US gears up for the 2020 presidential election, artificial intelligence presents ever-greater challenges to the information ecosystem.
+With the health of its democracy at stake, regulation has become necessary in the defense of freedom.

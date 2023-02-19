@@ -1,0 +1,62 @@
+<HEADLINE>
+The Upgrade Myth
+<P>
+NEW YORK – From the pocket calculator to the Prius, I’ve always been what they call an “early adopter.”
+I was a technology enthusiast, a lover of progress, eager to move into the future.
+No more.
+With the wisdom of age, I now concede the maxim of the occasional software engineer: motion is not progress.
+<P>
+Any engineering process involves a series of compromises between opposing, even warring, forces: performance versus efficiency, quality versus convenience, functionality versus simplicity, cost versus everything.
+What decides the outcome?
+The marketing department.
+An interesting, if pointless, diversion is to imagine how our world would be different if creators had not surrendered to advertisers.
+<P>
+Marketers tell us that endless iterations of word-processing software or smartphone apps are taking us forward, by “adding new features” and “improving the user experience.”
+More often than not, each new update and upgrade represents little improvement over the last.
+<P>
+Instead, new versions merely devour more memory – a tendency that has spawned the term “bloatware” – as they attempt to fix problems introduced by their predecessors, all while creating new problems, to be addressed the next time around.
+The axiom “If it ain’t broke, don’t fix it,” has been abandoned in favor of, “Release today, debug forever.”
+<P>
+The auto-upgrade mentality has also subverted what is certainly the foundational principle of engineering: “Form follows function,” tested over millennia, is now all but irrelevant.
+<P>
+Consider the modern public washroom, outfitted with automatic hand dryers, soap dispensers, toilets, and faucets.
+The marketers claim that these apparatuses are more environmentally friendly than their predecessors.
+While preserving the environment is a fine goal, squirming on a self-flushing toilet as it is triggered once, twice, or three times in a row fuels doubts about those efficiency claims.
+Likewise, sensor-operated faucets make it impossible to fill a water bottle – a more eco-friendly alternative to purchasing a new one.
+And the exclusive reliance on hand dryers complicates efforts to wash anything else, in particular, faces.
+<P>
+And it’s not just washrooms.
+It has been about two decades since whiteboards became de rigueur at universities.
+They were, we were told, supposed to address the danger that chalk dust posed to computers.
+That threat was hardly grave, and whiteboard markers are inferior to chalk in myriad ways.
+They are ten times more expensive, run dry quickly, and cannot be refilled.
+When the room temperature drops below about 12°C (or 53°F) – not as rare an occurrence as one might think – whiteboards can be erased only with a special board-cleaning agent.
+Replacing lecture time with erasure time, whiteboards cannot even claim a victory in convenience, the traditional bottom-line criterion of American design.
+<P>
+Convenience should be a choice, not a commandment.
+Ballpoint pens are more convenient than fountain pens, and infinitely cheaper, but they do not write as well; word processors are faster than both, but leave little space for precious contemplation.
+A Gillette cartridge may seem like the most convenient shaving option, but its double-edged predecessor shaves closer, lasts longer, and ultimately costs less, given the huge mark-up on cartridges that last but a week.
+<P>
+No wiser than sacrificing all to convenience (real or marketed) is equating convenience with functionality.
+Devices designed for a single job virtually always do that job better than a multipurpose contraption.
+But the once-exalted principle of simplicity has been superseded by a new credo: the package deal.
+<P>
+Word processors are no longer just word processors; they are one-stop shops for creating all manner of content, from graphs to webpages.
+They are not the best at anything, except perhaps dysfunction.
+<P>
+The process of setting up a home-theater system is enough to drive a person to madness.
+Receivers come with hundreds of pages of documentation, multiple remote controls, and too many options.
+There are a dozen functions for each knob – functions that most users will ever need.
+A nine-year-old might master the labyrinthine process; a physicist might not.
+The counterargument is that the cost to the manufacturer is the same for a complicated device as for a simple one – the chip does not change – which only goes to show that customer care has ended.
+<P>
+The triumph of functionality over simplicity is most apparent in the mobile phone, a product that has transformed how we do just about everything – except talk on the phone.
+My mother’s century-old house contains several generations of telephones; the best audio quality is found in a 1960-vintage wall phone with a dial.
+By comparison, modern mobile phones offer abysmal audio quality.
+Add to that a tendency to heat up over the course of conversation, and it seems that the mobile phone’s main impact on voice communication has been to discourage it.
+<P>
+Turning, finally, to death, the AK-47 has been the world’s most popular weapon for some 50 years.
+New generations of rifles simply can’t beat its reliability, resilience, and, yes, simplicity.
+This is not to say that it would be impossible to improve upon the weapon’s design, just as it isn’t to say that a wall phone built in 1960 is the best phone that could be built.
+But we will never do so if we allow ourselves to believe that newer, shinier, and more complex necessarily means better.
+The truth is that it often means just the opposite.

@@ -1,0 +1,58 @@
+<HEADLINE>
+Fighting the Next Global Financial Crisis
+<P>
+NEW HAVEN – What do people mean when they criticize generals for “fighting the last war”?
+It’s not that generals ever think they will face the same weapon systems and the same battlefields.
+They certainly know better.
+The error, to the extent that the generals make it, must operate at a more subtle level.
+Generals are sometimes slow to get around to developing plans and ordnance for those new weapon systems and battlefields.
+And, just as important, they sometimes assume that the public psychology and narratives that influence their soldiers' morale are the same as in the last war.
+<P>
+That is also true for regulators whose job is to prevent financial crises.
+For the same reasons, they may be slow to change in response to new situations.
+They tend to adapt only gradually to changing public psychology.
+The need for regulation depends on public perceptions of the last crisis, and, as George Akerlof and I argued in Animal Spirits, these perceptions depend heavily on changing popular narratives.
+<P>
+The latest progress reports from the Financial Stability Board (FSB) in Basel outline definite improvements in stability-enhancing financial regulations in 24 of the world’s largest economies.
+Their “Dashboard” tabulates progress in 14 different regulatory areas.
+For example, the FSB gives high marks for all 24 countries in implementing the Basel III risk-based capital requirements.
+<P>
+But the situation is not altogether reassuring.
+These risk-based capital requirements may not be high enough, as Anat Admati and Martin Hellwig argued in their influential book The Bankers New Clothes.
+And there has been much less progress in a dozen other regulatory areas that the FSB tabulates.
+<P>
+Consider, for example, regulations regarding money market funds, which, according to the FSB, only a few countries have developed since 2008.
+Money market funds are an alternative to banks for storing one’s money, offering somewhat higher interest rates, but without the insurance that protects bank deposits in many countries.
+As with bank deposits, investors can take their money out at any time.
+And, like bank deposits, the funds are potentially subject to a run if a large number of people try to withdraw their money at the same time.
+<P>
+On September 16, 2008, a few days after the run on the US bank Washington Mutual began and the day after the Lehman Brothers bankruptcy was announced, a major United States money market fund, Reserve Primary Fund, which had invested in Lehman debt, was in serious trouble.
+With assets totaling less than it owed to investors, the fund seemed to be on the verge of a run.
+As panic rose among the public, the federal government, fearing a major run on other money market funds, guaranteed all such funds for one year, starting September 19, 2008.
+<P>
+The reason why this run was so alarming as to require unprecedented government support stems from the narratives underlying it.
+In fact, the Reserve Primary Fund did not lose everything.
+It merely “broke the buck,” meaning that it couldn’t pay one dollar for a dollar on the books; but it could still pay $0.97.
+So why a crisis?
+After all, bank depositors regularly lose more when unexpected inflation erodes their savings’ real purchasing power (only the nominal value of those deposits is insured).
+But the narratives don’t focus on that.
+The loss of real value due to inflation hasn’t been a prominent theme of the public narrative in the US for decades, because sustained price stability has caused people to forget about it.
+<P>
+But they hadn’t forgotten about the Great Depression of the 1930s, even though most people alive today weren’t alive then.
+In 2008, the Great Depression narrative was being recycled everywhere, with all its colorful stories of financial panic and angry crowds forming around closed banks.
+Moreover, trusted authorities had seemed to say again and again that such events were historically remote and could not happen again.
+In the 2008 angry zeitgeist, the public reaction to a relatively minor event took on stunning proportions.
+<P>
+It took almost six years after the crisis for the US Securities and Exchange Commission to reduce money market funds’ vulnerability, by requiring in 2014 a “floating NAV” (net asset value), which means that prime money market funds no longer promise to pay out a dollar for a dollar’s nominal value.
+They will pay out whatever the depositor’s share in the accounts is.
+This does not insure the funds’ investors against losses.
+Yet this plausibly will help prevent runs because it means sudden withdrawals by some won’t damage the accounts of others who did not withdraw.
+<P>
+The international regulatory framework has changed for the better since 2008, but no such changes can anticipate all the kinds of change in narratives that underlie public animal spirits.
+Regulators could have imposed a floating NAV decades ago; they didn’t because they didn’t foresee a narrative that would make money market funds unstable.
+Regulatory authorities could not have been expected to predict the sudden public attention to the newly discovered risk of runs on nonbank financial companies.
+<P>
+As long as we have an economic system that produces growth by rewarding inspired actors and investors, we will face the risk that adverse talk and stories can suddenly and temporarily overwhelm the inspiration.
+Regulators must counter the risks implied by structures that are intrinsically destabilizing, as the money market funds were.
+But the most urgent regulations will always be time- and context-specific, because narratives change.
+And how these narratives resonate with the public may once again reveal chinks in our financial armor.

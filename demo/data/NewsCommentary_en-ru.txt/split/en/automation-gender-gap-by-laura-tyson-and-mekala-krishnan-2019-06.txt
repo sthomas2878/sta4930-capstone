@@ -1,0 +1,61 @@
+<HEADLINE>
+What Automation Means for the Gender Gap
+<P>
+BERKELEY – Recent trends, and the broader history of technological change, indicate that automation will usher in major shifts in labor markets over the next decade, displacing millions of workers but also creating millions of new jobs that require new skills.
+The McKinsey Global Institute, having documented these changes for several years, has produced a new report examining how automation might affect men and women differently.
+A key conclusion of the study is that persistent gender disparities in the workplace, as documented in a previous MGI report, will make it more difficult for women than for men to adapt to the coming changes in labor demand, skill requirements, and employment locations.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Based on a sample of six mature and four emerging economies – accounting for around half the world’s population and 60% of global GDP – MGI estimates that the share of women whose jobs will be displaced (20%) is slightly smaller than that of men (21%).
+Gender differences in the patterns of displacement, however, will be significant.
+<P>
+Both routine physical and routine cognitive tasks are highly automatable.
+Because men are more highly represented in routine physical occupations (such as machine operators), 40% of their overall job losses will fall into this category.
+By contrast, 52% of female job losses will be in routine cognitive jobs (such as clerical work), owing to women’s higher representation in this domain.
+<P>
+Even with automation, the overall demand for workers will increase alongside rising productivity.
+Rising incomes; the growing demand for health care, childcare, and elder care in aging societies; and investments in infrastructure, energy, and technology will create new job opportunities.
+Given the sectoral and occupational distribution of these opportunities, women may be slightly better placed to take advantage of them.
+<P>
+Assuming that current gender occupational and sectoral patterns hold, women could have access to 20% more jobs than they do today, compared to 19% for men.
+This slight advantage for women reflects the robust growth that is expected in sectors like health care, where women are well represented.
+In fact, in many countries, women account for over 70% of health-care and social-assistance workers, and this sector could comprise one-quarter of future job opportunities for women (manufacturing will account for a similar share of potential job gains for men).
+In mature economies, health care is one of only two sectors in which job growth is likely to be strong, the other being professional and technical services, where women are underrepresented.
+<P>
+Depending on the pace of automation, 7-24% of women currently employed (between 40 million and 160 million women worldwide) may need to switch occupations, compared to 8-28% of men.
+In mature economies, more women than men work in lower-paid occupations.
+In the coming years, demand for high-wage labor will likely grow, while demand for low- and middle-skill labor will contract.
+Middle-skill jobs, particularly those held by men, are the most vulnerable.
+<P>
+Finally, for both men and women in mature economies, net labor demand in existing occupations and sectors (new opportunities minus displacement) is expected to expand only for jobs requiring a college or advanced degree, though it will increase across all educational levels in emerging economies.
+There will also be jobs created in occupations that do not yet exist, but – historically and in terms of the US – around 60% of these have been in male-dominated fields.
+<P>
+If women can take advantage of opportunities to move to new jobs, they will maintain or even increase their current share of employment; if they cannot, already large gender inequalities could get worse.
+The good news is that women in both mature and emerging economies have made significant strides in closing educational gender gaps.
+The bad news is that many women in emerging economies still work in subsistence agriculture, and thus have little education and limited skills with which to make the transition to new occupations.
+<P>
+In mature economies, women are generally graduating from college at rates equal to or higher than those of men; but whether women are equipping themselves with the skills that will be in demand is an open question.
+An MGI study in 2018 found that in Europe and the United States, the average job in 2030 could require up to 55% more time using technical skills.
+Yet this is one educational area where women still lag far behind men.
+According to one study, women globally account for only 35% of STEM (science, technology, engineering, math) students in higher education; and, within STEM fields, women tend to study natural sciences rather than applied sciences related to information and communication technologies.
+<P>
+To fill the jobs of the future, men and women alike will need both the flexibility to move across jobs, sectors, occupations, and locales, as well as the technical skills and knowledge to work with automated systems and intelligent machines.
+As such, women will face powerful structural and social constraints, including pervasive stereotypes that limit their opportunities for mobility and the acquisition of skills.
+Many women bear the double burden of paid work and unpaid household labor, which reduces the time they have to train and seek new opportunities.
+Women are also less mobile than men, owing to family responsibilities, safety concerns, legal barriers, and limitations on their access to digital technologies in many countries.
+<P>
+Given these hurdles, a strong case can be made for investing in skills programs tailored to women.
+Fortunately, there are already non-profits from Afghanistan to the US training women and girls to code and acquire related technical skills.
+In China, the All-China Women’s Federation cooperates with private-sector companies such as Alibaba to provide training and networking for women, especially in the e-commerce and technology sectors.
+The growth of digital learning platforms is enabling women to train while staying close to home, as is often necessary to meet household responsibilities such as elder- and childcare.
+<P>
+Nonetheless, more creative interventions by businesses and governments will be needed to ensure that women are equipped for the jobs and opportunities of the future.
+Without concerted action, the coming automation wave will reproduce today’s persistent gender inequalities, potentially leaving women even further behind.

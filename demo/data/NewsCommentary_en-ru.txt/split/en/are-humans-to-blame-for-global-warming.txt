@@ -1,0 +1,50 @@
+<HEADLINE>
+Are Humans to Blame for Global Warming?
+<P>
+Global warming is an environmental, economic, scientific, and political problem of the first order, and one doubly difficult to address because its dangers lie decades in the future.
+So if we are to act now to head it off, we must first scrutinize what is known about the nature of the threat.
+Should we place our faith in the Kyoto Treaty, which sets firm limits on human emissions of so-called greenhouse gases?
+Or is the US administration right to reject the Kyoto Treaty, because targeting emissions is based on "bad science"?
+<P>
+Circumstantial evidence does indeed point to our profligate burning of fossil fuels and perhaps also to its impact on global warming.
+Since 1900 the global temperature of the Earth's atmosphere and ocean surface waters has risen by 0.5-1 degree Celsius, and the prime suspect is atmospheric carbon dioxide, CO2, which is second only to water vapor in its greenhouse effect.
+Since 1860, when the industrial revolution and soaring population growth led to widespread consumption of fossil fuels, the volume of atmospheric CO2 has increased by about 28%.
+<P>
+The increase began slowly, rising from 290 parts per million in 1860 to 295 ppm in 1900.
+But it then accelerated rapidly, reaching 310 ppm in 1950 and 370 ppm in 2000, with half of the total gain of 80 ppm occurring just since 1975.
+Numerical global climate models suggest that a doubling of the current atmospheric accumulation of CO2 will produce further warming of 3-5 degrees Celsius, perhaps as soon as 2050.
+<P>
+The consequences of this would be devastating: inland areas desiccated, low-lying coastal regions battered and flooded as polar ice melts and sea levels rise, and possibly further warming and a runaway greenhouse effect due to an increase in atmospheric water vapor.
+The only rational course of action would seem to be to curtail global consumption of fossil fuels, as the Kyoto Treaty's proponents contend, and invest in alternative energy sources.
+<P>
+But while researchers created impressive global climate models in recent years, they are the first to admit that such models can include only a fraction of the many physical forces that together determine the climate and global mean temperature.
+For example, studies during the past 20 years have shown that changes in solar magnetic activity cause the Sun's brightness to vary by 0.1%, and that the average annual temperature in the northern Temperate Zone has tracked the level of solar activity over the last 1,000 years.
+<P>
+Indeed, monitoring of other solar-type stars has revealed one whose brightness decreased by 0.5% in a period of 5 years, during which its magnetic activity declined sharply, suggesting that the Sun behaves similarly.
+Core samples from the Greenland ice cap, for example, show occasional sudden drops in temperature.
+Contrary to what climate models focusing on greenhouse gas emissions would predict, the samples show that a decline in atmospheric CO2 followed, rather than preceded, these frigid intervals.
+<P>
+What, then, is responsible for global warming so far?
+A safe bet is that from 1900 until 1950, global warming was driven mainly by the solar brightening, as solar magnetic activity increased by a factor of two or three during this period.
+Atmospheric CO2 could not have been a major contributor, because it had increased by only about 7% before 1950, when the warming leveled off for a couple of decades.
+After 1950, however, solar activity showed no significant rise, while atmospheric CO2 increased by 20%, accounting for the warming from 1970 to 2000.
+Atmospheric CO2 is therefore presumably the controlling factor for the coming century as well.
+<P>
+But this does not mean that human emissions are responsible for the growing accumulation of atmospheric CO2.
+The atmosphere contains about 750 gigatons of CO2, while total annual human emission is approximately 5.5 Gt, thus adding annually roughly 0.7% of the total.
+However, there is also an estimated exchange of 90 Gt per year between the atmosphere and the oceans.
+This means that Human CO2 emissions do not simply linger and accumulate in the atmosphere.
+They are rapidly distributed to the ocean surface, so that atmospheric CO2 remains at an equilibrium level.
+<P>
+This equilibrium is, in turn, determined by the temperature of ocean surface water.
+So it is plausible that the solar-driven ocean warming between 1900 and 1950 started things off by shifting the equilibrium toward higher concentrations of CO2 in the atmosphere, accelerating global warming since then.
+So, while our own contribution of CO2 is not helping matters, it hardly seems to be the determining factor.
+On the available evidence, then, skeptics of the Kyoto Treaty appear to have a powerful case.
+<P>
+Yet the threat posed by global warming is nonetheless real, and focusing on human CO2 emissions is not necessarily "bad science," just incomplete science.
+For example, aside from solar magnetic activity, the Sun affects the Earth's climate in several other ways, including ultraviolet warming of the upper stratosphere, the nucleation of aerosols, and cloud formation.
+The climate is also subject to the rate of water vapor exchange between the atmosphere and Earth's surface, which requires taking into account ocean currents, wind, and geography.
+<P>
+All of these contributing effects must be understood quantitatively in order to produce an accurate model of global climate change and we remain far from that point.
+So the only rational response is to research aggressively into the many unknown factors: the physics of cloud formation, the dynamic coupling of the upper stratosphere to the lower atmosphere, the accumulation of atmospheric water vapor.
+If effective solutions are to be found, they must await a fuller definition of the problem.

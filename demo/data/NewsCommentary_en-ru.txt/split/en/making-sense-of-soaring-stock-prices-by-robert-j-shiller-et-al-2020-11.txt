@@ -1,0 +1,62 @@
+<HEADLINE>
+Making Sense of Sky-High Stock Prices
+<P>
+NEW HAVEN/NEW YORK/LONDON – There has been much puzzlement that the world’s stock markets haven’t collapsed in the face of the COVID-19 pandemic, and especially in the United States, which has recently been setting record highs for new cases.
+But maybe it isn’t such a puzzle.
+A measure we call the Excess CAPE Yield (ECY) puts the long-term outlook for the world’s stock markets in better perspective.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Indisputably, asset markets are substantially driven by psychology and narratives.
+As the Nobel laureate Daniel Kahneman wrote, “familiarity breeds liking,” and several familiar narratives have emerged in the world’s stock markets this year, following the initial COVID-19 shock in the first quarter.
+For example, there is the V-shaped recovery narrative and the FOMO (fear of missing out) narrative; both might be helping to drive markets to new highs.
+There is also the work-from-home narrative, which has specifically benefited technology and communication stocks.
+<P>
+But are these narratives the only reason why all of us have not considered just pulling our money out of stocks and putting it into safer alternatives such as bonds, or even under the mattress at home?
+<P>
+The cyclically adjusted price-to-earnings (CAPE) ratio, which captures the ratio of the real (inflation-adjusted) share price to the ten-year average of real earnings per share, appears to forecast real long-term stock-market returns well in five influential world regions.
+When the CAPE ratio is high, long-term returns tend to be low over the next ten years, and vice versa.
+Since the COVID-19 shock, CAPE ratios have mostly recovered to their pre-pandemic levels.
+<P>
+For example, the US CAPE ratio in November 2020 is 33, exceeding its level prior to the start of the COVID-19 pandemic; in fact, it is now back to the same level as the high of 33 in January 2018.
+There are only two other periods when the CAPE ratio in the US was above 30: the late 1920s and the early 2000s.
+<P>
+China’s CAPE ratio is also higher than it was prior to the pandemic.
+The stock markets in both regions are skewed toward the technology, communication services, and consumer discretionary sectors, all of which have benefited from the major narratives of the COVID-19 pandemic, which may partly explain their higher CAPE ratios relative to other regions.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+As for Europe and Japan, their CAPE ratios are largely back at their pre-COVID-19 levels, while only the United Kingdom is still well below its pre-pandemic level and longer-term average.
+Notably, these regions have lower exposure to the technology, communication services, and consumer discretionary sectors.
+<P>
+Market observers have noted the potential role of low interest rates in pushing up CAPE ratios.
+In traditional financial theory, interest rates are a key component of valuation models.
+When interest rates fall, the discount rate used in these models decreases and the price of the equity asset should appreciate, assuming all other model inputs stay constant.
+So, interest-rate cuts by central banks may be used to justify higher equity prices and CAPE ratios.
+<P>
+Thus, the level of interest rates is an increasingly important element to consider when valuing equities.
+To capture these effects and compare investments in stocks versus bonds, we developed the ECY, which considers both equity valuation and interest-rate levels.
+To calculate the ECY, we simply invert the CAPE ratio to get a yield and then subtract the ten-year real interest rate.
+<P>
+This measure is somewhat like the equity market premium and is a useful way to consider the interplay of long-term valuations and interest rates.
+A higher measure indicates that equities are more attractive.
+The ECY in the US, for example, is 4%, derived from a CAPE yield of 3% and then subtracting a ten-year real interest rate of -1.0% (adjusted using the preceding ten years’ average inflation rate of 2%).
+<P>
+We looked back in time for our five world regions – up to 40 years, where the data would allow – and found some striking results.
+The ECY is close to its highs across all regions and is at all-time highs for both the UK and Japan.
+The ECY for the UK is almost 10%, and around 6% for Europe and Japan.
+Our data for China do not go back as far, though China’s ECY is somewhat elevated, at about 5%.
+This indicates that, worldwide, equities are highly attractive relative to bonds right now.
+<P>
+The only other time ECYs were this high using our global data was in the early 1980s.
+That period was characterized by depressed equities with cheap valuations, high interest rates, and high inflation.
+CAPE ratios for the five regions were in the low teens back then, compared with levels in the twenties and thirties now.
+These conditions are almost the opposite of what we see today: expensive equities and exceptionally low real interest rates.
+<P>
+We cannot know how the COVID-19 pandemic will end, and it may well end soon with the advent of effective vaccines.
+But a key takeaway of the ECY indicator is that it confirms the relative attractiveness of equities, particularly given a potentially protracted period of low interest rates.
+It may justify the FOMO narrative and go some way toward explaining the strong investor preference for equities since March.
+<P>
+Eventually, down the line, bond yields may just rise, and equity valuations may also have to reset alongside yields.
+But, at this point, despite the risks and the high CAPE ratios, stock-market valuations may not be as absurd as some people think.

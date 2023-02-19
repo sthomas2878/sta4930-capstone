@@ -1,0 +1,63 @@
+<HEADLINE>
+Mapping the Future of AI
+<P>
+<P>
+BRIGHTON – Artificial intelligence already plays a major role in human economies and societies, and it will play an even bigger role in the coming years.
+To ponder the future of AI is thus to acknowledge that the future is AI.
+<P>
+This will be partly owing to advances in “deep learning,” which uses multilayer neural networks that were first theorized in the 1980s.
+With today’s greater computing power and storage, deep learning is now a practical possibility, and a deep-learning application gained worldwide attention in 2016 by beating the world champion in Go.
+Commercial enterprises and governments alike hope to adapt the technology to find useful patterns in “Big Data” of all kinds.
+<P>
+In 2011, IBM’s Watson marked another AI watershed, by beating two previous champions in Jeopardy!, a game that combines general knowledge with lateral thinking.
+And yet another significant development is the emerging “Internet of Things,” which will continue to grow as more gadgets, home appliances, wearable devices, and publicly-sited sensors become connected and begin to broadcast messages around the clock.
+Big Brother won’t be watching you; but a trillion little brothers might be.
+<P>
+Beyond these innovations, we can expect to see countless more examples of what were once called “expert systems”: AI applications that aid, or even replace, human professionals in various specialties.
+Similarly, robots will be able to perform tasks that could not be automated before.
+Already, robots can carry out virtually every role that humans once filled on a warehouse floor.
+<P>
+Given this trend, it is not surprising that some people foresee a point known as the “Singularity,” when AI systems will exceed human intelligence, by intelligently improving themselves.
+At that point, whether it is in 2030 or at the end of this century, the robots will truly have taken over, and AI will consign war, poverty, disease, and even death to the past.
+<P>
+To all of this, I say: Dream on.
+Artificial general intelligence (AGI) is still a pipe dream.
+It’s simply too difficult to master.
+And while it may be achieved one of these days, it is certainly not in our foreseeable future.
+<P>
+But there are still major developments on the horizon, many of which will give us hope for the future.
+For example, AI can make reliable legal advice available to more people, and at a very low cost.
+And it can help us tackle currently incurable diseases and expand access to credible medical advice, without requiring additional medical specialists.
+<P>
+In other areas, we should be prudently pessimistic – not to say dystopian – about the future.
+AI has worrying implications for the military, individual privacy, and employment.
+Automated weapons already exist, and they could eventually be capable of autonomous target selection.
+As Big Data becomes more accessible to governments and multinational corporations, our personal information is being increasingly compromised.
+And as AI takes over more routine activities, many professionals will be deskilled and displaced.
+The nature of work itself will change, and we may need to consider providing a “universal income,” assuming there is still a sufficient tax base through which to fund it.
+<P>
+A different but equally troubling implication of AI is that it could become a substitute for one-on-one human contact.
+To take a trivial example, think about the annoyance of trying to reach a real person on the phone, only to be passed along from one automated menu to another.
+Sometimes, this is vexing simply because you cannot get the answer you need without the intervention of human intelligence.
+Or, it may be emotionally frustrating, because you are barred from expressing your feelings to a fellow human being, who would understand, and might even share your sentiments.
+<P>
+Other examples are less trivial, and I am particularly worried about computers being used as “carers” or “companions” for elderly people.
+To be sure, AI systems that are linked to the Internet and furnished with personalized apps could inform and entertain a lonely person, as well as monitor their vital signs and alert physicians or family members when necessary.
+Domestic robots could prove to be very useful for fetching food from the fridge and completing other household tasks.
+But whether an AI system can provide genuine care or companionship is another matter altogether.
+<P>
+Those who believe that this is possible assume that natural-language processing will be up to the task.
+But “the task” would include having emotionally-laden conversations about people’s personal memories.
+While an AI system might be able to recognize a limited range of emotions in someone’s vocabulary, intonation, pauses, or facial expressions, it will never be able to match an appropriate human response.
+It might say, “I’m sorry you’re sad about that,” or, “What a lovely thing to have happened!”
+But either phrase would be literally meaningless.
+A demented person could be “comforted” by such words, but at what cost to their human dignity?
+<P>
+The alternative, of course, is to keep humans in these roles.
+Rather than replacing humans, robots can be human aids.
+Today, many human-to-human jobs that involve physical and emotional caretaking are undervalued.
+Ideally, these jobs will gain more respect and remuneration in the future.
+<P>
+But perhaps that is wishful thinking.
+Ultimately, the future of AI – our AI future – is bright.
+But the brighter it becomes, the more shadows it will cast.

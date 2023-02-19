@@ -1,0 +1,67 @@
+<HEADLINE>
+Don’t Bank on Bankruptcy for Banks
+<P>
+CAMBRIDGE – In the next month, the US Treasury Department is expected to decide whether to seek to replace the 2010 Dodd-Frank Act’s regulator-led process for resolving failed mega-banks with a solely court-based mechanism.
+Such a change would be a mistake of potentially crisis-size proportions.
+<P>
+Yes, creating a more streamlined bankruptcy process can reduce the decibel level of a bank’s failure, and bankruptcy judges are experts at important restructuring tasks.
+But there are critical factors that cannot be ignored.
+Restructuring a mega-bank requires pre-planning, familiarity with the bank’s strengths and weaknesses, knowledge of how to time the bankruptcy properly in a volatile economy, and the capacity to coordinate with foreign regulators.
+<P>
+The courts cannot fulfill these tasks alone, especially in the time the proposal under consideration has allotted – a 48-hour weekend.
+Unable to plan ahead, the courts would enter into the restructuring process unfamiliar with the bank.
+Moreover, the courts cannot manage the kind of economy-wide crisis that would arise if multiple mega-banks sank simultaneously.
+And they cannot coordinate with foreign regulators.
+<P>
+In short, completing a proper restructuring would require contributions from regulators, including pre-planning, advice, and coordination.
+Yet, far from accepting these contributions, the plan would largely cut regulators out of the process.
+<P>
+For example, the plan would bar regulators from initiating a mega-bank’s bankruptcy, leaving it to the discretion of the bank’s own managers.
+In the nonfinancial sector, failing companies often wait too long before declaring bankruptcy, so creditors may step in to do some pushing, potentially even forcing a bankruptcy of a failed firm.
+While bank regulators have tools to push banks similarly, their most effective one is the power to initiate a bankruptcy when it is best for the economy.
+<P>
+Taking this tool away could have severe adverse consequences.
+Bank executives, like sinking industrial firm executives, have reason to “pray and delay,” hoping that some new development will save them.
+But if a failing mega-bank runs out of cash during such a delay, the risk that its bankruptcy will be disorderly – as with Lehman Brothers in 2008 – rises, as does the potential that it will wreak havoc on the real economy.
+<P>
+The simple fact is that government regulators can do things that courts cannot.
+Courts lack the staff and expertise to come up with a nation-wide recovery plan.
+Moreover, they cannot lend to a cash-poor wobbly bank until it can stand on its own.
+The government can do that – and it can make sure that either the bank will repay the loans (by getting good collateral) or that the financial sector overall will cover the repayment (as Dodd-Frank authorized and required).
+<P>
+When courts preside over nonfinancial bankruptcies, they depend on private lenders to provide emergency liquidity.
+But in a financial crisis, weakened banks cannot lend, meaning that the government must serve as the lender of last resort.
+And to play that role well, the government must be deeply involved in the bankruptcy process, so that it can jump in if needed.
+<P>
+The current proposal, which the US House of Representatives has already passed, has other major flaws.
+For starters, American mega-banks operate worldwide, typically with a significant presence in London and other financial centers.
+If creditors and depositors of a failed American mega-bank’s foreign affiliate run off with the cash they held there, or if a foreign regulator shuts down that affiliate, the US bank would be in an untenable position.
+Yet courts cannot negotiate understandings with foreign regulators.
+American regulators can, but only if they can control the timing of the bankruptcy, and otherwise engage in the process.
+<P>
+To be sure, the bankruptcy bill now in play is useful.
+But it is not robust.
+It would not allow broad-spectrum, full-scale bankruptcies, in which failing operations are closed under the court’s aegis, viable operations are sold, and debts are restructured up and down a company’s balance sheet.
+Rather, the current proposal envisages a limited-scale weekend restructuring, requiring that a precise loan structure be put in place years ahead of time.
+The bank would be closed on Friday evening, unburdened of pre-positioned evaporating debts over the weekend, and reopened on Monday morning, without (in the best-case scenario) needing a government bailout.
+<P>
+If successful, this kind of rapid-fire bankruptcy process would be valuable.
+But it has never been tried.
+To have any chance of re-opening on Monday morning, a bankrupt bank’s billions of dollars in long-term debt would already have to be structured in such a way that a bankruptcy court could eliminate it over a weekend.
+<P>
+But bankruptcy judges would have no knowledge in advance of a bank’s debt, and they would need more than a weekend to determine whether that debt could be properly stripped out.
+Government regulators, on the other hand, could do this in advance.
+And yet, under the current proposal, their official means of doing so would be sharply rolled back.
+<P>
+Bankruptcy, if it works, is a good way for a failing firm to restructure or shrink.
+But if a failing mega-bank cannot open on Monday morning, the financial system will need backup.
+Under the current proposal, the absence of a regulatory safety net could result, if the weekend restructuring fails, in a global chaotic free-for-all, just like the one that followed the 2008 Lehman Brothers bankruptcy.
+<P>
+Maintaining financial stability in a crisis is too important for us to pin our hopes on a narrow bankruptcy channel.
+The courts can help, especially after they have developed a routinized process for restructuring banks, as they have done with airline restructurings.
+But we should be wary about relying on courts to do things they have never been asked to do before.
+<P>
+The House already voted, precipitously, to replace the regulator-led restructuring system with a weaker court-led setup.
+Let’s hope that wiser heads at the Treasury Department prevail.
+<P>
+A letter to Congress with a similar conclusion was signed by 120 academics with expertise in bankruptcy, banking regulation, finance, or all three.

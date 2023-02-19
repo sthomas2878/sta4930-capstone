@@ -1,0 +1,67 @@
+<HEADLINE>
+The Priority for the Social-Distancing Period
+<P>
+MILAN – The coronavirus has a chokehold on the global economy.
+Like many friends and colleagues in China, I, too, have been locked down, along with the rest of Italy.
+Many of my fellow citizens in the United States are now in the same situation; others around the world will follow suit soon enough.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Because the virus can apparently be transmitted by those without symptoms, it has spread widely and under the radar of public-health authorities.
+To prevent health systems from being overwhelmed, aggressive social-distancing and self-isolation measures have been broadly implemented and accepted by the public.
+Whether they will slow the rate of transmission and limit the number of critical cases in the West remains to be seen.
+<P>
+Evidence that the epidemic has been curtailed or even contained in China and some other Asian economies is promising.
+These countries, however, relied not just on social distancing, but also on a vast array of tools that have not been extensively deployed in Europe and the US: widespread testing, contact tracing, mandated isolation, and so forth.
+<P>
+Everywhere, however, measures to mitigate the pandemic have produced a sudden stop to much economic activity, with essential services often among the only sectors exempted.
+The result will be a sharp drop in GDP and incomes, a near-certain spike in unemployment (as already seen in the US), a disrupted school calendar, and the suspension of pretty much any activity involving gatherings of more than a few people.
+<P>
+For some, videoconferencing, online education, and other digital applications have cushioned the blow.
+But the inevitable economic outcome will be a deep recession and far-reaching collateral damage to people’s livelihoods and wellbeing.
+<P>
+Locking down the economy is correctly viewed as a way to buy time to expand capacity and reduce the peak-load demand on health systems.
+But it is not a complete strategy.
+Even when combined with monetary accommodation and a large fiscal program geared toward protecting vulnerable people and sectors, an economic deep freeze cannot be sustained without eventually imposing unacceptable costs on individuals and society.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Large portions of the modern economy – not least restaurants, retail, theatres, sporting events, museums, parks, and many forms of tourism and transportation (such as air travel) – simply cannot operate under conditions of social distancing.
+These sectors account for a significant share of total employment.
+Other large sectors can still function, but not on all cylinders.
+<P>
+The question, then, is what can be done now to ensure that the recovery and return to normalcy happens as safely as possible.
+A lockdown of an economically tolerable duration cannot in itself reduce the risks associated with interpersonal interactions.
+Within a number of weeks – say four to six – the economic costs of the lockdown will start to mount, at which point some group of people will start returning to work if there is any to be had, simply because they have no choice.
+(For many poor people in India, where the economy was locked down this week, the crisis will be immediate.)
+Though the risks of infection will remain high, they will not have the resources to remain isolated.
+At the same time, although the costs of closing schools for long periods are very high, schools will not or should not reopen until the risks of a coronavirus resurgence are low to nil.
+<P>
+The speed and safety of the recovery thus will depend critically on whether the risks of group activities have been lowered sufficiently.
+One important element of risk reduction concerns health-system capacity.
+The current focus on adequately equipping and protecting doctors and medical staff with what they need to provide critical care is therefore entirely justified.
+<P>
+But these front-line efforts will not reduce the risks of interpersonal contact more generally.
+To do that, we must use the lockdown period to expand the capacity for testing, contact tracing, isolation, and treatment.
+<P>
+Here, a March 25 briefing from Tedros Adhanom Ghebreyesus, the director-general of the World Health Organization, is well worth reading.
+“Asking people to stay at home and shutting down population movement is buying time and reducing the pressure on health systems,” Ghebreyesus explains.
+“But on their own, these measures will not extinguish epidemics.
+The point of these actions is to enable the more precise and targeted measures that are needed to stop transmission and save lives.”
+If I were amending this clear statement of purpose, focused on health, I would only add to that last sentence: “… and to reduce infection risks, restart the economy, and accelerate the recovery.”
+<P>
+After explaining what those more precise and targeted measures require, Ghebreyesus added that exactly the same steps will be required in countries – including many developing, lower-income economies – that still have low infection counts.
+We can already foresee that some of these countries will need external assistance to prepare for domestic outbreaks.
+International cooperation and support are thus crucial for managing the crisis at the global level.
+<P>
+In any case, the key point is that the steps needed to restart the economy are the same as those needed to slow the transmission of the virus.
+As we anticipate the end of aggressive social distancing, building the capacity for testing, contact tracing, isolation, and treatment becomes an urgent economic priority.
+We absolutely must drive down the risks of interpersonal contact so that those who feel they must return to work can do so, and so that those inclined to self-isolate voluntarily can return to schools and full economic activity, feeling relatively safe.
+<P>
+The Asian cases suggest that digital technologies are effective tools for targeting and monitoring infections, and for keeping people and authorities informed about risks.
+Some of the most effective techniques rely on location data and may raise privacy concerns in some countries.
+But given the scale of the challenge, these methods should not be dismissed out of hand.
+The platforms already have location data that could be used to inform citizens of potential exposure.
+After all, digital infrastructure has already proven to be a key source of economic resilience in this crisis.
+Without it, remote working and schooling, e-commerce, and digital financial services would not be possible, and aggressive social distancing would have already brought the economy to a near-complete halt.

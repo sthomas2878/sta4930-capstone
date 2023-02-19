@@ -1,0 +1,52 @@
+<HEADLINE>
+The Brexit of UK Banking
+<P>
+LONDON – When I became the head of banking supervision in the United Kingdom in the mid-1990s, my friends did not see it as a glamorous or exciting career move.
+Banking regulation was an obscure task, like cleaning sewers: essential, perhaps, but hardly front-page news.
+Expressions of curiosity about how I spent my working hours were typically a sign of friendly politeness rather than genuine interest.
+<P>
+Twenty years later, the structure of banking regulation in Europe has risen to the top of the political agenda in London.
+It is one of the key points in Prime Minister David Cameron’s renegotiation of the UK’s terms of membership of the European Union.
+<P>
+One of Cameron’s four major demands of the EU is a national derogation from elements of the uniform rulebook which the European Central Bank is seeking to introduce in the eurozone’s banking union to ensure a consistent approach across countries.
+The French and others fear that this derogation could permit the UK, in search of competitive advantage, to loosen financial regulation in London, even though recent evidence suggests that bank capital requirements, and other controls on banks’ activities, are in fact now tighter in London than elsewhere in Europe.
+For example, there is no European equivalent of the British requirement to “ring-fence” retail and commercial banking, and the French and German governments’ opposition suggests that there is unlikely to be one.
+<P>
+Of course, the reason why banking supervision – and financial regulation more generally – has higher political salience now is obvious: The financial crisis of 2008 showed that bank failures could have catastrophic consequences for the economy as a whole.
+<P>
+That crisis followed a period during which the financial sector grew dramatically, especially in Europe.
+The bank-market ratio – the size of the banking sector relative to the size of equity and bond markets – roughly doubled in the UK and Germany in little more than a decade, while the ratio remained stable in the US, and at a much lower level.
+<P>
+The difference is particularly marked in the eurozone, where two-thirds of non-financial firms’ external financing comes from bank loans.
+The comparable figure is nearer 20% in the US, where, as in the UK, equity and debt capital markets play a much more important role in financing business investment.
+<P>
+The short-term consequence was that the credit crunch that began in 2008 had a more serious and longer-term impact on Europe’s heavily bank-based economies, as banks curtailed lending to preserve and rebuild their capital ratios.
+That process is still under way in parts of continental Europe, though business lending by banks has recovered in the UK.
+But a new study by Sam Langfield of the ECB and Marco Pagano of the University of Naples suggests that the longer-term implications are even more damaging than was previously suspected.
+<P>
+Langfield and Pagano point out that in the eight years since the crisis, the European Union’s GDP has grown by only 2%, compared to more than 9% in the US, and attribute this differential to transatlantic differences in financial structure.
+Analyzing data for a large number of countries, they find that “an increase in the size of a country’s banking sector relative to stock and private bond market capitalization is associated with lower GDP growth in the subsequent five-year period.”
+<P>
+And the magnitude of the impact they assess is considerable.
+Europe’s bank-market ratio was 3.2 in 1990; by 2011, it had risen to 3.8.
+An increase on that scale is associated in their model with a 0.3-percentage-point reduction in annual growth, and twice that in a housing-market crisis, given the high proportion of mortgage lending on EU banks’ balance sheets.
+<P>
+Many EU countries, notably Ireland and Spain, did experience a collapse in house prices after 2008.
+So the relative size of EU banks might account for roughly half of the growth gap vis-à-vis the US.
+<P>
+That explains why the ECB, and some EU governments, are keen on the Capital Markets Union project, which aims to find ways to stimulate the growth of non-bank financing channels across the continent.
+Progress would reduce dangerous over-reliance on banks.
+<P>
+The UK, as ever, is to be found somewhere in the middle of the Atlantic.
+Cumulative economic growth from 2008 to 2015 was 6%.
+A little closer to the US than to the rest of Europe, though still a relatively weak rebound from a deep recession.
+<P>
+The UK’s stock market is larger relative to its economy than most others in Europe.
+Its banking system is large and concentrated, though new entrants and new financing channels are changing that.
+Peer-to-peer lending has expanded faster than elsewhere in Europe.
+UK banks are also, on average, more oriented toward non-European markets, which makes the banking sector seem larger.
+And a third of the UK banking sector’s assets are in fact held by non-EU banks.
+Only Luxembourg comes close, at just below 20%, while in France, Germany, and Italy, the overseas share of their domestic markets is negligible.
+<P>
+These differences may partly explain the UK’s reluctance to participate in the European banking union, while some other non-eurozone countries are keen to join it, fearing that, otherwise, they might be effectively excluded from ECB policymaking.
+In London, even pro-Europeans prefer to address Britain’s remaining financial-sector challenges on a national basis; the differences in structure make that an understandable choice.

@@ -1,0 +1,56 @@
+<HEADLINE>
+A Stress Test for Public Health Systems
+<P>
+LONDON – On January 25, Chatham House and Georgetown University hosted US Secretary of the Treasury Steven Mnuchin for a discussion about US economic policymaking and the world.
+Mnuchin had come straight from the World Economic Forum’s annual meeting in Davos, but the dominant theme of that gathering (“stakeholder capitalism”) had already been eclipsed by broader developments.
+The coronavirus (COVID-19) outbreak had become a massive problem for China and would soon threaten the entire world.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+As someone whose career has included work on infectious-disease risks, I had some sympathy with Mnuchin’s comments at Davos, where he pointed out that climate change is not the only policy challenge facing the world today.
+(I do not, however, support his belittling of the Swedish teen climate activist Greta Thunberg on that same occasion.)
+<P>
+According to the United Kingdom’s 2016 Review on Antimicrobial Resistance (AMR), which I chaired, policymakers around the world need to pursue 29 essential interventions in the medium term in order to avoid a costly and deadly global health crisis.
+Specifically, we warned that in the absence of concerted action, drug-resistant microbes could take around ten million lives per year by 2050, at a cumulative cost to global GDP of around $100 trillion.
+<P>
+Now the COVID-19 crisis is upon us.
+There is no readily available vaccine, and global health systems around the world have proven largely unprepared and unequipped to manage a fast-moving pandemic.
+Of the ten broad areas covered by the Review’s policy recommendations, at least two are central to the fight against COVID-19.
+The first is health and sanitation.
+By now, everyone will have heard that they should be washing their hands often and thoroughly (it helps to sing all of “Happy Birthday” while you do it).
+But while hand washing and other basic hygiene measures are necessary, they are not sufficient for averting the spread of viral and bacterial infections.
+<P>
+More to the point, the COVID-19 crisis raises another issue that I have long championed: public-health preparedness.
+As a part of its annual Article IV reviews of its member countries, the International Monetary Fund should be assessing the strength and readiness of national health systems.
+To the Fund’s credit, I have been invited to its headquarters to discuss this idea.
+But my hunch is that the IMF leadership will demur, on the grounds that their institution lacks the edge in health-system analysis that it has in public finance and other matters.
+<P>
+And yet the IMF’s lack of an analytical edge on climate change has not stopped it from issuing policy statements on that topic.
+That is as it should be: As markets are demonstrating, one cannot distinguish between finance and broad-based issues like climate change or public health.
+It should be obvious that a failure to prevent the spread of infectious diseases can and will have a direct bearing on macroeconomic conditions.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+When we met with Mnuchin in late January, COVID-19 was still widely regarded as a Chinese problem, with many commentators arguing that it could topple China’s economy and health system.
+What do the data show now?
+One regularly published indicator, monthly purchasing managers’ indices, suggests that Chinese economic activity did indeed collapse in February, with the key Caixin services PMI survey recording a 50% drop in business confidence.
+That figure implies that the Chinese economy has weakened by half.
+But, given that Chinese authorities deliberately shut down large parts of the economy and curtailed the movement of people, a significant temporary downturn should not come as a surprise.
+The question is whether the Chinese leadership is in a position to crank things back up.
+<P>
+Judging by Johns Hopkins’s real-time COVID-19 case-tracking module, it appears that China, despite its massive initial mistakes, has gotten to grips with the outbreak – at least for now.
+As of March 6, the reported data by province show that outside of Hubei (COVID-19’s epicenter), around 95% of reported infections have resulted in recoveries, with only around 1,200 people still undergoing treatment.
+Sadly, around 110 Chinese outside of Hubei province have died, but that toll is below Italy’s.
+Moreover, from what I hear, the Chinese authorities are now cautiously lifting limits on the movement of people and allowing the economy to return to some semblance of normality, which means that the March numbers should show a notable pickup.
+<P>
+What about the rest of us?
+The Italian COVID-19 numbers are worrying: the country’s reported death rate is not only much higher than China’s, but also dramatically higher than that of South Korea, even though South Korea has almost the same number of cases.
+In the United States, equity markets are clearly worried, and not for the conventional cyclical reasons.
+There seems to be a growing fear that the epidemic will expose the full failings and costs of the US health-care system.
+Making matters worse, US authorities failed early on to implement some of the most basic measures for preventing the spread of the virus.
+<P>
+As the old adage goes, one should never let a crisis go to waste.
+The enormous attention being devoted to COVID-19 creates an opportunity to rethink how we manage and prepare for such challenges.
+One hopes that world leaders, especially those in the G20 countries, will recognize the need for larger investments in national health systems so that the current mood of anxiety doesn’t become a regular feature of our lives.
+And while they’re at it, they can start to fix the broken pipeline for new antibiotics, so that we don’t dump the human and financial costs of the AMR crisis onto future generations.

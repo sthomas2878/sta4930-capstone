@@ -1,0 +1,52 @@
+<HEADLINE>
+The Debt-Ratio Distraction
+<P>
+BEIJING – A 2010 paper by Kenneth Rogoff and Carmen Reinhart suggesting that a country’s economy will slow when public debt exceeds 90% of GDP has fueled heated debate worldwide.
+What is usually missing from such discussions, however, is an explanation of how too much debt leads to slower growth.
+Such an explanation is needed to decide whether crossing a particular threshold really is the determining factor in an economic slowdown.
+<P>
+In fact, it is not.
+While excessive debt can hamper a country’s growth prospects, it does so by inducing economic actors to behave differently, thereby generating financial-distress costs.
+Just as major stakeholders in a business generate such costs by changing their behavior when the firm’s balance sheet becomes too risky, an economy’s stakeholders respond to rising default risk in ways that reduce growth and, in a vicious feedback loop, increase financial fragility further.
+<P>
+This change can occur in many ways.
+Creditors raise their interest rates and shorten maturities, while businesses, worried about future tax hikes or expropriation, begin to disinvest.
+Workers organize to protect their jobs, while savers, concerned that inflationary policies will erode the value of their savings, withdraw their bank deposits.
+Policymakers shorten their time horizons.
+<P>
+As these stakeholders take steps to protect themselves from the default that they view as increasingly likely, they undermine GDP growth and weaken the economy’s balance sheet, thus raising the risk of default further.
+Because this behavior is highly pro-cyclical, financial-distress costs tend to rise very slowly in the beginning, and then surge suddenly.
+<P>
+Given that it is the behavioral change, not the debt/GDP ratio itself, that causes the economy to slow, a “universal debt threshold” simply does not exist – not even in theory.
+Consider a country that borrows to invest in wealth-generating projects.
+Its debt capacity rises faster than its debt-servicing costs, so additional debt does not necessarily generate financial-distress costs for the economy.
+<P>
+Even if one disregards how borrowed money is spent, the threshold does not apply.
+At least three factors other than the public debt/GDP ratio influence whether and how economic agents change their behavior.
+<P>
+The first factor is the economy’s underlying volatility.
+The probability of default depends on the likelihood that a gap between debt-servicing costs and debt-servicing capacity will form and persist for a significant period.
+Given that more volatile economies are more likely to default at any given level of debt, they begin to incur financial-distress costs much earlier.
+<P>
+The second factor is how highly “inverted” the country’s balance sheet is (that is, how debt-servicing costs are correlated with economic performance).
+Common forms of inverted financing include short-term debt and debt in foreign currencies.
+With inverted debt, debt-servicing costs tend to fall when the economy is growing and asset values are rising, reinforcing existing growth.
+<P>
+When the economy gets into trouble, however, debt-servicing costs soar, exerting further downward pressure on the economy.
+Inverted balance sheets are among the leading causes of financial crises, because they can cause relatively low debt-servicing costs to explode after an adverse shock.
+<P>
+The final factor affecting economic actors’ behavior is the probability that an adverse shock will trigger a surge in contingent liabilities, such as through the banking system.
+Spain, where the public debt/GDP ratio was relatively low compared to other European countries, experienced such a surge when the euro crisis erupted.
+As it turned out, Spain’s banking system was overexposed to the real-estate sector when it went bust, making the country’s balance sheet much more vulnerable than its nominal debt level suggested.
+<P>
+Clearly, the debt/GDP ratio alone is inadequate to determine how fragile a country’s government balance sheet is, and, in turn, how debt will affect economic growth.
+A more future-oriented approach is needed, one that accounts not only for a country’s debt-servicing capacity under current conditions, but also for the probability that an adverse shock will cause a gap to form between that capacity and debt-servicing costs.
+<P>
+While financial crises are usually unexpected, they do not necessarily strike without warning.
+Rather, they are rooted in the feedback loops embedded in a country’s economic institutions and balance sheet – loops that are often ignored when the economy is growing and asset prices are rising.
+When economic growth slows, however, the consequences of this heedlessness become apparent: debt-servicing costs and contingent liabilities soar, and the government’s credibility suddenly collapses.
+<P>
+Public debt/GDP ratios have had a poor track record in predicting financial crises.
+An accurate assessment of a country’s financial position must account for economic volatility, the risks embedded in the balance-sheet structure, and the contingent liabilities that plausible adverse shocks are likely to generate.
+A country has too much debt when stakeholders begin behaving in ways that reduce growth.
+The controversy over the research by Rogoff and Reinhart should not be allowed to obscure the nature of the link between debt and economic performance.

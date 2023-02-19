@@ -1,0 +1,75 @@
+<HEADLINE>
+The Robot Question
+<P>
+NEW YORK – The robots are no longer coming; they are here.
+The COVID-19 pandemic is hastening the spread of artificial intelligence (AI), but few have fully considered the short- and long-run consequences.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+In thinking about AI, it is natural to start from the perspective of welfare economics – productivity and distribution.
+What are the economic effects of robots that can replicate human labor?
+Such concerns are not new.
+In the nineteenth century, many feared that new mechanical and industrial innovations would “replace” workers.
+The same concerns are being echoed today.
+<P>
+Consider a model of a national economy in which labor performed by robots matches that performed by humans.
+The total volume of labor – robotic and human – will reflect the number of human workers, H, plus the number of robots, R. Here, the robots are additive – they add to the labor force rather than multiplying human productivity.
+To complete the model in the simplest way, suppose the economy has just one sector, and that aggregate output is produced by capital and total labor, human and robotic.
+This output provides for the country’s consumption, with the rest going toward investment, thus increasing the capital stock.
+<P>
+What is the initial economic impact when these additive robots arrive?
+Elementary economics shows that an increase in total labor relative to initial capital – a drop in the capital-labor ratio – causes wages to drop and profits to rise.
+<P>
+There are three points to add.
+First, the results would be magnified if the additive robots were created from refashioned capital goods.
+That would yield the same increase in total labor, with a commensurate reduction in the capital stock, but the drop in the wage rate and the increase in the rate of profit would be greater.
+<P>
+Second, nothing would change if we adopted the Austrian School’s two-sector framework in which labor produces the capital good and the capital good produces the consumer good.
+The arrival of robots still would decrease the capital-labor ratio, as it did in the one-sector scenario.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Third, there is a striking parallel between the model’s additive robots and newly arrived immigrants in their impact on native workers.
+By pushing down the capital-labor ratio, immigrants, too, initially cause wages to drop and profits to rise.
+But it should be noted that with the rate of profit elevated, the rate of investment will rise.
+Owing to the law of diminishing returns, that additional investment will drive down the profit rate until it has fallen back to normal.
+At this point, the capital-labor ratio will be back to where it was before the robots arrived, and the wage rate will be pulled back up.
+<P>
+To be sure, the general public tends to assume that “robotization” (and automation generally) leads to a permanent disappearance of jobs, and thus to the “immiseration” of the working class.
+But such fears are exaggerated.
+The two models described above abstract from the familiar technological progress that drives up productivity and wages, making it reasonable to anticipate that the global economy will sustain some level of growth in labor productivity and compensation per worker.
+<P>
+True, sustained robotization would leave wages on a lower path than they otherwise would have taken, which would create social and political problems.
+It may prove desirable, as Bill Gates once suggested, to levy taxes on income from robot labor, just as countries levy taxes on income from human labor.
+This idea deserves careful consideration.
+But fears of prolonged robotization appear unrealistic.
+If robotic labor increased at a non-vanishing pace, it would run into limits of space, atmosphere, and so on.
+<P>
+Moreover, AI has brought not just “additive” robots but also “multiplicative” robots that enhance workers’ productivity.
+Some multiplicative robots enable people to work faster or more effectively (as in AI-assisted surgery), while others help people complete tasks they otherwise could not perform.
+<P>
+The arrival of multiplicative robots need not lead to a lengthy recession of aggregate employment and wages.
+Yet, like additive robots, they have their “downsides.”
+Many AI applications are not entirely safe.
+The obvious example is self-driving cars, which can (and have) run into pedestrians or other cars.
+But, of course, so do human drivers.
+<P>
+A society is not wrong, in principle, to deploy robots that are prone to occasional mistakes, just as we tolerate airplane pilots who are not perfect.
+We must judge costs and benefits.
+For efficiency, people ought to have the right to sue robots’ owners for damages.
+Inevitably, a society will feel uncomfortable with new methods that introduce “uncertainty.”
+<P>
+From the perspective of ethics, the interface with AI involves “imperfect” and “asymmetric” information.
+As Wendy Hall of the University of Southampton says, amplifying Nicholas Beale, “We can’t just rely on AI systems to act ethically because their objectives seem ethically neutral.”
+<P>
+Indeed, some new devices can cause serious harm.
+Implantable chips for cognitive enhancement, for example, can cause irreversible tissue damage in the brain.
+The question, then, is whether laws and procedures can be instituted to protect people from a reasonable degree of harm.
+Barring that, many are calling on Silicon Valley companies to establish their own “ethics committees.”
+<P>
+All of this reminds me of the criticism leveled at innovations throughout the history of free-market capitalism.
+One such critique, the book Gemeinschaft und Gesellschaft by the sociologist Ferdinand Tönnies, ultimately became influential in Germany in the 1920s and led to the “corporatism” arising there and in Italy in the interwar period – thus bringing an end to the market economy in those countries.
+<P>
+Clearly, how we address the problems raised by AI will be highly consequential.
+But they are not yet present on a wide scale, and they are not the main cause of the dissatisfaction and resulting polarization that have gripped the West.

@@ -1,0 +1,61 @@
+<HEADLINE>
+The New Risks in Risk Regulation
+<P>
+LONDON – When I took over responsibility for banking supervision in the United Kingdom, in 1995, a wise old bird in the Bank of England (BoE) warned me that I would find it a thankless task.
+No newspaper ever prints a headline reading “All London Banks Safe and Sound this Week.”
+But if a problem occurs, it is almost invariably seen as a case of supervisory failure.
+Dozy watchdogs asleep at the wheel are a trope that trips quickly into journalists’ coverage.
+<P>
+Regulators are caught in a crossfire of conflicting expectations.
+Banks want to be left alone, unless they need help.
+Consumers and their political representatives want regulators to be aware of every transaction, ready to intervene in real time if any glitch occurs.
+In the years running up to the 2008 financial crisis, the pendulum swung toward the non-interventionist end of the spectrum.
+Today, “intrusive” has a positive connotation in the regulatory lexicon.
+But the need to strike a sensible balance remains.
+<P>
+The other point my wise old bird made was that the only way to generate a positive story about regulation was to warn of trouble ahead.
+“Regulators warned today that…” is a good lede for the Financial Times or Wall Street Journal.
+Editors get a frisson of excitement from worrying their readers.
+<P>
+Financial regulators and the international financial institutions have been following that sage advice a lot recently.
+As William Coen, the secretary-general of the Basel Committee, put it at a recent conference, citing former US Federal Reserve Chair Ben Bernanke, “for those working to keep our financial system resilient, the enemy is forgetting.”
+Coen went on to argue that, “the likelihood of a future financial crisis occurring only increases with time.”
+I suppose one can see what he means, though I wonder about the logic of that formulation.
+<P>
+The European Central Bank has weighed in with more specific concerns: “Vulnerabilities in financial markets continue to build up amid pockets of high valuations and compressed global risk premia.”
+The ECB is particularly concerned about the feedback loop to the eurozone from trouble in other markets.
+That concern centers on asset managers: Euro area investment funds are vulnerable to “potential shocks in global financial markets.”
+<P>
+The BoE has similar concerns about the price of risk.
+On its “Bank Underground” blog, which is fast becoming the most interesting of the BoE’s publications, you can find analysis of the evolution of risk premia.
+Using the prices of credit default swaps, it shows that investors are accepting less compensation for bearing given amounts of credit risk: compensation per unit of default risk has fallen by 20% since early 2016.
+Similarly, the volatility premium, defined as the price of options that insure against falls in the equity index, has fallen considerably.
+In retrospect, mispricing of risk was a flashing red warning sign that regulators and investors ignored in the run up to the 2008 crisis.
+<P>
+The International Monetary Fund has gotten in on the act, too.
+Even though its October World Economic Outlook presents a positive picture of global growth, the IMF, no doubt still conscious of the Panglossian view it offered in 2006, now warns that the world economy is “vulnerable to a sudden tightening of financial conditions” and that “equity valuations appear stretched in some markets.”
+In this context, “some” is IMF code for the United States.
+The US market’s share of global equity valuations is the highest it has ever been – a remarkable statistic given the declining US share of global economic activity.
+<P>
+How should we view all these warnings?
+Are the regulators genuinely anxious, or just covering their backs?
+The received wisdom among regulators is that they are better off being able to say, “We told you so” if something goes wrong, and that there is little downside in occasionally issuing dark warnings.
+Journalists rarely look back to check whether the dire outcomes the authorities pointed to actually came to pass.
+And even if they do check, regulators can always claim that the worst was avoided precisely because they had warned of the risk.
+<P>
+But the warning quotient has been rising in recent weeks.
+Should we be genuinely anxious, and begin battening down the hatches to prepare for a coming storm?
+<P>
+It is hard to be sure, of course, but reasons to stay awake at night are multiplying.
+While each emerging-market trouble spot – Venezuela, Turkey, Brazil, Argentina – has idiosyncratic features, a pattern is starting to emerge.
+A rising dollar, and an investment flight to the US, is accentuating these countries’ self-generated problems.
+And while the Fed’s interest-rate hikes could hardly have been more carefully signaled in advance, there are still concerns that the desired financial tightening in credit markets has scarcely occurred yet, and that, if and when it does, some borrowers could find themselves uncomfortably exposed.
+<P>
+Then there is the risk of a trade war.
+The World Trade Organization has – at last – warned that an intensified tariff war could result in a sharp decline in trade.
+That would be a serious blow to the Chinese economy, which is already slowing markedly for other reasons.
+<P>
+So the global economic risks now seem to be weighted on the downside, after a benign period.
+The one piece of good news is that if a recession (or perhaps more likely a period of below-trend growth) is in the offing, banks are significantly more strongly capitalized than they were the last time.
+We can, however, be less certain about the shadow banking sector, almost by definition.
+We may be about to discover whether the new credit creators, some of whom do not have to live under a rigorous regime of capital regulation, have priced risk correctly.

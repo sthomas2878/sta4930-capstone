@@ -1,0 +1,63 @@
+<HEADLINE>
+How to Govern the New Digital Domain
+<P>
+MADRID/MONTREAL – Today, as our economic and social lives increasingly move online owing to the COVID-19 pandemic, the digital and physical domains are becoming more integrated than ever.
+And now more than ever, governance and regulation of a hyper-powered digital world must catch up.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Besides triggering the most severe economic crisis since the Great Depression, COVID-19 is also accelerating technological trends that were already well underway.
+One of the most notable is that big tech is getting bigger.
+The tech-heavy NASDAQ index is up by 30% so far in 2020, while the combined market capitalization of Apple, Amazon, Facebook, and Alphabet (Google’s parent company) has passed $5 trillion.
+As a result, Amazon CEO Jeff Bezos’s personal fortune has increased by over $70 billion, or 68%, since the pandemic began, while Facebook CEO Mark Zuckerberg’s net worth has risen by $30 billion to $87.8 billion.
+<P>
+This growing concentration of power and wealth in the hands of a few global digital firms will shape national and international politics as we emerge from the pandemic.
+The big tech companies gain value from intangible assets such as data, algorithms, and intellectual property, rather than just tangible assets such as physical labor or goods and services, and have taken advantage of weak digital governance to avoid paying taxes and social-security contributions.
+Our global governance system was built for the tangible world, and governments have been far too slow to adapt laws and regulations to build an equitable digital economy.
+<P>
+The growing gap between the digital economy’s winners and losers is evident in skyrocketing inequality and the erosion of the middle class, which the pandemic is likely to exacerbate in the short term.
+The political center also has shrunk, with support for left- and right-wing extremist parties increasing.
+Belief in democracy and trust in media have declined in both Europe and the United States: today, a mere 30% of US millennials think it is essential to live in a democracy.
+All these trends risk being amplified in the near future, to the benefit of illiberal populists.
+<P>
+The pandemic also has increased global geopolitical rivalries and highlighted the reality that great-power confrontation increasingly takes place in the digital domain, in areas owned by global private firms.
+Facebook and Google, for example, are becoming contested terrain for both national and international struggles, as the 2016 and 2020 US presidential election campaigns, as well as other elections around the world, have shown.
+<P>
+Meanwhile, national policymakers are struggling to assert technological sovereignty in order to govern data and the digital giants.
+Governments of some large European countries have been unable to implement their own COVID-19 contact-tracing protocols owing to the stranglehold of Apple and Google, which in effect decided between themselves how the world’s 3.2 billion smartphones could – and could not – be used to fight the pandemic.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Policymakers must urgently come to terms with these developments.
+In The New Digital Domain, our recent report for IE University’s Center for the Governance of Change, we recommend three sets of imperatives for policymakers.
+<P>
+First, we need new governance models for the digital economy.
+These should include a new forum for diplomatic and global coordination to overcome the current balkanization of data governance.
+Neither China’s state-centric approach nor the firm-centric US approach allow individuals to control their personal data.
+By contrast, the European Union’s General Data Protection Regulation goes further in this direction.
+The problem is that the three zones defined by these approaches cannot “talk” to one another.
+As a result, no tech firm or legislation can be truly global, because it is impossible to comply with all three zones’ rules simultaneously.
+<P>
+We also need an international body to shape global standards and regulations for the platform economy.
+This institution could advise on best practices, monitor risks arising from new technologies (including their impact on civil society), and develop regulatory and policy interventions to address them.
+Today’s digital domain is undermining our ability to arrive at a common understanding of facts.
+To prevent an epistemological crisis, we need an information space that is a public good, rather than one that seeks to maximize profit.
+<P>
+Second, we need new economic governance models.
+The digital economy is driven by proprietary technology, and by its nature favors first movers and economies of agglomeration.
+Governments need to create a level playing field for innovators and laggards, and devise smart, agile regulations to ameliorate the impact of technological disruptions in traditional sectors.
+Policymakers should also develop new ways to protect gig-economy workers and offer them the same forms of socioeconomic security enjoyed by ordinary workers, albeit through different mechanisms.
+<P>
+Third, we need a new social contract to end the social fracture and polarization of politics.
+The status quo of an untaxed and largely unregulated digital economy is no longer tenable.
+The failure to tax the gains of large public firms is constraining governments’ ability to provide social public goods and services.
+We need to establish a new global regime to tackle the problem of tax arbitrage by multinationals whose value is derived largely from the intangible economy.
+<P>
+In addition, promoting and regulating inclusive and innovative working arrangements could help to repopulate less developed areas, and contribute to narrowing the regional disparities that contribute to political polarization.
+Education is the most effective tool for social mobility, but its costs are increasing while curricula are slow to adapt to the changing needs of the digital economy.
+Providing effective, up-to-date, and affordable education for citizens is crucial.
+<P>
+Mitigating the digital domain’s adverse effects requires holistic approaches to platform and data governance.
+For too long, and on too many issues, policymakers have left the governance of technology in the hands of those who design it.
+They can no longer afford to stand by.

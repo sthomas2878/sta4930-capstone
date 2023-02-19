@@ -1,0 +1,65 @@
+<HEADLINE>
+Flattening the COVID-19 Curve in Developing Countries
+<P>
+LEE, MASSACHUSETTS – COVID-19 is ravaging advanced economies such as Italy, France, Spain, and the United States.
+Beyond the deaths and human suffering, markets are discounting a catastrophic recession accompanied by massive defaults, as expressed in the radical repricing of corporate credit risk by financial markets.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+As horrific as this sounds, the situation in the advanced economies is likely to be much more benign than what developing countries are facing, not only in terms of the disease burden, but also in terms of the economic devastation they will face.
+And while two academic communities – public-health experts and macroeconomists – are starting to talk to each other, unfortunately the conversation has mostly involved only the advanced countries.
+<P>
+The public health community has made the differential equations that govern contagion almost mainstream.
+People now talk about the role of the R0 factor (the average number of new infections caused by each infected person) and about the need to flatten the contagion curve through social distancing and lockdowns.
+<P>
+Macroeconomists initially saw the pandemic as a negative demand shock that would need to be countered by expansionary fiscal and monetary policies to support aggregate spending.
+Soon enough, many of them realized that this shock is different.
+Unlike the 2008 global financial crisis, which led to a collapse in demand, the COVID-19 pandemic is first and foremost a supply shock.
+That changes everything.
+<P>
+If output is collapsing because people do not want to or cannot spend, adding spending power may help.
+But if Broadway theaters, universities, schools, sports arenas, hotels, and airlines are shut down to stop the spread of the virus, giving money to people will not reignite those industries: they are not lacking in demand.
+They are shut down as part of the public health policies implemented to flatten the curve.
+If firms are not producing because their workers are locked down, boosting demand will not magically make goods appear.
+<P>
+As a consequence, macroeconomists are now focusing on how to make social distancing and lockdowns tolerable and limit the damage that the supply shock will generate.
+In the US and the United Kingdom, governments are planning large fiscal packages to expand health-care provision, protect payrolls, provide additional unemployment insurance, delay tax payments, avert unnecessary bankruptcies, shore up the financial system, and help firms and households survive the storm.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But one frequently unstated assumption of this approach is that governments will be able to mobilize the necessary resources, essentially by borrowing more, if needed, from their own central banks, as they implement quantitative easing (QE).
+Economists refer to governments’ ability to borrow as fiscal space.
+In short, the flatter you want the contagion curve to be, the more you will need to lock down your country – and the more fiscal space you will require to mitigate the deeper recession that will result.
+<P>
+That leaves developing countries in the lurch.
+Even in the best of times, many of them have precarious access to finance, and resort to the printing press leads to a run on the currency and an inflationary spike.
+And these are not the best of times.
+<P>
+Most developing countries rely for foreign income on a combination of commodity exports, tourism, and remittances: all are expected to collapse, leaving economies short of dollars and governments short of tax revenues.
+At the same time, access to international financial markets has been cut off as investors rush to the safety of US and other rich-country government-issued assets.
+In other words, just when developing countries need to manage the pandemic, most have seen their fiscal space evaporate and face large funding gaps.
+<P>
+The standard prescription for revenue collapses and external financing problems is a combination of austerity (to bring spending in line with income), devaluation (to make scarce foreign exchange dearer), and international financial assistance to smooth the adjustment.
+But this would leave countries with no resources to fight the virus and no means to protect the economy from the damaging effects of lockdown measures.
+Moreover, the standard prescription is more inefficient if all countries try it at once, owing to negative spillovers on their neighbors.
+<P>
+Under these conditions, even if developing countries want to flatten the curve, they will lack the capacity to do so.
+If people must choose between a 10% chance of dying if they go to work and assured starvation if they stay at home, they are bound to choose work.
+<P>
+To give countries the financial capacity to flatten the curve requires a level of financial support that will not be feasible with existing approaches and with international organizations’ current balance sheets.
+To help manage the pandemic in the Global South, therefore, it is critical to recirculate the money that is fleeing the developing countries back to them.
+To do that, the G7 and the G20 should consider several measures.
+<P>
+First, the US Federal Reserve has announced swap lines with the central banks of Australia, Brazil, Denmark, Korea, Mexico, Norway, New Zealand, Singapore, and Sweden.
+This mechanism should be extended to many more countries.
+If fear of default is an impediment, these funds could be intermediated by the International Monetary Fund, which should redesign its existing Rapid Financing Instrument to meet current needs.
+<P>
+Second, as central banks implement quantitative easing, they should purchase emerging-market bonds, especially the less risky ones, in order to free up more space for international financial institutions to focus on the more difficult cases.
+<P>
+Third, dollarized or euroized economies that do not have their own currency and hence a lender of last resort, such as Panama, El Salvador, and Ecuador, should be offered special financial facilities so that their central banks can backstop their banking systems.
+<P>
+Lastly, developed countries should not – as the European Union unfortunately has just done – impede or prohibit exports of tests, pharmaceuticals, and medical devices.
+<P>
+Flattening the COVID-19 curve will require concerted economic action at the international level, especially with respect to developing countries.
+Given the global nature of the problem, doing the right thing is the smartest thing to do.

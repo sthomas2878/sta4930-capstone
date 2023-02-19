@@ -1,0 +1,61 @@
+<HEADLINE>
+How to Prevent Winner-Takes-All Democracy
+<P>
+NEW DELHI – Democracy is in crisis.
+Fake news – and fake allegations of fake news – now plagues civil discourse, and political parties have proved increasingly willing to use xenophobia and other malign strategies to win elections.
+At the same time, revisionist powers like Vladimir Putin’s Russia have been stepping up their efforts to interfere in elections across the West.
+Rarely has the United States witnessed such brazen attacks on its political system; and rarely has the world seen such lows during peacetime.
+<P>
+And yet, democracy’s crisis is not completely new.
+When I was a student in Delhi in the early 1970s, it was commonly assumed that the US “participated” in Indian elections.
+Then as now, rumors circulating through informal communication channels made it hard for ordinary citizens to tell fact from fiction.
+The joke – which was not always a joke – was that if you suspected someone of being a CIA agent, you should immediately phone the local Indian intelligence office, but you should not be surprised if the same person answered the phone.
+<P>
+That said, events today have risen to a different level.
+The United Kingdom will soon leave the European Union, with or without a formal exit agreement.
+And the US is waging an escalating trade war, which could be followed by a debilitating currency war.
+How can all of this be happening in democracies, and what can be done about it?
+<P>
+On the first question, one hypothesis is that new digital technologies are changing the structural incentives for corporations, political parties, and other major institutions.
+Consider the case of corporations.
+The wealth of proprietary data on consumer preferences and behavior is producing such massive returns to scale that a few giants are monopolizing markets.
+In other words, markets are increasingly geared toward a winner-take-all game: multiple corporations can compete, but to the victor go the spoils.
+<P>
+Electoral democracy is drifting in the same direction.
+The benefits of winning an election have become so large that political parties will stoop to new lows to clinch a victory.
+And, as with corporations, they can do so with the help of data on electoral preferences and behavior, and with new strategies to target key constituencies.
+<P>
+This poses a dilemma for well-meaning democratic parties and politicians.
+If a “bad” party is willing to foment hate and racism to bolster its chances of winning, what is a “good” party to do?
+If it sticks to its principles, it could end up ceding victory to the “bad” party, which will do even more harm once it is in office.
+A “good” party may thus try to forestall that outcome by taking a step down the moral ladder, precipitating a race to the bottom.
+This is the problem with any winner-takes-all game.
+When second place confers no benefits, the cost of showing unilateral restraint can grow intolerably high.
+<P>
+But this problem is not as hopeless as it appears.
+In light of today’s crisis of democracy, we would do well to revisit Václav Havel’s seminal 1978 essay “The Power of the Powerless.”
+First published as samizdat that was smuggled out of Czechoslovakia, the essay makes a simple but compelling argument.
+Dictatorships and other seemingly omnipotent forms of authoritarianism may look like large, top-down structures, but in the final analysis, they are merely the outcome of ordinary individuals’ beliefs and choices.
+Havel did not have the tools of modern economic theory to demonstrate his argument formally.
+In my new book The Republic of Beliefs, I show that the essence of his argument can be given formal structure using elementary game theory.
+This, in turn, shows that ordinary individuals have moral options that may be unavailable to the big institutional players.
+<P>
+The “power of the powerless” has a key role to play in saving democracy.
+Unlike corporations and political parties, ordinary citizens are not locked into winner-takes-all games, because they can make small moral commitments without incurring intolerable costs.
+<P>
+Consider the case of shoe manufacturing in a developing country.
+If there are just two companies in the sector, the one that refuses to violate minimal labor standards risks losing the entire market to an immoral competitor, which can ultimately sell its shoes more cheaply.
+But if consumers show that they will pay a little more for shoes that are made without violating labor standards, they can undercut the immoral firm’s advantage.
+<P>
+The same dynamic applies to voting.
+The bulk of classical voting theory, pioneered by the mathematical statistician and economic theorist Harold Hotelling and the economist and political theorist Anthony Downs, assumes that people vote in their self-interest.
+Yet if citizens decide that they will vote in their self-interest within the restraints of a moral code, immoral campaign practices would suddenly impose a cost, rather than confer an advantage.
+A similar view is expressed in Sebastian Haffner’s unfinished memoir, Defying Hitler.
+As Cass Sunstein, commenting on Haffner, put it, “the ultimate safeguard against aspiring authoritarians, and wolves of all kinds, lies in individual conscience.”
+<P>
+For ordinary citizens to develop and abide by such moral codes, we need, at a minimum, better civic education, so that people understand the latent power they wield and so that users of digital platforms learn to check the sources of news stories they encounter.
+<P>
+I believe there are corporations and political groups that actually want to adhere to minimal moral standards but cannot, for fearing of losing everything.
+They should put up money to effect the change that our democracies need.
+Voters need to learn that their electoral and consumption decisions can fundamentally alter the nature of the game that corporations and politicians play.
+The future of democracy is in citizens’ hands.

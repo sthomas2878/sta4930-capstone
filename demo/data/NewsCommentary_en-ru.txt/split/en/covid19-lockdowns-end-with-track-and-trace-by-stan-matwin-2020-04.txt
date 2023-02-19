@@ -1,0 +1,64 @@
+<HEADLINE>
+The Privacy Factor in Ending the Lockdown
+<P>
+HALIFAX, NOVA SCOTIA – How, precisely, will we end the period of confinement that has stifled entire economies and left more than one billion people sheltering in place?
+Some have suggested a selective approach, whereby younger, less vulnerable cohorts would be ushered back to work before others.
+But dire warnings from epidemiologists about the inevitable health consequences have since eroded support for this strategy in most quarters.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Now, the only generally accepted solution is a gradual relaxation of restrictions, enabled by mass-scale testing, tracking, and contact tracing to identify all those with whom an infected person has interacted.
+And, because it is not feasible to test 100% of the population, the ultimate solution lies in making track-and-trace systems work.
+<P>
+The only realistic way to track and trace at the necessary scale is to use the geolocational data provided by cellphones.
+In this approach, a “contact” occurs whenever two people’s devices – namely, their Bluetooth signals – come into close proximity for a certain period of time.
+Several systems for identifying such interactions have already been proposed or even deployed.
+Singapore has relied on its TraceTogether initiative, Google and Apple recently joined forces to design a voluntary contact-tracing app, and a broad consortium in Europe has launched the Pan-European Privacy Preserving Proximity Tracing (PEPP-PT) project.
+<P>
+Clearly, any track-and-trace system will raise serious privacy issues.
+The entire point, after all, is to identify infected people.
+Even if user IDs are anonymized, they will need to be linked to a name and cellphone number at some stage in the process.
+The current designs can be augmented with additional technical features to constrain the use of the collected proximity data, while still allowing for effective tracking and tracing.
+But first, the rules governing data collection and use will need to be adapted to our new surveillance needs.
+<P>
+To that end, one recent proposal distinguishes between three types of privacy: from third-party snooping, from one’s contacts, and from the government.
+With the exception of South Korea, none of the countries with track-and-trace systems already in place make personal information about positive cases publicly available (as is done with sex-offender registries in the United States).
+But even programs that ensure the first two levels of privacy cannot offer privacy from the government without compromising the system’s effectiveness.
+<P>
+Hence, for now, we should design systems to protect against passers-by and hackers.
+But we will need to wait for practical methods of achieving the third level of privacy.
+One important technical requirement is to limit the lifetime of the contact data – the log of each Bluetooth interaction with another device – to 14 days, after which it should be erased automatically.
+This principle should apply both to the data carried on the phones and to that stored by the government.
+But for this rule to be observed fully, urgent research and development will be needed to streamline auto-destruction protocols for data, which are currently too complex and burdensome for the task at hand, especially when it comes to mobile devices.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+That is a task for the software and hardware developers.
+As for policymakers, the top priority should be maintaining the “use limitation principle,” which holds that data provided by users will serve only the purpose declared during its collection – that is, to track positive coronavirus cases.
+<P>
+Policymakers will also have to address the process by which cellphone users consent to releasing their data.
+An opt-in approach, which is optimal from a privacy perspective, would rely on users installing the track-and-trace app voluntarily.
+But, outside of Southeast Asia, there is no evidence that this approach will ensure sufficient participation rates.
+<P>
+A slightly more assertive option is the opt-out approach, whereby all mobile devices would automatically have the app installed, but users would be able to remove or disable it.
+A recent Canadian survey indicates that two-thirds of the country would support a government track-and-trace program.
+Yet that implies that as many as one-third of Canadians might opt out.
+<P>
+The only remaining option, then, is compulsory data sharing, in which the app is hard-coded into the operating system of the device.
+To make this approach more palatable, the system – like the data collected – would need to come with a sunset clause, so that it is phased out when the crisis has passed.
+<P>
+But how do we define that moment?
+In the US, rules governing patient privacy in medical settings under the Health Insurance Portability and Accountability Act have been significantly relaxed in response to the crisis, and the US Department of Health and Human Services has offered little indication of when they will be fully reinstated.
+To avoid repeating the same mistake, track-and-trace programs should come with a clearly stated, verifiable goal, such as a period of no new infections, or inoculation of the majority of the population when a vaccine is available.
+These sunset provisions should then be written into the software and subject to audits by independent bodies such as the Electronic Frontier Foundation.
+<P>
+A final question is who should be designing such systems, setting the rules for data collection and storage, and deciding on the best approach to balancing privacy and effectiveness.
+Rather than giving absolute control to developers or the state, we should convene representatives from the private sector, government, academia, and civil society.
+<P>
+The COVID-19 pandemic compels us to rethink well-established frameworks for data collection and privacy protection.
+Addressing the public-health emergency with as little computational overhead as possible is no small feat.
+Grant-making institutions that fund computer science urgently need to reorient their priorities toward efforts to introduce practical but responsible methods of proximity-data collection and the necessary safeguards.
+<P>
+If privacy must temporarily play second fiddle to public health, there must be well-defined protocols for ending the state of exception.
+As the American anthropologist Margaret Mead putit, “It may be necessary temporarily to accept a lesser evil, but one must never label a necessary evil as good.”

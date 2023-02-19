@@ -1,0 +1,71 @@
+<HEADLINE>
+Chile’s Pension Crunch
+<P>
+SANTIAGO – Defined-benefit pension plans are under pressure.
+Changing demographics spell trouble for so-called pay-as-you-go (PAYG) systems, in which contributions from current workers finance pensions.
+And record-low interest rates are putting pressure on funded systems, in which the return from earlier investments pays for retirement benefits.
+The Financial Times recently called this pensions crunch a “creeping social and political crisis.”
+<P>
+Defined-contribution, fully-funded systems are often lauded as the feasible alternative.
+Chile, which since 1981 has required citizens to save for retirement in individual accounts, managed by private administrators, is supposed to be the poster child in this regard.
+Yet hundreds of thousands of Chileans have taken to the streets to protest against low pensions.
+(The average monthly benefit paid by Chile’s private system is around $300, less than Chile’s minimum wage.)
+<P>
+Chile’s government, feeling the heat, has vowed to change the system that countries like Peru, Colombia, and Mexico have imitated, and that George W. Bush once described as a “great example” for Social Security reform in the United States.
+What is going on?
+<P>
+The blame lies partially with the labor market.
+Chile’s is more formal than that of its neighbors, but many people – especially women and the young – either have no job or work without a contract.
+High job rotation makes it difficult to contribute regularly.
+And it has proven difficult to enforce regulations requiring self-employed workers to put money aside in their own accounts.
+<P>
+Moreover, the legally mandated savings rate is only 10% of the monthly wage, and men and women can retire at 65 and 60, respectively – figures that are much lower than the OECD average.
+The result is that Chileans save too little for retirement.
+No wonder pensions are low.
+<P>
+But that is not the end of the story.
+Some of the same problems plaguing defined-benefit systems are also troubling defined-contribution, private-account systems like Chile’s.
+Take changes in life expectancy.
+A woman retiring at age 60 today can expect to reach 90.
+So a fund accumulated over 15 years of contributions (the average for Chilean women) must finance pensions for an expected 30 years.
+That combination could yield decent pensions only if the returns on savings were astronomical.
+<P>
+They are not.
+On the contrary, since the 2008-2009 global financial crisis, interest rates have been collapsing worldwide.
+Chile is no exception.
+This affects all funded pension systems, regardless of whether they are defined-benefit or defined-contribution schemes.
+<P>
+Lower returns mean lower pensions – or larger deficits.
+The shock and its effect are large.
+In the case of a worker who at retirement uses his fund to buy an annuity, a drop in the long interest rate from 4% to 2% cuts his pension by nearly 20%.
+<P>
+The rate-of-return problem is compounded in Chile by the high fees charged by fund managers, which are set as a percentage of the saver’s monthly wage.
+Until the government forced fund managers to participate in auctions, there was little market competition (surveys reveal that most people are not aware of the fees they pay).
+A government-appointed commission recently concluded that managers have generated high gross real returns on investments: from 1981 to 2013, the annual average was 8.6%; but high fees cut net returns to savers to around 3% per year over that period.
+<P>
+Those high fees have also meant hefty profits for fund managers.
+And it is precisely the disparity between scrawny pension checks and managers’ fat profits that fuels protest.
+So, more challenging than any technical problem with Chile’s pension system is its legitimacy deficit.
+<P>
+To address that problem, it helps to think of any pension system as a way of managing risks – of unemployment, illness, volatile interest rates, sudden death, or a very long life span.
+Different principles for organizing a pension system – defined-benefit versus defined-contribution, fully funded versus PAYG, plus all the points in between – allocate those risks differently across workers, taxpayers, retirees, and the government.
+<P>
+The key lesson from Chile is that a defined-contribution, funded system with individual accounts has some advantages: it can stimulate savings, provide a large and growing stock of investible funds (over $170 billion in Chile), and spur economic growth.
+But it also leaves individual citizens too exposed to too many risks.
+A successful reform must improve the labor market and devise better risk-sharing mechanisms, while preserving incentives to save.
+It is a tall order.
+<P>
+Chile’s system already shares risks between low-income workers and taxpayers, via a minimum non-contributory pension and a set of pension top-ups introduced in 2008 (as Minister of Finance, I helped design that reform).
+Subsequent experience suggests that those benefits should be enlarged and made available to more retirees.
+But the Chilean government has little money left, having committed the revenues from a sizeable tax increase two years ago to the ill-conceived policy of free university education, even for high-income students.
+<P>
+In response to the recent protests, the government has proposed an additional risk-sharing scheme: some (thus far undecided) part of a five-percentage-point increase in the mandatory retirement savings rate, to be paid by employers, will go to a “solidarity fund” that can finance transfers to people receiving low pensions.
+<P>
+The goal is correct, but, as usual, the devil is in the details.
+In the medium to long run, it seems likely that wages will adjust, so that the effective burden of the additional savings will be borne by employees, not employers.
+One study estimates that workers treat half of the compulsory savings as a tax on labor income, so too-large an increase (especially in the funds that do not go to the worker’s individual account) could cause a drop in labor-force participation, a shift from formal to informal employment, or both.
+Chile’s economy does not need that.
+<P>
+There are no easy answers to the pensions conundrum, whether in Chile or elsewhere.
+Chilean legislators will have to make difficult choices with hard-to-quantify tradeoffs.
+Whatever they decide, irate pensioners and pensioners-to-be will be watching closely.

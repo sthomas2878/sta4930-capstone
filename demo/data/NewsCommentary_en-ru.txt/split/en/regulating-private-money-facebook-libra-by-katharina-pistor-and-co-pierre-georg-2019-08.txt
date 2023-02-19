@@ -1,0 +1,70 @@
+<HEADLINE>
+The Right Response to the Libra Threat
+<P>
+NEW YORK – Facebook’s plan to launch a new digital currency, Libra, within a year has won few friends.
+Regulators, policymakers, and academics reacted to the news swiftly, and for the most part skeptically.
+US congressional committees quickly arranged hearings, and the issue featured prominently at the G7 meeting in France last month.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Facebook’s disrepute as a guardian of user privacy helps to explain some of the blowback.
+The real bombshell, however, was the sudden realization of the threat posed by digital currencies to the existing monetary system – not at some later date, but right now.
+Cryptocurrencies have been around for over a decade, but none has been adopted widely enough to challenge the existing order.
+With the potential to mobilize more than two billion monthly active users, Facebook could change that.
+<P>
+Now that the company has thrown down the gauntlet, governments should use the opportunity to advance a form of digital currency that serves the public good.
+Even the staunchest defenders of the current monetary system will admit that it does not work equally well for everyone.
+Moreover, the system is being rapidly outpaced by technological change, much of which is insufficiently regulated and could expose consumers to unforeseen risks.
+<P>
+It doesn’t have to be this way.
+Technology could enable the development of a far better system.
+One of the original motivations behind Bitcoin and other cryptocurrencies was to establish an alternative, censorship-resistant payment system.
+Sweden and Singapore are on track to create central-bank-backed digital currencies (CBDCs) of their own.
+In China, a handful of companies, including Alibaba and Tencent, have launched closely regulated and supervised digital currencies for transactions that are settled in renminbi.
+In Kenya, Mali, and elsewhere, phone companies offer digital-payment services to everyone, even those without a bank account.
+<P>
+These experiments offer plenty of models to choose from.
+But first, we must consider a fundamental question: Should the state allow the creation of private money, or should it tightly limit efforts like Bitcoin and Libra, even at the risk of curtailing innovation?
+<P>
+Money is conventionally defined by the functions it performs: it is a means of exchange, a store of value, and a unit of account.
+The dollar, pound, yen, and euro each perform all three functions, but not without some help from the private sector.
+Banks play a critical role in payment systems (the exchange function of money), by issuing private monies in the form of book money and the like.
+They also offer deposits, which can be viewed as stores of value (assuming they are insured).
+Only the unit-of-account function – which guarantees a currency’s nominal value as legal tender for paying taxes – is in the hands of the state alone.
+<P>
+Given that some of the defining functions of money can be farmed out to private actors, the question is whether, and to what extent, they should be.
+Shouldn’t we favor CBDCs over all the different forms of privately issued digital monies?
+After all, there are powerful normative arguments to be made for CBDCs.
+As public goods, payment systems should be available on equal terms to everyone.
+And with modern technologies, we can finally cut out the middlemen (banks) who have been skimming the cream off the top for centuries.
+<P>
+On the other hand, there is also a case to be made against the monopolization of the payment system.
+Under ideal circumstances, CBDCs could usher in a fully integrated, highly efficient system that works for everyone.
+But in the real world, even a slight technical glitch or other governance failure could have systemic effects.
+Generally speaking, monolithic systems lack the resilience of diversified systems, not to mention the incentives for further innovation.
+<P>
+Still, a multiplicity of payment systems comes with problems of its own.
+The transaction costs of converting diverse currencies, either into one another or into fiat currency, could be enormous.
+And the history of free banking tells us that unregulated monetary systems are prone to collapse.
+<P>
+This conundrum could be solved by creating a single framework for all digital currencies, which would keep the door open for innovation.
+Alternatively, it could be addressed through common protocols to govern interoperability among separate systems, similar to how the Internet has evolved.
+<P>
+Either way, we need a new infrastructure for managing both public and private monies.
+They should be treated as a public good, and thus accessible on a non-profit basis.
+They should be open to anyone looking to develop specific new products or services, subject to a simple registration requirement.
+Depending on the service, all offerings should be regulated to ensure the safety and stability of the monetary system.
+To reduce compliance costs for smaller start-ups, supervisory authorities could provide free consultation about the appropriate regulatory channels for new products.
+And, where necessary, regulation should be streamlined to avoid unnecessary overlap and other sources of inefficiency.
+<P>
+Digital monies present us with a massive challenge.
+Traditionally, the guardians of the money system, central banks, have focused narrowly on monetary policy and financial stability.
+Guiding financial innovation is far outside their existing mandates.
+But given the pace of change, they may have no choice but to expand their remit sooner rather than later.

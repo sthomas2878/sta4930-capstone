@@ -1,0 +1,64 @@
+<HEADLINE>
+The Private Sector’s Privacy Puzzle
+<P>
+NEW YORK – Why is privacy such a challenge for private companies?
+(Governments have their own problems, but that is another story.)
+Beyond privacy laws, companies must cope with customers with varying expectations, competitors with varying levels of integrity, and the various relationships that form the context of data exchange.
+<P>
+Privacy relates not only to who knows how much about us, but also to how we feel about it.
+Many “privacy” concerns are based on concrete interests, such as preserving financial security or obscuring information that could compromise one’s employment or ability to qualify for affordable health insurance.
+But there is also a more personal aspect: the tension between the desire to be known and the desire to protect one’s secrets, whether insidious, embarrassing, or intimate.
+<P>
+When the co-founder of a company in which I invested mentioned to me that a famous person I happen to know had signed up for the service, our first reaction was that I should reach out to him with a friendly note.
+But then I began to wonder whether he would be comfortable to hear that others knew of his use of the service (though it is a non-edgy business tool).
+Of course, he trusted the company enough to grant it technical access to his business data, which the company’s terms of service assure will not be viewed or used.
+Would the fact that others knew his identity as a user undermine that trust?
+<P>
+As it happens, the company uses a tool called Intercom, which allows any website operator to find out about its customers by their email address, Facebook ID, or whatever they use to sign in.
+There are many such “customer relationship” services, which rely on data sources that match usernames and email addresses using unspecified means.
+Most people are probably not aware of these practices – though, at this point, most would not likely be shocked by the information.
+(I, for one, was only somewhat surprised – about as much as I was to learn about the US National Security Agency’s far-reaching data collection.)
+<P>
+Some of Intercom’s customers want to know how many Twitter followers their users have, to determine their potential value as “influencers.”
+Once a company identifies which users have the most influence – well-known bloggers, for example – it may offer them better treatment, in the hope that they will recommend the service.
+Website startups may even want to check their users’ profiles on the Angel List database of angel investors, viewing them as a potential source of financing.
+<P>
+Others might use services such as Intercom to gain insight into their users’ interests – from their preferences in music to their favorite hobbies – in order to offer more personalized service.
+Indeed, many online services now offer to link users with their Facebook friends or LinkedIn contacts, or recommend activities or restaurants based on past behavior or current location.
+<P>
+Some people do not want this kind of attention, whether because they are already well-known personalities trying to fend off adoring fans or mooches, or simply because they are uncomfortable with unknown entities knowing so much about them.
+But, for many ordinary users, such recognition can be valuable and appreciated, even if it is not accompanied by special gifts or benefits.
+The question is how to distinguish between the two groups.
+The answer should be simple.
+Ask the customer: “How may we use the information you share with us, or that we receive from services like Intercom?”
+The problem is that most companies prefer not to raise this issue; they would rather let sleeping dogs lie.
+<P>
+What these companies must recognize is that over time they may not be able to survive a steady stream of privacy gaffes – whether the result of their own mistakes or guilt by association – and constantly changing rules.
+(In this sense, Facebook is a rare exception.)
+While it may require a little more effort and awkwardness to find out what customers want, companies that do so in a straightforward and open way will benefit in the long run.
+<P>
+To be sure, such openness carries some risks.
+For example, some people, alerted to the amount of information that is being collected about them, may refrain from using the service.
+For them, recognition from people may be okay – even desirable – but recognition by computers is creepy and unfulfilling.
+<P>
+The movie Her tells the story of a man whose job – composing letters for people who cannot write their own – will soon be automated by a new generation of operating systems capable of learning so quickly and comprehensively that they quickly surpass a single human in terms of accumulated knowledge.
+The film’s protagonist soon falls in love with one of these operating systems.
+“She” loves him, too – as well as 640 more of the 8,316 people with whom she works.
+He is not satisfied with that level of shared attention, especially given how intimately she knows him.
+The computer is human-like enough to win his love, but cannot fulfill the relevant expectations.
+<P>
+The challenge is thus to build systems that feel appropriately personal, without making users feel violated or uncomfortable.
+At the same time, they should not be presented as being more human than they are.
+Otherwise, users’ expectations will become disconnected from what the company can deliver.
+<P>
+But there is one more complication: Some people seek “privacy” from themselves.
+These are the kind of people who sport comb-overs, insisting to everyone – including themselves – that they are not balding.
+A scale salesman once told me that many people, despite being willing to share their weight with a doctor, do not want to look at the precise numbers themselves.
+The concreteness of the data scares them.
+<P>
+Another example: To commemorate Facebook’s ten-year anniversary, Time, Inc. offered to assess people’s newsfeeds to estimate how much time they had wasted on the site.
+While many were curious, I am sure many preferred not to face the facts.
+<P>
+Privacy is personal.
+By using a service, a person effectively enters into a relationship with its provider.
+Service providers should understand that their users will expect the transparency, respect, and recognition that are fundamental to any relationship.

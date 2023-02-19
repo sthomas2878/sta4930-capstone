@@ -1,0 +1,157 @@
+<HEADLINE>
+Overt Monetary Finance and Crisis Management
+<P>
+Bill White’s commentary responds to my argument, set out in a lecture at Cass Business School, that overt monetary finance (OMF) of increased fiscal deficits should not be a taboo policy option.
+My purpose was not to recommend specific policy actions in particular countries, but to widen the scope of debate about our policy response to the still profound challenges facing the advanced economies.
+White’s response is immensely valuable, engaging in detail with the arguments, rather than simply recoiling from the unmentionable.
+<P>
+There is a huge amount in White’s analysis with which I agree.
+As he stresses, the most fundamental driver of financial instability is the ability of fractional reserve banks (and shadow banking systems) to create credit and money, and thus to inject additional spending power into the economy.
+That capacity, described by Knut Wicksell in Interest and Prices, can sometimes support useful reflation; at other times, it can produce harmful inflation; at still others, harmful post-crisis deflation may result, as credit and money are destroyed.
+It can drive the real over-investment cycles feared by Austrian-school economists like Ludwig von Mises and Friedrich Hayek, and can drive harmful booms and busts in prices of existing assets, as described by Hyman Minsky.
+<P>
+The importance of these credit-cycle effects has increased greatly over the last 50 years, as the scale, complexity, and global interconnectedness of credit and maturity transformation processes has relentlessly increased.
+But, oddly and dangerously, their importance has largely been written out of modern macroeconomics, which has treated money as a neutral veil and paid little attention to the details of the credit and money-creation process.
+<P>
+White and I agree that the fundamental driver of the 2007-08 financial crisis was a huge increase in leverage throughout the economy.
+This “supercycle,” as White (quoting George Soros) calls it, was enabled, facilitated, and accentuated by Greenspan “puts” and financial liberalization.
+And it was viewed as benign by central banks convinced that the attainment of price stability was sufficient to ensure a lasting “ Great Moderation” of economic volatility .
+<P>
+As White describes, as the relationship between money supply and price levels deteriorated in the 1980’s, central banks came to assume that credit and money aggregates were of no particular interest.
+But, given the potential consequences for financial stability and the real economy, the size of financial institutions’ balance sheets relative to GDP matters greatly, quite independent of any price-level implications.
+<P>
+Indeed, there is a growing body of persuasive evidence (for example, recent work by Alan Taylor and Moritz Schularick) that the aggregate level of leverage in the real economy – private sector as much as public – is a crucial macroeconomic variable.
+Above some level of leverage, additional debt increases macroeconomic vulnerability to financial crisis and post-crisis deleveraging.
+<P>
+On all of this, White and I agree.
+We also agree on the need for a radical change to the financial-policy regime to promote stability and reduce the risk of future crises But, while White raises valid issues concerning the separate issue of how to respond to the post-crisis mess of debt overhang, deleveraging, and deflationary pressures, he does not undermine my case for considering the option of using OMF to fund increased fiscal deficits.
+<P>
+One radical regime change, proposed in the 1930’s by economists like Irving Fisher and Henry Simons, and endorsed by Milton Friedman in 1948, would be to abolish fractional reserve banking (and thus banks’ ability to create new credit, money, and purchasing power autonomously).
+I am not convinced that this is a realistic option.
+It overlooks the potential benefits of some maturity transformation, and it ignores the practical enforcement challenge – the potential for bank-like credit and money creation to flourish outside the formal banking system.
+<P>
+But the devotees of 100% reserve banking usefully focus our attention on the fundamental issue – the credit cycle – and, like White, I believe that fundamental change is required to ensure a more stable future system.
+This should entail the application of powerful macro-prudential tools: higher and countercyclical capital requirements, quantitative reserve requirements, and direct controls on borrowing through loan-to-value or loan-to-income limits.
+But, as White suggests, it also requires the integration of these macro-prudential tools with monetary policy operating through the interest rate, so that the two together lean aggressively against the upswing of the credit cycle.
+As White puts it, we need an entire new policy mindset, based on the recognition that financial structure, dynamics, and quantities matter crucially for macroeconomic stability, regardless of whether price stability has been achieved.
+<P>
+While building a better future financial regime, however, we must also deal with the severe problems caused by our past failures.
+Too much debt in the system means that our traditional policy responses – fiscal or monetary – may prove ineffective or produce harmful side effects.
+<P>
+The automatic and discretionary fiscal relaxations of 2009 played a vital role in offsetting falling private sector demand and attempted deleveraging.
+But if deficits are funded by interest-bearing debt, leverage simply shifts from the private to the public sector, raising questions about long-term public-debt sustainability.
+White quotes an OECD study arguing that Japan, the United Kingdom, and the United States may face problems in stabilizing their public debt ratios.
+In Japan’s case, I would go further: I can see no credible path by which Japanese government debt can be repaid in the normal sense of that word, rather than being restructured or monetized.
+<P>
+An alternative way to provide stimulus is via ultra-easy monetary policies – sustained low interest rates or unconventional measures such as quantitative easing.
+Absent alternative options, ultra-easy monetary policy has helped to mitigate the depth of the post-crisis recession.
+<P>
+But White and I share deep concerns about its long-term effects.
+Financial speculation and complex risky innovation may prove far more responsive than real economic activity to low interest rates.
+And ultra-easy monetary policy will work only if it stimulates increases in private leverage – the very problem that got us into this mess in the first place.
+<P>
+We seem, therefore, to have reached an impasse.
+We are in a mess created by deficiencies in our past regime, and the authorities seem to be out of fiscal and monetary ammunition.
+My Cass lecture argued, however, that in a fiat money system, the authorities never run out of ammunition with which to stimulate nominal demand.
+Using OMF to fund increased fiscal deficits is always an available option, and, in extreme circumstances, it should be deployed.
+<P>
+White does not directly reject this option.
+Instead, he poses useful questions and challenges to stimulate further debate.
+Quite rightly, he starts with the same fundamental question I posed in my Cass lecture: Do we need more stimulative policies of any sort to engender a faster rate of nominal GDP growth than is currently being achieved?
+In some countries, the answer might be no.
+As I argued in my Cass lecture, the disappointing division of UK nominal GDP growth between inflation and real output over the last five years casts doubt on whether more stimulus is the most appropriate policy.
+Indeed, my purpose was not to argue that OMF must be deployed in all countries today, but simply to make the case for its availability as a tool to be used if and when conditions are appropriate.
+<P>
+That said, across the major advanced economies – Japan, the eurozone, the UK, and the US – nominal GDP growth rates over the last five years have been well below those compatible with low inflation and attainable real output growth.
+More rapid nominal GDP growth would almost certainly have resulted in higher real growth and would have made it easier to achieve necessary deleveraging.
+White argues that demand stimulus can impede deleveraging (presumably because ultra-low interest rates create an incentive for banks to forebear and roll over debts, rather than to restructure them and write them off).
+But the experience of Japan over the last 20 years shows that without moderately positive nominal GDP growth, aggregate leverage (private and public combined) tends to increase relentlessly.
+<P>
+White’s second challenge is to ask how different from current policy OMF really is.
+After all, countries are running large fiscal deficits and central banks have bought government debt, expanding the monetary base.
+Doesn’t that amount to a sort of potential OMF without admitting as much?
+<P>
+I take the point; in fact, my Cass lecture explored the close potential equivalence between apparently different policies.
+But I would still argue that different policy choices would result if the option of OMF were openly considered.
+<P>
+Consider two scenarios.
+In the first, the government runs a fiscal deficit of 5% of GDP, funded with the issue of interest-bearing debt, and the central bank conducts quantitative-easing operations equal to 5% of GDP, while stating that these operations will in future be reversed.
+In the second scenario, the government runs a fiscal deficit of 10% of GDP, of which 5% is overtly financed with central-bank money, and the authorities make an explicit commitment that this increase will be permanent.
+As a result, the additional 5% deficit does not increase measures of government debt as a percentage of GDP.
+<P>
+In terms of the initial impact on the monetary base, the policies would be the same – an increase equal to 5% of GDP.
+But, in terms of the immediate impact on nominal GDP, they would almost certainly be significantly different.
+The latter option would, to use Milton Friedman’s phrase, inject additional demand directly “into the income stream,” rather than trying to stimulate the economy through the indirect levers of asset-price and portfolio-balance effects.
+<P>
+Thus, while White rightly points out that existing policies to increase the monetary base have elicited little or no response from broader monetary aggregates, this in no way undermines the argument for OMF.
+The case for OMF does not rely on any assumed mechanical relationship between the monetary base, the money supply, and nominal GDP.
+Indeed, it rests quite explicitly on the belief that in some circumstances increases in the monetary base per se will be wholly ineffective in stimulating nominal demand because of liquidity-trap effects.
+<P>
+In a lecture in October 2012, Mervyn King, the former governor of the Bank of England, urged proponents of OMF to be clear that they are proposing increased fiscal deficits.
+He was quite right.
+OMF is a policy designed to enable a larger fiscal deficit while avoiding the crowding out, Ricardian equivalence, or long-term debt-sustainability constraints and offsets that can limit the effectiveness or desirability of debt-funded fiscal stimulus.
+<P>
+A crucial feature of OMF, therefore, is that it results in a permanent increase in the monetary base.
+As White suggests, this raises a third question: whether the commitment to permanence can be made credible.
+And he is right that no central-bank commitment to any future policy carries absolute certainty.
+The stated current intention of all major central banks is that quantitative easing or similar operations will be reversed.
+But it is quite possible that they will prove permanent, and that central banks’ balance sheets, even if they cease to increase, will remain permanently larger than they were before the crisis.
+<P>
+That, after all, is what happened after the Federal Reserve-Treasury accord of 1951: the Fed ceased buying new Treasury bonds, abandoning its commitment to keep bond yields at 2.5%, but it never reversed its balance-sheet expansion.
+Conversely, authorities who announce that they have “permanently” increased the monetary base via OMF could in future reverse this “permanent” increase by running fiscal surpluses and withdrawing money from circulation if the stimulus turned out to be greater than appropriate.
+This was precisely the symmetric policy framework that Friedman advocated in 1948.
+<P>
+But, while absolute pre-commitment is not possible, clearly stated intent still almost certainly matters.
+The clearly stated intent behind quantitative easing is that the operations will be reversed, and that any increase in government debt, even if currently held on the central bank’s balance sheet, will create a future debt burden for households and companies.
+The overt commitment to reversal thus logically invites a Ricardian-equivalent offset to the stimulative effect of current fiscal deficits.
+By contrast, a clearly stated intent that a portion of the fiscal deficit will be permanently financed by money creation, unless and until the stimulative effect is higher than originally anticipated and desired, would have a different effect.
+<P>
+Where I agree completely with White, however, is that OMF would require the potential future application of macro-prudential tools to offset unintentionally strong stimulative effects.
+OMF enables a fiscal stimulus that is financed by an increase in the monetary base.
+When introduced in an environment of private-sector deleveraging, it is unlikely that the first-order stimulative effect will be immediately multiplied by private credit and money creation.
+But, in a world of fractional reserve banks, there is clearly a danger that the initial stimulus could be multiplied later by the subsequent expansion of private “inside money” purchasing power, as animal spirits return to bank and shadow-bank lenders and borrowers.
+<P>
+As a result, the necessary and logical corollary of the application of OMF is the restoration of quantitative reserve requirements to the policy toolkit.
+Applying such requirements would not reverse the increase in the monetary base, but it would constrain its stimulative effect to the originally intended level.
+<P>
+This suggests, of course, that while it is essential to consider separately the distinct issues of the future financial regime and the post-crisis response, there are links between them.
+Indeed, those links were central to the arguments advanced by economists like Simons, Fisher, and Friedman, who, surveying the wreckage produced by excessive credit creation in the 1920’s, proposed both OMF of fiscal deficits and a system of 100% reserve banking.
+<P>
+In such a system, the danger that an initial OMF stimulus will be multiplied by subsequent credit and private money creation disappears, because the monetary base is the money supply.
+In a fiat-money world without fractional reserve banks, OMF is an obvious strategy: indeed, without it, positive nominal GDP growth might be difficult to achieve, and optimal real growth might therefore require an unattainable downward flexibility in nominal wages and prices.
+<P>
+Simons, Fisher, and Friedman’s support for both OMF and 100% reserve banking therefore formed an internally consistent policy package.
+White questions, however, whether their support for this package was not fundamentally focused on the 100% reserve regime, rather than on OMF as a post-crisis response.
+As far as Simons is concerned, I think he has a reasonable point.
+But Fisher quite explicitly identified the absence of interest payments on deficits financed by permanent monetary expansion as one of the benefits of 100% reserve banking and OMF.
+And Friedman set out in 1948 a very clear case for using OMF to stimulate an economy when appropriate: “another reason sometimes given for issuing interest-bearing securities is that in a period of unemployment it is less deflationary to issue securities than to levy taxes.
+This is true.
+But it is still less deflationary to issue money.”
+<P>
+Despite White’s thoughtful questions and challenges, therefore, I remain convinced that there are some circumstances in which OMF would be an optimal policy, and that we should be willing to weigh the pros and cons of its application calmly in the light of evolving post-crisis circumstances, rather than to treat it as a taboo option.
+Applying it would, of course, entail difficult calibration issues.
+Its effect would be difficult to predict, with a very real danger of overshooting.
+The need for offsetting macro-prudential tools is clear.
+<P>
+Using OMF would take us into uncharted waters.
+But, as White says, we are already there, whether we like it or not.
+That is the inevitable consequence of our poorly designed pre-crisis financial regime.
+<P>
+And yet it is not clear that White, sharing my concerns about the impact of funded fiscal deficits or of ultra-easy monetary policy, has convincing alternative proposals that could return us to shore.
+Rather, his specific policy proposals might be most effectively pursued if combined with OMF.
+For example, I agree with White’s argument for “more public and private investment.”
+If more nominal demand is desirable, it would make sense to skew it toward investment, not consumption.
+But more public investment financed with public debt may threaten future debt sustainability: and it is unclear that ultra-easy monetary policy is effective in stimulating real private investment.
+Public investment financed by OMF might be an option.
+<P>
+Similarly, White quotes Claudio Borio on the possible use of public debt to stabilize the banking system.
+But if we commit to recapitalize banks with debt-financed fiscal expenditure, we may simply shift solvency concerns from banks to sovereigns, reinforcing one of the most pernicious dynamics in the evolution of the eurozone crisis.
+An alternative approach might be to use a one-off dose of OMF to finance a significant bank recapitalization, shifting as rapidly as possible to a new, more stable financial regime.
+Such a policy might assuage the fear – which White does not mention but that for many is the central argument against OMF – that once the taboo is broken, political pressures will lead inevitably to harmful overuse of OMF.
+<P>
+As I argued in my Cass lecture, OMF is like a very powerful medicine, potentially valuable if taken in appropriate quantities in specific circumstances, but potentially fatal if taken in excess or when stimulus is not required.
+Maybe it is so dangerous that we should eschew its potential use.
+But we should at least debate the issue, and face clearly the limitations and potential adverse side effects of alternative policies.
+<P>
+White’s response to my lecture engages constructively with that debate, and focuses our attention on the distinct but nonetheless linked issues of the appropriate future financial regime and the best post-crisis response.
+My own judgement is that we have not yet been radical enough in our redesign of the regime, and that the problems of debt overhang and deleveraging, resulting from our deficient pre-crisis regime, remain so profound that all available response options need to be carefully considered.

@@ -1,0 +1,57 @@
+<HEADLINE>
+The SolarWinds Wake-Up Call
+<P>
+WASHINGTON, DC – The recent discovery of the devastating Sunburst hacking campaign against US and global targets is once again challenging the international community to respond to an increase in cyber attacks.
+Over the past year, cybersecurity personnel worldwide have faced a surge of hacks against critical infrastructure, including institutions fighting the COVID-19 pandemic.
+While governments have openly condemned some of this behavior, more collective action is clearly needed.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+There is no international treaty for cyber matters, and the 11 non-binding norms of responsible state cyber behavior endorsed by the United Nations General Assembly are somewhat ambiguous.
+Additional norms are being put forward all the time, which is a good thing.
+But norms are not treaties and should not be treated that way.
+The better option is to concentrate on the spirit – not just the letter – of what the norms convey.
+Indeed, the latest hacking revelation shows precisely why an international cybersecurity treaty would likely fail.
+<P>
+SolarWinds, a leading US network-management company, produces a monitoring platform that grants IT support staff remote access to devices that have it installed.
+The recent supply-chain attack hijacked the software’s update function to install the so-called Sunburst malware.
+As the tech publication The Register reports, SolarWinds is deployed in more than 425 US Fortune 500 corporations, all major US telecoms companies, and most branches of the US government (with a similar presence in many other developed economies).
+And the cybersecurity company FireEye, whose reported breach early last week was instrumental in uncovering the campaign, said that institutions worldwide may have been compromised, even if the US government was the likely focus.
+<P>
+The US government itself suspects Russian intelligence actors of perpetrating the attack, and the cybersecurity expert Jeff Moss has argued that unmasking the campaign could even prompt the attackers to take further action.
+<P>
+What we know for sure is that the SolarWinds attack unfolded over many months, and coincided with governments’ latest negotiations to strengthen and clarify cyber norms.
+Of the eight norms that have been proposed by the Global Commission on the Stability of Cyberspace, at least one was clearly violated: the injunction that “state and non-state actors should not tamper with products and services in development and production.”
+The attack may also have violated a number of other norms, such as protecting the “public core” (or backbone infrastructure) of the global Internet.
+(This is also a principle of the Paris Call for Trust and Security in Cyberspace, signed by over 1,000 government, industry, and civil-society organizations.)
+<P>
+More important, at least three of the 11 norms already endorsed by the UN General Assembly may come into play in the SolarWinds case, including those meant to protect the information and communications technology supply chain, critical infrastructure, and the cyber defenders themselves.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+Some detractors might argue that the wording of these norms is so vague as to allow for this kind of activity.
+We disagree.
+Cyberattacks often seem designed to fall into a grey area between agreed norms; that is no reason to excuse them.
+In 2015, within months of the UN-mediated agreement on the norm to protect critical infrastructure, there were at least three attacks that looked like attempts to test the boundaries of the agreement.
+<P>
+For example, hackers almost destroyed a German steel mill, but arguably left undamaged the registered critical infrastructure of which it was a part.
+Then, a power grid went down in Ukraine, but only temporarily, and (arguably) during a state of war, for which different rules apply.
+Finally, one of France’s largest private TV stations was attacked and forced off the air, but the network had not been officially designated as critical national infrastructure.
+<P>
+The lackluster international response to these breaches may have played a role in encouraging a much more controversial and widely noticed hack: the one directed against the 2016 US presidential election.
+That effort fell into a grey area as well, because elections and election processes were not officially designated as “critical infrastructure” at the time.
+<P>
+No one can seriously claim that there was no foul in these cases because there was no clear norm violation.
+Norms are not legally binding rules, where the exact wording is determinative.
+Rather, they are flexible instruments whose range of possible interpretations can be a strength, not a weakness.
+They exist precisely because it is often difficult to interpret how existing international law applies in cyberspace, and because most democracies want to avoid being bound by an international treaty that is certain to be inadequately worded and poorly monitored.
+<P>
+The SolarWinds case shows why: In cyberspace, there will always be new techniques devised to fall outside the scope of any specific text.
+But the attack also shows that considering more norms, even if only as subsidiaries to existing norms, could help clarify precisely which values the international community is trying to reinforce.
+A norms-based approach not hamstrung by incomplete definitions can facilitate a stronger response to counter and discourage malicious cyber activities.
+But political will is still needed to follow through and punish these apparent transgressions.
+<P>
+The best way to dissuade bad state actors is through collective action that can impose consequences and thus establish customary international law.
+Ultimately, norms exist to foster and support this type of response where appropriate, not to inhibit it.
+If we are going to prevent the recent surge in cyberconflict from spiraling out of control, such international action is urgently needed.

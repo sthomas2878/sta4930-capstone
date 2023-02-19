@@ -1,0 +1,65 @@
+<HEADLINE>
+Two Myths of the 2008 Meltdown
+<P>
+CAMBRIDGE – Over the last decade, research by many economists, including us, arrived at a broadly shared narrative of the 2008-2009 financial crisis.
+As we describe in our new book, A Crisis of Beliefs: Investor Psychology and Financial Fragility, the fundamental cause of the crisis was the deflation of the housing bubble, starting in early 2007.
+For several years until then, home prices in the United States rose dramatically, fueled by massive borrowing by homebuyers and banks’ investments in mortgages and mortgage-backed securities.
+As the housing bubble burst, both borrowers and bankers suffered.
+<P>
+By mid-2008, banks were projected to lose hundreds of billions of dollars.
+After months of growing losses, bankruptcies, and market freezes, the financial system finally cracked.
+Lehman Brothers declared bankruptcy, and many other firms had to be saved by the government.
+In short order, the financial woes of banks and consumers dragged the economy into the Great Recession.
+<P>
+This widely accepted and well-documented narrative highlights two misconceptions in the current retrospectives of the crisis.
+These misunderstandings may seem purely academic, but they are not.
+They have major consequences for the ability of policymakers to prevent future crises.
+<P>
+The first misconception is that the crisis was all about moral hazard.
+Few things are more popular than blaming the banks for the crisis.
+The banks pushed unsuspecting consumers into risky mortgages, fueling the housing bubble in the first place, and then bet on the bubble themselves, knowing that should things turn sour, the government would bail them out.
+They were, after all, too big to fail.
+<P>
+It is surely the case that the banks, along with rating agencies, mortgage underwriters, investment banks, and others, engaged in unsavory practices.
+But the moral hazard view misses the central point: as we document in our book, households, banks, rating agencies, investors, and policymakers all believed in the housing market, and all failed to see the risks.
+<P>
+The banks believed what consumers believed as well – that housing was a good bet.
+The stock market rewarded banks that made that bet.
+The first-order cause of the bubble and the crisis was neither trickery nor hidden risk taking.
+It was a belief about housing that most market participants embraced.
+<P>
+The second misconception is that the crisis could not be anticipated.
+This argument is most popular with policymakers who acknowledge that they failed to see what was coming.
+As Timothy Geithner, President Barack Obama’s Treasury Secretary, put it in his memoir, “Financial crises can’t be reliably anticipated or preempted.”
+Likewise, Hank Paulson, Geithner’s predecessor under President George W. Bush, recently said, “my strong belief is that these crises are unpredictable in terms of cause or timing or the severity when they hit.”
+<P>
+One version of this view holds that the Lehman failure resulted from an unpredictable run, with investors rushing all at once to withdraw short-term financing from the banks.
+“This crisis involved a 21st century electronic panic by institutions,” as former Federal Reserve Chairman Ben Bernanke put it.
+In other words, “it was an old-fashioned run in new clothes.”
+<P>
+The evidence does not support this view.
+Our book shows that deflating asset bubbles, particularly in housing markets, pose a serious danger to the financial system.
+When highly leveraged banks and other institutions face the abyss of massive losses, the probability of a panic rises sharply.
+In this respect, the 2008 crisis looked very much like all the others.
+<P>
+The deflation of the housing bubble implied massive losses for banks.
+The International Monetary Fund predicted that US banks would lose hundreds of billions of dollars by the summer of 2008, well before Lehman collapsed.
+Several institutions, including Bear Stearns, had to be rescued earlier that year.
+The Lehman failure did precipitate a fast and furious run that was hard to stop once it started.
+But its occurrence was a growing possibility for months.
+It did not come out of the blue.
+<P>
+One reason it may have felt that way is that, as late as August 2008, the Fed expected only a small slowdown of the US economy should home prices continue falling.
+The crisis was a surprise to investors and policymakers because they gravely underestimated the risks building up in the financial system.
+Lehman was a heart attack, but the patient was already terminally ill.
+<P>
+The two misconceptions about the crisis have the unfortunate effect of preventing us from learning a key lesson: economic policy prior to Lehman Brothers’ collapse should have been more aggressive.
+Moral hazard claims excuse inaction because “it was the bad banks taking and hiding extravagant risks.”
+Likewise, claims of unpredictability excuse passivity.
+In reality, the fragility of the financial sector had been building up for more than a year before Lehman.
+The continuing optimism of Fed forecasts, and the reluctance to force banks to shore up their capital – often clothed in too-big-to-fail-rhetoric – amounted to serious policy failures.
+<P>
+Policymakers showed great courage and skill in acting after the Lehman catastrophe.
+But we should not forget their failure to act before it.
+Stopping financial bubbles is difficult.
+Acting early and aggressively to protect the system once the bubbles start deflating would help contain future crises.

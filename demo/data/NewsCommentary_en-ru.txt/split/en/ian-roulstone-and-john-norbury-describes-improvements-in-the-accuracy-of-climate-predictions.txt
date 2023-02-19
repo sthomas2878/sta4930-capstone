@@ -1,0 +1,46 @@
+<HEADLINE>
+Climate-Model Misgivings
+<P>
+OXFORD – The credibility of climate scientists has taken a number of hits lately, with climate models having failed to predict the “pause” in global warming over the last decade or last year’s increase in Antarctic sea ice.
+Even with the benefit of hindsight, the Intergovernmental Panel on Climate Change has struggled to explain recent developments.
+<P>
+This is more than embarrassing; it is cause for serious concern.
+After all, arguably the most important issue in climate science today is not whether man-made global warming is real, but whether the models being used to predict climate change are reliable enough to inform policymakers’ decisions.
+<P>
+Of course, no one is suggesting that climate scientists should be able to predict future developments precisely.
+Even tomorrow’s weather forecast – produced using techniques that form the basis of climate models – is not 100% accurate.
+But weather forecasts are becoming increasingly precise – and climate predictions should be following suit.
+<P>
+Weather forecasts are generated from results produced by supercomputers, which solve the fundamental physical equations.
+In a process called data assimilation, each forecast blends the previous one with new data about the state of the atmosphere from satellites, weather radar, and ground stations.
+<P>
+Forecasts for the Southern Hemisphere have always been less accurate than forecasts for the Northern Hemisphere, owing to the greater expanse of ocean in the south, which makes it more difficult to gather data about the current state of weather systems.
+But, as an examination of three-, five-, seven-, and ten-day forecasts by the European Center for Medium-Range Weather Forecasts from 1980 to 2012 demonstrates, the introduction in 2001 of a new data-assimilation algorithm has improved the situation considerably (see figure).
+<P>
+<P>
+[To view a high-resolution version of this graph, click here.]
+<P>
+The algorithm, dubbed “4D VAR,” uses a computer model to create an optimal method for blending weather observations with earlier predictions to determine how to begin the next forecast.
+While this may not sound like a major breakthrough, it enables scientists to measure the disparity between predictions and observations, thereby making it easier to cope with data voids, such as those involving the southern oceans.
+<P>
+The 4D VAR algorithm re-calculates today’s weather using new information about the patterns observed over the previous 12 hours or so; the day’s assessment is then used to forecast the weather for tomorrow and the week ahead.
+It is a bit like a marksman adjusting the telescopic sight on a rifle.
+He takes aim and fires the first shot, missing the bull’s eye.
+He then uses that experience to determine how to adjust the sight and improve the next shot’s accuracy.
+<P>
+A “technology transfer” from weather forecasting to climate modeling is now underway, promising to facilitate constant progress in honing the accuracy of predictions.
+Today’s climate models use model-data fusion to refine the representation of climate parameters and variables, which may range from vegetation-decomposition rates in the carbon cycle to the optical properties of clouds and aerosols.
+The 4D VAR algorithm will use the recently observed increase in Antarctic sea ice and the pause in global warming to improve the models further.
+<P>
+As the late American astronomer Harlow Shapley once said, “No one trusts a model except the man who wrote it; everyone trusts an observation, except the man who made it.”
+In model-data fusion, computer algorithms and observations are combined in a way that allows climate scientists to quantify the uncertainties in each, and assess the impact of those uncertainties on their predictions.
+<P>
+Does this mean that climate predictions can be trusted?
+In a word, yes.
+<P>
+The Earth system is so complicated, and governed by so many subtle feedbacks, that it is an astonishing feat to be able to make realistic predictions at all.
+Yet many important climate predictions have been confirmed.
+Dismissing climate models – or the complex weather-forecasting techniques on which they are based – as “fundamentally flawed” for failing to predict the slower increase in global temperatures over the last decade would be foolish.
+<P>
+We may not be inclined to trust politicians, but we do need to take the output of these well-honed algorithms seriously.
+Unlike many of us, our climate models are increasingly able to learn from their mistakes.

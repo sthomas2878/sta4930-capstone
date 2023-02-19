@@ -1,0 +1,44 @@
+<HEADLINE>
+Turning Off the Dividend Spigot
+<P>
+NEW YORK – European banks’ high litigation and restructuring costs have resulted in major losses on their books and abysmal stock-market performance.
+As the industry and European regulators now reflect on this dismal state of affairs and search for solutions, they should consider banks’ revenue distribution – including employee bonuses and shareholder dividends – as part of the problem.
+<P>
+Revenue distribution is one primary reason for European banks’ capital shortfalls.
+To understand why, we should look back to October 2014, when the European Banking Authority began balance-sheet stress tests for the eurozone’s largest 123 banks and found a capital shortfall of €25 billion ($28 billion) in all of them.
+<P>
+At the time, the EBA required the banks to devise plans to address their respective shortfalls within 6-9 months.
+Some banks took action and raised equity through rights issues, sometimes with substantial help from governments.
+But most banks mollified regulators by simply shedding riskier assets to improve their capital ratios.
+<P>
+Needless to say, these efforts were ineffective, and European banks’ share prices have declined by 50%, on average, since the initial 2014 assessment.
+Banks that failed the stress test and didn’t take the result seriously are partly to blame, but so, too, are regulators who did not sufficiently hold the banks’ feet to the fire to improve their balance sheets, and who may have applied stress tests that were too weak to detect financial frailty.
+<P>
+The EBA conducted another series of stress tests and reported the results in late July.
+This latest round looked at 51 banks and, contrary to previous tests, was not designed to identify capital shortfalls, but rather to provide “a common analytical framework to consistently compare and assess the resilience of large EU banks to adverse economic developments.”
+<P>
+Regulators now suppose that the European banking sector is resilient to adverse shocks.
+On the same day as the EBA’s announcement, the worst performer, Italy’s Banca Monte dei Paschi di Siena, announced €5 billion ($5.6 billion) in new funding, pursuant to its €5.6 billion capital requirement.
+<P>
+Still, market reaction to the announcement was negative (the EuroStoxx Banks index fell 7.5% in two days), most likely because the EBA did not include specific estimates of European banks’ capital shortfalls or outline a recapitalization plan.
+<P>
+In a new paper investigating this market reaction, using United States capital-requirement rules, we calculate the total capital shortfall in all 51 participating banks to be €123 billion.
+Despite this large capital shortfall, 28 of the 34 publicly listed banks in the stress test paid out about €40 billion in dividends for 2015, meaning that they distributed, on average, over 60% of their earnings to shareholders.
+<P>
+Dividend payments made by under-capitalized banks amount to a substantial wealth transfer from subordinated bondholders to shareholders, because it is bondholders who will suffer the losses in a crisis.
+Moreover, it is potentially a wealth transfer from taxpayers to private shareholders, because under new banking rules government bailouts are possible after bondholders have covered (bailed in) 8% of a bank’s equity and liabilities.
+<P>
+By contrast, undercapitalized banks in the US are forced to halt all forms of capital distribution if they fail a stress test.
+Fortunately, following the 2016 round of stress tests, the EBA is now also considering this type of regulatory sanction.
+Thus, “competent authorities may also consider requesting changes to the institutions’ capital plan,” which “may take a number of forms such as potential restrictions on dividends required for a bank to maintain the agreed trajectory of its capital planning in the adverse scenario.”
+<P>
+We estimate that if European regulators had adopted this approach and forced banks to stop paying dividends in 2010 – the start of the sovereign debt crisis in Europe – the retained equity could have paid for more than 50% of the 2016 capital shortfalls.
+<P>
+<P>
+The figure above shows our calculated capital shortfalls, using the EBA stress test’s “adverse scenario” losses and the cumulative dividends these banks have distributed since 2010.
+Dividends paid out by some banks, such as BNP Paribas and Barclays, actually exceed the current capital shortfalls, while at others – such as Deutsche Bank, Commerzbank, and Société Générale – capital shortfalls far exceed dividends that would have been retained.
+The latter banks would still require substantial capital issuances on top of dividend restrictions to make up the difference.
+<P>
+Nonetheless, our findings suggest a simple first step toward preventing bank capital erosion: stop banks with capital shortfalls from paying dividends (including internal dividends such as employee bonuses).
+Such a policy would not even require regulators to broach topics like capital issuance, bailouts, or bail-ins, and some banks have even already begun to suspend dividend payments.
+All that’s left now is for the European Central Bank to enforce this practice across the eurozone.

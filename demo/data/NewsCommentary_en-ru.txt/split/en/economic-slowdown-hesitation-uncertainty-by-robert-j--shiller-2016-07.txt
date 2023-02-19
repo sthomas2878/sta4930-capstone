@@ -1,0 +1,60 @@
+<HEADLINE>
+The Global Economy’s Hesitation Blues
+<P>
+NEW HAVEN – Economic slowdowns can often be characterized as periods of hesitation.
+Consumers hesitate to buy a new house or car, thinking that the old house or car will do just fine for a while longer.
+Managers hesitate to expand their workforce, buy a new office building, or build a new factory, waiting for news that will make them stop worrying about committing to new ideas.
+Viewed from this perspective, how worried should we be about the effects of hesitation today?
+<P>
+Hesitation is often like procrastination.
+One may have vague doubts and feel a need to mull things over; meanwhile, other issues intrude on thought and no decision is taken.
+Ask people why they procrastinate, and you probably won’t get a crisp answer.
+<P>
+So how does such behavior become sufficiently widespread to bring about an economic slump?
+In fact, the reasons for postponing activities that would stimulate the economy may be difficult to discern.
+<P>
+One thinks first of feedback from others who are hesitating.
+Income effects and crowd psychology may amplify individual vacillation.
+But there must have been some initial factor that started the feedback cycle – some underlying source of hesitation.
+<P>
+Loss of economic “confidence” is one possible cause.
+Published confidence indices, available since the 1950s, are based on polls that ask consumers or businesspeople about their perceptions of business activity and expectations of future income and employment.
+<P>
+“Uncertainty” about economic policy is another possible source of hesitation.
+If businesspeople don’t know what regulations, taxes, or worse, nationalizations, will be coming, they may dither.
+The idea is an old one, expressed during the Great Depression of the 1930s; but it was not measured well, at least until recently.
+<P>
+In a 2015 working paper, the economists Scott R. Baker, Nicholas Bloom, and Steven J. Davis constructed Economic Policy Uncertainty (EPU) indices for a dozen countries using digital news archives.
+The indices (covering Canada, China, France, Germany, India, Italy, Japan, Russia, South Korea, Spain, the United Kingdom, and the United States) were created by counting the number of newspaper articles in each country and each month that had the trifecta of terms “economy” (E), policy” (P) and “uncertainty” (U).
+<P>
+The index each month was the total number of articles with those three words, divided by the total number of articles in the targeted newspapers each month.
+Native speakers in each country were consulted on the appropriate translations of the three words.
+The indices spanned decades, and in two countries, the US and the UK, went all the way back to 1900.
+The US index correlates with implied equity-price volatility in the options markets (VIX).
+<P>
+They found that their EPU index foreshadows economic contractions in the 12 countries, and that for the two countries with long-term indices, the EPU values were high during the Great Depression.
+But do contractions cause uncertainty, they ask, or does uncertainty cause contractions?
+Given that we know that people are highly reactive to each other, the causality most likely runs both ways, in a feedback loop.
+<P>
+The deeper and more interesting question concerns what initiates this uncertainty.
+To answer it requires impressionistic characterizations of the extant stories and ideas that might influence public thinking – or avoidance of thinking – about the economy.
+<P>
+As for the Great Depression, one wonders if the high degree of EPU was linked to social trends after the excesses of the 1920s, fueling fear of Communism and, in the United States, of the New Deal.
+One wonders if fear of fascist regimes, and of a coming war, prolonged the depression after Hitler came to power in 1933.
+The attention devoted to Johannes Steele’s 1934 book The Second World War, which predicted that eponymous event, indicates that fear of war must have been talked about enough to underpin some hesitation.
+To people who lived through World War I, the thought of a sequel must have seemed nightmarish.
+<P>
+Of course, whether the Great Depression was really prolonged by these stories or ideas cannot be proved.
+How do we know which stories were affecting people’s thinking?
+On the other hand, we can be fairly certain that some of these stories really do affect perceived economic uncertainty.
+<P>
+Psychologists have shown that people display an “affect heuristic,” or a tendency to tag memories with emotions and to let those emotions affect decision-making, even when the decision is unrelated to what caused the emotions.
+A mismatch of emotions can cause executive dysfunction, a failure to act, hesitation.
+<P>
+Some kinds of stories circulating today – related to growing nationalism or fear of challenges by immigrants to traditional cultural values – might underpin greater hesitation.
+The Brexit vote in the United Kingdom last month has been viewed worldwide with extraordinary alarm as a signal of political instability.
+The rising incidence of terrorism has added a vivid emotional edge to such developments.
+<P>
+Will these fears fuel enough economic hesitation to bring on another worldwide recession?
+Any answer at this time would be impressionistic and imprecise.
+Given the importance of the consequences, however, we should not shrink from considering how such fears are affecting economic decision-making.

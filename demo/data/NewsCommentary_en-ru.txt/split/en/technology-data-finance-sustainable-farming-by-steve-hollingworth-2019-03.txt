@@ -1,0 +1,63 @@
+<HEADLINE>
+Coffee, Cocoa, and the Cutting Edge
+<P>
+WASHINGTON, DC – That morning ritual loved by millions, a simple cup of coffee, may one day be a thing of the past.
+New research shows that 60% of the world’s 124 species of wild coffee face a mounting threat of extinction, mostly as a result of deforestation.
+This potential loss of genetic diversity would, in turn, limit the ways in which coffee could be adapted to a changing climate and disease threats.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+It’s not just coffee that is in danger.
+Deforestation is also threatening cocoa and the future of chocolate.
+Forest loss in the Amazon is eliminating wild relatives of cocoa, while in West Africa it is quickly depleting soils and making crop cultivation much harder.
+Soil depletion, along with aging trees and the increased risk of pests and disease, is threatening the livelihoods of the already-poor small farmers who produce the vast majority of the world’s cocoa and coffee.
+<P>
+With 25 million coffee producers and up to six million cocoa farmers (and their families) worldwide, any effort to end this cycle of human and natural-resource poverty must match the size and scope of the problem.
+Fortunately, the smart use of cutting-edge technology makes it possible to take on the challenge.
+<P>
+New initiatives must help farmers rapidly adopt sustainable practices and increase the productivity of existing agricultural land, so that they can improve their own wellbeing and ease pressure on forests.
+Efforts to alleviate poverty among farmers also need to address gaps in financing, agricultural training, and tools for advance planning.
+<P>
+This is where technology can play a key role.
+Data, digital and remote-sensing technology, and the Internet of Things represent the future of agriculture, and are already in use on big farms in rich countries.
+But technology can also help small farms in poorer countries, where innovative approaches must be developed, piloted, supported, and scaled.
+<P>
+Africa has produced numerous ingenious examples of this.
+In Ghana, collaboration between agribusiness, civil society, and academia has led to SAT4Farming, which uses digital and remote-sensing technology to create farm development plans (FDPs) for smallholders.
+Developed by Grameen Foundation in partnership with the Rainforest Alliance and Mars, the digital FDP incorporates farm data such as environmental conditions, household financing, and production levels, and applies “smart logic” to generate seven-year plans that guide smallholders’ investments.
+These plans, similar to profit-and-loss statements, are then adjusted every year based on farmers’ decisions.
+<P>
+One early adopter of a digital FDP is Peter Oppong, a cocoa farmer in Ghana for the past 17 years.
+Based on its recommendations, Peter began to replace his aging trees.
+Because of the high costs, he started with just one-quarter of his land, and plans to add another quarter each year until he finishes.
+Meanwhile, other, less costly steps, such as tree pruning, have yielded quick results.
+<P>
+Peter was fortunate to have the funds to rehabilitate his farm.
+Many cocoa and coffee farmers do not.
+And without access to financing, even the best agronomic advice is for naught.
+Here, too, radical new approaches are needed.
+<P>
+One such approach is FarmDrive in Kenya, which gives lenders detailed credit scores on smallholder farmers using data from farmers’ mobile phones, alternative data (such as a farmer’s adoption of good agricultural practices), and machine learning.
+This information gives lenders greater assurance, boosting available credit for smallholders.
+<P>
+Meanwhile, according to the chocolate manufacturer Barry Callebaut, the financial sector could give farmers access to affordable microcredit to fund good farming practices.
+The company says replanting just one hectare of cocoa costs approximately $2,400, and it estimates that thousands of hectares in Ghana and Côte d’Ivoire need replanting.
+Its West African supply chain alone would need some $250 million in risk guarantees for loans to smallholder farmers.
+<P>
+Innovative funding is needed in the coffee supply chain, too.
+Starbucks, for example, has established a $50 million Global Farmer Fund that supports farmers financially, including for renovation efforts.
+The fund has benefited more than 60 cooperatives in eight countries, and over 40,000 farmers.
+<P>
+Financing the transformation of the coffee and cocoa supply chains is a huge undertaking that calls for increased investment at all levels and a variety of approaches, including public-private lending partnerships for mitigating and sharing risks, and specially tailored microloan products and digital tools to assess creditworthiness.
+The smart use of big data can facilitate such initiatives, and provide deep insights into farmers’ needs and capacities.
+<P>
+Today, far more is at stake than the comfort of a bar of chocolate or a morning hit of caffeine.
+Improving the wellbeing of smallholder farmers and their families could propel millions out of poverty.
+It also would have a profound, positive impact on both economic development and the ecosystems that support agriculture.

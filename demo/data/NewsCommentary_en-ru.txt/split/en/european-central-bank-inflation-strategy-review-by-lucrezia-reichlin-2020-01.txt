@@ -1,0 +1,58 @@
+<HEADLINE>
+What the ECB’s Strategy Review Must Do
+<P>
+LONDON – With her recent announcement of the European Central Bank’s long-overdue strategy review, new ECB President Christine Lagarde has generated high expectations.
+The review’s outcome will be the first important signal of how Lagarde intends to lead the institution – and of how the ECB is likely to address persistently low inflation in the eurozone.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The world is very different than it was in 2003, when the ECB’s strategy was last revised, and the institution has itself undergone deep changes since the 2008 financial crisis.
+Faced with a global recession and then the 2011-2012 eurozone debt crisis, the ECB abandoned the traditional approach of passively meeting banks’ demand for liquidity – its initial response to the financial crisis.
+Instead, the ECB started actively managing its balance sheet in order both to ease monetary policy and stabilize the financial system.
+<P>
+Furthermore, the ECB has radically expanded its operational tools.
+In 2014, it introduced negative interest rates on banks’ deposits with national central banks, and began providing the market with “forward guidance” concerning its future policies.
+And, since 2015, the ECB has engaged in asset purchases (known as quantitative easing, or QE), causing its balance sheet to double compared to 2008.
+Finally, the ECB has assumed larger prudential supervisory responsibilities vis-à-vis European banks under the Single Supervisory Mechanism.
+<P>
+The first phase of the ECB review will be narrow, focusing on defining the bank’s inflation target, the role of monetary aggregates as signals of medium- to long-term inflation, and communication.
+This is expected to be concluded in the first half of 2020, to be followed by a second phase of reflection.
+<P>
+Any meaningful review of these issues must objectively and critically analyze the decade since the financial crisis, during which average eurozone inflation has been well below the ECB’s objective of “below, but close to, 2%,” and also lower than in the United States and the United Kingdom.
+In particular, the review should quantify the costs of tolerating a systematically below-target level of inflation, relative to pursuing other policy options.
+<P>
+There are at least three hypotheses to explain the ECB’s inability to achieve its inflation objective.
+The “policy mistakes” hypothesis maintains that the ECB should have implemented more aggressive policies – in particular, QE – between 2012 and 2014.
+If these “mistakes” stemmed from an ill-defined ECB strategy, then its strategy will have to be adjusted; if they were the result of political constraints, then its decision-making process should be changed.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+The second explanation highlights the inadequate coordination of fiscal, financial, and monetary policy in the eurozone.
+In 2009, for example, monetary easing was accompanied by a delayed cleanup of the banking sector and fiscal austerity, leading to a second recession that the ECB was late to identify.
+And in 2012-2014, a neutral fiscal stance was coupled with both insufficient monetary stimulus and banking-sector deleveraging.
+<P>
+Both hypotheses suggest that the ECB would have fared better had it clearly committed to a symmetric quantitative target for inflation or nominal GDP.
+That would have implied, for example, not increasing interest rates in 2011 (as the ECB did) in response to the temporary inflationary effect of higher oil prices.
+It also would have implied starting asset purchases in 2012 instead of 2015, and not stopping them in 2018.
+<P>
+The third hypothesis, favored by some central bankers, is that persistently low eurozone inflation reflects structural factors such as adverse demographics, low growth expectations, and the associated increase in demand for safe assets.
+This explanation thus draws parallels between the eurozone and Japan, where aggressive monetary and fiscal policies since 2013 have failed to lift the economy out of its two-decade-long slough of low inflation.
+<P>
+Advocates of the structural view argue that it would be better for the ECB’s policymakers to adopt a lower inflation target rather than try to engineer a monetary stimulus that ends up inflating asset prices and jeopardizing financial stability.
+After all, their argument implies, there is little evidence that stable low inflation is bad for welfare.
+<P>
+But this third hypothesis can lead to two alternative policy recommendations.
+The first is a “do-nothing” approach, coupled with a downward adjustment of the ECB’s inflation target in line with actual inflation.
+Such a course of action is justified if policymakers assume that potential output growth in the eurozone has declined independently of past fiscal and monetary stabilization policies.
+The second option, as under the first two hypotheses, is to maintain an accommodative monetary policy, possibly in coordination with fiscal policy.
+This would be the right thing to do if policymakers believed that persistent slack in the real economy would end up affecting potential output.
+<P>
+Most analyses imply that ECB policy has in general been too cautious during the last decade.
+Moreover, even if one accepts the structural explanation for trend inflation and takes the view that inflation expectations have fallen independently of past policies, the “do-nothing” option is likely to cause expectations to spiral further downward, possibly leading to a deflationary trap.
+One then has to consider the costs linked both to the associated relative price adjustments and to the effect that the resulting upward pressure on the real interest rate would have on the burden of private and public debt.
+These costs are likely to be greater than those associated with the financial-stability risk of doing “too much,” which in any case can be addressed using prudential tools.
+<P>
+The ECB’s new strategy will have to be based on the kind of quantitative analysis needed to answer these questions.
+But it also must recognize that economists are still a long way from understanding the dynamics of low inflation.
+Given this uncertainty, the ECB should aim to adopt robust policies that cause the least damage under a broad range of scenarios.

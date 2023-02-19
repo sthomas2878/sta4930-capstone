@@ -1,0 +1,51 @@
+<HEADLINE>
+Europe’s Chance to Lead on Robotics and AI
+<P>
+BRUSSELS – At least since Mary Shelley created Victor Frankenstein and his iconic monster in 1818, humans have had a morbid fascination with man-made beings that could threaten our existence.
+From the American television adaptation of “Westworld,” which depicts an amusement park populated by androids, to the “Terminator” films, in which super-intelligent machines aim to destroy mankind, we often indulge the paranoid fantasy that our own technological creations might turn on us.
+<P>
+In Homo Deus, Hebrew University’s Yuval Noah Harari argues that existing technological advances have already put mankind on a path toward its own demise.
+Developments in artificial intelligence (AI), algorithms that make better decisions than humans, and genetic engineering all imply that most human beings will be superfluous in the not-too-distant future.
+<P>
+At the Web Summit conference in Lisbon last month, the renowned physicist Stephen Hawking addressed the threats as well as the opportunities that lie ahead.
+“Success in creating effective AI,” Hawking said, “could be the biggest event in the history of our civilization.
+Or the worst.”
+The problem, he added, is that, “We just don’t know.
+So we cannot know if we will be infinitely helped by AI, or ignored by it and sidelined, or conceivably destroyed by it.”
+<P>
+Despite their stark warnings about the possible implications of existing technologies, however, both Hawking and Harari believe that we still have time to shape the future for ourselves.
+The changes ahead will raise a number of pertinent questions for policymakers.
+What will the spread of robotics and AI mean for defense and security or the future of employment?
+And what rules can ensure that these innovations are collectively beneficial?
+<P>
+So far, mainstream political debate about these questions has been limited.
+That is not surprising: as we saw with animal cloning, politics tends to lag behind science.
+In the European Union, single-market regulations are often adopted years after the scientific breakthroughs that made them necessary.
+But when it comes to robotics and AI, we cannot afford to hesitate.
+<P>
+Fortunately, as Hawking pointed out, some European policymakers have already begun legislative work on this front.
+In February of this year, the European Parliament adopted a resolution calling for the establishment of new rules governing AI and robotics.
+We are asking the European Commission to propose measures that will maximize the economic benefits of these technologies, while also guaranteeing a standard level of safety and security.
+Although I disagree with some of the proposals currently on offer, the fact that we are at least having a debate on the matter is a positive development.
+<P>
+While other countries are also considering new rules for robots and AI, the EU has a unique opportunity to take the lead.
+By acting now, we can ensure that the EU will not be forced to follow regulatory frameworks set by other countries.
+Ultimately, global rules will be required; and Europe has a chance to set the standard for what they should look like.
+<P>
+For starters, we will soon need a specific legal status for robots, so that we can determine who is liable for any damage they may cause.
+Moreover, as the Microsoft founder and philanthropist Bill Gates has warned, robotics and advanced algorithms will likely eliminate many jobs.
+In fact, the World Economic Forum estimates that five million jobs across 15 developed countries will be lost to automation by 2020.
+<P>
+Given that ongoing changes in the means of production have already kick-started this trend, Gates and some in the European Parliament have suggested that robots be taxed to pay for human services.
+Whether that is the best solution is now the topic of much debate; but, clearly, some kind of compromise will need to be made.
+<P>
+Robotics and AI will also raise profound ethical issues for liberal politicians, particularly with respect to privacy and safety.
+Fortunately, there is a broader political consensus on this issue than on taxation.
+The European Parliament has proposed a voluntary code of conduct for engineers and others working in the field of robotics.
+Ethical as well as legal standards are needed to ensure that robots and related technologies are designed with respect for human dignity in mind.
+<P>
+Lastly, the European Parliament has called on the European Commission to consider creating a new EU-level agency for robotics and AI, to provide public officials with technical, ethical, and regulatory expertise.
+To my mind, this would be a sensible step forward, given that an estimated 30% of the world’s leading companies will employ a chief robotics officer by 2019.
+<P>
+We can be almost certain that today’s technological advances will have a profound effect on our lives and livelihoods, akin to a new Industrial Revolution.
+By establishing regulations and standards now, the EU can ensure that all Europeans will benefit from the coming changes, rather than be engulfed by chaos.

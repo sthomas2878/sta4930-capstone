@@ -1,0 +1,80 @@
+<HEADLINE>
+Restoring Central Banks’ Credibility
+<P>
+ZURICH – Recent jumps in equity prices and bond yields suggest that recession fears are receding.
+But the global economic expansion cannot last forever, and when the next recession comes, central banks may not be adequately prepared to respond.
+Enhancing central-bank credibility to bolster the effectiveness of monetary policy is thus an urgent priority.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Before the 2008 financial crisis, central bankers could rely on slashing interest rates to spur consumption, investment, and employment.
+But that playbook no longer works as well as it once did.
+One reason is elevated uncertainty, owing to globalization, societal aging, changing consumer preferences, growing income and wealth inequality, rising health-care costs, rapid technological change, and other factors.
+Even in the absence of recession, for many households and businesses, the future seems daunting and unpredictable.
+<P>
+This uncertainty will exacerbate the downturn when it comes.
+When uncertainty spikes, low or even negative real (inflation-adjusted) interest rates may not induce higher spending.
+Rather, savings may rise and investment may falter even as interest rates plunge.
+If governments are unwilling or unable to boost demand with fiscal policy, the result will be a prolonged and deep economic slump.
+<P>
+Few would doubt that monetary policy should be eased in such circumstances.
+In theory, central banks have extraordinary means to respond, through negative interest rates, asset purchases, “forward guidance,” and the like.
+Yet, in practice, central banks face tight constraints, which means that their response to the next recession may prove insufficient.
+<P>
+Broadly, these constraints fall into two categories: laws or established policies that define what monetary policy can do; and political and institutional limits that hem in central banks’ decision-making.
+The legal limitations vary according to the political and institutional environment and history of a central bank’s jurisdiction.
+In conducting open market operations, for example, the US Federal Reserve may purchase only debt securities issued or guaranteed by the US federal government.
+In contrast, the Bank of Japan may purchase private-sector securities such as equities or corporate bonds, giving it potentially greater latitude to expand its balance sheet and stimulate corporate finance.
+<P>
+Such differences could matter in the event of a severe slump that requires extraordinary measures.
+To take an extreme example, the Fed cannot unilaterally create “helicopter money” – a metaphor invoked by Milton Friedman to describe how a central bank might distribute cash directly to individuals in order to stimulate consumption.
+To create cash (a central-bank liability), the Fed must purchase an asset.
+Yet because private-sector IOUs are not eligible assets, the Fed cannot distribute cash directly to the bank accounts of ordinary Americans (nor could it drop $20 bills from the sky, even if it had the helicopters).
+<P>
+So, in the US case, helicopter money would actually have to be a fiscal transfer from the federal government to its citizens, underwritten by Fed purchases of Treasury securities.
+As such, it is a policy that only Congress and the president can enact.
+The problem is that legislating such measures would take considerable time, whereas the next economic or financial crisis will probably require swift and decisive action.
+<P>
+To be sure, helicopter money is typically viewed as a last resort.
+But even less heterodox policies may be hamstrung by policy norms.
+For example, the Fed has been reluctant to endorse the option of breaching the “zero lower bound” (ZLB) and introducing negative policy rates.
+Yet if the equilibrium real interest rate falls below zero, as seems likely in the next recession, that self-imposed ZLB limitation could pose problems.
+<P>
+In fact, the Fed’s own staff has estimated that the ZLB floor could prevent it from delivering an appropriately low real interest rate as often as 40% of the time, given plausible estimates of the neutral real policy rate and the odds of below-trend growth.
+Such failures could threaten the next recovery, and even the Fed’s independence.
+<P>
+Central bankers also face political and institutional constraints.
+In Europe, financial institutions (particularly the Bundesbank), pensioners, and savers dislike negative interest rates.
+Whether these constituencies’ opposition to monetary-policy easing has prevented the European Central Bank from acting as forcefully as it might otherwise have done is an open question.
+But, clearly, an air of timidity has damaged the ECB’s credibility.
+<P>
+The ECB staunchly opposes high inflation, but has been tolerant of below-target inflation.
+In 2012, then-ECB President Mario Draghi famously committed to do “whatever it takes” to save the euro.
+Yet he never mustered the same resolve to ensure that inflation would reach the bank’s mandated target.
+<P>
+Economists agree that credibility reinforces monetary-policy effectiveness.
+If consumers, workers, and businesses don’t believe that a central bank is committed to achieving its mandate, they will adjust their behavior accordingly.
+Low inflation expectations will lead to low inflation outcomes.
+<P>
+Those outcomes are not costless.
+When inflation is too low, it is harder to push down real interest rates, particularly if citizens oppose negative nominal rates.
+In such circumstances, a central bank that is unwilling to commit to its inflation target partly surrenders its most important policy tool: the ability to cut real interest rates in the event of a downturn.
+<P>
+Forfeiting policy tools is especially problematic now that the traditional transmission channels for monetary policy are proving less effective.
+Easing policy is less likely to depreciate the currency and boost net exports if other central banks are doing the same.
+And while loose monetary policies may boost asset prices, consumption won’t increase much if the benefits are accruing only to the wealthy.
+<P>
+Whenever the next downturn comes, it will be too late to remedy central banks’ shortcomings.
+But by making changes before they are necessary, central banks can restore their credibility.
+For example, the ECB could immediately announce a “whatever it takes” commitment to a symmetric inflation target, and then back it up with a round of easing.
+Doing this when confidence in growth is returning would send a powerful signal that the policy change is structural and not just another belated cyclical Band-Aid.
+<P>
+Central bankers should also revisit legal and self-imposed policy constraints, with an eye toward amending or removing those that could hinder policy flexibility in “tail risk” scenarios.
+Demonstrating a willingness to act before the crisis arrives is a costless way for central banks to safeguard their most important asset: the belief that they know what they’re doing.

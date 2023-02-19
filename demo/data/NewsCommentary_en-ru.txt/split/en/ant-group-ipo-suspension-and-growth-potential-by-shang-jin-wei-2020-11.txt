@@ -1,0 +1,60 @@
+<HEADLINE>
+Ant Group’s Long March
+<P>
+NEW YORK – The Chinese fintech conglomerate Ant Group, known for its digital payments and other online financial services, has just been stopped in its tracks, after Chinese regulators suspended its simultaneous public listing, originally scheduled for November 5, on the Hong Kong and Shanghai Stock Exchanges.
+The suspension is possibly in response to a recent speech by Jack Ma, Ant’s controlling shareholder, who was critical of financial regulations that he believes show insufficient understanding and support for fintech innovation.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The Ant IPO was to be the largest in history, surpassing that of Saudi Aramco ($25.6 billion when first listed last December), and Ant’s first cousin, Alibaba ($25 billion on its New York Stock Exchange debut in 2014).
+Based on Ant Group’s IPO prospectus, the company aims to raise $34.4 billion (for about 11% of its shares).
+With a total market valuation projected at $313.4 billion, Ant would be the third-largest Chinese-listed company and the 12th largest publicly traded company in the world, surpassing JPMorgan Chase.
+<P>
+Will Ant still break the world record if and when its IPO is resumed?
+If the suspension is accompanied by new regulatory restrictions on its business activities, its market valuation can certainly decline, but Ant has demonstrated creativity and tenacity in its short history.
+By leveraging the popularity of its digital payment app in China, it has expanded successfully into selling mutual funds, insurance products, and other financial services.
+Besides the growth potential in each of its current businesses, Ant has other growth opportunities.
+<P>
+For example, Ant has in-house algorithms to generate informative scores on credit risks for digital-payment users, including but also extending beyond those who shop or sell regularly online.
+Credit scoring, when permitted by China’s regulatory authorities, can be a new standalone business catering to supply-chain firms, landlords, banks, and employers.
+<P>
+Overseas expansion is another potential growth area.
+Compared to Ant’s dragon-sized dominance in domestic e-finance, its overseas business is tiny.
+With its powerful algorithms and technical know-how, however, it should be able to find market demand in many other countries, especially if it can gain the trust of foreign regulators and piggyback on Alibaba’s international expansion.
+<P>
+That is a big if.
+Recent restrictions on Chinese companies by the United States and India are a reminder that Ant’s overseas prospects may depend on geopolitical dynamics beyond its control.
+Chinese regulators will have an even bigger impact on how much Ant can grow and expand into new businesses.
+Like US and European regulators with respect to their own Big Tech companies, China’s authorities are concerned about Ant’s near-monopoly position in digital payments, as well as the unforeseen risks to financial stability and data privacy that it poses.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+These concerns must be weighed against the value that Ant and fintech innovations offer to society.
+While some innovations could widen the gap between technological haves and have-nots, Ant has been a force for financial inclusion.
+Its technology has made loans accessible to millions of small and micro enterprises – including in China’s poorer, marginalized regions – that previously could not borrow, owing to a lack of collateralizable assets.
+Ant also promotes gender equality in entrepreneurship.
+While men outnumber women three to one among offline entrepreneurs, there is near gender parity among online entrepreneurs, and women-led firms are helped by Ant’s merit-based, gender-blind loan program.
+<P>
+Ant is also an unsung hero in liberalizing interest rates in China.
+Interest and exchange rates are arguably two of the most important prices in any economy, and before the fintech revolution, China imposed a cap on the interest rate paid to depositors (together with a floor on the lending interest rate), which meant that households were earning returns on their savings below the market interest rate.
+Paying market interest rates on household savings would enhance economic efficiency and potentially reduce China’s external imbalances.
+But the necessary reforms were difficult to implement, because commercial banks that benefit from low deposit interest rates had little incentive to change, and interest-rate regulation prevented individual banks from deviating from the status quo.
+<P>
+Ant changed all of this in June 2013, when it introduced Yuebao, an easily accessible money-market fund that pays a market interest rate.
+By allowing for almost instantaneous purchase and redemption and a low starting investment (¥1), Yuebao has helped millions of ordinary households realize that they need not tolerate banks’ low interest rates.
+In my own research (with Greg Buchak of Stanford University and Jiayin Hu of Peking University), we have found that Yuebao triggered a de facto financial liberalization across China, by putting pressure on banks to roll out their own market-rate products.
+<P>
+Ordinary Chinese consumers now enjoy banking services of a quality and on a scale that would have been unthinkable before this silent financial revolution.
+Beyond applying socially beneficial competitive pressure, Ant also helps many banks expand their own business and improve their efficiency through cooperative joint-lending agreements.
+These arrangements combine a bank’s low cost-of-capital advantage with Ant’s data- and algorithm-driven approach to risk management and cost control.
+With 100 such partnerships in operation, Ant has discovered many creditworthy borrowers that were previously invisible to the banks or too expensive to serve.
+Better yet, the default rates on these loans are often lower than those of banks’ own loans.
+<P>
+Most of the social benefits stemming from Ant’s expansion are a by-product of profit-seeking activities.
+This makes them sustainable.
+A major segment of Ant’s business is personal loans, which can help households better manage temporary income or expenditure shocks.
+One concern is that the greater availability of such loans could lead financially unsophisticated people to take on too much debt, or otherwise exacerbate their “behavioral biases,” thereby creating greater financial instability.
+<P>
+But these worries tend not to be based on systematic evidence.
+More research in this area would help to ensure that Ant – and fintech innovation in general – can develop in ways that benefit not just financial investors, but society at large.

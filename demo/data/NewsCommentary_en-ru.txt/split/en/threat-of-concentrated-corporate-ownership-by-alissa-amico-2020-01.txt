@@ -1,0 +1,64 @@
+<HEADLINE>
+How Ownership Concentration Is Happening, and Why It Matters
+<P>
+DUBAI – If the global economy were a chess game, few pieces would be left on the board.
+Most would be relegated to the role of bystanders, observing a concentration of power in the hands of an ever-dwindling number of global players.
+Now let us imagine that the pieces left standing are corporate entities, with a shrinking number of ultimate owners at the helm.
+This analogy fundamentally characterizes the global economy today.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+The globalization that embodied the 1990s unleashed the power of multinational corporations, enabling them rapidly to crush local competition in smaller markets.
+With the advent of the Internet economy a decade later, online distribution and network effects boosted corporate concentration further, giving rise to behemoths like Amazon, Google, Airbnb, and Facebook.
+<P>
+Today, corporate ownership concentration is being fostered by new factors, which could ultimately pose a systemic threat to the global economy.
+One of the most important is the decline of public equity markets across developed economies: the number of companies accessing them has halved during the past decade.
+In most markets outside Asia, new firms are not listing; on the contrary, in response to greater compliance and regulatory obligations, some are de-listing.
+<P>
+This is occurring despite policymakers’ attempts over the past five years to revitalize capital markets and create incentives for fresh listings, especially of technology and state-owned firms.
+The recently aborted WeWork initial public offering (IPO) highlights the anemic condition of equity markets today.
+The listing of Saudi Aramco in December gained attention not only due to its size and symbolic importance, but also because IPOs have become rare.
+<P>
+With the decline in offerings globally, many of today’s “too-large-to-fail” companies are not financial institutions, as was the case during the 2008 crisis, but privately held non-financial firms.
+Ownership concentration is also a reality for listed firms, where the top three shareholders have majority control in 50% of the world’s largest companies, according to recent OECD estimates.
+<P>
+This trend – set to continue in the coming years – is underpinning an increasing rift in economic ownership rights between company founders and ordinary investors.
+For example, investors in the Snapchat IPO were offered – for the first time in modern history – non-voting shares.
+While the IPO prompted an outcry, Snapchat is representative of the ownership structures at Tesla, Uber, Amazon, and other large companies where founders use multiple share classes to retain control with minority ownership.
+<P>
+At the same time, with enthusiasm for privatization declining globally, governments remain significant – and, in many cases, controlling – owners of large pockets of corporate wealth.
+Indeed, in almost 10% of the world’s listed companies, the public sector has a controlling stake.
+The consequences of this can be seen in the Nissan-Renault debacle, which highlights the governance perils of state-invested multinationals.
+<P>
+Some investors – such as Norway’s sovereign wealth fund, which owns 2% of every European listed company – take a diversified approach.
+Other sovereign investors, such as Saudi Arabia’s Public Investment Fund, have much more concentrated stakes and play a more active role in governance.
+<P>
+But not only sovereign investors are becoming concentrated players.
+With the ongoing shift of capital from actively to passively managed funds, asset managers’ portfolios are becoming significantly more concentrated.
+A recent study by two Harvard researchers, Lucian Bebchuk and Scott Hirst, found that 80% of the capital allocated to investment funds today is going to Vanguard, BlackRock, and State Street.
+In two decades, these three players are predicted to cast as much as 40% of the votes in S&P 500 companies, while their stewardship resources have not grown proportionately.
+<P>
+The growing concentration of capital in these investment funds raises a host of new concerns, not least competition-related, as asset managers vote on strategic matters in companies that might be rivals.
+In the airline industry, for example, the ten largest institutional investors own 20% of the global market capitalization.
+Indeed, concentration-related conflicts of interest faced by institutional investors and asset managers are already raising eyebrows in policy circles.
+<P>
+This picture is further complicated by the concentration of other financial intermediaries.
+Stock markets are now no longer mutualized or state-owned, but are instead mostly organized in a few large, self-listed exchange groups.
+As a result, competition for new listings is not occurring between national stock exchanges, but between an oligopoly of exchange groups whose ultimate objective is less the protection of the rights of shareholders in listed companies and more the defense of their own shareholders rights.
+<P>
+Ultimately, these trends translate into a dwindling number of large enterprises and financial intermediaries with increasingly concentrated ownership.
+While a degree of ownership concentration can create value, it can also create negative externalities on competition, wealth distribution, and fiscal transparency on a macro level.
+On a micro level, the current level of economic concentration facilitates neither fair rents for minority shareholders nor respect for consumer rights.
+<P>
+Broadening corporations’ definitions of their purpose and responsibilities toward stakeholders, and focusing on the stewardship responsibilities of institutional investors and asset managers – both remedies currently in vogue among corporate executives and policymakers – is insufficient.
+Instead, what is needed is a focus on the duties of controlling shareholders toward minority investors.
+Stronger checks and balances, and perhaps even Chinese Walls, also need to be introduced for large asset managers.
+<P>
+These and other remedies to address concentration are essential, not only in the name of better corporate governance, but also as a response to the worldwide wave of protests against the increasingly unjust distribution of national income and global wealth.

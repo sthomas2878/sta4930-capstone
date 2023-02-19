@@ -1,0 +1,48 @@
+<HEADLINE>
+Engineering Better Refugee Health Care
+<P>
+BOSTON – A resurgence of nativism and xenophobia in countries around the world has created a toxic environment for those fleeing from geopolitical crises.
+But among the many challenges that refugees must confront while they await resettlement, finding access to high-quality physical and mental health care tops the list.
+<P>
+It is a challenge that demands more attention not just from doctors, nurses, non-governmental organizations, and other relevant actors, but also from engineers, who can make indispensable contributions to global public health.
+Those contributions are highly relevant to refugees.
+<P>
+Beyond building bridges and creating gadgets, engineers can help improve the quality and affordability of health care around the world, by developing faster methods for diagnosing diseases and delivering medical services.
+Scientists and engineers in my own research area have already invented devices to help vulnerable babies breathe easier, detect malaria and HIV in war zones, and keep counterfeit medicines out of rural areas.
+<P>
+Still, not enough engineering expertise has been brought to bear in refugee settlements, whose populations have swelled in recent years as more people have had to flee from conflicts and natural disasters.
+The UN estimates that there are more than 65 million forcibly displaced people in the world today, and that more refugees live in formal and informal encampments than ever before.
+<P>
+Although governments and NGOs have made efforts to provide basic health care to refugees, they have struggled to do so reliably.
+Engineers have both an opportunity and a responsibility to close crucial gaps in the current system.
+<P>
+Tackling this challenge will require greater attention in three key areas.
+The first is the classroom, where we should continue to raise awareness – particularly in the field of biomedical engineering – of the health-care challenges that refugees face.
+Moreover, faculty, students, researchers, and practitioners who have an interest in developing appropriate solutions to global health problems should be afforded the opportunity to do so.
+<P>
+At the moment, there are too few educational programs that focus specifically on crisis-related biomedical engineering issues.
+Fortunately, however, there are existing models to follow.
+At the London School of Hygiene and Tropical Medicine, for example, the free online course “Health in Humanitarian Crises” is bringing the issue to students in engineering departments globally.
+At the American University of Beirut, summer school students recently introduced engineering strategies for helping displaced people.
+And at my institution, Boston University, we research ways to improve the quality and practice of medicine in the developing world.
+In 2012, my colleagues and I created PharmaChk, a portable device that doctors can use to detect fake or ineffective medications in hard-to-reach places.
+<P>
+Second, governments and NGOs that work with refugees can do more to include medical engineering professionals in their efforts.
+Private and public entities such as the Bill & Melinda Gates Foundation, USAID, and Grand Challenges Canada have worked with engineers to produce rigorous, ethically sound, and scalable medical solutions in global health, and the same should be done with respect to displaced people.
+<P>
+Third, and perhaps most important, engineers themselves need to step up their engagement with people and groups working on the front lines of the refugee crisis.
+That means working with local hospitals, clinics, ministries, and health-care providers, which can serve as key conduits for bioengineering expertise.
+Cross-disciplinary learning is important not only for spreading awareness, but also for improving the financial sustainability and scalability of technological innovations.
+<P>
+A handful of bioengineering startups and aid groups, such as Engineers Without Borders, have begun to tackle health-related problems in refugee communities.
+These efforts have generally focused on methods for improving water sanitation and energy delivery.
+Other initiatives, such as telemedicine, in which clinical medical advice is delivered through mobile phones, have become a lifeline for many communities.
+<P>
+Beyond these examples, efforts to engineer health-care solutions in refugee communities have been limited.
+To apply biomedical engineering to refugee health challenges, students, experts, and practitioners need to familiarize themselves with conditions in refugee settlements, and deepen their understanding of the complex traumas that afflict refugees.
+Refugee camps need robust point-of-care solutions that are not just effective, but also culturally sensitive and socially responsible.
+<P>
+Throughout history, engineers have been society’s problem solvers.
+Today, creative thinking is needed to mitigate the plight of those who have been forcibly displaced from their homes.
+The international community has proved incapable of ending the crises that are currently sending refugees in search of safety.
+But biomedical engineers can at least ensure that they receive the care they need.

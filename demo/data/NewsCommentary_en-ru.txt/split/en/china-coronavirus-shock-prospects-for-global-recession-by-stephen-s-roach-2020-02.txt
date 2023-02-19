@@ -1,0 +1,64 @@
+<HEADLINE>
+When China Sneezes
+<P>
+NEW HAVEN – The world economy has clearly caught a cold.
+The outbreak of COVID-19 came at a particularly vulnerable point in the global business cycle.
+World output expanded by just 2.9% in 2019 – the slowest pace since the 2008-09 global financial crisis and just 0.4 percentage points above the 2.5% threshold typically associated with global recession.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+Moreover, vulnerability increased in most major economies over the course of last year, making prospects for early 2020 all the more uncertain.
+In Japan, the world’s fourth-largest economy, growth contracted at a 6.3% annual rate in the fourth quarter – much sharper than expected following another consumption-tax hike.
+Industrial output fell sharply in December in both Germany (-3.5%) and France (-2.6%), the world’s fifth- and tenth-largest economies respectively.
+The United States, the world’s second-largest economy, appeared relatively resilient by comparison, but 2.1% real (inflation-adjusted) GDP growth in the fourth quarter of 2019 hardly qualifies as a boom.
+And in China – now the world’s largest economy in purchasing-power-parity terms – growth slowed to a 27-year low of 6% in the last quarter of 2019.
+<P>
+In other words, there was no margin for an accident at the beginning of this year.
+Yet there has been a big accident: China’s COVID-19 shock.
+Over the past month, the combination of an unprecedented quarantine on Hubei Province (population 58.5 million) and draconian restrictions on inter-city (and international) travel has brought the Chinese economy to a virtual standstill.
+Daily activity trackers compiled by Morgan Stanley’s China team underscore the nationwide impact of this disruption.
+As of February 20, coal consumption (still 60% of China’s total energy consumption) remained down 38% from the year-earlier pace, and nationwide transportation comparisons were even weaker, making it extremely difficult for China’s nearly 300 million migrant workers to return to factories after the annual Lunar New Year holiday.
+<P>
+The disruptions to supply are especially acute.
+Not only is China the world’s largest exporter by a wide margin; it also plays a critical role at the center of global value chains.
+Recent research shows that GVCs account for nearly 75% of growth in world trade, with China the most important source of this expansion.
+Apple’s recent earnings alert says it all: the China shock is a major bottleneck to global supply.
+<P>
+But demand-side effects are also very important.
+After all, China is now the largest source of external demand for most Asian economies.
+Unsurprisingly, trade data for both Japan and Korea in early 2020 show unmistakable signs of weakness.
+As a result, it is virtually certain that Japan will record two consecutive quarters of negative GDP growth, which would make it three for three in experiencing recessions each time it has raised its consumption tax (1997, 2014, and 2019).
+<P>
+The shortfall of Chinese demand is also likely to hit an already weakening European economy very hard – especially Germany – and could even take a toll on a Teflon-like US economy, where China plays an important role as America’s third-largest and most rapidly growing export market.
+The sharp plunge in a preliminary tally of US purchasing managers’ sentiment for February hints at just such a possibility and underscores the time-honored adage that no country is an oasis in a faltering global economy.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In the end, the epidemiologists will have the final word on the endgame for COVID-19 and its economic impact.
+While that science is well beyond my expertise, I take the point that the current strain of coronavirus seems to be more contagious but less lethal than SARS was in early 2003.
+I was in Beijing during that outbreak 17 years ago and remember well the fear and uncertainty that gripped China back then.
+The good news is that the disruption was brief – a one-quarter shortfall of two percentage points in nominal GDP growth – followed by a vigorous rebound over the next four quarters.
+But circumstances were very different back then.
+In 2003, China was booming – with real GDP surging by 10% – and the world economy was growing by 4.3%.
+For China and the world, a SARS-related disruption barely made a dent.
+<P>
+Again, that is far from being the case today.
+COVID-19 hit at a time of much greater economic vulnerability.
+Significantly, the shock is concentrated on the world’s most important growth engine.
+The International Monetary Fund puts China’s share of global output at 19.7% this year, more than double its 8.5% share in 2003, during the SARS outbreak.
+Moreover, with China having accounted for fully 37% of the cumulative growth in world GDP since 2008 and no other economy stepping up to fill the void, the risk of outright global recession in the first half of 2020 seems like a distinct possibility.
+<P>
+Yes, this, too, will pass.
+While vaccine production will take time – 6-12 months at the very least, the experts say – the combination of warmer weather in the northern hemisphere and unprecedented containment measures could mean that the infection rate peaks at some point in the next few months.
+But the economic response will undoubtedly lag the virus infection curve, as a premature relaxation of quarantines and travel restrictions could spur a new and more widespread wave of COVID-19.
+That implies, at a minimum, a two-quarter growth shortfall for China, double the duration of the shortfall during SARS, suggesting that China could miss its 6% annual growth target for 2020 by as much as one percentage point.
+China’s recent stimulus measures, aimed largely at the post-quarantine rebound, will not offset the draconian restrictions currently in place.
+<P>
+This matters little to the optimistic consensus of investors.
+After all, by definition shocks are merely temporary disruptions of an underlying trend.
+While it is tempting to dismiss this shock for that very reason, the key is to heed the implications of the underlying trend.
+The world economy was weak, and getting weaker, when COVID-19 struck.
+The V-shaped recovery trajectory of a SARS-like episode will thus be much tougher to replicate – especially with monetary and fiscal authorities in the US, Japan, and Europe having such little ammunition at their disposal.
+That, of course, was the big risk all along.
+In these days of dip-buying froth, China’s sneeze may prove to be especially vexing for long-complacent financial markets.

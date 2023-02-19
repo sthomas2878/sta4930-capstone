@@ -1,0 +1,58 @@
+<HEADLINE>
+Lessons from India in Digital Disruption
+<P>
+OXFORD – Digital technology can rapidly transform how countries provide services such as education and health to their citizens.
+The public services of the future should be effective, efficient, fair, data-driven, and responsive to individual needs.
+And the groundwork to turn this vision into reality needs to be laid now.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+Managed wisely, data can be the key to providing quality health and education services for all – at speed, at scale, and in a sustainable way – and to boosting social and economic inclusion.
+Alongside these exciting opportunities, countries must also anticipate and manage the associated risks of the digital revolution.
+To this end, India’s pioneering use of data and technology offers four lessons for other developing countries.
+<P>
+First, scale should be built into project design from the very beginning, instead of being an afterthought.
+In India, we must think about how we can help one million community health workers provide health care to rural areas, and how we improve the skills of 100 million young people seeking better jobs.
+The world must ask a similar question: How can we provide safe, high-quality vaccinations to 20 million infants around the world, and educate the more than 260 million children and youth who are not in school?
+<P>
+Second, countries must focus on building the underlying digital infrastructure needed for sustained success, and avoid the allure of the latest shiny innovations.
+Too often, developing countries have seized on new technologies – “Distribute tablets to schoolchildren!” – without giving enough thought to how they will be used in specific national contexts.
+This has resulted in many disappointing pilot projects that failed to deliver sustainable impact at scale.
+<P>
+A new report from the Pathways for Prosperity Commission on Technology and Inclusive Development, based at the University of Oxford’s Blavatnik School of Government, suggests how countries can address this problem.
+The report urges them to establish a foundation of “digital building blocks” – including basic infrastructure and skills – in order to harness positive disruptions to education and health services.
+In addition, countries should provide essential “digital scaffolding” around which new technological solutions can be deployed at scale.
+<P>
+India has led the way in this regard, by intentionally making its new digital infrastructure a public good.
+For example, Aadhaar, India’s biometric unique identification system, shows how cutting-edge technology can solve the societal problem of establishing unique identities in a developing country of over a billion people.
+Having been adopted by more than 1.2 billion citizens, Aadhaar has now become a platform for social innovation, fostering many new solutions to diverse problems and serving as the foundational ID for multiple initiatives in different sectors across India.
+<P>
+For example, the use of Aadhaar helps to prevent the abuse of various government schemes, ensuring that, say, the cooking gas subsidy is extended to each citizen only once in a given period.
+Aadhaar is also used by all citizens as proof of identity in key processes such as applying for and renewing passports, opening bank accounts, and accessing credit quickly and conveniently.
+<P>
+Likewise, EkStep, a not-for-profit initiative that I co-founded with Rohini Nilekani and Shankar Maruwada, has built a learner-centric, technology-based societal platform to improve literacy and numeracy for 200 million children across India.
+To make an impact at scale, EkStep connects various innovations isolated in siloes and engages the key actors across the education ecosystem (public, private, or social) through collaboration and co-creation networks.
+This open and free digital infrastructure is enabling a range of solutions, including in-class resources, learning and training content, assessment aids, a registry of teachers, rewards and recognition, and learning communities.
+<P>
+Third, countries must anticipate and effectively manage risks that arise from collecting and using digital data.
+As an initial step, the Indian government has developed an electronic consent framework that enables citizens to understand and authorize specific uses of their data.
+<P>
+But, in addition to consent, we also need new data-handling institutions that do not have interests competing with those of the user.
+The Reserve Bank of India’s well-designed digital account aggregator system, for example, enables potential lenders to review borrowers’ financial assets digitally, on the basis of borrowers’ explicit consent to access only specific data, for a specific purpose, for a specified period of time.
+To enable large-scale financial inclusion, key government, private-sector, and civil-society actors must quickly establish standards, regulations, and institutions that put citizens back in control of their own data.
+<P>
+Finally, a gradual evolutionary approach will not resolve large, complex societal problems.
+Too often, organizations believe they have the solution to a big social challenge – such as improving access to health care across rural India – and simply need to keep chipping away at the problem.
+Rather than searching for one perfect solution, countries should instead build a digital infrastructure that empowers passionate innovators, nurturing an interconnected network that can simultaneously co-create thousands of solutions to hundreds of different problems.
+Instead of more and better siloes, we need more nimble and open innovation environments.
+<P>
+New technology, institutions, and regulations can help countries to reimagine education and health, build human capital, and prepare their young people for the jobs of tomorrow.
+To be sure, India still has much to do in that regard.
+But its success so far will, one hopes, inspire other developing countries to nurture equally bold and inclusive digital ambitions.

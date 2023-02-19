@@ -1,0 +1,61 @@
+<HEADLINE>
+The Dangerous Allure of Green Central Banking
+<P>
+BRUSSELS – Central bankers and financial supervisors around the world are increasingly focusing on an issue that is normally outside their remit: climate change.
+Both the International Monetary Fund and the Bank for International Settlements (the central bank for central banks) have published reports on climate risk recently.
+And the European Central Bank is seemingly getting ready to target the so-called green spread, or the difference in financing conditions for low-carbon and high-carbon activities.
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+There are essentially two reasons given for mobilizing central bankers to focus on climate change: risks to financial stability and market failures.
+But the economic and political logic behind them is weak, especially in Europe.
+<P>
+Although climate change presents a huge risk for everyone, it develops slowly over decades as greenhouse gases (GHGs) accumulate in the atmosphere.
+Governmental mitigation measures are also likely to make many higher-carbon “brown” business models uneconomic in the long run.
+<P>
+Moreover, all market participants, including the bankers who extend credit to fossil fuel-based enterprises, and the investors who buy their bonds, know these risks.
+Central bankers and supervisors should not be concerned with the credit risk of any individual corporation or sector, but rather with threats to the stability of the financial system as a whole.
+<P>
+Sudden changes in the time path of decarbonization could conceivably represent such a systemic risk.
+In an influential 2016 report, the European Systemic Risk Board (ESRB) argued that a late recognition of global warming’s costs could lead to the sudden imposition of drastic emission-reduction measures, leading to financial instability.
+But this risk currently seems remote, particularly in the European Union, where governments recently approved an even more ambitious climate target involving a reduction of net GHG emissions of at least 55% by 2030.
+<P>
+The second argument for greening central banks is that monetary policy must address market failures, whereby someone who contributes to climate change by emitting GHGs does not pay for the resulting environmental damage.
+ECB Executive Board member Isabel Schnabel has argued that, “In the presence of market failures, market neutrality may not be the appropriate benchmark for a central bank when the market by itself is not achieving efficient outcomes.”
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+But the idea that the ECB should “green” its monetary policy is wrong on several counts.
+For starters, the market failure has already been addressed by the EU’s policy to keep GHG emissions in line with its targets.
+For example, the bloc’s Emissions Trading System (ETS) limits the total amount of emissions in industry and the power sector along a time path consistent with the EU’s goals.
+And member states recently tightened the bloc’s overall climate targets.
+<P>
+Democratically elected bodies – national governments, via the European Council, and the European Parliament – have thus addressed the market failure.
+One might argue that the EU’s climate targets, and the ETS as one key instrument for achieving them, are insufficient.
+But it is not a central bank’s task to manage climate goals and instruments.
+<P>
+Moreover, ECB action is unlikely to be effective.
+One proposal is for the ECB to include only the bonds of “green enterprises” in its asset-purchase program.
+Such selective bond purchases would thus amount to a sort of “green” monetary or industrial policy.
+<P>
+Evidence from the ECB’s bond-buying program suggests that selectively purchasing the bonds of green companies might well succeed in marginally reducing these firms’ cost of capital, allowing them to invest more.
+But any reduction in emissions would be offset elsewhere under the ETS-imposed cap.
+The lower emissions achieved by some firms that benefit from more favorable financing conditions would simply mean that others need to do less.
+The price of emission certificates would decrease to the point where emissions remain just equal to the ETS target.
+<P>
+Finally, a green ECB would necessarily become political.
+Here again, there is a superficial argument for a green monetary policy: Article 127 of the Treaty on the Functioning of the European Union says that the ECB should also support the EU’s overall economic policies, provided that this does not endanger price stability.
+Supporters of a green ECB thus argue that the institution is obliged to help the green transition, which is clearly an EU policy.
+<P>
+But this argument could be applied to many other policy areas.
+Cohesion, for example, is another of the EU’s important goals.
+Using the green logic, the ECB arguably should also foster cohesion by buying the bonds of poorer countries or regions, and possibly their corporate bonds, too.
+<P>
+Moreover, if the ECB wanted to support green finance, it would have to take a stance on many contested issues, including nuclear energy.
+It should not be the ECB’s task to decide whether bonds issued by a nuclear-power firm are green.
+<P>
+Market failures can be found almost everywhere.
+Why should the ECB address some and not others? This is a decision that only democratically elected governments should take.
+Central bankers have been insulated from political influence to pursue the very narrow mandate of price stability.
+Greening monetary policy might look attractive at first glance, but it represents a departure that is incompatible with their independence.

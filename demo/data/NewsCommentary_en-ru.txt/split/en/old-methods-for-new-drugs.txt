@@ -1,0 +1,43 @@
+<HEADLINE>
+Old Methods for New Drugs
+<P>
+PALO ALTO – Despite high expectations, productivity is frustratingly low in biopharmaceutical research and development.
+Although expenditures have increased, the number of new medicines resulting from human-genome sequencing has not.
+This means that a broad variety of diseases are not being treated effectively, in the developed or the developing worlds.
+<P>
+Advances in molecular sciences, corresponding to the sequencing of the human genome in the 1980’s, led to the identification of all the human proteins – large, complex molecules necessary for many of the body’s functions.
+Understanding the proteins’ roles then led to greater knowledge of the underlying causes of diseases.
+For example, mutations, or defects, at specific molecular locations in human DNA were found to be responsible for some cancers, raising the hope of developing successful therapies tailored to individual patients.
+<P>
+Scientists believed that the ability to visualize and understand human biology at a more detailed level would lead to many new medicines.
+Identifying the defective molecular parts, known as the drug targets, should have made addressing the causes of disease easier, and would revolutionize the pharmaceutical sciences.
+And so it has – but without increasing the number of new medicines.
+<P>
+Prior to this molecular revolution, scientists discovered medicines by randomly evaluating different chemicals against phenotypes – an organism’s observable characteristics – in authentic biological systems, such as animals or cells.
+But, unfortunately, the phenotypic strategy is neither efficient nor intellectually satisfying.
+<P>
+The molecular revolution heralded an era in which drug discovery and development would be rational, not random.
+Contrary to expectations, however, the increased efficiency implied by target identification has not increased productivity.
+Efforts to address the problem have focused on how the target was selected, the candidate drugs’ efficacy in humans, the risk of undesirable side effects, and the efficiency of the discovery process – all to little or no avail.
+<P>
+The July issue of Nature Reviews Drug Discovery analyzed how first-in-class medicines – those drugs that successfully established a new class of medicines – were discovered.
+Despite the emphasis on target-based drug discovery, phenotypic screening produced the lion’s share of the first-in-class small-molecule medicines approved between 1999 and 2008 – 28 phenotypic medicines versus 17 target-based drugs.
+Considering how strongly biased the industry has been toward target-based drug discovery, that imbalance is highly significant.
+<P>
+The Nature Reviews article proposed that lower productivity partly reflects target-based discovery’s lack of consideration of the molecular complexities of how the drugs work.
+Knowing the parts of an efficient machine – a watch, an automobile, or a computer – is not enough to describe how it works.
+The parts must collaborate in precise ways to provide accurate time, reliable transportation, or processed information.
+<P>
+Biology is infinitely more complex.
+The phrase “molecular mechanism of action” describes the way that biological parts collaborate to provide an effective and safe medicine.
+Addressing the MMOA would contribute to reversing the low productivity of target-based discoveries, because merely knowing the identity of a part involved in a defect may not be sufficient to repair a malfunctioning machine.
+<P>
+The target-based approach is analogous to looking for one’s keys in the dark: if they are under a streetlight, they’ll be easy to find.
+Many hoped that the molecular revolution would amount to more streetlights for drug discovery.
+Unfortunately, it appears that this new light, in most cases, is too dim to illuminate the molecular details of the dynamic human biological machine with sufficient specificity to rationalize the design of new medicines.
+<P>
+The random phenotypic process, though less efficient, will ultimately identify medicines that are effective and work to repair disease.
+The target-based approach, on the other hand, creates only the illusion of greater efficiency; in reality, its promise has been undermined by its inattention to the MMOA.
+<P>
+There are too many molecular possibilities in dynamic human biology to identify a priori the optimal mechanism of molecular intervention.
+The way forward is to find a method that combines the efficiency of target-based approaches with the authenticity of phenotypic research.

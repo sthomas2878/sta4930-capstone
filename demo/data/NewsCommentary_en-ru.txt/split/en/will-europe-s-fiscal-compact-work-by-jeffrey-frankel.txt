@@ -1,0 +1,49 @@
+<HEADLINE>
+Will Europe’s Fiscal Compact Work?
+<P>
+CAMBRIDGE – At the start of 2013, the eurozone’s “fiscal compact” entered into force, owing to its ratification on December 21 by a 12th country, Finland, a year after German Chancellor Angela Merkel prodded eurozone leaders into agreement.
+The compact – technically called the Treaty on Stability, Coordination, and Governance in the Economic and Monetary Union – requires member countries to introduce laws limiting their structural government budget deficits to less than 0.5 % of GDP (or less than 1% of GDP if their debt/GDP ratio is “significantly below 60%”).
+So, will this new approach work?
+<P>
+A limit on the “structural deficit” means that a country can run a deficit above the limit to the extent – and only to the extent – that the gap between revenue and spending is cyclical (that is, its economy is operating below potential due to temporary negative shocks).
+In other words, the target is cyclically adjusted.
+The budget-balance rule must be adopted in each country – preferably enshrined in their national constitutions – by the end of 2013.
+<P>
+The aim is to fix Europe’s long-term fiscal problem, which has been exacerbated by three factors: the failure, since the euro’s inception, of the eurozone-wide Stability and Growth Pact (SGP) to enforce deficit and debt limits; the crisis that erupted in Greece and other countries on the eurozone periphery in 2010; and the various bailouts that have followed.
+There is no reason to doubt that the member states will follow through and adopt national rules by the end of the year.
+The problem is what comes after that: the risk that the fiscal compact will founder on precisely the same shoals as the SGP.
+<P>
+Ever since the eurozone was established, its members have issued official fiscal forecasts that are systematically biased in the optimistic direction.
+Other countries do this, too, but the bias among eurozone countries is, if anything, even worse than it is elsewhere.
+<P>
+During an economic expansion, such as in the 2002-2007 period, governments are tempted to forecast that the boom will continue indefinitely.
+Forecasts for tax revenue and budget surpluses are correspondingly optimistic and so hide the need for fiscal adjustment.
+During a recession, such as in 2008-2012, governments are tempted to forecast that their economies and budgets will soon rebound.
+Since forecasting is subject to so much genuine uncertainty, no one can prove that the forecasts are biased when they are made.
+<P>
+But, if forecasts are biased, fiscal rules will not constrain budget deficits.
+In any given year, governments can forecast that their growth rates, tax revenues, and budget balances will improve in subsequent years, and then argue the following year that the shortfalls were unexpected.
+<P>
+Indeed, in a new paper, co-authored with Jesse Schreger, we show that eurozone members’ bias in official forecasts can be neatly characterized as responding to the SGP’s 3%-of-GDP limit on budget deficits in 1999-2011: each time governments exceeded the limit, over-optimistic forecasts followed.
+In other words, governments adjust their forecasts, not their policies.
+<P>
+Framing the budget rules in cyclical terms, while highly desirable in terms of its macroeconomic impact, does not help to solve the problem of forecast bias.
+In fact, it can make the problem worse.
+In a year when a forecast for the structural budget deficit turns out to have been over-optimistic, the government can still claim that its own calculations show the shortfall to have been cyclical rather than structural.
+After all, estimation of potential output – and hence the cyclical versus structural decomposition of the fiscal position – is notoriously difficult, even after the fact.
+<P>
+Perhaps it will help that, under the fiscal compact, the rules are to be adopted at the national level, as opposed to the SGP, which operated on the supranational level.
+A look at the various rules and institutions that European countries have already tried shows that some work and others do not.
+<P>
+Creating an independent fiscal institution that provides its own budget forecasts works, insofar as it reduces the bias in deficit projections.
+When forecasting while in violation of the eurozone’s Excessive Deficit Procedure, eurozone members with an independent budget-forecasting institution have a mean bias that is 2.7% of GDP smaller at the one-year horizon than members without such an institution.
+<P>
+It would be better still if governments were legally bound to use these independent forecasts in their budget plans (borrowing an innovation from Chile).
+<P>
+But, regardless of how well designed the rules are, clever and determined politicians can find ways around them.
+One trick is privatization of government enterprises, which reduces the budget deficit in a given year on a one-time basis, but might increase the deficit in the long run if the enterprise had been profitable.
+Another trick is to legislate tax cuts that are “temporary,” in order to make future revenues look larger, despite the intention to make the cuts permanent before they expire.
+<P>
+Other things being equal, the right institutions can curbpro-cyclical fiscal policies – tax cuts and spending hikes during booms and austerity during downturns – in the short run, while helping to deliver debt sustainability in the long run.
+These institutions include independent fiscal-forecasting agencies, combined with the cyclically adjusted budget targets that the eurozone’s fiscal compact mandates.
+Much can go wrong even if such mechanisms are in place; but, as the history of the SGP illustrates, the risk is higher if they are not.

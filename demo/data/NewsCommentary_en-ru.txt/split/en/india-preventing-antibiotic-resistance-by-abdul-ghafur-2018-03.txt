@@ -1,0 +1,52 @@
+<HEADLINE>
+India’s War on Antimicrobial Resistance
+<P>
+CHENNAI – Last year, a 30-year-old teacher suffering from a severe bloodstream infection arrived in my emergency room for treatment.
+The woman had been in and out of local clinics with a stubborn chest infection and fever, and by the time I examined her, she was receiving chemotherapy for blood cancer.
+<P>
+Instinctively, I treated her infection with an antibiotic from a group of drugs known as “carbapenems,” strong medicines commonly prescribed to people who are hospitalized.
+But after further tests I discovered that she was carrying a strain of bacteria that is resistant to most antibiotics in our therapeutic arsenal.
+There was no option but to treat her with drugs that I knew would be largely ineffective; she was lucky to recover.
+<P>
+Sadly, many patients are not so fortunate.
+Around the world, people are being admitted to hospitals with infections that do not respond to antibiotics, and relatively benign germs – like Klebsiella and E. coli – have become potent killers, shrugging off medicines that in the past easily contained them.
+<P>
+Antibiotics are different from almost every other class of drug in one important and dangerous respect: the more they are used, the less effective they become.
+When microbes are repeatedly exposed to antibiotics, the bacteria eventually win.
+<P>
+Each year, an estimated 750,000 people die from antimicrobial-resistant (AMR) infections, and the death toll will climb unless the global health community acts decisively.
+In the absence of detailed and reliable reporting from all countries, the British government commissioned a series of reports on AMR, estimating that by 2050, as many as ten million people could die annually from AMR complications.
+Moreover, the economic impact of “superbug” outbreaks could top $100 trillion; low-income countries would suffer disproportionately.
+<P>
+Uneven and unregulated antibiotic usage is one of the most important reasons behind the AMR crisis.
+In developed countries, doctors prescribe antibiotics for even the most basic maladies, like the common cold.
+Stronger regulations of antibiotics prescriptions in these countries, like those implemented in Finland several decades ago, could help to mitigate resistance.
+<P>
+Yet such rules alone will not be enough, because in much of the developing world, antibiotics can be obtained without a prescription.
+Inequalities in access to medicine, excessive use, and poor sanitation services complicate the problem further.
+And when farmers uses antibiotics to speed the growth of chickens and other livestock, drug-resistant germs find new ways to enter the environment.
+<P>
+In 2017, the World Health Organization, in an effort to address these challenges, classified antibiotics into three groups and issued guidance for how each class of drugs should be used to treat 21 of the most common infections.
+For example, the first of these groups consists of medicines that should always be available to patients, preferably by prescription.
+Amoxicillin, the preferred medicine for respiratory-tract infections in children, is in this group.
+The second tier includes carbapenems, which, as my patient last year discovered, are increasingly ineffective.
+And the third group, including colistin and other “last resort” antibiotics, are drugs that must be used sparingly and only for medical emergencies.
+<P>
+Clearly, guidelines are an important first step in addressing the global AMR challenge.
+But governments, medical associations, and hospitals must also commit to tackling the antibiotic crisis together.
+That is what the health-care community in India is doing.
+In 2012, India’s medical societies adopted the Chennai Declaration, a set of national recommendations to promote antibiotic stewardship.
+Last year, Prime Minister Narendra Modi used his monthly radio address to urge doctors to join the effort.
+<P>
+Still, the AMR threat remains real; containing it will require concerted effort.
+In India, for example, we must implement the regulation, formulated by the Indian Health Ministry, controlling over-the-counter sales of antibiotics.
+The WHO’s advice should strengthen support for this move.
+<P>
+India’s Red Line campaign – which demands that prescription-only antibiotics be marked with a red line, to discourage the over-the-counter sale of antibiotics– is a step forward.
+<P>
+Meanwhile, health-care communities in advanced economies must find the political will to reduce unnecessary antibiotic use by people, and in agriculture.
+“Last resort” antibiotics should never be used as growth promoters in livestock farming, but achieving this will require significant changes to current practices.
+<P>
+Superbugs should strike fear in doctors and patients everywhere, but fear cannot lead to paralysis.
+The next time a patient arrives in my ward with a treatable infection, I need to be certain that the medicine I prescribe will be effective.
+Luck should never play a role in a patient’s recovery.

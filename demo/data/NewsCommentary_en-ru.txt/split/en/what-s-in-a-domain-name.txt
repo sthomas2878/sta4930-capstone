@@ -1,0 +1,65 @@
+<HEADLINE>
+What’s in a Domain Name?
+<P>
+NEW YORK – A name is just a sound or sequence of letters.
+It carries no value or meaning other than as a pointer to something in people's minds – a concept, a person, a brand, or a particular thing or individual.
+<P>
+In modern economies, people distinguish between generic words, which refer to concepts or a set of individual things (a certain kind of fruit, for example), and trademarks, which refer to specific goods or services around which someone has built value.
+By law, actual words can’t be trademarks, but specific arrangements of words – such as Evernote or Apple Computer – can be protected.
+<P>
+The Internet’s domain-name system (DNS) was formalized in the late 1990’s by the Internet Corporation for Assigned Names and Numbers (ICANN).
+I was ICANN’s founding chairman, and we more or less followed the rules of trademarks, with an overlay of “first come, first served.”
+If you could show that you owned a trademark, you could get the “.com” domain for that name, unless someone else with a similar claim had gotten there first.
+(The whole story is more complex, but too long to go into here.)
+<P>
+Our mission was to create competition for Network Solutions, the monopoly player at the time, but we did so only in part.
+Network Solutions retained control of the .com registry, whereas we created a competitive market for the reseller business whereby registrars sold names directly to users.
+<P>
+Now ICANN is taking a different tack, allowing for a dramatic expansion of the namespace with a host of new Top-Level Domains (TLDs), the suffixes that go after the dot, such as .com, .org, and, soon, .anything.
+<P>
+The problem is that expanding the namespace – allowing anyone to register a new TLD such as .apple – doesn’t actually create any new value.
+The value is in people’s heads – in the meanings of the words and the brand associations – not in the expanded namespace.
+In fact, the new approach carves up the namespace: the value formerly associated with Apple could now be divided into Apple.computers, apple.phone, ipod.apple, and so on.
+If this sounds confusing, that is because it is.
+<P>
+Handling the profusion of names and TLDs is a relatively simple problem for a computer, even though it will require extra work to redirect hundreds of new names (when someone types them in) back to the same old Web site.
+It will also create lots of work for lawyers, marketers of search-engine optimization, registries, and registrars.
+<P>
+All of this will create jobs, but little extra value.
+To me, useless jobs are, well, useless.
+And, while redundant domain names are not evil, I do think that they are a waste of resources.
+<P>
+Imagine you own a patch of land and have made it valuable through careful farming practices – good seeds, irrigation, fertilizers, and bees to pollinate the crops.
+But now someone comes along and says, “We will divide your land into smaller parcels and charge you to protect each of them.”
+<P>
+Coca-Cola is that farmer.
+It and other trademark holders are now implicitly being asked to register Coca-Cola in each new TLD – as well as to buy its own new TLDs.
+Otherwise, someone else may create and register those new TLDs.
+ICANN’s registrars are already offering services to do this for companies, at a cost of thousands of dollars for a portfolio of trademarks.
+That just strikes me as a protection racket.
+<P>
+The problem is not the shortage of space in the field of all possible names, but the subdivision of space in Coca-Cola’s cultivated namespace.
+The only shortage is a shortage of space in people’s heads.
+<P>
+The issues are slightly different when it comes to “generic” TLDs, such as .green.
+I recently had a Twitter conversation with Annalisa Roger, founder of DotGreen.org, who told me about the value her group will be adding to .green: marketing, brand identity, raising money for NGOs.
+But I couldn’t help wondering why she can’t just add the same value to DotGreen.org.
+Instead, she will have to start with a $185,000 application fee to ICANN, and spend thousands more on lawyers to study and fill in application forms.
+<P>
+Of course, you could argue that “green” already has quite a bit of value – as a generic term that stands for something.
+Indeed, it makes me slightly uncomfortable that ICANN can claim control of it in order to sell it to someone.
+Suppose, for example, that a cheese maker buys .cheese (as was suggested by one person at a new-TLD meeting recently) and uses it to favor only its own brands?
+<P>
+Proponents argue that more TLDs would foster innovation.
+But the real innovation has been in companies such as Facebook, LinkedIn, Twitter, and Foursquare, which are creating their own new namespaces rather than hijacking the DNS.
+<P>
+Indeed, when ICANN started more than ten years ago, we were accused of commercializing the Internet.
+In fact, we were building an orderly market, setting policies for how much registries could charge, fostering competition among registrars, and making sure that we served the public interest.
+<P>
+Unfortunately, we failed to deliver on that promise.
+Most of the people active in setting ICANN’s policies are involved somehow in the domain-name business, and they would be in control of the new TLDs as well.
+It’s worth it to them to spend their time at ICANN meetings (or to send staffers), whereas domain names are just a small part of customers’ and user’ lives.
+And that means that the new TLDs are likely to create money for ICANN’s primary constituents, but only add costs and confusion for companies and the public at large.
+<P>
+Of course, if I am right, the DNS will lose its value over time, and most people will get to Web sites and content via social networks and apps, or via Google (or whatever supersedes it in the competitive marketplace).
+The bad news is that there could well be much superfluous expense and effort in the meantime.

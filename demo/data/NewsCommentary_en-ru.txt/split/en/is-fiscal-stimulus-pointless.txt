@@ -1,0 +1,54 @@
+<HEADLINE>
+Is Fiscal Stimulus Pointless?
+<P>
+The Harvard economist Robert Barro, writing in The Wall Street Journal , recently made an intelligent argument against America’s fiscal stimulus.
+After wading through the drivel of ethics-free Republican hacks and knowledge-free academic hacks who claim, one way or another, that the basic principles of economics make it impossible for government spending decisions to alter the flow of economic activity, reading Barro comes as a great relief.
+<P>
+But I think that Barro misreads how his own evidence applies to our current situation.
+Barro writes that he “estimate[s] a spending multiplier of around 0.4 within the same year and about 0.6 over two years....
+[T]he [tax] multiplier is around minus 1.1....
+[Thus,] GDP would be higher than otherwise by $120 billion in 2009 and $180 billion in 2010...,” and by $60 billion in 2011.
+<P>
+That means that roughly 1.3 million more people will be employed in America in 2009, 1.9 million more in 2010, and 0.7 million people employed in 2011.
+Suppose that what the government spent money on is worth to us two-thirds on average of what private-sector spending is worth.
+In that case, we will have spent $600 billion and gotten $810 billion worth of stuff in return, for a net social profit of $210 billion (and those who would otherwise be cyclically unemployed cannot be said to place a high value on their lost leisure).
+<P>
+Only if you think that there are additional large costs lurking down the road – that the stimulus has destabilized price expectations and set in motion a destructive spiral of deflation, or that the stimulus has used up America’s debt capacity, driving up debt-service costs to a prohibitive level – can the social profit turn negative.
+Neither of those things has happened.
+The long-term nominal and real Treasury rates continue to be absurdly low, so much so that I rub my eyes whenever I see them.
+And the market inflation forecast – the spread between Treasury Inflation-Protected Securities and normal Treasuries – remains extremely tame.
+<P>
+So I really cannot understand Barro’s last paragraph: “The fiscal stimulus package of 2009 was a mistake.
+It follows that an additional stimulus package in 2010 would be another mistake...”
+<P>
+It is as if he has not done his own arithmetic.
+<P>
+The problem, I think, is that Barro tries to use the years of “total” war in the twentieth century – World War I, World War II, and the Korean War – to “realistically evaluate the stimulus,” because “the defense-spending multiplier can be precisely estimated....”
+<P>
+But this is like looking for one’s lost keys under the lamppost because the light is better there.
+Yes, the total war defense-spending multiplier can be relatively precisely estimated.
+But we are not interested in what the multiplier is when the unemployment rate is 3% and the government is trying to diminish consumption and boost private savings via rationing and patriotism-based bond drives.
+We are interested in what the multiplier is under more normal conditions, and when the unemployment rate is 10%.
+<P>
+I think Bob Hall has a better read on what is going on: "With allowance for other factors holding back GDP growth during those wars, the multiplier linking government purchases to GDP may be in the range of 0.7 to 1.0... but higher values are not ruled out....
+Multipliers are higher – perhaps around 1.7 – when the nominal interest rate is at its lower bound of zero, as it was during 2009...” (and is today).
+<P>
+There are other problems with Barro’s analysis.
+He characterizes the stimulus bill as a two-year $600 billion increase in government purchases.
+But about half of the stimulus money spent to date is on the tax and transfer side, and about a quarter is direct aid to states, which enables them not to raise taxes.
+Barro should be using a weighted average of his spending multiplier of 0.6 and his tax multiplier of 1.1 to get a multiplier of 0.9.
+<P>
+In that case, our social profit is not $210 billion but rather $390 billion, and we should certainly do this again.
+Indeed, we should do it repeatedly, until there are signs that additional stimulus may start to threaten price or debt-management stability, or until unemployment falls far enough to make Barro’s multipliers overestimates.
+<P>
+Moreover, Barro complains that because Christina Romer, who heads President Barack Obama’s Council of Economic Advisers, has “not [carried out] serious scientific research... on spending multipliers...,” he “cannot understand her rationale for assuming values well above one...”
+To say that policymakers should rely only on their own personal research to formulate policy seems to me simply bizarre.
+<P>
+Finally, Barro assumes that higher spending in 2009-2010 will have to be offset by higher taxes later, claiming that “the timing of future taxes does not matter.”
+But it matters very much.
+At the moment, the United States Treasury can borrow at a real interest rate of zero for five years – and shove the entire five-year inflation risk onto the lender.
+Time preference means that the $600 billion addition to the debt today, which Barro sees as the cost of stimulus, is not nearly as burdensome as a demand to pay $600 billion now would be.
+<P>
+And when taxes are levied to retire the added debt induced by the stimulus, they will be levied at some time at which nominal interest rates are not stuck at zero.
+The Federal Reserve will thus be able to ease monetary policy then to offset the fiscal drag.
+So Barro is simply wrong when he claims that although the stimulus boosts employment now, amortizing the stimulus must inevitably reduce employment at some point in the future.

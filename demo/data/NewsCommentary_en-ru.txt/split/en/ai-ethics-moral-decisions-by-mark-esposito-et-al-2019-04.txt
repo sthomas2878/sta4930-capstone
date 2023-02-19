@@ -1,0 +1,60 @@
+<HEADLINE>
+Who Should Decide How Algorithms Decide?
+<P>
+CAMBRIDGE – Over the past few years, the MIT-hosted “Moral Machine” study has surveyed public preferences regarding how artificial-intelligence applications should behave in various settings.
+One conclusion from the data is that when an autonomous vehicle (AV) encounters a life-or-death scenario, how one thinks it should respond depends largely on where one is from, and what one knows about the pedestrians or passengers involved.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+For example, in an AV version of the classic “trolley problem,” some might prefer that the car strike a convicted murderer before harming others, or that it hit a senior citizen before a child.
+Still others might argue that the AV should simply roll the dice so as to avoid data-driven discrimination.
+<P>
+Generally, such quandaries are reserved for courtrooms or police investigations after the fact.
+But in the case of AVs, choices will be made in a matter of milliseconds, which is not nearly enough time to reach an informed decision.
+What matters is not what we know, but what the car knows.
+The question, then, is what information AVs should have about the people around them.
+And should firms be allowed to offer different ethical systems in pursuit of a competitive advantage?
+<P>
+Consider the following scenario: a car from China has different factory standards than a car from the US, but is shipped to and used in the US.
+This Chinese-made car and a US-made car are heading for an unavoidable collision.
+If the Chinese car’s driver has different ethical preferences than the driver of the US car, which system should prevail?
+<P>
+Beyond culturally based differences in ethical preferences, one also must consider differences in data regulations across countries.
+A Chinese-made car, for example, might have access to social-scoring data, allowing its decision-making algorithm to incorporate additional inputs that are unavailable to US carmakers.
+Richer data could lead to better, more consistent decisions, but should that advantage allow one system to overrule another?
+<P>
+Clearly, before AVs take to the road en masse, we will need to establish where responsibility for algorithmic decision-making lies, be it with municipal authorities, national governments, or multilateral institutions.
+More than that, we will need new frameworks for governing this intersection of business and the state.
+At issue is not just what AVs will do in extreme scenarios, but how businesses will interact with different cultures in developing and deploying decision-making algorithms.
+<P>
+It is easy to imagine that all AV manufacturers will simply advertise ethical systems that prize the life of the driver above all else, or that allow the user to toggle their own ethical settings.
+To prevent this “tragedy of the commons,” there will have to be frameworks for establishing communication and coordinating decisions between AVs.
+But in developing such systems across different cultural contexts, policymakers and businesses will come face to face with different cultural notions of sovereignty, privacy, and individual autonomy.
+<P>
+This poses additional challenges, because AI systems do not tolerate ambiguity.
+Designing an AI application from scratch requires deep specificity; for better or worse, these systems do only what you tell them to do.
+That means firms, governments, and other providers will need to make explicit choices when coding response protocols for varying situations.
+<P>
+Yet before that happens, policymakers will need to establish the scope of algorithmic accountability, to determine what, if any, decisions should be left to businesses or individuals.
+Those that fall within the remit of the state will have to be debated.
+And given that such ethical and moral questions do not have easy answers, a consensus is unlikely to emerge.
+Barring an ultimate resolution, we will need to create systems that at least facilitate communication between AVs and adjudicate algorithmic disputes and roadway incidents.
+<P>
+Given the need for specificity in designing decision-making algorithms, it stands to reason that an international body will be needed to set the standards according to which moral and ethical dilemmas are resolved.
+AVs, after all, are just one application of algorithmic decision-making.
+Looking ahead, standards of algorithmic accountability will have to be managed across many domains.
+<P>
+Ultimately, the first question we must decide is whether firms have a right to design alternative ethical frameworks for algorithmic decision-making.
+We would argue that they do not.
+<P>
+In an age of AI, some components of global value chains will end up being automated as a matter of course, at which point they will no longer be regarded as areas for firms to pursue a competitive edge.
+The process for determining and adjudicating algorithmic accountability should be one such area.
+One way or another, decisions will be made.
+It is better that they be settled uniformly, and as democratically as possible.

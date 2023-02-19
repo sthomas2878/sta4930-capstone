@@ -1,0 +1,62 @@
+<HEADLINE>
+Does Inattention Explain Today’s Low Inflation?
+<P>
+TOKYO – The world has lost a great warrior for price stability.
+Paul Volcker led a determined campaign to restrain double-digit inflation as the US Federal Reserve’s chair in the 1980s, and exerted a powerful influence over US economic policy for decades to follow.
+Just a couple of years ago, when he was nearly 90, he grilled me on the inflationary potential of Abenomics, Japanese Prime Minister Shinzo Abe’s economic-reform strategy (I was an adviser on formulating the strategy).
+But despite Volcker’s praiseworthy achievements, it is worth considering the relevance of his approach in today’s low-inflation environment.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+In 1936, when John Maynard Keynes published The General Theory of Employment, Interest, and Money, global price movements were sluggish.
+Assuming that below-zero inflation would remain relatively rigid, and basing inflation expectations on past outcomes, Keynes prescribed large-scale fiscal expenditure.
+This helped countries to escape from the deflation of the Great Depression.
+But after World War II erupted in 1939, inflation surged in many countries, including Greece, Hungary, and the Philippines.
+In the United States, inflation reached double-digit rates in 1942 and 1947.
+<P>
+When Volcker became Fed chair in August 1979, US inflation was again at double-digit levels – 11.35% – and rising.
+To rein it in, and stabilize the wider global economy, the Fed hiked interest rates, despite the backlash from some US industries.
+When he left his post in 1987, the inflation rate was below 4% (its peak since then is 5.4%, in 1990).
+<P>
+During the same period, Robert Lucas – who went on to win the economics Nobel in 1995 – managed to convince a large share of academic economists that they had been formulating expectations wrong: according to his “rational expectations model,” an economic agent’s predictions about the future, not knowledge of history, makes all the difference.
+According to this approach, monetary policy – especially predictable monetary policy – has little power to change capacity utilization or resource allocation.
+<P>
+With that, the counter-Keynesian macroeconomic revolution appeared to have succeeded.
+During the Great Moderation, which began in the mid-1980s, business-cycle fluctuations in developed countries became significantly less volatile, and resource allocation was guided by the price mechanism.
+<P>
+But the Great Moderation ended abruptly in 2008, when the subprime mortgage crisis in the US quickly fueled a global financial and economic crisis, which in turn triggered a severe eurozone debt crisis.
+A Keynesianism resurgence soon followed, with many of the world’s most influential economies embracing stimulus measures, whether fiscal (as in China) or, more commonly, monetary (as in Europe, Japan, the United Kingdom, and the US).
+<P>
+While all of the world’s major advanced-economy central banks rapidly expanded their balance sheets, Japan initially lagged behind the others.
+After all, its mortgage market was not under the same kind of stress as those in the US and the eurozone.
+But this imbalance put local industry at a competitive disadvantage, as the yen appreciated against other major currencies.
+Abenomics, launched in 2013, helped to correct this imbalance, with the Bank of Japan’s accelerating balance-sheet expansion weakening the exchange rate and easing the pressure on Japanese industry.
+<P>
+Since 2008, global inflation and expectations for future prices have broken with the pattern established in the early 1980s.
+While central banks have continued to pursue 2% inflation, the eurozone and Japan, in particular, have struggled to reach that target.
+(The US has managed to eke annual inflation of just over 2% since 2017.)
+<P>
+Unlike during Volcker’s era, prices compounded the inflationary inertia, as price formation became a strategic decision amid excess demand.
+As the CEO of a Japanese-owned international fast-food chain recently told me, he decided not to raise prices after a 2% consumption-tax hike came into effect last October, because he assumed that his competitors would do the same.
+<P>
+Why the mechanism of business cycles has changed so profoundly, or whether it is merely our interpretation of events that has changed, are difficult questions.
+But there is a concept that can help us answer them: the theory of rational or behavioral inattention.
+<P>
+As the Nobel laureate economist Christopher A. Sims observed in 2003, in the past, it was assumed that economic agents are not only rational, but also computationally unconstrained.
+But the truth is that people have limited information-processing capacity, so, as the German phenomenologist Edmund Husserl noted, our brains select information to set aside unprocessed.
+Our behavior – rational or not – is shaped not by all available information, but only by the information to which we pay attention.
+<P>
+During Volcker’s Fed tenure, people were acutely aware of the costs of double-digit inflation, so they would notice and respond – even overreact – to any development that seemed remotely likely to spur inflation.
+As today’s economic actors set their expectations, they may well be paying attention to very different kinds of developments.
+Given the powerful role of expectations in determining economic outcomes, this could be enough to alter the functioning of the business cycle.
+<P>
+Economists such as Paul Krugman and Kiminori Matsuyama argue that there are two types of macroeconomic equilibria: one where information is anchored to history, and another where it is anchored to rational expectations about the future.
+Understanding how economic actors determine which information to process or neglect could go a long way toward revealing the relative importance of history and expectations in determining equilibria, thereby helping policymakers to avoid costly imbalances.
+Volcker would surely approve of that.

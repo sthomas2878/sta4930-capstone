@@ -1,0 +1,52 @@
+<HEADLINE>
+The Fiscal Fight Against COVID-19
+<P>
+TOKYO – As the new COVID-19 coronavirus continues to spread rapidly outside China, medical professionals and policymakers around the world are fighting to contain the outbreak.
+But what role can or should governments play in this situation – or, for that matter, when natural disasters strike?
+<P>
+Project Syndicate commentators have once again shared some of their favorite books from the past year.
+From economics, history, and long-form reporting to poetry and timely re-issues of old classics, all readers should find something of interest.
+<P>
+The Chinese authorities already have loosened monetary policy in response to the outbreak, an understandable move in view of the virus’s serious effect on key economic sectors, notably manufacturing and transport.
+But monetary measures are a roundabout way of coping with real disruptions such as epidemics or natural calamities.
+Fiscal policies, on the other hand, are more likely to have a direct impact on economic challenges.
+<P>
+Alongside the efforts of medical professionals, therefore, governments should introduce various initiatives and regulations to contain the COVID-19 epidemic – such as ensuring adequate medical supplies and providing airplanes to evacuate citizens from affected areas abroad.
+<P>
+Of course, these measures entail additional spending.
+Fiscal conservatives, who believe that governments should limit the size of budget deficits wherever possible and focus on paying down public debt, typically resist immediately financing such expenditures.
+When Japanese Prime Minister Shinzo Abe’s cabinet announced a $120 billion package to help the areas worst affected by last October’s Typhoon Hagibis, for example, the plan encountered precisely this type of resistance from fiscal conservatives and the finance ministry.
+<P>
+But such objections miss the point.
+I remember an exam question in the linear-programming course I took as a student at the University of Tokyo more than a half-century ago: What is the optimal way to solve the transportation problem when a Japanese island is hit by a natural disaster such as an earthquake?
+We students thought of minimizing the cost or distance of the transport.
+But our professor, freshly returned from Harvard, said we should have focused instead on minimizing the time required to transport goods and services needed for emergency relief.
+<P>
+When natural disasters or epidemics strike, the desired goals must be achieved quickly.
+As long as the response is delayed, the economy, institutions, and everyday life in affected areas will remain paralyzed.
+Unless the damage is rapidly and properly addressed, its effects will lower the quality of life, and often prevent productive facilities from recovering.
+Both current and future generations will suffer from the destruction of social overhead capital caused by disasters and from insufficient economic recovery.
+<P>
+Enjoy unlimited access to the ideas and opinions of the world's leading thinkers, including weekly long reads, book reviews, and interviews; The Year Ahead annual print magazine; the complete PS archive; and more – All for less than $9 a month.
+<P>
+In the case of Japan, however, conventional economists and journalists seem to think in different ways.
+For example, a December 5, 2019, article in The New York Times by Motoko Rich provided a timely account of the Abe government’s stimulus package.
+But its depiction of Japan’s public debt was inaccurate, or at least misleading, both from a statistical point of view and in terms of current macroeconomic thinking.
+<P>
+For starters, when we evaluate the soundness of a firm’s financial health, we look at its (real and nominal) assets and its liabilities.
+We do not judge a business’s performance merely by its gross debt.
+But Rich’s description of Japan as having “the biggest debt load in the developed world relative to the size of its economy” referred to gross government debt, and neglected the government’s financial as well as real assets.
+<P>
+The International Monetary Fund’s October 2018 Fiscal Monitor shows that although Japan’s public wealth is slightly negative, its ratio of net debt to GDP is better than that of France and the United Kingdom, and similar to that of the United States.
+Thus, when we look at net rather than gross debt, Japan’s fiscal position is much healthier than The New York Times and other media outlets often suggest.
+Perhaps Japanese economic journalists and foreign media, including those with correspondents in Japan, are too credulous toward the finance ministry, which supposedly wants higher taxes in the future.
+<P>
+Moreover, the need to run tight government budgets is no longer the received wisdom in macroeconomic policy.
+Economists since Paul Samuelson have pointed out that, when interest rates are low and an economy has excess savings, deficit financing of government expenditure can improve the welfare of both current and future generations.
+Today, not only radical advocates of Modern Monetary Theory hold this view; so do mainstream economists and policymakers such as Olivier Blanchard and former European Central Bank President Mario Draghi.
+<P>
+That is why I also disagree with Motoshige Itoh’s article, “Economics of Anxieties,” in The Yomiuri Shimbun on February 2.
+The article seems aimed at indirectly instilling fear on the part of readers, and eventually makes the groundless claim that the fiscal deficit is currently the biggest source of uncertainty in Japan.
+<P>
+With Typhoon Hagibis and now COVID-19, Japan has been confronted with two emergencies in the space of a few months.
+The government – like others elsewhere – must now act quickly and decisively, and not let conservatives’ fiscal phantasms distract it from its task.

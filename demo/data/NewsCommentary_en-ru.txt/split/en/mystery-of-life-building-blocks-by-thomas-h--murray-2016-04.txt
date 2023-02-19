@@ -1,0 +1,63 @@
+<HEADLINE>
+The Continuing Mystery of Life’s Building Blocks
+<P>
+GARRISON, NEW YORK – Imagine for a moment that you have come across a trove of marvelous devices left by an ancient civilization.
+These mysterious instruments vary widely in size and complexity, but they all share a few wondrous capabilities.
+<P>
+If you want to understand how they work, it makes sense to start with the simplest and smallest device, then systematically carve off pieces until it stops working.
+Eventually, everything that is inessential will be gone, and you will be left with only the components necessary for it to perform its basic functions.
+And then, once you figure out what each of those pieces does, you will have your answer.
+<P>
+This is roughly the journey of discovery that the American biotechnologist J. Craig Venter and his colleagues have been taking for the past two decades – only their marvelous devices are not archeological remains, but living organisms.
+And the pieces they are trying to understand are the genes that we share with all other forms of autonomous, reproductive life.
+<P>
+In a recent paper in the journal Science, Venter and his colleagues announced that they had created the smallest living and reproducing organism.
+Their creation – called JCVI-syn3.0 – is a simple cell, with only the genes that are essential for life; it has a smaller genome than any autonomously replicating organism found in nature, larger only than those found in viruses and other entities that rely on hosts for essential functions.
+<P>
+Venter and his team created their organism through a process of trial and error.
+They began by using their knowledge of biology to deduce the minimum set of genes that would be required for life.
+That approach failed.
+<P>
+So, instead, they took an existing organism and began to whittle it down.
+They started with the genome of Mycoplasma mycoides, a parasitic bacteria that infects cattle and goats, and also a close relative of Mycoplasma genitalium, which has the fewest genes – just 525 – known among free-living bacteria.
+<P>
+The team broke the M.mycoides genome into eight fragments and began deleting genes one by one.
+If the reconstructed organism failed to thrive, the gene was left in.
+If it did not appear to matter, it stayed out.
+In the end, 473 genes were required for the organism to thrive.
+(Humans, by comparison, have roughly 20,000 genes.)
+<P>
+The most important result of the Venter team’s work was to reveal how little we know about the basic biology of life.
+Most of the 473 genes take care of housekeeping: They make proteins, keep DNA in good repair, and are responsible for the cell’s membrane and cytoplasm.
+But there are 149 genes whose function is unknown.
+In other words, the purpose of nearly one-third of the genes needed to keep the organism alive, well, and reproducing remains a mystery.
+<P>
+Of the 149 genes with unknown functions, 70 have a structure that at least hints at their role in the cell.
+But we know nothing about the other 79, except that in these organisms, in this environment, life is impossible without them.
+Moreover, as Venter and his colleagues acknowledge, if the team began with a different microbe, or grew it in a different environment, the set of necessary genes would be different.
+So their genome is a minimal genome, not the minimal genome.
+<P>
+All of this implies many exciting discoveries ahead.
+And yet, when it comes to practical, commercial objectives, the news is considerably more sobering.
+<P>
+One of the primary goals of synthetic biology has been to create a platform, or chassis, to use as a foundation for building organisms designed for specific tasks.
+Just as Volkswagen uses its A5 platform to build 19 different vehicles, from luxury Audi A3s to small SUVs and budget models, a biological chassis would be a minimal microbial platform onto which could be bolted genetic instructions to make drugs, biofuels, cosmetics, or whatever one desires.
+<P>
+With the publication of the Science paper, two challenges become evident.
+The first is that biology is complicated.
+As Venter’s work shows, we do not yet have a sufficient grasp of the essentials of basic biology to design and build a cell.
+Genes do not function like fenders or brakes; they cannot be mounted on a chassis to perform a function independently of other components.
+Genes interact – amplifying, dampening, or even silencing one another.
+And those effects, in turn, influence still other genes.
+<P>
+Genomes, it turns out, function less like machines than like ecosystems with multitudinous relationships and complex feedback loops.
+Adding genomic parts to a synthetic organism in order to achieve a predictable result may be far more difficult than proponents of the chassis model have assumed.
+<P>
+The second challenge regards the competition.
+When Venter and his team began their effort, genetic engineers had tools that were powerful but, by modern standards, crude.
+In recent years, scientists have found ways to edit genes with far greater precision.
+The most prominent, known as CRISPR Cas9, cuts DNA with remarkable (though not perfect) accuracy.
+As a result, gene editing has emerged as an alternative strategy to the chassis model for tailoring microbes to make useful products.
+<P>
+It is impossible to know whether synthetic organisms like Venter’s JCVI-syn 3.0 or gene-editing techniques will prove to be commercially dominant in biotechnology – or indeed whether some other method will supplant both.
+We can be confident, however, that our knowledge of basic biology will deepen, and that our growing ability to manipulate living organisms will confront us with increasingly serious ethical considerations.

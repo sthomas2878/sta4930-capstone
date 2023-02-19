@@ -1,0 +1,54 @@
+<HEADLINE>
+China Confronts the Mundell-Fleming Trilemma
+<P>
+BEIJING – After years of intervening to manage the renminbi’s exchange rate, China’s central bank, the People’s Bank of China (PBOC), is under pressure to float the currency.
+But striking the right balance between loosening its grip on the exchange rate and maintaining monetary stability will not be easy.
+<P>
+All economics students learn the Mundell-Fleming model, according to which an economy cannot maintain a fixed exchange rate, free capital movement, and an independent monetary policy simultaneously.
+If a country with a fixed exchange rate and an open capital account tightens monetary policy, in order to contain inflation, the rise in domestic interest rates will give market participants an incentive to borrow foreign currencies and convert them into the domestic currency for investment in domestic assets.
+<P>
+The resulting capital inflows, if persistent, would generate upward pressure on the currency, forcing the central bank, in a bid to maintain exchange-rate stability, to intervene by selling domestic currency, especially for US dollars, until interest rates and the money supply have returned to their original levels.
+<P>
+But China has never been one to adhere to established models.
+The country has run a current-account surplus every year since 1993.
+Because the renminbi was appreciating very slowly, expectations in foreign-exchange markets were persistent.
+But, given China’s porous capital controls, short-term capital, aimed at exchange-rate arbitrage, continued to flow into the country.
+<P>
+If China had allowed the renminbi to appreciate, its external surplus would have disappeared.
+But, fearing the impact a stronger currency would have on trade, the PBOC has spent more than a decade working actively to impede appreciation, by exchanging renminbi for dollars.
+<P>
+According to the textbook version of theMundell-Fleming model, the PBOC’s approach should have caused it to lose control of the money supply and the interest rate, resulting in runaway inflation.
+Yet China’s inflation rate remained moderate.
+Overall, the PBOC succeeded in maintaining an independent monetary policy, while preserving exchange-rate stability and partial capital-account openness.
+<P>
+China’s experience indicates that what the Mundell-Fleming model presents as a stark choice is actually more like a spectrum.
+A country can maintain control over its exchange rate, relatively free capital movement, and effective monetary policy simultaneously, but only to a certain extent.
+<P>
+The reason for this is that the Mundell-Fleming model fails to consider the role of sterilization policy.
+When a country with a leaky capital-control regime is running an international balance-of-payments surplus, maintaining a fixed exchange rate requires continuous expansion of the money supply.
+But sterilization policy can be used to mop up the excess liquidity created by intervention on the foreign-exchange market.
+And for more than a decade, China has been doing precisely that.
+<P>
+A key component of China’s sterilization policy has been the sale of central bank bills.
+Normally, a country will sell government bonds to the public to soak up excess liquidity.
+But the PBOC had sold all of its government bonds by 2003.
+So it sold its own securities to the public instead.
+<P>
+A less noticed, but perhaps more important, sterilization tool used by the PBOC was to increase reserve requirements.
+In 2010-2011, the PBOC increased the reserve requirement ratio (the percentage of deposits banks must hold at the PBOC) 11 times – from 16% to 21% – in order to curb inflation and prevent overheating.
+<P>
+But China’s sterilization policy carried high costs.
+Among the most obvious was the heavy burden placed on the Chinese economy from the accumulation of huge volumes of foreign-exchange reserves, which peaked at nearly $4 trillion in June 2014.
+<P>
+Moreover, while many Chinese economists view the absence of high inflation as evidence that China’s sterilization policies have mopped up all of the excess liquidity, major asset bubbles, including for urban housing, suggest otherwise.
+According to the Ministry of Housing and Construction, from 2004 to 2014, housing prices in a sampling of Chinese cities increased by 150%.
+Given this, China may still face a reckoning with insufficient sterilization.
+<P>
+It should be noted that China has been able to circumvent the Mundell-Fleming model only when the renminbi is subject to upward pressure.
+From 2015 to 2017, when the renminbi faced accelerating depreciation, the PBOC intervened to prevent a plunge – an effort that depleted China’s foreign-exchange reserves by a massive $1 trillion.
+That intervention – the largest that any central bank has ever undertaken – left the PBOC with little choice but to tighten capital controls substantially.
+<P>
+If China has to choose, an open capital account and effective monetary policy are more important than a fixed exchange rate – a reality that will become even more pronounced as time passes.
+The good news is that, for the last year or so, the PBOC has stopped intervening daily in the foreign-exchange market.
+Whatever challenges China faces, the PBOC must not lose its nerve.
+For the sake of China’s continued economic stability and progress, it needs to convince markets that it is committed to a floating exchange-rate regime.

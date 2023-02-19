@@ -1,0 +1,69 @@
+<HEADLINE>
+Europe’s 5G Wake-Up Call
+<P>
+BRUSSELS – How times change.
+Not so long ago, the next big thing in telecommunications was 4G mobile networks, which promised massive data transfers and cheap voice calls.
+Now comes 5G, which will potentially spur all sorts of new digital innovations, thanks to its greater speed (200 times faster than 4G), faster data transfers from wireless broadband networks, and, most important, the ability to connect cyber-physical objects in the context of the Internet of things.
+Moreover, 5G is expected to enable the much more rapid reaction times required for driverless cars, advanced factory automation, smart cities, e-health, and many other applications.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+But there is another key difference.
+Whereas the battle over 4G was essentially commercial, focusing on job creation and profits, the ongoing 5G debate is about geopolitics, technological leadership, and national security.
+Here, Europe must develop a much stronger common approach to the new 5G technology to make itself less vulnerable to security risks.
+<P>
+Most of the current 5G controversy centers on whether US and European mobile operators should buy equipment from the Chinese telecoms giant Huawei.
+The US government previously banned the firm from its telecoms market because of espionage concerns (although it has yet to produce evidence of this publicly), and strongly urged its European allies to do the same.
+<P>
+Both the US and European positions toward Huawei seem to be at odds with their commercial interests.
+By banning the Chinese company, US President Donald Trump is favoring existing European (and South Korean) equipment suppliers, even as he complains about America’s trade deficit with Europe.
+(More recently, Trump has indicated a possible softening of his stance toward Huawei.)
+<P>
+Although European governments have differing views, most do not want to exclude Huawei.
+Each national government regards lower equipment prices for its national telecoms operator as more important than supporting European champions in 5G technology (such as Nokia and Ericsson).
+<P>
+In any case, US and European security concerns should extend well beyond Huawei and the Chinese government.
+The new 5G networks present a unique security challenge, because their main functions depend on software, not hardware.
+This makes 5G much faster than legacy wireless networks, but also leaves it vulnerable to potentially malicious attacks.
+<P>
+Today’s information-technology systems are highly complex: current smartphone chips have more than eight billion transistors, and operating systems have more than 50 million lines of code.
+Moreover, many of these systems contain components supplied by hardware and software vendors from around the world.
+In practice, this creates multiple possible entry points for malicious attacks and data leaks, using “backdoors” that can be exploited to gain control of a device.
+And if backdoors cannot be detected and monitored, then entire 5G networks are potentially vulnerable, too.
+<P>
+The key national-security risk, then, is that a vendor for all or part of a 5G network (or its national government) could vacuum up all the traffic passing through, or even disrupt the operation of the entire network with a digital kill switch.
+Extensive security reviews of Huawei equipment have failed to uncover any such backdoors.
+That is not surprising: Huawei (or any other company) would be out of business if it were caught doing this even once.
+But it is also logically impossible to prove the absence of malicious code.
+<P>
+Although Europe has its own suppliers of 5G equipment and could simply shut Chinese vendors like Huawei out of the market, such a move is unnecessary.
+In many European countries, Huawei provides just one part of the mobile network.
+Moreover, having multiple vendors provides some protection against a kill-switch risk to the entire system.
+<P>
+Diversity also constitutes a liability, because each European Union member state performs its own, often quite different, security check on Huawei equipment, with many of them having only limited resources and experience to do so.
+The security of the future 5G networks could be much better ensured if an EU agency carried out a common check on all equipment suppliers.
+<P>
+More generally, Europe’s potential 5G vulnerability stems mainly from the desire of each member state to keep its own mobile network under national control.
+For example, the allocation of 5G frequencies has been conducted entirely at the national level, according to widely different rules and conditions.
+This of course makes the emergence of “European champions” in the telecoms industry less likely.
+<P>
+In addition, the defense of (national) networks against cyberattacks is also managed at the national level.
+The EU Agency for Cybersecurity (ENISA), which still has fewer than 200 staff even after a recent budget increase, plays only a weak coordinating role.
+<P>
+Yet telecommunications networks within the EU are highly integrated across national borders.
+Future cyberattacks may well target more than one member state, and a blackout in one country would severely affect others.
+Europe thus urgently needs a powerful, integrated cybersecurity agency.
+Over the longer term, the entire regulatory framework for telecommunications networks, including spectrum auctions, should be centralized at the EU level.
+This would finally create the “single digital market” that has so far eluded Europe.
+<P>
+European leaders would be wrong to regard a Chinese supplier of 5G network equipment as the biggest threat to the continent’s cybersecurity and to its ability to develop telecoms champions.
+Europe’s real vulnerabilities are its still-fragmented telecoms market and its lack of a common cyber-defense system.
+The looming introduction of 5G should be a wake-up call to policymakers across the continent.
+One can only hope they heed it.

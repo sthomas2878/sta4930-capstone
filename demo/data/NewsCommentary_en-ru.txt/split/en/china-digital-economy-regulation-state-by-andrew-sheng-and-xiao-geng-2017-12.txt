@@ -1,0 +1,58 @@
+<HEADLINE>
+The Challenges Confronting China’s Digital Economy
+<P>
+HONG KONG – China’s digital economy is a force to be reckoned with.
+The country now accounts for 42% of global e-commerce, boasts one-third of the world’s most successful tech startups, and conducts 11 times more mobile payments than the United States per year.
+But there are major challenges ahead.
+<P>
+To be sure, China is on track for continued progress, thanks to its rich ecosystem of innovators, a tech-friendly attitude among regulators and government, and its massive consumer market.
+China’s 731 million Internet users outnumber those in the European Union and the US combined.
+<P>
+These factors underpin projections of rapid growth in China’s FinTech market.
+From 2016 to 2020, Goldman Sachs expects consumption-related third-party payment value to grow from $1.9 trillion to $4.6 trillion, with lending by non-traditional players soaring from $156 billion to $764 billion and new online-oriented asset management increasing from $8.3 trillion to $11.9 trillion.
+<P>
+Moreover, China is accelerating investment in artificial intelligence.
+In its report Artificial Intelligence: Implications for China, McKinsey estimates that AI technology in China could add 0.8 to 1.4 percentage points to China’s annual GDP growth, depending on the speed of adoption.
+Early this month, Google AI China was launched in Beijing by the company’s Chinese-born chief scientist for cloud computing, Fei-Fei Li.
+<P>
+Yet China still has a long way to go.
+As another recent McKinsey study, Digital China: Powering the Economy to Global Competitiveness, points out, the US remains 4.9 times more digitized than China.
+And, within China, there are large variations in various sectors’ level of digitization.
+<P>
+China will confront serious risks as it closes these gaps.
+As McKinsey notes, digitization promises to shift and create value equivalent to anywhere from 10% to 45% of total industry revenues in four key sectors (consumer and retail, automotive and mobility, health care, and freight and logistics) by 2030.
+This implies significant disruptions to value chains and uncertainty about jobs, consumption, and the socio-political context.
+<P>
+If China is to ensure the continued development of its digital economy, while containing the risks associated with disruption, its leaders will need to implement smart regulations.
+And that will require careful consideration of the factors that have contributed to – and impeded – its progress so far.
+<P>
+As recently as a decade ago, few expected China’s remarkable digital breakthrough.
+In fact, both of the country’s key Internet pioneers, Jack Ma of Alibaba and Pony Ma of Tencent, experienced early failures.
+But thanks to the Chinese leadership’s willingness to experiment, allowing access to foreign capital and technology, these pioneers were able to pursue initial public offerings elsewhere – Tencent in Hong Kong and Alibaba in New York.
+<P>
+As they took advantage of emerging digital technology – not to mention China’s high-quality public infrastructure – to leverage and build services, these pioneers spearheaded rapid progress in China’s digital economy.
+Alibaba’s e-commerce platform expanded market access and reduced transaction costs, crowding out traditional middleman who undermined productivity.
+Tencent’s WeChat reduced the costs of communication, interaction, coordination, and socialization among individuals, stimulating innovation across industries.
+Both broke down barriers among manufacturing, distribution, media, and finance, thereby achieving scale, expanding scope, and increasing speed.
+<P>
+These achievements – which produced major productivity, income, and wealth gains – are a testament to private-sector ingenuity.
+But they were facilitated by the state, which pursued a policy of flexible non-enforcement of functional rules and regulations that enabled not only the expansion of private markets in China, but also the integration of those markets into the global economy.
+<P>
+Yet market-based innovations are intrinsically unpredictable, and expectations regarding innovations often overshoot.
+In the case of China’s digital economy, imperfect and lagging regulations and enforcement exacerbated the effects of imbalances in the business environment, which enabled the emergence of severe vulnerabilities, from financial and debt risk to pollution and inequality.
+<P>
+Under China’s current system, it is up to the government to deal with these problems.
+And, over the last five years, it has attempted to do just that, often using old, imperfect, but already-available administrative tools.
+Over the last year alone, China’s authorities have steadily tightened regulations governing the crypto-currency Bitcoin, B2C financing platforms, shadow banking, cross-border capital flows, and debt and securities markets.
+<P>
+But such changes do not address the underlying weaknesses that allow risk to proliferate.
+For that, China must build more effective institutions to deal with business failures, absorb losses, and manage risks and uncertainty.
+In particular, China needs improved bankruptcy procedures, multilevel capital markets, an effective social-security system, reliable public housing, and a progressive tax regime that aims to reduce inequality.
+At the same time, to counter market abuses, China should introduce more robust competition laws, anti-corruption mechanisms, and stronger environmental regulations.
+<P>
+The digital economy is naturally pro-market, pro-productivity, and pro-globalization.
+Yet, without effective management, it can generate significant economic imbalances that foster political and social instability.
+This is all the more true at a time of large-scale disruptions, owing to rapid technological progress, demographic shifts, and climate change.
+<P>
+The only way to harness the digital economy’s potential while avoiding downside risks is to build fair and inclusive social institutions that protect property rights and ensure efficient markets.
+In other words, it all comes down to delineating clearly, appropriately, and effectively the roles of the state and the market.

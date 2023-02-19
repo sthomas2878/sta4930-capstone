@@ -1,0 +1,46 @@
+<HEADLINE>
+Diagnostics for Global Health
+<P>
+CORVALLIS, OREGON – In developed countries, most people take for granted that when they are sick, they will have access to timely diagnosis and treatment.
+Indeed, while the diagnostic process – which typically involves sending a sample of blood, urine, or tissue to a laboratory for analysis – may be cumbersome and expensive, health-care providers and sophisticated laboratories remain widely available.
+As a result, the disease burden in the developed world has declined substantially.
+<P>
+By contrast, in the developing world, millions of people die each year from treatable diseases like malaria, owing to the lack of sophisticated laboratories and alternative diagnostic tests.
+But there is reason for hope: Advances in the field of microfluidics have the potential to transform health care by allowing “gold standard” laboratory-based testing to be transferred to the point of care (POC).
+<P>
+A POC test that provides an accurate and timely result would provide diagnostic access to underserved populations, enabling earlier treatment and helping to avoid mistreatment (treating another disease with similar symptoms).
+In order to meet their potential, however, POC tests must account for the wide range of factors affecting health-care applications.
+<P>
+First, a POC test must meet the particular environmental and operating constraints of where it will be used.
+These may include an unreliable power supply, harsh or unpredictable environmental conditions, limited contact time between the health-care provider and patient, lack of user training, severe price constraints, and inadequate local infrastructure, which can impede the maintenance and repair of relevant instruments.
+<P>
+Indeed, POC settings can vary from a semi-trained health-care provider working in a clinic with electricity and access to refrigeration to an untrained individual in an environment with no mechanism for controlling temperature or humidity.
+In order to ensure the broadest coverage possible, POC tests should be designed to work in the settings with the fewest resources.
+<P>
+Likewise, POC tests must account for different tests’ requirements for clinical utility.
+While diagnosing malaria requires only a positive or negative result, an HIV viral-load test would need to provide a graded output indicating the amount of virus detected.
+<P>
+One of the most successful POC test formats is that of the well-known pregnancy test, which requires only the user’s urine and takes roughly 15 minutes to deliver the result.
+This class of “rapid diagnostic tests” (RDTs), which are also used for infectious diseases like malaria and HIV, satisfy many of the key requirements for global health applications: they are fast and inexpensive, can be conducted easily by an untrained user, and do not require refrigeration.
+But they lack the sensitivity to provide adequate diagnostic information for many health conditions.
+<P>
+Given this, researchers are working to develop more sophisticated paper-based tests.
+For example, a new class of device, about the size of a postage stamp, that splits a sample into multiple zones with different detection chemistries has been used to test multiple conditions associated with liver failure in HIV and tuberculosis patients.
+And “paper network” devices include built-in timing mechanisms to enable automated multi-step tests like those used in laboratories, but in a disposable format.
+<P>
+Another mechanism for expanding the capabilities of diagnostic testing would take advantage of the penetration of mobile-phone networks in developing countries.
+RDTs are largely limited to applications that require visual interpretation.
+A non-dedicated mobile phone could be used to capture and send image data from an RDT to a remote site, where a health-care provider would provide feedback on the results.
+<P>
+But implementing such a program raises a new set of challenges.
+In order to ensure accurate test results, the variability of camera positioning by the user and lighting conditions in different test environments must be addressed.
+(One promising approach under development would use an adapter to connect the non-dedicated mobile phone to the RDT.)
+<P>
+Moreover, a phone-based test would require software infrastructure, such as communication protocols and prioritization procedures, to coalesce with the health-care system.
+And the compatibility issues raised by the wide variety of mobile-phone handsets would need to be addressed.
+<P>
+Finally, the successful deployment of non-dedicated phone-based testing would require acceptance from the medical establishment.
+The US Food and Drug Administration’s recent approval of several medical devices supported by dedicated phone-based readers is a promising step.
+<P>
+Effective POC tests are being developed; the proliferation of mobile phones will further augment the capabilities of these tests.
+These emergent capabilities promise to extend the reach of high-quality diagnostics to remote populations, improve health management, and reduce health-care costs everywhere.

@@ -1,0 +1,61 @@
+<HEADLINE>
+How to Create a Depression
+<P>
+CAMBRIDGE – European political leaders may be about to agree to a fiscal plan which, if implemented, could push Europe into a major depression.
+To understand why, it is useful to compare how European countries responded to downturns in demand before and after they adopted the euro.
+<P>
+Consider how France, for example, would have responded in the 1990’s to a substantial decline in demand for its exports.
+If there had been no government response, production and employment would have fallen.
+To prevent this, the Banque de France would have lowered interest rates.
+In addition, the fall in incomes would have automatically reduced tax revenue and increased various transfer payments.
+The government might have supplemented these “automatic stabilizers” with new spending or by lowering tax rates, further increasing the fiscal deficit.
+<P>
+In addition, the fall in export demand would have automatically caused the franc’s value to decline relative to other currencies, with lower interest rates producing a further decline.
+This combination of monetary, fiscal, and exchange-rate changes would have stimulated production and employment, preventing a significant rise in unemployment.
+<P>
+But when France adopted the euro, two of these channels of response were closed off.
+The franc could no longer decline relative to other eurozone currencies.
+The interest rate in France – and in all other eurozone countries – is now determined by the European Central Bank, based on demand conditions within the monetary union as a whole.
+So the only countercyclical policy available to France is fiscal: lower tax revenue and higher spending.
+<P>
+While that response implies a higher budget deficit, automatic fiscal stabilizers are particularly important now that the eurozone countries cannot use monetary policy to stabilize demand.
+Their lack of monetary tools, together with the absence of exchange-rate adjustment, might also justify some discretionary cyclical tax cuts and spending increases.
+<P>
+Unfortunately, several eurozone countries allowed fiscal deficits to grow in good times, rather than only when demand was weak.
+In other words, these countries’ national debt grew because of “structural” as well as “cyclical” budget deficits.
+<P>
+Structural budget deficits were facilitated over the past decade by eurozone interest rates’ surprising lack of responsiveness to national differences in fiscal policy and debt levels.
+Because financial markets failed to recognize distinctions in risk among eurozone countries, interest rates on sovereign bonds did not reflect excessive borrowing.
+The single currency also meant that the exchange rate could not signal differences in fiscal profligacy.
+<P>
+Greece’s confession in 2010 that it had significantly understated its fiscal deficit was a wake-up call to the financial markets, causing interest rates on sovereign debt to rise substantially in several eurozone countries.
+<P>
+The European Union’s summit in Brussels in early December was intended to prevent such debt accumulation in the future.
+The heads of member states’ governments agreed in principle to limit future fiscal deficits by seeking constitutional changes in their countries that would ensure balanced budgets.
+Specifically, they agreed to cap annual “structural” budget deficits at 0.5% of GDP, with penalties imposed on countries whose total fiscal deficits exceeded 3% of GDP – a limit that would include both structural and cyclical deficits, thus effectively limiting cyclical deficits to 3% of GDP.
+<P>
+Negotiators are now working out the details ahead of another meeting of EU government leaders at the end of January, which is supposed to produce specific language and rules for member states to adopt.
+An important part of the deficit agreement in December is that member states may run cyclical deficits that exceed 0.5% of GDP – an important tool for offsetting declines in demand.
+And it is unclear whether the penalties for total deficits that exceed 3% of GDP would be painful enough for countries to sacrifice greater countercyclical fiscal stimulus.
+<P>
+The most frightening recent development is a formal complaint by the European Central Bank that the proposed rules are not tough enough.
+Jorg Asmussen, a key member of the ECB’s executive board, wrote to the negotiators that countries should be allowed to exceed the 0.5%-of-GDP limit for deficitsonly in times of “natural catastrophes and serious emergency situations” outside the control of governments.
+<P>
+If this language were adopted, it would eliminate automatic cyclical fiscal adjustments, which could easily lead to a downward spiral of demand and a serious depression.
+If, for example, conditions in the rest of the world caused a decline in demand for French exports, output and employment in France would fall.
+That would reduce tax revenue and increase transfer payments, easily pushing the fiscal deficit over 0.5% of GDP.
+<P>
+If France must remove that cyclical deficit, it would have to raise taxes and cut spending.
+That would reduce demand even more, causing a further fall in revenue and a further increase in transfers – and thus a bigger fiscal deficit and calls for further fiscal tightening.
+It is not clear what would end this downward spiral of fiscal tightening and falling activity.
+<P>
+If implemented, this proposal could produce very high unemployment rates and no route to recovery – in short, a depression.
+In practice, the policy might be violated, just as the old Stability and Growth Pact was abandoned when France and Germany defied its rules and faced no penalties.
+<P>
+It would be much smarter to focus on the difference between cyclical and structural deficits, and to allow deficits that result from automatic stabilizers.
+The ECB should be the arbiter of that distinction, publishing estimates of cyclical and structural deficits.
+That analysis should also recognize the distinction between real (inflation-adjusted) deficits and the nominal deficit increase that would result if higher inflation caused sovereign borrowing costs to rise.
+<P>
+Italy, Spain, and France all have deficits that exceed 3% of GDP.
+But these are not structural deficits, and financial markets would be better informed and reassured if the ECB indicated the size of the real structural deficits and showed that they are now declining.
+For investors, that is the essential feature of fiscal solvency.

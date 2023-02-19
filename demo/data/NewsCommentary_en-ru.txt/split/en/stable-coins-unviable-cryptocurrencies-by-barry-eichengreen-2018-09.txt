@@ -1,0 +1,61 @@
+<HEADLINE>
+The Stable-Coin Myth
+<P>
+BERKELEY – While the mania for cryptocurrencies may have peaked, new units continue to be announced, seemingly by the day.
+Prominent among the new arrivals are so-called “stable coins.”
+Bearing names like Tether, Basis, and Sagacoin, their value is rigidly tied to the dollar, the euro, or a basket of national currencies.
+<P>
+It’s easy to see the appeal of these units.
+Viable monies provide a reliable means of payment, unit of account, and store of value.
+But conventional cryptocurrencies, such as Bitcoin, trade at wildly fluctuating prices, which means that their purchasing power – their command over goods and services – is highly unstable.
+Hence they are unattractive as units of account.
+<P>
+No grocer in his right mind would price the goods on his shelves in Bitcoin.
+No worker would want a long-term employment contract that paid her a fixed number of those units.
+<P>
+Furthermore, because their ability to command goods and services in the future similarly fluctuates wildly, cryptocurrencies like Bitcoin are unattractive as a store of value.
+(Cryptocurrencies are also challenged as a means of payment, but leave that aside for the moment.)
+<P>
+Stable coins purport to solve these problems.
+Because their value is stable in terms of dollars or their equivalent, they are attractive as units of account and stores of value.
+They are not mere vehicles for financial speculation.
+<P>
+But this doesn’t mean that they are viable.
+To understand why, it is useful to distinguish three types of stable coin.
+<P>
+The first type is fully collateralized: the operator holds reserves equaling or exceeding the value of the coins in circulation.
+Tether, which is pegged one-to-one to the dollar, claims to hold dollar deposits equal to the value of its circulation.
+But the veracity of this claim has been disputed.
+<P>
+This points to yet another problem with this model: expense.
+To issue one dollar’s worth of Tether to you or me, the platform must attract one dollar of investment capital from you or me, and place it in a dollar bank account.
+One of us then will have traded a perfectly liquid dollar, supported by the full faith and credit of the US government, for a cryptocurrency with questionable backing that is awkward to use.
+This exchange may be attractive to money launderers and tax evaders, but not to others.
+In other words, it is not obvious that the model will scale, or that governments will let it.
+<P>
+The second type of stable coin is partly collateralized.
+In this case, the platform holds dollars equal to, say 50%, of the value of the coins in circulation.
+<P>
+The problem with this variant will be familiar to any monetary policymaker whose central bank has sought to peg an exchange rate while holding reserves that are only a fraction of its liabilities.
+If some coin owners harbor doubts about the durability of the peg, they will sell their holdings.
+The platform will have to purchase them using its dollar reserves to keep their price from falling.
+But, because the stock of dollar reserves is limited, other investors will scramble to get out before the cupboard is bare.
+The result will be the equivalent of a bank run, leading to the collapse of the peg.
+<P>
+The third type of stable coin, which is uncollateralized, has this problem in spades.
+Here the platform issues not just crypto-coins but also crypto-bonds.
+If the price of the coins begins to fall, the platform buys them back, in exchange for additional bonds.
+The bonds are supposed to appeal to investors because they trade at a discount – so that, in principle, their price can rise – and because the issuer promises to pay interest to the bondholders, in the form of additional coins.
+That interest is to be funded out of the income earned from future coin issuance.
+<P>
+Here, too, the flaw in the model will be obvious to even a novice central banker.
+The issuer’s ability to service the bonds depends on the growth of the platform, which is not guaranteed.
+If the outcome becomes less certain, the price of the bonds will fall.
+More bonds will then have to be issued to prevent a given fall in the value of the coin, making it even harder to meet interest obligations.
+<P>
+Under plausible circumstances, there may be no price, however low, that attracts willing buyers of additional bonds.
+Again, the result will be collapse of the peg.
+<P>
+All of this will be familiar to anyone who has encountered even a single study of speculative attacks on pegged exchange rates, or to anyone who has had a coffee with an emerging-market central banker.
+But this doesn’t mean that it is familiar to the wet-behind-the-ears software engineers touting stable coins.
+And it doesn’t mean that the flaws in their currently fashionable schemes will be familiar to investors.

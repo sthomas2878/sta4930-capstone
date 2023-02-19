@@ -1,0 +1,66 @@
+<HEADLINE>
+QE Turns Ten
+<P>
+NEW HAVEN – November 2018 will mark the tenth anniversary of quantitative easing (QE) — undoubtedly the boldest policy experiment in the modern history of central banking.
+The only thing comparable to QE was the US Federal Reserve’s anti-inflation campaign of 1979-1980, orchestrated by the Fed’s then-chair, Paul Volcker.
+But that earlier effort entailed a major adjustment in interest rates via conventional monetary policy.
+By contrast, the Fed’s QE balance-sheet adjustments were unconventional and, therefore, untested from the start.
+<P>
+The American Enterprise Institute recently held a symposium to mark this important milestone, featuring QE’s architect, Ben Bernanke.
+What follows are some comments I offered in an accompanying panel session that focused on lessons learned from QE.
+<P>
+The most important lesson pertains to traction — the link between Fed policy and its congressionally mandated objectives of maximum employment and price stability.
+On this count, the verdict on QE is mixed: The first tranche (QE1) was very successful in arresting a wrenching financial crisis in 2009.
+But the subsequent rounds (QE2 and QE3) were far less effective.
+The Fed mistakenly believed that what worked during the crisis would work equally well afterwards.
+<P>
+An unprecedentedly weak economic recovery – roughly 2% annual growth over the past nine-plus years, versus a 4% norm in earlier cycles – says otherwise.
+Whatever the reason for the anemic recovery – a Japanese-like post-crisis balance-sheet recession or a 1930s style liquidity trap – the QE payback was disappointing.
+From November 2008 to November 2014, successive QE programs added $3.6 trillion to the Fed’s balance sheet, nearly 25% more than the $2.9 trillion expansion of nominal GDP over the same period.
+A comparable assessment of disappointing interest-rate effects is reflected in recent "event studies” research that calls into question the link between QE and ten-year Treasury yields.
+<P>
+A second lesson speaks to addiction – namely, a real economy that became overly reliant on QE’s support of asset markets.
+The excess liquidity spawned by the Fed’s balance-sheet expansion not only spilled over into equity markets, but also provided support for the bond market.
+As such, monetary policy, rather than market-based fundamentals, increasingly shaped asset prices.
+<P>
+In an era of weak income growth, QE-induced wealth effects from frothy asset markets provided offsetting support for crisis-battered US consumers.
+Unfortunately, along with this life support came the pain of withdrawal – not only for asset-dependent consumers and businesses in the United States, but also for foreign economies dependent on capital inflows driven by QE-distorted interest-rate spreads.
+The taper tantrum of 2013 and the current travails of Argentina, Brazil, and other emerging economies underscore the contagion of cross-market spillovers arising from the ebb and flow of QE.
+<P>
+A third lesson concerns mounting income inequality.
+Wealth effects are for the wealthy, whether they are driven by market fundamentals or QE.
+According to the Congressional Budget Office, virtually all of the growth in pre-tax household income over the QE period (2009 to 2014) occurred in the upper decile of the US income distribution, where the Fed’s own Survey of Consumer Finances indicates that the bulk of equity holdings are concentrated.
+It is hardly a stretch to conclude that QE exacerbated America’s already severe income disparities.
+<P>
+Fourth, QE blurs the distinction between fiscal and monetary policy.
+Fed purchases of government securities have tempered market-based discipline of federal spending.
+This is hardly a big deal when debt-service costs are repressed by persistently low interest rates.
+But with federal debt held by the public nearly doubling between 2008 and 2017 – from 39% to 76% of GDP – and likely to rise further in the years ahead, what is inconsequential today could take on considerably greater importance in an interest-rate environment that lacks the QE subsidy to Treasury financing.
+<P>
+A fifth lesson pertains to the distinction between tactics and strategy.
+As lender of last resort, the Fed deserves great credit for stepping into the breach during a wrenching crisis.
+The problem, of course, is that the Fed also played a key role in condoning the pre-crisis froth that took the system to the brink.
+This raises a fundamental question: Do we want a reactive central bank that focuses on cleaning up the mess after a crisis erupts, or a pro-active central bank that leans against excesses before they spark crises?
+<P>
+That question – whether to “lean or clean” – has fueled a raging debate in policy and academic circles.
+It has an important political economy component: Are independent central banks willing to force society to sacrifice growth in order to preserve financial stability?
+It also bears on the bubble-spotting debate.
+Yet as difficult as these problems are, they pale in comparison to the foregone output of America’s anemic post-crisis recovery.
+<P>
+That raises two additional questions: Might a pro-active Fed have prevented the crisis from occurring in the first place?
+And should it be more aggressive in normalizing interest rates?
+<P>
+The Fed’s preference for glacial normalization both in the early 2000s and now keeps monetary policy on emergency settings long after the emergency has passed.
+Doing so raises the distinct possibility that the Fed will lack the ammunition it will need to counter the inevitable next recession.
+And that could well make the lessons noted above all the more problematic for the US economy.
+<P>
+Unsurprisingly, Bernanke offered a very different take on many of these issues at the AEI symposium.
+He argued that the Fed’s balance-sheet tools are merely extensions of its traditional approach, stressing that “conventional and unconventional monetary policy works through the same channels, with the same mechanism.”
+<P>
+That is debatable.
+By conflating QE-induced wealth effects with the effects on borrowing costs that arise through conventional channels, Bernanke conveniently sweeps aside most of the risks described above – especially those pertaining to asset bubbles and excess leverage.
+<P>
+Ten-year anniversaries are an opportunity for reflection and accountability.
+We can only hope that circumstances don’t require another unconventional policy experiment such as QE.
+But in the event of another crisis, it would pay to be especially mindful of QE’s shortcomings.
+Unlike Bernanke, I fear there is good reason to worry that the next experiment may not work out nearly as well.

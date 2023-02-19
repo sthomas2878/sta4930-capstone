@@ -1,0 +1,40 @@
+<HEADLINE>
+Taming the Stock Option Game
+<P>
+CAMBRIDGE – Executive compensation is now a central concern of company boards and government regulators. There is an aspect to this debate, however, that deserves greater scrutiny: the freedom of executives to pick the moment when they can cash out on their equity-based incentives.
+Standard pay arrangements give executives broad discretion over when they sell shares and exercise options that have been awarded to them.
+Such discretion is both unnecessary and undesirable.
+<P>
+The freedom to time the moment they cash out enables executives to use the special knowledge they have about their companies to sell before a stock-price decline.
+Although insider-trading laws supposedly prevent executives from using “hard” material information, executives usually also have “soft” information at their fingertips which gives them an advantage over the market.
+Indeed, it is a well documented fact that executives make considerable “abnormal” profits – that is, above-market returns – when trading in their own firms’ stock.
+<P>
+A second problem with executives being free to time the sales of their stock options and shares is that such freedom provides them with an incentive to use their influence over company disclosures to rig the stock price from declining before they execute their trades.
+Empirical studies have identified a connection between the level of executive selling and earnings manipulation – both legal and illegal.
+<P>
+What should be done about this?
+For starters, executives’ payoff from stock sales should not depend on a single stock price.
+Rather, the payoff should be based on the average stock price over a significant period of time.
+<P>
+Under one possible arrangement, executives seeking to cash out shares would sell them to the company in return for a price based on the average stock price during, say, the subsequent six months.
+Alternatively, an executive wishing to unload equity could be permitted to sell the shares in the market, but only gradually, according to a pre-specified, automatic plan that would be self-executing (say, one-sixth of the number of shares the executive seeks to sell on the first trading day of each of the subsequent six months).
+<P>
+This approach would still leave executives free to select the period in which they cash out shares, though not the exact day.
+To improve the link between pay and performance further, and limit executives’ ability to weaken it by using their access to inside information and control over company disclosures, executives could be required to announce their choice of period substantially in advance.
+Alternatively, this period could be specified in advance when equity-based compensation is granted.
+<P>
+Under a pre-trading disclosure arrangement, an executive wishing to sell a given number of shares would have to announce such an intention substantially in advance, say, more than six months.
+So, to be able to sell 100,000 shares from July to December of a given year and receive the average stock price during that period, an executive might, for example, have to announce the sale before the year begins.
+<P>
+With such advance disclosure, any inside information that the executive has when making the sale decision could emerge and become incorporated into the stock price before the payoff from the sale is determined.
+Furthermore, the market price would incorporate inferences made from the executive’s notice of the planned sale.
+As a result, the average stock price during the payoff period would more accurately reflect the stock’s actual value, improving the link between pay and performance.
+<P>
+An alternative to requiring pre-trading disclosure is to adopt a “hands-off” arrangement that leaves executives no discretion over when their equity-based compensation is cashed out.
+Under such an arrangement, the restricted shares and stock options granted in any given year are cashed out in future years according to a fixed, gradual, and pre-announced schedule set at the time the restricted shares and stock options are granted.
+<P>
+The company’s board should set the schedule in a way that ensures that executives always retain the desired level of equity ownership.
+Because such a hands-off approach leaves executives no discretion over when they cash out their equity-based compensation, it provides the most effective method for preventing executives from “gaming” the market and for ensuring that they are not rewarded for their information advantage.
+<P>
+There is absolutely no reason to let executives’ payoffs be based on the happenstance of the stock price on a single day, at best, much less on their ability to use their access to inside information or control over disclosures.
+By removing that possibility, we would substantially enhance the benefits of equity-based compensation for the performance of firms – and for their shareholders.

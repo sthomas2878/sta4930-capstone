@@ -1,0 +1,60 @@
+<HEADLINE>
+Is the Global Dollar in Jeopardy?
+<P>
+WASHINGTON, DC – Since the end of World War II, the United States dollar has been at the heart of international finance and trade.
+Over the decades, and despite the many ups and downs of the global economy, the dollar retained its role as the world’s favorite reserve asset.
+When times are tough or uncertainty reigns, investors flock to dollar-denominated assets, particularly US Treasury debt – ironically, even when there is a financial crisis in the US.
+As a result, the Federal Reserve – which sets US dollar interest rates – has enormous sway over economic conditions around the world.
+<P>
+Following its targeted killing of Iran's second most powerful leader, the US could well find itself with no alternative but to devote more military resources to the Middle East, a path that could lead to additional Iranian provocations.
+And that shift would occur at a time of growing challenges to US interests elsewhere in the world.
+<P>
+The targeted killing by the United States of one of Iran's top military leaders represents a significant symbolic defeat for the Iranian regime, but it does not augur all-out war.
+After all, Iran and the US have already been at war for decades, and neither side has an interest in an uncontrolled military escalation now.
+<P>
+As in previous years, Project Syndicate asked its commentators to offer their best guesses about the events and trends that will define the coming 12 months.
+If there is one common theme in this year's selection, it is that what happens in 2020 will weigh on the present for many years to come.
+<P>
+For all the associated innovation evident since the launch of the decentralized blockchain-based currency Bitcoin in 2009, the arrival of modern cryptocurrencies has had essentially zero impact on the global taste for dollars.
+Promoters of these new forms of money still have their hopes, of course, that they can challenge the existing financial system, but the impact on global portfolios has proved minimal.
+The most powerful central banks (the Fed, the European Central Bank, and a few others) are still running the global money show.
+<P>
+Suddenly, however, there is a new, potentially serious player in town: Facebook’s Libra initiative.
+Facebook and a currently shifting coalition of firms are planning to launch their own private form of money that would, in some sense, be secured by holdings of major currencies.
+<P>
+Without question, Libra could become a widely used form of payment – partly because Facebook has over two billion monthly active users, but also because the existing financial system is full of inefficiencies.
+If private money could make it cheaper, easier, and safer to make payments, then consumers would be happy to use it.
+Few people care what is under the hood of the monetary engine; most just want crash-proof transactions.
+<P>
+The unfortunate truth is that our current payment system is expensive to run, including for sending money overseas in the form of remittances sent by workers back to their home countries.
+If Libra could allow people to send money as easily (and as cheaply!) as they post updates to Facebook, the currency would get a lot of likes.
+<P>
+We have repeatedly experienced how quickly a disruptive new digital technology can transform the economic landscape.
+Think of how fast taxis came under pressure from Uber and Lyft.
+<P>
+Bitcoin and its fellow crypto-travelers were designed to supersede financial intermediaries, such as banks.
+And, in theory, it would be possible to organize much of finance without the kind of banks and other intermediaries that currently exist.
+But as a matter of inconvenient reality, the crypto-market infrastructure that has developed can hardly be described as consumer-friendly.
+It’s too easy to lose your money or to have it stolen in myriad ways.
+<P>
+In contrast, Facebook represents a digital technology company that knows how to keep customers happy.
+Sure, people increasingly complain about its privacy policies or attitudes toward political speech, but they continue to use the service.
+There is a potentially potent combination lurking here: the rapid scale-up of digital technology, a focus on cheaper safe financial transactions, and a lack of concern for legacy systems.
+<P>
+Of course, Libra has some obvious disadvantages, including Facebook’s current reputation for not acting in the public interest.
+As a case study in public relations, it’s hard to imagine how the past year could have been worse for Libra’s prospects.
+And it is always possible for leading countries to block a private form of money by determining that it does not comply with regulations, such as anti-money laundering and Know Your Customer requirements.
+<P>
+But if Libra does not make progress, that just opens more space for some other, more careful corporate-backed entity.
+Or perhaps the challenge will come from a currency issued by a sovereign state, any of which is entitled to design and circulate its own form of money.
+<P>
+For some time now, there has been speculation that the Chinese renminbi could challenge or even one day displace the US dollar as the world’s main reserve currency.
+Perhaps, but it is not clear that we are moving closer to that day, because it is not clear that foreign investors will trust the Chinese political system with their rainy-day funds.
+<P>
+Still, the Fed is right to be concerned, if not worried.
+Growing potential competitive pressure – the Libra effect – creates an incentive to make the existing system work better, including through the new FedNow system, which will speed up payments.
+<P>
+In a recent speech, Fed Governor Lael Brainard argued that the Fed will innovate, to a moderate degree, and the dollar will be fine.
+She may be right.
+But for the first time in a long while, competition is coming to central banks.
+With a bit of luck, consumers may end up with a better deal.
