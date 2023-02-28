@@ -3,9 +3,13 @@
  
 ### Testing Datasets
 ***
+
 **WMT22-news-systems**
+
 Download Instructions: 
+
 *Download source file*
+
 - Navigate to txt/sources/.ru-en.ru
 *Download reference file*
 - Navigate to txt/references/.ru-en.ref.A.en
@@ -13,7 +17,9 @@ Download Instructions:
 - Naviagate to txt/xml/.ru-en.all.xml
 
 **News-Commentary v16**
+
 Download Instructions:
+
 *Download ru-en testing data: https://opus.nlpl.eu/News-Commentary.php*
 - Navigate to bottom of the page, and download ru-en entry in lower matrix
 	- en-ru.ru: Russian source
