@@ -8,7 +8,7 @@
 
 Download Instructions: 
 
-*Download source file*
+*Repository: https://github.com/wmt-conference/wmt22-news-systems*
 
 - Navigate to txt/sources/.ru-en.ru
 *Download reference file*
