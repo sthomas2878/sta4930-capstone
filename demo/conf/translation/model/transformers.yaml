@@ -1,0 +1,5 @@
+translation_model:
+  model_hub: huggingface
+  name: facebook/wmt19-ru-en
+  beams: 4
+

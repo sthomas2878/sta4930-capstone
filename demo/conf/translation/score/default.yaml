@@ -1,0 +1,2 @@
+translation_score: 
+    metrics: ["BLEU", "CHRF", "TER"]

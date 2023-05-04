@@ -1,0 +1,9 @@
+defaults:
+# - create_pdf: default
+# - ocr: default
+  - translation/data: other_ocr_data
+  - translation/model: transformers
+# - translation/score: default
+  - sentiment_analysis: default
+
+

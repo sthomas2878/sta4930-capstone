@@ -1,0 +1,4 @@
+translation_data:
+  name: tweets
+  path: datasets/Tweets/russTweetClean.csv
+  samples: 100

@@ -1,0 +1,4 @@
+create_pdf: 
+  name: splitRusTxt_goodDelim
+  input_path: datasets/demo/splitRusTxt_goodDelim
+  output: verbose

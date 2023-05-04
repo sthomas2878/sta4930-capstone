@@ -1,0 +1,5 @@
+translation_model:
+  model_hub: torch
+  name: transformer.wmt19.ru-en
+  ensemble: True
+  beams: 4

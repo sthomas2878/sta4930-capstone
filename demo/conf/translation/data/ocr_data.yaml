@@ -1,0 +1,6 @@
+translation_data:  
+  name: WMT22_News_Systems_OCR
+  ocr_path: datasets/demo/WMT22_News_Systems_OCR
+# source_path:
+  samples: 3
+  from_ocr: False

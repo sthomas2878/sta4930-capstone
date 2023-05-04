@@ -1,0 +1,4 @@
+ocr:
+  name: Folder name
+  input_path: datasets/demo/folder name
+  lev_dist: True
